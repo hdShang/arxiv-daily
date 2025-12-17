@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+# 不使用主题，完全使用自定义布局
 markdown: kramdown
 kramdown:
   input: GFM

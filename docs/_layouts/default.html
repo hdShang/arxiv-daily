@@ -7,6 +7,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
+<nav class="top-nav">
+  <div class="nav-container">
+    <a href="{{ '/' | relative_url }}" class="nav-brand">📚 arXiv Daily</a>
+    <div class="nav-links">
+      <a href="{{ '/' | relative_url }}#cs-RO" class="nav-link">🤖 cs.RO</a>
+      <a href="{{ '/' | relative_url }}#cs-CV" class="nav-link">👁️ cs.CV</a>
+      <a href="{{ '/' | relative_url }}#cs-GR" class="nav-link">🎨 cs.GR</a>
+    </div>
+  </div>
+</nav>
 <main class="container">
   {{ content }}
 </main>
