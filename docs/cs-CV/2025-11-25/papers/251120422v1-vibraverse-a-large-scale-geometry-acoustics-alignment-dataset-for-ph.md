@@ -6,19 +6,10 @@ title: VibraVerse: A Large-Scale Geometry-Acoustics Alignment Dataset for Physic
 # VibraVerse: A Large-Scale Geometry-Acoustics Alignment Dataset for Physically-Consistent Multimodal Learning
 
 <div class="paper-toolbar">
-  <div class="toolbar-left">
-    <a href="https://arxiv.org/abs/2511.20422" target="_blank" class="toolbar-btn">arXiv: 2511.20422v1</a>
-    <a href="https://arxiv.org/pdf/2511.20422.pdf" target="_blank" class="toolbar-btn">PDF</a>
-  </div>
-  <div class="toolbar-right">
-    <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.20422v1" 
-            onclick="toggleFavorite(this, '2511.20422v1', 'VibraVerse: A Large-Scale Geometry-Acoustics Alignment Dataset for Physically-Consistent Multimodal Learning')" title="收藏">
-      ☆ 收藏
-    </button>
-    <button class="toolbar-btn share-btn" onclick="copyLink()" title="复制链接">
-      🔗 分享
-    </button>
-  </div>
+  <a href="https://arxiv.org/abs/2511.20422" class="toolbar-btn" target="_blank">📄 arXiv: 2511.20422v1</a>
+  <a href="https://arxiv.org/pdf/2511.20422.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.20422v1" onclick="toggleFavorite(this, '2511.20422v1', 'VibraVerse: A Large-Scale Geometry-Acoustics Alignment Dataset for Physically-Consistent Multimodal Learning')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 
 

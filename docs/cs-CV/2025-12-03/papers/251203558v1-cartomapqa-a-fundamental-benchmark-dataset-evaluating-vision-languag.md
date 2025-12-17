@@ -6,19 +6,10 @@ title: CartoMapQA: A Fundamental Benchmark Dataset Evaluating Vision-Language Mo
 # CartoMapQA: A Fundamental Benchmark Dataset Evaluating Vision-Language Models on Cartographic Map Understanding
 
 <div class="paper-toolbar">
-  <div class="toolbar-left">
-    <a href="https://arxiv.org/abs/2512.03558" target="_blank" class="toolbar-btn">arXiv: 2512.03558v1</a>
-    <a href="https://arxiv.org/pdf/2512.03558.pdf" target="_blank" class="toolbar-btn">PDF</a>
-  </div>
-  <div class="toolbar-right">
-    <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.03558v1" 
-            onclick="toggleFavorite(this, '2512.03558v1', 'CartoMapQA: A Fundamental Benchmark Dataset Evaluating Vision-Language Models on Cartographic Map Understanding')" title="收藏">
-      ☆ 收藏
-    </button>
-    <button class="toolbar-btn share-btn" onclick="copyLink()" title="复制链接">
-      🔗 分享
-    </button>
-  </div>
+  <a href="https://arxiv.org/abs/2512.03558" class="toolbar-btn" target="_blank">📄 arXiv: 2512.03558v1</a>
+  <a href="https://arxiv.org/pdf/2512.03558.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.03558v1" onclick="toggleFavorite(this, '2512.03558v1', 'CartoMapQA: A Fundamental Benchmark Dataset Evaluating Vision-Language Models on Cartographic Map Understanding')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 
 

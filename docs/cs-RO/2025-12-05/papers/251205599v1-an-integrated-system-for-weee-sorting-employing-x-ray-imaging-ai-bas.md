@@ -6,19 +6,10 @@ title: An Integrated System for WEEE Sorting Employing X-ray Imaging, AI-based O
 # An Integrated System for WEEE Sorting Employing X-ray Imaging, AI-based Object Detection and Segmentation, and Delta Robot Manipulation
 
 <div class="paper-toolbar">
-  <div class="toolbar-left">
-    <a href="https://arxiv.org/abs/2512.05599" target="_blank" class="toolbar-btn">arXiv: 2512.05599v1</a>
-    <a href="https://arxiv.org/pdf/2512.05599.pdf" target="_blank" class="toolbar-btn">PDF</a>
-  </div>
-  <div class="toolbar-right">
-    <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.05599v1" 
-            onclick="toggleFavorite(this, '2512.05599v1', 'An Integrated System for WEEE Sorting Employing X-ray Imaging, AI-based Object Detection and Segmentation, and Delta Robot Manipulation')" title="收藏">
-      ☆ 收藏
-    </button>
-    <button class="toolbar-btn share-btn" onclick="copyLink()" title="复制链接">
-      🔗 分享
-    </button>
-  </div>
+  <a href="https://arxiv.org/abs/2512.05599" class="toolbar-btn" target="_blank">📄 arXiv: 2512.05599v1</a>
+  <a href="https://arxiv.org/pdf/2512.05599.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.05599v1" onclick="toggleFavorite(this, '2512.05599v1', 'An Integrated System for WEEE Sorting Employing X-ray Imaging, AI-based Object Detection and Segmentation, and Delta Robot Manipulation')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 
 

@@ -6,19 +6,10 @@ title: PoseGAM: Robust Unseen Object Pose Estimation via Geometry-Aware Multi-Vi
 # PoseGAM: Robust Unseen Object Pose Estimation via Geometry-Aware Multi-View Reasoning
 
 <div class="paper-toolbar">
-  <div class="toolbar-left">
-    <a href="https://arxiv.org/abs/2512.10840" target="_blank" class="toolbar-btn">arXiv: 2512.10840v1</a>
-    <a href="https://arxiv.org/pdf/2512.10840.pdf" target="_blank" class="toolbar-btn">PDF</a>
-  </div>
-  <div class="toolbar-right">
-    <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.10840v1" 
-            onclick="toggleFavorite(this, '2512.10840v1', 'PoseGAM: Robust Unseen Object Pose Estimation via Geometry-Aware Multi-View Reasoning')" title="收藏">
-      ☆ 收藏
-    </button>
-    <button class="toolbar-btn share-btn" onclick="copyLink()" title="复制链接">
-      🔗 分享
-    </button>
-  </div>
+  <a href="https://arxiv.org/abs/2512.10840" class="toolbar-btn" target="_blank">📄 arXiv: 2512.10840v1</a>
+  <a href="https://arxiv.org/pdf/2512.10840.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.10840v1" onclick="toggleFavorite(this, '2512.10840v1', 'PoseGAM: Robust Unseen Object Pose Estimation via Geometry-Aware Multi-View Reasoning')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 
 

@@ -6,19 +6,10 @@ title: Investigating Optical Flow Computation: From Local Methods to a Multireso
 # Investigating Optical Flow Computation: From Local Methods to a Multiresolution Horn-Schunck Implementation with Bilinear Interpolation
 
 <div class="paper-toolbar">
-  <div class="toolbar-left">
-    <a href="https://arxiv.org/abs/2511.16535" target="_blank" class="toolbar-btn">arXiv: 2511.16535v1</a>
-    <a href="https://arxiv.org/pdf/2511.16535.pdf" target="_blank" class="toolbar-btn">PDF</a>
-  </div>
-  <div class="toolbar-right">
-    <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.16535v1" 
-            onclick="toggleFavorite(this, '2511.16535v1', 'Investigating Optical Flow Computation: From Local Methods to a Multiresolution Horn-Schunck Implementation with Bilinear Interpolation')" title="收藏">
-      ☆ 收藏
-    </button>
-    <button class="toolbar-btn share-btn" onclick="copyLink()" title="复制链接">
-      🔗 分享
-    </button>
-  </div>
+  <a href="https://arxiv.org/abs/2511.16535" class="toolbar-btn" target="_blank">📄 arXiv: 2511.16535v1</a>
+  <a href="https://arxiv.org/pdf/2511.16535.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.16535v1" onclick="toggleFavorite(this, '2511.16535v1', 'Investigating Optical Flow Computation: From Local Methods to a Multiresolution Horn-Schunck Implementation with Bilinear Interpolation')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 
 

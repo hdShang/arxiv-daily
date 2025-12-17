@@ -6,19 +6,10 @@ title: IB-GAN: Disentangled Representation Learning with Information Bottleneck 
 # IB-GAN: Disentangled Representation Learning with Information Bottleneck Generative Adversarial Networks
 
 <div class="paper-toolbar">
-  <div class="toolbar-left">
-    <a href="https://arxiv.org/abs/2510.20165" target="_blank" class="toolbar-btn">arXiv: 2510.20165v1</a>
-    <a href="https://arxiv.org/pdf/2510.20165.pdf" target="_blank" class="toolbar-btn">PDF</a>
-  </div>
-  <div class="toolbar-right">
-    <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.20165v1" 
-            onclick="toggleFavorite(this, '2510.20165v1', 'IB-GAN: Disentangled Representation Learning with Information Bottleneck Generative Adversarial Networks')" title="收藏">
-      ☆ 收藏
-    </button>
-    <button class="toolbar-btn share-btn" onclick="copyLink()" title="复制链接">
-      🔗 分享
-    </button>
-  </div>
+  <a href="https://arxiv.org/abs/2510.20165" class="toolbar-btn" target="_blank">📄 arXiv: 2510.20165v1</a>
+  <a href="https://arxiv.org/pdf/2510.20165.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.20165v1" onclick="toggleFavorite(this, '2510.20165v1', 'IB-GAN: Disentangled Representation Learning with Information Bottleneck Generative Adversarial Networks')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 
 

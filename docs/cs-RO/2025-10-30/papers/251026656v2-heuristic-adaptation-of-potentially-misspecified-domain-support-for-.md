@@ -6,19 +6,10 @@ title: Heuristic Adaptation of Potentially Misspecified Domain Support for Likel
 # Heuristic Adaptation of Potentially Misspecified Domain Support for Likelihood-Free Inference in Stochastic Dynamical Systems
 
 <div class="paper-toolbar">
-  <div class="toolbar-left">
-    <a href="https://arxiv.org/abs/2510.26656" target="_blank" class="toolbar-btn">arXiv: 2510.26656v2</a>
-    <a href="https://arxiv.org/pdf/2510.26656.pdf" target="_blank" class="toolbar-btn">PDF</a>
-  </div>
-  <div class="toolbar-right">
-    <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.26656v2" 
-            onclick="toggleFavorite(this, '2510.26656v2', 'Heuristic Adaptation of Potentially Misspecified Domain Support for Likelihood-Free Inference in Stochastic Dynamical Systems')" title="收藏">
-      ☆ 收藏
-    </button>
-    <button class="toolbar-btn share-btn" onclick="copyLink()" title="复制链接">
-      🔗 分享
-    </button>
-  </div>
+  <a href="https://arxiv.org/abs/2510.26656" class="toolbar-btn" target="_blank">📄 arXiv: 2510.26656v2</a>
+  <a href="https://arxiv.org/pdf/2510.26656.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.26656v2" onclick="toggleFavorite(this, '2510.26656v2', 'Heuristic Adaptation of Potentially Misspecified Domain Support for Likelihood-Free Inference in Stochastic Dynamical Systems')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 
 

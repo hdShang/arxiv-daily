@@ -6,19 +6,10 @@ title: Knowledge-based Visual Question Answer with Multimodal Processing, Retrie
 # Knowledge-based Visual Question Answer with Multimodal Processing, Retrieval and Filtering
 
 <div class="paper-toolbar">
-  <div class="toolbar-left">
-    <a href="https://arxiv.org/abs/2510.14605" target="_blank" class="toolbar-btn">arXiv: 2510.14605v2</a>
-    <a href="https://arxiv.org/pdf/2510.14605.pdf" target="_blank" class="toolbar-btn">PDF</a>
-  </div>
-  <div class="toolbar-right">
-    <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.14605v2" 
-            onclick="toggleFavorite(this, '2510.14605v2', 'Knowledge-based Visual Question Answer with Multimodal Processing, Retrieval and Filtering')" title="收藏">
-      ☆ 收藏
-    </button>
-    <button class="toolbar-btn share-btn" onclick="copyLink()" title="复制链接">
-      🔗 分享
-    </button>
-  </div>
+  <a href="https://arxiv.org/abs/2510.14605" class="toolbar-btn" target="_blank">📄 arXiv: 2510.14605v2</a>
+  <a href="https://arxiv.org/pdf/2510.14605.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.14605v2" onclick="toggleFavorite(this, '2510.14605v2', 'Knowledge-based Visual Question Answer with Multimodal Processing, Retrieval and Filtering')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 
 

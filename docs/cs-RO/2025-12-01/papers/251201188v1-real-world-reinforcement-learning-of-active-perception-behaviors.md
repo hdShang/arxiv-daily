@@ -6,19 +6,10 @@ title: Real-World Reinforcement Learning of Active Perception Behaviors
 # Real-World Reinforcement Learning of Active Perception Behaviors
 
 <div class="paper-toolbar">
-  <div class="toolbar-left">
-    <a href="https://arxiv.org/abs/2512.01188" target="_blank" class="toolbar-btn">arXiv: 2512.01188v1</a>
-    <a href="https://arxiv.org/pdf/2512.01188.pdf" target="_blank" class="toolbar-btn">PDF</a>
-  </div>
-  <div class="toolbar-right">
-    <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.01188v1" 
-            onclick="toggleFavorite(this, '2512.01188v1', 'Real-World Reinforcement Learning of Active Perception Behaviors')" title="收藏">
-      ☆ 收藏
-    </button>
-    <button class="toolbar-btn share-btn" onclick="copyLink()" title="复制链接">
-      🔗 分享
-    </button>
-  </div>
+  <a href="https://arxiv.org/abs/2512.01188" class="toolbar-btn" target="_blank">📄 arXiv: 2512.01188v1</a>
+  <a href="https://arxiv.org/pdf/2512.01188.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.01188v1" onclick="toggleFavorite(this, '2512.01188v1', 'Real-World Reinforcement Learning of Active Perception Behaviors')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 
 

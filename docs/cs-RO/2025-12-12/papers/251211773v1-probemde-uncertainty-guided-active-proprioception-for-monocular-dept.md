@@ -6,19 +6,10 @@ title: ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Es
 # ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics
 
 <div class="paper-toolbar">
-  <div class="toolbar-left">
-    <a href="https://arxiv.org/abs/2512.11773" target="_blank" class="toolbar-btn">arXiv: 2512.11773v1</a>
-    <a href="https://arxiv.org/pdf/2512.11773.pdf" target="_blank" class="toolbar-btn">PDF</a>
-  </div>
-  <div class="toolbar-right">
-    <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.11773v1" 
-            onclick="toggleFavorite(this, '2512.11773v1', 'ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics')" title="收藏">
-      ☆ 收藏
-    </button>
-    <button class="toolbar-btn share-btn" onclick="copyLink()" title="复制链接">
-      🔗 分享
-    </button>
-  </div>
+  <a href="https://arxiv.org/abs/2512.11773" class="toolbar-btn" target="_blank">📄 arXiv: 2512.11773v1</a>
+  <a href="https://arxiv.org/pdf/2512.11773.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.11773v1" onclick="toggleFavorite(this, '2512.11773v1', 'ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 
 

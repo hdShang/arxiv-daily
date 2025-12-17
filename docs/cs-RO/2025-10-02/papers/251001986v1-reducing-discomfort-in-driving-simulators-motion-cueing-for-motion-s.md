@@ -6,19 +6,10 @@ title: Reducing Discomfort in Driving Simulators: Motion Cueing for Motion Sickn
 # Reducing Discomfort in Driving Simulators: Motion Cueing for Motion Sickness Mitigation
 
 <div class="paper-toolbar">
-  <div class="toolbar-left">
-    <a href="https://arxiv.org/abs/2510.01986" target="_blank" class="toolbar-btn">arXiv: 2510.01986v1</a>
-    <a href="https://arxiv.org/pdf/2510.01986.pdf" target="_blank" class="toolbar-btn">PDF</a>
-  </div>
-  <div class="toolbar-right">
-    <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.01986v1" 
-            onclick="toggleFavorite(this, '2510.01986v1', 'Reducing Discomfort in Driving Simulators: Motion Cueing for Motion Sickness Mitigation')" title="收藏">
-      ☆ 收藏
-    </button>
-    <button class="toolbar-btn share-btn" onclick="copyLink()" title="复制链接">
-      🔗 分享
-    </button>
-  </div>
+  <a href="https://arxiv.org/abs/2510.01986" class="toolbar-btn" target="_blank">📄 arXiv: 2510.01986v1</a>
+  <a href="https://arxiv.org/pdf/2510.01986.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.01986v1" onclick="toggleFavorite(this, '2510.01986v1', 'Reducing Discomfort in Driving Simulators: Motion Cueing for Motion Sickness Mitigation')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 
 

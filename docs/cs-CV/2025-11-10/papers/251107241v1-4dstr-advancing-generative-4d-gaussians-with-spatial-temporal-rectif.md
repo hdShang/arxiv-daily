@@ -6,19 +6,10 @@ title: 4DSTR: Advancing Generative 4D Gaussians with Spatial-Temporal Rectificat
 # 4DSTR: Advancing Generative 4D Gaussians with Spatial-Temporal Rectification for High-Quality and Consistent 4D Generation
 
 <div class="paper-toolbar">
-  <div class="toolbar-left">
-    <a href="https://arxiv.org/abs/2511.07241" target="_blank" class="toolbar-btn">arXiv: 2511.07241v1</a>
-    <a href="https://arxiv.org/pdf/2511.07241.pdf" target="_blank" class="toolbar-btn">PDF</a>
-  </div>
-  <div class="toolbar-right">
-    <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.07241v1" 
-            onclick="toggleFavorite(this, '2511.07241v1', '4DSTR: Advancing Generative 4D Gaussians with Spatial-Temporal Rectification for High-Quality and Consistent 4D Generation')" title="收藏">
-      ☆ 收藏
-    </button>
-    <button class="toolbar-btn share-btn" onclick="copyLink()" title="复制链接">
-      🔗 分享
-    </button>
-  </div>
+  <a href="https://arxiv.org/abs/2511.07241" class="toolbar-btn" target="_blank">📄 arXiv: 2511.07241v1</a>
+  <a href="https://arxiv.org/pdf/2511.07241.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.07241v1" onclick="toggleFavorite(this, '2511.07241v1', '4DSTR: Advancing Generative 4D Gaussians with Spatial-Temporal Rectification for High-Quality and Consistent 4D Generation')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 
 

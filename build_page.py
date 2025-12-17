@@ -63,12 +63,20 @@ def render_paper_md(p: Dict[str, Any]) -> str:
     lines = []
     lines.append(f"# {md_escape(title)}")
     
-    # 基础信息区
+    # 工具栏：arXiv链接、PDF链接、收藏、分享放在一行
     if arxiv_id:
         base_id = arxiv_id.split('v')[0]
         abs_url = f"https://arxiv.org/abs/{base_id}"
         pdf_url = f"https://arxiv.org/pdf/{base_id}.pdf"
-        lines.append(f"\n**arXiv**: [{arxiv_id}]({abs_url}) | [PDF]({pdf_url})")
+        title_escaped = title.replace('"', '&quot;').replace("'", "\\'")
+        lines.append(f'''
+<div class="paper-toolbar">
+  <a href="{abs_url}" class="toolbar-btn" target="_blank">📄 arXiv: {arxiv_id}</a>
+  <a href="{pdf_url}" class="toolbar-btn" target="_blank">📥 PDF</a>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="{arxiv_id}" onclick="toggleFavorite(this, '{arxiv_id}', '{title_escaped}')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
+</div>
+''')
     
     lines.append(f"\n**作者**: {md_escape(authors)}")
     
@@ -440,8 +448,11 @@ def write_site_scaffold(docs_dir: Path):
         encoding="utf-8"
     )
     (docs_dir / "_layouts").mkdir(exist_ok=True)
-    (docs_dir / "_layouts" / "default.html").write_text(
-        """<!doctype html>
+    # 只在布局文件不存在时写入默认模板，避免覆盖自定义模板
+    layout_file = docs_dir / "_layouts" / "default.html"
+    if not layout_file.exists():
+        layout_file.write_text(
+            """<!doctype html>
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8">
@@ -459,10 +470,13 @@ def write_site_scaffold(docs_dir: Path):
 </body>
 </html>
 """,
-        encoding="utf-8"
-    )
-    (docs_dir / "assets" / "style.css").write_text(
-        """/* 基础样式 */
+            encoding="utf-8"
+        )
+    # 只在 CSS 文件不存在时写入默认样式，避免覆盖自定义样式
+    css_file = docs_dir / "assets" / "style.css"
+    if not css_file.exists():
+        css_file.write_text(
+            """/* 基础样式 */
 :root {
   --primary: #2563eb;
   --primary-dark: #1d4ed8;
@@ -580,6 +594,54 @@ img {
   border-radius: 8px;
   margin: 1rem 0;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* 论文工具栏 */
+.paper-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  background: var(--bg-secondary);
+  border-radius: 8px;
+  margin: 1rem 0;
+  border: 1px solid var(--border);
+}
+
+.toolbar-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.5rem 0.85rem;
+  background: var(--bg);
+  color: var(--text) !important;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+  text-decoration: none !important;
+  transition: all 0.2s;
+}
+
+.toolbar-btn:hover {
+  background: var(--primary);
+  color: white !important;
+  border-color: var(--primary);
+  text-decoration: none !important;
+}
+
+.toolbar-btn.favorite-btn.favorited {
+  background: #fef3c7;
+  border-color: #f59e0b;
+  color: #b45309 !important;
+}
+
+.toolbar-btn.copied {
+  background: var(--success);
+  border-color: var(--success);
+  color: white !important;
 }
 
 /* 关键词标签 */
@@ -849,8 +911,8 @@ code {
   .btn { text-align: center; }
 }
 """,
-        encoding="utf-8"
-    )
+            encoding="utf-8"
+        )
 
 # =============== 站点生成 ===============
 

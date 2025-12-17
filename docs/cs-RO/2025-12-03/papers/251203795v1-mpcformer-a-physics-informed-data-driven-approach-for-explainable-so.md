@@ -6,19 +6,10 @@ title: MPCFormer: A physics-informed data-driven approach for explainable social
 # MPCFormer: A physics-informed data-driven approach for explainable socially-aware autonomous driving
 
 <div class="paper-toolbar">
-  <div class="toolbar-left">
-    <a href="https://arxiv.org/abs/2512.03795" target="_blank" class="toolbar-btn">arXiv: 2512.03795v1</a>
-    <a href="https://arxiv.org/pdf/2512.03795.pdf" target="_blank" class="toolbar-btn">PDF</a>
-  </div>
-  <div class="toolbar-right">
-    <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.03795v1" 
-            onclick="toggleFavorite(this, '2512.03795v1', 'MPCFormer: A physics-informed data-driven approach for explainable socially-aware autonomous driving')" title="收藏">
-      ☆ 收藏
-    </button>
-    <button class="toolbar-btn share-btn" onclick="copyLink()" title="复制链接">
-      🔗 分享
-    </button>
-  </div>
+  <a href="https://arxiv.org/abs/2512.03795" class="toolbar-btn" target="_blank">📄 arXiv: 2512.03795v1</a>
+  <a href="https://arxiv.org/pdf/2512.03795.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.03795v1" onclick="toggleFavorite(this, '2512.03795v1', 'MPCFormer: A physics-informed data-driven approach for explainable socially-aware autonomous driving')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 
 

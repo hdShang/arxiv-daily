@@ -454,6 +454,11 @@
       });
     }
 
+    // 收藏按钮点击处理（表格中使用）
+    function toggleFavorite(btn, arxivId, title) {
+      showFolderMenu(btn, arxivId, title);
+    }
+
     // 页面加载完成后初始化
     document.addEventListener('DOMContentLoaded', function () {
       updateFavoriteCount();

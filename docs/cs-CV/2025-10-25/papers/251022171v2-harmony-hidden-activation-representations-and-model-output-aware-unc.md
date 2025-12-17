@@ -6,19 +6,10 @@ title: HARMONY: Hidden Activation Representations and Model Output-Aware Uncerta
 # HARMONY: Hidden Activation Representations and Model Output-Aware Uncertainty Estimation for Vision-Language Models
 
 <div class="paper-toolbar">
-  <div class="toolbar-left">
-    <a href="https://arxiv.org/abs/2510.22171" target="_blank" class="toolbar-btn">arXiv: 2510.22171v2</a>
-    <a href="https://arxiv.org/pdf/2510.22171.pdf" target="_blank" class="toolbar-btn">PDF</a>
-  </div>
-  <div class="toolbar-right">
-    <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.22171v2" 
-            onclick="toggleFavorite(this, '2510.22171v2', 'HARMONY: Hidden Activation Representations and Model Output-Aware Uncertainty Estimation for Vision-Language Models')" title="收藏">
-      ☆ 收藏
-    </button>
-    <button class="toolbar-btn share-btn" onclick="copyLink()" title="复制链接">
-      🔗 分享
-    </button>
-  </div>
+  <a href="https://arxiv.org/abs/2510.22171" class="toolbar-btn" target="_blank">📄 arXiv: 2510.22171v2</a>
+  <a href="https://arxiv.org/pdf/2510.22171.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.22171v2" onclick="toggleFavorite(this, '2510.22171v2', 'HARMONY: Hidden Activation Representations and Model Output-Aware Uncertainty Estimation for Vision-Language Models')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 
 

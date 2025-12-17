@@ -6,19 +6,10 @@ title: Tracking-Guided 4D Generation: Foundation-Tracker Motion Priors for 3D Mo
 # Tracking-Guided 4D Generation: Foundation-Tracker Motion Priors for 3D Model Animation
 
 <div class="paper-toolbar">
-  <div class="toolbar-left">
-    <a href="https://arxiv.org/abs/2512.06158" target="_blank" class="toolbar-btn">arXiv: 2512.06158v1</a>
-    <a href="https://arxiv.org/pdf/2512.06158.pdf" target="_blank" class="toolbar-btn">PDF</a>
-  </div>
-  <div class="toolbar-right">
-    <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.06158v1" 
-            onclick="toggleFavorite(this, '2512.06158v1', 'Tracking-Guided 4D Generation: Foundation-Tracker Motion Priors for 3D Model Animation')" title="收藏">
-      ☆ 收藏
-    </button>
-    <button class="toolbar-btn share-btn" onclick="copyLink()" title="复制链接">
-      🔗 分享
-    </button>
-  </div>
+  <a href="https://arxiv.org/abs/2512.06158" class="toolbar-btn" target="_blank">📄 arXiv: 2512.06158v1</a>
+  <a href="https://arxiv.org/pdf/2512.06158.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.06158v1" onclick="toggleFavorite(this, '2512.06158v1', 'Tracking-Guided 4D Generation: Foundation-Tracker Motion Priors for 3D Model Animation')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 
 

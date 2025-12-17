@@ -6,19 +6,10 @@ title: Dynamic Shape Control of Soft Robots Enabled by Data-Driven Model Reducti
 # Dynamic Shape Control of Soft Robots Enabled by Data-Driven Model Reduction
 
 <div class="paper-toolbar">
-  <div class="toolbar-left">
-    <a href="https://arxiv.org/abs/2511.03931" target="_blank" class="toolbar-btn">arXiv: 2511.03931v1</a>
-    <a href="https://arxiv.org/pdf/2511.03931.pdf" target="_blank" class="toolbar-btn">PDF</a>
-  </div>
-  <div class="toolbar-right">
-    <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.03931v1" 
-            onclick="toggleFavorite(this, '2511.03931v1', 'Dynamic Shape Control of Soft Robots Enabled by Data-Driven Model Reduction')" title="收藏">
-      ☆ 收藏
-    </button>
-    <button class="toolbar-btn share-btn" onclick="copyLink()" title="复制链接">
-      🔗 分享
-    </button>
-  </div>
+  <a href="https://arxiv.org/abs/2511.03931" class="toolbar-btn" target="_blank">📄 arXiv: 2511.03931v1</a>
+  <a href="https://arxiv.org/pdf/2511.03931.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.03931v1" onclick="toggleFavorite(this, '2511.03931v1', 'Dynamic Shape Control of Soft Robots Enabled by Data-Driven Model Reduction')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 
 

@@ -168,6 +168,54 @@ img {
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
+/* 论文工具栏 */
+.paper-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  background: var(--bg-secondary);
+  border-radius: 8px;
+  margin: 1rem 0;
+  border: 1px solid var(--border);
+}
+
+.toolbar-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.5rem 0.85rem;
+  background: var(--bg);
+  color: var(--text) !important;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+  text-decoration: none !important;
+  transition: all 0.2s;
+}
+
+.toolbar-btn:hover {
+  background: var(--primary);
+  color: white !important;
+  border-color: var(--primary);
+  text-decoration: none !important;
+}
+
+.toolbar-btn.favorite-btn.favorited {
+  background: #fef3c7;
+  border-color: #f59e0b;
+  color: #b45309 !important;
+}
+
+.toolbar-btn.copied {
+  background: var(--success);
+  border-color: var(--success);
+  color: white !important;
+}
+
 /* 关键词标签 */
 code {
   background: #e0f2fe;

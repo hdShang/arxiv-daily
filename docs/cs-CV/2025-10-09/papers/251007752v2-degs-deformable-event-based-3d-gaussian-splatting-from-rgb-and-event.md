@@ -6,19 +6,10 @@ title: DEGS: Deformable Event-based 3D Gaussian Splatting from RGB and Event Str
 # DEGS: Deformable Event-based 3D Gaussian Splatting from RGB and Event Stream
 
 <div class="paper-toolbar">
-  <div class="toolbar-left">
-    <a href="https://arxiv.org/abs/2510.07752" target="_blank" class="toolbar-btn">arXiv: 2510.07752v2</a>
-    <a href="https://arxiv.org/pdf/2510.07752.pdf" target="_blank" class="toolbar-btn">PDF</a>
-  </div>
-  <div class="toolbar-right">
-    <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.07752v2" 
-            onclick="toggleFavorite(this, '2510.07752v2', 'DEGS: Deformable Event-based 3D Gaussian Splatting from RGB and Event Stream')" title="收藏">
-      ☆ 收藏
-    </button>
-    <button class="toolbar-btn share-btn" onclick="copyLink()" title="复制链接">
-      🔗 分享
-    </button>
-  </div>
+  <a href="https://arxiv.org/abs/2510.07752" class="toolbar-btn" target="_blank">📄 arXiv: 2510.07752v2</a>
+  <a href="https://arxiv.org/pdf/2510.07752.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.07752v2" onclick="toggleFavorite(this, '2510.07752v2', 'DEGS: Deformable Event-based 3D Gaussian Splatting from RGB and Event Stream')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 
 

@@ -6,19 +6,10 @@ title: HanDyVQA: A Video QA Benchmark for Fine-Grained Hand-Object Interaction D
 # HanDyVQA: A Video QA Benchmark for Fine-Grained Hand-Object Interaction Dynamics
 
 <div class="paper-toolbar">
-  <div class="toolbar-left">
-    <a href="https://arxiv.org/abs/2512.00885" target="_blank" class="toolbar-btn">arXiv: 2512.00885v1</a>
-    <a href="https://arxiv.org/pdf/2512.00885.pdf" target="_blank" class="toolbar-btn">PDF</a>
-  </div>
-  <div class="toolbar-right">
-    <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.00885v1" 
-            onclick="toggleFavorite(this, '2512.00885v1', 'HanDyVQA: A Video QA Benchmark for Fine-Grained Hand-Object Interaction Dynamics')" title="收藏">
-      ☆ 收藏
-    </button>
-    <button class="toolbar-btn share-btn" onclick="copyLink()" title="复制链接">
-      🔗 分享
-    </button>
-  </div>
+  <a href="https://arxiv.org/abs/2512.00885" class="toolbar-btn" target="_blank">📄 arXiv: 2512.00885v1</a>
+  <a href="https://arxiv.org/pdf/2512.00885.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.00885v1" onclick="toggleFavorite(this, '2512.00885v1', 'HanDyVQA: A Video QA Benchmark for Fine-Grained Hand-Object Interaction Dynamics')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 
 
