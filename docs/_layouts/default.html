@@ -350,8 +350,14 @@
 
     // 新建收藏夹
     var pendingPaper = null;
+    var reopenManageAfterCreate = false;
     function showNewFolderModal(arxivId, title) {
       closeFolderMenu();
+      // 如果管理弹窗打开着，先关闭它，创建完后再打开
+      if (document.getElementById('manage-folders-modal').style.display === 'flex') {
+        closeManageFolders();
+        reopenManageAfterCreate = true;
+      }
       pendingPaper = arxivId ? { id: arxivId, title: title } : null;
       document.getElementById('new-folder-name').value = '';
       renderColorPicker();
@@ -402,6 +408,12 @@
       }
 
       closeNewFolderModal();
+
+      // 如果之前是从管理弹窗打开的，创建完后重新打开管理弹窗
+      if (reopenManageAfterCreate) {
+        reopenManageAfterCreate = false;
+        showManageFolders();
+      }
 
       if (document.getElementById('favorites-modal').style.display === 'flex') {
         renderFolderTabs();
