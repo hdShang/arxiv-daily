@@ -1,0 +1,31 @@
+{
+  "title": "信息资讯",
+  "links": [
+    {
+      "name": "Embodied AI Paper List",
+      "url": "https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List",
+      "desc": "具身智能论文列表"
+    },
+    {
+      "name": "Awesome Humanoid Manipulation",
+      "url": "https://github.com/Tsunami-kun/awesome-humanoid-manipulation",
+      "desc": "人形机器人操作"
+    },
+    {
+      "name": "Awesome Humanoid Learning",
+      "url": "https://github.com/jonyzhang2023/awesome-humanoid-learning",
+      "desc": "人形机器人学习"
+    },
+    {
+      "name": "Awesome Embodied VLA/VA/VLN",
+      "url": "https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln",
+      "desc": "具身视觉语言模型"
+    },
+    {
+      "name": "Awesome Humanoid Robot Learning",
+      "url": "https://github.com/YanjieZe/awesome-humanoid-robot-learning",
+      "desc": "人形机器人学习论文集"
+    }
+  ]
+}
+

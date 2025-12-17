@@ -61,6 +61,65 @@
   color: white !important;
 }
 
+/* 导航栏下拉菜单 */
+.nav-dropdown {
+  position: relative;
+}
+
+.nav-dropdown-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  right: 0;
+  margin-top: 0.5rem;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+  min-width: 280px;
+  z-index: 200;
+  overflow: hidden;
+}
+
+.dropdown-menu.show {
+  display: block;
+}
+
+.dropdown-item {
+  display: block;
+  padding: 0.75rem 1rem;
+  color: var(--text) !important;
+  text-decoration: none !important;
+  border-bottom: 1px solid var(--border);
+  transition: background 0.15s;
+}
+
+.dropdown-item:last-child {
+  border-bottom: none;
+}
+
+.dropdown-item:hover {
+  background: var(--bg-secondary);
+}
+
+.dropdown-item-name {
+  display: block;
+  font-weight: 500;
+  margin-bottom: 0.2rem;
+}
+
+.dropdown-item-desc {
+  display: block;
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
 .container {
   max-width: 1000px;
   margin: 2rem auto;

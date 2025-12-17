@@ -17,6 +17,17 @@
         <a href="{{ '/' | relative_url }}#cs-RO" class="nav-link">🤖 cs.RO</a>
         <a href="{{ '/' | relative_url }}#cs-CV" class="nav-link">👁️ cs.CV</a>
         <a href="{{ '/' | relative_url }}#cs-GR" class="nav-link">🎨 cs.GR</a>
+        <div class="nav-dropdown">
+          <button class="nav-link nav-dropdown-btn" onclick="toggleResourcesMenu()">📖 信息资讯 ▾</button>
+          <div id="resources-menu" class="dropdown-menu">
+            {% for link in site.data.resources.links %}
+            <a href="{{ link.url }}" target="_blank" class="dropdown-item">
+              <span class="dropdown-item-name">{{ link.name }}</span>
+              <span class="dropdown-item-desc">{{ link.desc }}</span>
+            </a>
+            {% endfor %}
+          </div>
+        </div>
         <button class="nav-favorites" onclick="showFavorites()">
           ⭐ 收藏夹 <span id="favorites-count" class="favorites-badge" style="display:none">0</span>
         </button>
@@ -513,6 +524,27 @@
           btn.innerHTML = orig;
         }, 1500);
       });
+    }
+
+    // 信息资讯下拉菜单
+    function toggleResourcesMenu() {
+      var menu = document.getElementById('resources-menu');
+      if (menu.classList.contains('show')) {
+        menu.classList.remove('show');
+      } else {
+        menu.classList.add('show');
+        setTimeout(function() {
+          document.addEventListener('click', closeResourcesMenuOnClick);
+        }, 10);
+      }
+    }
+
+    function closeResourcesMenuOnClick(e) {
+      if (!e.target.closest('.nav-dropdown')) {
+        var menu = document.getElementById('resources-menu');
+        if (menu) menu.classList.remove('show');
+        document.removeEventListener('click', closeResourcesMenuOnClick);
+      }
     }
 
     // 页面加载完成后初始化
