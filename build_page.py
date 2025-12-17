@@ -63,34 +63,12 @@ def render_paper_md(p: Dict[str, Any]) -> str:
     lines = []
     lines.append(f"# {md_escape(title)}")
     
-    # 操作工具栏（收藏 + 分享）
+    # 基础信息区
     if arxiv_id:
         base_id = arxiv_id.split('v')[0]
         abs_url = f"https://arxiv.org/abs/{base_id}"
         pdf_url = f"https://arxiv.org/pdf/{base_id}.pdf"
-        escaped_title = title.replace("'", "\\'").replace('"', '\\"')
-        
-        lines.append(f"""
-<div class="paper-toolbar">
-  <div class="toolbar-left">
-    <a href="{abs_url}" target="_blank" class="toolbar-btn">arXiv: {arxiv_id}</a>
-    <a href="{pdf_url}" target="_blank" class="toolbar-btn">PDF</a>
-  </div>
-  <div class="toolbar-right">
-    <button class="toolbar-btn favorite-btn" data-arxiv-id="{arxiv_id}" 
-            onclick="toggleFavorite(this, '{arxiv_id}', '{escaped_title}')" title="收藏">
-      ☆ 收藏
-    </button>
-    <button class="toolbar-btn share-btn" onclick="copyLink()" title="复制链接">
-      🔗 分享
-    </button>
-  </div>
-</div>
-""")
-    else:
-        base_id = ""
-        abs_url = ""
-        pdf_url = ""
+        lines.append(f"\n**arXiv**: [{arxiv_id}]({abs_url}) | [PDF]({pdf_url})")
     
     lines.append(f"\n**作者**: {md_escape(authors)}")
     
