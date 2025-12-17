@@ -11,7 +11,8 @@ title: arXiv 中文要点汇总（with DeepSeek） - cs.CV
 <div class="date-switcher">
   <label for="date-select"><strong>选择日期：</strong></label>
   <select id="date-select" onchange="location.href=this.value;">
-    <option value="2025-12-15/index.html" selected>2025-12-15</option>
+    <option value="2025-12-16/index.html" selected>2025-12-16</option>
+<option value="2025-12-15/index.html" >2025-12-15</option>
 <option value="2025-12-14/index.html" >2025-12-14</option>
 <option value="2025-12-11/index.html" >2025-12-11</option>
 <option value="2025-12-10/index.html" >2025-12-10</option>
@@ -56,12 +57,13 @@ title: arXiv 中文要点汇总（with DeepSeek） - cs.CV
 <option value="2025-10-13/index.html" >2025-10-13</option>
 <option value="2025-10-12/index.html" >2025-10-12</option>
   </select>
-  <a class="btn" href="2025-12-15/index.html">前往最新（2025-12-15）</a>
+  <a class="btn" href="2025-12-16/index.html">前往最新（2025-12-16）</a>
 </div>
 
 
 ## 日期列表
 
+- [2025-12-16](2025-12-16/index.html)
 - [2025-12-15](2025-12-15/index.html)
 - [2025-12-14](2025-12-14/index.html)
 - [2025-12-11](2025-12-11/index.html)
