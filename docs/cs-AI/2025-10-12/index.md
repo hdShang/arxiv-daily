@@ -21,13 +21,14 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-10-12
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>1</td>
   <td><a href="./papers/251011754v1-zero-shot-large-language-model-agents-for-fully-automated-radiothera.html">Zero-Shot Large Language Model Agents for Fully Automated Radiotherapy Treatment Planning</a></td>
   <td>提出基于零样本大语言模型的全自动放射治疗计划方法，提升计划质量。</td>
+  <td class="tags-cell"><span class="paper-tag">large language model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.11754v1" onclick="toggleFavorite(this, '2510.11754v1', 'Zero-Shot Large Language Model Agents for Fully Automated Radiotherapy Treatment Planning')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -35,6 +36,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-10-12
   <td>2</td>
   <td><a href="./papers/251010823v1-the-irrational-machine-neurosis-and-the-limits-of-algorithmic-safety.html">The Irrational Machine: Neurosis and the Limits of Algorithmic Safety</a></td>
   <td>提出神经症框架以解决嵌入式AI的行为不一致问题</td>
+  <td class="tags-cell"><span class="paper-tag">embodied AI</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.10823v1" onclick="toggleFavorite(this, '2510.10823v1', 'The Irrational Machine: Neurosis and the Limits of Algorithmic Safety')" title="添加到收藏夹">☆</button></td>
 </tr>

@@ -23,13 +23,14 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-12-16
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>1</td>
   <td><a href="./papers/251214230v1-understanding-the-gain-from-data-filtering-in-multimodal-contrastive.html">Understanding the Gain from Data Filtering in Multimodal Contrastive Learning</a></td>
   <td>通过数据过滤提升多模态对比学习性能的理论分析</td>
+  <td class="tags-cell"><span class="paper-tag">representation learning</span> <span class="paper-tag">contrastive learning</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14230v1" onclick="toggleFavorite(this, '2512.14230v1', 'Understanding the Gain from Data Filtering in Multimodal Contrastive Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -37,6 +38,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-12-16
   <td>2</td>
   <td><a href="./papers/251214115v1-joint-multimodal-contrastive-learning-for-robust-spoken-term-detecti.html">Joint Multimodal Contrastive Learning for Robust Spoken Term Detection and Keyword Spotting</a></td>
   <td>提出联合多模态对比学习框架，提升稳健的语音检索和关键词检测性能</td>
+  <td class="tags-cell"><span class="paper-tag">contrastive learning</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14115v1" onclick="toggleFavorite(this, '2512.14115v1', 'Joint Multimodal Contrastive Learning for Robust Spoken Term Detection and Keyword Spotting')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -44,6 +46,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-12-16
   <td>3</td>
   <td><a href="./papers/251214100v1-a-first-order-logic-based-alternative-to-reward-models-in-rlhf.html">A First-Order Logic-Based Alternative to Reward Models in RLHF</a></td>
   <td>提出基于逻辑相似度的奖励机制S-GRPO，提升RLHF中LLM对齐的性能与鲁棒性。</td>
+  <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">PPO</span> <span class="paper-tag">preference learning</span></td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14100v1" onclick="toggleFavorite(this, '2512.14100v1', 'A First-Order Logic-Based Alternative to Reward Models in RLHF')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -51,6 +54,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-12-16
   <td>4</td>
   <td><a href="./papers/251214019v1-exaone-path-25-pathology-foundation-model-with-multi-omics-alignment.html">EXAONE Path 2.5: Pathology Foundation Model with Multi-Omics Alignment</a></td>
   <td>提出EXAONE Path 2.5以解决多层次肿瘤生物学建模问题</td>
+  <td class="tags-cell"><span class="paper-tag">contrastive learning</span> <span class="paper-tag">foundation model</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14019v1" onclick="toggleFavorite(this, '2512.14019v1', 'EXAONE Path 2.5: Pathology Foundation Model with Multi-Omics Alignment')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -58,6 +62,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-12-16
   <td>5</td>
   <td><a href="./papers/251214202v1-understanding-and-improving-hyperbolic-deep-reinforcement-learning.html">Understanding and Improving Hyperbolic Deep Reinforcement Learning</a></td>
   <td>提出Hyper++，解决双曲深度强化学习中梯度不稳定和训练困难的问题</td>
+  <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">deep reinforcement learning</span> <span class="paper-tag">PPO</span></td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14202v1" onclick="toggleFavorite(this, '2512.14202v1', 'Understanding and Improving Hyperbolic Deep Reinforcement Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -65,6 +70,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-12-16
   <td>6</td>
   <td><a href="./papers/251214617v1-model-based-reinforcement-learning-in-discrete-action-non-markovian-.html">Model-Based Reinforcement Learning in Discrete-Action Non-Markovian Reward Decision Processes</a></td>
   <td>提出QR-MAX算法，解决离散动作非马尔可夫奖励决策过程中的模型学习与策略优化问题</td>
+  <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">model-based RL</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14617v1" onclick="toggleFavorite(this, '2512.14617v1', 'Model-Based Reinforcement Learning in Discrete-Action Non-Markovian Reward Decision Processes')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -72,6 +78,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-12-16
   <td>7</td>
   <td><a href="./papers/251214619v1-paraformer-a-generalized-pagerank-graph-transformer-for-graph-repres.html">ParaFormer: A Generalized PageRank Graph Transformer for Graph Representation Learning</a></td>
   <td>提出ParaFormer，一种基于PageRank增强的图Transformer，缓解图表示学习中的过平滑问题。</td>
+  <td class="tags-cell"><span class="paper-tag">representation learning</span></td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14619v1" onclick="toggleFavorite(this, '2512.14619v1', 'ParaFormer: A Generalized PageRank Graph Transformer for Graph Representation Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -79,6 +86,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-12-16
   <td>8</td>
   <td><a href="./papers/251214471v1-kinetic-mamba-mamba-assisted-predictions-of-stiff-chemical-kinetics.html">Kinetic-Mamba: Mamba-Assisted Predictions of Stiff Chemical Kinetics</a></td>
   <td>Kinetic-Mamba：利用Mamba架构预测刚性化学动力学，提升燃烧模拟精度。</td>
+  <td class="tags-cell"><span class="paper-tag">Mamba</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14471v1" onclick="toggleFavorite(this, '2512.14471v1', 'Kinetic-Mamba: Mamba-Assisted Predictions of Stiff Chemical Kinetics')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -86,6 +94,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-12-16
   <td>9</td>
   <td><a href="./papers/251214263v1-explainable-preference-learning-a-decision-tree-based-surrogate-mode.html">Explainable Preference Learning: a Decision Tree-based Surrogate Model for Preferential Bayesian Optimization</a></td>
   <td>提出基于决策树的可解释偏好学习模型，用于提升偏好贝叶斯优化的效率与可解释性</td>
+  <td class="tags-cell"><span class="paper-tag">preference learning</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14263v1" onclick="toggleFavorite(this, '2512.14263v1', 'Explainable Preference Learning: a Decision Tree-based Surrogate Model for Preferential Bayesian Optimization')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -97,13 +106,14 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-12-16
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>10</td>
   <td><a href="./papers/251214098v1-cornserve-efficiently-serving-any-to-any-multimodal-models.html">Cornserve: Efficiently Serving Any-to-Any Multimodal Models</a></td>
   <td>Cornserve：高效服务任意到任意多模态模型的在线服务系统</td>
+  <td class="tags-cell"><span class="paper-tag">large language model</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14098v1" onclick="toggleFavorite(this, '2512.14098v1', 'Cornserve: Efficiently Serving Any-to-Any Multimodal Models')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -111,6 +121,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-12-16
   <td>11</td>
   <td><a href="./papers/251214220v1-estimating-problem-difficulty-without-ground-truth-using-large-langu.html">Estimating problem difficulty without ground truth using Large Language Model comparisons</a></td>
   <td>提出LLM compare以解决问题难度估计的挑战</td>
+  <td class="tags-cell"><span class="paper-tag">large language model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14220v1" onclick="toggleFavorite(this, '2512.14220v1', 'Estimating problem difficulty without ground truth using Large Language Model comparisons')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -118,6 +129,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-12-16
   <td>12</td>
   <td><a href="./papers/251214391v1-repo-language-models-with-context-re-positioning.html">RePo: Language Models with Context Re-Positioning</a></td>
   <td>提出RePo，通过上下文重定位提升语言模型在复杂场景下的性能</td>
+  <td class="tags-cell"><span class="paper-tag">large language model</span></td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14391v1" onclick="toggleFavorite(this, '2512.14391v1', 'RePo: Language Models with Context Re-Positioning')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -125,6 +137,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-12-16
   <td>13</td>
   <td><a href="./papers/251214253v1-flame-flow-enhanced-legendre-memory-models-for-general-time-series-f.html">FLAME: Flow Enhanced Legendre Memory Models for General Time Series Forecasting</a></td>
   <td>FLAME：基于流增强勒让德记忆模型，用于通用时间序列预测</td>
+  <td class="tags-cell"><span class="paper-tag">foundation model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14253v1" onclick="toggleFavorite(this, '2512.14253v1', 'FLAME: Flow Enhanced Legendre Memory Models for General Time Series Forecasting')" title="添加到收藏夹">☆</button></td>
 </tr>

@@ -22,13 +22,14 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-10-23
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>1</td>
   <td><a href="./papers/251020955v1-safety-assessment-in-reinforcement-learning-via-model-predictive-con.html">Safety Assessment in Reinforcement Learning via Model Predictive Control</a></td>
   <td>提出基于模型预测控制的强化学习安全评估方法，保障训练过程安全性</td>
+  <td class="tags-cell"><span class="paper-tag">model predictive control</span> <span class="paper-tag">reinforcement learning</span> <span class="paper-tag">PPO</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.20955v1" onclick="toggleFavorite(this, '2510.20955v1', 'Safety Assessment in Reinforcement Learning via Model Predictive Control')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -40,13 +41,14 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-10-23
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>2</td>
   <td><a href="./papers/251020875v1-cc-grmas-a-multi-agent-graph-neural-system-for-spatiotemporal-landsl.html">CC-GRMAS: A Multi-Agent Graph Neural System for Spatiotemporal Landslide Risk Assessment in High Mountain Asia</a></td>
   <td>提出CC-GRMAS，用于高山亚洲地区时空滑坡风险评估</td>
+  <td class="tags-cell"><span class="paper-tag">spatiotemporal</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.20875v1" onclick="toggleFavorite(this, '2510.20875v1', 'CC-GRMAS: A Multi-Agent Graph Neural System for Spatiotemporal Landslide Risk Assessment in High Mountain Asia')" title="添加到收藏夹">☆</button></td>
 </tr>

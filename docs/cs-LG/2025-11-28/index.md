@@ -21,13 +21,14 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-11-28
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>1</td>
   <td><a href="./papers/251208952v1-learning-when-to-ask-simulation-trained-humanoids-for-mental-health-.html">Learning When to Ask: Simulation-Trained Humanoids for Mental-Health Diagnosis</a></td>
   <td>提出基于模拟训练的人形机器人心理健康诊断方法，提升对话效率与诊断准确性。</td>
+  <td class="tags-cell"><span class="paper-tag">humanoid</span> <span class="paper-tag">humanoid robot</span> <span class="paper-tag">policy learning</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.08952v1" onclick="toggleFavorite(this, '2512.08952v1', 'Learning When to Ask: Simulation-Trained Humanoids for Mental-Health Diagnosis')" title="添加到收藏夹">☆</button></td>
 </tr>

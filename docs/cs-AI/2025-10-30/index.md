@@ -21,13 +21,14 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-10-30
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>1</td>
   <td><a href="./papers/251026967v1-using-salient-object-detection-to-identify-manipulative-cookie-banne.html">Using Salient Object Detection to Identify Manipulative Cookie Banners that Circumvent GDPR</a></td>
   <td>利用显著性目标检测识别规避GDPR的操纵性Cookie横幅</td>
+  <td class="tags-cell"><span class="paper-tag">manipulation</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.26967v1" onclick="toggleFavorite(this, '2510.26967v1', 'Using Salient Object Detection to Identify Manipulative Cookie Banners that Circumvent GDPR')" title="添加到收藏夹">☆</button></td>
 </tr>

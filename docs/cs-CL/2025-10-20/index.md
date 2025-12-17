@@ -21,13 +21,14 @@ title: arXiv 中文要点汇总 - cs.CL - 2025-10-20
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>1</td>
   <td><a href="./papers/251017759v1-vera-v-variational-inference-framework-for-jailbreaking-vision-langu.html">VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models</a></td>
   <td>提出VERA-V框架以解决多模态模型的漏洞发现问题</td>
+  <td class="tags-cell"><span class="paper-tag">large language model</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.17759v1" onclick="toggleFavorite(this, '2510.17759v1', 'VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models')" title="添加到收藏夹">☆</button></td>
 </tr>

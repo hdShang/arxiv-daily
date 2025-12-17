@@ -24,13 +24,14 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-20
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>1</td>
   <td><a href="./papers/251017801v1-robobench-a-comprehensive-evaluation-benchmark-for-multimodal-large-.html">Robobench: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models as Embodied Brain</a></td>
   <td>RoboBench：用于评估多模态大语言模型作为具身智能大脑的综合基准</td>
+  <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">affordance</span> <span class="paper-tag">spatiotemporal</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.17801v1" onclick="toggleFavorite(this, '2510.17801v1', 'Robobench: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models as Embodied Brain')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -38,6 +39,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-20
   <td>2</td>
   <td><a href="./papers/251017369v1-bridging-embodiment-gaps-deploying-vision-language-action-models-on-.html">Bridging Embodiment Gaps: Deploying Vision-Language-Action Models on Soft Robots</a></td>
   <td>提出将视觉-语言-动作模型应用于软机器人以解决安全交互问题</td>
+  <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">embodied AI</span> <span class="paper-tag">vision-language-action</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.17369v1" onclick="toggleFavorite(this, '2510.17369v1', 'Bridging Embodiment Gaps: Deploying Vision-Language-Action Models on Soft Robots')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -45,6 +47,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-20
   <td>3</td>
   <td><a href="./papers/251017111v3-efficient-vision-language-action-models-for-embodied-manipulation-a-.html">Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey</a></td>
   <td>综述高效视觉-语言-动作模型，解决具身操作中计算资源受限问题</td>
+  <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">vision-language-action</span> <span class="paper-tag">VLA</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.17111v3" onclick="toggleFavorite(this, '2510.17111v3', 'Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -52,6 +55,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-20
   <td>4</td>
   <td><a href="./papers/251018002v1-humanoid-goalkeeper-learning-from-position-conditioned-task-motion-c.html">Humanoid Goalkeeper: Learning from Position Conditioned Task-Motion Constraints</a></td>
   <td>提出基于位置条件任务-运动约束的人形机器人守门员强化学习框架</td>
+  <td class="tags-cell"><span class="paper-tag">quadruped</span> <span class="paper-tag">humanoid</span> <span class="paper-tag">humanoid robot</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.18002v1" onclick="toggleFavorite(this, '2510.18002v1', 'Humanoid Goalkeeper: Learning from Position Conditioned Task-Motion Constraints')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -59,6 +63,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-20
   <td>5</td>
   <td><a href="./papers/251017640v2-resample-a-robust-data-augmentation-framework-via-exploratory-sampli.html">RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation</a></td>
   <td>RESample：探索式采样增强机器人操作的鲁棒数据增强框架</td>
+  <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">reinforcement learning</span> <span class="paper-tag">offline reinforcement learning</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.17640v2" onclick="toggleFavorite(this, '2510.17640v2', 'RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -66,6 +71,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-20
   <td>6</td>
   <td><a href="./papers/251017792v1-softmimic-learning-compliant-whole-body-control-from-examples.html">SoftMimic: Learning Compliant Whole-body Control from Examples</a></td>
   <td>SoftMimic：从示例中学习柔顺的人形机器人全身控制</td>
+  <td class="tags-cell"><span class="paper-tag">humanoid</span> <span class="paper-tag">humanoid robot</span> <span class="paper-tag">whole-body control</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.17792v1" onclick="toggleFavorite(this, '2510.17792v1', 'SoftMimic: Learning Compliant Whole-body Control from Examples')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -73,6 +79,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-20
   <td>7</td>
   <td><a href="./papers/251017143v1-decentralized-real-time-planning-for-multi-uav-cooperative-manipulat.html">Decentralized Real-Time Planning for Multi-UAV Cooperative Manipulation via Imitation Learning</a></td>
   <td>提出基于模仿学习的无人机协同操作分散式实时规划方法</td>
+  <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">imitation learning</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.17143v1" onclick="toggleFavorite(this, '2510.17143v1', 'Decentralized Real-Time Planning for Multi-UAV Cooperative Manipulation via Imitation Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -80,6 +87,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-20
   <td>8</td>
   <td><a href="./papers/251017249v1-an-adaptive-hierarchical-control-framework-for-quadrupedal-robots-in.html">An adaptive hierarchical control framework for quadrupedal robots in planetary exploration</a></td>
   <td>提出一种自适应分层控制框架，用于行星探测四足机器人未知环境导航。</td>
+  <td class="tags-cell"><span class="paper-tag">quadruped</span> <span class="paper-tag">legged robot</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.17249v1" onclick="toggleFavorite(this, '2510.17249v1', 'An adaptive hierarchical control framework for quadrupedal robots in planetary exploration')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -87,6 +95,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-20
   <td>9</td>
   <td><a href="./papers/251017270v1-floating-base-deep-lagrangian-networks.html">Floating-Base Deep Lagrangian Networks</a></td>
   <td>提出FeLaN，结合深度学习与拉格朗日力学，解决浮动基座系统物理约束建模问题</td>
+  <td class="tags-cell"><span class="paper-tag">quadruped</span> <span class="paper-tag">humanoid</span> <span class="paper-tag">physically plausible</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.17270v1" onclick="toggleFavorite(this, '2510.17270v1', 'Floating-Base Deep Lagrangian Networks')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -94,6 +103,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-20
   <td>10</td>
   <td><a href="./papers/251017541v1-distributed-spatial-temporal-trajectory-optimization-for-unmanned-ae.html">Distributed Spatial-Temporal Trajectory Optimization for Unmanned-Aerial-Vehicle Swarm</a></td>
   <td>提出基于ADMM和DDP的分布式时空轨迹优化框架，解决无人机集群轨迹规划问题</td>
+  <td class="tags-cell"><span class="paper-tag">trajectory optimization</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.17541v1" onclick="toggleFavorite(this, '2510.17541v1', 'Distributed Spatial-Temporal Trajectory Optimization for Unmanned-Aerial-Vehicle Swarm')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -101,6 +111,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-20
   <td>11</td>
   <td><a href="./papers/251017150v2-omnivic-a-self-improving-variable-impedance-controller-with-vision-l.html">OmniVIC: A Self-Improving Variable Impedance Controller with Vision-Language In-Context Learning for Safe Robotic Manipulation</a></td>
   <td>OmniVIC：基于视觉语言上下文学习的自提升变阻抗控制器，用于安全机器人操作</td>
+  <td class="tags-cell"><span class="paper-tag">manipulation</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.17150v2" onclick="toggleFavorite(this, '2510.17150v2', 'OmniVIC: A Self-Improving Variable Impedance Controller with Vision-Language In-Context Learning for Safe Robotic Manipulation')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -108,6 +119,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-20
   <td>12</td>
   <td><a href="./papers/251017576v1-intent-driven-llm-ensemble-planning-for-flexible-multi-robot-disasse.html">Intent-Driven LLM Ensemble Planning for Flexible Multi-Robot Disassembly: Demonstration on EV Batteries</a></td>
   <td>提出意图驱动的LLM集成规划方法，用于柔性多机器人拆卸电动汽车电池。</td>
+  <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">large language model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.17576v1" onclick="toggleFavorite(this, '2510.17576v1', 'Intent-Driven LLM Ensemble Planning for Flexible Multi-Robot Disassembly: Demonstration on EV Batteries')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -115,6 +127,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-20
   <td>13</td>
   <td><a href="./papers/251017525v1-humanmpc-safe-and-efficient-mav-navigation-among-humans.html">HumanMPC - Safe and Efficient MAV Navigation among Humans</a></td>
   <td>HumanMPC：面向人机共存环境的安全高效无人机导航</td>
+  <td class="tags-cell"><span class="paper-tag">MPC</span> <span class="paper-tag">model predictive control</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.17525v1" onclick="toggleFavorite(this, '2510.17525v1', 'HumanMPC - Safe and Efficient MAV Navigation among Humans')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -122,6 +135,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-20
   <td>14</td>
   <td><a href="./papers/251017315v1-implicit-state-estimation-via-video-replanning.html">Implicit State Estimation via Video Replanning</a></td>
   <td>提出基于视频重规划的隐式状态估计框架，提升交互式操作任务的适应性。</td>
+  <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">spatiotemporal</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.17315v1" onclick="toggleFavorite(this, '2510.17315v1', 'Implicit State Estimation via Video Replanning')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -129,6 +143,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-20
   <td>15</td>
   <td><a href="./papers/251017335v3-ddbot-differentiable-physics-based-digging-robot-for-unknown-granula.html">DDBot: Differentiable Physics-based Digging Robot for Unknown Granular Materials</a></td>
   <td>DDBot：用于未知颗粒材料的可微物理挖掘机器人</td>
+  <td class="tags-cell"><span class="paper-tag">manipulation</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.17335v3" onclick="toggleFavorite(this, '2510.17335v3', 'DDBot: Differentiable Physics-based Digging Robot for Unknown Granular Materials')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -136,6 +151,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-20
   <td>16</td>
   <td><a href="./papers/251017086v1-learning-to-design-soft-hands-using-reward-models.html">Learning to Design Soft Hands using Reward Models</a></td>
   <td>提出基于奖励模型的交叉熵方法，高效优化柔性手爪设计。</td>
+  <td class="tags-cell"><span class="paper-tag">teleoperation</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.17086v1" onclick="toggleFavorite(this, '2510.17086v1', 'Learning to Design Soft Hands using Reward Models')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -147,13 +163,14 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-20
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>17</td>
   <td><a href="./papers/251017439v1-from-spatial-to-actions-grounding-vision-language-action-model-in-sp.html">From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors</a></td>
   <td>FALCON：利用空间基础先验增强视觉-语言-动作模型的3D环境泛化能力</td>
+  <td class="tags-cell"><span class="paper-tag">vision-language-action</span> <span class="paper-tag">VLA</span> <span class="paper-tag">foundation model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.17439v1" onclick="toggleFavorite(this, '2510.17439v1', 'From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -161,6 +178,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-20
   <td>18</td>
   <td><a href="./papers/251017950v1-robochallenge-large-scale-real-robot-evaluation-of-embodied-policies.html">RoboChallenge: Large-scale Real-robot Evaluation of Embodied Policies</a></td>
   <td>RoboChallenge：大规模真实机器人环境下的具身策略评估系统</td>
+  <td class="tags-cell"><span class="paper-tag">VLA</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.17950v1" onclick="toggleFavorite(this, '2510.17950v1', 'RoboChallenge: Large-scale Real-robot Evaluation of Embodied Policies')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -172,13 +190,14 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-20
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>19</td>
   <td><a href="./papers/251017148v4-diffvla-bridging-cognitive-reasoning-and-end-to-end-driving-through-.html">DiffVLA++: Bridging Cognitive Reasoning and End-to-End Driving through Metric-Guided Alignment</a></td>
   <td>DiffVLA++：通过度量引导对齐桥接认知推理与端到端驾驶</td>
+  <td class="tags-cell"><span class="paper-tag">physically plausible</span> <span class="paper-tag">vision-language-action</span> <span class="paper-tag">VLA</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.17148v4" onclick="toggleFavorite(this, '2510.17148v4', 'DiffVLA++: Bridging Cognitive Reasoning and End-to-End Driving through Metric-Guided Alignment')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -186,6 +205,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-20
   <td>20</td>
   <td><a href="./papers/251018137v1-quality-over-quantity-curating-contact-based-robot-datasets-improves.html">Quality Over Quantity: Curating Contact-Based Robot Datasets Improves Learning</a></td>
   <td>提出基于接触感知的机器人数据筛选方法，提升机器人学习效率与确定性</td>
+  <td class="tags-cell"><span class="paper-tag">contact-aware</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.18137v1" onclick="toggleFavorite(this, '2510.18137v1', 'Quality Over Quantity: Curating Contact-Based Robot Datasets Improves Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -197,13 +217,14 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-20
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>21</td>
   <td><a href="./papers/251018085v1-r2bc-multi-agent-imitation-learning-from-single-agent-demonstrations.html">R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations</a></td>
   <td>R2BC：从单智能体演示中学习多智能体协作策略</td>
+  <td class="tags-cell"><span class="paper-tag">imitation learning</span> <span class="paper-tag">behavior cloning</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.18085v1" onclick="toggleFavorite(this, '2510.18085v1', 'R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations')" title="添加到收藏夹">☆</button></td>
 </tr>

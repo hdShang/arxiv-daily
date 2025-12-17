@@ -23,13 +23,14 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-12-15
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>1</td>
   <td><a href="./papers/251213770v1-enhancing-semi-supervised-multi-view-graph-convolutional-networks-vi.html">Enhancing Semi-Supervised Multi-View Graph Convolutional Networks via Supervised Contrastive Learning and Self-Training</a></td>
   <td>提出MV-SupGCN，通过监督对比学习和自训练增强半监督多视图图卷积网络</td>
+  <td class="tags-cell"><span class="paper-tag">contrastive learning</span></td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2512.13770v1" onclick="toggleFavorite(this, '2512.13770v1', 'Enhancing Semi-Supervised Multi-View Graph Convolutional Networks via Supervised Contrastive Learning and Self-Training')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -41,13 +42,14 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-12-15
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>2</td>
   <td><a href="./papers/251213497v1-on-device-continual-learning-for-unsupervised-visual-anomaly-detecti.html">On-Device Continual Learning for Unsupervised Visual Anomaly Detection in Dynamic Manufacturing</a></td>
   <td>提出基于设备端持续学习的PatchCore改进方法，用于动态制造中的无监督视觉异常检测。</td>
+  <td class="tags-cell"><span class="paper-tag">localization</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.13497v1" onclick="toggleFavorite(this, '2512.13497v1', 'On-Device Continual Learning for Unsupervised Visual Anomaly Detection in Dynamic Manufacturing')" title="添加到收藏夹">☆</button></td>
 </tr>

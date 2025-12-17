@@ -22,13 +22,14 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-10-06
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>1</td>
   <td><a href="./papers/251005097v1-pulp-motion-framing-aware-multimodal-camera-and-human-motion-generat.html">Pulp Motion: Framing-aware multimodal camera and human motion generation</a></td>
   <td>提出多模态联合生成方法以解决人类动作与摄像机轨迹生成问题</td>
+  <td class="tags-cell"><span class="paper-tag">motion generation</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.05097v1" onclick="toggleFavorite(this, '2510.05097v1', 'Pulp Motion: Framing-aware multimodal camera and human motion generation')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -40,13 +41,14 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-10-06
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>2</td>
   <td><a href="./papers/251004637v1-social-agent-mastering-dyadic-nonverbal-behavior-generation-via-conv.html">Social Agent: Mastering Dyadic Nonverbal Behavior Generation via Conversational LLM Agents</a></td>
   <td>Social Agent：基于对话LLM智能体实现双人非语言行为生成</td>
+  <td class="tags-cell"><span class="paper-tag">dyadic interaction</span> <span class="paper-tag">large language model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.04637v1" onclick="toggleFavorite(this, '2510.04637v1', 'Social Agent: Mastering Dyadic Nonverbal Behavior Generation via Conversational LLM Agents')" title="添加到收藏夹">☆</button></td>
 </tr>

@@ -21,13 +21,14 @@ title: arXiv 中文要点汇总 - eess.SY - 2025-11-11
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>1</td>
   <td><a href="./papers/251108752v1-information-driven-fault-detection-and-identification-for-multi-agen.html">Information-Driven Fault Detection and Identification for Multi-Agent Spacecraft Systems: Collaborative On-Orbit Inspection Mission</a></td>
   <td>提出信息驱动的容错框架，用于多智能体航天器协同在轨检测任务</td>
+  <td class="tags-cell"><span class="paper-tag">localization</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2511.08752v1" onclick="toggleFavorite(this, '2511.08752v1', 'Information-Driven Fault Detection and Identification for Multi-Agent Spacecraft Systems: Collaborative On-Orbit Inspection Mission')" title="添加到收藏夹">☆</button></td>
 </tr>

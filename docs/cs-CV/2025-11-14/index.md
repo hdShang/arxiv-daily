@@ -23,13 +23,14 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-14
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>1</td>
   <td><a href="./papers/251110953v1-language-guided-graph-representation-learning-for-video-summarizatio.html">Language-Guided Graph Representation Learning for Video Summarization</a></td>
   <td>提出语言引导的图表示学习网络LGRLN，用于解决视频摘要中全局依赖建模和多模态定制问题。</td>
+  <td class="tags-cell"><span class="paper-tag">representation learning</span></td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2511.10953v1" onclick="toggleFavorite(this, '2511.10953v1', 'Language-Guided Graph Representation Learning for Video Summarization')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -41,13 +42,14 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-14
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>2</td>
   <td><a href="./papers/251110948v1-deft-llm-disentangled-expert-feature-tuning-for-micro-expression-rec.html">DEFT-LLM: Disentangled Expert Feature Tuning for Micro-Expression Recognition</a></td>
   <td>提出DEFT-LLM以解决微表情识别中的运动语义对齐问题</td>
+  <td class="tags-cell"><span class="paper-tag">optical flow</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2511.10948v1" onclick="toggleFavorite(this, '2511.10948v1', 'DEFT-LLM: Disentangled Expert Feature Tuning for Micro-Expression Recognition')" title="添加到收藏夹">☆</button></td>
 </tr>

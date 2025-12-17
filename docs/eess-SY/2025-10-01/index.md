@@ -21,13 +21,14 @@ title: arXiv 中文要点汇总 - eess.SY - 2025-10-01
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>1</td>
   <td><a href="./papers/251001489v1-a-robust-neural-control-design-for-multi-drone-slung-payload-manipul.html">A Robust Neural Control Design for Multi-drone Slung Payload Manipulation with Control Contraction Metrics</a></td>
   <td>提出一种基于控制收缩度量的多无人机吊索负载操纵鲁棒神经控制方法</td>
+  <td class="tags-cell"><span class="paper-tag">manipulation</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.01489v1" onclick="toggleFavorite(this, '2510.01489v1', 'A Robust Neural Control Design for Multi-drone Slung Payload Manipulation with Control Contraction Metrics')" title="添加到收藏夹">☆</button></td>
 </tr>

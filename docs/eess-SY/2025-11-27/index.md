@@ -21,13 +21,14 @@ title: arXiv 中文要点汇总 - eess.SY - 2025-11-27
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>1</td>
   <td><a href="./papers/251122810v1-switching-control-of-underactuated-multi-channel-systems-with-input-.html">Switching control of underactuated multi-channel systems with input constraints for cooperative manipulation</a></td>
   <td>针对欠驱动多通道系统，提出基于事件触发切换控制的协同操作框架</td>
+  <td class="tags-cell"><span class="paper-tag">manipulation</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2511.22810v1" onclick="toggleFavorite(this, '2511.22810v1', 'Switching control of underactuated multi-channel systems with input constraints for cooperative manipulation')" title="添加到收藏夹">☆</button></td>
 </tr>

@@ -21,13 +21,14 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-11-09
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>1</td>
   <td><a href="./papers/251106471v2-ghost-solving-the-traveling-salesman-problem-on-graphs-of-convex-set.html">GHOST: Solving the Traveling Salesman Problem on Graphs of Convex Sets</a></td>
   <td>GHOST：求解凸集图上的旅行商问题，用于轨迹规划</td>
+  <td class="tags-cell"><span class="paper-tag">trajectory optimization</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2511.06471v2" onclick="toggleFavorite(this, '2511.06471v2', 'GHOST: Solving the Traveling Salesman Problem on Graphs of Convex Sets')" title="添加到收藏夹">☆</button></td>
 </tr>

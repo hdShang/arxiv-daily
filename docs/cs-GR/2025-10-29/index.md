@@ -21,13 +21,14 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-10-29
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>1</td>
   <td><a href="./papers/251101894v1-lgcc-enhancing-flow-matching-based-text-guided-image-editing-with-lo.html">LGCC: Enhancing Flow Matching Based Text-Guided Image Editing with Local Gaussian Coupling and Context Consistency</a></td>
   <td>LGCC：通过局部高斯耦合和上下文一致性增强Flow Matching文本引导图像编辑</td>
+  <td class="tags-cell"><span class="paper-tag">flow matching</span> <span class="paper-tag">curriculum learning</span> <span class="paper-tag">large language model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2511.01894v1" onclick="toggleFavorite(this, '2511.01894v1', 'LGCC: Enhancing Flow Matching Based Text-Guided Image Editing with Local Gaussian Coupling and Context Consistency')" title="添加到收藏夹">☆</button></td>
 </tr>

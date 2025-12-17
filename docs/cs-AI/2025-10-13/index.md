@@ -21,13 +21,14 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-10-13
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>1</td>
   <td><a href="./papers/251010932v1-tabvla-targeted-backdoor-attacks-on-vision-language-action-models.html">TabVLA: Targeted Backdoor Attacks on Vision-Language-Action Models</a></td>
   <td>TabVLA：针对视觉-语言-动作模型的有目标后门攻击框架</td>
+  <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">embodied AI</span> <span class="paper-tag">vision-language-action</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2510.10932v1" onclick="toggleFavorite(this, '2510.10932v1', 'TabVLA: Targeted Backdoor Attacks on Vision-Language-Action Models')" title="添加到收藏夹">☆</button></td>
 </tr>

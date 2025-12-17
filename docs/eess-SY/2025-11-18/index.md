@@ -21,13 +21,14 @@ title: arXiv 中文要点汇总 - eess.SY - 2025-11-18
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>1</td>
   <td><a href="./papers/251114311v1-multi-timescale-model-predictive-control-for-slow-fast-systems.html">Multi-Timescale Model Predictive Control for Slow-Fast Systems</a></td>
   <td>针对快慢混合系统，提出多时间尺度模型预测控制方法，提升计算效率。</td>
+  <td class="tags-cell"><span class="paper-tag">MPC</span> <span class="paper-tag">model predictive control</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2511.14311v1" onclick="toggleFavorite(this, '2511.14311v1', 'Multi-Timescale Model Predictive Control for Slow-Fast Systems')" title="添加到收藏夹">☆</button></td>
 </tr>

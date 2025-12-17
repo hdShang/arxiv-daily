@@ -21,13 +21,14 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-11-11
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>1</td>
   <td><a href="./papers/251107860v1-touchwalker-real-time-avatar-locomotion-from-touchscreen-finger-walk.html">TouchWalker: Real-Time Avatar Locomotion from Touchscreen Finger Walking</a></td>
   <td>TouchWalker：提出一种基于触摸屏手指行走的实时全身Avatar运动控制系统</td>
+  <td class="tags-cell"><span class="paper-tag">locomotion</span> <span class="paper-tag">walking</span> <span class="paper-tag">running</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2511.07860v1" onclick="toggleFavorite(this, '2511.07860v1', 'TouchWalker: Real-Time Avatar Locomotion from Touchscreen Finger Walking')" title="添加到收藏夹">☆</button></td>
 </tr>

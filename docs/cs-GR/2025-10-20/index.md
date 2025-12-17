@@ -22,13 +22,14 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-10-20
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>1</td>
   <td><a href="./papers/251017101v1-shape-aware-inertial-poser-motion-tracking-for-humans-with-diverse-s.html">Shape-aware Inertial Poser: Motion Tracking for Humans with Diverse Shapes Using Sparse Inertial Sensors</a></td>
   <td>提出SAIP，解决稀疏惯性传感器人体动作捕捉中体型差异泛化难题</td>
+  <td class="tags-cell"><span class="paper-tag">motion tracking</span></td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2510.17101v1" onclick="toggleFavorite(this, '2510.17101v1', 'Shape-aware Inertial Poser: Motion Tracking for Humans with Diverse Shapes Using Sparse Inertial Sensors')" title="添加到收藏夹">☆</button></td>
 </tr>

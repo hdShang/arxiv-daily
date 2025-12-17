@@ -22,13 +22,14 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-11-19
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>1</td>
   <td><a href="./papers/251115908v1-sphaptics-a-real-time-bidirectional-haptic-interaction-framework-for.html">SPHaptics: A Real-Time Bidirectional Haptic Interaction Framework for Coupled Rigid-Soft Body and Lagrangian Fluid Simulation in Virtual Environments</a></td>
   <td>SPHaptics：用于虚拟环境中刚体-软体耦合及拉格朗日流体实时双向触觉交互框架</td>
+  <td class="tags-cell"><span class="paper-tag">manipulation</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2511.15908v1" onclick="toggleFavorite(this, '2511.15908v1', 'SPHaptics: A Real-Time Bidirectional Haptic Interaction Framework for Coupled Rigid-Soft Body and Lagrangian Fluid Simulation in Virtual Environments')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -40,13 +41,14 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-11-19
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>2</td>
   <td><a href="./papers/251115398v1-one-algebra-for-all-geometric-algebra-methods-for-neurosymbolic-xr-s.html">One algebra for all : Geometric Algebra methods for neurosymbolic XR scene authoring, animation and neural rendering</a></td>
   <td>利用几何代数统一神经符号XR场景创作、动画与神经渲染</td>
+  <td class="tags-cell"><span class="paper-tag">character animation</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2511.15398v1" onclick="toggleFavorite(this, '2511.15398v1', 'One algebra for all : Geometric Algebra methods for neurosymbolic XR scene authoring, animation and neural rendering')" title="添加到收藏夹">☆</button></td>
 </tr>

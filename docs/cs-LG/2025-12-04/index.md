@@ -21,13 +21,14 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-12-04
 
 <table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>
 <tr>
   <td>1</td>
   <td><a href="./papers/251204385v1-step-diff-spatio-temporal-physics-informed-diffusion-models-for-mobi.html">STeP-Diff: Spatio-Temporal Physics-Informed Diffusion Models for Mobile Fine-Grained Pollution Forecasting</a></td>
   <td>STeP-Diff：时空物理信息扩散模型用于移动细粒度污染预测</td>
+  <td class="tags-cell"><span class="paper-tag">MAE</span> <span class="paper-tag">physics-informed diffusion</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.04385v1" onclick="toggleFavorite(this, '2512.04385v1', 'STeP-Diff: Spatio-Temporal Physics-Informed Diffusion Models for Mobile Fine-Grained Pollution Forecasting')" title="添加到收藏夹">☆</button></td>
 </tr>
