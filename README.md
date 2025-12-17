@@ -32,21 +32,21 @@ pip install -r requirements.txt
 pip install -U arxiv openai tqdm requests beautifulsoup4
 ```
 
-### 2. Set your OpenAI API key
+### 2. Set your DeepSeek API key
 ```bash
-export LLM_API_KEY=sk-your-openai-api-key
-export LLM_BASE_URL=https://api.openai.com/v1
-export LLM_MODEL=gpt-4o-mini
+export LLM_API_KEY=your-deepseek-api-key
+export LLM_BASE_URL=https://api.deepseek.com
+export LLM_MODEL=deepseek-chat
 ```
 
 <details>
-<summary>💡 Using other LLM providers (DeepSeek, Zhipu, etc.)</summary>
+<summary>💡 Using other LLM providers (OpenAI, Zhipu, etc.)</summary>
 
 ```bash
-# DeepSeek
-export LLM_API_KEY=your_deepseek_key
-export LLM_BASE_URL=https://api.deepseek.com
-export LLM_MODEL=deepseek-chat
+# OpenAI
+export LLM_API_KEY=sk-your-openai-key
+export LLM_BASE_URL=https://api.openai.com/v1
+export LLM_MODEL=gpt-4o-mini
 
 # Zhipu (智谱)
 export LLM_API_KEY=your_zhipu_key
@@ -79,15 +79,15 @@ Open `docs/index.html` locally, or push and enable GitHub Pages (see below).
 
 The workflow `.github/workflows/daily.yml` is already included. To wire it up:
 
-### 1. Add OpenAI API Key
+### 1. Add DeepSeek API Key
 
 Go to **Settings → Secrets and variables → Actions → New repository secret**:
 
 | Secret Name | Value | Required |
 |-------------|-------|----------|
-| `OPENAI_API_KEY` | Your OpenAI API key (sk-xxx...) | ✅ Yes |
+| `DEEPSEEK_API_KEY` | Your DeepSeek API key (sk-xxx...) | ✅ Yes |
 
-> 💡 默认使用 `gpt-4o-mini` 模型。如需更改，编辑 `.github/workflows/daily.yml` 中的 `LLM_MODEL`。
+> 💡 默认使用 `deepseek-chat` 模型。DeepSeek API 价格便宜、速度快、中文效果好。
 
 ### 2. Enable GitHub Actions
 
@@ -118,7 +118,7 @@ Two ways to trigger:
 
 ### What the workflow does:
 1. ✅ Check out the repo, install Python deps
-2. ✅ Run `main.py` to fetch today's arXiv papers and call OpenAI API for Chinese summaries
+2. ✅ Run `main.py` to fetch today's arXiv papers and call DeepSeek API for Chinese summaries
 3. ✅ Run `build_page.py` to regenerate the `docs/` site
 4. ✅ Commit and push changes automatically
 

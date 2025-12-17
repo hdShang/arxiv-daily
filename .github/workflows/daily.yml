@@ -49,12 +49,12 @@ jobs:
 
       - name: Run main.py to fetch & summarize today
         env:
-          # OpenAI API 配置
-          LLM_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          LLM_BASE_URL: "https://api.openai.com/v1"
-          LLM_MODEL: "gpt-4o-mini"  # 可改为 gpt-4o, gpt-4-turbo 等
+          # DeepSeek API 配置
+          LLM_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          LLM_BASE_URL: "https://api.deepseek.com"
+          LLM_MODEL: "deepseek-chat"
         run: |
-          # 抓取最近 arXiv 公告窗口的论文 -> 调用 OpenAI API 生成中文摘要
+          # 抓取最近 arXiv 公告窗口的论文 -> 调用 DeepSeek API 生成中文摘要
           # 输出到 data/<YYYY-MM-DD>/ai_summary.json
           python main.py
 
