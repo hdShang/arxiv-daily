@@ -273,37 +273,108 @@ def build_tag_index_md(tag: str, dates: List[str], site_title: str) -> str:
     lines.append("[返回主页](../index.html)")
     return "\n".join(lines)
 
-def build_home_md(tags: List[str], tag_latest_dates: Dict[str, str], site_title: str) -> str:
+def build_home_md(tags: List[str], tag_stats: Dict[str, Dict], site_title: str) -> str:
     """
-    首页：包含分类导航（只显示有数据的分类）
+    首页：包含分类导航，显示最近一周数据和统计信息
+    
+    tag_stats 结构:
+    {
+        "cs.RO": {
+            "latest_date": "2025-12-17",
+            "dates": ["2025-12-17", "2025-12-16", ...],
+            "recent_papers": [...],  # 最近7天的论文
+            "total_count": 100,
+            "pillar_stats": {
+                "机器人控制": 30,
+                "空间感知": 25,
+                ...
+            }
+        }
+    }
     """
     lines = []
     lines.append(f"---\nlayout: default\ntitle: {site_title}\n---\n")
     lines.append(f"# {site_title}\n")
-    lines.append("> 选择分类查看论文\n")
     
     # 只显示有数据的分类
-    active_tags = [tag for tag in tags if tag in tag_latest_dates and tag_latest_dates[tag]]
+    active_tags = [tag for tag in tags if tag in tag_stats and tag_stats[tag].get("dates")]
     
-    # 分类卡片
-    lines.append('<div class="tag-grid">')
-    for tag in active_tags:
-        latest = tag_latest_dates[tag]
-        safe_tag = tag.replace(".", "-")
-        lines.append(f'''
-<div class="tag-card">
-  <h3><a href="{safe_tag}/index.html">{tag}</a></h3>
-  <p>最新日期：{latest}</p>
-  <a class="btn" href="{safe_tag}/{latest}/index.html">查看最新</a>
-</div>''')
-    lines.append('</div>\n')
+    if not active_tags:
+        lines.append("> 暂无数据\n")
+        return "\n".join(lines)
     
-    lines.append("---\n")
-    lines.append("## 分类列表\n")
+    # 为每个分类生成详细卡片
     for tag in active_tags:
+        stats = tag_stats[tag]
         safe_tag = tag.replace(".", "-")
-        latest = tag_latest_dates[tag]
-        lines.append(f"- **[{tag}]({safe_tag}/index.html)**：最新 {latest}")
+        latest_date = stats.get("latest_date", "")
+        dates = stats.get("dates", [])
+        total_count = stats.get("total_count", 0)
+        pillar_stats = stats.get("pillar_stats", {})
+        recent_papers = stats.get("recent_papers", [])
+        recent_dates = stats.get("recent_dates", [])
+        
+        lines.append(f'<div class="tag-section" id="{safe_tag}">')
+        lines.append(f'<div class="tag-header">')
+        lines.append(f'<h2>{tag}</h2>')
+        lines.append(f'<div class="tag-meta">')
+        lines.append(f'<span class="date-range">📅 最新: {latest_date}</span>')
+        lines.append(f'<span class="paper-count">📄 共 {total_count} 篇</span>')
+        lines.append(f'</div>')
+        lines.append(f'</div>')
+        
+        # 支柱统计
+        if pillar_stats:
+            lines.append('<div class="pillar-stats">')
+            lines.append('<h4>📊 领域分布</h4>')
+            lines.append('<div class="pillar-badges">')
+            for pillar_name, count in sorted(pillar_stats.items(), key=lambda x: -x[1]):
+                # 简化支柱名称
+                short_name = pillar_name.split("：")[-1].split(" ")[0] if "：" in pillar_name else pillar_name
+                lines.append(f'<span class="pillar-badge">{short_name} <strong>{count}</strong></span>')
+            lines.append('</div>')
+            lines.append('</div>')
+        
+        # 最近日期快速访问
+        date_paper_counts = stats.get("date_paper_counts", {})
+        if recent_dates:
+            lines.append('<div class="recent-dates">')
+            lines.append('<h4>📆 最近更新</h4>')
+            lines.append('<div class="date-buttons">')
+            for d in recent_dates[:7]:
+                paper_count = date_paper_counts.get(d, 0)
+                lines.append(f'<a href="{safe_tag}/{d}/index.html" class="date-btn">{d} <small>({paper_count}篇)</small></a>')
+            lines.append('</div>')
+            lines.append('</div>')
+        
+        # 最近论文预览（最多显示5篇）
+        if recent_papers:
+            lines.append('<div class="recent-papers">')
+            lines.append('<h4>📝 最新论文</h4>')
+            lines.append('<ul class="paper-list">')
+            for p in recent_papers[:5]:
+                title = p.get("title", "")[:60]
+                if len(p.get("title", "")) > 60:
+                    title += "..."
+                headline = p.get("headline_zh", "")[:40]
+                if len(p.get("headline_zh", "")) > 40:
+                    headline += "..."
+                paper_date = p.get("_date", latest_date)
+                arxiv_id = p.get("arxiv_id", "")
+                slug = slugify(f"{arxiv_id}-{p.get('title', '')}") or "paper"
+                has_code = "🔗" if p.get("code_links") else ""
+                lines.append(f'<li><a href="{safe_tag}/{paper_date}/papers/{slug}.html">{title}</a> {has_code}<br><small>{headline}</small></li>')
+            lines.append('</ul>')
+            lines.append('</div>')
+        
+        # 操作按钮
+        lines.append('<div class="tag-actions">')
+        lines.append(f'<a class="btn btn-primary" href="{safe_tag}/{latest_date}/index.html">查看最新</a>')
+        lines.append(f'<a class="btn btn-secondary" href="{safe_tag}/index.html">更多日期 ({len(dates)})</a>')
+        lines.append('</div>')
+        
+        lines.append('</div>')  # tag-section
+        lines.append('')
     
     return "\n".join(lines)
 
@@ -499,6 +570,216 @@ code {
   text-decoration: none !important;
 }
 
+/* ===== 新版首页样式 ===== */
+
+/* 分类区块 */
+.tag-section {
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  background: var(--bg);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+
+.tag-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid var(--primary);
+}
+
+.tag-header h2 {
+  margin: 0;
+  padding: 0;
+  border: none;
+  font-size: 1.5rem;
+  color: var(--primary);
+}
+
+.tag-meta {
+  display: flex;
+  gap: 1rem;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.tag-meta span {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+/* 支柱统计 */
+.pillar-stats {
+  margin: 1rem 0;
+  padding: 1rem;
+  background: var(--bg-secondary);
+  border-radius: 12px;
+}
+
+.pillar-stats h4 {
+  margin: 0 0 0.75rem;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.pillar-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.pillar-badge {
+  display: inline-block;
+  padding: 0.35rem 0.75rem;
+  background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+  color: #0369a1;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  border: 1px solid #bae6fd;
+}
+
+.pillar-badge strong {
+  margin-left: 0.35rem;
+  padding: 0.1rem 0.4rem;
+  background: #0369a1;
+  color: white;
+  border-radius: 10px;
+  font-size: 0.75rem;
+}
+
+/* 最近日期按钮 */
+.recent-dates {
+  margin: 1rem 0;
+}
+
+.recent-dates h4 {
+  margin: 0 0 0.75rem;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.date-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.date-btn {
+  display: inline-block;
+  padding: 0.5rem 0.75rem;
+  background: var(--bg-secondary);
+  color: var(--text) !important;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  border: 1px solid var(--border);
+  transition: all 0.2s;
+  text-decoration: none !important;
+}
+
+.date-btn:hover {
+  background: var(--primary);
+  color: white !important;
+  border-color: var(--primary);
+}
+
+.date-btn small {
+  color: var(--text-secondary);
+  margin-left: 0.25rem;
+}
+
+.date-btn:hover small {
+  color: rgba(255,255,255,0.8);
+}
+
+/* 最近论文列表 */
+.recent-papers {
+  margin: 1rem 0;
+}
+
+.recent-papers h4 {
+  margin: 0 0 0.75rem;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.paper-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.paper-list li {
+  padding: 0.75rem;
+  border-bottom: 1px solid var(--border);
+  transition: background 0.2s;
+}
+
+.paper-list li:last-child {
+  border-bottom: none;
+}
+
+.paper-list li:hover {
+  background: var(--bg-secondary);
+}
+
+.paper-list a {
+  font-weight: 500;
+  color: var(--text);
+}
+
+.paper-list small {
+  display: block;
+  color: var(--text-secondary);
+  font-size: 0.8rem;
+  margin-top: 0.25rem;
+}
+
+/* 操作按钮 */
+.tag-actions {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.6rem 1.25rem;
+  border-radius: 8px;
+  font-weight: 500;
+  text-decoration: none !important;
+  transition: all 0.2s;
+}
+
+.btn-primary {
+  background: var(--primary);
+  color: white !important;
+}
+
+.btn-primary:hover {
+  background: var(--primary-dark);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+}
+
+.btn-secondary {
+  background: var(--bg-secondary);
+  color: var(--text) !important;
+  border: 1px solid var(--border);
+}
+
+.btn-secondary:hover {
+  background: var(--border);
+  color: var(--text) !important;
+}
+
 /* 响应式 */
 @media (max-width: 768px) {
   .container { padding: 0 1rem; }
@@ -506,6 +787,12 @@ code {
   table { font-size: 0.8rem; }
   th, td { padding: 0.5rem; }
   .tag-grid { grid-template-columns: 1fr; }
+  .tag-header { flex-direction: column; align-items: flex-start; }
+  .tag-meta { flex-direction: column; gap: 0.5rem; }
+  .date-buttons { gap: 0.35rem; }
+  .date-btn { padding: 0.4rem 0.6rem; font-size: 0.8rem; }
+  .tag-actions { flex-direction: column; }
+  .btn { text-align: center; }
 }
 """,
         encoding="utf-8"
@@ -516,20 +803,29 @@ code {
 def collect_dates(data_root: Path) -> List[Tuple[str, Path]]:
     """
     扫描 data/*/ai_summary*.json，返回 [(date_label, json_path), ...]，按日期升序。
+    支持两种目录格式:
+    - 日期格式: data/2025-12-16/ai_summary.json
+    - 月份格式: data/2025-12/ai_summary.json（会被标记为月度数据）
     """
     items = []
     for p in sorted(data_root.glob("*/ai_summary*.json")):
-        # 从路径或文件名中抽日期
+        # 先尝试匹配完整日期格式 YYYY-MM-DD
         m = re.search(r"(\d{4}-\d{2}-\d{2})", str(p))
         if not m:
-            # 兼容没有日期的路径，用父目录名兜底
             m = re.search(r"(\d{4}-\d{2}-\d{2})", p.parent.name)
+        
         if m:
             date_label = m.group(1)
         else:
-            # 实在取不到，用文件修改日期
-            ts = datetime.date.fromtimestamp(p.stat().st_mtime).isoformat()
-            date_label = ts
+            # 尝试匹配月份格式 YYYY-MM
+            m_month = re.search(r"(\d{4}-\d{2})$", p.parent.name)
+            if m_month:
+                # 标记为月度数据，后续会根据论文发布日期拆分
+                date_label = f"MONTH:{m_month.group(1)}"
+            else:
+                # 实在取不到，用文件修改日期
+                ts = datetime.date.fromtimestamp(p.stat().st_mtime).isoformat()
+                date_label = ts
         items.append((date_label, p))
     # 去重 & 排序
     items = sorted(list({(d, str(p)): (d, Path(p)) for d, p in items}.values()), key=lambda x: x[0])
@@ -636,14 +932,33 @@ def main():
             print(f"[WARN] {json_path} 中 papers 为空，跳过 {date_label}")
             continue
         
+        # 检查是否为月度数据
+        is_monthly = date_label.startswith("MONTH:")
+        if is_monthly:
+            month_prefix = date_label.replace("MONTH:", "")
+            print(f"[INFO] 发现月度数据 {month_prefix}，将根据论文发布日期拆分...")
+        
         for paper in papers:
             matched_tags = classify_paper(paper, target_tags)
             if not matched_tags:
                 # 没有匹配任何目标分类，放到第一个分类（作为默认）
                 matched_tags = [target_tags[0]] if target_tags else []
             
+            # 确定论文的日期
+            if is_monthly:
+                # 从论文的 published 字段获取日期
+                paper_date = paper.get("published", "")
+                if not paper_date or not re.match(r"\d{4}-\d{2}-\d{2}", paper_date):
+                    # 如果没有有效的发布日期，使用 updated 字段
+                    paper_date = paper.get("updated", "")
+                if not paper_date or not re.match(r"\d{4}-\d{2}-\d{2}", paper_date):
+                    # 实在没有日期，使用月份的第一天
+                    paper_date = f"{month_prefix}-01"
+            else:
+                paper_date = date_label
+            
             for tag in matched_tags:
-                tag_date_papers[tag][date_label].append(paper)
+                tag_date_papers[tag][paper_date].append(paper)
     
     # 统计
     tag_dates: Dict[str, List[str]] = {}
@@ -673,9 +988,59 @@ def main():
         ensure_dir(tag_dir)
         (tag_dir / "index.md").write_text(tag_index_md, encoding="utf-8")
 
-    # 首页：分类导航
-    tag_latest_dates = {tag: sorted(dates)[-1] for tag, dates in tag_dates.items()}
-    home_md = build_home_md(target_tags, tag_latest_dates, site_title)
+    # 首页：分类导航（包含统计信息）
+    tag_stats = {}
+    for tag in target_tags:
+        if tag not in tag_dates:
+            continue
+        
+        dates = tag_dates[tag]
+        sorted_dates = sorted(dates, reverse=True)
+        latest_date = sorted_dates[0] if sorted_dates else ""
+        recent_dates = sorted_dates[:7]  # 最近7天
+        
+        # 收集最近的论文并统计支柱分布
+        recent_papers = []
+        pillar_counts = defaultdict(int)
+        total_count = 0
+        
+        for date in sorted_dates:
+            papers_on_date = tag_date_papers[tag][date]
+            total_count += len(papers_on_date)
+            
+            # 只收集最近7天的论文详情
+            if date in recent_dates:
+                for p in papers_on_date:
+                    p_copy = dict(p)
+                    p_copy["_date"] = date
+                    recent_papers.append(p_copy)
+            
+            # 统计所有日期的支柱分布
+            for p in papers_on_date:
+                matched = p.get("matched_interests", [])
+                if matched:
+                    primary_interest = matched[0].get("name", "其他")
+                    pillar_counts[primary_interest] += 1
+                else:
+                    pillar_counts["其他"] += 1
+        
+        # 按时间排序最近的论文
+        recent_papers.sort(key=lambda x: x.get("_date", ""), reverse=True)
+        
+        # 统计每个日期的论文数
+        date_paper_counts = {date: len(tag_date_papers[tag][date]) for date in sorted_dates}
+        
+        tag_stats[tag] = {
+            "latest_date": latest_date,
+            "dates": sorted_dates,
+            "recent_dates": recent_dates,
+            "recent_papers": recent_papers[:20],  # 只保留最近20篇用于预览
+            "date_paper_counts": date_paper_counts,  # 每个日期的实际论文数
+            "total_count": total_count,
+            "pillar_stats": dict(pillar_counts)
+        }
+    
+    home_md = build_home_md(target_tags, tag_stats, site_title)
     (docs_dir / "index.md").write_text(home_md, encoding="utf-8")
 
     total_pages = sum(len(dates) for dates in tag_dates.values())
