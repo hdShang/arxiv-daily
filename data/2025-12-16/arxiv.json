@@ -1,6 +1,55 @@
 {
-  "count": 24,
+  "count": 43,
   "papers": [
+    {
+      "title": "CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation",
+      "authors": [
+        "Sirui Chen",
+        "Zi-ang Cao",
+        "Zhengyi Luo",
+        "Fernando Castañeda",
+        "Chenran Li",
+        "Tingwu Wang",
+        "Ye Yuan",
+        "Linxi \"Jim\" Fan",
+        "C. Karen Liu",
+        "Yuke Zhu"
+      ],
+      "arxiv_id": "2512.14689v1",
+      "summary": "Recent progress in humanoid robots has unlocked agile locomotion skills, including backflipping, running, and crawling. Yet it remains challenging for a humanoid robot to perform forceful manipulation tasks such as moving objects, wiping, and pushing a cart. We propose adaptive Compliance Humanoid control through hIsight Perturbation (CHIP), a plug-and-play module that enables controllable end-effector stiffness while preserving agile tracking of dynamic reference motions. CHIP is easy to implement and requires neither data augmentation nor additional reward tuning. We show that a generalist motion-tracking controller trained with CHIP can perform a diverse set of forceful manipulation tasks that require different end-effector compliance, such as multi-robot collaboration, wiping, box delivery, and door opening.",
+      "categories": [
+        "cs.RO",
+        "cs.LG"
+      ],
+      "primary_category": "cs.RO",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "The first two authors contributed equally. Project page: https://nvlabs.github.io/CHIP/",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14689v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱一：机器人控制 (Robot Control)",
+          "id": "1_robot_core",
+          "matched_keywords": [
+            "[T]humanoid",
+            "humanoid robot",
+            "[T]humanoid control",
+            "locomotion",
+            "running",
+            "agile locomotion",
+            "manipulation"
+          ],
+          "score": 22.0
+        }
+      ],
+      "relevance_score": 22.0,
+      "hit_pillars": [
+        "1_robot_core"
+      ]
+    },
     {
       "title": "SUPER -- A Framework for Sensitivity-based Uncertainty-aware Performance and Risk Assessment in Visual Inertial Odometry",
       "authors": [
@@ -23,29 +72,223 @@
       "code_links": [],
       "matched_interests": [
         {
-          "name": "视觉里程计与SLAM (VO & SLAM)",
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
           "matched_keywords": [
             "visual odometry",
+            "SLAM",
+            "VO",
+            "VIO",
             "[T]visual-inertial",
-            "[T]visual inertial",
-            "VIO",
-            "SLAM"
+            "localization"
           ],
-          "title_matches": [
-            "visual-inertial",
-            "visual inertial"
-          ],
-          "abstract_matches": [
-            "visual odometry",
-            "VIO",
-            "SLAM"
-          ],
-          "score": 11.7,
-          "weight": 1.3
+          "score": 16.0
         }
       ],
-      "relevance_score": 11.7,
-      "combination_bonus": 0.0
+      "relevance_score": 16.0,
+      "hit_pillars": [
+        "3_perception_slam"
+      ]
+    },
+    {
+      "title": "CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives",
+      "authors": [
+        "Zihan Wang",
+        "Jiashun Wang",
+        "Jeff Tan",
+        "Yiwen Zhao",
+        "Jessica Hodgins",
+        "Shubham Tulsiani",
+        "Deva Ramanan"
+      ],
+      "arxiv_id": "2512.14696v1",
+      "summary": "We introduce CRISP, a method that recovers simulatable human motion and scene geometry from monocular video. Prior work on joint human-scene reconstruction relies on data-driven priors and joint optimization with no physics in the loop, or recovers noisy geometry with artifacts that cause motion tracking policies with scene interactions to fail. In contrast, our key insight is to recover convex, clean, and simulation-ready geometry by fitting planar primitives to a point cloud reconstruction of the scene, via a simple clustering pipeline over depth, normals, and flow. To reconstruct scene geometry that might be occluded during interactions, we make use of human-scene contact modeling (e.g., we use human posture to reconstruct the occluded seat of a chair). Finally, we ensure that human and scene reconstructions are physically-plausible by using them to drive a humanoid controller via reinforcement learning. Our approach reduces motion tracking failure rates from 55.2\\% to 6.9\\% on human-centric video benchmarks (EMDB, PROX), while delivering a 43\\% faster RL simulation throughput. We further validate it on in-the-wild videos including casually-captured videos, Internet videos, and even Sora-generated videos. This demonstrates CRISP's ability to generate physically-valid human motion and interaction environments at scale, greatly advancing real-to-sim applications for robotics and AR/VR.",
+      "categories": [
+        "cs.CV",
+        "cs.GR",
+        "cs.RO"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "Project page: https://crisp-real2sim.github.io/CRISP-Real2Sim/",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14696v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱一：机器人控制 (Robot Control)",
+          "id": "1_robot_core",
+          "matched_keywords": [
+            "humanoid",
+            "humanoid control",
+            "[T]real2sim"
+          ],
+          "score": 10.0
+        },
+        {
+          "name": "支柱二：RL算法与架构 (RL & Architecture)",
+          "id": "2_algo_arch",
+          "matched_keywords": [
+            "reinforcement learning"
+          ],
+          "score": 1.5
+        },
+        {
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
+          "matched_keywords": [
+            "scene reconstruction",
+            "point cloud"
+          ],
+          "score": 4.0
+        }
+      ],
+      "relevance_score": 15.5,
+      "hit_pillars": [
+        "1_robot_core",
+        "2_algo_arch",
+        "3_perception_slam"
+      ]
+    },
+    {
+      "title": "AnchorHOI: Zero-shot Generation of 4D Human-Object Interaction via Anchor-based Prior Distillation",
+      "authors": [
+        "Sisi Dai",
+        "Kai Xu"
+      ],
+      "arxiv_id": "2512.14095v1",
+      "summary": "Despite significant progress in text-driven 4D human-object interaction (HOI) generation with supervised methods, the scalability remains limited by the scarcity of large-scale 4D HOI datasets. To overcome this, recent approaches attempt zero-shot 4D HOI generation with pre-trained image diffusion models. However, interaction cues are minimally distilled during the generation process, restricting their applicability across diverse scenarios. In this paper, we propose AnchorHOI, a novel framework that thoroughly exploits hybrid priors by incorporating video diffusion models beyond image diffusion models, advancing 4D HOI generation. Nevertheless, directly optimizing high-dimensional 4D HOI with such priors remains challenging, particularly for human pose and compositional motion. To address this challenge, AnchorHOI introduces an anchor-based prior distillation strategy, which constructs interaction-aware anchors and then leverages them to guide generation in a tractable two-step process. Specifically, two tailored anchors are designed for 4D HOI generation: anchor Neural Radiance Fields (NeRFs) for expressive interaction composition, and anchor keypoints for realistic motion synthesis. Extensive experiments demonstrate that AnchorHOI outperforms previous methods with superior diversity and generalization.",
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "AAAI 2026",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14095v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
+          "matched_keywords": [
+            "neural radiance"
+          ],
+          "score": 2.0
+        },
+        {
+          "name": "支柱四：生成式动作 (Generative Motion)",
+          "id": "4_motion_diffusion",
+          "matched_keywords": [
+            "motion synthesis"
+          ],
+          "score": 2.5
+        },
+        {
+          "name": "支柱五：交互与反应 (Interaction & Reaction)",
+          "id": "5_interaction_reaction",
+          "matched_keywords": [
+            "[T]human-object interaction",
+            "HOI"
+          ],
+          "score": 10.0
+        }
+      ],
+      "relevance_score": 14.5,
+      "hit_pillars": [
+        "3_perception_slam",
+        "4_motion_diffusion",
+        "5_interaction_reaction"
+      ]
+    },
+    {
+      "title": "Odyssey: An Automotive Lidar-Inertial Odometry Dataset for GNSS-denied situations",
+      "authors": [
+        "Aaron Kurda",
+        "Simon Steuernagel",
+        "Lukas Jung",
+        "Marcus Baum"
+      ],
+      "arxiv_id": "2512.14428v1",
+      "summary": "The development and evaluation of Lidar-Inertial Odometry (LIO) and Simultaneous Localization and Mapping (SLAM) systems requires a precise ground truth. The Global Navigation Satellite System (GNSS) is often used as a foundation for this, but its signals can be unreliable in obstructed environments due to multi-path effects or loss-of-signal. While existing datasets compensate for the sporadic loss of GNSS signals by incorporating Inertial Measurement Unit (IMU) measurements, the commonly used Micro-Electro-Mechanical Systems (MEMS) or Fiber Optic Gyroscope (FOG)-based systems do not permit the prolonged study of GNSS-denied environments. To close this gap, we present Odyssey, a LIO dataset with a focus on GNSS-denied environments such as tunnels and parking garages as well as other underrepresented, yet ubiquitous situations such as stop-and-go-traffic, bumpy roads and wide open fields. Our ground truth is derived from a navigation-grade Inertial Navigation System (INS) equipped with a Ring Laser Gyroscope (RLG), offering exceptional bias stability characteristics compared to IMUs used in existing datasets and enabling the prolonged and accurate study of GNSS-denied environments. This makes Odyssey the first publicly available dataset featuring a RLG-based INS. Besides providing data for LIO, we also support other tasks, such as place recognition, through the threefold repetition of all trajectories as well as the integration of external mapping data by providing precise geodetic coordinates. All data, dataloader and other material is available online at https://odyssey.uni-goettingen.de/ .",
+      "categories": [
+        "cs.RO"
+      ],
+      "primary_category": "cs.RO",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "9 pages, 4 figures, submitted to International Journal of Robotics Research (IJRR)",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14428v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
+          "matched_keywords": [
+            "SLAM",
+            "[T]lidar-inertial",
+            "LIO",
+            "localization",
+            "navigation"
+          ],
+          "score": 14.0
+        }
+      ],
+      "relevance_score": 14.0,
+      "hit_pillars": [
+        "3_perception_slam"
+      ]
+    },
+    {
+      "title": "HGS: Hybrid Gaussian Splatting with Static-Dynamic Decomposition for Compact Dynamic View Synthesis",
+      "authors": [
+        "Kaizhe Zhang",
+        "Yijie Zhou",
+        "Weizhan Zhang",
+        "Caixia Yan",
+        "Haipeng Du",
+        "yugui xie",
+        "Yu-Hui Wen",
+        "Yong-Jin Liu"
+      ],
+      "arxiv_id": "2512.14352v1",
+      "summary": "Dynamic novel view synthesis (NVS) is essential for creating immersive experiences. Existing approaches have advanced dynamic NVS by introducing 3D Gaussian Splatting (3DGS) with implicit deformation fields or indiscriminately assigned time-varying parameters, surpassing NeRF-based methods. However, due to excessive model complexity and parameter redundancy, they incur large model sizes and slow rendering speeds, making them inefficient for real-time applications, particularly on resource-constrained devices. To obtain a more efficient model with fewer redundant parameters, in this paper, we propose Hybrid Gaussian Splatting (HGS), a compact and efficient framework explicitly designed to disentangle static and dynamic regions of a scene within a unified representation. The core innovation of HGS lies in our Static-Dynamic Decomposition (SDD) strategy, which leverages Radial Basis Function (RBF) modeling for Gaussian primitives. Specifically, for dynamic regions, we employ time-dependent RBFs to effectively capture temporal variations and handle abrupt scene changes, while for static regions, we reduce redundancy by sharing temporally invariant parameters. Additionally, we introduce a two-stage training strategy tailored for explicit models to enhance temporal coherence at static-dynamic boundaries. Experimental results demonstrate that our method reduces model size by up to 98% and achieves real-time rendering at up to 125 FPS at 4K resolution on a single RTX 3090 GPU. It further sustains 160 FPS at 1352 * 1014 on an RTX 3050 and has been integrated into the VR system. Moreover, HGS achieves comparable rendering quality to state-of-the-art methods while providing significantly improved visual fidelity for high-frequency details and abrupt scene changes.",
+      "categories": [
+        "cs.CV",
+        "cs.CG"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "11 pages, 9 figures",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14352v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
+          "matched_keywords": [
+            "3D gaussian splatting",
+            "3DGS",
+            "[T]gaussian splatting",
+            "NeRF",
+            "novel view synthesis"
+          ],
+          "score": 14.0
+        }
+      ],
+      "relevance_score": 14.0,
+      "hit_pillars": [
+        "3_perception_slam"
+      ]
     },
     {
       "title": "CaFe-TeleVision: A Coarse-to-Fine Teleoperation System with Immersive Situated Visualization for Enhanced Ergonomics",
@@ -77,220 +320,22 @@
       ],
       "matched_interests": [
         {
-          "name": "遥操作与动作重定向 (Teleoperation & Retargeting)",
+          "name": "支柱一：机器人控制 (Robot Control)",
+          "id": "1_robot_core",
           "matched_keywords": [
-            "[T]teleoperation system"
-          ],
-          "title_matches": [
-            "teleoperation system"
-          ],
-          "abstract_matches": [],
-          "score": 5.4,
-          "weight": 1.8
-        },
-        {
-          "name": "灵巧操作 (Dexterous Manipulation)",
-          "matched_keywords": [
+            "humanoid",
+            "manipulation",
             "bi-manual",
-            "bimanual"
+            "bimanual",
+            "[T]teleoperation"
           ],
-          "title_matches": [],
-          "abstract_matches": [
-            "bi-manual",
-            "bimanual"
-          ],
-          "score": 2.4,
-          "weight": 1.2
+          "score": 14.0
         }
       ],
-      "relevance_score": 10.8,
-      "combination_bonus": 3.0
-    },
-    {
-      "title": "Odyssey: An Automotive Lidar-Inertial Odometry Dataset for GNSS-denied situations",
-      "authors": [
-        "Aaron Kurda",
-        "Simon Steuernagel",
-        "Lukas Jung",
-        "Marcus Baum"
-      ],
-      "arxiv_id": "2512.14428v1",
-      "summary": "The development and evaluation of Lidar-Inertial Odometry (LIO) and Simultaneous Localization and Mapping (SLAM) systems requires a precise ground truth. The Global Navigation Satellite System (GNSS) is often used as a foundation for this, but its signals can be unreliable in obstructed environments due to multi-path effects or loss-of-signal. While existing datasets compensate for the sporadic loss of GNSS signals by incorporating Inertial Measurement Unit (IMU) measurements, the commonly used Micro-Electro-Mechanical Systems (MEMS) or Fiber Optic Gyroscope (FOG)-based systems do not permit the prolonged study of GNSS-denied environments. To close this gap, we present Odyssey, a LIO dataset with a focus on GNSS-denied environments such as tunnels and parking garages as well as other underrepresented, yet ubiquitous situations such as stop-and-go-traffic, bumpy roads and wide open fields. Our ground truth is derived from a navigation-grade Inertial Navigation System (INS) equipped with a Ring Laser Gyroscope (RLG), offering exceptional bias stability characteristics compared to IMUs used in existing datasets and enabling the prolonged and accurate study of GNSS-denied environments. This makes Odyssey the first publicly available dataset featuring a RLG-based INS. Besides providing data for LIO, we also support other tasks, such as place recognition, through the threefold repetition of all trajectories as well as the integration of external mapping data by providing precise geodetic coordinates. All data, dataloader and other material is available online at https://odyssey.uni-goettingen.de/ .",
-      "categories": [
-        "cs.RO"
-      ],
-      "primary_category": "cs.RO",
-      "published": "2025-12-16",
-      "updated": "2025-12-16",
-      "comment": "9 pages, 4 figures, submitted to International Journal of Robotics Research (IJRR)",
-      "doi": "",
-      "journal_ref": "",
-      "pdf_url": "https://arxiv.org/pdf/2512.14428v1",
-      "code_links": [],
-      "matched_interests": [
-        {
-          "name": "视觉里程计与SLAM (VO & SLAM)",
-          "matched_keywords": [
-            "[T]lidar-inertial",
-            "[T]lidar inertial",
-            "LIO",
-            "SLAM"
-          ],
-          "title_matches": [
-            "lidar-inertial",
-            "lidar inertial"
-          ],
-          "abstract_matches": [
-            "LIO",
-            "SLAM"
-          ],
-          "score": 10.4,
-          "weight": 1.3
-        }
-      ],
-      "relevance_score": 10.4,
-      "combination_bonus": 0.0
-    },
-    {
-      "title": "CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation",
-      "authors": [
-        "Sirui Chen",
-        "Zi-ang Cao",
-        "Zhengyi Luo",
-        "Fernando Castañeda",
-        "Chenran Li",
-        "Tingwu Wang",
-        "Ye Yuan",
-        "Linxi \"Jim\" Fan",
-        "C. Karen Liu",
-        "Yuke Zhu"
-      ],
-      "arxiv_id": "2512.14689v1",
-      "summary": "Recent progress in humanoid robots has unlocked agile locomotion skills, including backflipping, running, and crawling. Yet it remains challenging for a humanoid robot to perform forceful manipulation tasks such as moving objects, wiping, and pushing a cart. We propose adaptive Compliance Humanoid control through hIsight Perturbation (CHIP), a plug-and-play module that enables controllable end-effector stiffness while preserving agile tracking of dynamic reference motions. CHIP is easy to implement and requires neither data augmentation nor additional reward tuning. We show that a generalist motion-tracking controller trained with CHIP can perform a diverse set of forceful manipulation tasks that require different end-effector compliance, such as multi-robot collaboration, wiping, box delivery, and door opening.",
-      "categories": [
-        "cs.RO",
-        "cs.LG"
-      ],
-      "primary_category": "cs.RO",
-      "published": "2025-12-16",
-      "updated": "2025-12-16",
-      "comment": "The first two authors contributed equally. Project page: https://nvlabs.github.io/CHIP/",
-      "doi": "",
-      "journal_ref": "",
-      "pdf_url": "https://arxiv.org/pdf/2512.14689v1",
-      "code_links": [],
-      "matched_interests": [
-        {
-          "name": "鲁棒恢复与高动态运动 (Robust Recovery & Agility)",
-          "matched_keywords": [
-            "agile locomotion"
-          ],
-          "title_matches": [],
-          "abstract_matches": [
-            "agile locomotion"
-          ],
-          "score": 2.0,
-          "weight": 2.0
-        },
-        {
-          "name": "基于物理的动画与对抗先验 (Physics Animation & AMP)",
-          "matched_keywords": [
-            "reference motion"
-          ],
-          "title_matches": [],
-          "abstract_matches": [
-            "reference motion"
-          ],
-          "score": 2.0,
-          "weight": 2.0
-        },
-        {
-          "name": "人形/四足移动控制 (Legged Locomotion)",
-          "matched_keywords": [
-            "[T]humanoid control",
-            "humanoid robot"
-          ],
-          "title_matches": [
-            "humanoid control"
-          ],
-          "abstract_matches": [
-            "humanoid robot"
-          ],
-          "score": 6.0,
-          "weight": 1.5
-        }
-      ],
-      "relevance_score": 10.0,
-      "combination_bonus": 0.0
-    },
-    {
-      "title": "CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives",
-      "authors": [
-        "Zihan Wang",
-        "Jiashun Wang",
-        "Jeff Tan",
-        "Yiwen Zhao",
-        "Jessica Hodgins",
-        "Shubham Tulsiani",
-        "Deva Ramanan"
-      ],
-      "arxiv_id": "2512.14696v1",
-      "summary": "We introduce CRISP, a method that recovers simulatable human motion and scene geometry from monocular video. Prior work on joint human-scene reconstruction relies on data-driven priors and joint optimization with no physics in the loop, or recovers noisy geometry with artifacts that cause motion tracking policies with scene interactions to fail. In contrast, our key insight is to recover convex, clean, and simulation-ready geometry by fitting planar primitives to a point cloud reconstruction of the scene, via a simple clustering pipeline over depth, normals, and flow. To reconstruct scene geometry that might be occluded during interactions, we make use of human-scene contact modeling (e.g., we use human posture to reconstruct the occluded seat of a chair). Finally, we ensure that human and scene reconstructions are physically-plausible by using them to drive a humanoid controller via reinforcement learning. Our approach reduces motion tracking failure rates from 55.2\\% to 6.9\\% on human-centric video benchmarks (EMDB, PROX), while delivering a 43\\% faster RL simulation throughput. We further validate it on in-the-wild videos including casually-captured videos, Internet videos, and even Sora-generated videos. This demonstrates CRISP's ability to generate physically-valid human motion and interaction environments at scale, greatly advancing real-to-sim applications for robotics and AR/VR.",
-      "categories": [
-        "cs.CV",
-        "cs.GR",
-        "cs.RO"
-      ],
-      "primary_category": "cs.CV",
-      "published": "2025-12-16",
-      "updated": "2025-12-16",
-      "comment": "Project page: https://crisp-real2sim.github.io/CRISP-Real2Sim/",
-      "doi": "",
-      "journal_ref": "",
-      "pdf_url": "https://arxiv.org/pdf/2512.14696v1",
-      "code_links": [],
-      "matched_interests": [
-        {
-          "name": "人形/四足移动控制 (Legged Locomotion)",
-          "matched_keywords": [
-            "humanoid control"
-          ],
-          "title_matches": [],
-          "abstract_matches": [
-            "humanoid control"
-          ],
-          "score": 1.5,
-          "weight": 1.5
-        },
-        {
-          "name": "3D重建与高斯 (3D Reconstruction & Gaussian)",
-          "matched_keywords": [
-            "scene reconstruction",
-            "point cloud"
-          ],
-          "title_matches": [],
-          "abstract_matches": [
-            "scene reconstruction",
-            "point cloud"
-          ],
-          "score": 2.4,
-          "weight": 1.2
-        },
-        {
-          "name": "Sim2Real与策略学习 (Sim2Real & Policy Learning)",
-          "matched_keywords": [
-            "[T]real2sim"
-          ],
-          "title_matches": [
-            "real2sim"
-          ],
-          "abstract_matches": [],
-          "score": 3.0,
-          "weight": 1.0
-        }
-      ],
-      "relevance_score": 9.9,
-      "combination_bonus": 3.0
+      "relevance_score": 14.0,
+      "hit_pillars": [
+        "1_robot_core"
+      ]
     },
     {
       "title": "Beyond a Single Light: A Large-Scale Aerial Dataset for Urban Scene Reconstruction Under Varying Illumination",
@@ -323,299 +368,22 @@
       "code_links": [],
       "matched_interests": [
         {
-          "name": "3D重建与高斯 (3D Reconstruction & Gaussian)",
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
           "matched_keywords": [
-            "3D Gaussian Splatting",
-            "Gaussian splatting",
+            "3D gaussian splatting",
+            "gaussian splatting",
             "neural radiance",
             "novel view synthesis",
-            "3D reconstruction",
             "[T]scene reconstruction"
           ],
-          "title_matches": [
-            "scene reconstruction"
-          ],
-          "abstract_matches": [
-            "3D Gaussian Splatting",
-            "Gaussian splatting",
-            "neural radiance",
-            "novel view synthesis",
-            "3D reconstruction"
-          ],
-          "score": 9.6,
-          "weight": 1.2
+          "score": 14.0
         }
       ],
-      "relevance_score": 9.6,
-      "combination_bonus": 0.0
-    },
-    {
-      "title": "GaussianPlant: Structure-aligned Gaussian Splatting for 3D Reconstruction of Plants",
-      "authors": [
-        "Yang Yang",
-        "Risa Shinoda",
-        "Hiroaki Santo",
-        "Fumio Okura"
-      ],
-      "arxiv_id": "2512.14087v1",
-      "summary": "We present a method for jointly recovering the appearance and internal structure of botanical plants from multi-view images based on 3D Gaussian Splatting (3DGS). While 3DGS exhibits robust reconstruction of scene appearance for novel-view synthesis, it lacks structural representations underlying those appearances (e.g., branching patterns of plants), which limits its applicability to tasks such as plant phenotyping. To achieve both high-fidelity appearance and structural reconstruction, we introduce GaussianPlant, a hierarchical 3DGS representation, which disentangles structure and appearance. Specifically, we employ structure primitives (StPs) to explicitly represent branch and leaf geometry, and appearance primitives (ApPs) to the plants' appearance using 3D Gaussians. StPs represent a simplified structure of the plant, i.e., modeling branches as cylinders and leaves as disks. To accurately distinguish the branches and leaves, StP's attributes (i.e., branches or leaves) are optimized in a self-organized manner. ApPs are bound to each StP to represent the appearance of branches or leaves as in conventional 3DGS. StPs and ApPs are jointly optimized using a re-rendering loss on the input multi-view images, as well as the gradient flow from ApP to StP using the binding correspondence information. We conduct experiments to qualitatively evaluate the reconstruction accuracy of both appearance and structure, as well as real-world experiments to qualitatively validate the practical performance. Experiments show that the GaussianPlant achieves both high-fidelity appearance reconstruction via ApPs and accurate structural reconstruction via StPs, enabling the extraction of branch structure and leaf instances.",
-      "categories": [
-        "cs.CV"
-      ],
-      "primary_category": "cs.CV",
-      "published": "2025-12-16",
-      "updated": "2025-12-16",
-      "comment": "Submitted to IEEE TPAMI, under review",
-      "doi": "",
-      "journal_ref": "",
-      "pdf_url": "https://arxiv.org/pdf/2512.14087v1",
-      "code_links": [],
-      "matched_interests": [
-        {
-          "name": "3D重建与高斯 (3D Reconstruction & Gaussian)",
-          "matched_keywords": [
-            "3D Gaussian Splatting",
-            "3DGS",
-            "[T]Gaussian splatting",
-            "[T]3D reconstruction"
-          ],
-          "title_matches": [
-            "Gaussian splatting",
-            "3D reconstruction"
-          ],
-          "abstract_matches": [
-            "3D Gaussian Splatting",
-            "3DGS"
-          ],
-          "score": 9.6,
-          "weight": 1.2
-        }
-      ],
-      "relevance_score": 9.6,
-      "combination_bonus": 0.0
-    },
-    {
-      "title": "DASP: Self-supervised Nighttime Monocular Depth Estimation with Domain Adaptation of Spatiotemporal Priors",
-      "authors": [
-        "Yiheng Huang",
-        "Junhong Chen",
-        "Anqi Ning",
-        "Zhanhong Liang",
-        "Nick Michiels",
-        "Luc Claesen",
-        "Wenyin Liu"
-      ],
-      "arxiv_id": "2512.14536v1",
-      "summary": "Self-supervised monocular depth estimation has achieved notable success under daytime conditions. However, its performance deteriorates markedly at night due to low visibility and varying illumination, e.g., insufficient light causes textureless areas, and moving objects bring blurry regions. To this end, we propose a self-supervised framework named DASP that leverages spatiotemporal priors for nighttime depth estimation. Specifically, DASP consists of an adversarial branch for extracting spatiotemporal priors and a self-supervised branch for learning. In the adversarial branch, we first design an adversarial network where the discriminator is composed of four devised spatiotemporal priors learning blocks (SPLB) to exploit the daytime priors. In particular, the SPLB contains a spatial-based temporal learning module (STLM) that uses orthogonal differencing to extract motion-related variations along the time axis and an axial spatial learning module (ASLM) that adopts local asymmetric convolutions with global axial attention to capture the multiscale structural information. By combining STLM and ASLM, our model can acquire sufficient spatiotemporal features to restore textureless areas and estimate the blurry regions caused by dynamic objects. In the self-supervised branch, we propose a 3D consistency projection loss to bilaterally project the target frame and source frame into a shared 3D space, and calculate the 3D discrepancy between the two projected frames as a loss to optimize the 3D structural consistency and daytime priors. Extensive experiments on the Oxford RobotCar and nuScenes datasets demonstrate that our approach achieves state-of-the-art performance for nighttime depth estimation. Ablation studies further validate the effectiveness of each component.",
-      "categories": [
-        "cs.CV"
-      ],
-      "primary_category": "cs.CV",
-      "published": "2025-12-16",
-      "updated": "2025-12-16",
-      "comment": "8 pages, 7 figures",
-      "doi": "10.1109/LRA.2025.3644148",
-      "journal_ref": "",
-      "pdf_url": "https://arxiv.org/pdf/2512.14536v1",
-      "code_links": [],
-      "matched_interests": [
-        {
-          "name": "SOTA深度估计 (SOTA Depth Estimation)",
-          "matched_keywords": [
-            "[T]monocular depth",
-            "[T]depth estimation"
-          ],
-          "title_matches": [
-            "monocular depth",
-            "depth estimation"
-          ],
-          "abstract_matches": [],
-          "score": 9.0,
-          "weight": 1.5
-        }
-      ],
-      "relevance_score": 9.0,
-      "combination_bonus": 0.0
-    },
-    {
-      "title": "HGS: Hybrid Gaussian Splatting with Static-Dynamic Decomposition for Compact Dynamic View Synthesis",
-      "authors": [
-        "Kaizhe Zhang",
-        "Yijie Zhou",
-        "Weizhan Zhang",
-        "Caixia Yan",
-        "Haipeng Du",
-        "yugui xie",
-        "Yu-Hui Wen",
-        "Yong-Jin Liu"
-      ],
-      "arxiv_id": "2512.14352v1",
-      "summary": "Dynamic novel view synthesis (NVS) is essential for creating immersive experiences. Existing approaches have advanced dynamic NVS by introducing 3D Gaussian Splatting (3DGS) with implicit deformation fields or indiscriminately assigned time-varying parameters, surpassing NeRF-based methods. However, due to excessive model complexity and parameter redundancy, they incur large model sizes and slow rendering speeds, making them inefficient for real-time applications, particularly on resource-constrained devices. To obtain a more efficient model with fewer redundant parameters, in this paper, we propose Hybrid Gaussian Splatting (HGS), a compact and efficient framework explicitly designed to disentangle static and dynamic regions of a scene within a unified representation. The core innovation of HGS lies in our Static-Dynamic Decomposition (SDD) strategy, which leverages Radial Basis Function (RBF) modeling for Gaussian primitives. Specifically, for dynamic regions, we employ time-dependent RBFs to effectively capture temporal variations and handle abrupt scene changes, while for static regions, we reduce redundancy by sharing temporally invariant parameters. Additionally, we introduce a two-stage training strategy tailored for explicit models to enhance temporal coherence at static-dynamic boundaries. Experimental results demonstrate that our method reduces model size by up to 98% and achieves real-time rendering at up to 125 FPS at 4K resolution on a single RTX 3090 GPU. It further sustains 160 FPS at 1352 * 1014 on an RTX 3050 and has been integrated into the VR system. Moreover, HGS achieves comparable rendering quality to state-of-the-art methods while providing significantly improved visual fidelity for high-frequency details and abrupt scene changes.",
-      "categories": [
-        "cs.CV",
-        "cs.CG"
-      ],
-      "primary_category": "cs.CV",
-      "published": "2025-12-16",
-      "updated": "2025-12-16",
-      "comment": "11 pages, 9 figures",
-      "doi": "",
-      "journal_ref": "",
-      "pdf_url": "https://arxiv.org/pdf/2512.14352v1",
-      "code_links": [],
-      "matched_interests": [
-        {
-          "name": "3D重建与高斯 (3D Reconstruction & Gaussian)",
-          "matched_keywords": [
-            "3D Gaussian Splatting",
-            "3DGS",
-            "[T]Gaussian splatting",
-            "NeRF",
-            "novel view synthesis"
-          ],
-          "title_matches": [
-            "Gaussian splatting"
-          ],
-          "abstract_matches": [
-            "3D Gaussian Splatting",
-            "3DGS",
-            "NeRF",
-            "novel view synthesis"
-          ],
-          "score": 8.4,
-          "weight": 1.2
-        }
-      ],
-      "relevance_score": 8.4,
-      "combination_bonus": 0.0
-    },
-    {
-      "title": "EVOLVE-VLA: Test-Time Training from Environment Feedback for Vision-Language-Action Models",
-      "authors": [
-        "Zechen Bai",
-        "Chen Gao",
-        "Mike Zheng Shou"
-      ],
-      "arxiv_id": "2512.14666v1",
-      "summary": "Achieving truly adaptive embodied intelligence requires agents that learn not just by imitating static demonstrations, but by continuously improving through environmental interaction, which is akin to how humans master skills through practice. Vision-Language-Action (VLA) models have advanced robotic manipulation by leveraging large language models, yet remain fundamentally limited by Supervised Finetuning (SFT): requiring hundreds of demonstrations per task, rigidly memorizing trajectories, and failing to adapt when deployment conditions deviate from training. We introduce EVOLVE-VLA, a test-time training framework enabling VLAs to continuously adapt through environment interaction with minimal or zero task-specific demonstrations. The key technical challenge is replacing oracle reward signals (unavailable at test time) with autonomous feedback. We address this through a learned progress estimator providing dense feedback, and critically, we design our framework to ``tame'' this inherently noisy signal via two mechanisms: (1) an accumulative progress estimation mechanism smoothing noisy point-wise estimates, and (2) a progressive horizon extension strategy enabling gradual policy evolution. EVOLVE-VLA achieves substantial gains: +8.6\\% on long-horizon tasks, +22.0\\% in 1-shot learning, and enables cross-task generalization -- achieving 20.8\\% success on unseen tasks without task-specific demonstrations training (vs. 0\\% for pure SFT). Qualitative analysis reveals emergent capabilities absent in demonstrations, including error recovery and novel strategies. This work represents a critical step toward VLAs that truly learn and adapt, moving beyond static imitation toward continuous self-improvements.",
-      "categories": [
-        "cs.RO",
-        "cs.CV"
-      ],
-      "primary_category": "cs.RO",
-      "published": "2025-12-16",
-      "updated": "2025-12-16",
-      "comment": "15 pages",
-      "doi": "",
-      "journal_ref": "",
-      "pdf_url": "https://arxiv.org/pdf/2512.14666v1",
-      "code_links": [],
-      "matched_interests": [
-        {
-          "name": "具身智能 (Embodied AI)",
-          "matched_keywords": [
-            "[T]VLA",
-            "[T]vision-language-action"
-          ],
-          "title_matches": [
-            "VLA",
-            "vision-language-action"
-          ],
-          "abstract_matches": [],
-          "score": 6.0,
-          "weight": 1.0
-        }
-      ],
-      "relevance_score": 6.0,
-      "combination_bonus": 0.0
-    },
-    {
-      "title": "Broadening View Synthesis of Dynamic Scenes from Constrained Monocular Videos",
-      "authors": [
-        "Le Jiang",
-        "Shaotong Zhu",
-        "Yedi Luo",
-        "Shayda Moezzi",
-        "Sarah Ostadabbas"
-      ],
-      "arxiv_id": "2512.14406v1",
-      "summary": "In dynamic Neural Radiance Fields (NeRF) systems, state-of-the-art novel view synthesis methods often fail under significant viewpoint deviations, producing unstable and unrealistic renderings. To address this, we introduce Expanded Dynamic NeRF (ExpanDyNeRF), a monocular NeRF framework that leverages Gaussian splatting priors and a pseudo-ground-truth generation strategy to enable realistic synthesis under large-angle rotations. ExpanDyNeRF optimizes density and color features to improve scene reconstruction from challenging perspectives. We also present the Synthetic Dynamic Multiview (SynDM) dataset, the first synthetic multiview dataset for dynamic scenes with explicit side-view supervision-created using a custom GTA V-based rendering pipeline. Quantitative and qualitative results on SynDM and real-world datasets demonstrate that ExpanDyNeRF significantly outperforms existing dynamic NeRF methods in rendering fidelity under extreme viewpoint shifts. Further details are provided in the supplementary materials.",
-      "categories": [
-        "cs.CV"
-      ],
-      "primary_category": "cs.CV",
-      "published": "2025-12-16",
-      "updated": "2025-12-16",
-      "comment": "",
-      "doi": "",
-      "journal_ref": "",
-      "pdf_url": "https://arxiv.org/pdf/2512.14406v1",
-      "code_links": [],
-      "matched_interests": [
-        {
-          "name": "3D重建与高斯 (3D Reconstruction & Gaussian)",
-          "matched_keywords": [
-            "Gaussian splatting",
-            "NeRF",
-            "neural radiance",
-            "novel view synthesis",
-            "scene reconstruction"
-          ],
-          "title_matches": [],
-          "abstract_matches": [
-            "Gaussian splatting",
-            "NeRF",
-            "neural radiance",
-            "novel view synthesis",
-            "scene reconstruction"
-          ],
-          "score": 6.0,
-          "weight": 1.2
-        }
-      ],
-      "relevance_score": 6.0,
-      "combination_bonus": 0.0
-    },
-    {
-      "title": "Sample-Efficient Robot Skill Learning for Construction Tasks: Benchmarking Hierarchical Reinforcement Learning and Vision-Language-Action VLA Model",
-      "authors": [
-        "Zhaofeng Hu",
-        "Hongrui Yu",
-        "Vaidhyanathan Chandramouli",
-        "Ci-Jyun Liang"
-      ],
-      "arxiv_id": "2512.14031v1",
-      "summary": "This study evaluates two leading approaches for teaching construction robots new skills to understand their applicability for construction automation: a Vision-Language-Action (VLA) model and Reinforcement Learning (RL) methods. The goal is to understand both task performance and the practical effort needed to deploy each approach on real jobs. The authors developed two teleoperation interfaces to control the robots and collect the demonstrations needed, both of which proved effective for training robots for long-horizon and dexterous tasks. In addition, the authors conduct a three-stage evaluation. First, the authors compare a Multi-Layer Perceptron (MLP) policy with a Deep Q-network (DQN) imitation model to identify the stronger RL baseline, focusing on model performance, generalization, and a pick-up experiment. Second, three different VLA models are trained in two different scenarios and compared with each other. Third, the authors benchmark the selected RL baseline against the VLA model using computational and sample-efficiency measures and then a robot experiment on a multi-stage panel installation task that includes transport and installation. The VLA model demonstrates strong generalization and few-shot capability, achieving 60% and 100% success in the pickup phase. In comparison, DQN can be made robust but needs additional noise during tuning, which increases the workload. Overall, the findings indicate that VLA offers practical advantages for changing tasks by reducing programming effort and enabling useful performance with minimal data, while DQN provides a viable baseline when sufficient tuning effort is acceptable.",
-      "categories": [
-        "cs.RO",
-        "cs.AI"
-      ],
-      "primary_category": "cs.RO",
-      "published": "2025-12-16",
-      "updated": "2025-12-16",
-      "comment": "",
-      "doi": "",
-      "journal_ref": "",
-      "pdf_url": "https://arxiv.org/pdf/2512.14031v1",
-      "code_links": [],
-      "matched_interests": [
-        {
-          "name": "具身智能 (Embodied AI)",
-          "matched_keywords": [
-            "[T]VLA",
-            "[T]vision-language-action"
-          ],
-          "title_matches": [
-            "VLA",
-            "vision-language-action"
-          ],
-          "abstract_matches": [],
-          "score": 6.0,
-          "weight": 1.0
-        }
-      ],
-      "relevance_score": 6.0,
-      "combination_bonus": 0.0
+      "relevance_score": 14.0,
+      "hit_pillars": [
+        "3_perception_slam"
+      ]
     },
     {
       "title": "Deep Learning Perspective of Scene Understanding in Autonomous Robots",
@@ -638,259 +406,22 @@
       "code_links": [],
       "matched_interests": [
         {
-          "name": "SOTA深度估计 (SOTA Depth Estimation)",
-          "matched_keywords": [
-            "depth estimation"
-          ],
-          "title_matches": [],
-          "abstract_matches": [
-            "depth estimation"
-          ],
-          "score": 1.5,
-          "weight": 1.5
-        },
-        {
-          "name": "视觉里程计与SLAM (VO & SLAM)",
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
           "matched_keywords": [
             "visual SLAM",
-            "SLAM"
+            "SLAM",
+            "depth estimation",
+            "[T]scene understanding",
+            "navigation"
           ],
-          "title_matches": [],
-          "abstract_matches": [
-            "visual SLAM",
-            "SLAM"
-          ],
-          "score": 2.6,
-          "weight": 1.3
-        },
-        {
-          "name": "3D重建与高斯 (3D Reconstruction & Gaussian)",
-          "matched_keywords": [
-            "3D reconstruction"
-          ],
-          "title_matches": [],
-          "abstract_matches": [
-            "3D reconstruction"
-          ],
-          "score": 1.2,
-          "weight": 1.2
+          "score": 14.0
         }
       ],
-      "relevance_score": 5.3,
-      "combination_bonus": 0.0
-    },
-    {
-      "title": "FastDDHPose: Towards Unified, Efficient, and Disentangled 3D Human Pose Estimation",
-      "authors": [
-        "Qingyuan Cai",
-        "Linxin Zhang",
-        "Xuecai Hu",
-        "Saihui Hou",
-        "Yongzhen Huang"
-      ],
-      "arxiv_id": "2512.14162v1",
-      "summary": "Recent approaches for monocular 3D human pose estimation (3D HPE) have achieved leading performance by directly regressing 3D poses from 2D keypoint sequences. Despite the rapid progress in 3D HPE, existing methods are typically trained and evaluated under disparate frameworks, lacking a unified framework for fair comparison. To address these limitations, we propose Fast3DHPE, a modular framework that facilitates rapid reproduction and flexible development of new methods. By standardizing training and evaluation protocols, Fast3DHPE enables fair comparison across 3D human pose estimation methods while significantly improving training efficiency. Within this framework, we introduce FastDDHPose, a Disentangled Diffusion-based 3D Human Pose Estimation method which leverages the strong latent distribution modeling capability of diffusion models to explicitly model the distributions of bone length and bone direction while avoiding further amplification of hierarchical error accumulation. Moreover, we design an efficient Kinematic-Hierarchical Spatial and Temporal Denoiser that encourages the model to focus on kinematic joint hierarchies while avoiding unnecessary modeling of overly complex joint topologies. Extensive experiments on Human3.6M and MPI-INF-3DHP show that the Fast3DHPE framework enables fair comparison of all methods while significantly improving training efficiency. Within this unified framework, FastDDHPose achieves state-of-the-art performance with strong generalization and robustness in in-the-wild scenarios. The framework and models will be released at: https://github.com/Andyen512/Fast3DHPE",
-      "categories": [
-        "cs.CV"
-      ],
-      "primary_category": "cs.CV",
-      "published": "2025-12-16",
-      "updated": "2025-12-16",
-      "comment": "",
-      "doi": "",
-      "journal_ref": "",
-      "pdf_url": "https://arxiv.org/pdf/2512.14162v1",
-      "code_links": [
-        {
-          "url": "https://github.com/Andyen512/Fast3DHPE",
-          "type": "github"
-        }
-      ],
-      "matched_interests": [
-        {
-          "name": "视觉里程计与SLAM (VO & SLAM)",
-          "matched_keywords": [
-            "[T]pose estimation"
-          ],
-          "title_matches": [
-            "pose estimation"
-          ],
-          "abstract_matches": [],
-          "score": 3.9,
-          "weight": 1.3
-        }
-      ],
-      "relevance_score": 3.9,
-      "combination_bonus": 0.0
-    },
-    {
-      "title": "ACE-SLAM: Scene Coordinate Regression for Neural Implicit Real-Time SLAM",
-      "authors": [
-        "Ignacio Alzugaray",
-        "Marwan Taher",
-        "Andrew J. Davison"
-      ],
-      "arxiv_id": "2512.14032v1",
-      "summary": "We present a novel neural RGB-D Simultaneous Localization And Mapping (SLAM) system that learns an implicit map of the scene in real time. For the first time, we explore the use of Scene Coordinate Regression (SCR) as the core implicit map representation in a neural SLAM pipeline, a paradigm that trains a lightweight network to directly map 2D image features to 3D global coordinates. SCR networks provide efficient, low-memory 3D map representations, enable extremely fast relocalization, and inherently preserve privacy, making them particularly suitable for neural implicit SLAM.\n  Our system is the first one to achieve strict real-time in neural implicit RGB-D SLAM by relying on a SCR-based representation. We introduce a novel SCR architecture specifically tailored for this purpose and detail the critical design choices required to integrate SCR into a live SLAM pipeline. The resulting framework is simple yet flexible, seamlessly supporting both sparse and dense features, and operates reliably in dynamic environments without special adaptation. We evaluate our approach on established synthetic and real-world benchmarks, demonstrating competitive performance against the state of the art. Project Page: https://github.com/ialzugaray/ace-slam",
-      "categories": [
-        "cs.CV",
-        "cs.AI",
-        "eess.IV"
-      ],
-      "primary_category": "cs.CV",
-      "published": "2025-12-16",
-      "updated": "2025-12-16",
-      "comment": "Project Page: https://github.com/ialzugaray/ace-slam",
-      "doi": "",
-      "journal_ref": "",
-      "pdf_url": "https://arxiv.org/pdf/2512.14032v1",
-      "code_links": [
-        {
-          "url": "https://github.com/ialzugaray/ace-slam",
-          "type": "github"
-        }
-      ],
-      "matched_interests": [
-        {
-          "name": "视觉里程计与SLAM (VO & SLAM)",
-          "matched_keywords": [
-            "[T]SLAM"
-          ],
-          "title_matches": [
-            "SLAM"
-          ],
-          "abstract_matches": [],
-          "score": 3.9,
-          "weight": 1.3
-        }
-      ],
-      "relevance_score": 3.9,
-      "combination_bonus": 0.0
-    },
-    {
-      "title": "4D-RaDiff: Latent Diffusion for 4D Radar Point Cloud Generation",
-      "authors": [
-        "Jimmie Kwok",
-        "Holger Caesar",
-        "Andras Palffy"
-      ],
-      "arxiv_id": "2512.14235v1",
-      "summary": "Automotive radar has shown promising developments in environment perception due to its cost-effectiveness and robustness in adverse weather conditions. However, the limited availability of annotated radar data poses a significant challenge for advancing radar-based perception systems. To address this limitation, we propose a novel framework to generate 4D radar point clouds for training and evaluating object detectors. Unlike image-based diffusion, our method is designed to consider the sparsity and unique characteristics of radar point clouds by applying diffusion to a latent point cloud representation. Within this latent space, generation is controlled via conditioning at either the object or scene level. The proposed 4D-RaDiff converts unlabeled bounding boxes into high-quality radar annotations and transforms existing LiDAR point cloud data into realistic radar scenes. Experiments demonstrate that incorporating synthetic radar data of 4D-RaDiff as data augmentation method during training consistently improves object detection performance compared to training on real data only. In addition, pre-training on our synthetic data reduces the amount of required annotated radar data by up to 90% while achieving comparable object detection performance.",
-      "categories": [
-        "cs.CV"
-      ],
-      "primary_category": "cs.CV",
-      "published": "2025-12-16",
-      "updated": "2025-12-16",
-      "comment": "",
-      "doi": "",
-      "journal_ref": "",
-      "pdf_url": "https://arxiv.org/pdf/2512.14235v1",
-      "code_links": [],
-      "matched_interests": [
-        {
-          "name": "3D重建与高斯 (3D Reconstruction & Gaussian)",
-          "matched_keywords": [
-            "[T]point cloud"
-          ],
-          "title_matches": [
-            "point cloud"
-          ],
-          "abstract_matches": [],
-          "score": 3.6,
-          "weight": 1.2
-        }
-      ],
-      "relevance_score": 3.6,
-      "combination_bonus": 0.0
-    },
-    {
-      "title": "Spherical Voronoi: Directional Appearance as a Differentiable Partition of the Sphere",
-      "authors": [
-        "Francesco Di Sario",
-        "Daniel Rebain",
-        "Dor Verbin",
-        "Marco Grangetto",
-        "Andrea Tagliasacchi"
-      ],
-      "arxiv_id": "2512.14180v1",
-      "summary": "Radiance field methods (e.g. 3D Gaussian Splatting) have emerged as a powerful paradigm for novel view synthesis, yet their appearance modeling often relies on Spherical Harmonics (SH), which impose fundamental limitations. SH struggle with high-frequency signals, exhibit Gibbs ringing artifacts, and fail to capture specular reflections - a key component of realistic rendering. Although alternatives like spherical Gaussians offer improvements, they add significant optimization complexity. We propose Spherical Voronoi (SV) as a unified framework for appearance representation in 3D Gaussian Splatting. SV partitions the directional domain into learnable regions with smooth boundaries, providing an intuitive and stable parameterization for view-dependent effects. For diffuse appearance, SV achieves competitive results while keeping optimization simpler than existing alternatives. For reflections - where SH fail - we leverage SV as learnable reflection probes, taking reflected directions as input following principles from classical graphics. This formulation attains state-of-the-art results on synthetic and real-world datasets, demonstrating that SV offers a principled, efficient, and general solution for appearance modeling in explicit 3D representations.",
-      "categories": [
-        "cs.CV"
-      ],
-      "primary_category": "cs.CV",
-      "published": "2025-12-16",
-      "updated": "2025-12-16",
-      "comment": "",
-      "doi": "",
-      "journal_ref": "",
-      "pdf_url": "https://arxiv.org/pdf/2512.14180v1",
-      "code_links": [],
-      "matched_interests": [
-        {
-          "name": "3D重建与高斯 (3D Reconstruction & Gaussian)",
-          "matched_keywords": [
-            "3D Gaussian Splatting",
-            "Gaussian splatting",
-            "novel view synthesis"
-          ],
-          "title_matches": [],
-          "abstract_matches": [
-            "3D Gaussian Splatting",
-            "Gaussian splatting",
-            "novel view synthesis"
-          ],
-          "score": 3.6,
-          "weight": 1.2
-        }
-      ],
-      "relevance_score": 3.6,
-      "combination_bonus": 0.0
-    },
-    {
-      "title": "Interactive Motion Planning for Human-Robot Collaboration Based on Human-Centric Configuration Space Ergonomic Field",
-      "authors": [
-        "Chenzui Li",
-        "Yiming Chen",
-        "Xi Wu",
-        "Tao Teng",
-        "Sylvain Calinon",
-        "Darwin Caldwell",
-        "Fei Chen"
-      ],
-      "arxiv_id": "2512.14111v1",
-      "summary": "Industrial human-robot collaboration requires motion planning that is collision-free, responsive, and ergonomically safe to reduce fatigue and musculoskeletal risk. We propose the Configuration Space Ergonomic Field (CSEF), a continuous and differentiable field over the human joint space that quantifies ergonomic quality and provides gradients for real-time ergonomics-aware planning. An efficient algorithm constructs CSEF from established metrics with joint-wise weighting and task conditioning, and we integrate it into a gradient-based planner compatible with impedance-controlled robots. In a 2-DoF benchmark, CSEF-based planning achieves higher success rates, lower ergonomic cost, and faster computation than a task-space ergonomic planner. Hardware experiments with a dual-arm robot in unimanual guidance, collaborative drilling, and bimanual cocarrying show faster ergonomic cost reduction, closer tracking to optimized joint targets, and lower muscle activation than a point-to-point baseline. CSEF-based planning method reduces average ergonomic scores by up to 10.31% for collaborative drilling tasks and 5.60% for bimanual co-carrying tasks while decreasing activation in key muscle groups, indicating practical benefits for real-world deployment.",
-      "categories": [
-        "cs.RO"
-      ],
-      "primary_category": "cs.RO",
-      "published": "2025-12-16",
-      "updated": "2025-12-16",
-      "comment": "10 pages, 9 figures",
-      "doi": "",
-      "journal_ref": "",
-      "pdf_url": "https://arxiv.org/pdf/2512.14111v1",
-      "code_links": [],
-      "matched_interests": [
-        {
-          "name": "灵巧操作 (Dexterous Manipulation)",
-          "matched_keywords": [
-            "bi-manual",
-            "bimanual",
-            "dual-arm"
-          ],
-          "title_matches": [],
-          "abstract_matches": [
-            "bi-manual",
-            "bimanual",
-            "dual-arm"
-          ],
-          "score": 3.6,
-          "weight": 1.2
-        }
-      ],
-      "relevance_score": 3.6,
-      "combination_bonus": 0.0
+      "relevance_score": 14.0,
+      "hit_pillars": [
+        "3_perception_slam"
+      ]
     },
     {
       "title": "WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling",
@@ -922,20 +453,188 @@
       "code_links": [],
       "matched_interests": [
         {
-          "name": "Sim2Real与策略学习 (Sim2Real & Policy Learning)",
+          "name": "支柱二：RL算法与架构 (RL & Architecture)",
+          "id": "2_algo_arch",
           "matched_keywords": [
             "[T]world model"
           ],
-          "title_matches": [
-            "world model"
+          "score": 4.5
+        },
+        {
+          "name": "支柱七：动作重定向 (Motion Retargeting)",
+          "id": "7_retargeting",
+          "matched_keywords": [
+            "[T]geometric consistency"
           ],
-          "abstract_matches": [],
-          "score": 3.0,
-          "weight": 1.0
+          "score": 9.0
         }
       ],
-      "relevance_score": 3.0,
-      "combination_bonus": 0.0
+      "relevance_score": 13.5,
+      "hit_pillars": [
+        "2_algo_arch",
+        "7_retargeting"
+      ]
+    },
+    {
+      "title": "DASP: Self-supervised Nighttime Monocular Depth Estimation with Domain Adaptation of Spatiotemporal Priors",
+      "authors": [
+        "Yiheng Huang",
+        "Junhong Chen",
+        "Anqi Ning",
+        "Zhanhong Liang",
+        "Nick Michiels",
+        "Luc Claesen",
+        "Wenyin Liu"
+      ],
+      "arxiv_id": "2512.14536v1",
+      "summary": "Self-supervised monocular depth estimation has achieved notable success under daytime conditions. However, its performance deteriorates markedly at night due to low visibility and varying illumination, e.g., insufficient light causes textureless areas, and moving objects bring blurry regions. To this end, we propose a self-supervised framework named DASP that leverages spatiotemporal priors for nighttime depth estimation. Specifically, DASP consists of an adversarial branch for extracting spatiotemporal priors and a self-supervised branch for learning. In the adversarial branch, we first design an adversarial network where the discriminator is composed of four devised spatiotemporal priors learning blocks (SPLB) to exploit the daytime priors. In particular, the SPLB contains a spatial-based temporal learning module (STLM) that uses orthogonal differencing to extract motion-related variations along the time axis and an axial spatial learning module (ASLM) that adopts local asymmetric convolutions with global axial attention to capture the multiscale structural information. By combining STLM and ASLM, our model can acquire sufficient spatiotemporal features to restore textureless areas and estimate the blurry regions caused by dynamic objects. In the self-supervised branch, we propose a 3D consistency projection loss to bilaterally project the target frame and source frame into a shared 3D space, and calculate the 3D discrepancy between the two projected frames as a loss to optimize the 3D structural consistency and daytime priors. Extensive experiments on the Oxford RobotCar and nuScenes datasets demonstrate that our approach achieves state-of-the-art performance for nighttime depth estimation. Ablation studies further validate the effectiveness of each component.",
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "8 pages, 7 figures",
+      "doi": "10.1109/LRA.2025.3644148",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14536v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
+          "matched_keywords": [
+            "[T]depth estimation",
+            "[T]monocular depth"
+          ],
+          "score": 12.0
+        }
+      ],
+      "relevance_score": 12.0,
+      "hit_pillars": [
+        "3_perception_slam"
+      ]
+    },
+    {
+      "title": "Interactive Motion Planning for Human-Robot Collaboration Based on Human-Centric Configuration Space Ergonomic Field",
+      "authors": [
+        "Chenzui Li",
+        "Yiming Chen",
+        "Xi Wu",
+        "Tao Teng",
+        "Sylvain Calinon",
+        "Darwin Caldwell",
+        "Fei Chen"
+      ],
+      "arxiv_id": "2512.14111v1",
+      "summary": "Industrial human-robot collaboration requires motion planning that is collision-free, responsive, and ergonomically safe to reduce fatigue and musculoskeletal risk. We propose the Configuration Space Ergonomic Field (CSEF), a continuous and differentiable field over the human joint space that quantifies ergonomic quality and provides gradients for real-time ergonomics-aware planning. An efficient algorithm constructs CSEF from established metrics with joint-wise weighting and task conditioning, and we integrate it into a gradient-based planner compatible with impedance-controlled robots. In a 2-DoF benchmark, CSEF-based planning achieves higher success rates, lower ergonomic cost, and faster computation than a task-space ergonomic planner. Hardware experiments with a dual-arm robot in unimanual guidance, collaborative drilling, and bimanual cocarrying show faster ergonomic cost reduction, closer tracking to optimized joint targets, and lower muscle activation than a point-to-point baseline. CSEF-based planning method reduces average ergonomic scores by up to 10.31% for collaborative drilling tasks and 5.60% for bimanual co-carrying tasks while decreasing activation in key muscle groups, indicating practical benefits for real-world deployment.",
+      "categories": [
+        "cs.RO"
+      ],
+      "primary_category": "cs.RO",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "10 pages, 9 figures",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14111v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱一：机器人控制 (Robot Control)",
+          "id": "1_robot_core",
+          "matched_keywords": [
+            "bi-manual",
+            "bimanual",
+            "dual-arm",
+            "[T]motion planning"
+          ],
+          "score": 12.0
+        }
+      ],
+      "relevance_score": 12.0,
+      "hit_pillars": [
+        "1_robot_core"
+      ]
+    },
+    {
+      "title": "Broadening View Synthesis of Dynamic Scenes from Constrained Monocular Videos",
+      "authors": [
+        "Le Jiang",
+        "Shaotong Zhu",
+        "Yedi Luo",
+        "Shayda Moezzi",
+        "Sarah Ostadabbas"
+      ],
+      "arxiv_id": "2512.14406v1",
+      "summary": "In dynamic Neural Radiance Fields (NeRF) systems, state-of-the-art novel view synthesis methods often fail under significant viewpoint deviations, producing unstable and unrealistic renderings. To address this, we introduce Expanded Dynamic NeRF (ExpanDyNeRF), a monocular NeRF framework that leverages Gaussian splatting priors and a pseudo-ground-truth generation strategy to enable realistic synthesis under large-angle rotations. ExpanDyNeRF optimizes density and color features to improve scene reconstruction from challenging perspectives. We also present the Synthetic Dynamic Multiview (SynDM) dataset, the first synthetic multiview dataset for dynamic scenes with explicit side-view supervision-created using a custom GTA V-based rendering pipeline. Quantitative and qualitative results on SynDM and real-world datasets demonstrate that ExpanDyNeRF significantly outperforms existing dynamic NeRF methods in rendering fidelity under extreme viewpoint shifts. Further details are provided in the supplementary materials.",
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14406v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
+          "matched_keywords": [
+            "gaussian splatting",
+            "NeRF",
+            "neural radiance",
+            "novel view synthesis",
+            "scene reconstruction"
+          ],
+          "score": 10.0
+        }
+      ],
+      "relevance_score": 10.0,
+      "hit_pillars": [
+        "3_perception_slam"
+      ]
+    },
+    {
+      "title": "GaussianPlant: Structure-aligned Gaussian Splatting for 3D Reconstruction of Plants",
+      "authors": [
+        "Yang Yang",
+        "Risa Shinoda",
+        "Hiroaki Santo",
+        "Fumio Okura"
+      ],
+      "arxiv_id": "2512.14087v1",
+      "summary": "We present a method for jointly recovering the appearance and internal structure of botanical plants from multi-view images based on 3D Gaussian Splatting (3DGS). While 3DGS exhibits robust reconstruction of scene appearance for novel-view synthesis, it lacks structural representations underlying those appearances (e.g., branching patterns of plants), which limits its applicability to tasks such as plant phenotyping. To achieve both high-fidelity appearance and structural reconstruction, we introduce GaussianPlant, a hierarchical 3DGS representation, which disentangles structure and appearance. Specifically, we employ structure primitives (StPs) to explicitly represent branch and leaf geometry, and appearance primitives (ApPs) to the plants' appearance using 3D Gaussians. StPs represent a simplified structure of the plant, i.e., modeling branches as cylinders and leaves as disks. To accurately distinguish the branches and leaves, StP's attributes (i.e., branches or leaves) are optimized in a self-organized manner. ApPs are bound to each StP to represent the appearance of branches or leaves as in conventional 3DGS. StPs and ApPs are jointly optimized using a re-rendering loss on the input multi-view images, as well as the gradient flow from ApP to StP using the binding correspondence information. We conduct experiments to qualitatively evaluate the reconstruction accuracy of both appearance and structure, as well as real-world experiments to qualitatively validate the practical performance. Experiments show that the GaussianPlant achieves both high-fidelity appearance reconstruction via ApPs and accurate structural reconstruction via StPs, enabling the extraction of branch structure and leaf instances.",
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "Submitted to IEEE TPAMI, under review",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14087v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
+          "matched_keywords": [
+            "3D gaussian splatting",
+            "3DGS",
+            "[T]gaussian splatting"
+          ],
+          "score": 10.0
+        }
+      ],
+      "relevance_score": 10.0,
+      "hit_pillars": [
+        "3_perception_slam"
+      ]
     },
     {
       "title": "Synthetic Data Pipelines for Adaptive, Mission-Ready Militarized Humanoids",
@@ -956,9 +655,633 @@
       "journal_ref": "",
       "pdf_url": "https://arxiv.org/pdf/2512.14411v1",
       "code_links": [],
-      "matched_interests": [],
-      "relevance_score": 3.0,
-      "combination_bonus": 3.0
+      "matched_interests": [
+        {
+          "name": "支柱一：机器人控制 (Robot Control)",
+          "id": "1_robot_core",
+          "matched_keywords": [
+            "[T]humanoid"
+          ],
+          "score": 6.0
+        },
+        {
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
+          "matched_keywords": [
+            "navigation"
+          ],
+          "score": 2.0
+        }
+      ],
+      "relevance_score": 8.0,
+      "hit_pillars": [
+        "1_robot_core",
+        "3_perception_slam"
+      ]
+    },
+    {
+      "title": "Field evaluation and optimization of a lightweight lidar-based UAV navigation system for dense boreal forest environments",
+      "authors": [
+        "Aleksi Karhunen",
+        "Teemu Hakala",
+        "Väinö Karjalainen",
+        "Eija Honkavaara"
+      ],
+      "arxiv_id": "2512.14340v1",
+      "summary": "The interest in the usage of uncrewed aerial vehicles (UAVs) for forest applications has increased in recent years. While above-canopy flight has reached a high level of autonomy, navigating under-canopy remains a significant challenge. The use of autonomous UAVs could reduce the burden of data collection, which has motivated the development of numerous solutions for under-canopy autonomous flight. However, the experiments conducted in the literature and their reporting lack rigor. Very rarely, the density and the difficulty of the test forests are reported, or multiple flights are flown, and the success rate of those flights is reported. The aim of this study was to implement an autonomously flying quadrotor based on a lightweight lidar using openly available algorithms and test its behavior in real forest environments. A set of rigorous experiments was conducted with a quadrotor prototype utilizing the IPC path planner and LTA-OM SLAM algorithm. Based on the results of the first 33 flights, the original system was further enhanced. With the optimized system, 60 flights were performed, resulting in a total of 93 test flights. The optimized system performed significantly better in terms of reliability and flight mission completion times, achieving success rates of 12/15 in a medium-density forest and 15/15 in a dense forest, at a target flight velocity of 1 m/s. At a target flight velocity of 2 m/s, it had a success rate of 12/15 and 5/15, respectively. Furthermore, a standardized testing setup and evaluation criteria were proposed, enabling consistent performance comparisons of autonomous under-canopy UAV systems, enhancing reproducibility, guiding system improvements, and accelerating progress in forest robotics.",
+      "categories": [
+        "cs.RO"
+      ],
+      "primary_category": "cs.RO",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "This work has been submitted to the IEEE for possible publication",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14340v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
+          "matched_keywords": [
+            "SLAM",
+            "[T]navigation"
+          ],
+          "score": 8.0
+        }
+      ],
+      "relevance_score": 8.0,
+      "hit_pillars": [
+        "3_perception_slam"
+      ]
+    },
+    {
+      "title": "ACE-SLAM: Scene Coordinate Regression for Neural Implicit Real-Time SLAM",
+      "authors": [
+        "Ignacio Alzugaray",
+        "Marwan Taher",
+        "Andrew J. Davison"
+      ],
+      "arxiv_id": "2512.14032v1",
+      "summary": "We present a novel neural RGB-D Simultaneous Localization And Mapping (SLAM) system that learns an implicit map of the scene in real time. For the first time, we explore the use of Scene Coordinate Regression (SCR) as the core implicit map representation in a neural SLAM pipeline, a paradigm that trains a lightweight network to directly map 2D image features to 3D global coordinates. SCR networks provide efficient, low-memory 3D map representations, enable extremely fast relocalization, and inherently preserve privacy, making them particularly suitable for neural implicit SLAM.\n  Our system is the first one to achieve strict real-time in neural implicit RGB-D SLAM by relying on a SCR-based representation. We introduce a novel SCR architecture specifically tailored for this purpose and detail the critical design choices required to integrate SCR into a live SLAM pipeline. The resulting framework is simple yet flexible, seamlessly supporting both sparse and dense features, and operates reliably in dynamic environments without special adaptation. We evaluate our approach on established synthetic and real-world benchmarks, demonstrating competitive performance against the state of the art. Project Page: https://github.com/ialzugaray/ace-slam",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "eess.IV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "Project Page: https://github.com/ialzugaray/ace-slam",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14032v1",
+      "code_links": [
+        {
+          "url": "https://github.com/ialzugaray/ace-slam",
+          "type": "github"
+        }
+      ],
+      "matched_interests": [
+        {
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
+          "matched_keywords": [
+            "[T]SLAM",
+            "localization"
+          ],
+          "score": 8.0
+        }
+      ],
+      "relevance_score": 8.0,
+      "hit_pillars": [
+        "3_perception_slam"
+      ]
+    },
+    {
+      "title": "PSMamba: Progressive Self-supervised Vision Mamba for Plant Disease Recognition",
+      "authors": [
+        "Abdullah Al Mamun",
+        "Miaohua Zhang",
+        "David Ahmedt-Aristizabal",
+        "Zeeshan Hayder",
+        "Mohammad Awrangjeb"
+      ],
+      "arxiv_id": "2512.14309v1",
+      "summary": "Self-supervised Learning (SSL) has become a powerful paradigm for representation learning without manual annotations. However, most existing frameworks focus on global alignment and struggle to capture the hierarchical, multi-scale lesion patterns characteristic of plant disease imagery. To address this gap, we propose PSMamba, a progressive self-supervised framework that integrates the efficient sequence modelling of Vision Mamba (VM) with a dual-student hierarchical distillation strategy. Unlike conventional single teacher-student designs, PSMamba employs a shared global teacher and two specialised students: one processes mid-scale views to capture lesion distributions and vein structures, while the other focuses on local views to capture fine-grained cues such as texture irregularities and early-stage lesions. This multi-granular supervision facilitates the joint learning of contextual and detailed representations, with consistency losses ensuring coherent cross-scale alignment. Experiments on three benchmark datasets show that PSMamba consistently outperforms state-of-the-art SSL methods, delivering superior accuracy and robustness in both domain-shifted and fine-grained scenarios.",
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14309v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱二：RL算法与架构 (RL & Architecture)",
+          "id": "2_algo_arch",
+          "matched_keywords": [
+            "[T]Mamba",
+            "representation learning",
+            "teacher-student"
+          ],
+          "score": 7.5
+        }
+      ],
+      "relevance_score": 7.5,
+      "hit_pillars": [
+        "2_algo_arch"
+      ]
+    },
+    {
+      "title": "Context Representation via Action-Free Transformer encoder-decoder for Meta Reinforcement Learning",
+      "authors": [
+        "Amir M. Soufi Enayati",
+        "Homayoun Honari",
+        "Homayoun Najjaran"
+      ],
+      "arxiv_id": "2512.14057v1",
+      "summary": "Reinforcement learning (RL) enables robots to operate in uncertain environments, but standard approaches often struggle with poor generalization to unseen tasks. Context-adaptive meta reinforcement learning addresses these limitations by conditioning on the task representation, yet they mostly rely on complete action information in the experience making task inference tightly coupled to a specific policy. This paper introduces Context Representation via Action Free Transformer encoder decoder (CRAFT), a belief model that infers task representations solely from sequences of states and rewards. By removing the dependence on actions, CRAFT decouples task inference from policy optimization, supports modular training, and leverages amortized variational inference for scalable belief updates. Built on a transformer encoder decoder with rotary positional embeddings, the model captures long range temporal dependencies and robustly encodes both parametric and non-parametric task variations. Experiments on the MetaWorld ML-10 robotic manipulation benchmark show that CRAFT achieves faster adaptation, improved generalization, and more effective exploration compared to context adaptive meta--RL baselines. These findings highlight the potential of action-free inference as a foundation for scalable RL in robotic control.",
+      "categories": [
+        "cs.RO"
+      ],
+      "primary_category": "cs.RO",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14057v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱一：机器人控制 (Robot Control)",
+          "id": "1_robot_core",
+          "matched_keywords": [
+            "manipulation"
+          ],
+          "score": 2.0
+        },
+        {
+          "name": "支柱二：RL算法与架构 (RL & Architecture)",
+          "id": "2_algo_arch",
+          "matched_keywords": [
+            "[T]reinforcement learning"
+          ],
+          "score": 4.5
+        }
+      ],
+      "relevance_score": 6.5,
+      "hit_pillars": [
+        "1_robot_core",
+        "2_algo_arch"
+      ]
+    },
+    {
+      "title": "Sample-Efficient Robot Skill Learning for Construction Tasks: Benchmarking Hierarchical Reinforcement Learning and Vision-Language-Action VLA Model",
+      "authors": [
+        "Zhaofeng Hu",
+        "Hongrui Yu",
+        "Vaidhyanathan Chandramouli",
+        "Ci-Jyun Liang"
+      ],
+      "arxiv_id": "2512.14031v1",
+      "summary": "This study evaluates two leading approaches for teaching construction robots new skills to understand their applicability for construction automation: a Vision-Language-Action (VLA) model and Reinforcement Learning (RL) methods. The goal is to understand both task performance and the practical effort needed to deploy each approach on real jobs. The authors developed two teleoperation interfaces to control the robots and collect the demonstrations needed, both of which proved effective for training robots for long-horizon and dexterous tasks. In addition, the authors conduct a three-stage evaluation. First, the authors compare a Multi-Layer Perceptron (MLP) policy with a Deep Q-network (DQN) imitation model to identify the stronger RL baseline, focusing on model performance, generalization, and a pick-up experiment. Second, three different VLA models are trained in two different scenarios and compared with each other. Third, the authors benchmark the selected RL baseline against the VLA model using computational and sample-efficiency measures and then a robot experiment on a multi-stage panel installation task that includes transport and installation. The VLA model demonstrates strong generalization and few-shot capability, achieving 60% and 100% success in the pickup phase. In comparison, DQN can be made robust but needs additional noise during tuning, which increases the workload. Overall, the findings indicate that VLA offers practical advantages for changing tasks by reducing programming effort and enabling useful performance with minimal data, while DQN provides a viable baseline when sufficient tuning effort is acceptable.",
+      "categories": [
+        "cs.RO",
+        "cs.AI"
+      ],
+      "primary_category": "cs.RO",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14031v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱一：机器人控制 (Robot Control)",
+          "id": "1_robot_core",
+          "matched_keywords": [
+            "teleoperation"
+          ],
+          "score": 2.0
+        },
+        {
+          "name": "支柱二：RL算法与架构 (RL & Architecture)",
+          "id": "2_algo_arch",
+          "matched_keywords": [
+            "[T]reinforcement learning"
+          ],
+          "score": 4.5
+        }
+      ],
+      "relevance_score": 6.5,
+      "hit_pillars": [
+        "1_robot_core",
+        "2_algo_arch"
+      ]
+    },
+    {
+      "title": "CLNet: Cross-View Correspondence Makes a Stronger Geo-Localizationer",
+      "authors": [
+        "Xianwei Cao",
+        "Dou Quan",
+        "Shuang Wang",
+        "Ning Huyan",
+        "Wei Wang",
+        "Yunan Li",
+        "Licheng Jiao"
+      ],
+      "arxiv_id": "2512.14560v1",
+      "summary": "Image retrieval-based cross-view geo-localization (IRCVGL) aims to match images captured from significantly different viewpoints, such as satellite and street-level images. Existing methods predominantly rely on learning robust global representations or implicit feature alignment, which often fail to model explicit spatial correspondences crucial for accurate localization. In this work, we propose a novel correspondence-aware feature refinement framework, termed CLNet, that explicitly bridges the semantic and geometric gaps between different views. CLNet decomposes the view alignment process into three learnable and complementary modules: a Neural Correspondence Map (NCM) that spatially aligns cross-view features via latent correspondence fields; a Nonlinear Embedding Converter (NEC) that remaps features across perspectives using an MLP-based transformation; and a Global Feature Recalibration (GFR) module that reweights informative feature channels guided by learned spatial cues. The proposed CLNet can jointly capture both high-level semantics and fine-grained alignments. Extensive experiments on four public benchmarks, CVUSA, CVACT, VIGOR, and University-1652, demonstrate that our proposed CLNet achieves state-of-the-art performance while offering better interpretability and generalizability.",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "16 pages, 6 figures",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14560v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
+          "matched_keywords": [
+            "[T]localization"
+          ],
+          "score": 6.0
+        }
+      ],
+      "relevance_score": 6.0,
+      "hit_pillars": [
+        "3_perception_slam"
+      ]
+    },
+    {
+      "title": "Unified Semantic Transformer for 3D Scene Understanding",
+      "authors": [
+        "Sebastian Koch",
+        "Johanna Wald",
+        "Hide Matsuki",
+        "Pedro Hermosilla",
+        "Timo Ropinski",
+        "Federico Tombari"
+      ],
+      "arxiv_id": "2512.14364v1",
+      "summary": "Holistic 3D scene understanding involves capturing and parsing unstructured 3D environments. Due to the inherent complexity of the real world, existing models have predominantly been developed and limited to be task-specific. We introduce UNITE, a Unified Semantic Transformer for 3D scene understanding, a novel feed-forward neural network that unifies a diverse set of 3D semantic tasks within a single model. Our model operates on unseen scenes in a fully end-to-end manner and only takes a few seconds to infer the full 3D semantic geometry. Our approach is capable of directly predicting multiple semantic attributes, including 3D scene segmentation, instance embeddings, open-vocabulary features, as well as affordance and articulations, solely from RGB images. The method is trained using a combination of 2D distillation, heavily relying on self-supervision and leverages novel multi-view losses designed to ensure 3D view consistency. We demonstrate that UNITE achieves state-of-the-art performance on several different semantic tasks and even outperforms task-specific models, in many cases, surpassing methods that operate on ground truth 3D geometry. See the project website at unite-page.github.io",
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "Project page: https://unite-page.github.io/",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14364v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
+          "matched_keywords": [
+            "[T]scene understanding"
+          ],
+          "score": 6.0
+        }
+      ],
+      "relevance_score": 6.0,
+      "hit_pillars": [
+        "3_perception_slam"
+      ]
+    },
+    {
+      "title": "Fine-Tuning of Neural Network Approximate MPC without Retraining via Bayesian Optimization",
+      "authors": [
+        "Henrik Hose",
+        "Paul Brunzema",
+        "Alexander von Rohr",
+        "Alexander Gräfe",
+        "Angela P. Schoellig",
+        "Sebastian Trimpe"
+      ],
+      "arxiv_id": "2512.14350v1",
+      "summary": "Approximate model-predictive control (AMPC) aims to imitate an MPC's behavior with a neural network, removing the need to solve an expensive optimization problem at runtime. However, during deployment, the parameters of the underlying MPC must usually be fine-tuned. This often renders AMPC impractical as it requires repeatedly generating a new dataset and retraining the neural network. Recent work addresses this problem by adapting AMPC without retraining using approximated sensitivities of the MPC's optimization problem. Currently, this adaption must be done by hand, which is labor-intensive and can be unintuitive for high-dimensional systems. To solve this issue, we propose using Bayesian optimization to tune the parameters of AMPC policies based on experimental data. By combining model-based control with direct and local learning, our approach achieves superior performance to nominal AMPC on hardware, with minimal experimentation. This allows automatic and data-efficient adaptation of AMPC to new system instances and fine-tuning to cost functions that are difficult to directly implement in MPC. We demonstrate the proposed method in hardware experiments for the swing-up maneuver on an inverted cartpole and yaw control of an under-actuated balancing unicycle robot, a challenging control problem.",
+      "categories": [
+        "cs.RO",
+        "eess.SY"
+      ],
+      "primary_category": "cs.RO",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14350v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱一：机器人控制 (Robot Control)",
+          "id": "1_robot_core",
+          "matched_keywords": [
+            "[T]MPC"
+          ],
+          "score": 6.0
+        }
+      ],
+      "relevance_score": 6.0,
+      "hit_pillars": [
+        "1_robot_core"
+      ]
+    },
+    {
+      "title": "4D-RaDiff: Latent Diffusion for 4D Radar Point Cloud Generation",
+      "authors": [
+        "Jimmie Kwok",
+        "Holger Caesar",
+        "Andras Palffy"
+      ],
+      "arxiv_id": "2512.14235v1",
+      "summary": "Automotive radar has shown promising developments in environment perception due to its cost-effectiveness and robustness in adverse weather conditions. However, the limited availability of annotated radar data poses a significant challenge for advancing radar-based perception systems. To address this limitation, we propose a novel framework to generate 4D radar point clouds for training and evaluating object detectors. Unlike image-based diffusion, our method is designed to consider the sparsity and unique characteristics of radar point clouds by applying diffusion to a latent point cloud representation. Within this latent space, generation is controlled via conditioning at either the object or scene level. The proposed 4D-RaDiff converts unlabeled bounding boxes into high-quality radar annotations and transforms existing LiDAR point cloud data into realistic radar scenes. Experiments demonstrate that incorporating synthetic radar data of 4D-RaDiff as data augmentation method during training consistently improves object detection performance compared to training on real data only. In addition, pre-training on our synthetic data reduces the amount of required annotated radar data by up to 90% while achieving comparable object detection performance.",
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14235v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
+          "matched_keywords": [
+            "[T]point cloud"
+          ],
+          "score": 6.0
+        }
+      ],
+      "relevance_score": 6.0,
+      "hit_pillars": [
+        "3_perception_slam"
+      ]
+    },
+    {
+      "title": "History-Enhanced Two-Stage Transformer for Aerial Vision-and-Language Navigation",
+      "authors": [
+        "Xichen Ding",
+        "Jianzhe Gao",
+        "Cong Pan",
+        "Wenguan Wang",
+        "Jie Qin"
+      ],
+      "arxiv_id": "2512.14222v1",
+      "summary": "Aerial Vision-and-Language Navigation (AVLN) requires Unmanned Aerial Vehicle (UAV) agents to localize targets in large-scale urban environments based on linguistic instructions. While successful navigation demands both global environmental reasoning and local scene comprehension, existing UAV agents typically adopt mono-granularity frameworks that struggle to balance these two aspects. To address this limitation, this work proposes a History-Enhanced Two-Stage Transformer (HETT) framework, which integrates the two aspects through a coarse-to-fine navigation pipeline. Specifically, HETT first predicts coarse-grained target positions by fusing spatial landmarks and historical context, then refines actions via fine-grained visual analysis. In addition, a historical grid map is designed to dynamically aggregate visual features into a structured spatial memory, enhancing comprehensive scene awareness. Additionally, the CityNav dataset annotations are manually refined to enhance data quality. Experiments on the refined CityNav dataset show that HETT delivers significant performance gains, while extensive ablation studies further verify the effectiveness of each component.",
+      "categories": [
+        "cs.CV",
+        "cs.RO"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14222v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
+          "matched_keywords": [
+            "[T]navigation"
+          ],
+          "score": 6.0
+        }
+      ],
+      "relevance_score": 6.0,
+      "hit_pillars": [
+        "3_perception_slam"
+      ]
+    },
+    {
+      "title": "Trajectory Tracking for Multi-Manipulator Systems in Constrained Environments",
+      "authors": [
+        "Mayank Sewlia",
+        "Christos K. Verginis",
+        "Dimos V. Dimarogonas"
+      ],
+      "arxiv_id": "2512.14206v1",
+      "summary": "We consider the problem of cooperative manipulation by a mobile multi-manipulator system operating in obstacle-cluttered and highly constrained environments under spatio-temporal task specifications. The task requires transporting a grasped object while respecting both continuous robot dynamics and discrete geometric constraints arising from obstacles and narrow passages. To address this hybrid structure, we propose a multi-rate planning and control framework that combines offline generation of an STL-satisfying object trajectory and collision-free base footprints with online constrained inverse kinematics and continuous-time feedback control. The resulting closed-loop system enables coordinated reconfiguration of multiple manipulators while tracking the desired object motion. The approach is evaluated in high-fidelity physics simulations using three Franka Emika Panda mobile manipulators rigidly grasping an object.",
+      "categories": [
+        "cs.RO",
+        "eess.SY"
+      ],
+      "primary_category": "cs.RO",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14206v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱一：机器人控制 (Robot Control)",
+          "id": "1_robot_core",
+          "matched_keywords": [
+            "manipulation",
+            "grasping",
+            "grasp"
+          ],
+          "score": 6.0
+        }
+      ],
+      "relevance_score": 6.0,
+      "hit_pillars": [
+        "1_robot_core"
+      ]
+    },
+    {
+      "title": "Spherical Voronoi: Directional Appearance as a Differentiable Partition of the Sphere",
+      "authors": [
+        "Francesco Di Sario",
+        "Daniel Rebain",
+        "Dor Verbin",
+        "Marco Grangetto",
+        "Andrea Tagliasacchi"
+      ],
+      "arxiv_id": "2512.14180v1",
+      "summary": "Radiance field methods (e.g. 3D Gaussian Splatting) have emerged as a powerful paradigm for novel view synthesis, yet their appearance modeling often relies on Spherical Harmonics (SH), which impose fundamental limitations. SH struggle with high-frequency signals, exhibit Gibbs ringing artifacts, and fail to capture specular reflections - a key component of realistic rendering. Although alternatives like spherical Gaussians offer improvements, they add significant optimization complexity. We propose Spherical Voronoi (SV) as a unified framework for appearance representation in 3D Gaussian Splatting. SV partitions the directional domain into learnable regions with smooth boundaries, providing an intuitive and stable parameterization for view-dependent effects. For diffuse appearance, SV achieves competitive results while keeping optimization simpler than existing alternatives. For reflections - where SH fail - we leverage SV as learnable reflection probes, taking reflected directions as input following principles from classical graphics. This formulation attains state-of-the-art results on synthetic and real-world datasets, demonstrating that SV offers a principled, efficient, and general solution for appearance modeling in explicit 3D representations.",
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14180v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
+          "matched_keywords": [
+            "3D gaussian splatting",
+            "gaussian splatting",
+            "novel view synthesis"
+          ],
+          "score": 6.0
+        }
+      ],
+      "relevance_score": 6.0,
+      "hit_pillars": [
+        "3_perception_slam"
+      ]
+    },
+    {
+      "title": "FastDDHPose: Towards Unified, Efficient, and Disentangled 3D Human Pose Estimation",
+      "authors": [
+        "Qingyuan Cai",
+        "Linxin Zhang",
+        "Xuecai Hu",
+        "Saihui Hou",
+        "Yongzhen Huang"
+      ],
+      "arxiv_id": "2512.14162v1",
+      "summary": "Recent approaches for monocular 3D human pose estimation (3D HPE) have achieved leading performance by directly regressing 3D poses from 2D keypoint sequences. Despite the rapid progress in 3D HPE, existing methods are typically trained and evaluated under disparate frameworks, lacking a unified framework for fair comparison. To address these limitations, we propose Fast3DHPE, a modular framework that facilitates rapid reproduction and flexible development of new methods. By standardizing training and evaluation protocols, Fast3DHPE enables fair comparison across 3D human pose estimation methods while significantly improving training efficiency. Within this framework, we introduce FastDDHPose, a Disentangled Diffusion-based 3D Human Pose Estimation method which leverages the strong latent distribution modeling capability of diffusion models to explicitly model the distributions of bone length and bone direction while avoiding further amplification of hierarchical error accumulation. Moreover, we design an efficient Kinematic-Hierarchical Spatial and Temporal Denoiser that encourages the model to focus on kinematic joint hierarchies while avoiding unnecessary modeling of overly complex joint topologies. Extensive experiments on Human3.6M and MPI-INF-3DHP show that the Fast3DHPE framework enables fair comparison of all methods while significantly improving training efficiency. Within this unified framework, FastDDHPose achieves state-of-the-art performance with strong generalization and robustness in in-the-wild scenarios. The framework and models will be released at: https://github.com/Andyen512/Fast3DHPE",
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14162v1",
+      "code_links": [
+        {
+          "url": "https://github.com/Andyen512/Fast3DHPE",
+          "type": "github"
+        }
+      ],
+      "matched_interests": [
+        {
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
+          "matched_keywords": [
+            "[T]pose estimation"
+          ],
+          "score": 6.0
+        }
+      ],
+      "relevance_score": 6.0,
+      "hit_pillars": [
+        "3_perception_slam"
+      ]
+    },
+    {
+      "title": "Consistent Instance Field for Dynamic Scene Understanding",
+      "authors": [
+        "Junyi Wu",
+        "Van Nguyen Nguyen",
+        "Benjamin Planche",
+        "Jiachen Tao",
+        "Changchang Sun",
+        "Zhongpai Gao",
+        "Zhenghao Zhao",
+        "Anwesa Choudhuri",
+        "Gengyu Zhang",
+        "Meng Zheng",
+        "Feiran Wang",
+        "Terrence Chen",
+        "Yan Yan",
+        "Ziyan Wu"
+      ],
+      "arxiv_id": "2512.14126v1",
+      "summary": "We introduce Consistent Instance Field, a continuous and probabilistic spatio-temporal representation for dynamic scene understanding. Unlike prior methods that rely on discrete tracking or view-dependent features, our approach disentangles visibility from persistent object identity by modeling each space-time point with an occupancy probability and a conditional instance distribution. To realize this, we introduce a novel instance-embedded representation based on deformable 3D Gaussians, which jointly encode radiance and semantic information and are learned directly from input RGB images and instance masks through differentiable rasterization. Furthermore, we introduce new mechanisms to calibrate per-Gaussian identities and resample Gaussians toward semantically active regions, ensuring consistent instance representations across space and time. Experiments on HyperNeRF and Neu3D datasets demonstrate that our method significantly outperforms state-of-the-art methods on novel-view panoptic segmentation and open-vocabulary 4D querying tasks.",
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14126v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
+          "matched_keywords": [
+            "[T]scene understanding"
+          ],
+          "score": 6.0
+        }
+      ],
+      "relevance_score": 6.0,
+      "hit_pillars": [
+        "3_perception_slam"
+      ]
+    },
+    {
+      "title": "E-Navi: Environmental Adaptive Navigation for UAVs on Resource Constrained Platforms",
+      "authors": [
+        "Boyang Li",
+        "Zhongpeng Jin",
+        "Shuai Zhao",
+        "Jiahui Liao",
+        "Tian Liu",
+        "Han Liu",
+        "Yuanhai Zhang",
+        "Kai Huang"
+      ],
+      "arxiv_id": "2512.14046v1",
+      "summary": "The ability to adapt to changing environments is crucial for the autonomous navigation systems of Unmanned Aerial Vehicles (UAVs). However, existing navigation systems adopt fixed execution configurations without considering environmental dynamics based on available computing resources, e.g., with a high execution frequency and task workload. This static approach causes rigid flight strategies and excessive computations, ultimately degrading flight performance or even leading to failures in UAVs. Despite the necessity for an adaptive system, dynamically adjusting workloads remains challenging, due to difficulties in quantifying environmental complexity and modeling the relationship between environment and system configuration. Aiming at adapting to dynamic environments, this paper proposes E-Navi, an environmental-adaptive navigation system for UAVs that dynamically adjusts task executions on the CPUs in response to environmental changes based on available computational resources. Specifically, the perception-planning pipeline of UAVs navigation system is redesigned through dynamic adaptation of mapping resolution and execution frequency, driven by the quantitative environmental complexity evaluations. In addition, E-Navi supports flexible deployment across hardware platforms with varying levels of computing capability. Extensive Hardware-In-the-Loop and real-world experiments demonstrate that the proposed system significantly outperforms the baseline method across various hardware platforms, achieving up to 53.9% navigation task workload reduction, up to 63.8% flight time savings, and delivering more stable velocity control.",
+      "categories": [
+        "cs.RO"
+      ],
+      "primary_category": "cs.RO",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14046v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
+          "matched_keywords": [
+            "[T]navigation"
+          ],
+          "score": 6.0
+        }
+      ],
+      "relevance_score": 6.0,
+      "hit_pillars": [
+        "3_perception_slam"
+      ]
     },
     {
       "title": "Robust Single-shot Structured Light 3D Imaging via Neural Feature Decoding",
@@ -991,62 +1314,69 @@
       ],
       "matched_interests": [
         {
-          "name": "SOTA深度估计 (SOTA Depth Estimation)",
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
           "matched_keywords": [
-            "monocular depth",
-            "depth estimation"
+            "depth estimation",
+            "monocular depth"
           ],
-          "title_matches": [],
-          "abstract_matches": [
-            "monocular depth",
-            "depth estimation"
+          "score": 4.0
+        },
+        {
+          "name": "支柱六：视频提取与匹配 (Video Extraction & Matching)",
+          "id": "6_video_extraction",
+          "matched_keywords": [
+            "feature matching"
           ],
-          "score": 3.0,
-          "weight": 1.5
+          "score": 2.0
         }
       ],
-      "relevance_score": 3.0,
-      "combination_bonus": 0.0
+      "relevance_score": 6.0,
+      "hit_pillars": [
+        "3_perception_slam",
+        "6_video_extraction"
+      ]
     },
     {
-      "title": "Trajectory Tracking for Multi-Manipulator Systems in Constrained Environments",
+      "title": "ViBES: A Conversational Agent with Behaviorally-Intelligent 3D Virtual Body",
       "authors": [
-        "Mayank Sewlia",
-        "Christos K. Verginis",
-        "Dimos V. Dimarogonas"
+        "Juze Zhang",
+        "Changan Chen",
+        "Xin Chen",
+        "Heng Yu",
+        "Tiange Xiang",
+        "Ali Sartaz Khan",
+        "Shrinidhi K. Lakshmikanth",
+        "Ehsan Adeli"
       ],
-      "arxiv_id": "2512.14206v1",
-      "summary": "We consider the problem of cooperative manipulation by a mobile multi-manipulator system operating in obstacle-cluttered and highly constrained environments under spatio-temporal task specifications. The task requires transporting a grasped object while respecting both continuous robot dynamics and discrete geometric constraints arising from obstacles and narrow passages. To address this hybrid structure, we propose a multi-rate planning and control framework that combines offline generation of an STL-satisfying object trajectory and collision-free base footprints with online constrained inverse kinematics and continuous-time feedback control. The resulting closed-loop system enables coordinated reconfiguration of multiple manipulators while tracking the desired object motion. The approach is evaluated in high-fidelity physics simulations using three Franka Emika Panda mobile manipulators rigidly grasping an object.",
+      "arxiv_id": "2512.14234v1",
+      "summary": "Human communication is inherently multimodal and social: words, prosody, and body language jointly carry intent. Yet most prior systems model human behavior as a translation task co-speech gesture or text-to-motion that maps a fixed utterance to motion clips-without requiring agentic decision-making about when to move, what to do, or how to adapt across multi-turn dialogue. This leads to brittle timing, weak social grounding, and fragmented stacks where speech, text, and motion are trained or inferred in isolation. We introduce ViBES (Voice in Behavioral Expression and Synchrony), a conversational 3D agent that jointly plans language and movement and executes dialogue-conditioned body actions. Concretely, ViBES is a speech-language-behavior (SLB) model with a mixture-of-modality-experts (MoME) backbone: modality-partitioned transformer experts for speech, facial expression, and body motion. The model processes interleaved multimodal token streams with hard routing by modality (parameters are split per expert), while sharing information through cross-expert attention. By leveraging strong pretrained speech-language models, the agent supports mixed-initiative interaction: users can speak, type, or issue body-action directives mid-conversation, and the system exposes controllable behavior hooks for streaming responses. We further benchmark on multi-turn conversation with automatic metrics of dialogue-motion alignment and behavior quality, and observe consistent gains over strong co-speech and text-to-motion baselines. ViBES goes beyond \"speech-conditioned motion generation\" toward agentic virtual bodies where language, prosody, and movement are jointly generated, enabling controllable, socially competent 3D interaction. Code and data will be made available at: ai.stanford.edu/~juze/ViBES/",
       "categories": [
-        "cs.RO",
-        "eess.SY"
+        "cs.CV"
       ],
-      "primary_category": "cs.RO",
+      "primary_category": "cs.CV",
       "published": "2025-12-16",
       "updated": "2025-12-16",
-      "comment": "",
+      "comment": "Project page: https://ai.stanford.edu/~juze/ViBES/",
       "doi": "",
       "journal_ref": "",
-      "pdf_url": "https://arxiv.org/pdf/2512.14206v1",
+      "pdf_url": "https://arxiv.org/pdf/2512.14234v1",
       "code_links": [],
       "matched_interests": [
         {
-          "name": "灵巧操作 (Dexterous Manipulation)",
+          "name": "支柱四：生成式动作 (Generative Motion)",
+          "id": "4_motion_diffusion",
           "matched_keywords": [
-            "grasp",
-            "grasping"
+            "text-to-motion",
+            "motion generation"
           ],
-          "title_matches": [],
-          "abstract_matches": [
-            "grasp",
-            "grasping"
-          ],
-          "score": 2.4,
-          "weight": 1.2
+          "score": 5.0
         }
       ],
-      "relevance_score": 2.4,
-      "combination_bonus": 0.0
+      "relevance_score": 5.0,
+      "hit_pillars": [
+        "4_motion_diffusion"
+      ]
     },
     {
       "title": "ASAP-Textured Gaussians: Enhancing Textured Gaussians with Adaptive Sampling and Anisotropic Parameterization",
@@ -1072,22 +1402,71 @@
       "code_links": [],
       "matched_interests": [
         {
-          "name": "3D重建与高斯 (3D Reconstruction & Gaussian)",
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
           "matched_keywords": [
-            "3D Gaussian Splatting",
-            "Gaussian splatting"
+            "3D gaussian splatting",
+            "gaussian splatting"
           ],
-          "title_matches": [],
-          "abstract_matches": [
-            "3D Gaussian Splatting",
-            "Gaussian splatting"
-          ],
-          "score": 2.4,
-          "weight": 1.2
+          "score": 4.0
         }
       ],
-      "relevance_score": 2.4,
-      "combination_bonus": 0.0
+      "relevance_score": 4.0,
+      "hit_pillars": [
+        "3_perception_slam"
+      ]
+    },
+    {
+      "title": "CLAIM: Camera-LiDAR Alignment with Intensity and Monodepth",
+      "authors": [
+        "Zhuo Zhang",
+        "Yonghui Liu",
+        "Meijie Zhang",
+        "Feiyang Tan",
+        "Yikang Ding"
+      ],
+      "arxiv_id": "2512.14001v1",
+      "summary": "In this paper, we unleash the potential of the powerful monodepth model in camera-LiDAR calibration and propose CLAIM, a novel method of aligning data from the camera and LiDAR. Given the initial guess and pairs of images and LiDAR point clouds, CLAIM utilizes a coarse-to-fine searching method to find the optimal transformation minimizing a patched Pearson correlation-based structure loss and a mutual information-based texture loss. These two losses serve as good metrics for camera-LiDAR alignment results and require no complicated steps of data processing, feature extraction, or feature matching like most methods, rendering our method simple and adaptive to most scenes. We validate CLAIM on public KITTI, Waymo, and MIAS-LCEC datasets, and the experimental results demonstrate its superior performance compared with the state-of-the-art methods. The code is available at https://github.com/Tompson11/claim.",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "primary_category": "cs.RO",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "Accepted by IROS 2025",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14001v1",
+      "code_links": [
+        {
+          "url": "https://github.com/Tompson11/claim",
+          "type": "github"
+        }
+      ],
+      "matched_interests": [
+        {
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
+          "matched_keywords": [
+            "point cloud"
+          ],
+          "score": 2.0
+        },
+        {
+          "name": "支柱六：视频提取与匹配 (Video Extraction & Matching)",
+          "id": "6_video_extraction",
+          "matched_keywords": [
+            "feature matching"
+          ],
+          "score": 2.0
+        }
+      ],
+      "relevance_score": 4.0,
+      "hit_pillars": [
+        "3_perception_slam",
+        "6_video_extraction"
+      ]
     },
     {
       "title": "A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning",
@@ -1117,32 +1496,325 @@
       "code_links": [],
       "matched_interests": [
         {
-          "name": "Sim2Real与策略学习 (Sim2Real & Policy Learning)",
+          "name": "支柱二：RL算法与架构 (RL & Architecture)",
+          "id": "2_algo_arch",
           "matched_keywords": [
             "dreamer"
           ],
-          "title_matches": [],
-          "abstract_matches": [
-            "dreamer"
-          ],
-          "score": 1.0,
-          "weight": 1.0
+          "score": 1.5
         },
         {
-          "name": "具身智能 (Embodied AI)",
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
           "matched_keywords": [
-            "embodied AI"
+            "affordance prediction"
           ],
-          "title_matches": [],
-          "abstract_matches": [
-            "embodied AI"
+          "score": 2.0
+        }
+      ],
+      "relevance_score": 3.5,
+      "hit_pillars": [
+        "2_algo_arch",
+        "3_perception_slam"
+      ]
+    },
+    {
+      "title": "FacEDiT: Unified Talking Face Editing and Generation via Facial Motion Infilling",
+      "authors": [
+        "Kim Sung-Bin",
+        "Joohyun Chang",
+        "David Harwath",
+        "Tae-Hyun Oh"
+      ],
+      "arxiv_id": "2512.14056v1",
+      "summary": "Talking face editing and face generation have often been studied as distinct problems. In this work, we propose viewing both not as separate tasks but as subtasks of a unifying formulation, speech-conditional facial motion infilling. We explore facial motion infilling as a self-supervised pretext task that also serves as a unifying formulation of dynamic talking face synthesis. To instantiate this idea, we propose FacEDiT, a speech-conditional Diffusion Transformer trained with flow matching. Inspired by masked autoencoders, FacEDiT learns to synthesize masked facial motions conditioned on surrounding motions and speech. This formulation enables both localized generation and edits, such as substitution, insertion, and deletion, while ensuring seamless transitions with unedited regions. In addition, biased attention and temporal smoothness constraints enhance boundary continuity and lip synchronization. To address the lack of a standard editing benchmark, we introduce FacEDiTBench, the first dataset for talking face editing, featuring diverse edit types and lengths, along with new evaluation metrics. Extensive experiments validate that talking face editing and generation emerge as subtasks of speech-conditional motion infilling; FacEDiT produces accurate, speech-aligned facial edits with strong identity preservation and smooth visual continuity while generalizing effectively to talking face generation.",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "Project page: https://facedit.github.io/",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14056v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱二：RL算法与架构 (RL & Architecture)",
+          "id": "2_algo_arch",
+          "matched_keywords": [
+            "flow matching",
+            "masked autoencoder"
           ],
-          "score": 1.0,
-          "weight": 1.0
+          "score": 3.0
+        }
+      ],
+      "relevance_score": 3.0,
+      "hit_pillars": [
+        "2_algo_arch"
+      ]
+    },
+    {
+      "title": "VASA-3D: Lifelike Audio-Driven Gaussian Head Avatars from a Single Image",
+      "authors": [
+        "Sicheng Xu",
+        "Guojun Chen",
+        "Jiaolong Yang",
+        "Yizhong Zhang",
+        "Yu Deng",
+        "Steve Lin",
+        "Baining Guo"
+      ],
+      "arxiv_id": "2512.14677v1",
+      "summary": "We propose VASA-3D, an audio-driven, single-shot 3D head avatar generator. This research tackles two major challenges: capturing the subtle expression details present in real human faces, and reconstructing an intricate 3D head avatar from a single portrait image. To accurately model expression details, VASA-3D leverages the motion latent of VASA-1, a method that yields exceptional realism and vividness in 2D talking heads. A critical element of our work is translating this motion latent to 3D, which is accomplished by devising a 3D head model that is conditioned on the motion latent. Customization of this model to a single image is achieved through an optimization framework that employs numerous video frames of the reference head synthesized from the input image. The optimization takes various training losses robust to artifacts and limited pose coverage in the generated training data. Our experiment shows that VASA-3D produces realistic 3D talking heads that cannot be achieved by prior art, and it supports the online generation of 512x512 free-viewpoint videos at up to 75 FPS, facilitating more immersive engagements with lifelike 3D avatars.",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "NeurIPS 2025 paper. Project webpage: https://www.microsoft.com/en-us/research/project/vasa-3d/",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14677v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱四：生成式动作 (Generative Motion)",
+          "id": "4_motion_diffusion",
+          "matched_keywords": [
+            "motion latent"
+          ],
+          "score": 2.5
+        }
+      ],
+      "relevance_score": 2.5,
+      "hit_pillars": [
+        "4_motion_diffusion"
+      ]
+    },
+    {
+      "title": "EVOLVE-VLA: Test-Time Training from Environment Feedback for Vision-Language-Action Models",
+      "authors": [
+        "Zechen Bai",
+        "Chen Gao",
+        "Mike Zheng Shou"
+      ],
+      "arxiv_id": "2512.14666v1",
+      "summary": "Achieving truly adaptive embodied intelligence requires agents that learn not just by imitating static demonstrations, but by continuously improving through environmental interaction, which is akin to how humans master skills through practice. Vision-Language-Action (VLA) models have advanced robotic manipulation by leveraging large language models, yet remain fundamentally limited by Supervised Finetuning (SFT): requiring hundreds of demonstrations per task, rigidly memorizing trajectories, and failing to adapt when deployment conditions deviate from training. We introduce EVOLVE-VLA, a test-time training framework enabling VLAs to continuously adapt through environment interaction with minimal or zero task-specific demonstrations. The key technical challenge is replacing oracle reward signals (unavailable at test time) with autonomous feedback. We address this through a learned progress estimator providing dense feedback, and critically, we design our framework to ``tame'' this inherently noisy signal via two mechanisms: (1) an accumulative progress estimation mechanism smoothing noisy point-wise estimates, and (2) a progressive horizon extension strategy enabling gradual policy evolution. EVOLVE-VLA achieves substantial gains: +8.6\\% on long-horizon tasks, +22.0\\% in 1-shot learning, and enables cross-task generalization -- achieving 20.8\\% success on unseen tasks without task-specific demonstrations training (vs. 0\\% for pure SFT). Qualitative analysis reveals emergent capabilities absent in demonstrations, including error recovery and novel strategies. This work represents a critical step toward VLAs that truly learn and adapt, moving beyond static imitation toward continuous self-improvements.",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "primary_category": "cs.RO",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "15 pages",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14666v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱一：机器人控制 (Robot Control)",
+          "id": "1_robot_core",
+          "matched_keywords": [
+            "manipulation"
+          ],
+          "score": 2.0
         }
       ],
       "relevance_score": 2.0,
-      "combination_bonus": 0.0
+      "hit_pillars": [
+        "1_robot_core"
+      ]
+    },
+    {
+      "title": "Vector Prism: Animating Vector Graphics by Stratifying Semantic Structure",
+      "authors": [
+        "Jooyeol Yun",
+        "Jaegul Choo"
+      ],
+      "arxiv_id": "2512.14336v1",
+      "summary": "Scalable Vector Graphics (SVG) are central to modern web design, and the demand to animate them continues to grow as web environments become increasingly dynamic. Yet automating the animation of vector graphics remains challenging for vision-language models (VLMs) despite recent progress in code generation and motion planning. VLMs routinely mis-handle SVGs, since visually coherent parts are often fragmented into low-level shapes that offer little guidance of which elements should move together. In this paper, we introduce a framework that recovers the semantic structure required for reliable SVG animation and reveals the missing layer that current VLM systems overlook. This is achieved through a statistical aggregation of multiple weak part predictions, allowing the system to stably infer semantics from noisy predictions. By reorganizing SVGs into semantic groups, our approach enables VLMs to produce animations with far greater coherence. Our experiments demonstrate substantial gains over existing approaches, suggesting that semantic recovery is the key step that unlocks robust SVG animation and supports more interpretable interactions between VLMs and vector graphics.",
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "yeolj00.github.io/personal-projects/vector-prism",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14336v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱一：机器人控制 (Robot Control)",
+          "id": "1_robot_core",
+          "matched_keywords": [
+            "motion planning"
+          ],
+          "score": 2.0
+        }
+      ],
+      "relevance_score": 2.0,
+      "hit_pillars": [
+        "1_robot_core"
+      ]
+    },
+    {
+      "title": "TUN: Detecting Significant Points in Persistence Diagrams with Deep Learning",
+      "authors": [
+        "Yu Chen",
+        "Hongwei Lin"
+      ],
+      "arxiv_id": "2512.14274v1",
+      "summary": "Persistence diagrams (PDs) provide a powerful tool for understanding the topology of the underlying shape of a point cloud. However, identifying which points in PDs encode genuine signals remains challenging. This challenge directly hinders the practical adoption of topological data analysis in many applications, where automated and reliable interpretation of persistence diagrams is essential for downstream decision-making. In this paper, we study automatic significance detection for one-dimensional persistence diagrams. Specifically, we propose Topology Understanding Net (TUN), a multi-modal network that combines enhanced PD descriptors with self-attention, a PointNet-style point cloud encoder, learned fusion, and per-point classification, alongside stable preprocessing and imbalance-aware training. It provides an automated and effective solution for identifying significant points in PDs, which are critical for downstream applications. Experiments show that TUN outperforms classic methods in detecting significant points in PDs, illustrating its effectiveness in real-world applications.",
+      "categories": [
+        "cs.CV",
+        "cs.LG",
+        "math.AT"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14274v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
+          "matched_keywords": [
+            "point cloud"
+          ],
+          "score": 2.0
+        }
+      ],
+      "relevance_score": 2.0,
+      "hit_pillars": [
+        "3_perception_slam"
+      ]
+    },
+    {
+      "title": "Zoom-Zero: Reinforced Coarse-to-Fine Video Understanding via Temporal Zoom-in",
+      "authors": [
+        "Xiaoqian Shen",
+        "Min-Hung Chen",
+        "Yu-Chiang Frank Wang",
+        "Mohamed Elhoseiny",
+        "Ryo Hachiuma"
+      ],
+      "arxiv_id": "2512.14273v1",
+      "summary": "Grounded video question answering (GVQA) aims to localize relevant temporal segments in videos and generate accurate answers to a given question; however, large video-language models (LVLMs) exhibit limited temporal awareness. Although existing approaches based on Group Relative Policy Optimization (GRPO) attempt to improve temporal grounding, they still struggle to faithfully ground their answers in the relevant video evidence, leading to temporal mislocalization and hallucinations. In this work, we present Zoom-Zero, a coarse-to-fine framework that first localizes query-relevant segments and then temporally zooms into the most salient frames for finer-grained visual verification. Our method addresses the limits of GRPO for the GVQA task with two key innovations: (i) a zoom-in accuracy reward that validates the fidelity of temporal grounding prediction and facilitates fine-grained visual verification on grounded frames; (ii) token-selective credit assignment, which attributes rewards to the tokens responsible for temporal localization or answer generation, mitigating GRPO's issue in handling multi-faceted reward signals. Our proposed method advances grounded video question answering, improving temporal grounding by 5.2\\% on NExT-GQA and 4.6\\% on ReXTime, while also enhancing average answer accuracy by 2.4\\%. Additionally, the coarse-to-fine zoom-in during inference further benefits long-form video understanding by preserving critical visual details without compromising global context, yielding an average improvement of 6.4\\% on long-video benchmarks.",
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "Project page: https://xiaoqian-shen.github.io/Zoom-Zero/",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14273v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
+          "matched_keywords": [
+            "localization"
+          ],
+          "score": 2.0
+        }
+      ],
+      "relevance_score": 2.0,
+      "hit_pillars": [
+        "3_perception_slam"
+      ]
+    },
+    {
+      "title": "Elastic3D: Controllable Stereo Video Conversion with Guided Latent Decoding",
+      "authors": [
+        "Nando Metzger",
+        "Prune Truong",
+        "Goutam Bhat",
+        "Konrad Schindler",
+        "Federico Tombari"
+      ],
+      "arxiv_id": "2512.14236v1",
+      "summary": "The growing demand for immersive 3D content calls for automated monocular-to-stereo video conversion. We present Elastic3D, a controllable, direct end-to-end method for upgrading a conventional video to a binocular one. Our approach, based on (conditional) latent diffusion, avoids artifacts due to explicit depth estimation and warping. The key to its high-quality stereo video output is a novel, guided VAE decoder that ensures sharp and epipolar-consistent stereo video output. Moreover, our method gives the user control over the strength of the stereo effect (more precisely, the disparity range) at inference time, via an intuitive, scalar tuning knob. Experiments on three different datasets of real-world stereo videos show that our method outperforms both traditional warping-based and recent warping-free baselines and sets a new standard for reliable, controllable stereo video conversion. Please check the project page for the video samples https://elastic3d.github.io.",
+      "categories": [
+        "cs.CV"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "Project page: elastic3d.github.io",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14236v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱三：空间感知 (Perception & SLAM)",
+          "id": "3_perception_slam",
+          "matched_keywords": [
+            "depth estimation"
+          ],
+          "score": 2.0
+        }
+      ],
+      "relevance_score": 2.0,
+      "hit_pillars": [
+        "3_perception_slam"
+      ]
+    },
+    {
+      "title": "DRAW2ACT: Turning Depth-Encoded Trajectories into Robotic Demonstration Videos",
+      "authors": [
+        "Yang Bai",
+        "Liudi Yang",
+        "George Eskandar",
+        "Fengyi Shen",
+        "Mohammad Altillawi",
+        "Ziyuan Liu",
+        "Gitta Kutyniok"
+      ],
+      "arxiv_id": "2512.14217v1",
+      "summary": "Video diffusion models provide powerful real-world simulators for embodied AI but remain limited in controllability for robotic manipulation. Recent works on trajectory-conditioned video generation address this gap but often rely on 2D trajectories or single modality conditioning, which restricts their ability to produce controllable and consistent robotic demonstrations. We present DRAW2ACT, a depth-aware trajectory-conditioned video generation framework that extracts multiple orthogonal representations from the input trajectory, capturing depth, semantics, shape and motion, and injects them into the diffusion model. Moreover, we propose to jointly generate spatially aligned RGB and depth videos, leveraging cross-modality attention mechanisms and depth supervision to enhance the spatio-temporal consistency. Finally, we introduce a multimodal policy model conditioned on the generated RGB and depth sequences to regress the robot's joint angles. Experiments on Bridge V2, Berkeley Autolab, and simulation benchmarks show that DRAW2ACT achieves superior visual fidelity and consistency while yielding higher manipulation success rates compared to existing baselines.",
+      "categories": [
+        "cs.CV",
+        "cs.RO"
+      ],
+      "primary_category": "cs.CV",
+      "published": "2025-12-16",
+      "updated": "2025-12-16",
+      "comment": "",
+      "doi": "",
+      "journal_ref": "",
+      "pdf_url": "https://arxiv.org/pdf/2512.14217v1",
+      "code_links": [],
+      "matched_interests": [
+        {
+          "name": "支柱一：机器人控制 (Robot Control)",
+          "id": "1_robot_core",
+          "matched_keywords": [
+            "manipulation"
+          ],
+          "score": 2.0
+        }
+      ],
+      "relevance_score": 2.0,
+      "hit_pillars": [
+        "1_robot_core"
+      ]
     }
   ],
   "filtered": true

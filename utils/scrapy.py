@@ -76,48 +76,90 @@ def _check_negative_keywords(title: str, abstract: str, negative_keywords: List[
     return len(matched_negatives) > 0, matched_negatives
 
 
-def _calculate_combination_bonus(title: str, abstract: str, combination_bonuses: List[Dict]) -> float:
+def _match_concept_groups(title: str, abstract: str, concept_groups: List[Dict], 
+                          title_multiplier: float = 3.0, abstract_multiplier: float = 1.0) -> Dict:
     """
-    计算组合加分
-    如果论文同时匹配多个相关条件，给予额外加分
+    匹配概念组，返回命中的组及其得分
     """
-    if not combination_bonuses:
-        return 0.0
+    hit_groups = {}  # group_id -> {name, score, keywords}
     
-    text = f"{title} {abstract}".lower()
-    total_bonus = 0.0
-    
-    for combo in combination_bonuses:
-        conditions = combo.get("conditions", [])
-        bonus = combo.get("bonus", 0.0)
+    for group in concept_groups:
+        group_id = group.get("id", "")
+        group_name = group.get("name", "")
+        keywords = group.get("keywords", [])
+        weight = group.get("weight", 1.0)
         
-        # 检查所有条件组是否都至少匹配一个关键词
-        all_matched = True
-        for condition_group in conditions:
-            group_matched = False
-            for kw in condition_group:
-                if _keyword_match(kw, text):
-                    group_matched = True
-                    break
-            if not group_matched:
-                all_matched = False
-                break
+        group_score = 0.0
+        matched_keywords = []
         
-        if all_matched:
-            total_bonus += bonus
+        for kw in keywords:
+            # 标题匹配：高权重
+            if _keyword_match(kw, title):
+                group_score += title_multiplier * weight
+                matched_keywords.append(f"[T]{kw}")
+            # 摘要匹配：基础权重
+            elif _keyword_match(kw, abstract):
+                group_score += abstract_multiplier * weight
+                matched_keywords.append(kw)
+        
+        if group_score > 0:
+            hit_groups[group_id] = {
+                "name": group_name,
+                "score": group_score,
+                "matched_keywords": matched_keywords
+            }
     
-    return total_bonus
+    return hit_groups
+
+
+def _cross_validate(hit_groups: Dict, rules: List[Dict]) -> Tuple[bool, List[str]]:
+    """
+    交叉验证：检查命中的概念组是否满足至少一条规则
+    返回: (是否通过验证, 满足的规则名称列表)
+    
+    规则类型：
+    1. 交叉规则：required + any_of，需要多个概念组
+    2. 单独规则：required + 空的 any_of，单个概念组即可通过
+    """
+    hit_group_ids = set(hit_groups.keys())
+    satisfied_rules = []
+    
+    for rule in rules:
+        rule_name = rule.get("name", "")
+        required = set(rule.get("required", []))
+        any_of = set(rule.get("any_of", []))
+        
+        # 检查 required 组是否都命中
+        if not required.issubset(hit_group_ids):
+            continue
+        
+        # 如果 any_of 为空，则只需要 required 命中即可（单独规则）
+        if not any_of:
+            satisfied_rules.append(rule_name)
+            continue
+        
+        # 检查 any_of 组是否至少命中一个（交叉规则）
+        if any_of.intersection(hit_group_ids):
+            satisfied_rules.append(rule_name)
+    
+    return len(satisfied_rules) > 0, satisfied_rules
 
 
 def match_interests(paper: Dict, interests_config: Dict) -> Dict:
     """
-    加权打分匹配系统
+    五大支柱匹配系统
     
-    特点：
-    1. 标题匹配权重高于摘要
-    2. 不同兴趣领域有不同权重
-    3. 组合关键词可获得额外加分
-    4. 负面关键词一票否决（除非正面分数很高）
+    核心逻辑：
+    1. 负面关键词一票否决（严格过滤）
+    2. 匹配五大支柱（OR逻辑）：命中任意一个支柱即可
+    3. 计算加权得分
+    
+    五大支柱：
+    - 支柱一：机器人控制（移动、操作、Sim2Real）
+    - 支柱二：前沿算法（RL、世界模型、网络架构）
+    - 支柱三：感知与SLAM（深度估计、里程计、建图）
+    - 支柱四：动作来源（重定向、生成、匹配）
+    - 支柱五：物理动画（Character Control、AMP）
     """
     if not interests_config:
         return {
@@ -125,76 +167,45 @@ def match_interests(paper: Dict, interests_config: Dict) -> Dict:
             "relevance_score": 0.0, 
             "excluded": False, 
             "exclusion_keywords": [],
-            "combination_bonus": 0.0
+            "hit_pillars": []
         }
     
     title = paper.get("title", "").lower()
     abstract = paper.get("summary", "").lower()
     
     # 获取配置参数
-    scoring_config = interests_config.get("scoring", {})
-    title_multiplier = scoring_config.get("title_multiplier", 3.0)
-    abstract_multiplier = scoring_config.get("abstract_multiplier", 1.0)
-    min_threshold = scoring_config.get("min_score_threshold", 2.0)
+    filter_settings = interests_config.get("filter_settings", {})
+    title_multiplier = filter_settings.get("title_multiplier", 3.0)
+    abstract_multiplier = filter_settings.get("abstract_multiplier", 1.0)
     
-    interests = interests_config.get("interests", [])
+    concept_groups = interests_config.get("concept_groups", [])
     negative_keywords = interests_config.get("negative_keywords", [])
-    combination_bonuses = interests_config.get("combination_bonuses", [])
     
-    # 1. 检查负面关键词
+    # 1. 严格的负面关键词过滤
     is_negative, matched_negatives = _check_negative_keywords(title, abstract, negative_keywords)
     
-    # 2. 计算各兴趣领域的加权得分
+    # 2. 匹配五大支柱（OR逻辑）
+    hit_groups = _match_concept_groups(title, abstract, concept_groups, 
+                                       title_multiplier, abstract_multiplier)
+    
+    # 3. 计算总分
+    total_score = sum(g["score"] for g in hit_groups.values())
+    
+    # 4. 构建匹配结果
     matched = []
-    total_score = 0.0
+    for group_id, group_info in hit_groups.items():
+        matched.append({
+            "name": group_info["name"],
+            "id": group_id,
+            "matched_keywords": group_info["matched_keywords"],
+            "score": round(group_info["score"], 2)
+        })
     
-    for interest in interests:
-        if not interest.get("enabled", True):
-            continue
-        
-        name = interest.get("name", "")
-        keywords = interest.get("keywords", [])
-        weight = interest.get("weight", 1.0)
-        
-        category_score = 0.0
-        matched_keywords = []
-        title_matches = []
-        abstract_matches = []
-        
-        for kw in keywords:
-            # 标题匹配：高权重
-            if _keyword_match(kw, title):
-                category_score += title_multiplier * weight
-                title_matches.append(kw)
-                matched_keywords.append(f"[T]{kw}")
-            # 摘要匹配：基础权重
-            elif _keyword_match(kw, abstract):
-                category_score += abstract_multiplier * weight
-                abstract_matches.append(kw)
-                matched_keywords.append(kw)
-        
-        if category_score > 0:
-            matched.append({
-                "name": name,
-                "matched_keywords": matched_keywords,
-                "title_matches": title_matches,
-                "abstract_matches": abstract_matches,
-                "score": round(category_score, 2),
-                "weight": weight
-            })
-            total_score += category_score
-    
-    # 3. 计算组合加分
-    combo_bonus = _calculate_combination_bonus(title, abstract, combination_bonuses)
-    total_score += combo_bonus
-    
-    # 4. 判断是否排除
-    # 负面关键词否决逻辑：
-    # - 如果有正面匹配且分数 >= 3倍阈值（6.0），正面匹配覆盖负面
-    # - 如果没有正面匹配或分数太低，负面关键词生效
+    # 5. 判断是否排除
+    # 负面关键词严格否决，除非分数极高（>=3倍阈值）
     should_exclude = False
     if is_negative:
-        # 只有当正面分数足够高（>= 3倍阈值）时才能覆盖负面关键词
+        min_threshold = filter_settings.get("min_relevance_score", 1.5)
         if total_score < min_threshold * 3:
             should_exclude = True
     
@@ -203,19 +214,25 @@ def match_interests(paper: Dict, interests_config: Dict) -> Dict:
         "relevance_score": round(total_score, 2),
         "excluded": should_exclude,
         "exclusion_keywords": matched_negatives,
-        "combination_bonus": round(combo_bonus, 2)
+        "hit_pillars": list(hit_groups.keys())
     }
 
 
 def filter_by_interests(papers: List[Dict], interests_file: str = "interests.json") -> List[Dict]:
     """
-    根据加权打分系统筛选论文
+    五大支柱筛选系统
     
-    特点：
-    1. 标题匹配权重 3x，摘要匹配权重 1x
-    2. 不同兴趣领域有不同权重（1.0-2.0）
-    3. 组合匹配可获得额外加分
-    4. 负面关键词一票否决（除非正面分数很高）
+    核心逻辑：
+    1. 负面关键词严格过滤（医学/金融/NLP等）
+    2. 五大支柱 OR 逻辑：命中任意一个支柱即保留
+    3. 分数阈值过滤
+    
+    五大支柱：
+    - 支柱一：机器人控制（移动、操作、Sim2Real）
+    - 支柱二：前沿算法（RL、世界模型、网络架构）  
+    - 支柱三：感知与SLAM（深度估计、里程计、建图）
+    - 支柱四：动作来源（重定向、生成、匹配）
+    - 支柱五：物理动画（Character Control、AMP）
     """
     interests_config = load_interests(interests_file)
     
@@ -224,70 +241,75 @@ def filter_by_interests(papers: List[Dict], interests_file: str = "interests.jso
         return papers
     
     # 获取阈值配置
-    scoring_config = interests_config.get("scoring", {})
-    min_threshold = scoring_config.get("min_score_threshold", 2.0)
+    filter_settings = interests_config.get("filter_settings", {})
+    min_threshold = filter_settings.get("min_relevance_score", 1.5)
     
     filtered = []
     excluded_count = 0
     below_threshold_count = 0
+    no_match_count = 0
     
     for paper in papers:
         match_info = match_interests(paper, interests_config)
         paper["matched_interests"] = match_info["matched_interests"]
         paper["relevance_score"] = match_info["relevance_score"]
-        paper["combination_bonus"] = match_info.get("combination_bonus", 0)
+        paper["hit_pillars"] = match_info.get("hit_pillars", [])
         
         # 检查是否被负面关键词排除
         if match_info.get("excluded", False):
             excluded_count += 1
             continue
         
-        # 检查是否达到分数阈值
+        # 检查是否达到分数阈值（任意支柱命中即可）
         if match_info["relevance_score"] >= min_threshold:
             filtered.append(paper)
-        else:
+        elif len(match_info.get("hit_pillars", [])) > 0:
             below_threshold_count += 1
+        else:
+            no_match_count += 1
     
     # 按相关性分数排序
     filtered.sort(key=lambda x: x.get("relevance_score", 0), reverse=True)
     
     # 打印统计信息
-    print(f"\n{'='*50}")
-    print(f"📊 筛选统计")
-    print(f"{'='*50}")
+    print(f"\n{'='*60}")
+    print(f"📊 五大支柱筛选统计 (OR逻辑)")
+    print(f"{'='*60}")
     print(f"   原始论文数: {len(papers)}")
-    print(f"   ✅ 通过筛选: {len(filtered)} 篇 (分数 ≥ {min_threshold})")
-    print(f"   ❌ 负面排除: {excluded_count} 篇")
-    print(f"   ⚪ 未达阈值: {below_threshold_count} 篇")
+    print(f"   ✅ 通过筛选: {len(filtered)} 篇 (命中支柱 + 分数 ≥ {min_threshold})")
+    print(f"   ❌ 负面排除: {excluded_count} 篇 (医学/金融/NLP等)")
+    print(f"   ⚪ 分数不足: {below_threshold_count} 篇")
+    print(f"   ⬜ 无匹配: {no_match_count} 篇")
     
-    # 显示各领域匹配统计
-    interest_counts = {}
-    interest_scores = {}
+    # 显示各支柱命中统计
+    pillar_counts = {}
+    pillar_scores = {}
     for p in filtered:
         for m in p.get("matched_interests", []):
             name = m["name"]
-            interest_counts[name] = interest_counts.get(name, 0) + 1
-            interest_scores[name] = interest_scores.get(name, 0) + m.get("score", 0)
+            pillar_counts[name] = pillar_counts.get(name, 0) + 1
+            pillar_scores[name] = pillar_scores.get(name, 0) + m.get("score", 0)
     
-    if interest_counts:
-        print(f"\n📈 各领域命中统计:")
-        for name, count in sorted(interest_counts.items(), key=lambda x: -x[1]):
-            avg_score = interest_scores[name] / count if count > 0 else 0
+    if pillar_counts:
+        print(f"\n📈 五大支柱命中统计:")
+        for name, count in sorted(pillar_counts.items(), key=lambda x: -x[1]):
+            avg_score = pillar_scores[name] / count if count > 0 else 0
             print(f"   {name}: {count} 篇 (平均分: {avg_score:.1f})")
     
     # 显示 Top 5 高分论文
     if filtered:
         print(f"\n🏆 Top 5 高分论文:")
         for i, p in enumerate(filtered[:5], 1):
-            title = p.get("title", "")[:50]
+            title = p.get("title", "")[:48]
             score = p.get("relevance_score", 0)
-            bonus = p.get("combination_bonus", 0)
-            interests = [m["name"].split("(")[0].strip() for m in p.get("matched_interests", [])[:2]]
-            bonus_str = f" (+{bonus}组合)" if bonus > 0 else ""
-            print(f"   {i}. [{score:.1f}分{bonus_str}] {title}...")
-            print(f"      领域: {', '.join(interests)}")
+            pillars = p.get("hit_pillars", [])
+            pillar_names = [name.split("：")[1].split(" ")[0] if "：" in name else name 
+                          for name in [m["name"] for m in p.get("matched_interests", [])[:2]]]
+            pillar_str = f" [{len(pillars)}个支柱]" if len(pillars) > 1 else ""
+            print(f"   {i}. [{score:.1f}分{pillar_str}] {title}...")
+            print(f"      支柱: {', '.join(pillar_names)}")
     
-    print(f"{'='*50}\n")
+    print(f"{'='*60}\n")
     
     return filtered
 
