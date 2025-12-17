@@ -1,12 +1,19 @@
 # arxiv-daily-scroll
 
-Fetch the latest arXiv papers for selected categories, generate concise Chinese highlights with DeepSeek, and publish a static site to GitHub Pages automatically.
+Fetch the latest arXiv papers for selected categories, generate concise Chinese highlights with OpenAI (or other LLM APIs), and publish a static site to GitHub Pages automatically.
 
 ## What this repo does
-- Pull recent arXiv papers for the tags in `tags.json` (default: `cs.CV`, `cs.RO`).
-- Call DeepSeek to produce a one-line headline, three bullet points, and keywords in Chinese.
-- Save raw metadata + AI summaries under `data/YYYY-MM-DD/`.
-- Build a GitHub Pages-ready site under `docs/` with per-day indexes and per-paper pages.
+- 📥 Pull recent arXiv papers for the tags in `tags.json` (default: `cs.CV`, `cs.RO`, `cs.AI`, `cs.LG`).
+- 🤖 Call OpenAI API to produce Chinese summaries including:
+  - One-line headline
+  - Chinese abstract translation
+  - Method explanation
+  - Application scenarios
+  - Experiment highlights
+  - Keywords
+- 🔗 Auto-extract code links (GitHub, Hugging Face, project pages).
+- 💾 Save raw metadata + AI summaries under `data/YYYY-MM-DD/`.
+- 🌐 Build a GitHub Pages-ready site under `docs/` organized by category and date.
 
 ## Project layout
 - `main.py`: Fetch today’s arXiv window and generate AI summaries.
@@ -17,55 +24,105 @@ Fetch the latest arXiv papers for selected categories, generate concise Chinese 
 - `.github/workflows/daily.yml`: CI that runs daily and pushes updates.
 
 ## Local quickstart
-1) Install deps (Python 3.10+):
-```bash
-pip install -U arxiv openai tqdm requests python-dateutil
-```
-2) Set your LLM API key and (optionally) customize the provider:
-```bash
-# 方式一：使用 DeepSeek（默认）
-export LLM_API_KEY=your_deepseek_key
 
-# 方式二：使用 OpenAI
-export LLM_API_KEY=your_openai_key
+### 1. Install dependencies (Python 3.10+)
+```bash
+pip install -r requirements.txt
+# or manually:
+pip install -U arxiv openai tqdm requests beautifulsoup4
+```
+
+### 2. Set your OpenAI API key
+```bash
+export LLM_API_KEY=sk-your-openai-api-key
 export LLM_BASE_URL=https://api.openai.com/v1
 export LLM_MODEL=gpt-4o-mini
+```
 
-# 方式三：使用其他 OpenAI 兼容 API（智谱、通义、Kimi 等）
-export LLM_API_KEY=your_api_key
-export LLM_BASE_URL=https://open.bigmodel.cn/api/paas/v4  # 智谱示例
+<details>
+<summary>💡 Using other LLM providers (DeepSeek, Zhipu, etc.)</summary>
+
+```bash
+# DeepSeek
+export LLM_API_KEY=your_deepseek_key
+export LLM_BASE_URL=https://api.deepseek.com
+export LLM_MODEL=deepseek-chat
+
+# Zhipu (智谱)
+export LLM_API_KEY=your_zhipu_key
+export LLM_BASE_URL=https://open.bigmodel.cn/api/paas/v4
 export LLM_MODEL=glm-4-flash
 ```
-> 注：为兼容旧配置，`DEEPSEEK_API_KEY` 仍可使用。
+</details>
 
-3) (Optional) adjust categories in `tags.json`.
-4) Fetch & summarize today:
+### 3. (Optional) Adjust categories
+Edit `tags.json` to customize which arXiv categories to track.
+
+### 4. Fetch & summarize today's papers
 ```bash
 python main.py
+
+# With options:
+python main.py --thumbnails          # Fetch paper preview images
+python main.py --concurrency 16      # Higher parallelism for AI analysis
+python main.py --max-results 500     # Limit number of papers
 ```
-5) Build the site to `docs/`:
+
+### 5. Build the site
 ```bash
-python build_page.py --data data --outdir docs --title "arXiv·cs.CV 中文要点汇总（with DeepSeek）"
+python build_page.py
 ```
+
 Open `docs/index.html` locally, or push and enable GitHub Pages (see below).
 
 ## GitHub Actions setup (auto daily build + Pages deploy)
-The workflow `.github/workflows/daily.yml` is already included. To wire it up:
-1) Add repo secrets (Settings → Secrets and variables → Actions → New repository secret):
-   - `LLM_API_KEY` (必需): 你的 API 密钥
-   - `LLM_BASE_URL` (可选): API 端点，默认为 DeepSeek
-   - `LLM_MODEL` (可选): 模型名称，默认为 `deepseek-chat`
-   > 注：为兼容旧配置，`DEEPSEEK_API_KEY` 仍可使用。
-2) Enable Actions on the repo if disabled.
-3) Configure Pages: Settings → Pages → Source = your default branch (e.g., `main`) and folder `docs/`.
-4) (Optional) Edit the cron in `daily.yml` (`30 4 * * *` UTC ≈ 12:30 Beijing) or tweak tags/title/env.
-5) Trigger manually (Actions → "Daily arXiv cs.CV fetch & build" → Run workflow) or wait for the schedule.
 
-What the workflow does:
-- Check out the repo, install Python deps.
-- Run `main.py` to fetch today's arXiv window and call LLM API with the secret key.
-- Run `build_page.py` to regenerate `docs/`.
-- Commit and push changes (new data + site). Pages will serve from `docs/` automatically.
+The workflow `.github/workflows/daily.yml` is already included. To wire it up:
+
+### 1. Add OpenAI API Key
+
+Go to **Settings → Secrets and variables → Actions → New repository secret**:
+
+| Secret Name | Value | Required |
+|-------------|-------|----------|
+| `OPENAI_API_KEY` | Your OpenAI API key (sk-xxx...) | ✅ Yes |
+
+> 💡 默认使用 `gpt-4o-mini` 模型。如需更改，编辑 `.github/workflows/daily.yml` 中的 `LLM_MODEL`。
+
+### 2. Enable GitHub Actions
+
+If Actions are disabled, go to **Settings → Actions → General** and enable them.
+
+### 3. Configure GitHub Pages
+
+Go to **Settings → Pages**:
+- **Source**: Deploy from a branch
+- **Branch**: `main` (or your default branch)
+- **Folder**: `/docs`
+
+Click **Save**.
+
+### 4. (Optional) Customize Schedule
+
+Edit the cron in `daily.yml`:
+```yaml
+schedule:
+  - cron: "30 4 * * *"  # UTC 4:30 = 北京时间 12:30
+```
+
+### 5. Run the Workflow
+
+Two ways to trigger:
+- **Manual**: Actions → "Daily arXiv cs.CV fetch & build" → Run workflow
+- **Automatic**: Wait for the daily schedule
+
+### What the workflow does:
+1. ✅ Check out the repo, install Python deps
+2. ✅ Run `main.py` to fetch today's arXiv papers and call OpenAI API for Chinese summaries
+3. ✅ Run `build_page.py` to regenerate the `docs/` site
+4. ✅ Commit and push changes automatically
+
+Pages will serve from `docs/` and update after each push.
 
 ## Configuration tips
 - Categories: edit `tags.json`.
@@ -74,9 +131,33 @@ What the workflow does:
 - Site title/output dirs: CLI flags in `build_page.py`.
 
 ## Data outputs
-- `data/YYYY-MM-DD/arxiv.json`: raw arXiv metadata (title, authors, arXiv ID, abstract).
-- `data/YYYY-MM-DD/ai_summary.json`: same items plus `headline_zh`, `intro_zh`, `tags_zh`; model errors are recorded for debugging.
-- `docs/`: static site (Jekyll-compatible) with daily index and per-paper pages.
+
+### Raw data (`data/YYYY-MM-DD/arxiv.json`)
+- Title, authors, arXiv ID, abstract
+- Categories, published/updated dates
+- Auto-extracted code links (GitHub, Hugging Face, etc.)
+
+### AI summaries (`data/YYYY-MM-DD/ai_summary.json`)
+- `headline_zh`: One-line Chinese headline
+- `summary_zh`: Chinese abstract translation
+- `intro_zh`: 3 key bullet points
+- `method_zh`: Method/architecture explanation
+- `application_zh`: Application scenarios
+- `highlight_zh`: Experiment highlights
+- `tags_zh`: Chinese keywords
+
+### Generated site (`docs/`)
+Static Jekyll-compatible site organized by:
+```
+docs/
+├── index.md              # Homepage with category cards
+├── cs-CV/                # Category folder
+│   ├── index.md          # Date list for this category
+│   └── 2025-12-15/       # Date folder
+│       ├── index.md      # Paper list table
+│       └── papers/       # Individual paper pages
+└── assets/style.css
+```
 
 ## License
 GPL-3.0. See `LICENSE`.
