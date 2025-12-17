@@ -133,7 +133,9 @@ def render_paper_md(p: Dict[str, Any]) -> str:
     # 方法详解
     if method_zh:
         lines.append("## 🔬 方法详解\n")
-        lines.append(f"{md_escape(method_zh)}\n")
+        # 处理换行符，将 \n\n 转换为实际换行
+        method_formatted = method_zh.replace("\\n\\n", "\n\n").replace("\\n", "\n")
+        lines.append(f"{method_formatted}\n")
     
     # 实验亮点
     if highlight_zh:
