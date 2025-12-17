@@ -1,0 +1,76 @@
+---
+layout: default
+title: BLIP-FusePPO: A Vision-Language Deep Reinforcement Learning Framework for Lane Keeping in Autonomous Vehicles
+---
+
+# BLIP-FusePPO: A Vision-Language Deep Reinforcement Learning Framework for Lane Keeping in Autonomous Vehicles
+
+<div class="paper-toolbar">
+  <div class="toolbar-left">
+    <a href="https://arxiv.org/abs/2510.22370" target="_blank" class="toolbar-btn">arXiv: 2510.22370v1</a>
+    <a href="https://arxiv.org/pdf/2510.22370.pdf" target="_blank" class="toolbar-btn">PDF</a>
+  </div>
+  <div class="toolbar-right">
+    <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.22370v1" 
+            onclick="toggleFavorite(this, '2510.22370v1', 'BLIP-FusePPO: A Vision-Language Deep Reinforcement Learning Framework for Lane Keeping in Autonomous Vehicles')" title="收藏">
+      ☆ 收藏
+    </button>
+    <button class="toolbar-btn share-btn" onclick="copyLink()" title="复制链接">
+      🔗 分享
+    </button>
+  </div>
+</div>
+
+
+**作者**: Seyed Ahmad Hosseini Miangoleh, Amin Jalal Aghdasian, Farzaneh Abdollahi
+
+**分类**: cs.RO, cs.AI, cs.CV, cs.LG, cs.SE
+
+**发布日期**: 2025-10-25
+
+**备注**: https://github.com/Amin-A96/BLIP-FusePPO-A-Vision-Language-Deep-Reinforcement-Learning-Framework-for-Lane-Keeping-in-Autonomous.git
+
+---
+
+## 💡 一句话要点
+
+**提出BLIP-FusePPO框架以解决自动驾驶车辆的车道保持问题**
+
+🎯 **匹配领域**: **支柱二：RL算法与架构 (RL & Architecture)** **支柱三：空间感知与语义 (Perception & Semantics)** **支柱九：具身大模型 (Embodied Foundation Models)**
+
+**关键词**: `自动驾驶` `车道保持` `多模态强化学习` `视觉-语言模型` `语义嵌入` `激光雷达` `PID控制` `混合奖励函数`
+
+## 📋 核心要点
+
+1. 现有方法在自动驾驶车道保持任务中，往往缺乏对环境的全面理解，导致决策不够准确。
+2. BLIP-FusePPO框架通过将语义特征直接嵌入状态表示，结合几何信息和控制反馈，提升了代理的环境感知能力。
+3. 实验结果显示，该方法在车道保持的稳定性和适应性上，优于现有的最佳视觉基础和多模态强化学习基线。
+
+## 📝 摘要（中文）
+
+本文提出了一种新颖的多模态强化学习框架BLIP-FusePPO，旨在实现自动驾驶中的车道保持。该框架将由视觉-语言模型生成的语义嵌入与几何状态、激光雷达观测和基于PID控制的反馈直接融合在一起。通过结合高层场景理解与低层控制信号，代理能够学习到更易理解的驾驶规则。此外，混合奖励函数的设计使得学习过程更加高效和具备更好的泛化能力。实验结果表明，该模型在多种复杂驾驶场景下的车道保持稳定性和适应性优于现有的视觉基础和多模态强化学习基线。代码已公开。
+
+## 🔬 方法详解
+
+**问题定义**：本文旨在解决自动驾驶车辆在复杂环境中车道保持的挑战，现有方法往往仅依赖于视觉信息，缺乏对语义信息的有效利用，导致决策不够灵活和准确。
+
+**核心思路**：BLIP-FusePPO框架的核心思想是将视觉-语言模型生成的语义嵌入与几何状态和控制反馈直接融合，从而增强代理对环境的理解和决策能力。这样的设计使得代理能够在高层次上理解场景，同时在低层次上进行精确控制。
+
+**技术框架**：该框架包括多个主要模块：首先是视觉-语言模型用于生成语义嵌入；其次是几何状态和激光雷达数据的融合；最后是基于PID控制的反馈机制。整个流程通过强化学习算法进行训练，以优化车道保持策略。
+
+**关键创新**：最重要的创新在于直接将语义特征嵌入状态表示，而不是仅仅用作奖励 shaping。这种方法减少了运行时推理的开销，并确保语义指导始终可用。
+
+**关键设计**：在设计中，采用了混合奖励函数，包含语义对齐、车道保持准确性、障碍物避免和速度调节等因素，以提高学习的效率和泛化能力。
+
+## 📊 实验亮点
+
+实验结果表明，BLIP-FusePPO在车道保持任务中表现出更高的稳定性和适应性，相较于最佳的视觉基础和多模态强化学习基线，性能提升幅度显著，具体数据未提供，但整体效果优于现有方法。
+
+## 🎯 应用场景
+
+该研究的潜在应用领域包括自动驾驶汽车、智能交通系统和无人驾驶配送等。通过提升车辆在复杂环境中的车道保持能力，能够显著提高行车安全性和效率，推动自动驾驶技术的实际应用和普及。
+
+## 📄 摘要（原文）
+
+> In this paper, we propose Bootstrapped Language-Image Pretraining-driven Fused State Representation in Proximal Policy Optimization (BLIP-FusePPO), a novel multimodal reinforcement learning (RL) framework for autonomous lane-keeping (LK), in which semantic embeddings generated by a vision-language model (VLM) are directly fused with geometric states, LiDAR observations, and Proportional-Integral-Derivative-based (PID) control feedback within the agent observation space. The proposed method lets the agent learn driving rules that are aware of their surroundings and easy to understand by combining high-level scene understanding from the VLM with low-level control and spatial signals. Our architecture brings together semantic, geometric, and control-aware representations to make policy learning more robust. A hybrid reward function that includes semantic alignment, LK accuracy, obstacle avoidance, and speed regulation helps learning to be more efficient and generalizable. Our method is different from the approaches that only use semantic models to shape rewards. Instead, it directly embeds semantic features into the state representation. This cuts down on expensive runtime inference and makes sure that semantic guidance is always available. The simulation results show that the proposed model is better at LK stability and adaptability than the best vision-based and multimodal RL baselines in a wide range of difficult driving situations. We make our code publicly available.
+

@@ -1,0 +1,76 @@
+---
+layout: default
+title: ImageNet-Think-250K: A Large-Scale Synthetic Dataset for Multimodal Reasoning for Vision Language Models
+---
+
+# ImageNet-Think-250K: A Large-Scale Synthetic Dataset for Multimodal Reasoning for Vision Language Models
+
+<div class="paper-toolbar">
+  <div class="toolbar-left">
+    <a href="https://arxiv.org/abs/2510.01582" target="_blank" class="toolbar-btn">arXiv: 2510.01582v1</a>
+    <a href="https://arxiv.org/pdf/2510.01582.pdf" target="_blank" class="toolbar-btn">PDF</a>
+  </div>
+  <div class="toolbar-right">
+    <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.01582v1" 
+            onclick="toggleFavorite(this, '2510.01582v1', 'ImageNet-Think-250K: A Large-Scale Synthetic Dataset for Multimodal Reasoning for Vision Language Models')" title="收藏">
+      ☆ 收藏
+    </button>
+    <button class="toolbar-btn share-btn" onclick="copyLink()" title="复制链接">
+      🔗 分享
+    </button>
+  </div>
+</div>
+
+
+**作者**: Krishna Teja Chitty-Venkata, Murali Emani
+
+**分类**: cs.CV, cs.LG
+
+**发布日期**: 2025-10-02
+
+**备注**: Preprint
+
+---
+
+## 💡 一句话要点
+
+**提出ImageNet-Think-250K，用于提升视觉语言模型多模态推理能力。**
+
+🎯 **匹配领域**: **支柱九：具身大模型 (Embodied Foundation Models)**
+
+**关键词**: `多模态推理` `视觉语言模型` `合成数据集` `ImageNet` `显式推理`
+
+## 📋 核心要点
+
+1. 现有VLM在复杂推理任务中表现不足，缺乏显式的推理过程。
+2. 构建大规模合成数据集，包含图像、推理步骤和答案，用于训练VLM。
+3. 使用先进VLM生成数据，提供结构化推理链，并公开数据集和评估基准。
+
+## 📝 摘要（中文）
+
+本文提出了ImageNet-Think，一个多模态推理数据集，旨在辅助开发具有显式推理能力的视觉语言模型（VLM）。该数据集基于ImageNet21k数据集中的25万张图像构建，提供了结构化的思考token和相应的答案。该合成数据集由两个先进的VLM生成：GLM-4.1V-9B-Thinking和Kimi-VL-A3B-Thinking-2506。每张图像都配有两对思考-答案序列，为训练和评估多模态推理模型提供了资源。该数据集捕捉了VLM的逐步推理过程和最终的描述性答案。目标是促进更强大的VLM的开发，并促进对多模态推理机制的更广泛理解。数据集和评估基准将公开提供，以帮助推理/思考多模态VLM的研究。
+
+## 🔬 方法详解
+
+**问题定义**：论文旨在解决视觉语言模型（VLM）在多模态推理方面能力不足的问题。现有的VLM通常缺乏显式的推理过程，难以处理需要逐步思考和推理的任务。因此，需要一种方法来增强VLM的推理能力，使其能够像人类一样进行逐步思考并给出合理的答案。
+
+**核心思路**：论文的核心思路是构建一个大规模的合成数据集，其中包含图像、结构化的推理步骤（思考token）以及最终答案。通过在这个数据集上训练VLM，可以使其学习到显式的推理过程，从而提高其多模态推理能力。这种方法类似于人类通过学习和练习来提高解决问题的能力。
+
+**技术框架**：整体框架包括以下几个主要阶段：1) 从ImageNet21k数据集中选择25万张图像；2) 使用两个先进的VLM（GLM-4.1V-9B-Thinking和Kimi-VL-A3B-Thinking-2506）为每张图像生成两对思考-答案序列；3) 将图像、思考token和答案组成数据集ImageNet-Think-250K；4) 使用该数据集训练和评估VLM。
+
+**关键创新**：最重要的技术创新点在于构建了一个大规模的、包含结构化推理步骤的合成数据集。与以往的数据集不同，ImageNet-Think-250K不仅包含图像和答案，还包含了VLM的逐步推理过程，这使得VLM能够学习到显式的推理路径。此外，使用先进的VLM生成数据也保证了数据的质量和多样性。
+
+**关键设计**：论文的关键设计包括：1) 使用ImageNet21k数据集作为图像来源，保证了图像的多样性和规模；2) 使用GLM-4.1V-9B-Thinking和Kimi-VL-A3B-Thinking-2506这两个先进的VLM生成思考-答案序列，保证了数据的质量；3) 为每张图像生成两对思考-答案序列，增加了数据的多样性；4) 公开数据集和评估基准，促进了多模态推理VLM的研究。
+
+## 📊 实验亮点
+
+论文构建了一个包含25万张图像的大规模合成数据集，并使用两个先进的VLM生成思考-答案序列。该数据集为训练和评估多模态推理模型提供了有价值的资源。虽然论文没有提供具体的性能数据，但公开的数据集和评估基准将促进相关研究的进展。
+
+## 🎯 应用场景
+
+该研究成果可应用于智能问答、图像理解、视觉推理等领域。例如，可以用于开发能够理解图像内容并进行复杂推理的智能助手，或者用于提高图像搜索的准确性和相关性。未来，该研究可以推动VLM在医疗诊断、自动驾驶等领域的应用。
+
+## 📄 摘要（原文）
+
+> We develop ImageNet-Think, a multimodal reasoning dataset designed to aid the development of Vision Language Models (VLMs) with explicit reasoning capabilities. Our dataset is built on 250,000 images from ImageNet21k dataset, providing structured thinking tokens and corresponding answers. Our synthetic dataset is generated by two state-of-the-art VLMs: GLM-4.1V-9B-Thinking and Kimi-VL-A3B-Thinking-2506. Each image is accompanied by two pairs of thinking-answer sequences, creating a resource for training and evaluating multimodal reasoning models. We capture the step-by-step reasoning process of VLMs and the final descriptive answers. Our goal with this dataset is to enable the development of more robust VLMs while contributing to the broader understanding of multimodal reasoning mechanisms. The dataset and evaluation benchmarks will be publicly available to aid research in reasoning/thinking multimodal VLMs.
+
