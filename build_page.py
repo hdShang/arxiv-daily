@@ -145,6 +145,23 @@ def render_paper_md(p: Dict[str, Any]) -> str:
         method_formatted = method_zh.replace("\\n\\n", "\n\n").replace("\\n", "\n")
         lines.append(f"{method_formatted}\n")
     
+    # 关键图片（从ar5iv提取）
+    figures = p.get("figures", [])
+    if figures:
+        lines.append("## 🖼️ 关键图片\n")
+        lines.append('<div class="paper-figures">')
+        for fig in figures:
+            fig_url = fig.get("url", "")
+            fig_caption = fig.get("caption", "")
+            fig_id = fig.get("figure_id", "")
+            if fig_url:
+                lines.append(f'<figure class="paper-figure">')
+                lines.append(f'<img src="{fig_url}" alt="{md_escape(fig_caption or fig_id)}" loading="lazy">')
+                if fig_caption:
+                    lines.append(f'<figcaption>{md_escape(fig_caption)}</figcaption>')
+                lines.append(f'</figure>')
+        lines.append('</div>\n')
+    
     # 实验亮点
     if highlight_zh:
         lines.append("## 📊 实验亮点\n")

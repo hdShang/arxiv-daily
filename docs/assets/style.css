@@ -227,6 +227,47 @@ img {
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
+/* 论文关键图片展示 */
+.paper-figures {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 1rem 0;
+}
+
+.paper-figure {
+  margin: 0;
+  padding: 0;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.paper-figure:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+}
+
+.paper-figure img {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  border-radius: 0;
+  box-shadow: none;
+  cursor: zoom-in;
+}
+
+.paper-figure figcaption {
+  padding: 0.75rem 1rem;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  background: var(--bg);
+  border-top: 1px solid var(--border);
+}
+
 /* 论文工具栏 */
 .paper-toolbar {
   display: flex;

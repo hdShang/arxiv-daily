@@ -13,6 +13,7 @@ arXiv 论文日报抓取工具
 
 from utils.scrapy import load_tags, get_today_arxiv, filter_by_interests
 from utils.analyser import update_ai_summary_async
+from utils.image_extractor import batch_extract_images
 
 import argparse
 import asyncio
@@ -38,6 +39,10 @@ def main():
                         help="不使用兴趣筛选，抓取所有论文")
     parser.add_argument("--skip-ai", action="store_true",
                         help="跳过AI分析，仅抓取论文")
+    parser.add_argument("--extract-images", action="store_true",
+                        help="提取论文关键图片（从ar5iv HTML版）")
+    parser.add_argument("--max-images", type=int, default=3,
+                        help="每篇论文最多提取图片数 (默认: 3)")
     args = parser.parse_args()
 
     # 加载分类标签
@@ -96,6 +101,23 @@ def main():
         concurrency=args.concurrency, 
         temperature=args.temperature
     ))
+    
+    # 图片提取（可选）
+    if args.extract_images:
+        print(f"\n🖼️ 正在提取论文图片...")
+        image_results = asyncio.run(batch_extract_images(
+            papers=results,
+            max_images_per_paper=args.max_images,
+            concurrency=5
+        ))
+        # 将图片信息合并到结果中
+        for paper in results:
+            arxiv_id = paper.get("arxiv_id", "")
+            if arxiv_id in image_results:
+                paper["figures"] = image_results[arxiv_id]
+        
+        img_count = sum(len(v) for v in image_results.values())
+        print(f"[OK] 提取图片: {img_count} 张 (来自 {len(image_results)} 篇论文)")
     
     # 保存AI分析结果
     ai_path = f'data/{label_date}/ai_summary.json'
