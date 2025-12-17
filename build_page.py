@@ -154,6 +154,29 @@ def render_paper_md(p: Dict[str, Any]) -> str:
     
     return "\n".join(lines)
 
+def _render_paper_table_html(papers: List[Dict[str, Any]], start_idx: int = 0) -> str:
+    """渲染论文表格（HTML格式，支持收藏按钮）"""
+    rows = []
+    for i, p in enumerate(papers, start_idx + 1):
+        title = p.get("title", "").strip()
+        arxiv_id = p.get("arxiv_id", "")
+        slug = slugify(f"{arxiv_id}-{title}") or f"paper-{i}"
+        headline = p.get("headline_zh", "").replace('"', '&quot;')
+        code_links = p.get("code_links", [])
+        code_icon = "✅" if code_links else ""
+        # 转义标题中的特殊字符
+        title_escaped = title.replace('"', '&quot;').replace("'", "&#39;")
+        title_display = title.replace("<", "&lt;").replace(">", "&gt;")
+        
+        rows.append(f'''<tr>
+  <td>{i}</td>
+  <td><a href="./papers/{slug}.html">{title_display}</a></td>
+  <td>{headline}</td>
+  <td>{code_icon}</td>
+  <td><button class="favorite-btn" data-arxiv-id="{arxiv_id}" onclick="toggleFavorite(this, '{arxiv_id}', '{title_escaped}')" title="添加到收藏夹">☆</button></td>
+</tr>''')
+    return "\n".join(rows)
+
 def build_tag_date_index_md(tag: str, date_label: str, papers: List[Dict[str, Any]], site_title: str) -> str:
     """生成某分类某日期的目录页（按兴趣领域分组）"""
     lines = []
@@ -180,6 +203,15 @@ def build_tag_date_index_md(tag: str, date_label: str, papers: List[Dict[str, An
         else:
             no_interest_papers.append(p)
     
+    # 表格头部 HTML
+    table_header = '''<table>
+<thead>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+</thead>
+<tbody>'''
+    table_footer = '''</tbody>
+</table>'''
+    
     # 如果有兴趣领域分组，显示快速导航
     if interest_groups:
         lines.append("## 🎯 兴趣领域导航\n")
@@ -198,46 +230,26 @@ def build_tag_date_index_md(tag: str, date_label: str, papers: List[Dict[str, An
         global_idx = 0
         for interest_name, group_papers in sorted(interest_groups.items(), key=lambda x: -len(x[1])):
             anchor = slugify(interest_name)
-            code_count = sum(1 for p in group_papers if p.get("code_links"))
             lines.append(f'\n<h2 id="{anchor}">🔬 {interest_name} ({len(group_papers)} 篇)</h2>\n')
             
-            lines.append("| # | 题目 | 一句话要点 | 🔗 |")
-            lines.append("|---:|---|---|:---:|")
-            for p in group_papers:
-                global_idx += 1
-                title = p.get("title", "").strip()
-                slug = slugify(f"{p.get('arxiv_id','')}-{title}") or f"paper-{global_idx}"
-                headline = md_escape(p.get("headline_zh", ""))
-                code_links = p.get("code_links", [])
-                code_icon = "✅" if code_links else ""
-                lines.append(f"| {global_idx} | [{md_escape(title)}](./papers/{slug}.html) | {headline} | {code_icon} |")
+            lines.append(table_header)
+            lines.append(_render_paper_table_html(group_papers, global_idx))
+            lines.append(table_footer)
+            global_idx += len(group_papers)
             lines.append("")
         
         # 其他论文（未匹配兴趣领域）
         if no_interest_papers:
             lines.append('\n<h2 id="other">📄 其他</h2>\n')
-            lines.append("| # | 题目 | 一句话要点 | 🔗 |")
-            lines.append("|---:|---|---|:---:|")
-            for p in no_interest_papers:
-                global_idx += 1
-                title = p.get("title", "").strip()
-                slug = slugify(f"{p.get('arxiv_id','')}-{title}") or f"paper-{global_idx}"
-                headline = md_escape(p.get("headline_zh", ""))
-                code_links = p.get("code_links", [])
-                code_icon = "✅" if code_links else ""
-                lines.append(f"| {global_idx} | [{md_escape(title)}](./papers/{slug}.html) | {headline} | {code_icon} |")
+            lines.append(table_header)
+            lines.append(_render_paper_table_html(no_interest_papers, global_idx))
+            lines.append(table_footer)
             lines.append("")
     else:
-        # 没有兴趣领域信息，使用原有的平铺方式
-        lines.append("| # | 题目 | 一句话要点 | 🔗 |")
-        lines.append("|---:|---|---|:---:|")
-        for i, p in enumerate(papers, 1):
-            title = p.get("title", "").strip()
-            slug = slugify(f"{p.get('arxiv_id','')}-{title}") or f"paper-{i}"
-            headline = md_escape(p.get("headline_zh", ""))
-            code_links = p.get("code_links", [])
-            code_icon = "✅" if code_links else ""
-            lines.append(f"| {i} | [{md_escape(title)}](./papers/{slug}.html) | {headline} | {code_icon} |")
+        # 没有兴趣领域信息，使用平铺方式
+        lines.append(table_header)
+        lines.append(_render_paper_table_html(papers, 0))
+        lines.append(table_footer)
         lines.append("")
     
     lines.append(f"\n[⬅️ 返回 {tag} 首页](../index.html) · [🏠 返回主页](../../index.html)")
