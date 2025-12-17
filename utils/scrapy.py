@@ -26,12 +26,46 @@ def load_interests(interests_file: str) -> Dict:
         return None
 
 
+def _generate_plural_variants(word: str) -> List[str]:
+    """
+    生成单词的单复数变体
+    支持常见的英语单复数变化规则
+    """
+    variants = [word]
+    
+    # 如果已经是复数形式，尝试生成单数
+    if word.endswith('ies') and len(word) > 3:
+        # policies -> policy
+        variants.append(word[:-3] + 'y')
+    elif word.endswith('es') and len(word) > 2:
+        # matches -> match, classes -> class
+        variants.append(word[:-2])
+        variants.append(word[:-1])  # 也尝试只去掉 s
+    elif word.endswith('s') and not word.endswith('ss') and len(word) > 1:
+        # models -> model
+        variants.append(word[:-1])
+    
+    # 如果是单数形式，尝试生成复数
+    if word.endswith('y') and len(word) > 1 and word[-2] not in 'aeiou':
+        # policy -> policies
+        variants.append(word[:-1] + 'ies')
+    elif word.endswith(('s', 'x', 'z', 'ch', 'sh')):
+        # match -> matches
+        variants.append(word + 'es')
+    else:
+        # model -> models
+        variants.append(word + 's')
+    
+    return list(set(variants))
+
+
 def _keyword_match(keyword: str, text: str) -> bool:
     """
     智能关键词匹配：
     - 短关键词（<=4字符）使用词边界匹配，避免误匹配
     - 长关键词使用子串匹配
     - 支持连字符和空格的变体匹配
+    - 支持单复数变体匹配
     """
     kw = keyword.lower()
     
@@ -43,6 +77,22 @@ def _keyword_match(keyword: str, text: str) -> bool:
     if ' ' in kw:
         variants.append(kw.replace(' ', '-'))
         variants.append(kw.replace(' ', ''))
+    
+    # 对多词短语，对最后一个词生成单复数变体
+    expanded_variants = []
+    for variant in variants:
+        expanded_variants.append(variant)
+        words = variant.split()
+        if words:
+            last_word = words[-1]
+            plural_forms = _generate_plural_variants(last_word)
+            for pf in plural_forms:
+                if pf != last_word:
+                    new_variant = ' '.join(words[:-1] + [pf]) if len(words) > 1 else pf
+                    expanded_variants.append(new_variant)
+    
+    # 去重
+    variants = list(set(expanded_variants))
     
     for variant in variants:
         # 短关键词使用词边界匹配（避免 "VO" 匹配 "evolution"）
