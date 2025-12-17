@@ -59,6 +59,11 @@ def _parse_json_safely(text: str) -> Dict[str, Any]:
         else:
             return {"_parse_error": "no json object found", "_raw": text}
 
+def _is_gemini_api() -> bool:
+    """检查是否使用 Gemini API"""
+    base_url = os.getenv("LLM_BASE_URL", "")
+    return "generativelanguage.googleapis.com" in base_url or "gemini" in base_url.lower()
+
 async def _one_call(
     client: AsyncOpenAI,
     meta: Dict[str, Any],
@@ -72,19 +77,29 @@ async def _one_call(
     prompt = get_prompt(USER_TEMPLATE, meta)
     model = model or get_model()
     backoff = 1.5
+    
+    # Gemini API 不支持 response_format 参数
+    use_json_mode = not _is_gemini_api()
+    
     for attempt in range(1, max_retries + 1):
         async with sem:
             try:
-                resp = await client.chat.completions.create(
-                    model=model,
-                    messages=[
+                # 构建请求参数
+                request_params = {
+                    "model": model,
+                    "messages": [
                         {"role": "system", "content": SYSTEM_PROMPT},
                         {"role": "user", "content": prompt},
                     ],
-                    temperature=temperature,
-                    response_format={"type": "json_object"},  # 强制 JSON
-                    timeout=request_timeout,
-                )
+                    "temperature": temperature,
+                    "timeout": request_timeout,
+                }
+                
+                # 仅对支持的 API 添加 response_format
+                if use_json_mode:
+                    request_params["response_format"] = {"type": "json_object"}
+                
+                resp = await client.chat.completions.create(**request_params)
                 text = resp.choices[0].message.content
                 if not isinstance(text, str):
                     text = str(text)

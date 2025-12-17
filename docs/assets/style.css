@@ -136,6 +136,30 @@ code {
   margin: 1rem 0;
 }
 
+/* 兴趣领域导航 */
+.interest-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+.interest-badge {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white !important;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  text-decoration: none !important;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.interest-badge:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+  text-decoration: none !important;
+}
+
 /* 响应式 */
 @media (max-width: 768px) {
   .container { padding: 0 1rem; }

@@ -155,7 +155,7 @@ def render_paper_md(p: Dict[str, Any]) -> str:
     return "\n".join(lines)
 
 def build_tag_date_index_md(tag: str, date_label: str, papers: List[Dict[str, Any]], site_title: str) -> str:
-    """生成某分类某日期的目录页（增强版）"""
+    """生成某分类某日期的目录页（按兴趣领域分组）"""
     lines = []
     lines.append(f"---\nlayout: default\ntitle: {site_title} - {tag} - {date_label}\n---\n")
     lines.append(f"# {tag}（{date_label}）\n")
@@ -167,18 +167,80 @@ def build_tag_date_index_md(tag: str, date_label: str, papers: List[Dict[str, An
         lines.append(f" | 🔗 **{papers_with_code}** 篇有代码")
     lines.append("\n")
     
-    lines.append("| # | 题目 | 一句话要点 | 🔗 |")
-    lines.append("|---:|---|---|:---:|")
-    for i, p in enumerate(papers, 1):
-        title = p.get("title", "").strip()
-        slug = slugify(f"{p.get('arxiv_id','')}-{title}") or f"paper-{i}"
-        headline = md_escape(p.get("headline_zh", ""))
-        # 代码链接标记
-        code_links = p.get("code_links", [])
-        code_icon = "✅" if code_links else ""
-        lines.append(f"| {i} | [{md_escape(title)}](./papers/{slug}.html) | {headline} | {code_icon} |")
-    lines.append("")
-    lines.append(f"[⬅️ 返回 {tag} 首页](../index.html) · [🏠 返回主页](../../index.html)")
+    # 按兴趣领域分组
+    interest_groups = defaultdict(list)
+    no_interest_papers = []
+    
+    for p in papers:
+        matched = p.get("matched_interests", [])
+        if matched:
+            # 使用第一个匹配的兴趣领域作为主分组
+            primary_interest = matched[0].get("name", "其他")
+            interest_groups[primary_interest].append(p)
+        else:
+            no_interest_papers.append(p)
+    
+    # 如果有兴趣领域分组，显示快速导航
+    if interest_groups:
+        lines.append("## 🎯 兴趣领域导航\n")
+        lines.append('<div class="interest-nav">')
+        for interest_name, group_papers in sorted(interest_groups.items(), key=lambda x: -len(x[1])):
+            code_count = sum(1 for p in group_papers if p.get("code_links"))
+            anchor = slugify(interest_name)
+            code_badge = f" 🔗{code_count}" if code_count else ""
+            lines.append(f'<a href="#{anchor}" class="interest-badge">{interest_name} ({len(group_papers)}{code_badge})</a>')
+        if no_interest_papers:
+            lines.append(f'<a href="#other" class="interest-badge">其他 ({len(no_interest_papers)})</a>')
+        lines.append('</div>\n')
+        lines.append("---\n")
+        
+        # 按兴趣领域分组显示论文
+        global_idx = 0
+        for interest_name, group_papers in sorted(interest_groups.items(), key=lambda x: -len(x[1])):
+            anchor = slugify(interest_name)
+            code_count = sum(1 for p in group_papers if p.get("code_links"))
+            lines.append(f'\n<h2 id="{anchor}">🔬 {interest_name} ({len(group_papers)} 篇)</h2>\n')
+            
+            lines.append("| # | 题目 | 一句话要点 | 🔗 |")
+            lines.append("|---:|---|---|:---:|")
+            for p in group_papers:
+                global_idx += 1
+                title = p.get("title", "").strip()
+                slug = slugify(f"{p.get('arxiv_id','')}-{title}") or f"paper-{global_idx}"
+                headline = md_escape(p.get("headline_zh", ""))
+                code_links = p.get("code_links", [])
+                code_icon = "✅" if code_links else ""
+                lines.append(f"| {global_idx} | [{md_escape(title)}](./papers/{slug}.html) | {headline} | {code_icon} |")
+            lines.append("")
+        
+        # 其他论文（未匹配兴趣领域）
+        if no_interest_papers:
+            lines.append('\n<h2 id="other">📄 其他</h2>\n')
+            lines.append("| # | 题目 | 一句话要点 | 🔗 |")
+            lines.append("|---:|---|---|:---:|")
+            for p in no_interest_papers:
+                global_idx += 1
+                title = p.get("title", "").strip()
+                slug = slugify(f"{p.get('arxiv_id','')}-{title}") or f"paper-{global_idx}"
+                headline = md_escape(p.get("headline_zh", ""))
+                code_links = p.get("code_links", [])
+                code_icon = "✅" if code_links else ""
+                lines.append(f"| {global_idx} | [{md_escape(title)}](./papers/{slug}.html) | {headline} | {code_icon} |")
+            lines.append("")
+    else:
+        # 没有兴趣领域信息，使用原有的平铺方式
+        lines.append("| # | 题目 | 一句话要点 | 🔗 |")
+        lines.append("|---:|---|---|:---:|")
+        for i, p in enumerate(papers, 1):
+            title = p.get("title", "").strip()
+            slug = slugify(f"{p.get('arxiv_id','')}-{title}") or f"paper-{i}"
+            headline = md_escape(p.get("headline_zh", ""))
+            code_links = p.get("code_links", [])
+            code_icon = "✅" if code_links else ""
+            lines.append(f"| {i} | [{md_escape(title)}](./papers/{slug}.html) | {headline} | {code_icon} |")
+        lines.append("")
+    
+    lines.append(f"\n[⬅️ 返回 {tag} 首页](../index.html) · [🏠 返回主页](../../index.html)")
     return "\n".join(lines)
 
 def build_tag_index_md(tag: str, dates: List[str], site_title: str) -> str:
@@ -413,6 +475,30 @@ code {
   margin: 1rem 0;
 }
 
+/* 兴趣领域导航 */
+.interest-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+.interest-badge {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white !important;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  text-decoration: none !important;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.interest-badge:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+  text-decoration: none !important;
+}
+
 /* 响应式 */
 @media (max-width: 768px) {
   .container { padding: 0 1rem; }
@@ -449,25 +535,45 @@ def collect_dates(data_root: Path) -> List[Tuple[str, Path]]:
     items = sorted(list({(d, str(p)): (d, Path(p)) for d, p in items}.values()), key=lambda x: x[0])
     return items
 
-def classify_paper(paper: Dict[str, Any], target_tags: List[str]) -> List[str]:
+def classify_paper(paper: Dict[str, Any], target_tags: List[str], primary_only: bool = True) -> List[str]:
     """
     判断论文属于哪些目标分类。
-    返回论文所属的目标分类列表。
+    
+    Args:
+        paper: 论文数据
+        target_tags: 目标分类列表
+        primary_only: 是否只使用主分类（避免重复）
+    
+    Returns:
+        论文所属的目标分类列表
     """
     paper_categories = paper.get("categories", [])
     primary_category = paper.get("primary_category", "")
     
+    # 只使用主分类模式：每篇论文只出现在一个分类下
+    if primary_only:
+        if primary_category in target_tags:
+            return [primary_category]
+        # 主分类不在目标列表中，使用第一个匹配的分类
+        for cat in paper_categories:
+            if cat in target_tags:
+                return [cat]
+        # 模糊匹配
+        for cat in paper_categories:
+            for tag in target_tags:
+                if cat.lower() == tag.lower():
+                    return [tag]
+        return []
+    
+    # 多分类模式：论文可能出现在多个分类下
     matched = []
-    # 优先检查 primary_category
     if primary_category in target_tags:
         matched.append(primary_category)
     
-    # 检查其他 categories
     for cat in paper_categories:
         if cat in target_tags and cat not in matched:
             matched.append(cat)
     
-    # 如果没有匹配，尝试模糊匹配（如 cs.CV 可能在 cs.cv 里）
     if not matched:
         for cat in paper_categories:
             for tag in target_tags:
