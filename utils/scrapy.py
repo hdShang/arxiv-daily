@@ -58,49 +58,95 @@ def _keyword_match(keyword: str, text: str) -> bool:
     return False
 
 
-def _check_exclusions(paper: Dict, exclusions_config: Dict) -> Tuple[bool, List[str]]:
+def _check_negative_keywords(title: str, abstract: str, negative_keywords: List[str]) -> Tuple[bool, List[str]]:
     """
-    检查论文是否应该被排除
-    返回: (是否排除, 匹配到的排除关键词列表)
+    检查论文是否匹配负面关键词（一票否决）
+    返回: (是否排除, 匹配到的负面关键词列表)
     """
-    if not exclusions_config or not exclusions_config.get("enabled", False):
+    if not negative_keywords:
         return False, []
     
-    title = paper.get("title", "").lower()
-    summary = paper.get("summary", "").lower()
-    text = f"{title} {summary}"
+    text = f"{title} {abstract}".lower()
+    matched_negatives = []
     
-    exclusion_keywords = exclusions_config.get("keywords", [])
-    matched_exclusions = []
-    
-    for kw in exclusion_keywords:
+    for kw in negative_keywords:
         if _keyword_match(kw, text):
-            matched_exclusions.append(kw)
+            matched_negatives.append(kw)
     
-    # 如果匹配了太多排除关键词，则排除该论文
-    # 但如果论文同时强匹配兴趣关键词，可以考虑保留（在 match_interests 中处理）
-    should_exclude = len(matched_exclusions) >= 1
+    return len(matched_negatives) > 0, matched_negatives
+
+
+def _calculate_combination_bonus(title: str, abstract: str, combination_bonuses: List[Dict]) -> float:
+    """
+    计算组合加分
+    如果论文同时匹配多个相关条件，给予额外加分
+    """
+    if not combination_bonuses:
+        return 0.0
     
-    return should_exclude, matched_exclusions
+    text = f"{title} {abstract}".lower()
+    total_bonus = 0.0
+    
+    for combo in combination_bonuses:
+        conditions = combo.get("conditions", [])
+        bonus = combo.get("bonus", 0.0)
+        
+        # 检查所有条件组是否都至少匹配一个关键词
+        all_matched = True
+        for condition_group in conditions:
+            group_matched = False
+            for kw in condition_group:
+                if _keyword_match(kw, text):
+                    group_matched = True
+                    break
+            if not group_matched:
+                all_matched = False
+                break
+        
+        if all_matched:
+            total_bonus += bonus
+    
+    return total_bonus
 
 
 def match_interests(paper: Dict, interests_config: Dict) -> Dict:
     """
-    检查论文是否匹配用户感兴趣的领域
-    返回匹配信息：匹配的领域列表和相关性分数
+    加权打分匹配系统
+    
+    特点：
+    1. 标题匹配权重高于摘要
+    2. 不同兴趣领域有不同权重
+    3. 组合关键词可获得额外加分
+    4. 负面关键词一票否决（除非正面分数很高）
     """
     if not interests_config:
-        return {"matched_interests": [], "relevance_score": 0, "excluded": False, "exclusion_keywords": []}
-    
-    interests = interests_config.get("interests", [])
-    filter_mode = interests_config.get("filter_mode", "any")  # "any" 或 "all"
+        return {
+            "matched_interests": [], 
+            "relevance_score": 0.0, 
+            "excluded": False, 
+            "exclusion_keywords": [],
+            "combination_bonus": 0.0
+        }
     
     title = paper.get("title", "").lower()
-    summary = paper.get("summary", "").lower()
-    text = f"{title} {summary}"
+    abstract = paper.get("summary", "").lower()
     
+    # 获取配置参数
+    scoring_config = interests_config.get("scoring", {})
+    title_multiplier = scoring_config.get("title_multiplier", 3.0)
+    abstract_multiplier = scoring_config.get("abstract_multiplier", 1.0)
+    min_threshold = scoring_config.get("min_score_threshold", 2.0)
+    
+    interests = interests_config.get("interests", [])
+    negative_keywords = interests_config.get("negative_keywords", [])
+    combination_bonuses = interests_config.get("combination_bonuses", [])
+    
+    # 1. 检查负面关键词
+    is_negative, matched_negatives = _check_negative_keywords(title, abstract, negative_keywords)
+    
+    # 2. 计算各兴趣领域的加权得分
     matched = []
-    total_score = 0
+    total_score = 0.0
     
     for interest in interests:
         if not interest.get("enabled", True):
@@ -108,84 +154,140 @@ def match_interests(paper: Dict, interests_config: Dict) -> Dict:
         
         name = interest.get("name", "")
         keywords = interest.get("keywords", [])
+        weight = interest.get("weight", 1.0)
         
-        # 检查是否匹配任一关键词
-        match_count = 0
+        category_score = 0.0
         matched_keywords = []
+        title_matches = []
+        abstract_matches = []
+        
         for kw in keywords:
-            if _keyword_match(kw, text):
-                match_count += 1
+            # 标题匹配：高权重
+            if _keyword_match(kw, title):
+                category_score += title_multiplier * weight
+                title_matches.append(kw)
+                matched_keywords.append(f"[T]{kw}")
+            # 摘要匹配：基础权重
+            elif _keyword_match(kw, abstract):
+                category_score += abstract_multiplier * weight
+                abstract_matches.append(kw)
                 matched_keywords.append(kw)
         
-        if match_count > 0:
+        if category_score > 0:
             matched.append({
                 "name": name,
                 "matched_keywords": matched_keywords,
-                "score": match_count
+                "title_matches": title_matches,
+                "abstract_matches": abstract_matches,
+                "score": round(category_score, 2),
+                "weight": weight
             })
-            total_score += match_count
+            total_score += category_score
     
-    # 检查排除关键词
-    exclusions_config = interests_config.get("exclusions", {})
-    should_exclude, exclusion_keywords = _check_exclusions(paper, exclusions_config)
+    # 3. 计算组合加分
+    combo_bonus = _calculate_combination_bonus(title, abstract, combination_bonuses)
+    total_score += combo_bonus
     
-    # 如果论文强匹配兴趣（分数 >= 2），则不排除
-    if should_exclude and total_score >= 2:
-        should_exclude = False
+    # 4. 判断是否排除
+    # 负面关键词否决逻辑：
+    # - 如果有正面匹配且分数 >= 3倍阈值（6.0），正面匹配覆盖负面
+    # - 如果没有正面匹配或分数太低，负面关键词生效
+    should_exclude = False
+    if is_negative:
+        # 只有当正面分数足够高（>= 3倍阈值）时才能覆盖负面关键词
+        if total_score < min_threshold * 3:
+            should_exclude = True
     
     return {
         "matched_interests": matched,
-        "relevance_score": total_score,
+        "relevance_score": round(total_score, 2),
         "excluded": should_exclude,
-        "exclusion_keywords": exclusion_keywords
+        "exclusion_keywords": matched_negatives,
+        "combination_bonus": round(combo_bonus, 2)
     }
 
 
 def filter_by_interests(papers: List[Dict], interests_file: str = "interests.json") -> List[Dict]:
-    """根据用户兴趣筛选论文"""
+    """
+    根据加权打分系统筛选论文
+    
+    特点：
+    1. 标题匹配权重 3x，摘要匹配权重 1x
+    2. 不同兴趣领域有不同权重（1.0-2.0）
+    3. 组合匹配可获得额外加分
+    4. 负面关键词一票否决（除非正面分数很高）
+    """
     interests_config = load_interests(interests_file)
     
     if not interests_config:
         print("[INFO] 未找到 interests.json，跳过兴趣筛选")
         return papers
     
-    min_score = interests_config.get("min_relevance_score", 1)
-    exclusions_enabled = interests_config.get("exclusions", {}).get("enabled", False)
+    # 获取阈值配置
+    scoring_config = interests_config.get("scoring", {})
+    min_threshold = scoring_config.get("min_score_threshold", 2.0)
     
     filtered = []
     excluded_count = 0
+    below_threshold_count = 0
     
     for paper in papers:
         match_info = match_interests(paper, interests_config)
         paper["matched_interests"] = match_info["matched_interests"]
         paper["relevance_score"] = match_info["relevance_score"]
+        paper["combination_bonus"] = match_info.get("combination_bonus", 0)
         
-        # 检查是否被排除
+        # 检查是否被负面关键词排除
         if match_info.get("excluded", False):
             excluded_count += 1
             continue
         
-        if match_info["relevance_score"] >= min_score:
+        # 检查是否达到分数阈值
+        if match_info["relevance_score"] >= min_threshold:
             filtered.append(paper)
+        else:
+            below_threshold_count += 1
     
     # 按相关性分数排序
     filtered.sort(key=lambda x: x.get("relevance_score", 0), reverse=True)
     
-    print(f"[INFO] 兴趣筛选: {len(papers)} → {len(filtered)} 篇论文")
-    if exclusions_enabled and excluded_count > 0:
-        print(f"[INFO] 排除关键词过滤: 排除了 {excluded_count} 篇不相关论文")
+    # 打印统计信息
+    print(f"\n{'='*50}")
+    print(f"📊 筛选统计")
+    print(f"{'='*50}")
+    print(f"   原始论文数: {len(papers)}")
+    print(f"   ✅ 通过筛选: {len(filtered)} 篇 (分数 ≥ {min_threshold})")
+    print(f"   ❌ 负面排除: {excluded_count} 篇")
+    print(f"   ⚪ 未达阈值: {below_threshold_count} 篇")
     
-    # 显示匹配统计
+    # 显示各领域匹配统计
     interest_counts = {}
+    interest_scores = {}
     for p in filtered:
         for m in p.get("matched_interests", []):
             name = m["name"]
             interest_counts[name] = interest_counts.get(name, 0) + 1
+            interest_scores[name] = interest_scores.get(name, 0) + m.get("score", 0)
     
     if interest_counts:
-        print("[INFO] 各领域匹配数量:")
+        print(f"\n📈 各领域命中统计:")
         for name, count in sorted(interest_counts.items(), key=lambda x: -x[1]):
-            print(f"       {name}: {count} 篇")
+            avg_score = interest_scores[name] / count if count > 0 else 0
+            print(f"   {name}: {count} 篇 (平均分: {avg_score:.1f})")
+    
+    # 显示 Top 5 高分论文
+    if filtered:
+        print(f"\n🏆 Top 5 高分论文:")
+        for i, p in enumerate(filtered[:5], 1):
+            title = p.get("title", "")[:50]
+            score = p.get("relevance_score", 0)
+            bonus = p.get("combination_bonus", 0)
+            interests = [m["name"].split("(")[0].strip() for m in p.get("matched_interests", [])[:2]]
+            bonus_str = f" (+{bonus}组合)" if bonus > 0 else ""
+            print(f"   {i}. [{score:.1f}分{bonus_str}] {title}...")
+            print(f"      领域: {', '.join(interests)}")
+    
+    print(f"{'='*50}\n")
     
     return filtered
 

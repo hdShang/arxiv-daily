@@ -20,12 +20,6 @@ title: arXiv 中文要点汇总（with DeepSeek）
   <p>最新日期：2025-12-16</p>
   <a class="btn" href="cs-CV/2025-12-16/index.html">查看最新</a>
 </div>
-
-<div class="tag-card">
-  <h3><a href="cs-GR/index.html">cs.GR</a></h3>
-  <p>最新日期：2025-12-16</p>
-  <a class="btn" href="cs-GR/2025-12-16/index.html">查看最新</a>
-</div>
 </div>
 
 ---
@@ -34,4 +28,3 @@ title: arXiv 中文要点汇总（with DeepSeek）
 
 - **[cs.RO](cs-RO/index.html)**：最新 2025-12-16
 - **[cs.CV](cs-CV/index.html)**：最新 2025-12-16
-- **[cs.GR](cs-GR/index.html)**：最新 2025-12-16
