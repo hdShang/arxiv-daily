@@ -193,10 +193,25 @@ def _render_paper_table_html(papers: List[Dict[str, Any]], start_idx: int = 0) -
         title_escaped = title.replace('"', '&quot;').replace("'", "&#39;")
         title_display = title.replace("<", "&lt;").replace(">", "&gt;")
         
+        # 提取匹配的关键词标签（最多3个）
+        tags = []
+        for m in p.get("matched_interests", []):
+            for kw in m.get("matched_keywords", []):
+                # 去除 [T] 前缀（标题匹配标记）
+                clean_kw = kw.replace("[T]", "").strip()
+                if clean_kw and clean_kw not in tags:
+                    tags.append(clean_kw)
+                if len(tags) >= 3:
+                    break
+            if len(tags) >= 3:
+                break
+        tags_html = " ".join([f'<span class="paper-tag">{t}</span>' for t in tags])
+        
         rows.append(f'''<tr>
   <td>{i}</td>
   <td><a href="./papers/{slug}.html">{title_display}</a></td>
   <td>{headline}</td>
+  <td class="tags-cell">{tags_html}</td>
   <td>{code_icon}</td>
   <td><button class="favorite-btn" data-arxiv-id="{arxiv_id}" onclick="toggleFavorite(this, '{arxiv_id}', '{title_escaped}')" title="添加到收藏夹">☆</button></td>
 </tr>''')
@@ -231,7 +246,7 @@ def build_tag_date_index_md(tag: str, date_label: str, papers: List[Dict[str, An
     # 表格头部 HTML
     table_header = '''<table>
 <thead>
-<tr><th>#</th><th>题目</th><th>一句话要点</th><th>🔗</th><th>⭐</th></tr>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
 </thead>
 <tbody>'''
     table_footer = '''</tbody>
