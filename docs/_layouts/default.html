@@ -13,5 +13,24 @@
 <footer class="footer">
   <p>Powered by GitHub Pages · Generated on {{ site.time | date: "%Y-%m-%d" }}</p>
 </footer>
+
+<script>
+// 让外部链接在新标签页打开
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('a[href]').forEach(function(link) {
+    const href = link.getAttribute('href');
+    // 外部链接（arxiv、github、pdf等）在新标签页打开
+    if (href && (
+      href.startsWith('http') || 
+      href.includes('arxiv.org') || 
+      href.includes('github.com') ||
+      href.endsWith('.pdf')
+    )) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+});
+</script>
 </body>
 </html>
