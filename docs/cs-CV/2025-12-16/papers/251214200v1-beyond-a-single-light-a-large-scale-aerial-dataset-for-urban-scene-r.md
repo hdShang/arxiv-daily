@@ -51,6 +51,20 @@ title: Beyond a Single Light: A Large-Scale Aerial Dataset for Urban Scene Recon
 
 **关键设计**：在数据采集方面，论文选择了10个不同的城市区域，以保证数据集的多样性。在每个区域，论文在一天中的三个不同时间段进行拍摄，以系统地捕捉光照变化。无人机采用四个倾斜视图和一个垂直视图的拍摄方式，以获取更全面的场景信息。在评估指标方面，论文引入了时间一致性系数（TCC），该指标通过计算不同时间段albedo的一致性来评估逆渲染结果的质量。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14200v1/images/pipeline.jpg" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14200v1/images/post1.jpg" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14200v1/images/lidarmesh.jpg" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 SkyLume数据集包含超过10万张高分辨率无人机图像，覆盖10个城市区域，并在三个不同时间段捕捉数据，系统性地隔离了光照变化。论文提出的时间一致性系数（TCC）为逆渲染任务提供了一种新的评估指标，能够有效衡量跨时间的albedo稳定性，为后续研究提供了可靠的评估工具。

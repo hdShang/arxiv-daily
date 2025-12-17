@@ -53,6 +53,20 @@ title: WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interact
 
 **关键设计**：在重构上下文记忆模块中，论文采用了一种动态重建上下文的方法，即根据当前帧的几何信息，选择性地从过去的帧中提取上下文信息。在上下文强制蒸馏模块中，论文设计了一种新的损失函数，该损失函数不仅考虑了输出结果的相似性，还考虑了教师和学生模型之间的记忆状态的相似性。具体来说，该损失函数包括两部分：一部分是传统的L1或L2损失，用于衡量输出结果的相似性；另一部分是KL散度损失，用于衡量教师和学生模型之间的记忆状态的相似性。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14614v1/x2.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14614v1/x3.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14614v1/x4.png" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 WorldPlay在多个场景下进行了实验，结果表明其能够以24FPS生成720p视频，并在长期几何一致性和泛化性方面优于现有技术。与现有方法相比，WorldPlay能够生成更稳定、更逼真的虚拟环境，并能够更好地响应用户的交互。

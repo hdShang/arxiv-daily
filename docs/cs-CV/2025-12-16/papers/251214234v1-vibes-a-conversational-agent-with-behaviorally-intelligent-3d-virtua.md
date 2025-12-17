@@ -53,6 +53,20 @@ title: ViBES: A Conversational Agent with Behaviorally-Intelligent 3D Virtual Bo
 
 **关键设计**：ViBES的关键设计包括：1) 使用模态划分的Transformer专家网络，针对不同模态进行专门优化；2) 采用跨专家注意力机制，实现模态间的信息共享和融合；3) 利用预训练的语音语言模型，提高模型的语言理解能力；4) 提供可控的行为钩子，允许用户对虚拟化身的行为进行实时控制。具体的参数设置、损失函数和网络结构等细节将在论文中详细描述（未知）。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14234v1/x1.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14234v1/x2.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14234v1/x3.png" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 ViBES在多轮对话的基准测试中表现出色，通过自动指标评估对话-动作对齐和行为质量，结果表明ViBES显著优于现有的协同语音和文本到动作的基线模型。具体的性能提升数据将在论文中详细给出（未知）。

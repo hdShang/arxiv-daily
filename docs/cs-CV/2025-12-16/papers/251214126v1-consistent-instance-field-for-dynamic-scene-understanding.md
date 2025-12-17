@@ -51,6 +51,20 @@ title: Consistent Instance Field for Dynamic Scene Understanding
 
 **关键设计**：论文使用可变形3D高斯来表示实例，每个高斯包含位置、尺度、旋转、颜色和语义嵌入等参数。使用可微光栅化进行渲染，损失函数包括RGB损失、实例分割损失和正则化损失。身份校准机制通过计算高斯之间的相似度来更新高斯的身份。高斯重采样机制根据语义活跃度对高斯进行重采样。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14126v1/x1.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14126v1/x8.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14126v1/x9.png" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 实验结果表明，该方法在HyperNeRF和Neu3D数据集上，显著优于现有的state-of-the-art方法。在novel-view全景分割任务上，该方法取得了显著的性能提升。在开放词汇4D查询任务上，该方法也表现出强大的能力，能够准确地查询场景中特定实例在特定时间的位置和状态。

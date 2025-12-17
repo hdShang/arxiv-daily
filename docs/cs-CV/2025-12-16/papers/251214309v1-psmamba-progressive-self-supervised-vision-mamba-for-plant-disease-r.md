@@ -51,6 +51,20 @@ title: PSMamba: Progressive Self-supervised Vision Mamba for Plant Disease Recog
 
 **关键设计**：PSMamba的关键设计包括：1) 双学生网络的结构和训练方式；2) 一致性损失函数的选择和权重设置，用于约束不同尺度特征表示的一致性；3) Vision Mamba的配置，例如状态空间模型的维度和层数等。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14309v1/Figures/global.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14309v1/Figures/psmamba.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14309v1/Figures/visual/gradcam/pd_o_2.png" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 PSMamba在三个基准植物病害数据集上进行了评估，结果表明其性能优于现有的自监督学习方法。在领域偏移场景和细粒度识别场景中，PSMamba均表现出更强的鲁棒性和准确性。具体性能数据在论文中详细展示，相较于SOTA方法有显著提升。

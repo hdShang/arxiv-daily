@@ -51,6 +51,20 @@ title: Spherical Voronoi: Directional Appearance as a Differentiable Partition o
 
 **关键设计**：SV图的顶点位置是可学习的参数，通过优化这些顶点的位置来调整Voronoi区域的形状和大小。损失函数包括渲染损失和正则化项，用于保证SV图的平滑性和稳定性。对于反射建模，使用一个小型神经网络将反射方向映射到反射探针的颜色值。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14180v1/figures/gibbs.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14180v1/figures/spatially_varying_light.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14180v1/figures/fitting2d.png" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 该方法在合成和真实数据集上均取得了state-of-the-art的结果。在反射建模方面，显著优于基于球面谐波的方法。实验结果表明，该方法能够有效地捕捉高频信号和镜面反射，生成更逼真的图像。具体性能数据在论文中有详细展示，相较于现有方法在PSNR、SSIM等指标上均有显著提升。

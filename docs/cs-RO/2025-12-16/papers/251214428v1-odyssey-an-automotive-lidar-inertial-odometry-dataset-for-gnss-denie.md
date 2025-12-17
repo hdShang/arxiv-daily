@@ -53,6 +53,20 @@ title: Odyssey: An Automotive Lidar-Inertial Odometry Dataset for GNSS-denied si
 
 **关键设计**：Odyssey数据集的关键设计包括：1) 使用导航级RLG-INS以确保高精度地面真值；2) 在各种具有挑战性的环境中采集数据，包括GNSS拒止环境和代表性不足的场景；3) 提供三重重复轨迹以支持地点识别等任务；4) 提供精确的地理坐标以方便与外部地图数据整合；5) 提供数据加载器和其他相关材料，方便用户使用。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14428v1/figures/titleimage_lowres.jpg" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14428v1/figures/trajectory_parkhaus_lowres.jpg" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14428v1/figures/trajectory_marktplatz_lowres.jpg" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 Odyssey数据集的关键亮点在于其高精度的地面真值，由导航级RLG-INS提供，显著优于传统MEMS/FOG IMU。该数据集在GNSS拒止环境中表现出色，为LIO/SLAM算法的长期性能评估提供了可能。此外，三重重复轨迹和精确地理坐标的提供，也为地点识别和地图融合等任务提供了便利。

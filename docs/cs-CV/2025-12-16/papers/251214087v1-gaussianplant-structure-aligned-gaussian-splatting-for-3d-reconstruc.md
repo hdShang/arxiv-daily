@@ -53,6 +53,20 @@ title: GaussianPlant: Structure-aligned Gaussian Splatting for 3D Reconstruction
 
 **关键设计**：在参数设置上，StPs的属性（如枝干或叶片）通过自组织方式进行优化。损失函数包括重渲染损失，确保重建结果与输入的多视角图像一致。此外，利用绑定对应信息实现ApP到StP的梯度流，进一步增强了结构与外观的关联性。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14087v1/x1.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14087v1/x2.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14087v1/x3.png" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 实验结果表明，GaussianPlant在外观重建方面达到了高保真度，结构重建的准确性也显著提升。与传统方法相比，GaussianPlant在提取植物枝干结构和叶片实例方面表现出更高的准确性和细节保留，具体性能数据尚未披露。

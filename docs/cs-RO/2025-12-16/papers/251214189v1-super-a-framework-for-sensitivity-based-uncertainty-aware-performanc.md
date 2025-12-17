@@ -51,6 +51,20 @@ title: SUPER -- A Framework for Sensitivity-based Uncertainty-aware Performance 
 
 **关键设计**：SUPER框架的关键设计包括：1) 舒尔补块的选取：选择合适的舒尔补块对于准确捕捉敏感度至关重要。2) 风险指标的定义：风险指标需要综合考虑残差大小、几何条件和时间趋势等因素。3) 决策阈值的设定：需要根据实际应用场景，合理设定停止或重定位策略的触发阈值。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14189v1/img/Fig1_finalv2.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14189v1/img/Fig2_v2.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14189v1/img/Fig3_v2.png" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 SUPER框架在实验中表现出色，能够提前50帧预测轨迹退化，相比基线方法提升了20%。此外，SUPER能够以89.1%的召回率启动停止或重定位策略，有效避免了定位失败。该框架的计算成本极低，仅增加了不到0.2%的CPU开销，使其能够在实时系统中应用。实验还表明，SUPER提供了一致的不确定性估计，并且适用于长时程建图。

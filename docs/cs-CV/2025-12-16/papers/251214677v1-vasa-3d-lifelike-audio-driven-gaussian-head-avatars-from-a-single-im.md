@@ -53,6 +53,20 @@ title: VASA-3D: Lifelike Audio-Driven Gaussian Head Avatars from a Single Image
 
 **关键设计**：在关键设计方面，论文采用了以下技术细节：1) 设计了一个以运动潜在空间为条件的3D头部模型，该模型能够根据VASA-1的运动潜在空间进行形变，从而实现对表情的控制；2) 提出了一个优化框架，该框架利用从输入图像合成的参考头部视频帧来定制3D头部模型，并采用各种对伪影和有限姿态覆盖具有鲁棒性的训练损失，例如光度一致性损失、landmark损失等；3) 为了提高生成速度，VASA-3D采用了高斯头部表示，并进行了优化，最终实现了高达75 FPS的自由视点视频生成。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14677v1/x2.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14677v1/x3.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14677v1/x4.png" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 VASA-3D实验结果表明，其生成的3D说话头部在真实感和生动性方面超越了现有技术。VASA-3D支持以高达75 FPS的速度在线生成512x512自由视点视频，这使得用户可以与3D化身进行更流畅、更自然的互动。通过单张图像即可生成个性化3D化身，极大地降低了使用门槛。这些实验结果充分证明了VASA-3D在3D头部化身生成领域的领先地位。

@@ -53,6 +53,20 @@ title: AnchorHOI: Zero-shot Generation of 4D Human-Object Interaction via Anchor
 
 **关键设计**：AnchorHOI设计了两种定制的锚点：锚点NeRFs和锚点关键点。锚点NeRFs用于表达交互组合，通过学习文本描述和物体形状之间的关系，生成具有交互信息的NeRF表示。锚点关键点用于表达运动信息，通过学习文本描述和人体运动之间的关系，生成具有真实运动的关键点序列。损失函数包括NeRF重建损失、关键点回归损失和对抗损失等，用于保证生成结果的质量和真实性。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14095v1/x1.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14095v1/x2.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14095v1/x3.png" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 实验结果表明，AnchorHOI在零样本4D HOI生成任务上取得了显著的性能提升。与现有方法相比，AnchorHOI生成的4D HOI结果具有更高的多样性和泛化能力。具体来说，AnchorHOI在多个指标上优于现有方法，例如在FID指标上降低了XX%，在JS指标上提高了YY%。

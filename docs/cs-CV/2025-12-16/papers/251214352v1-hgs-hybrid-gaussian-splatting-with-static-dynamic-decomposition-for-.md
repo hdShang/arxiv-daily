@@ -53,6 +53,20 @@ title: HGS: Hybrid Gaussian Splatting with Static-Dynamic Decomposition for Comp
 
 **关键设计**：关键设计包括：1) 使用径向基函数（RBF）建模高斯基元，方便进行静态-动态分解。2) 设计了两阶段训练策略，第一阶段初始化高斯参数，第二阶段优化RBF参数并增强时间一致性。3) 在损失函数中，考虑了渲染质量和时间一致性，以保证合成视频的视觉效果和流畅度。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14352v1/x2.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14352v1/x3.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14352v1/x5.png" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 HGS方法在多个动态场景数据集上进行了评估，实验结果表明，HGS可以将模型大小减少高达98%，并在单个RTX 3090 GPU上以4K分辨率实现高达125 FPS的实时渲染。此外，HGS在RTX 3050上也能达到160 FPS。在视觉质量方面，HGS与最先进的方法相比具有可比性，并且在高频细节和突发场景变化方面表现更佳。

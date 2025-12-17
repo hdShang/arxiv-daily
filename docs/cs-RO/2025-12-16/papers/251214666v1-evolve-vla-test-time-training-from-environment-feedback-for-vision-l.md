@@ -53,6 +53,20 @@ title: EVOLVE-VLA: Test-Time Training from Environment Feedback for Vision-Langu
 
 **关键设计**：进度估计器通常采用神经网络结构，输入为当前状态的视觉信息和任务描述，输出为任务完成的进度估计值。累积进度估计机制可以通过滑动平均或指数加权平均等方法实现，用于平滑噪声。渐进式horizon扩展策略可以采用线性或指数方式增加训练时考虑的时间步长。策略优化器可以使用常见的强化学习算法，如PPO或SAC，根据累积的进度估计信号更新VLA模型的参数。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14666v1/x1.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14666v1/x2.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14666v1/x3.png" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 实验结果表明，EVOLVE-VLA在长时程任务上取得了8.6%的性能提升，在单样本学习上取得了22.0%的性能提升。更重要的是，EVOLVE-VLA实现了跨任务泛化，在未见任务上无需特定任务演示训练即可达到20.8%的成功率，而纯SFT方法在该场景下的成功率为0%。这些结果表明，EVOLVE-VLA能够有效地提高VLA模型的适应性和泛化能力。

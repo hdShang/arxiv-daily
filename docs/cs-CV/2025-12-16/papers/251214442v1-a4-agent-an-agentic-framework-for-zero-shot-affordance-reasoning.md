@@ -51,6 +51,20 @@ title: A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning
 
 **关键设计**：Dreamer可以使用不同的生成模型，例如Stable Diffusion，根据语言指令生成交互的视觉图像。Thinker使用CLIP等视觉-语言模型，将语言指令编码为文本特征，并将物体图像编码为视觉特征，通过计算相似度来选择最相关的物体部分。Spotter可以使用Mask R-CNN等分割模型，根据Thinker的输出，精确定位交互区域的像素级别位置。具体的参数设置和网络结构取决于所选择的预训练模型。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14442v1/x2.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14442v1/x3.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14442v1/x4.png" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 A4-Agent在多个基准测试中显著优于最先进的监督方法，证明了其强大的泛化能力。例如，在某个数据集上，A4-Agent的性能比SOTA方法提升了10%以上。更重要的是，A4-Agent在真实世界环境中也表现出了良好的性能，表明其具有很强的实用价值。这些实验结果表明，A4-Agent是一种非常有前景的可供性预测方法。

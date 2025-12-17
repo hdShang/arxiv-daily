@@ -55,6 +55,20 @@ title: DASP: Self-supervised Nighttime Monocular Depth Estimation with Domain Ad
 
 **关键设计**：STLM使用正交差分提取时间轴上的运动相关变化；ASLM采用局部非对称卷积和全局轴向注意力机制，捕获多尺度结构信息。对抗损失用于促使生成器生成的深度图具有与白天场景相似的时空特征。3D一致性投影损失通过双边投影目标帧和源帧到3D空间，并计算3D差异来优化结构一致性。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14536v1/fig9-mask.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14536v1/fig3-tmp4.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14536v1/fig2.png" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 在Oxford RobotCar和nuScenes数据集上的实验结果表明，DASP方法在夜间深度估计任务上取得了state-of-the-art的性能。相较于现有方法，DASP能够更准确地估计夜间场景的深度信息，尤其是在处理无纹理区域和动态模糊区域时表现更佳。消融实验验证了SPLB、STLM、ASLM以及3D一致性投影损失等各个模块的有效性。

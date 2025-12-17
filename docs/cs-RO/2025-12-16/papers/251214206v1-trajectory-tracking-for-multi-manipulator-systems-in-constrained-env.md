@@ -59,6 +59,20 @@ title: Trajectory Tracking for Multi-Manipulator Systems in Constrained Environm
 3. 使用连续时间反馈控制算法，补偿模型误差和外部扰动。
 4. 采用多速率控制策略，平衡计算复杂度和控制性能。具体的参数设置和算法细节在论文中进行了详细描述。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14206v1/x1.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14206v1/x2.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14206v1/x3.png" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 论文通过高保真物理仿真验证了该方法的有效性。实验结果表明，该方法能够实现多机械臂系统在复杂约束环境下的精确轨迹跟踪。具体而言，三个Franka Emika Panda移动机械臂能够协同抓取物体，并在障碍物和狭窄通道中安全地移动，同时保持较高的轨迹跟踪精度。虽然论文中没有给出具体的性能数据和对比基线，但仿真结果表明该方法具有良好的鲁棒性和适应性。

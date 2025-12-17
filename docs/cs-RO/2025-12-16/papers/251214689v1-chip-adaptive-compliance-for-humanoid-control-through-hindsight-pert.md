@@ -53,6 +53,20 @@ title: CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturba
 
 **关键设计**：CHIP的关键设计包括扰动的大小和频率。扰动的大小决定了控制器探索柔顺性的范围，扰动的频率决定了控制器学习柔顺性的速度。论文中，扰动的大小和频率是根据经验进行调整的。此外，论文还使用了标准的运动跟踪控制器作为基础控制器，并对其进行微调，以适应CHIP的扰动。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14689v1/x1.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14689v1/x2.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14689v1/x3.png" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 实验结果表明，使用CHIP训练的通用运动跟踪控制器可以成功完成各种需要不同末端执行器柔顺性的操作任务，例如多机器人协作、擦拭、箱子递送和开门。与没有使用CHIP的控制器相比，CHIP能够显著提高机器人的操作成功率和效率。例如，在箱子递送任务中，CHIP可以将成功率提高到90%以上。

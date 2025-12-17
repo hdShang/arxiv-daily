@@ -51,6 +51,20 @@ title: Broadening View Synthesis of Dynamic Scenes from Constrained Monocular Vi
 
 **关键设计**：ExpanDyNeRF的关键设计包括：1) **高斯溅射的参数化**：使用均值、方差和颜色等参数来表示每个高斯球。2) **伪真值生成器的设计**：使用一个神经网络来生成不同视角的伪真值图像，并使用对抗损失来提高生成图像的真实感。3) **NeRF模型的结构**：使用一个多层感知机（MLP）来预测每个点的密度和颜色。4) **损失函数的设计**：使用包括图像重建损失、正则化损失和对抗损失在内的多种损失函数来优化模型。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14406v1/Figures/real.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14406v1/x1.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14406v1/x2.png" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 ExpanDyNeRF在SynDM数据集和真实世界数据集上都取得了显著的性能提升。在SynDM数据集上，ExpanDyNeRF在PSNR、SSIM和LPIPS等指标上均优于现有方法。例如，在极端视角变化下，ExpanDyNeRF的PSNR比现有方法提高了5dB以上。在真实世界数据集上，ExpanDyNeRF也能够生成更逼真、更稳定的新视角图像，证明了其在实际应用中的有效性。

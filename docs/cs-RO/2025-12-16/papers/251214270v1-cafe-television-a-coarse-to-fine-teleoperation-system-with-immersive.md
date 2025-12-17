@@ -53,6 +53,20 @@ title: CaFe-TeleVision: A Coarse-to-Fine Teleoperation System with Immersive Sit
 
 **关键设计**：粗细粒度控制机制的具体实现方式未知，论文中可能涉及了特定的参数设置和优化算法。按需情境可视化技术可能采用了视点跟踪和场景理解等技术，以确定需要呈现的关键视觉信息。损失函数的设计可能考虑了操作效率、精度和人机工效等因素。具体的网络结构未知。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14270v1/x1.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14270v1/x2.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14270v1/x3.png" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 用户研究表明，CaFe-TeleVision系统在人机工效方面具有显著优势，能够降低任务负荷，提高用户接受度。定量结果显示，该系统在六项任务中的成功率平均提升了28.89%，完成时间平均缩短了26.81%，表明该系统在操作效率和精度方面均优于现有方法。这些实验结果充分验证了CaFe-TeleVision系统的有效性和优越性。

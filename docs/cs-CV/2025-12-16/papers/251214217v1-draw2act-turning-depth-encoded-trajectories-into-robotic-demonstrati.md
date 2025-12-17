@@ -51,6 +51,20 @@ title: DRAW2ACT: Turning Depth-Encoded Trajectories into Robotic Demonstration V
 
 **关键设计**：在参数设置上，采用了深度监督损失函数以提升深度信息的准确性，同时设计了特定的网络结构以支持多模态特征的提取和融合。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14217v1/x1.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14217v1/x2.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14217v1/x3.png" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 实验结果显示，DRAW2ACT在视觉保真度和一致性方面显著优于现有基线，具体表现为在操作成功率上提高了XX%（具体数据未知），并在多个基准测试中展现出更好的性能。

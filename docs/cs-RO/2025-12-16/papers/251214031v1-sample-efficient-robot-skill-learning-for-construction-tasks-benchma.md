@@ -51,6 +51,20 @@ title: Sample-Efficient Robot Skill Learning for Construction Tasks: Benchmarkin
 
 **关键设计**：VLA模型的关键设计包括：1) 使用Transformer架构来处理视觉、语言和动作信息；2) 设计合适的损失函数来训练模型，例如模仿学习损失和强化学习损失；3) 探索不同的数据增强方法来提高模型的泛化能力。DQN的关键设计包括：1) 使用经验回放机制来提高样本利用率；2) 使用目标网络来稳定训练过程；3) 通过添加噪声来提高模型的鲁棒性。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14031v1/x1.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14031v1/x2.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14031v1/x3.png" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 实验结果表明，VLA模型在拾取任务中实现了60%和100%的成功率，表现出强大的泛化能力和少样本学习能力。相比之下，DQN需要额外的噪声调整才能达到较好的鲁棒性，增加了工作量。在多阶段面板安装任务中，VLA模型也表现出优于DQN的性能，验证了其在实际应用中的潜力。

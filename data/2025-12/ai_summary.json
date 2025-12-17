@@ -706,7 +706,24 @@
                 "强化学习"
             ],
             "_index": 9,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14689v1/x1.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14689v1/x2.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14689v1/x3.png",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations",
@@ -1873,7 +1890,24 @@
                 "舒尔补块"
             ],
             "_index": 26,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14189v1/img/Fig1_finalv2.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14189v1/img/Fig2_v2.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14189v1/img/Fig3_v2.png",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "X-Humanoid: Robotize Human Videos to Generate Humanoid Videos at Scale",
@@ -2552,7 +2586,24 @@
                 "先验知识蒸馏"
             ],
             "_index": 35,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14095v1/x1.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14095v1/x2.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14095v1/x3.png",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "Vision-Guided Grasp Planning for Prosthetic Hands in Unstructured Environments",
@@ -2865,7 +2916,24 @@
                 "数据集"
             ],
             "_index": 40,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14428v1/figures/titleimage_lowres.jpg",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14428v1/figures/trajectory_parkhaus_lowres.jpg",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14428v1/figures/trajectory_marktplatz_lowres.jpg",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "HGS: Hybrid Gaussian Splatting with Static-Dynamic Decomposition for Compact Dynamic View Synthesis",
@@ -2929,7 +2997,24 @@
                 "实时渲染"
             ],
             "_index": 41,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14352v1/x2.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14352v1/x3.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14352v1/x5.png",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "CaFe-TeleVision: A Coarse-to-Fine Teleoperation System with Immersive Situated Visualization for Enhanced Ergonomics",
@@ -2997,7 +3082,24 @@
                 "情境感知"
             ],
             "_index": 42,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14270v1/x1.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14270v1/x2.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14270v1/x3.png",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "Beyond a Single Light: A Large-Scale Aerial Dataset for Urban Scene Reconstruction Under Varying Illumination",
@@ -3067,7 +3169,24 @@
                 "多视角几何"
             ],
             "_index": 43,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14200v1/images/pipeline.jpg",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14200v1/images/post1.jpg",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14200v1/images/lidarmesh.jpg",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "Deep Learning Perspective of Scene Understanding in Autonomous Robots",
@@ -3484,7 +3603,24 @@
                 "虚拟现实"
             ],
             "_index": 49,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14614v1/x2.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14614v1/x3.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14614v1/x4.png",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "A New Trajectory-Oriented Approach to Enhancing Comprehensive Crowd Navigation Performance",
@@ -4511,7 +4647,24 @@
                 "域适应"
             ],
             "_index": 65,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14536v1/fig9-mask.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14536v1/fig3-tmp4.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14536v1/fig2.png",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "Interactive Motion Planning for Human-Robot Collaboration Based on Human-Centric Configuration Space Ergonomic Field",
@@ -4572,7 +4725,24 @@
                 "机器人控制"
             ],
             "_index": 66,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14111v1/fig/cover.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14111v1/fig/CSEF.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14111v1/fig/framework_interactive_motion_planning.png",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "StarryGazer: Leveraging Monocular Depth Estimation Models for Domain-Agnostic Single Depth Image Completion",
@@ -5921,7 +6091,24 @@
                 "大角度渲染"
             ],
             "_index": 87,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14406v1/Figures/real.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14406v1/x1.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14406v1/x2.png",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "GaussianPlant: Structure-aligned Gaussian Splatting for 3D Reconstruction of Plants",
@@ -5979,7 +6166,24 @@
                 "生态监测"
             ],
             "_index": 88,
-            "_used_api": "openai"
+            "_used_api": "openai",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14087v1/x1.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14087v1/x2.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14087v1/x3.png",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "Nexels: Neurally-Textured Surfels for Real-Time Novel View Synthesis with Sparse Geometries",
@@ -9933,7 +10137,24 @@
                 "多尺度特征学习"
             ],
             "_index": 150,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14309v1/Figures/global.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14309v1/Figures/psmamba.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14309v1/Figures/visual/gradcam/pd_o_2.png",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "Intrinsic-Motivation Multi-Robot Social Formation Navigation with Coordinated Exploration",
@@ -10414,7 +10635,24 @@
                 "机器人控制"
             ],
             "_index": 157,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14057v1/figs/meta_variations.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14057v1/figs/meta_bamdp.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14057v1/figs/meta_arch_overview.png",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "Sample-Efficient Robot Skill Learning for Construction Tasks: Benchmarking Hierarchical Reinforcement Learning and Vision-Language-Action VLA Model",
@@ -10479,7 +10717,24 @@
                 "样本效率"
             ],
             "_index": 158,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14031v1/x1.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14031v1/x2.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14031v1/x3.png",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "Motus: A Unified Latent Action World Model",
@@ -13985,7 +14240,24 @@
                 "计算机视觉"
             ],
             "_index": 217,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14364v1/x2.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14364v1/x3.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14364v1/x4.png",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "Fine-Tuning of Neural Network Approximate MPC without Retraining via Bayesian Optimization",
@@ -14213,7 +14485,24 @@
                 "逆运动学"
             ],
             "_index": 221,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14206v1/x1.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14206v1/x2.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14206v1/x3.png",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "Spherical Voronoi: Directional Appearance as a Differentiable Partition of the Sphere",
@@ -14273,7 +14562,24 @@
                 "可微渲染"
             ],
             "_index": 222,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14180v1/figures/gibbs.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14180v1/figures/spatially_varying_light.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14180v1/figures/fitting2d.png",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "FastDDHPose: Towards Unified, Efficient, and Disentangled 3D Human Pose Estimation",
@@ -14399,7 +14705,24 @@
                 "可变形3D高斯"
             ],
             "_index": 224,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14126v1/x1.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14126v1/x8.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14126v1/x9.png",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "E-Navi: Environmental Adaptive Navigation for UAVs on Resource Constrained Platforms",
@@ -14534,7 +14857,24 @@
                 "深度学习"
             ],
             "_index": 226,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14028v1/x1.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14028v1/x2.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14028v1/imgs2/fig3_effect_dav2/00003-102-D415-lir.jpg",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "Autonomous Construction-Site Safety Inspection Using Mobile Robots: A Multilayer VLM-LLM Pipeline",
@@ -15602,7 +15942,24 @@
                 "语音语言行为模型"
             ],
             "_index": 243,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14234v1/x1.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14234v1/x2.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14234v1/x3.png",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "VG-Refiner: Towards Tool-Refined Referring Grounded Reasoning via Agentic Reinforcement Learning",
@@ -18167,7 +18524,24 @@
                 "三维重建"
             ],
             "_index": 285,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14039v1/x1.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14039v1/figure/trade_off_new.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14039v1/figure/main_2.png",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "CLAIM: Camera-LiDAR Alignment with Intensity and Monodepth",
@@ -18238,7 +18612,24 @@
                 "互信息"
             ],
             "_index": 286,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14001v1/x1.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14001v1/x2.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14001v1/x3.png",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction",
@@ -19077,7 +19468,24 @@
                 "生成模型"
             ],
             "_index": 298,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14442v1/x2.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14442v1/x3.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14442v1/x4.png",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "Toward Efficient and Robust Behavior Models for Multi-Agent Driving Simulation",
@@ -19977,7 +20385,24 @@
                 "运动潜在空间"
             ],
             "_index": 313,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14677v1/x2.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14677v1/x3.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14677v1/x4.png",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "3D Human-Human Interaction Anomaly Detection",
@@ -25573,7 +25998,24 @@
                 "泛化"
             ],
             "_index": 408,
-            "_used_api": "gemini"
+            "_used_api": "gemini",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14666v1/x1.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14666v1/x2.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14666v1/x3.png",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "Vector Prism: Animating Vector Graphics by Stratifying Semantic Structure",
@@ -25856,7 +26298,24 @@
                 "轨迹条件生成"
             ],
             "_index": 413,
-            "_used_api": "openai"
+            "_used_api": "openai",
+            "figures": [
+                {
+                    "url": "https://arxiv.org/html/2512.14217v1/x1.png",
+                    "caption": "",
+                    "figure_id": "fig_0"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14217v1/x2.png",
+                    "caption": "",
+                    "figure_id": "fig_1"
+                },
+                {
+                    "url": "https://arxiv.org/html/2512.14217v1/x3.png",
+                    "caption": "",
+                    "figure_id": "fig_2"
+                }
+            ]
         },
         {
             "title": "Impact of Robot Facial-Audio Expressions on Human Robot Trust Dynamics and Trust Repair",

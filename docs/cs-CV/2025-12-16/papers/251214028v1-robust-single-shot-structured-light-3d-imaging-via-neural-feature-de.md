@@ -53,6 +53,20 @@ title: Robust Single-shot Structured Light 3D Imaging via Neural Feature Decodin
 
 **关键设计**：论文使用基于物理的渲染管线生成大规模合成数据集，用于训练神经网络。代价体的构建方式以及损失函数的设计对最终的性能至关重要，但具体细节在论文中可能没有详细描述（未知）。深度细化模块可能采用了预训练的单目深度估计模型，并对其进行了微调（未知）。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14028v1/x1.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14028v1/x2.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14028v1/imgs2/fig3_effect_dav2/00003-102-D415-lir.jpg" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 该方法在合成数据上训练后，能够很好地泛化到真实世界的室内环境，并且无需针对不同的结构光图案进行重新训练。实验结果表明，该方法在深度估计精度上显著优于传统的商业结构光系统和基于被动立体RGB的深度估计方法，但具体性能提升数据未知。

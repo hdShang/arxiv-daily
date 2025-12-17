@@ -51,6 +51,20 @@ title: ASAP-Textured Gaussians: Enhancing Textured Gaussians with Adaptive Sampl
 
 **关键设计**：自适应纹理采样通过计算每个高斯分布的密度，并根据密度分布进行采样。误差驱动的各向异性参数化通过计算每个高斯的渲染误差，并根据误差大小动态调整纹理参数的数量。具体的损失函数包括渲染损失和正则化损失，用于优化高斯参数和纹理参数。网络结构方面，可以使用现有的3D高斯溅射框架，并在此基础上添加自适应采样和各向异性参数化模块。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14039v1/x1.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14039v1/figure/trade_off_new.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14039v1/figure/main_2.png" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 实验结果表明，ASAP Textured Gaussians在保持甚至提高渲染质量的同时，显著减少了纹理参数的数量。与现有方法相比，ASAP Textured Gaussians能够在相同渲染质量下减少高达50%的纹理参数，或者在相同纹理参数数量下提高渲染质量。具体指标提升幅度未知，需要在论文中查找具体数据。

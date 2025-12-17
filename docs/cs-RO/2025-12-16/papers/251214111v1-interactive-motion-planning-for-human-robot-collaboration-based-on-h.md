@@ -53,6 +53,20 @@ title: Interactive Motion Planning for Human-Robot Collaboration Based on Human-
 
 **关键设计**：CSEF的构建需要选择合适的人体工学指标，例如关节角度、关节力矩等。这些指标需要进行归一化和加权，以反映不同关节和任务的重要性。梯度计算采用数值方法或解析方法，以保证计算效率。运动规划器采用梯度下降或类似的优化算法，以找到人体工学成本最低的路径。阻抗控制用于保证机器人与环境的交互安全。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14111v1/fig/cover.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14111v1/fig/CSEF.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14111v1/fig/framework_interactive_motion_planning.png" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 实验结果表明，基于CSEF的规划方法在2自由度基准测试中，比基于任务空间人体工学的规划实现了更高的成功率、更低的人体工学成本和更快的计算速度。在双臂机器人硬件实验中，协作钻孔任务的人体工学评分降低了高达10.31%，双手协同搬运任务降低了5.60%，同时降低了关键肌肉群的激活，验证了该方法在实际应用中的有效性。

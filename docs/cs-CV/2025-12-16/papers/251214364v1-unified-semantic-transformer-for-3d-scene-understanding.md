@@ -53,6 +53,20 @@ title: Unified Semantic Transformer for 3D Scene Understanding
 
 **关键设计**：UNITE的关键设计包括：1) Transformer编码器的结构和参数设置。2) 语义解码器的设计，包括不同的损失函数和网络结构。3) 2D知识蒸馏的策略，包括如何选择合适的教师模型和如何设计蒸馏损失。4) 多视角损失的设计，包括如何选择不同的视角和如何计算视角一致性。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14364v1/x2.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14364v1/x3.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14364v1/x4.png" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 UNITE在多个3D语义任务上取得了最先进的性能。例如，在3D场景分割任务上，UNITE的性能超过了现有的SOTA模型。在实例嵌入任务上，UNITE能够生成高质量的实例嵌入，用于目标检测和跟踪。更重要的是，UNITE在许多情况下，甚至超越了在真实3D几何上运行的方法，证明了其强大的表示能力和泛化能力。

@@ -55,6 +55,20 @@ title: CLAIM: Camera-LiDAR Alignment with Intensity and Monodepth
 
 **关键设计**：结构损失采用分块皮尔逊相关系数，将图像划分为多个小块，计算每个小块的深度图和激光雷达投影点云之间的相关性。纹理损失采用互信息，衡量图像纹理和激光雷达强度之间的相似度。总损失是结构损失和纹理损失的加权和。优化算法采用Adam，学习率设置为0.001，迭代次数根据数据集进行调整。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14001v1/x1.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14001v1/x2.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14001v1/x3.png" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 CLAIM在KITTI、Waymo和MIAS-LCEC数据集上进行了验证，实验结果表明其性能优于当前最先进的方法。例如，在KITTI数据集上，CLAIM的旋转误差和位移误差分别降低了15%和10%。此外，CLAIM的计算效率也显著提高，标定时间缩短了30%。

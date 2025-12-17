@@ -51,6 +51,20 @@ title: Context Representation via Action-Free Transformer encoder-decoder for Me
 
 **关键设计**：CRAFT的关键设计包括：1) 使用旋转位置嵌入的Transformer编码器-解码器，以捕获长程时间依赖性；2) 使用摊销变分推断进行可扩展的信念更新；3) 设计损失函数，以鼓励模型学习到鲁棒的任务表示。具体来说，损失函数包括重构损失和KL散度损失。重构损失用于鼓励模型能够从任务表示中重构出原始的状态和奖励序列，KL散度损失用于约束任务表示的分布。
 
+## 🖼️ 关键图片
+
+<div class="paper-figures">
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14057v1/figs/meta_variations.png" alt="fig_0" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14057v1/figs/meta_bamdp.png" alt="fig_1" loading="lazy">
+</figure>
+<figure class="paper-figure">
+<img src="https://arxiv.org/html/2512.14057v1/figs/meta_arch_overview.png" alt="fig_2" loading="lazy">
+</figure>
+</div>
+
 ## 📊 实验亮点
 
 CRAFT在MetaWorld ML-10机器人操作基准测试中表现出色，与上下文自适应元强化学习基线相比，实现了更快的适应速度、更好的泛化能力和更有效的探索。具体性能数据未知，但论文强调了CRAFT在多个指标上均优于现有方法。
