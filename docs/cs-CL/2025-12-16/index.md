@@ -28,14 +28,14 @@ title: arXiv 中文要点汇总 - cs.CL - 2025-12-16
 <tr>
   <td>1</td>
   <td><a href="./papers/251214620v1-jmmmu-pro-image-based-japanese-multi-discipline-multimodal-understan.html">JMMMU-Pro: Image-based Japanese Multi-discipline Multimodal Understanding Benchmark via Vibe Benchmark Construction</a></td>
-  <td>提出JMMMU-Pro基准测试，用于评估日语多学科多模态理解能力，并提出Vibe基准构建方法。</td>
+  <td>提出JMMMU-Pro日语多学科多模态理解基准，并提出Vibe基准构建方法。</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14620v1" onclick="toggleFavorite(this, '2512.14620v1', 'JMMMU-Pro: Image-based Japanese Multi-discipline Multimodal Understanding Benchmark via Vibe Benchmark Construction')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
   <td><a href="./papers/251214561v1-agreement-between-large-language-models-and-human-raters-in-essay-sc.html">Agreement Between Large Language Models and Human Raters in Essay Scoring: A Research Synthesis</a></td>
-  <td>综述研究：大型语言模型在作文评分中与人类评分者的一致性分析</td>
+  <td>大型语言模型在自动作文评分中与人类评分者的一致性研究综述</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14561v1" onclick="toggleFavorite(this, '2512.14561v1', 'Agreement Between Large Language Models and Human Raters in Essay Scoring: A Research Synthesis')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -70,35 +70,35 @@ title: arXiv 中文要点汇总 - cs.CL - 2025-12-16
 <tr>
   <td>7</td>
   <td><a href="./papers/251214118v1-cogmem-a-cognitive-memory-architecture-for-sustained-multi-turn-reas.html">CogMem: A Cognitive Memory Architecture for Sustained Multi-Turn Reasoning in Large Language Models</a></td>
-  <td>提出CogMem以解决大型语言模型的多轮推理问题</td>
+  <td>CogMem：一种认知记忆架构，用于大型语言模型中持续的多轮推理</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14118v1" onclick="toggleFavorite(this, '2512.14118v1', 'CogMem: A Cognitive Memory Architecture for Sustained Multi-Turn Reasoning in Large Language Models')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>8</td>
   <td><a href="./papers/251214064v1-what-affects-the-effective-depth-of-large-language-models.html">What Affects the Effective Depth of Large Language Models?</a></td>
-  <td>研究揭示大语言模型有效深度受限，为模型优化提供新方向</td>
+  <td>研究揭示大语言模型有效深度受限，为模型优化提供新视角</td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14064v1" onclick="toggleFavorite(this, '2512.14064v1', 'What Affects the Effective Depth of Large Language Models?')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>9</td>
   <td><a href="./papers/251214237v1-ladder-up-memory-down-low-cost-fine-tuning-with-side-nets.html">Ladder Up, Memory Down: Low-Cost Fine-Tuning With Side Nets</a></td>
-  <td>Ladder Side Tuning通过轻量级侧网络实现低成本大模型微调，显著降低内存占用。</td>
+  <td>提出Ladder Side Tuning，以低成本微调大型语言模型，显著降低内存占用。</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14237v1" onclick="toggleFavorite(this, '2512.14237v1', 'Ladder Up, Memory Down: Low-Cost Fine-Tuning With Side Nets')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>10</td>
   <td><a href="./papers/251214083v1-scalable-frameworks-for-real-world-audio-visual-speech-recognition.html">Scalable Frameworks for Real-World Audio-Visual Speech Recognition</a></td>
-  <td>提出分层可扩展框架，提升真实场景下音视频语音识别的鲁棒性。</td>
+  <td>提出可扩展框架，解决真实场景下音频-视觉语音识别的鲁棒性问题</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14083v1" onclick="toggleFavorite(this, '2512.14083v1', 'Scalable Frameworks for Real-World Audio-Visual Speech Recognition')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>11</td>
   <td><a href="./papers/251214531v1-versatileffn-achieving-parameter-efficiency-in-llms-via-adaptive-wid.html">VersatileFFN: Achieving Parameter Efficiency in LLMs via Adaptive Wide-and-Deep Reuse</a></td>
-  <td>提出VersatileFFN以解决大语言模型的参数效率问题</td>
+  <td>提出VersatileFFN，通过自适应宽度和深度复用提升LLM参数效率</td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14531v1" onclick="toggleFavorite(this, '2512.14531v1', 'VersatileFFN: Achieving Parameter Efficiency in LLMs via Adaptive Wide-and-Deep Reuse')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -112,7 +112,7 @@ title: arXiv 中文要点汇总 - cs.CL - 2025-12-16
 <tr>
   <td>13</td>
   <td><a href="./papers/251214239v1-two-cfg-nahuatl-for-automatic-corpora-expansion.html">Two CFG Nahuatl for automatic corpora expansion</a></td>
-  <td>提出两种CFG Nahuatl方法，用于自动扩展Nawatl语料库</td>
+  <td>提出两种CFG纳瓦特尔语语法，用于自动语料库扩展，提升小语种LLM性能。</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14239v1" onclick="toggleFavorite(this, '2512.14239v1', 'Two CFG Nahuatl for automatic corpora expansion')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -133,7 +133,7 @@ title: arXiv 中文要点汇总 - cs.CL - 2025-12-16
 <tr>
   <td>16</td>
   <td><a href="./papers/251214082v1-a-unified-sparse-attention-via-multi-granularity-compression.html">A Unified Sparse Attention via Multi-Granularity Compression</a></td>
-  <td>UniSparse：一种通过多粒度压缩实现的统一稀疏注意力机制，加速LLM长文本处理。</td>
+  <td>UniSparse：一种通过多粒度压缩实现的统一稀疏注意力机制</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14082v1" onclick="toggleFavorite(this, '2512.14082v1', 'A Unified Sparse Attention via Multi-Granularity Compression')" title="添加到收藏夹">☆</button></td>
 </tr>

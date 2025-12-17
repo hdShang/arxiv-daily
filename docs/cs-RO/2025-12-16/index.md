@@ -38,35 +38,35 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-16
 <tr>
   <td>2</td>
   <td><a href="./papers/251214666v1-evolve-vla-test-time-training-from-environment-feedback-for-vision-l.html">EVOLVE-VLA: Test-Time Training from Environment Feedback for Vision-Language-Action Models</a></td>
-  <td>EVOLVE-VLA：面向视觉-语言-动作模型的环境反馈测试时训练</td>
+  <td>提出EVOLVE-VLA以解决视觉-语言-动作模型适应性不足问题</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14666v1" onclick="toggleFavorite(this, '2512.14666v1', 'EVOLVE-VLA: Test-Time Training from Environment Feedback for Vision-Language-Action Models')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>3</td>
   <td><a href="./papers/251214689v1-chip-adaptive-compliance-for-humanoid-control-through-hindsight-pert.html">CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation</a></td>
-  <td>提出CHIP自适应柔顺控制，提升人形机器人力操作任务性能</td>
+  <td>CHIP：通过后见之明扰动实现人型机器人自适应柔顺控制</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14689v1" onclick="toggleFavorite(this, '2512.14689v1', 'CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>4</td>
   <td><a href="./papers/251214270v1-cafe-television-a-coarse-to-fine-teleoperation-system-with-immersive.html">CaFe-TeleVision: A Coarse-to-Fine Teleoperation System with Immersive Situated Visualization for Enhanced Ergonomics</a></td>
-  <td>CaFe-TeleVision：面向人机工效增强的粗细粒度遥操作系统与沉浸式情境可视化</td>
+  <td>CaFe-TeleVision：一种粗细结合的遥操作系统，通过沉浸式可视化增强人机工效</td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14270v1" onclick="toggleFavorite(this, '2512.14270v1', 'CaFe-TeleVision: A Coarse-to-Fine Teleoperation System with Immersive Situated Visualization for Enhanced Ergonomics')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>5</td>
   <td><a href="./papers/251214111v1-interactive-motion-planning-for-human-robot-collaboration-based-on-h.html">Interactive Motion Planning for Human-Robot Collaboration Based on Human-Centric Configuration Space Ergonomic Field</a></td>
-  <td>提出基于人机协作构型空间人体工学场的交互式机器人运动规划方法</td>
+  <td>提出基于人机协作构型空间人体工学场的交互式运动规划方法</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14111v1" onclick="toggleFavorite(this, '2512.14111v1', 'Interactive Motion Planning for Human-Robot Collaboration Based on Human-Centric Configuration Space Ergonomic Field')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>6</td>
   <td><a href="./papers/251214411v1-synthetic-data-pipelines-for-adaptive-mission-ready-militarized-huma.html">Synthetic Data Pipelines for Adaptive, Mission-Ready Militarized Humanoids</a></td>
-  <td>Omnia提出一种基于合成数据的流程，加速军用人形机器人的训练与部署。</td>
+  <td>Omnia提出一种基于合成数据的流水线，加速军用人形机器人的训练和部署。</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14411v1" onclick="toggleFavorite(this, '2512.14411v1', 'Synthetic Data Pipelines for Adaptive, Mission-Ready Militarized Humanoids')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -253,7 +253,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-16
 <tr>
   <td>28</td>
   <td><a href="./papers/251214001v1-claim-camera-lidar-alignment-with-intensity-and-monodepth.html">CLAIM: Camera-LiDAR Alignment with Intensity and Monodepth</a></td>
-  <td>CLAIM：提出一种基于强度和单目深度信息的相机-激光雷达标定方法</td>
+  <td>CLAIM：利用单目深度和强度信息实现相机-激光雷达标定</td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14001v1" onclick="toggleFavorite(this, '2512.14001v1', 'CLAIM: Camera-LiDAR Alignment with Intensity and Monodepth')" title="添加到收藏夹">☆</button></td>
 </tr>

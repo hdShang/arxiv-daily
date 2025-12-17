@@ -39,14 +39,14 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-16
 <tr>
   <td>2</td>
   <td><a href="./papers/251214048v1-intention-chain-of-thought-prompting-with-dynamic-routing-for-code-g.html">Intention Chain-of-Thought Prompting with Dynamic Routing for Code Generation</a></td>
-  <td>提出RoutingGen以解决代码生成中的推理效率问题</td>
+  <td>提出RoutingGen框架，通过动态路由和意图链式思考提升代码生成效果。</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14048v1" onclick="toggleFavorite(this, '2512.14048v1', 'Intention Chain-of-Thought Prompting with Dynamic Routing for Code Generation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>3</td>
   <td><a href="./papers/251213996v1-sparsity-controllable-dynamic-top-p-moe-for-large-foundation-model-p.html">Sparsity-Controllable Dynamic Top-p MoE for Large Foundation Model Pre-training</a></td>
-  <td>提出DTop-p MoE，实现稀疏性可控的动态Top-p路由，提升大模型预训练效果。</td>
+  <td>提出DTop-p MoE，实现稀疏度可控的动态Top-p路由，提升大模型预训练效果。</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.13996v1" onclick="toggleFavorite(this, '2512.13996v1', 'Sparsity-Controllable Dynamic Top-p MoE for Large Foundation Model Pre-training')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -67,7 +67,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-16
 <tr>
   <td>6</td>
   <td><a href="./papers/251214474v1-model-first-reasoning-llm-agents-reducing-hallucinations-through-exp.html">Model-First Reasoning LLM Agents: Reducing Hallucinations through Explicit Problem Modeling</a></td>
-  <td>提出Model-First Reasoning，通过显式问题建模减少LLM幻觉</td>
+  <td>提出Model-First Reasoning，通过显式建模减少LLM在复杂规划任务中的幻觉</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14474v1" onclick="toggleFavorite(this, '2512.14474v1', 'Model-First Reasoning LLM Agents: Reducing Hallucinations through Explicit Problem Modeling')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -88,14 +88,14 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-16
 <tr>
   <td>9</td>
   <td><a href="./papers/251214429v1-seismology-modeling-agent-a-smart-assistant-for-geophysical-research.html">Seismology modeling agent: A smart assistant for geophysical researchers</a></td>
-  <td>提出基于大语言模型的SPECFEM智能助手，简化地震学模拟流程。</td>
+  <td>提出基于LLM的SPECFEM智能助手，简化地震模拟流程并降低使用门槛。</td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14429v1" onclick="toggleFavorite(this, '2512.14429v1', 'Seismology modeling agent: A smart assistant for geophysical researchers')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>10</td>
   <td><a href="./papers/251214417v1-portagent-llm-driven-vehicle-dispatching-agent-for-port-terminals.html">PortAgent: LLM-driven Vehicle Dispatching Agent for Port Terminals</a></td>
-  <td>PortAgent：基于LLM的港口车辆调度智能体，提升跨终端迁移能力</td>
+  <td>提出PortAgent，一种基于LLM的港口车辆调度智能体，提升跨港口适应性。</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14417v1" onclick="toggleFavorite(this, '2512.14417v1', 'PortAgent: LLM-driven Vehicle Dispatching Agent for Port Terminals')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -109,14 +109,14 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-16
 <tr>
   <td>12</td>
   <td><a href="./papers/251214277v1-sparql-llm-real-time-sparql-query-generation-from-natural-language-q.html">SPARQL-LLM: Real-Time SPARQL Query Generation from Natural Language Questions</a></td>
-  <td>SPARQL-LLM：一种基于轻量级元数据的实时自然语言到SPARQL查询生成方法</td>
+  <td>SPARQL-LLM：轻量级元数据驱动的实时自然语言到SPARQL查询生成方法</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14277v1" onclick="toggleFavorite(this, '2512.14277v1', 'SPARQL-LLM: Real-Time SPARQL Query Generation from Natural Language Questions')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>13</td>
   <td><a href="./papers/251214166v1-intentminer-intent-inversion-attack-via-tool-call-analysis-in-the-mo.html">IntentMiner: Intent Inversion Attack via Tool Call Analysis in the Model Context Protocol</a></td>
-  <td>提出IntentMiner，通过分析工具调用在模型上下文协议中实现意图反演攻击。</td>
+  <td>提出IntentMiner框架，通过分析工具调用日志实现用户意图反演攻击。</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14166v1" onclick="toggleFavorite(this, '2512.14166v1', 'IntentMiner: Intent Inversion Attack via Tool Call Analysis in the Model Context Protocol')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -148,14 +148,14 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-16
 <tr>
   <td>16</td>
   <td><a href="./papers/251214465v1-context-picker-dynamic-context-selection-using-multi-stage-reinforce.html">Context-Picker: Dynamic context selection using multi-stage reinforcement learning</a></td>
-  <td>Context-Picker：利用多阶段强化学习进行动态上下文选择，提升长文本问答准确率。</td>
+  <td>Context-Picker：利用多阶段强化学习动态选择长文本问答的上下文</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14465v1" onclick="toggleFavorite(this, '2512.14465v1', 'Context-Picker: Dynamic context selection using multi-stage reinforcement learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>17</td>
   <td><a href="./papers/251214157v1-incentivizing-tool-augmented-thinking-with-images-for-medical-image-.html">Incentivizing Tool-augmented Thinking with Images for Medical Image Analysis</a></td>
-  <td>提出Ophiuchus框架以增强医学图像分析中的工具辅助推理</td>
+  <td>Ophiuchus：一种工具增强的医学图像分析框架，提升MLLM的推理能力</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14157v1" onclick="toggleFavorite(this, '2512.14157v1', 'Incentivizing Tool-augmented Thinking with Images for Medical Image Analysis')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -230,7 +230,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-16
 <tr>
   <td>23</td>
   <td><a href="./papers/251214329v1-a-data-physics-hybrid-generative-model-for-patient-specific-post-str.html">A data-physics hybrid generative model for patient-specific post-stroke motor rehabilitation using wearable sensor data</a></td>
-  <td>提出一种数据-物理混合生成模型，用于中风后患者的个性化步态康复。</td>
+  <td>提出一种数据-物理混合生成模型，利用可穿戴传感器数据为中风后患者定制运动康复方案。</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14329v1" onclick="toggleFavorite(this, '2512.14329v1', 'A data-physics hybrid generative model for patient-specific post-stroke motor rehabilitation using wearable sensor data')" title="添加到收藏夹">☆</button></td>
 </tr>

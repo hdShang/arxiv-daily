@@ -199,7 +199,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-16
 <tr>
   <td>23</td>
   <td><a href="./papers/251214102v1-neurosymbolic-inference-on-foundation-models-for-remote-sensing-text.html">Neurosymbolic Inference On Foundation Models For Remote Sensing Text-to-image Retrieval With Complex Queries</a></td>
-  <td>提出RUNE，结合神经符号推理与大模型，解决遥感图像复杂查询的文本到图像检索问题。</td>
+  <td>提出RUNE，结合神经符号推理与大模型，解决遥感图像复杂查询检索难题</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14102v1" onclick="toggleFavorite(this, '2512.14102v1', 'Neurosymbolic Inference On Foundation Models For Remote Sensing Text-to-image Retrieval With Complex Queries')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -213,21 +213,21 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-16
 <tr>
   <td>25</td>
   <td><a href="./papers/251214489v1-signit-a-comprehensive-dataset-and-multimodal-analysis-for-italian-s.html">SignIT: A Comprehensive Dataset and Multimodal Analysis for Italian Sign Language Recognition</a></td>
-  <td>发布SignIT意大利手语数据集，并进行多模态手语识别基准分析</td>
+  <td>发布SignIT意大利手语数据集，并进行多模态手语识别基准测试</td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14489v1" onclick="toggleFavorite(this, '2512.14489v1', 'SignIT: A Comprehensive Dataset and Multimodal Analysis for Italian Sign Language Recognition')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>26</td>
   <td><a href="./papers/251214225v1-omnigen-unified-multimodal-sensor-generation-for-autonomous-driving.html">OmniGen: Unified Multimodal Sensor Generation for Autonomous Driving</a></td>
-  <td>OmniGen：提出统一的多模态传感器生成框架，用于自动驾驶场景。</td>
+  <td>OmniGen：提出统一的多模态传感器生成框架，用于自动驾驶场景数据增强。</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14225v1" onclick="toggleFavorite(this, '2512.14225v1', 'OmniGen: Unified Multimodal Sensor Generation for Autonomous Driving')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>27</td>
   <td><a href="./papers/251214058v1-real-time-prediction-of-workplane-illuminance-distribution-for-dayli.html">Real-time prediction of workplane illuminance distribution for daylight-linked controls using non-intrusive multimodal deep learning</a></td>
-  <td>提出基于非侵入式多模态深度学习的日光照明控制工作面照度实时预测方法</td>
+  <td>提出基于非侵入式多模态深度学习的日光照明工作面照度实时预测方法，用于日光联动控制。</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14058v1" onclick="toggleFavorite(this, '2512.14058v1', 'Real-time prediction of workplane illuminance distribution for daylight-linked controls using non-intrusive multimodal deep learning')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -248,28 +248,28 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-16
 <tr>
   <td>30</td>
   <td><a href="./papers/251214654v1-virc-enhancing-visual-interleaved-mathematical-cot-with-reason-chunk.html">ViRC: Enhancing Visual Interleaved Mathematical CoT with Reason Chunking</a></td>
-  <td>提出ViRC框架，通过Reason Chunking增强多模态数学问题中的视觉推理能力</td>
+  <td>提出ViRC框架，通过Reason Chunking增强视觉交互数学推理能力</td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14654v1" onclick="toggleFavorite(this, '2512.14654v1', 'ViRC: Enhancing Visual Interleaved Mathematical CoT with Reason Chunking')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>31</td>
   <td><a href="./papers/251214574v1-foodlogathl-218-constructing-a-real-world-food-image-dataset-using-d.html">FoodLogAthl-218: Constructing a Real-World Food Image Dataset Using Dietary Management Applications</a></td>
-  <td>FoodLogAthl-218：构建基于膳食管理应用采集的真实食物图像数据集</td>
+  <td>FoodLogAthl-218：构建基于膳食管理应用的真实食物图像数据集</td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14574v1" onclick="toggleFavorite(this, '2512.14574v1', 'FoodLogAthl-218: Constructing a Real-World Food Image Dataset Using Dietary Management Applications')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>32</td>
   <td><a href="./papers/251214420v1-discode-distribution-aware-score-decoder-for-robust-automatic-evalua.html">DISCODE: Distribution-Aware Score Decoder for Robust Automatic Evaluation of Image Captioning</a></td>
-  <td>提出DISCODE，一种分布感知的分数解码器，用于提升图像描述自动评估的鲁棒性。</td>
+  <td>提出DISCODE，一种分布感知的无微调方法，提升图像描述自动评估在跨域场景下的鲁棒性。</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14420v1" onclick="toggleFavorite(this, '2512.14420v1', 'DISCODE: Distribution-Aware Score Decoder for Robust Automatic Evaluation of Image Captioning')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>33</td>
   <td><a href="./papers/251214257v1-enhancing-visual-programming-for-visual-reasoning-via-probabilistic-.html">Enhancing Visual Programming for Visual Reasoning via Probabilistic Graphs</a></td>
-  <td>提出EVPG，通过概率图增强视觉编程在视觉推理中的性能</td>
+  <td>提出EVPG，通过概率图增强视觉编程以提升视觉推理能力</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14257v1" onclick="toggleFavorite(this, '2512.14257v1', 'Enhancing Visual Programming for Visual Reasoning via Probabilistic Graphs')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -301,7 +301,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-16
 <tr>
   <td>36</td>
   <td><a href="./papers/251214095v1-anchorhoi-zero-shot-generation-of-4d-human-object-interaction-via-an.html">AnchorHOI: Zero-shot Generation of 4D Human-Object Interaction via Anchor-based Prior Distillation</a></td>
-  <td>提出AnchorHOI以解决4D人机交互生成中的数据稀缺问题</td>
+  <td>AnchorHOI：基于锚点的先验知识蒸馏实现零样本4D人-物交互生成</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14095v1" onclick="toggleFavorite(this, '2512.14095v1', 'AnchorHOI: Zero-shot Generation of 4D Human-Object Interaction via Anchor-based Prior Distillation')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -315,14 +315,14 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-16
 <tr>
   <td>38</td>
   <td><a href="./papers/251214698v1-timelens-rethinking-video-temporal-grounding-with-multimodal-llms.html">TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs</a></td>
-  <td>提出TimeLens以提升视频时间定位的准确性与可靠性</td>
+  <td>TimeLens：通过多模态LLM重新思考视频时序定位，构建高质量基线。</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14698v1" onclick="toggleFavorite(this, '2512.14698v1', 'TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>39</td>
   <td><a href="./papers/251214442v1-a4-agent-an-agentic-framework-for-zero-shot-affordance-reasoning.html">A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning</a></td>
-  <td>提出A4-Agent：一个用于零样本可供性推理的Agent框架</td>
+  <td>提出A4-Agent，一个零样本可供性推理的Agent框架，提升泛化能力。</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14442v1" onclick="toggleFavorite(this, '2512.14442v1', 'A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -336,14 +336,14 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-16
 <tr>
   <td>41</td>
   <td><a href="./papers/251214044v1-omnidrive-r1-reinforcement-driven-interleaved-multi-modal-chain-of-t.html">OmniDrive-R1: Reinforcement-driven Interleaved Multi-modal Chain-of-Thought for Trustworthy Vision-Language Autonomous Driving</a></td>
-  <td>OmniDrive-R1：基于强化学习的多模态交错CoT，提升自动驾驶视觉语言模型的可靠性</td>
+  <td>OmniDrive-R1：强化学习驱动的交错多模态CoT，提升自动驾驶视觉语言模型的可靠性</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14044v1" onclick="toggleFavorite(this, '2512.14044v1', 'OmniDrive-R1: Reinforcement-driven Interleaved Multi-modal Chain-of-Thought for Trustworthy Vision-Language Autonomous Driving')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>42</td>
   <td><a href="./papers/251214309v1-psmamba-progressive-self-supervised-vision-mamba-for-plant-disease-r.html">PSMamba: Progressive Self-supervised Vision Mamba for Plant Disease Recognition</a></td>
-  <td>PSMamba：一种用于植物病害识别的渐进式自监督视觉Mamba方法</td>
+  <td>PSMamba：一种用于植物病害识别的渐进式自监督视觉Mamba框架</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14309v1" onclick="toggleFavorite(this, '2512.14309v1', 'PSMamba: Progressive Self-supervised Vision Mamba for Plant Disease Recognition')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -410,7 +410,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-16
 <tr>
   <td>50</td>
   <td><a href="./papers/251214352v1-hgs-hybrid-gaussian-splatting-with-static-dynamic-decomposition-for-.html">HGS: Hybrid Gaussian Splatting with Static-Dynamic Decomposition for Compact Dynamic View Synthesis</a></td>
-  <td>提出HGS混合高斯溅射，通过静态-动态分解实现紧凑的动态视角合成</td>
+  <td>提出HGS：一种混合高斯溅射方法，通过静态-动态分解实现紧凑的动态视角合成。</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14352v1" onclick="toggleFavorite(this, '2512.14352v1', 'HGS: Hybrid Gaussian Splatting with Static-Dynamic Decomposition for Compact Dynamic View Synthesis')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -424,35 +424,35 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-16
 <tr>
   <td>52</td>
   <td><a href="./papers/251214200v1-beyond-a-single-light-a-large-scale-aerial-dataset-for-urban-scene-r.html">Beyond a Single Light: A Large-Scale Aerial Dataset for Urban Scene Reconstruction Under Varying Illumination</a></td>
-  <td>SkyLume：一个大规模城市航拍数据集，用于研究光照变化下的三维重建</td>
+  <td>提出SkyLume数据集以解决城市场景重建中的光照变化问题</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14200v1" onclick="toggleFavorite(this, '2512.14200v1', 'Beyond a Single Light: A Large-Scale Aerial Dataset for Urban Scene Reconstruction Under Varying Illumination')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>53</td>
   <td><a href="./papers/251214406v1-broadening-view-synthesis-of-dynamic-scenes-from-constrained-monocul.html">Broadening View Synthesis of Dynamic Scenes from Constrained Monocular Videos</a></td>
-  <td>ExpanDyNeRF：利用高斯先验和伪真值，扩展动态场景单目视频视角合成</td>
+  <td>ExpanDyNeRF：利用高斯先验和伪真值生成，扩展动态场景单目视频视角合成</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14406v1" onclick="toggleFavorite(this, '2512.14406v1', 'Broadening View Synthesis of Dynamic Scenes from Constrained Monocular Videos')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>54</td>
   <td><a href="./papers/251214126v1-consistent-instance-field-for-dynamic-scene-understanding.html">Consistent Instance Field for Dynamic Scene Understanding</a></td>
-  <td>提出一致性实例场，用于动态场景理解中的时空连续建模。</td>
+  <td>提出一致性实例场，用于动态场景理解中的时空连续概率建模。</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14126v1" onclick="toggleFavorite(this, '2512.14126v1', 'Consistent Instance Field for Dynamic Scene Understanding')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>55</td>
   <td><a href="./papers/251214020v1-deep-learning-perspective-of-scene-understanding-in-autonomous-robot.html">Deep Learning Perspective of Scene Understanding in Autonomous Robots</a></td>
-  <td>综述深度学习在自主机器人场景理解中的应用，提升机器人感知与决策能力</td>
+  <td>综述深度学习在自主机器人场景理解中的应用，提升决策、导航与交互能力</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14020v1" onclick="toggleFavorite(this, '2512.14020v1', 'Deep Learning Perspective of Scene Understanding in Autonomous Robots')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>56</td>
   <td><a href="./papers/251214180v1-spherical-voronoi-directional-appearance-as-a-differentiable-partiti.html">Spherical Voronoi: Directional Appearance as a Differentiable Partition of the Sphere</a></td>
-  <td>提出基于球形Voronoi图的可微方向外观建模方法，提升3D高斯溅射渲染效果</td>
+  <td>提出球Voronoi图，用于3D高斯溅射中可微的方向外观建模</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14180v1" onclick="toggleFavorite(this, '2512.14180v1', 'Spherical Voronoi: Directional Appearance as a Differentiable Partition of the Sphere')" title="添加到收藏夹">☆</button></td>
 </tr>
@@ -498,14 +498,14 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-16
 <tr>
   <td>61</td>
   <td><a href="./papers/251214320v1-semantic-mismatch-and-perceptual-degradation-a-new-perspective-on-im.html">Semantic Mismatch and Perceptual Degradation: A New Perspective on Image Editing Immunity</a></td>
-  <td>提出协同中间特征操纵（SIFM）方法，提升图像针对恶意扩散模型编辑的免疫力。</td>
+  <td>提出SIFM方法以解决图像编辑免疫性问题</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14320v1" onclick="toggleFavorite(this, '2512.14320v1', 'Semantic Mismatch and Perceptual Degradation: A New Perspective on Image Editing Immunity')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>62</td>
   <td><a href="./papers/251214217v1-draw2act-turning-depth-encoded-trajectories-into-robotic-demonstrati.html">DRAW2ACT: Turning Depth-Encoded Trajectories into Robotic Demonstration Videos</a></td>
-  <td>DRAW2ACT：提出深度感知的轨迹条件视频生成框架，用于机器人操作演示视频生成。</td>
+  <td>DRAW2ACT：提出深度感知的轨迹条件视频生成框架，用于机器人操作演示。</td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.14217v1" onclick="toggleFavorite(this, '2512.14217v1', 'DRAW2ACT: Turning Depth-Encoded Trajectories into Robotic Demonstration Videos')" title="添加到收藏夹">☆</button></td>
 </tr>
