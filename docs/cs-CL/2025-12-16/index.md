@@ -5,52 +5,76 @@ title: arXiv 中文要点汇总（with DeepSeek） - cs.CL - 2025-12-16
 
 # cs.CL（2025-12-16）
 
-📊 共 **15** 篇论文
- | 🔗 **1** 篇有代码
+📊 共 **18** 篇论文
+ | 🔗 **3** 篇有代码
 
 
 ## 🎯 兴趣领域导航
 
 <div class="interest-nav">
-<a href="#视觉里程计" class="interest-badge">视觉里程计 (7)</a>
-<a href="#强化学习" class="interest-badge">强化学习 (7)</a>
-<a href="#人形机器人" class="interest-badge">人形机器人 (1 🔗1)</a>
+<a href="#强化学习与模仿学习-rl-il" class="interest-badge">强化学习与模仿学习 (RL & IL) (8 🔗1)</a>
+<a href="#人形双足机器人-humanoid-biped" class="interest-badge">人形/双足机器人 (Humanoid & Biped) (3 🔗1)</a>
+<a href="#3d感知与状态估计-perception-state-est" class="interest-badge">3D感知与状态估计 (Perception & State Est) (3)</a>
+<a href="#具身智能与表征学习-embodied-ai-representation" class="interest-badge">具身智能与表征学习 (Embodied AI & Representation) (2)</a>
+<a href="#动作生成与物理动画-animation-physics" class="interest-badge">动作生成与物理动画 (Animation & Physics) (1 🔗1)</a>
+<a href="#世界模型与预测-world-models" class="interest-badge">世界模型与预测 (World Models) (1)</a>
 </div>
 
 ---
 
 
-<h2 id="视觉里程计">🔬 视觉里程计 (7 篇)</h2>
+<h2 id="强化学习与模仿学习-rl-il">🔬 强化学习与模仿学习 (RL & IL) (8 篇)</h2>
 
 | # | 题目 | 一句话要点 | 🔗 |
 |---:|---|---|:---:|
-| 1 | [MMGR: Multi-Modal Generative Reasoning](./papers/251214691v1-mmgr-multi-modal-generative-reasoning.html) | 提出MMGR多模态生成推理评估框架，以解决视频基础模型在物理、逻辑和空间约束上的推理能力不足问题。 |  |
-| 2 | [C-ing Clearly: Enhanced Binary Code Explanations using C code](./papers/251214500v1-c-ing-clearly-enhanced-binary-code-explanations-using-c-code.html) | 提出C-ing Clearly方法，利用C代码增强大语言模型对汇编的理解，以解决二进制代码分析任务性能不足的问题。 |  |
-| 3 | [Polypersona: Persona-Grounded LLM for Synthetic Survey Responses](./papers/251214562v1-polypersona-persona-grounded-llm-for-synthetic-survey-responses.html) | 提出PolyPersona框架，通过角色条件化微调小型语言模型，高效生成多领域合成调查数据。 |  |
-| 4 | [Effect of Document Packing on the Latent Multi-Hop Reasoning Capabilities of Large Language Models](./papers/251214427v1-effect-of-document-packing-on-the-latent-multi-hop-reasoning-capabil.html) | 研究文档打包策略对大型语言模型潜在多跳推理能力的影响，以优化训练效率与性能 |  |
-| 5 | [Step-Tagging: Toward controlling the generation of Language Reasoning Models through step monitoring](./papers/251214332v1-step-tagging-toward-controlling-the-generation-of-language-reasoning.html) | 提出Step-Tagging框架，通过实时监控推理步骤类型来控制语言推理模型的生成过程 |  |
-| 6 | [JMMMU-Pro: Image-based Japanese Multi-discipline Multimodal Understanding Benchmark via Vibe Benchmark Construction](./papers/251214620v1-jmmmu-pro-image-based-japanese-multi-discipline-multimodal-understan.html) | 提出JMMMU-Pro基准和Vibe Benchmark Construction方法，以低成本构建高质量日语多学科多模态理解评估工具 |  |
-| 7 | [Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed](./papers/251214067v1-efficient-dlm-from-autoregressive-to-diffusion-language-models-and-b.html) | 提出Efficient-DLM框架，通过改进AR-to-dLM转换方法，实现高效扩散语言模型，在保持任务准确性的同时提升生成速度。 |  |
+| 1 | [Polypersona: Persona-Grounded LLM for Synthetic Survey Responses](./papers/251214562v1-polypersona-persona-grounded-llm-for-synthetic-survey-responses.html) | PolyPersona：提出一种基于角色的大语言模型框架，用于合成调查问卷回复。 |  |
+| 2 | [VLegal-Bench: Cognitively Grounded Benchmark for Vietnamese Legal Reasoning of Large Language Models](./papers/251214554v1-vlegal-bench-cognitively-grounded-benchmark-for-vietnamese-legal-rea.html) | 提出VLegal-Bench，用于评估LLM在越南法律推理任务中的能力。 |  |
+| 3 | [RecGPT-V2 Technical Report](./papers/251214503v1-recgpt-v2-technical-report.html) | RecGPT-V2：通过层级多智能体系统和元提示等技术，提升LLM在推荐系统中的意图推理能力 |  |
+| 4 | [What Affects the Effective Depth of Large Language Models?](./papers/251214064v1-what-affects-the-effective-depth-of-large-language-models.html) | 研究揭示大语言模型有效深度受限，为模型优化提供新方向 | ✅ |
+| 5 | [TiME: Tiny Monolingual Encoders for Efficient NLP Pipelines](./papers/251214645v1-time-tiny-monolingual-encoders-for-efficient-nlp-pipelines.html) | TiME：用于高效NLP流水线的微型单语编码器 |  |
+| 6 | [C-ing Clearly: Enhanced Binary Code Explanations using C code](./papers/251214500v1-c-ing-clearly-enhanced-binary-code-explanations-using-c-code.html) | C-ing Clearly：利用C代码增强LLM对二进制代码的理解，提升代码解释能力 |  |
+| 7 | [SASQ: Static Activation Scaling for Quantization-Aware Training in Large Language Models](./papers/251214481v1-sasq-static-activation-scaling-for-quantization-aware-training-in-la.html) | SASQ：一种轻量级的静态激活量化训练框架，用于提升大语言模型量化精度。 |  |
+| 8 | [CogMem: A Cognitive Memory Architecture for Sustained Multi-Turn Reasoning in Large Language Models](./papers/251214118v1-cogmem-a-cognitive-memory-architecture-for-sustained-multi-turn-reas.html) | CogMem：一种认知记忆架构，用于大型语言模型中持续的多轮推理 |  |
 
 
-<h2 id="强化学习">🔬 强化学习 (7 篇)</h2>
-
-| # | 题目 | 一句话要点 | 🔗 |
-|---:|---|---|:---:|
-| 8 | [VLegal-Bench: Cognitively Grounded Benchmark for Vietnamese Legal Reasoning of Large Language Models](./papers/251214554v1-vlegal-bench-cognitively-grounded-benchmark-for-vietnamese-legal-rea.html) | 提出VLegal-Bench基准以解决大语言模型在越南法律推理评估中的标准化与认知深度不足问题 |  |
-| 9 | [TiME: Tiny Monolingual Encoders for Efficient NLP Pipelines](./papers/251214645v1-time-tiny-monolingual-encoders-for-efficient-nlp-pipelines.html) | 提出TiME小规模单语编码器，通过蒸馏训练实现高效NLP流水线，解决大模型在实时处理与能效方面的不足。 |  |
-| 10 | [Dual Language Models: Balancing Training Efficiency and Overfitting Resilience](./papers/251214549v1-dual-language-models-balancing-training-efficiency-and-overfitting-r.html) | 提出双目标训练方法以平衡语言模型的训练效率与过拟合鲁棒性 |  |
-| 11 | [SASQ: Static Activation Scaling for Quantization-Aware Training in Large Language Models](./papers/251214481v1-sasq-static-activation-scaling-for-quantization-aware-training-in-la.html) | 提出SASQ框架以解决大语言模型量化训练中激活量化因子的优化问题，实现高效静态推理。 |  |
-| 12 | [From Context to EDUs: Faithful and Structured Context Compression via Elementary Discourse Unit Decomposition](./papers/251214244v1-from-context-to-edus-faithful-and-structured-context-compression-via.html) | 提出基于基本话语单元的上下文压缩框架，通过结构化分解与选择解决长文本处理中的计算成本与噪声问题。 |  |
-| 13 | [Ladder Up, Memory Down: Low-Cost Fine-Tuning With Side Nets](./papers/251214237v1-ladder-up-memory-down-low-cost-fine-tuning-with-side-nets.html) | 提出Ladder Side Tuning方法，通过轻量级侧网络解决大语言模型微调中的内存瓶颈问题。 |  |
-| 14 | [Scalable Frameworks for Real-World Audio-Visual Speech Recognition](./papers/251214083v1-scalable-frameworks-for-real-world-audio-visual-speech-recognition.html) | 提出分层可扩展框架以解决真实世界音频-视觉语音识别中的鲁棒性问题 |  |
-
-
-<h2 id="人形机器人">🔬 人形机器人 (1 篇)</h2>
+<h2 id="人形双足机器人-humanoid-biped">🔬 人形/双足机器人 (Humanoid & Biped) (3 篇)</h2>
 
 | # | 题目 | 一句话要点 | 🔗 |
 |---:|---|---|:---:|
-| 15 | [Low-Resource, High-Impact: Building Corpora for Inclusive Language Technologies](./papers/251214576v1-low-resource-high-impact-building-corpora-for-inclusive-language-tec.html) | 提出低资源语言NLP教程，通过端到端流程解决数据稀缺与文化差异问题，促进包容性语言技术发展。 | ✅ |
+| 9 | [Multilingual and Continuous Backchannel Prediction: A Cross-lingual Study](./papers/251214085v1-multilingual-and-continuous-backchannel-prediction-a-cross-lingual-s.html) | 提出一种多语种连续性Backchannel预测模型，用于跨语言时序行为研究。 |  |
+| 10 | [Low-Resource, High-Impact: Building Corpora for Inclusive Language Technologies](./papers/251214576v1-low-resource-high-impact-building-corpora-for-inclusive-language-tec.html) | 为多语种和低资源语言构建包容性语言技术的语料库。 | ✅ |
+| 11 | [Two CFG Nahuatl for automatic corpora expansion](./papers/251214239v1-two-cfg-nahuatl-for-automatic-corpora-expansion.html) | 提出两种CFG纳瓦特尔语语法用于自动语料库扩展，提升小语种LLM性能 |  |
+
+
+<h2 id="3d感知与状态估计-perception-state-est">🔬 3D感知与状态估计 (Perception & State Est) (3 篇)</h2>
+
+| # | 题目 | 一句话要点 | 🔗 |
+|---:|---|---|:---:|
+| 12 | [Step-Tagging: Toward controlling the generation of Language Reasoning Models through step monitoring](./papers/251214332v1-step-tagging-toward-controlling-the-generation-of-language-reasoning.html) | 提出Step-Tagging框架，通过步骤监控控制语言推理模型生成过程 |  |
+| 13 | [Inflation Attitudes of Large Language Models](./papers/251214306v1-inflation-attitudes-of-large-language-models.html) | 利用大型语言模型模拟通胀预期，分析其对宏观经济信号的反应 |  |
+| 14 | [Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed](./papers/251214067v1-efficient-dlm-from-autoregressive-to-diffusion-language-models-and-b.html) | 提出Efficient-DLM，通过AR到dLM转换，提升Diffusion语言模型的训练效率和推理速度。 |  |
+
+
+<h2 id="具身智能与表征学习-embodied-ai-representation">🔬 具身智能与表征学习 (Embodied AI & Representation) (2 篇)</h2>
+
+| # | 题目 | 一句话要点 | 🔗 |
+|---:|---|---|:---:|
+| 15 | [MMGR: Multi-Modal Generative Reasoning](./papers/251214691v1-mmgr-multi-modal-generative-reasoning.html) | 提出MMGR多模态生成推理评估基准，诊断视频生成模型在物理、逻辑和空间推理上的缺陷。 |  |
+| 16 | [Scalable Frameworks for Real-World Audio-Visual Speech Recognition](./papers/251214083v1-scalable-frameworks-for-real-world-audio-visual-speech-recognition.html) | 提出可扩展框架，提升真实场景下音视频语音识别的鲁棒性。 |  |
+
+
+<h2 id="动作生成与物理动画-animation-physics">🔬 动作生成与物理动画 (Animation & Physics) (1 篇)</h2>
+
+| # | 题目 | 一句话要点 | 🔗 |
+|---:|---|---|:---:|
+| 17 | [Spoken DialogSum: An Emotion-Rich Conversational Dataset for Spoken Dialogue Summarization](./papers/251214687v1-spoken-dialogsum-an-emotion-rich-conversational-dataset-for-spoken-d.html) | 提出Spoken DialogSum，一个富含情感的口语对话摘要数据集，促进情感感知口语对话摘要研究。 | ✅ |
+
+
+<h2 id="世界模型与预测-world-models">🔬 世界模型与预测 (World Models) (1 篇)</h2>
+
+| # | 题目 | 一句话要点 | 🔗 |
+|---:|---|---|:---:|
+| 18 | [Astraea: A State-Aware Scheduling Engine for LLM-Powered Agents](./papers/251214142v1-astraea-a-state-aware-scheduling-engine-for-llm-powered-agents.html) | Astraea：面向LLM驱动Agent的状态感知调度引擎，优化端到端延迟 |  |
 
 
 [⬅️ 返回 cs.CL 首页](../index.html) · [🏠 返回主页](../../index.html)

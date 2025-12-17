@@ -12,7 +12,7 @@ arXiv 论文日报抓取工具
 """
 
 from utils.scrapy import load_tags, get_today_arxiv, filter_by_interests
-from utils.analyser import get_client, update_ai_summary_async, get_model
+from utils.analyser import update_ai_summary_async
 
 import argparse
 import asyncio
@@ -87,16 +87,12 @@ def main():
         print("[WARN] 没有匹配兴趣的论文，跳过AI分析")
         return
     
-    # AI 分析
+    # AI 分析（自动选择 API，支持故障转移）
     print(f"\n🤖 正在进行 AI 分析...")
-    client = get_client()
-    model = get_model()
-    print(f"[INFO] 使用模型: {model}")
     print(f"[INFO] 并发数: {args.concurrency}, 温度: {args.temperature}")
     
     results = asyncio.run(update_ai_summary_async(
-        client, 
-        metas, 
+        metas=metas, 
         concurrency=args.concurrency, 
         temperature=args.temperature
     ))
