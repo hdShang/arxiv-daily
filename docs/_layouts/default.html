@@ -129,6 +129,18 @@
     </div>
   </div>
 
+  <!-- 图片放大 Lightbox -->
+  <div id="lightbox" class="lightbox-overlay" onclick="if(event.target===this)closeLightbox()">
+    <button class="lightbox-close" onclick="closeLightbox()">✕</button>
+    <button class="lightbox-nav lightbox-prev" onclick="prevImage(event)">‹</button>
+    <button class="lightbox-nav lightbox-next" onclick="nextImage(event)">›</button>
+    <div class="lightbox-content" onclick="event.stopPropagation()">
+      <img id="lightbox-img" class="lightbox-img" src="" alt="">
+      <div id="lightbox-caption" class="lightbox-caption" style="display:none"></div>
+    </div>
+    <div id="lightbox-counter" class="lightbox-counter"></div>
+  </div>
+
   <script>
     // 收藏夹颜色选项
     var FOLDER_COLORS = ['#2563eb', '#10b981', '#f59e0b', '#ef4444', '#8b5cf6', '#ec4899', '#14b8a6', '#f97316'];
@@ -622,6 +634,79 @@
       sections.forEach(function (s) { s.classList.add('collapsed'); });
     }
 
+    // ===== 图片放大 Lightbox =====
+    var lightboxImages = [];
+    var lightboxIndex = 0;
+
+    function openLightbox(img) {
+      var figures = document.querySelectorAll('.paper-figure img');
+      lightboxImages = Array.from(figures);
+      lightboxIndex = lightboxImages.indexOf(img);
+      if (lightboxIndex < 0) lightboxIndex = 0;
+      showLightboxImage();
+      document.getElementById('lightbox').classList.add('show');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeLightbox() {
+      document.getElementById('lightbox').classList.remove('show');
+      document.body.style.overflow = '';
+    }
+
+    function showLightboxImage() {
+      if (lightboxImages.length === 0) return;
+      var img = lightboxImages[lightboxIndex];
+      var lightboxImg = document.getElementById('lightbox-img');
+      var caption = document.getElementById('lightbox-caption');
+      var counter = document.getElementById('lightbox-counter');
+      
+      lightboxImg.src = img.src;
+      lightboxImg.alt = img.alt;
+      
+      // 查找 figcaption
+      var figcaption = img.closest('.paper-figure').querySelector('figcaption');
+      if (figcaption && figcaption.textContent.trim()) {
+        caption.textContent = figcaption.textContent;
+        caption.style.display = 'block';
+      } else {
+        caption.style.display = 'none';
+      }
+      
+      // 显示计数
+      if (lightboxImages.length > 1) {
+        counter.textContent = (lightboxIndex + 1) + ' / ' + lightboxImages.length;
+        counter.style.display = 'block';
+        document.querySelector('.lightbox-prev').style.display = 'flex';
+        document.querySelector('.lightbox-next').style.display = 'flex';
+      } else {
+        counter.style.display = 'none';
+        document.querySelector('.lightbox-prev').style.display = 'none';
+        document.querySelector('.lightbox-next').style.display = 'none';
+      }
+    }
+
+    function prevImage(e) {
+      e.stopPropagation();
+      if (lightboxImages.length <= 1) return;
+      lightboxIndex = (lightboxIndex - 1 + lightboxImages.length) % lightboxImages.length;
+      showLightboxImage();
+    }
+
+    function nextImage(e) {
+      e.stopPropagation();
+      if (lightboxImages.length <= 1) return;
+      lightboxIndex = (lightboxIndex + 1) % lightboxImages.length;
+      showLightboxImage();
+    }
+
+    // 键盘导航
+    document.addEventListener('keydown', function(e) {
+      if (!document.getElementById('lightbox').classList.contains('show')) return;
+      if (e.key === 'Escape') closeLightbox();
+      if (e.key === 'ArrowLeft') prevImage(e);
+      if (e.key === 'ArrowRight') nextImage(e);
+    });
+
     // 页面加载完成后初始化
     document.addEventListener('DOMContentLoaded', function () {
       updateFavoriteCount();
@@ -640,6 +725,14 @@
           link.setAttribute('target', '_blank');
           link.setAttribute('rel', 'noopener noreferrer');
         }
+      });
+
+      // 为论文图片添加点击放大功能
+      var figureImages = document.querySelectorAll('.paper-figure img');
+      figureImages.forEach(function(img) {
+        img.addEventListener('click', function() {
+          openLightbox(this);
+        });
       });
     });
   </script>
