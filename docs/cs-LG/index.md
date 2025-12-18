@@ -11,7 +11,8 @@ title: arXiv 中文要点汇总 - cs.LG
 <div class="date-switcher">
   <label for="date-select"><strong>快速跳转：</strong></label>
   <select id="date-select" onchange="location.href=this.value;">
-    <option value="2025-12-16/index.html" selected>2025-12-16</option>
+    <option value="2025-12-17/index.html" selected>2025-12-17</option>
+<option value="2025-12-16/index.html" >2025-12-16</option>
 <option value="2025-12-15/index.html" >2025-12-15</option>
 <option value="2025-12-13/index.html" >2025-12-13</option>
 <option value="2025-12-12/index.html" >2025-12-12</option>
@@ -60,7 +61,7 @@ title: arXiv 中文要点汇总 - cs.LG
 <option value="2025-10-03/index.html" >2025-10-03</option>
 <option value="2025-10-02/index.html" >2025-10-02</option>
   </select>
-  <a class="btn" href="2025-12-16/index.html">前往最新（2025-12-16）</a>
+  <a class="btn" href="2025-12-17/index.html">前往最新（2025-12-17）</a>
 </div>
 
 
@@ -92,7 +93,7 @@ title: arXiv 中文要点汇总 - cs.LG
 <div class="cal-day">14</div>
 <a href="2025-12-15/index.html" class="cal-day has-data">15</a>
 <a href="2025-12-16/index.html" class="cal-day has-data">16</a>
-<div class="cal-day">17</div>
+<a href="2025-12-17/index.html" class="cal-day has-data">17</a>
 <div class="cal-day">18</div>
 <div class="cal-day">19</div>
 <div class="cal-day">20</div>
