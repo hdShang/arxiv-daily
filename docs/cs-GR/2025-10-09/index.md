@@ -32,7 +32,7 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-10-09
   <td>提出X2Video以解决多模态视频渲染控制问题</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">multimodal</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.08530v1" onclick="toggleFavorite(this, '2510.08530v1', 'X2Video: Adapting Diffusion Models for Multimodal Controllable Neural Video Rendering')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.08530v1" data-paper-url="./papers/251008530v1-x2video-adapting-diffusion-models-for-multimodal-controllable-neural.html" onclick="toggleFavorite(this, '2510.08530v1', 'X2Video: Adapting Diffusion Models for Multimodal Controllable Neural Video Rendering')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -40,7 +40,7 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-10-09
   <td>提出可微变量字体框架，实现字体设计的自动化与优化。</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">affordance</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.07638v1" onclick="toggleFavorite(this, '2510.07638v1', 'Differentiable Variable Fonts')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.07638v1" data-paper-url="./papers/251007638v1-differentiable-variable-fonts.html" onclick="toggleFavorite(this, '2510.07638v1', 'Differentiable Variable Fonts')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -59,7 +59,7 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-10-09
   <td>提出可splatting的神经基元，兼顾神经辐射场的表达能力和splatting的渲染效率。</td>
   <td class="tags-cell"><span class="paper-tag">3D gaussian splatting</span> <span class="paper-tag">gaussian splatting</span> <span class="paper-tag">splatting</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.08491v1" onclick="toggleFavorite(this, '2510.08491v1', 'Splat the Net: Radiance Fields with Splattable Neural Primitives')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.08491v1" data-paper-url="./papers/251008491v1-splat-the-net-radiance-fields-with-splattable-neural-primitives.html" onclick="toggleFavorite(this, '2510.08491v1', 'Splat the Net: Radiance Fields with Splattable Neural Primitives')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

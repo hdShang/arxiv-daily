@@ -8,7 +8,7 @@ title: X2Video: Adapting Diffusion Models for Multimodal Controllable Neural Vid
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.08530" class="toolbar-btn" target="_blank">📄 arXiv: 2510.08530v1</a>
   <a href="https://arxiv.org/pdf/2510.08530.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.08530v1" onclick="toggleFavorite(this, '2510.08530v1', 'X2Video: Adapting Diffusion Models for Multimodal Controllable Neural Video Rendering')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.08530v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.08530v1', 'X2Video: Adapting Diffusion Models for Multimodal Controllable Neural Video Rendering')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

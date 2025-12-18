@@ -31,7 +31,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-11-05
   <td>提出周期性技能发现（PSD）框架，用于无监督地学习机器人周期性运动技能。</td>
   <td class="tags-cell"><span class="paper-tag">locomotion</span> <span class="paper-tag">reinforcement learning</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.03187v3" onclick="toggleFavorite(this, '2511.03187v3', 'Periodic Skill Discovery')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.03187v3" data-paper-url="./papers/251103187v3-periodic-skill-discovery.html" onclick="toggleFavorite(this, '2511.03187v3', 'Periodic Skill Discovery')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

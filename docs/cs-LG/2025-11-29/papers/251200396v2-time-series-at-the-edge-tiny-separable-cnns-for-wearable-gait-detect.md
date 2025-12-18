@@ -8,7 +8,7 @@ title: Time-Series at the Edge: Tiny Separable CNNs for Wearable Gait Detection 
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2512.00396" class="toolbar-btn" target="_blank">📄 arXiv: 2512.00396v2</a>
   <a href="https://arxiv.org/pdf/2512.00396.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.00396v2" onclick="toggleFavorite(this, '2512.00396v2', 'Time-Series at the Edge: Tiny Separable CNNs for Wearable Gait Detection and Optimal Sensor Placement')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.00396v2" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2512.00396v2', 'Time-Series at the Edge: Tiny Separable CNNs for Wearable Gait Detection and Optimal Sensor Placement')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

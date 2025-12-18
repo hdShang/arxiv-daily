@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - eess.SY - 2025-10-30
   <td>提出高效椭球避障约束，用于路径跟踪MPC和无人机控制</td>
   <td class="tags-cell"><span class="paper-tag">MPC</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.26531v1" onclick="toggleFavorite(this, '2510.26531v1', 'Efficient Collision-Avoidance Constraints for Ellipsoidal Obstacles in Optimal Control: Application to Path-Following MPC and UAVs')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.26531v1" data-paper-url="./papers/251026531v1-efficient-collision-avoidance-constraints-for-ellipsoidal-obstacles-.html" onclick="toggleFavorite(this, '2510.26531v1', 'Efficient Collision-Avoidance Constraints for Ellipsoidal Obstacles in Optimal Control: Application to Path-Following MPC and UAVs')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

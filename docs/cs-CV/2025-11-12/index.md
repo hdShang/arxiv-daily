@@ -35,7 +35,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-12
   <td>DualVision ArthroNav：利用外部相机增强图像引导关节镜导航的定位与重建</td>
   <td class="tags-cell"><span class="paper-tag">visual odometry</span> <span class="paper-tag">SLAM</span> <span class="paper-tag">scene reconstruction</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.10699v1" onclick="toggleFavorite(this, '2511.10699v1', 'DualVision ArthroNav: Investigating Opportunities to Enhance Localization and Reconstruction in Image-based Arthroscopy Navigation via External Cameras')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.10699v1" data-paper-url="./papers/251110699v1-dualvision-arthronav-investigating-opportunities-to-enhance-localiza.html" onclick="toggleFavorite(this, '2511.10699v1', 'DualVision ArthroNav: Investigating Opportunities to Enhance Localization and Reconstruction in Image-based Arthroscopy Navigation via External Cameras')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -43,7 +43,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-12
   <td>提出PALMS+以解决室内定位精度不足问题</td>
   <td class="tags-cell"><span class="paper-tag">depth estimation</span> <span class="paper-tag">monocular depth</span> <span class="paper-tag">point cloud</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.09724v1" onclick="toggleFavorite(this, '2511.09724v1', 'PALMS+: Modular Image-Based Floor Plan Localization Leveraging Depth Foundation Model')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.09724v1" data-paper-url="./papers/251109724v1-palms-modular-image-based-floor-plan-localization-leveraging-depth-f.html" onclick="toggleFavorite(this, '2511.09724v1', 'PALMS+: Modular Image-Based Floor Plan Localization Leveraging Depth Foundation Model')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>3</td>
@@ -51,7 +51,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-12
   <td>OUGS：基于对象感知不确定性估计的3DGS主动视角选择</td>
   <td class="tags-cell"><span class="paper-tag">3D gaussian splatting</span> <span class="paper-tag">3DGS</span> <span class="paper-tag">gaussian splatting</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.09397v2" onclick="toggleFavorite(this, '2511.09397v2', 'OUGS: Active View Selection via Object-aware Uncertainty Estimation in 3DGS')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.09397v2" data-paper-url="./papers/251109397v2-ougs-active-view-selection-via-object-aware-uncertainty-estimation-i.html" onclick="toggleFavorite(this, '2511.09397v2', 'OUGS: Active View Selection via Object-aware Uncertainty Estimation in 3DGS')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>4</td>
@@ -59,7 +59,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-12
   <td>提出STORM，无需人工标注，实现单图像的物体分割、跟踪和重定位。</td>
   <td class="tags-cell"><span class="paper-tag">pose estimation</span> <span class="paper-tag">localization</span> <span class="paper-tag">feature matching</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.09771v2" onclick="toggleFavorite(this, '2511.09771v2', 'STORM: Segment, Track, and Object Re-Localization from a Single Image')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.09771v2" data-paper-url="./papers/251109771v2-storm-segment-track-and-object-re-localization-from-a-single-image.html" onclick="toggleFavorite(this, '2511.09771v2', 'STORM: Segment, Track, and Object Re-Localization from a Single Image')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>5</td>
@@ -67,7 +67,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-12
   <td>DreamPose3D：结合提示学习的幻觉扩散模型用于3D人体姿态估计</td>
   <td class="tags-cell"><span class="paper-tag">pose estimation</span> <span class="paper-tag">3D pose estimation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.09502v1" onclick="toggleFavorite(this, '2511.09502v1', 'DreamPose3D: Hallucinative Diffusion with Prompt Learning for 3D Human Pose Estimation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.09502v1" data-paper-url="./papers/251109502v1-dreampose3d-hallucinative-diffusion-with-prompt-learning-for-3d-huma.html" onclick="toggleFavorite(this, '2511.09502v1', 'DreamPose3D: Hallucinative Diffusion with Prompt Learning for 3D Human Pose Estimation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>6</td>
@@ -75,7 +75,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-12
   <td>BronchOpt：基于视觉和微调基础模型的支气管镜导航位姿优化</td>
   <td class="tags-cell"><span class="paper-tag">localization</span> <span class="paper-tag">navigation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.09443v1" onclick="toggleFavorite(this, '2511.09443v1', 'BronchOpt : Vision-Based Pose Optimization with Fine-Tuned Foundation Models for Accurate Bronchoscopy Navigation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.09443v1" data-paper-url="./papers/251109443v1-bronchopt-vision-based-pose-optimization-with-fine-tuned-foundation-.html" onclick="toggleFavorite(this, '2511.09443v1', 'BronchOpt : Vision-Based Pose Optimization with Fine-Tuned Foundation Models for Accurate Bronchoscopy Navigation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>7</td>
@@ -83,7 +83,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-12
   <td>提出ST-CLIP模型，利用时空信息增强视觉-语言模型，用于交通场景理解。</td>
   <td class="tags-cell"><span class="paper-tag">scene understanding</span> <span class="paper-tag">navigation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.08978v1" onclick="toggleFavorite(this, '2511.08978v1', 'Spatio-Temporal Data Enhanced Vision-Language Model for Traffic Scene Understanding')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.08978v1" data-paper-url="./papers/251108978v1-spatio-temporal-data-enhanced-vision-language-model-for-traffic-scen.html" onclick="toggleFavorite(this, '2511.08978v1', 'Spatio-Temporal Data Enhanced Vision-Language Model for Traffic Scene Understanding')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>8</td>
@@ -91,7 +91,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-12
   <td>提出EPSegFZ，利用语言引导实现高效的点云少样本/零样本语义分割</td>
   <td class="tags-cell"><span class="paper-tag">point cloud</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.11700v1" onclick="toggleFavorite(this, '2511.11700v1', 'EPSegFZ: Efficient Point Cloud Semantic Segmentation for Few- and Zero-Shot Scenarios with Language Guidance')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.11700v1" data-paper-url="./papers/251111700v1-epsegfz-efficient-point-cloud-semantic-segmentation-for-few-and-zero.html" onclick="toggleFavorite(this, '2511.11700v1', 'EPSegFZ: Efficient Point Cloud Semantic Segmentation for Few- and Zero-Shot Scenarios with Language Guidance')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>9</td>
@@ -99,7 +99,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-12
   <td>提出OG-PCL网络，用于高效处理稀疏雷达点云的人体活动识别</td>
   <td class="tags-cell"><span class="paper-tag">point cloud</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.08910v1" onclick="toggleFavorite(this, '2511.08910v1', 'OG-PCL: Efficient Sparse Point Cloud Processing for Human Activity Recognition')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.08910v1" data-paper-url="./papers/251108910v1-og-pcl-efficient-sparse-point-cloud-processing-for-human-activity-re.html" onclick="toggleFavorite(this, '2511.08910v1', 'OG-PCL: Efficient Sparse Point Cloud Processing for Human Activity Recognition')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>10</td>
@@ -107,7 +107,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-12
   <td>提出TASA框架，融合2D引导与几何优化，实现任务感知的3D可交互区域分割</td>
   <td class="tags-cell"><span class="paper-tag">affordance detection</span> <span class="paper-tag">point cloud</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.11702v1" onclick="toggleFavorite(this, '2511.11702v1', 'Task-Aware 3D Affordance Segmentation via 2D Guidance and Geometric Refinement')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.11702v1" data-paper-url="./papers/251111702v1-task-aware-3d-affordance-segmentation-via-2d-guidance-and-geometric-.html" onclick="toggleFavorite(this, '2511.11702v1', 'Task-Aware 3D Affordance Segmentation via 2D Guidance and Geometric Refinement')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>11</td>
@@ -115,7 +115,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-12
   <td>RadHARSimulator V2：提出一种视频到多普勒谱的雷达人体活动识别模拟器。</td>
   <td class="tags-cell"><span class="paper-tag">pose estimation</span> <span class="paper-tag">PULSE</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.09022v1" onclick="toggleFavorite(this, '2511.09022v1', 'RadHARSimulator V2: Video to Doppler Generator')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.09022v1" data-paper-url="./papers/251109022v1-radharsimulator-v2-video-to-doppler-generator.html" onclick="toggleFavorite(this, '2511.09022v1', 'RadHARSimulator V2: Video to Doppler Generator')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>12</td>
@@ -123,7 +123,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-12
   <td>HOTFLoc++：森林环境下端到端分层LiDAR定位与重排序</td>
   <td class="tags-cell"><span class="paper-tag">point cloud</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.09170v1" onclick="toggleFavorite(this, '2511.09170v1', 'HOTFLoc++: End-to-End Hierarchical LiDAR Place Recognition, Re-Ranking, and 6-DoF Metric Localisation in Forests')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.09170v1" data-paper-url="./papers/251109170v1-hotfloc-end-to-end-hierarchical-lidar-place-recognition-re-ranking-a.html" onclick="toggleFavorite(this, '2511.09170v1', 'HOTFLoc++: End-to-End Hierarchical LiDAR Place Recognition, Re-Ranking, and 6-DoF Metric Localisation in Forests')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>13</td>
@@ -131,7 +131,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-12
   <td>提出PIFF模型以解决实时洪水深度映射问题</td>
   <td class="tags-cell"><span class="paper-tag">depth estimation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.09130v1" onclick="toggleFavorite(this, '2511.09130v1', 'PIFF: A Physics-Informed Generative Flow Model for Real-Time Flood Depth Mapping')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.09130v1" data-paper-url="./papers/251109130v1-piff-a-physics-informed-generative-flow-model-for-real-time-flood-de.html" onclick="toggleFavorite(this, '2511.09130v1', 'PIFF: A Physics-Informed Generative Flow Model for Real-Time Flood Depth Mapping')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>14</td>
@@ -139,7 +139,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-12
   <td>提出BRHVC，通过双向参考帧协调优化神经B帧视频压缩性能</td>
   <td class="tags-cell"><span class="paper-tag">optical flow</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.08938v1" onclick="toggleFavorite(this, '2511.08938v1', 'Neural B-frame Video Compression with Bi-directional Reference Harmonization')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.08938v1" data-paper-url="./papers/251108938v1-neural-b-frame-video-compression-with-bi-directional-reference-harmo.html" onclick="toggleFavorite(this, '2511.08938v1', 'Neural B-frame Video Compression with Bi-directional Reference Harmonization')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -158,7 +158,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-12
   <td>SasMamba：轻量级结构感知步幅状态空间模型，用于3D人体姿态估计</td>
   <td class="tags-cell"><span class="paper-tag">Mamba</span> <span class="paper-tag">SSM</span> <span class="paper-tag">state space model</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.08872v1" onclick="toggleFavorite(this, '2511.08872v1', 'SasMamba: A Lightweight Structure-Aware Stride State Space Model for 3D Human Pose Estimation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.08872v1" data-paper-url="./papers/251108872v1-sasmamba-a-lightweight-structure-aware-stride-state-space-model-for-.html" onclick="toggleFavorite(this, '2511.08872v1', 'SasMamba: A Lightweight Structure-Aware Stride State Space Model for 3D Human Pose Estimation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>16</td>
@@ -166,7 +166,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-12
   <td>PAN：通用、可交互、长时程世界模拟的世界模型</td>
   <td class="tags-cell"><span class="paper-tag">world model</span> <span class="paper-tag">latent dynamics</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.09057v3" onclick="toggleFavorite(this, '2511.09057v3', 'PAN: A World Model for General, Interactable, and Long-Horizon World Simulation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.09057v3" data-paper-url="./papers/251109057v3-pan-a-world-model-for-general-interactable-and-long-horizon-world-si.html" onclick="toggleFavorite(this, '2511.09057v3', 'PAN: A World Model for General, Interactable, and Long-Horizon World Simulation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>17</td>
@@ -174,7 +174,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-12
   <td>提出Flora，通过邻域感知语义和开放式流解决鲁棒的零样本骨骼动作识别问题</td>
   <td class="tags-cell"><span class="paper-tag">flow matching</span> <span class="paper-tag">geometric consistency</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.09388v1" onclick="toggleFavorite(this, '2511.09388v1', 'Learning by Neighbor-Aware Semantics, Deciding by Open-form Flows: Towards Robust Zero-Shot Skeleton Action Recognition')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.09388v1" data-paper-url="./papers/251109388v1-learning-by-neighbor-aware-semantics-deciding-by-open-form-flows-tow.html" onclick="toggleFavorite(this, '2511.09388v1', 'Learning by Neighbor-Aware Semantics, Deciding by Open-form Flows: Towards Robust Zero-Shot Skeleton Action Recognition')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>18</td>
@@ -182,7 +182,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-12
   <td>提出4KDehazeFlow，通过Flow Matching实现超高清图像去雾，提升色彩保真度。</td>
   <td class="tags-cell"><span class="paper-tag">flow matching</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.09055v1" onclick="toggleFavorite(this, '2511.09055v1', '4KDehazeFlow: Ultra-High-Definition Image Dehazing via Flow Matching')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.09055v1" data-paper-url="./papers/251109055v1-4kdehazeflow-ultra-high-definition-image-dehazing-via-flow-matching.html" onclick="toggleFavorite(this, '2511.09055v1', '4KDehazeFlow: Ultra-High-Definition Image Dehazing via Flow Matching')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -201,7 +201,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-12
   <td>分析MoCap老年人运动数据集，揭示现有数据集对老年人步态表征的不足</td>
   <td class="tags-cell"><span class="paper-tag">locomotion</span> <span class="paper-tag">gait</span> <span class="paper-tag">walking</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.11713v1" onclick="toggleFavorite(this, '2511.11713v1', 'Understanding the Representation of Older Adults in Motion Capture Locomotion Datasets')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.11713v1" data-paper-url="./papers/251111713v1-understanding-the-representation-of-older-adults-in-motion-capture-l.html" onclick="toggleFavorite(this, '2511.11713v1', 'Understanding the Representation of Older Adults in Motion Capture Locomotion Datasets')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>20</td>
@@ -209,7 +209,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-12
   <td>RF-DETR：面向实时目标检测Transformer的神经架构搜索</td>
   <td class="tags-cell"><span class="paper-tag">running</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.09554v1" onclick="toggleFavorite(this, '2511.09554v1', 'RF-DETR: Neural Architecture Search for Real-Time Detection Transformers')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.09554v1" data-paper-url="./papers/251109554v1-rf-detr-neural-architecture-search-for-real-time-detection-transform.html" onclick="toggleFavorite(this, '2511.09554v1', 'RF-DETR: Neural Architecture Search for Real-Time Detection Transformers')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -228,7 +228,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-12
   <td>PressTrack-HMR：提出基于压力感知的多人全局人体网格重建方法</td>
   <td class="tags-cell"><span class="paper-tag">multi-person interaction</span> <span class="paper-tag">human mesh recovery</span> <span class="paper-tag">HMR</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.09147v2" onclick="toggleFavorite(this, '2511.09147v2', 'PressTrack-HMR: Pressure-Based Top-Down Multi-Person Global Human Mesh Recovery')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.09147v2" data-paper-url="./papers/251109147v2-presstrack-hmr-pressure-based-top-down-multi-person-global-human-mes.html" onclick="toggleFavorite(this, '2511.09147v2', 'PressTrack-HMR: Pressure-Based Top-Down Multi-Person Global Human Mesh Recovery')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -247,7 +247,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-12
   <td>提出RichKD，通过跨模态CLIP知识融合提升知识蒸馏效果</td>
   <td class="tags-cell"><span class="paper-tag">feature matching</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.09286v1" onclick="toggleFavorite(this, '2511.09286v1', 'Enriching Knowledge Distillation with Cross-Modal Teacher Fusion')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.09286v1" data-paper-url="./papers/251109286v1-enriching-knowledge-distillation-with-cross-modal-teacher-fusion.html" onclick="toggleFavorite(this, '2511.09286v1', 'Enriching Knowledge Distillation with Cross-Modal Teacher Fusion')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

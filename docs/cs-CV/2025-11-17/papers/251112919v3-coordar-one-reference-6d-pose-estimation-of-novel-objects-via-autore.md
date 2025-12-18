@@ -8,7 +8,7 @@ title: CoordAR: One-Reference 6D Pose Estimation of Novel Objects via Autoregres
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.12919" class="toolbar-btn" target="_blank">📄 arXiv: 2511.12919v3</a>
   <a href="https://arxiv.org/pdf/2511.12919.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.12919v3" onclick="toggleFavorite(this, '2511.12919v3', 'CoordAR: One-Reference 6D Pose Estimation of Novel Objects via Autoregressive Coordinate Map Generation')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.12919v3" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.12919v3', 'CoordAR: One-Reference 6D Pose Estimation of Novel Objects via Autoregressive Coordinate Map Generation')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

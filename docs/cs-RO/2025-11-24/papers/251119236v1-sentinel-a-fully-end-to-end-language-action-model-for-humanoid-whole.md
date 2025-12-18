@@ -8,7 +8,7 @@ title: SENTINEL: A Fully End-to-End Language-Action Model for Humanoid Whole Bod
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.19236" class="toolbar-btn" target="_blank">📄 arXiv: 2511.19236v1</a>
   <a href="https://arxiv.org/pdf/2511.19236.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.19236v1" onclick="toggleFavorite(this, '2511.19236v1', 'SENTINEL: A Fully End-to-End Language-Action Model for Humanoid Whole Body Control')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.19236v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.19236v1', 'SENTINEL: A Fully End-to-End Language-Action Model for Humanoid Whole Body Control')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

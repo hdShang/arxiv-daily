@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-11-13
   <td>提出基于场景程序的时序数据查询方法，用于验证仿真环境中自动驾驶系统的失效场景。</td>
   <td class="tags-cell"><span class="paper-tag">sim-to-real</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.10627v1" onclick="toggleFavorite(this, '2511.10627v1', 'Querying Labeled Time Series Data with Scenario Programs')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.10627v1" data-paper-url="./papers/251110627v1-querying-labeled-time-series-data-with-scenario-programs.html" onclick="toggleFavorite(this, '2511.10627v1', 'Querying Labeled Time Series Data with Scenario Programs')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

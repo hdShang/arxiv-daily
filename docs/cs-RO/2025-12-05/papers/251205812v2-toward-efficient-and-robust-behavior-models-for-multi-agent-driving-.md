@@ -8,7 +8,7 @@ title: Toward Efficient and Robust Behavior Models for Multi-Agent Driving Simul
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2512.05812" class="toolbar-btn" target="_blank">📄 arXiv: 2512.05812v2</a>
   <a href="https://arxiv.org/pdf/2512.05812.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.05812v2" onclick="toggleFavorite(this, '2512.05812v2', 'Toward Efficient and Robust Behavior Models for Multi-Agent Driving Simulation')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.05812v2" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2512.05812v2', 'Toward Efficient and Robust Behavior Models for Multi-Agent Driving Simulation')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

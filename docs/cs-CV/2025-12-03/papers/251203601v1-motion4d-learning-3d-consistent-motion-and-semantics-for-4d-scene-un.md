@@ -8,7 +8,7 @@ title: Motion4D: Learning 3D-Consistent Motion and Semantics for 4D Scene Unders
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2512.03601" class="toolbar-btn" target="_blank">📄 arXiv: 2512.03601v1</a>
   <a href="https://arxiv.org/pdf/2512.03601.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.03601v1" onclick="toggleFavorite(this, '2512.03601v1', 'Motion4D: Learning 3D-Consistent Motion and Semantics for 4D Scene Understanding')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.03601v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2512.03601v1', 'Motion4D: Learning 3D-Consistent Motion and Semantics for 4D Scene Understanding')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

@@ -31,7 +31,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-11-20
   <td>提出FMPlug框架，提升Flow-Matching模型在逆问题中的性能</td>
   <td class="tags-cell"><span class="paper-tag">flow matching</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.16520v1" onclick="toggleFavorite(this, '2511.16520v1', 'Saving Foundation Flow-Matching Priors for Inverse Problems')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.16520v1" data-paper-url="./papers/251116520v1-saving-foundation-flow-matching-priors-for-inverse-problems.html" onclick="toggleFavorite(this, '2511.16520v1', 'Saving Foundation Flow-Matching Priors for Inverse Problems')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -50,7 +50,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-11-20
   <td>提出对象记忆管理机制以解决自主车辆路由中的循环问题</td>
   <td class="tags-cell"><span class="paper-tag">navigation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.17656v1" onclick="toggleFavorite(this, '2511.17656v1', 'Multi-Agent Coordination in Autonomous Vehicle Routing: A Simulation-Based Study of Communication, Memory, and Routing Loops')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.17656v1" data-paper-url="./papers/251117656v1-multi-agent-coordination-in-autonomous-vehicle-routing-a-simulation-.html" onclick="toggleFavorite(this, '2511.17656v1', 'Multi-Agent Coordination in Autonomous Vehicle Routing: A Simulation-Based Study of Communication, Memory, and Routing Loops')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

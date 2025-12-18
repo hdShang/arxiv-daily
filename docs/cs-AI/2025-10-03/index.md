@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-10-03
   <td>通过提示工程优化，提升具身AI协作环境中的智能体合作性能</td>
   <td class="tags-cell"><span class="paper-tag">embodied AI</span> <span class="paper-tag">large language model</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.03153v1" onclick="toggleFavorite(this, '2510.03153v1', 'Improving Cooperation in Collaborative Embodied AI')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.03153v1" data-paper-url="./papers/251003153v1-improving-cooperation-in-collaborative-embodied-ai.html" onclick="toggleFavorite(this, '2510.03153v1', 'Improving Cooperation in Collaborative Embodied AI')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

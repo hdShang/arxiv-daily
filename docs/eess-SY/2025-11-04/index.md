@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - eess.SY - 2025-11-04
   <td>提出基于虚拟目标的导弹制导方法，解决多对多导弹拦截问题。</td>
   <td class="tags-cell"><span class="paper-tag">navigation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.02526v1" onclick="toggleFavorite(this, '2511.02526v1', 'Many-vs-Many Missile Guidance via Virtual Targets')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.02526v1" data-paper-url="./papers/251102526v1-many-vs-many-missile-guidance-via-virtual-targets.html" onclick="toggleFavorite(this, '2511.02526v1', 'Many-vs-Many Missile Guidance via Virtual Targets')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

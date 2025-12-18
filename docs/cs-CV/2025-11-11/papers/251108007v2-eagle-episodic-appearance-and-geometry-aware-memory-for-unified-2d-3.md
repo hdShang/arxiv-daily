@@ -8,7 +8,7 @@ title: EAGLE: Episodic Appearance- and Geometry-aware Memory for Unified 2D-3D V
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.08007" class="toolbar-btn" target="_blank">📄 arXiv: 2511.08007v2</a>
   <a href="https://arxiv.org/pdf/2511.08007.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.08007v2" onclick="toggleFavorite(this, '2511.08007v2', 'EAGLE: Episodic Appearance- and Geometry-aware Memory for Unified 2D-3D Visual Query Localization in Egocentric Vision')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.08007v2" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.08007v2', 'EAGLE: Episodic Appearance- and Geometry-aware Memory for Unified 2D-3D Visual Query Localization in Egocentric Vision')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

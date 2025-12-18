@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-10-08
   <td>提出基于3D高斯溅射的快速3D物体获取与Unity实时渲染管线</td>
   <td class="tags-cell"><span class="paper-tag">3D gaussian splatting</span> <span class="paper-tag">gaussian splatting</span> <span class="paper-tag">splatting</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.06802v1" onclick="toggleFavorite(this, '2510.06802v1', 'Capture and Interact: Rapid 3D Object Acquisition and Rendering with Gaussian Splatting in Unity')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.06802v1" data-paper-url="./papers/251006802v1-capture-and-interact-rapid-3d-object-acquisition-and-rendering-with-.html" onclick="toggleFavorite(this, '2510.06802v1', 'Capture and Interact: Rapid 3D Object Acquisition and Rendering with Gaussian Splatting in Unity')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

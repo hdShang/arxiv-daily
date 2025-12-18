@@ -8,7 +8,7 @@ title: RePose-NeRF: Robust Radiance Fields for Mesh Reconstruction under Noisy C
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.08545" class="toolbar-btn" target="_blank">📄 arXiv: 2511.08545v1</a>
   <a href="https://arxiv.org/pdf/2511.08545.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.08545v1" onclick="toggleFavorite(this, '2511.08545v1', 'RePose-NeRF: Robust Radiance Fields for Mesh Reconstruction under Noisy Camera Poses')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.08545v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.08545v1', 'RePose-NeRF: Robust Radiance Fields for Mesh Reconstruction under Noisy Camera Poses')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

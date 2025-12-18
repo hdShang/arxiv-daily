@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - eess.SY - 2025-10-06
   <td>提出一种高效的多查询运动规划算法以解决高概率到达问题</td>
   <td class="tags-cell"><span class="paper-tag">motion planning</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.04807v1" onclick="toggleFavorite(this, '2510.04807v1', 'Efficient Probabilistic Planning with Maximum-Coverage Distributionally Robust Backward Reachable Trees')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.04807v1" data-paper-url="./papers/251004807v1-efficient-probabilistic-planning-with-maximum-coverage-distributiona.html" onclick="toggleFavorite(this, '2510.04807v1', 'Efficient Probabilistic Planning with Maximum-Coverage Distributionally Robust Backward Reachable Trees')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

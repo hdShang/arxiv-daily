@@ -8,7 +8,7 @@ title: VDC-Agent: When Video Detailed Captioners Evolve Themselves via Agentic S
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.19436" class="toolbar-btn" target="_blank">📄 arXiv: 2511.19436v1</a>
   <a href="https://arxiv.org/pdf/2511.19436.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.19436v1" onclick="toggleFavorite(this, '2511.19436v1', 'VDC-Agent: When Video Detailed Captioners Evolve Themselves via Agentic Self-Reflection')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.19436v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.19436v1', 'VDC-Agent: When Video Detailed Captioners Evolve Themselves via Agentic Self-Reflection')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

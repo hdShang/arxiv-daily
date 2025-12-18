@@ -31,7 +31,7 @@ title: arXiv 中文要点汇总 - eess.SY - 2025-12-17
   <td>提出基于斜决策树的线性模型预测控制法以提升计算效率与可解释性</td>
   <td class="tags-cell"><span class="paper-tag">MPC</span> <span class="paper-tag">model predictive control</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.15568v1" onclick="toggleFavorite(this, '2512.15568v1', 'Exact Learning of Linear Model Predictive Control Laws using Oblique Decision Trees with Linear Predictions')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.15568v1" data-paper-url="./papers/251215568v1-exact-learning-of-linear-model-predictive-control-laws-using-oblique.html" onclick="toggleFavorite(this, '2512.15568v1', 'Exact Learning of Linear Model Predictive Control Laws using Oblique Decision Trees with Linear Predictions')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -39,7 +39,7 @@ title: arXiv 中文要点汇总 - eess.SY - 2025-12-17
   <td>提出经济模型预测控制，提升工业微藻生产的经济效益和动态稳定性</td>
   <td class="tags-cell"><span class="paper-tag">model predictive control</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.15668v1" onclick="toggleFavorite(this, '2512.15668v1', 'Enhancing industrial microalgae production through Economic Model Predictive Control')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.15668v1" data-paper-url="./papers/251215668v1-enhancing-industrial-microalgae-production-through-economic-model-pr.html" onclick="toggleFavorite(this, '2512.15668v1', 'Enhancing industrial microalgae production through Economic Model Predictive Control')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>3</td>
@@ -47,7 +47,7 @@ title: arXiv 中文要点汇总 - eess.SY - 2025-12-17
   <td>提出基于Ising机器的MPPI方法以优化控制问题</td>
   <td class="tags-cell"><span class="paper-tag">MPC</span> <span class="paper-tag">model predictive control</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.15533v1" onclick="toggleFavorite(this, '2512.15533v1', 'Ising Machines for Model Predictive Path Integral-Based Optimal Control')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.15533v1" data-paper-url="./papers/251215533v1-ising-machines-for-model-predictive-path-integral-based-optimal-cont.html" onclick="toggleFavorite(this, '2512.15533v1', 'Ising Machines for Model Predictive Path Integral-Based Optimal Control')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -66,7 +66,7 @@ title: arXiv 中文要点汇总 - eess.SY - 2025-12-17
   <td>提出面向服务的快速频率响应框架，用于低惯量电力系统中灵活负荷和储能的协调控制。</td>
   <td class="tags-cell"><span class="paper-tag">penetration</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.15677v1" onclick="toggleFavorite(this, '2512.15677v1', 'Service-Oriented Fast Frequency Response from Flexible Loads and Energy Storage in Low-Inertia Power Systems')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.15677v1" data-paper-url="./papers/251215677v1-service-oriented-fast-frequency-response-from-flexible-loads-and-ene.html" onclick="toggleFavorite(this, '2512.15677v1', 'Service-Oriented Fast Frequency Response from Flexible Loads and Energy Storage in Low-Inertia Power Systems')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

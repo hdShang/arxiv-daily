@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-10-21
   <td>提出Customized-GRPO，解决主体驱动图像生成中保真度和可编辑性的trade-off问题</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">reward shaping</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.18263v1" onclick="toggleFavorite(this, '2510.18263v1', 'From Competition to Synergy: Unlocking Reinforcement Learning for Subject-Driven Image Generation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.18263v1" data-paper-url="./papers/251018263v1-from-competition-to-synergy-unlocking-reinforcement-learning-for-sub.html" onclick="toggleFavorite(this, '2510.18263v1', 'From Competition to Synergy: Unlocking Reinforcement Learning for Subject-Driven Image Generation')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

@@ -33,7 +33,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>BiDemoSyn：基于单样本真实演示合成可扩展的双臂操作数据</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">bi-manual</span> <span class="paper-tag">bimanual</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.09297v1" onclick="toggleFavorite(this, '2512.09297v1', 'One-Shot Real-World Demonstration Synthesis for Scalable Bimanual Manipulation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.09297v1" data-paper-url="./papers/251209297v1-one-shot-real-world-demonstration-synthesis-for-scalable-bimanual-ma.html" onclick="toggleFavorite(this, '2512.09297v1', 'One-Shot Real-World Demonstration Synthesis for Scalable Bimanual Manipulation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -41,7 +41,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>ReMoSPLAT：基于高斯溅射的移动机械臂反应式控制</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">mobile manipulation</span> <span class="paper-tag">ReMoS</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.09656v1" onclick="toggleFavorite(this, '2512.09656v1', 'ReMoSPLAT: Reactive Mobile Manipulation Control on a Gaussian Splat')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.09656v1" data-paper-url="./papers/251209656v1-remosplat-reactive-mobile-manipulation-control-on-a-gaussian-splat.html" onclick="toggleFavorite(this, '2512.09656v1', 'ReMoSPLAT: Reactive Mobile Manipulation Control on a Gaussian Splat')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>3</td>
@@ -49,7 +49,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>REASAN：面向复杂动态环境，学习腿式机器人反应式安全导航</td>
   <td class="tags-cell"><span class="paper-tag">legged robot</span> <span class="paper-tag">locomotion</span> <span class="paper-tag">reinforcement learning</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.09537v1" onclick="toggleFavorite(this, '2512.09537v1', 'REASAN: Learning Reactive Safe Navigation for Legged Robots')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.09537v1" data-paper-url="./papers/251209537v1-reasan-learning-reactive-safe-navigation-for-legged-robots.html" onclick="toggleFavorite(this, '2512.09537v1', 'REASAN: Learning Reactive Safe Navigation for Legged Robots')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>4</td>
@@ -57,7 +57,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>提出一种分层、基于模型的系统，用于高性能人形机器人足球比赛。</td>
   <td class="tags-cell"><span class="paper-tag">humanoid</span> <span class="paper-tag">humanoid robot</span> <span class="paper-tag">locomotion</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.09431v1" onclick="toggleFavorite(this, '2512.09431v1', 'A Hierarchical, Model-Based System for High-Performance Humanoid Soccer')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.09431v1" data-paper-url="./papers/251209431v1-a-hierarchical-model-based-system-for-high-performance-humanoid-socc.html" onclick="toggleFavorite(this, '2512.09431v1', 'A Hierarchical, Model-Based System for High-Performance Humanoid Soccer')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>5</td>
@@ -65,7 +65,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>提出基于视觉可供性的场景无关分层双臂任务规划框架</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">bi-manual</span> <span class="paper-tag">bimanual</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.09310v1" onclick="toggleFavorite(this, '2512.09310v1', 'Scene-agnostic Hierarchical Bimanual Task Planning via Visual Affordance Reasoning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.09310v1" data-paper-url="./papers/251209310v1-scene-agnostic-hierarchical-bimanual-task-planning-via-visual-afford.html" onclick="toggleFavorite(this, '2512.09310v1', 'Scene-agnostic Hierarchical Bimanual Task Planning via Visual Affordance Reasoning')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>6</td>
@@ -73,7 +73,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>提出HeRD：一种用于高效非抓取操作的分层RL-扩散策略</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">reinforcement learning</span> <span class="paper-tag">diffusion policy</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.10099v1" onclick="toggleFavorite(this, '2512.10099v1', 'Push Smarter, Not Harder: Hierarchical RL-Diffusion Policy for Efficient Nonprehensile Manipulation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.10099v1" data-paper-url="./papers/251210099v1-push-smarter-not-harder-hierarchical-rl-diffusion-policy-for-efficie.html" onclick="toggleFavorite(this, '2512.10099v1', 'Push Smarter, Not Harder: Hierarchical RL-Diffusion Policy for Efficient Nonprehensile Manipulation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>7</td>
@@ -81,7 +81,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>提出TacThru-UMI，结合新型触觉视觉传感器与Transformer扩散策略，提升机器人操作精度。</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">imitation learning</span> <span class="paper-tag">diffusion policy</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.09851v1" onclick="toggleFavorite(this, '2512.09851v1', 'Simultaneous Tactile-Visual Perception for Learning Multimodal Robot Manipulation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.09851v1" data-paper-url="./papers/251209851v1-simultaneous-tactile-visual-perception-for-learning-multimodal-robot.html" onclick="toggleFavorite(this, '2512.09851v1', 'Simultaneous Tactile-Visual Perception for Learning Multimodal Robot Manipulation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>8</td>
@@ -89,7 +89,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>提出UrbanNav以解决复杂城市环境中的语言引导导航问题</td>
   <td class="tags-cell"><span class="paper-tag">walking</span> <span class="paper-tag">navigation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.09607v1" onclick="toggleFavorite(this, '2512.09607v1', 'UrbanNav: Learning Language-Guided Urban Navigation from Web-Scale Human Trajectories')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.09607v1" data-paper-url="./papers/251209607v1-urbannav-learning-language-guided-urban-navigation-from-web-scale-hu.html" onclick="toggleFavorite(this, '2512.09607v1', 'UrbanNav: Learning Language-Guided Urban Navigation from Web-Scale Human Trajectories')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>9</td>
@@ -97,7 +97,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>开发用于安全机器人辅助穿脱裤子的柔顺夹持器</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">grasping</span> <span class="paper-tag">grasp</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.09462v1" onclick="toggleFavorite(this, '2512.09462v1', 'Development of a Compliant Gripper for Safe Robot-Assisted Trouser Dressing-Undressing')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.09462v1" data-paper-url="./papers/251209462v1-development-of-a-compliant-gripper-for-safe-robot-assisted-trouser-d.html" onclick="toggleFavorite(this, '2512.09462v1', 'Development of a Compliant Gripper for Safe Robot-Assisted Trouser Dressing-Undressing')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>10</td>
@@ -105,7 +105,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>提出H2R-Grounder，实现无需配对数据的物理可信人机交互视频转换。</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">human-object interaction</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.09406v1" onclick="toggleFavorite(this, '2512.09406v1', 'H2R-Grounder: A Paired-Data-Free Paradigm for Translating Human Interaction Videos into Physically Grounded Robot Videos')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.09406v1" data-paper-url="./papers/251209406v1-h2r-grounder-a-paired-data-free-paradigm-for-translating-human-inter.html" onclick="toggleFavorite(this, '2512.09406v1', 'H2R-Grounder: A Paired-Data-Free Paradigm for Translating Human Interaction Videos into Physically Grounded Robot Videos')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>11</td>
@@ -113,7 +113,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>OpenPI Comet在BEHAVIOR挑战赛中获得亚军，通过系统性研究提升具身智能性能。</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">mobile manipulation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.10071v2" onclick="toggleFavorite(this, '2512.10071v2', 'Openpi Comet: Competition Solution For 2025 BEHAVIOR Challenge')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.10071v2" data-paper-url="./papers/251210071v2-openpi-comet-competition-solution-for-2025-behavior-challenge.html" onclick="toggleFavorite(this, '2512.10071v2', 'Openpi Comet: Competition Solution For 2025 BEHAVIOR Challenge')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>12</td>
@@ -121,7 +121,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>GLaD：几何潜在蒸馏增强视觉-语言-动作模型的空间推理能力</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">VGGT</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.09619v1" onclick="toggleFavorite(this, '2512.09619v1', 'GLaD: Geometric Latent Distillation for Vision-Language-Action Models')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.09619v1" data-paper-url="./papers/251209619v1-glad-geometric-latent-distillation-for-vision-language-action-models.html" onclick="toggleFavorite(this, '2512.09619v1', 'GLaD: Geometric Latent Distillation for Vision-Language-Action Models')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>13</td>
@@ -129,7 +129,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>ViTA-Seg：用于机器人非模态分割的视觉Transformer，提升遮挡场景下的抓取规划。</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">grasp</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.09510v1" onclick="toggleFavorite(this, '2512.09510v1', 'ViTA-Seg: Vision Transformer for Amodal Segmentation in Robotics')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.09510v1" data-paper-url="./papers/251209510v1-vita-seg-vision-transformer-for-amodal-segmentation-in-robotics.html" onclick="toggleFavorite(this, '2512.09510v1', 'ViTA-Seg: Vision Transformer for Amodal Segmentation in Robotics')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>14</td>
@@ -137,7 +137,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>综述：面向接触密集型机器人任务的安全学习方法，从经典方法到安全具身智能</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">reinforcement learning</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.11908v1" onclick="toggleFavorite(this, '2512.11908v1', 'Safe Learning for Contact-Rich Robot Tasks: A Survey from Classical Learning-Based Methods to Safe Foundation Models')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.11908v1" data-paper-url="./papers/251211908v1-safe-learning-for-contact-rich-robot-tasks-a-survey-from-classical-l.html" onclick="toggleFavorite(this, '2512.11908v1', 'Safe Learning for Contact-Rich Robot Tasks: A Survey from Classical Learning-Based Methods to Safe Foundation Models')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>15</td>
@@ -145,7 +145,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>提出快速功能冗余逆运动学算法，优化机器人制造任务中的工具路径</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.10116v1" onclick="toggleFavorite(this, '2512.10116v1', 'Fast Functionally Redundant Inverse Kinematics for Robotic Toolpath Optimisation in Manufacturing Tasks')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.10116v1" data-paper-url="./papers/251210116v1-fast-functionally-redundant-inverse-kinematics-for-robotic-toolpath-.html" onclick="toggleFavorite(this, '2512.10116v1', 'Fast Functionally Redundant Inverse Kinematics for Robotic Toolpath Optimisation in Manufacturing Tasks')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>16</td>
@@ -153,7 +153,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>HiF-VLA：利用运动表征进行双向时序推理，提升视觉-语言-动作模型的长时序操作能力</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.09928v1" onclick="toggleFavorite(this, '2512.09928v1', 'HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.09928v1" data-paper-url="./papers/251209928v1-hif-vla-hindsight-insight-and-foresight-through-motion-representatio.html" onclick="toggleFavorite(this, '2512.09928v1', 'HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>17</td>
@@ -161,7 +161,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>Py-DiSMech：基于离散微分几何的软机器人建模与控制高效框架</td>
   <td class="tags-cell"><span class="paper-tag">sim-to-real</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.09911v1" onclick="toggleFavorite(this, '2512.09911v1', 'Py-DiSMech: A Scalable and Efficient Framework for Discrete Differential Geometry-Based Modeling and Control of Soft Robots')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.09911v1" data-paper-url="./papers/251209911v1-py-dismech-a-scalable-and-efficient-framework-for-discrete-different.html" onclick="toggleFavorite(this, '2512.09911v1', 'Py-DiSMech: A Scalable and Efficient Framework for Discrete Differential Geometry-Based Modeling and Control of Soft Robots')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>18</td>
@@ -169,7 +169,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>提出Basilisk与ROS 2的轻量级桥接方案，用于模块化航天器仿真与硬件集成</td>
   <td class="tags-cell"><span class="paper-tag">model predictive control</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.09833v1" onclick="toggleFavorite(this, '2512.09833v1', 'Bridging the Basilisk Astrodynamics Framework with ROS 2 for Modular Spacecraft Simulation and Hardware Integration')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.09833v1" data-paper-url="./papers/251209833v1-bridging-the-basilisk-astrodynamics-framework-with-ros-2-for-modular.html" onclick="toggleFavorite(this, '2512.09833v1', 'Bridging the Basilisk Astrodynamics Framework with ROS 2 for Modular Spacecraft Simulation and Hardware Integration')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -188,7 +188,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>D$^2$GSLAM：基于高斯表示的动态场景4D SLAM系统，实现动态环境下的精确重建与鲁棒跟踪。</td>
   <td class="tags-cell"><span class="paper-tag">SLAM</span> <span class="paper-tag">gaussian splatting</span> <span class="paper-tag">scene reconstruction</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.09411v1" onclick="toggleFavorite(this, '2512.09411v1', 'D$^2$GSLAM: 4D Dynamic Gaussian Splatting SLAM')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.09411v1" data-paper-url="./papers/251209411v1-d2gslam-4d-dynamic-gaussian-splatting-slam.html" onclick="toggleFavorite(this, '2512.09411v1', 'D$^2$GSLAM: 4D Dynamic Gaussian Splatting SLAM')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>20</td>
@@ -196,7 +196,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>YOPO-Nav：利用单次视频的3DGS图进行视觉导航</td>
   <td class="tags-cell"><span class="paper-tag">3D gaussian splatting</span> <span class="paper-tag">3DGS</span> <span class="paper-tag">gaussian splatting</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.09903v1" onclick="toggleFavorite(this, '2512.09903v1', 'YOPO-Nav: Visual Navigation using 3DGS Graphs from One-Pass Videos')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.09903v1" data-paper-url="./papers/251209903v1-yopo-nav-visual-navigation-using-3dgs-graphs-from-one-pass-videos.html" onclick="toggleFavorite(this, '2512.09903v1', 'YOPO-Nav: Visual Navigation using 3DGS Graphs from One-Pass Videos')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>21</td>
@@ -204,7 +204,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>提出基于低成本惯性磁传感器的惯性磁SLAM系统，提升弱光环境定位精度。</td>
   <td class="tags-cell"><span class="paper-tag">visual odometry</span> <span class="paper-tag">SLAM</span> <span class="paper-tag">localization</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.10128v1" onclick="toggleFavorite(this, '2512.10128v1', 'Inertial Magnetic SLAM Systems Using Low-Cost Sensors')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.10128v1" data-paper-url="./papers/251210128v1-inertial-magnetic-slam-systems-using-low-cost-sensors.html" onclick="toggleFavorite(this, '2512.10128v1', 'Inertial Magnetic SLAM Systems Using Low-Cost Sensors')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>22</td>
@@ -212,7 +212,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>提出LISN-Bench与Social-Nav-Modulator，实现基于语言指令的社交导航。</td>
   <td class="tags-cell"><span class="paper-tag">scene understanding</span> <span class="paper-tag">navigation</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.09920v1" onclick="toggleFavorite(this, '2512.09920v1', 'LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.09920v1" data-paper-url="./papers/251209920v1-lisn-language-instructed-social-navigation-with-vlm-based-controller.html" onclick="toggleFavorite(this, '2512.09920v1', 'LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>23</td>
@@ -220,7 +220,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>Super4DR：面向4D雷达的自监督里程计与高斯优化建图</td>
   <td class="tags-cell"><span class="paper-tag">SLAM</span> <span class="paper-tag">point cloud</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.09608v1" onclick="toggleFavorite(this, '2512.09608v1', 'Super4DR: 4D Radar-centric Self-supervised Odometry and Gaussian-based Map Optimization')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.09608v1" data-paper-url="./papers/251209608v1-super4dr-4d-radar-centric-self-supervised-odometry-and-gaussian-base.html" onclick="toggleFavorite(this, '2512.09608v1', 'Super4DR: 4D Radar-centric Self-supervised Odometry and Gaussian-based Map Optimization')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>24</td>
@@ -228,7 +228,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>提出一种太阳能自主水面船，实现高分辨率水样采集与水质监测</td>
   <td class="tags-cell"><span class="paper-tag">navigation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.09798v1" onclick="toggleFavorite(this, '2512.09798v1', 'High-Resolution Water Sampling via a Solar-Powered Autonomous Surface Vehicle')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.09798v1" data-paper-url="./papers/251209798v1-high-resolution-water-sampling-via-a-solar-powered-autonomous-surfac.html" onclick="toggleFavorite(this, '2512.09798v1', 'High-Resolution Water Sampling via a Solar-Powered Autonomous Surface Vehicle')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>25</td>
@@ -236,7 +236,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>提出Aion，将时序流动动态嵌入分层4D场景图，用于动态环境自主导航。</td>
   <td class="tags-cell"><span class="paper-tag">navigation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.11903v1" onclick="toggleFavorite(this, '2512.11903v1', 'Aion: Towards Hierarchical 4D Scene Graphs with Temporal Flow Dynamics')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.11903v1" data-paper-url="./papers/251211903v1-aion-towards-hierarchical-4d-scene-graphs-with-temporal-flow-dynamic.html" onclick="toggleFavorite(this, '2512.11903v1', 'Aion: Towards Hierarchical 4D Scene Graphs with Temporal Flow Dynamics')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -255,7 +255,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-10
   <td>提出PGF-MAPPO，解决复杂环境下的协同搜索捕获问题，实现零样本泛化。</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">reward shaping</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.09410v1" onclick="toggleFavorite(this, '2512.09410v1', 'Generalizable Collaborative Search-and-Capture in Cluttered Environments via Path-Guided MAPPO and Directional Frontier Allocation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.09410v1" data-paper-url="./papers/251209410v1-generalizable-collaborative-search-and-capture-in-cluttered-environm.html" onclick="toggleFavorite(this, '2512.09410v1', 'Generalizable Collaborative Search-and-Capture in Cluttered Environments via Path-Guided MAPPO and Directional Frontier Allocation')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

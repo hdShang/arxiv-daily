@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-11-27
   <td>提出BiCQL-ML，通过双层保守Q学习解决离线逆强化学习中的奖励函数恢复问题</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">policy learning</span> <span class="paper-tag">inverse reinforcement learning</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.22210v1" onclick="toggleFavorite(this, '2511.22210v1', 'BiCQL-ML: A Bi-Level Conservative Q-Learning Framework for Maximum Likelihood Inverse Reinforcement Learning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.22210v1" data-paper-url="./papers/251122210v1-bicql-ml-a-bi-level-conservative-q-learning-framework-for-maximum-li.html" onclick="toggleFavorite(this, '2511.22210v1', 'BiCQL-ML: A Bi-Level Conservative Q-Learning Framework for Maximum Likelihood Inverse Reinforcement Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

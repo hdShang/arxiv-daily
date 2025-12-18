@@ -8,7 +8,7 @@ title: MiniBEE: A New Form Factor for Compact Bimanual Dexterity
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.01603" class="toolbar-btn" target="_blank">📄 arXiv: 2510.01603v2</a>
   <a href="https://arxiv.org/pdf/2510.01603.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.01603v2" onclick="toggleFavorite(this, '2510.01603v2', 'MiniBEE: A New Form Factor for Compact Bimanual Dexterity')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.01603v2" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.01603v2', 'MiniBEE: A New Form Factor for Compact Bimanual Dexterity')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

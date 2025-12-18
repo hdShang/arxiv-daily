@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-12-12
   <td>提出Eik-HiQRL，结合Eikonal方程与分层强化学习解决复杂环境下的目标导向导航问题</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">reinforcement learning</span> <span class="paper-tag">reward design</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.12046v1" onclick="toggleFavorite(this, '2512.12046v1', 'Goal Reaching with Eikonal-Constrained Hierarchical Quasimetric Reinforcement Learning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.12046v1" data-paper-url="./papers/251212046v1-goal-reaching-with-eikonal-constrained-hierarchical-quasimetric-rein.html" onclick="toggleFavorite(this, '2512.12046v1', 'Goal Reaching with Eikonal-Constrained Hierarchical Quasimetric Reinforcement Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

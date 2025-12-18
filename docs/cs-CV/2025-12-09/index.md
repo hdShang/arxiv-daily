@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-09
   <td>GTAvatar：结合高斯溅射与纹理映射，实现可重光照和编辑的高斯头像</td>
   <td class="tags-cell"><span class="paper-tag">gaussian splatting</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.09162v1" onclick="toggleFavorite(this, '2512.09162v1', 'GTAvatar: Bridging Gaussian Splatting and Texture Mapping for Relightable and Editable Gaussian Avatars')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.09162v1" data-paper-url="./papers/251209162v1-gtavatar-bridging-gaussian-splatting-and-texture-mapping-for-relight.html" onclick="toggleFavorite(this, '2512.09162v1', 'GTAvatar: Bridging Gaussian Splatting and Texture Mapping for Relightable and Editable Gaussian Avatars')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

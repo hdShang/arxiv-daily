@@ -8,7 +8,7 @@ title: On Accurate and Robust Estimation of 3D and 2D Circular Center: Method an
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.06611" class="toolbar-btn" target="_blank">📄 arXiv: 2511.06611v1</a>
   <a href="https://arxiv.org/pdf/2511.06611.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.06611v1" onclick="toggleFavorite(this, '2511.06611v1', 'On Accurate and Robust Estimation of 3D and 2D Circular Center: Method and Application to Camera-Lidar Calibration')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.06611v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.06611v1', 'On Accurate and Robust Estimation of 3D and 2D Circular Center: Method and Application to Camera-Lidar Calibration')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

@@ -31,7 +31,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-11-28
   <td>MARVO：一种水下环境自适应的、辐射感知的视觉里程计</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">visual odometry</span> <span class="paper-tag">visual-inertial</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.22860v1" onclick="toggleFavorite(this, '2511.22860v1', 'MARVO: Marine-Adaptive Radiance-aware Visual Odometry')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.22860v1" data-paper-url="./papers/251122860v1-marvo-marine-adaptive-radiance-aware-visual-odometry.html" onclick="toggleFavorite(this, '2511.22860v1', 'MARVO: Marine-Adaptive Radiance-aware Visual Odometry')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -50,7 +50,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-11-28
   <td>提出动态风险场与时变凸空间生成方法，实现安全自主的变道轨迹规划</td>
   <td class="tags-cell"><span class="paper-tag">MPC</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.22829v1" onclick="toggleFavorite(this, '2511.22829v1', 'Safe Autonomous Lane Changing: Planning with Dynamic Risk Fields and Time-Varying Convex Space Generation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.22829v1" data-paper-url="./papers/251122829v1-safe-autonomous-lane-changing-planning-with-dynamic-risk-fields-and-.html" onclick="toggleFavorite(this, '2511.22829v1', 'Safe Autonomous Lane Changing: Planning with Dynamic Risk Fields and Time-Varying Convex Space Generation')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

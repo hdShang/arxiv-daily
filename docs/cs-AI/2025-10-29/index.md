@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-10-29
   <td>提出StuckSolver，利用大语言模型辅助自动驾驶车辆脱困</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.26023v2" onclick="toggleFavorite(this, '2510.26023v2', 'Large Language Model-assisted Autonomous Vehicle Recovery from Immobilization')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.26023v2" data-paper-url="./papers/251026023v2-large-language-model-assisted-autonomous-vehicle-recovery-from-immob.html" onclick="toggleFavorite(this, '2510.26023v2', 'Large Language Model-assisted Autonomous Vehicle Recovery from Immobilization')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

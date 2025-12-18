@@ -8,7 +8,7 @@ title: Building temporally coherent 3D maps with VGGT for memory-efficient Seman
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.16282" class="toolbar-btn" target="_blank">📄 arXiv: 2511.16282v2</a>
   <a href="https://arxiv.org/pdf/2511.16282.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.16282v2" onclick="toggleFavorite(this, '2511.16282v2', 'Building temporally coherent 3D maps with VGGT for memory-efficient Semantic SLAM')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.16282v2" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.16282v2', 'Building temporally coherent 3D maps with VGGT for memory-efficient Semantic SLAM')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

@@ -8,7 +8,7 @@ title: Towards Efficient 3D Gaussian Human Avatar Compression: A Prior-Guided Fr
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.10492" class="toolbar-btn" target="_blank">📄 arXiv: 2510.10492v1</a>
   <a href="https://arxiv.org/pdf/2510.10492.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.10492v1" onclick="toggleFavorite(this, '2510.10492v1', 'Towards Efficient 3D Gaussian Human Avatar Compression: A Prior-Guided Framework')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.10492v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.10492v1', 'Towards Efficient 3D Gaussian Human Avatar Compression: A Prior-Guided Framework')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

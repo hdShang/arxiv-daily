@@ -32,7 +32,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-01
   <td>提出VSRD++以解决单目3D物体检测中的标注依赖问题</td>
   <td class="tags-cell"><span class="paper-tag">scene understanding</span> <span class="paper-tag">point cloud</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.01178v1" onclick="toggleFavorite(this, '2512.01178v1', 'VSRD++: Autolabeling for 3D Object Detection via Instance-Aware Volumetric Silhouette Rendering')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.01178v1" data-paper-url="./papers/251201178v1-vsrd-autolabeling-for-3d-object-detection-via-instance-aware-volumet.html" onclick="toggleFavorite(this, '2512.01178v1', 'VSRD++: Autolabeling for 3D Object Detection via Instance-Aware Volumetric Silhouette Rendering')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -40,7 +40,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-01
   <td>S$^2$-MLLM：通过结构引导增强MLLM在3D视觉定位中的空间推理能力</td>
   <td class="tags-cell"><span class="paper-tag">point cloud</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.01223v1" onclick="toggleFavorite(this, '2512.01223v1', 'S$^2$-MLLM: Boosting Spatial Reasoning Capability of MLLMs for 3D Visual Grounding with Structural Guidance')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.01223v1" data-paper-url="./papers/251201223v1-s2-mllm-boosting-spatial-reasoning-capability-of-mllms-for-3d-visual.html" onclick="toggleFavorite(this, '2512.01223v1', 'S$^2$-MLLM: Boosting Spatial Reasoning Capability of MLLMs for 3D Visual Grounding with Structural Guidance')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -59,7 +59,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-01
   <td>M4-BLIP：通过人脸增强的局部分析提升多模态媒体篡改检测</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.01214v1" onclick="toggleFavorite(this, '2512.01214v1', 'M4-BLIP: Advancing Multi-Modal Media Manipulation Detection through Face-Enhanced Local Analysis')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.01214v1" data-paper-url="./papers/251201214v1-m4-blip-advancing-multi-modal-media-manipulation-detection-through-f.html" onclick="toggleFavorite(this, '2512.01214v1', 'M4-BLIP: Advancing Multi-Modal Media Manipulation Detection through Face-Enhanced Local Analysis')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

@@ -8,7 +8,7 @@ title: Autonomously Unweaving Multiple Cables Using Visual Feedback
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2512.12468" class="toolbar-btn" target="_blank">📄 arXiv: 2512.12468v1</a>
   <a href="https://arxiv.org/pdf/2512.12468.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.12468v1" onclick="toggleFavorite(this, '2512.12468v1', 'Autonomously Unweaving Multiple Cables Using Visual Feedback')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.12468v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2512.12468v1', 'Autonomously Unweaving Multiple Cables Using Visual Feedback')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

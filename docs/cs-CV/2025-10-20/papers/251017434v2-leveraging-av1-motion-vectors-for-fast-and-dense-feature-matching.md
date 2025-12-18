@@ -8,7 +8,7 @@ title: Leveraging AV1 motion vectors for Fast and Dense Feature Matching
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.17434" class="toolbar-btn" target="_blank">📄 arXiv: 2510.17434v2</a>
   <a href="https://arxiv.org/pdf/2510.17434.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.17434v2" onclick="toggleFavorite(this, '2510.17434v2', 'Leveraging AV1 motion vectors for Fast and Dense Feature Matching')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.17434v2" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.17434v2', 'Leveraging AV1 motion vectors for Fast and Dense Feature Matching')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

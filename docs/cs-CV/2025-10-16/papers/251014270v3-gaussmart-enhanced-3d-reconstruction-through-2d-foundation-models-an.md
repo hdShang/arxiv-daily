@@ -8,7 +8,7 @@ title: GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Ge
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.14270" class="toolbar-btn" target="_blank">📄 arXiv: 2510.14270v3</a>
   <a href="https://arxiv.org/pdf/2510.14270.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.14270v3" onclick="toggleFavorite(this, '2510.14270v3', 'GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.14270v3" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.14270v3', 'GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

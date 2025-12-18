@@ -8,7 +8,7 @@ title: microCLIP: Unsupervised CLIP Adaptation via Coarse-Fine Token Fusion for 
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.02270" class="toolbar-btn" target="_blank">📄 arXiv: 2510.02270v1</a>
   <a href="https://arxiv.org/pdf/2510.02270.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.02270v1" onclick="toggleFavorite(this, '2510.02270v1', 'microCLIP: Unsupervised CLIP Adaptation via Coarse-Fine Token Fusion for Fine-Grained Image Classification')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.02270v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.02270v1', 'microCLIP: Unsupervised CLIP Adaptation via Coarse-Fine Token Fusion for Fine-Grained Image Classification')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

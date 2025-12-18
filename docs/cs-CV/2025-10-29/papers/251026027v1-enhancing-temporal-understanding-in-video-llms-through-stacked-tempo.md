@@ -8,7 +8,7 @@ title: Enhancing Temporal Understanding in Video-LLMs through Stacked Temporal A
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.26027" class="toolbar-btn" target="_blank">📄 arXiv: 2510.26027v1</a>
   <a href="https://arxiv.org/pdf/2510.26027.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.26027v1" onclick="toggleFavorite(this, '2510.26027v1', 'Enhancing Temporal Understanding in Video-LLMs through Stacked Temporal Attention in Vision Encoders')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.26027v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.26027v1', 'Enhancing Temporal Understanding in Video-LLMs through Stacked Temporal Attention in Vision Encoders')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

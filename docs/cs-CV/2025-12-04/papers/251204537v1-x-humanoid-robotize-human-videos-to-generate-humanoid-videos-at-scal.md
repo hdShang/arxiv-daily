@@ -8,7 +8,7 @@ title: X-Humanoid: Robotize Human Videos to Generate Humanoid Videos at Scale
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2512.04537" class="toolbar-btn" target="_blank">📄 arXiv: 2512.04537v1</a>
   <a href="https://arxiv.org/pdf/2512.04537.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.04537v1" onclick="toggleFavorite(this, '2512.04537v1', 'X-Humanoid: Robotize Human Videos to Generate Humanoid Videos at Scale')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.04537v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2512.04537v1', 'X-Humanoid: Robotize Human Videos to Generate Humanoid Videos at Scale')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

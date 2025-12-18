@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-12-03
   <td>提出单步扩散通用设计框架，显著提升ImageNet图像生成质量，无需预训练。</td>
   <td class="tags-cell"><span class="paper-tag">curriculum learning</span> <span class="paper-tag">classifier-free guidance</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.11831v2" onclick="toggleFavorite(this, '2512.11831v2', 'On the Design of One-step Diffusion via Shortcutting Flow Paths')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.11831v2" data-paper-url="./papers/251211831v2-on-the-design-of-one-step-diffusion-via-shortcutting-flow-paths.html" onclick="toggleFavorite(this, '2512.11831v2', 'On the Design of One-step Diffusion via Shortcutting Flow Paths')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

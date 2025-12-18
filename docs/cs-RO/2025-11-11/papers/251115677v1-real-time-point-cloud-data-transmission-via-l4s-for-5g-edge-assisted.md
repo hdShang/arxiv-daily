@@ -8,7 +8,7 @@ title: Real-time Point Cloud Data Transmission via L4S for 5G-Edge-Assisted Robo
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.15677" class="toolbar-btn" target="_blank">📄 arXiv: 2511.15677v1</a>
   <a href="https://arxiv.org/pdf/2511.15677.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.15677v1" onclick="toggleFavorite(this, '2511.15677v1', 'Real-time Point Cloud Data Transmission via L4S for 5G-Edge-Assisted Robotics')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.15677v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.15677v1', 'Real-time Point Cloud Data Transmission via L4S for 5G-Edge-Assisted Robotics')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

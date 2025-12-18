@@ -35,7 +35,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-14
   <td>CrossRay3D：通过几何与分布引导提升多模态3D检测效率</td>
   <td class="tags-cell"><span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15991v3" onclick="toggleFavorite(this, '2510.15991v3', 'CrossRay3D: Geometry and Distribution Guidance for Efficient Multimodal 3D Detection')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15991v3" data-paper-url="./papers/251015991v3-crossray3d-geometry-and-distribution-guidance-for-efficient-multimod.html" onclick="toggleFavorite(this, '2510.15991v3', 'CrossRay3D: Geometry and Distribution Guidance for Efficient Multimodal 3D Detection')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -43,7 +43,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-14
   <td>IL3D：用于LLM驱动的3D场景生成的大规模室内布局数据集</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.12095v1" onclick="toggleFavorite(this, '2510.12095v1', 'IL3D: A Large-Scale Indoor Layout Dataset for LLM-Driven 3D Scene Generation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.12095v1" data-paper-url="./papers/251012095v1-il3d-a-large-scale-indoor-layout-dataset-for-llm-driven-3d-scene-gen.html" onclick="toggleFavorite(this, '2510.12095v1', 'IL3D: A Large-Scale Indoor Layout Dataset for LLM-Driven 3D Scene Generation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>3</td>
@@ -51,7 +51,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-14
   <td>提出MultiFoodChat，用于零样本食物识别的对话驱动多智能体推理框架。</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.13889v1" onclick="toggleFavorite(this, '2510.13889v1', 'MultiFoodhat: A potential new paradigm for intelligent food quality inspection')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.13889v1" data-paper-url="./papers/251013889v1-multifoodhat-a-potential-new-paradigm-for-intelligent-food-quality-i.html" onclick="toggleFavorite(this, '2510.13889v1', 'MultiFoodhat: A potential new paradigm for intelligent food quality inspection')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -70,7 +70,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-14
   <td>提出DrivingScene，用于动态驾驶场景的多任务在线前馈3D高斯溅射重建。</td>
   <td class="tags-cell"><span class="paper-tag">3D gaussian splatting</span> <span class="paper-tag">gaussian splatting</span> <span class="paper-tag">splatting</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.24734v1" onclick="toggleFavorite(this, '2510.24734v1', 'DrivingScene: A Multi-Task Online Feed-Forward 3D Gaussian Splatting Method for Dynamic Driving Scenes')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.24734v1" data-paper-url="./papers/251024734v1-drivingscene-a-multi-task-online-feed-forward-3d-gaussian-splatting-.html" onclick="toggleFavorite(this, '2510.24734v1', 'DrivingScene: A Multi-Task Online Feed-Forward 3D Gaussian Splatting Method for Dynamic Driving Scenes')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>5</td>
@@ -78,7 +78,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-14
   <td>G4Splat：利用生成先验和几何引导的高质量高斯溅射场景重建</td>
   <td class="tags-cell"><span class="paper-tag">gaussian splatting</span> <span class="paper-tag">splatting</span> <span class="paper-tag">scene reconstruction</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.12099v1" onclick="toggleFavorite(this, '2510.12099v1', 'G4Splat: Geometry-Guided Gaussian Splatting with Generative Prior')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.12099v1" data-paper-url="./papers/251012099v1-g4splat-geometry-guided-gaussian-splatting-with-generative-prior.html" onclick="toggleFavorite(this, '2510.12099v1', 'G4Splat: Geometry-Guided Gaussian Splatting with Generative Prior')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -97,7 +97,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-14
   <td>提出DRL框架以解决增量学习中的表示转移问题</td>
   <td class="tags-cell"><span class="paper-tag">DRL</span> <span class="paper-tag">representation learning</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.12107v1" onclick="toggleFavorite(this, '2510.12107v1', 'DRL: Discriminative Representation Learning with Parallel Adapters for Class Incremental Learning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.12107v1" data-paper-url="./papers/251012107v1-drl-discriminative-representation-learning-with-parallel-adapters-fo.html" onclick="toggleFavorite(this, '2510.12107v1', 'DRL: Discriminative Representation Learning with Parallel Adapters for Class Incremental Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -116,7 +116,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-14
   <td>Playmate2：基于扩散Transformer和奖励反馈的免训练多角色音频驱动动画</td>
   <td class="tags-cell"><span class="paper-tag">classifier-free guidance</span> <span class="paper-tag">character animation</span> <span class="paper-tag">foundation model</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.12089v2" onclick="toggleFavorite(this, '2510.12089v2', 'Playmate2: Training-Free Multi-Character Audio-Driven Animation via Diffusion Transformer with Reward Feedback')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.12089v2" data-paper-url="./papers/251012089v2-playmate2-training-free-multi-character-audio-driven-animation-via-d.html" onclick="toggleFavorite(this, '2510.12089v2', 'Playmate2: Training-Free Multi-Character Audio-Driven Animation via Diffusion Transformer with Reward Feedback')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -135,7 +135,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-14
   <td>针对单光子3D相机硬件约束，提出硬件感知的编码函数设计方法</td>
   <td class="tags-cell"><span class="paper-tag">PULSE</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.12123v1" onclick="toggleFavorite(this, '2510.12123v1', 'Hardware-aware Coding Function Design for Compressive Single-Photon 3D Cameras')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.12123v1" data-paper-url="./papers/251012123v1-hardware-aware-coding-function-design-for-compressive-single-photon-.html" onclick="toggleFavorite(this, '2510.12123v1', 'Hardware-aware Coding Function Design for Compressive Single-Photon 3D Cameras')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

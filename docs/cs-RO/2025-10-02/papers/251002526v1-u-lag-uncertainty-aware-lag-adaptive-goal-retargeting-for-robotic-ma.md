@@ -8,7 +8,7 @@ title: U-LAG: Uncertainty-Aware, Lag-Adaptive Goal Retargeting for Robotic Manip
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.02526" class="toolbar-btn" target="_blank">📄 arXiv: 2510.02526v1</a>
   <a href="https://arxiv.org/pdf/2510.02526.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.02526v1" onclick="toggleFavorite(this, '2510.02526v1', 'U-LAG: Uncertainty-Aware, Lag-Adaptive Goal Retargeting for Robotic Manipulation')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.02526v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.02526v1', 'U-LAG: Uncertainty-Aware, Lag-Adaptive Goal Retargeting for Robotic Manipulation')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

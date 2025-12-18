@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-10-10
   <td>提出双层元策略控制以解决动态不确定性校准问题</td>
   <td class="tags-cell"><span class="paper-tag">MPC</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.08938v1" onclick="toggleFavorite(this, '2510.08938v1', 'Bi-level Meta-Policy Control for Dynamic Uncertainty Calibration in Evidential Deep Learning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.08938v1" data-paper-url="./papers/251008938v1-bi-level-meta-policy-control-for-dynamic-uncertainty-calibration-in-.html" onclick="toggleFavorite(this, '2510.08938v1', 'Bi-level Meta-Policy Control for Dynamic Uncertainty Calibration in Evidential Deep Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

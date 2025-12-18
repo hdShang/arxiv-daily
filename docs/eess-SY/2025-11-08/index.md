@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - eess.SY - 2025-11-08
   <td>提出解耦多智能体系统控制框架，解决复杂拓扑和时变目标下的控制问题</td>
   <td class="tags-cell"><span class="paper-tag">navigation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.05900v2" onclick="toggleFavorite(this, '2511.05900v2', 'Disentangled Control of Multi-Agent Systems')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.05900v2" data-paper-url="./papers/251105900v2-disentangled-control-of-multi-agent-systems.html" onclick="toggleFavorite(this, '2511.05900v2', 'Disentangled Control of Multi-Agent Systems')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

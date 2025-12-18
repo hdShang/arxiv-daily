@@ -31,7 +31,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-10-22
   <td>提出Memo：一种内存高效的强化学习具身智能体训练方法</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.19732v2" onclick="toggleFavorite(this, '2510.19732v2', 'Memo: Training Memory-Efficient Embodied Agents with Reinforcement Learning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.19732v2" data-paper-url="./papers/251019732v2-memo-training-memory-efficient-embodied-agents-with-reinforcement-le.html" onclick="toggleFavorite(this, '2510.19732v2', 'Memo: Training Memory-Efficient Embodied Agents with Reinforcement Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

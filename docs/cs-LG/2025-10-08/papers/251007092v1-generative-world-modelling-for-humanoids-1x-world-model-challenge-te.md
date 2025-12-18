@@ -8,7 +8,7 @@ title: Generative World Modelling for Humanoids: 1X World Model Challenge Techni
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.07092" class="toolbar-btn" target="_blank">📄 arXiv: 2510.07092v1</a>
   <a href="https://arxiv.org/pdf/2510.07092.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.07092v1" onclick="toggleFavorite(this, '2510.07092v1', 'Generative World Modelling for Humanoids: 1X World Model Challenge Technical Report')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.07092v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.07092v1', 'Generative World Modelling for Humanoids: 1X World Model Challenge Technical Report')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

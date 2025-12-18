@@ -8,7 +8,7 @@ title: DAP-MAE: Domain-Adaptive Point Cloud Masked Autoencoder for Effective Cro
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.21635" class="toolbar-btn" target="_blank">📄 arXiv: 2510.21635v1</a>
   <a href="https://arxiv.org/pdf/2510.21635.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.21635v1" onclick="toggleFavorite(this, '2510.21635v1', 'DAP-MAE: Domain-Adaptive Point Cloud Masked Autoencoder for Effective Cross-Domain Learning')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.21635v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.21635v1', 'DAP-MAE: Domain-Adaptive Point Cloud Masked Autoencoder for Effective Cross-Domain Learning')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

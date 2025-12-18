@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-07
   <td>ARRC：基于检索增强生成实现知识驱动的自主机器人操作</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">large language model</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.05547v1" onclick="toggleFavorite(this, '2510.05547v1', 'ARRC: Advanced Reasoning Robot Control - Knowledge-Driven Autonomous Manipulation Using Retrieval-Augmented Generation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.05547v1" data-paper-url="./papers/251005547v1-arrc-advanced-reasoning-robot-control-knowledge-driven-autonomous-ma.html" onclick="toggleFavorite(this, '2510.05547v1', 'ARRC: Advanced Reasoning Robot Control - Knowledge-Driven Autonomous Manipulation Using Retrieval-Augmented Generation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -38,7 +38,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-07
   <td>提出一种去中心化的双视角姿态与速度估计方法以解决动态机器人操作问题</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.05536v1" onclick="toggleFavorite(this, '2510.05536v1', 'Correlation-Aware Dual-View Pose and Velocity Estimation for Dynamic Robotic Manipulation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.05536v1" data-paper-url="./papers/251005536v1-correlation-aware-dual-view-pose-and-velocity-estimation-for-dynamic.html" onclick="toggleFavorite(this, '2510.05536v1', 'Correlation-Aware Dual-View Pose and Velocity Estimation for Dynamic Robotic Manipulation')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

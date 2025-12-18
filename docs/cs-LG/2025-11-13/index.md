@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-11-13
   <td>提出三角分布ES算法，用于提升机器人策略的稳定性和性能</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">PPO</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.09923v2" onclick="toggleFavorite(this, '2511.09923v2', 'Harnessing Bounded-Support Evolution Strategies for Policy Refinement')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.09923v2" data-paper-url="./papers/251109923v2-harnessing-bounded-support-evolution-strategies-for-policy-refinemen.html" onclick="toggleFavorite(this, '2511.09923v2', 'Harnessing Bounded-Support Evolution Strategies for Policy Refinement')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

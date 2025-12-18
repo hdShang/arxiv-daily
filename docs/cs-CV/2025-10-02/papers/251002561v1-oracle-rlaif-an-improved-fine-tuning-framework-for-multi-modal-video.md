@@ -8,7 +8,7 @@ title: Oracle-RLAIF: An Improved Fine-Tuning Framework for Multi-modal Video Mod
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.02561" class="toolbar-btn" target="_blank">📄 arXiv: 2510.02561v1</a>
   <a href="https://arxiv.org/pdf/2510.02561.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.02561v1" onclick="toggleFavorite(this, '2510.02561v1', 'Oracle-RLAIF: An Improved Fine-Tuning Framework for Multi-modal Video Models through Reinforcement Learning from Ranking Feedback')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.02561v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.02561v1', 'Oracle-RLAIF: An Improved Fine-Tuning Framework for Multi-modal Video Models through Reinforcement Learning from Ranking Feedback')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

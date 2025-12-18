@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - eess.SY - 2025-11-19
   <td>提出基于强对偶和对偶上升的连续时间随机最优控制方法</td>
   <td class="tags-cell"><span class="paper-tag">motion planning</span> <span class="paper-tag">navigation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.19451v1" onclick="toggleFavorite(this, '2511.19451v1', 'Strong Duality and Dual Ascent Approach to Continuous-Time Chance-Constrained Stochastic Optimal Control')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.19451v1" data-paper-url="./papers/251119451v1-strong-duality-and-dual-ascent-approach-to-continuous-time-chance-co.html" onclick="toggleFavorite(this, '2511.19451v1', 'Strong Duality and Dual Ascent Approach to Continuous-Time Chance-Constrained Stochastic Optimal Control')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

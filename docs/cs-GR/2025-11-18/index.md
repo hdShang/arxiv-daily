@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-11-18
   <td>FreeMusco：用于肌肉骨骼角色形态自适应运动的无运动数据潜在控制学习</td>
   <td class="tags-cell"><span class="paper-tag">quadruped</span> <span class="paper-tag">quadrupedal</span> <span class="paper-tag">humanoid</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.14205v1" onclick="toggleFavorite(this, '2511.14205v1', 'FreeMusco: Motion-Free Learning of Latent Control for Morphology-Adaptive Locomotion in Musculoskeletal Characters')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.14205v1" data-paper-url="./papers/251114205v1-freemusco-motion-free-learning-of-latent-control-for-morphology-adap.html" onclick="toggleFavorite(this, '2511.14205v1', 'FreeMusco: Motion-Free Learning of Latent Control for Morphology-Adaptive Locomotion in Musculoskeletal Characters')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

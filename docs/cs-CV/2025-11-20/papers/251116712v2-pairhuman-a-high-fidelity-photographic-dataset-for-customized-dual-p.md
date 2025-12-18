@@ -8,7 +8,7 @@ title: PairHuman: A High-Fidelity Photographic Dataset for Customized Dual-Perso
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.16712" class="toolbar-btn" target="_blank">📄 arXiv: 2511.16712v2</a>
   <a href="https://arxiv.org/pdf/2511.16712.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.16712v2" onclick="toggleFavorite(this, '2511.16712v2', 'PairHuman: A High-Fidelity Photographic Dataset for Customized Dual-Person Generation')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.16712v2" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.16712v2', 'PairHuman: A High-Fidelity Photographic Dataset for Customized Dual-Person Generation')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

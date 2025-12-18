@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-10-13
   <td>TabVLA：针对视觉-语言-动作模型的有目标后门攻击框架</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">embodied AI</span> <span class="paper-tag">vision-language-action</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.10932v1" onclick="toggleFavorite(this, '2510.10932v1', 'TabVLA: Targeted Backdoor Attacks on Vision-Language-Action Models')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.10932v1" data-paper-url="./papers/251010932v1-tabvla-targeted-backdoor-attacks-on-vision-language-action-models.html" onclick="toggleFavorite(this, '2510.10932v1', 'TabVLA: Targeted Backdoor Attacks on Vision-Language-Action Models')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

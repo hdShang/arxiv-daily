@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-11-09
   <td>GHOST：求解凸集图上的旅行商问题，用于轨迹规划</td>
   <td class="tags-cell"><span class="paper-tag">trajectory optimization</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.06471v2" onclick="toggleFavorite(this, '2511.06471v2', 'GHOST: Solving the Traveling Salesman Problem on Graphs of Convex Sets')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.06471v2" data-paper-url="./papers/251106471v2-ghost-solving-the-traveling-salesman-problem-on-graphs-of-convex-set.html" onclick="toggleFavorite(this, '2511.06471v2', 'GHOST: Solving the Traveling Salesman Problem on Graphs of Convex Sets')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

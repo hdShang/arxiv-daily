@@ -8,7 +8,7 @@ title: TacFinRay: Soft Tactile Fin-Ray Finger with Indirect Tactile Sensing for 
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2512.06524" class="toolbar-btn" target="_blank">📄 arXiv: 2512.06524v1</a>
   <a href="https://arxiv.org/pdf/2512.06524.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.06524v1" onclick="toggleFavorite(this, '2512.06524v1', 'TacFinRay: Soft Tactile Fin-Ray Finger with Indirect Tactile Sensing for Robust Grasping')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.06524v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2512.06524v1', 'TacFinRay: Soft Tactile Fin-Ray Finger with Indirect Tactile Sensing for Robust Grasping')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

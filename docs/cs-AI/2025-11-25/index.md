@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-11-25
   <td>提出CostNav以解决导航任务经济可行性评估问题</td>
   <td class="tags-cell"><span class="paper-tag">imitation learning</span> <span class="paper-tag">navigation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.20216v1" onclick="toggleFavorite(this, '2511.20216v1', 'CostNav: A Navigation Benchmark for Cost-Aware Evaluation of Embodied Agents')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.20216v1" data-paper-url="./papers/251120216v1-costnav-a-navigation-benchmark-for-cost-aware-evaluation-of-embodied.html" onclick="toggleFavorite(this, '2511.20216v1', 'CostNav: A Navigation Benchmark for Cost-Aware Evaluation of Embodied Agents')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -38,7 +38,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-11-25
   <td>VibraVerse：构建大规模几何-声学对齐数据集，实现物理一致的多模态学习</td>
   <td class="tags-cell"><span class="paper-tag">representation learning</span> <span class="paper-tag">contrastive learning</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.20422v1" onclick="toggleFavorite(this, '2511.20422v1', 'VibraVerse: A Large-Scale Geometry-Acoustics Alignment Dataset for Physically-Consistent Multimodal Learning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.20422v1" data-paper-url="./papers/251120422v1-vibraverse-a-large-scale-geometry-acoustics-alignment-dataset-for-ph.html" onclick="toggleFavorite(this, '2511.20422v1', 'VibraVerse: A Large-Scale Geometry-Acoustics Alignment Dataset for Physically-Consistent Multimodal Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

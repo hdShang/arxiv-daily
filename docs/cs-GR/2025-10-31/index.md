@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-10-31
   <td>提出基于高斯溅射和扩散增强的细节增强方法，用于大规模体绘制。</td>
   <td class="tags-cell"><span class="paper-tag">gaussian splatting</span> <span class="paper-tag">splatting</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.21697v1" onclick="toggleFavorite(this, '2511.21697v1', 'Detail Enhanced Gaussian Splatting for Large-Scale Volumetric Capture')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.21697v1" data-paper-url="./papers/251121697v1-detail-enhanced-gaussian-splatting-for-large-scale-volumetric-captur.html" onclick="toggleFavorite(this, '2511.21697v1', 'Detail Enhanced Gaussian Splatting for Large-Scale Volumetric Capture')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

@@ -8,7 +8,7 @@ title: Gaussian-Augmented Physics Simulation and System Identification with Comp
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.06846" class="toolbar-btn" target="_blank">📄 arXiv: 2511.06846v1</a>
   <a href="https://arxiv.org/pdf/2511.06846.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.06846v1" onclick="toggleFavorite(this, '2511.06846v1', 'Gaussian-Augmented Physics Simulation and System Identification with Complex Colliders')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.06846v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.06846v1', 'Gaussian-Augmented Physics Simulation and System Identification with Complex Colliders')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

@@ -8,7 +8,7 @@ title: SAC-MoE: Reinforcement Learning with Mixture-of-Experts for Control of Hy
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.12361" class="toolbar-btn" target="_blank">📄 arXiv: 2511.12361v1</a>
   <a href="https://arxiv.org/pdf/2511.12361.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.12361v1" onclick="toggleFavorite(this, '2511.12361v1', 'SAC-MoE: Reinforcement Learning with Mixture-of-Experts for Control of Hybrid Dynamical Systems with Uncertainty')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.12361v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.12361v1', 'SAC-MoE: Reinforcement Learning with Mixture-of-Experts for Control of Hybrid Dynamical Systems with Uncertainty')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

@@ -8,7 +8,7 @@ title: Detecting Latin in Historical Books with Large Language Models: A Multimo
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.19585" class="toolbar-btn" target="_blank">📄 arXiv: 2510.19585v2</a>
   <a href="https://arxiv.org/pdf/2510.19585.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.19585v2" onclick="toggleFavorite(this, '2510.19585v2', 'Detecting Latin in Historical Books with Large Language Models: A Multimodal Benchmark')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.19585v2" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.19585v2', 'Detecting Latin in Historical Books with Large Language Models: A Multimodal Benchmark')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

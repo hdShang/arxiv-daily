@@ -36,7 +36,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>C3G：使用2K高斯学习紧凑的3D表示，提升场景重建与理解</td>
   <td class="tags-cell"><span class="paper-tag">3D gaussian splatting</span> <span class="paper-tag">gaussian splatting</span> <span class="paper-tag">novel view synthesis</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04021v1" onclick="toggleFavorite(this, '2512.04021v1', 'C3G: Learning Compact 3D Representations with 2K Gaussians')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04021v1" data-paper-url="./papers/251204021v1-c3g-learning-compact-3d-representations-with-2k-gaussians.html" onclick="toggleFavorite(this, '2512.04021v1', 'C3G: Learning Compact 3D Representations with 2K Gaussians')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -44,7 +44,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>Motion4D：学习3D一致的运动和语义信息，用于4D场景理解</td>
   <td class="tags-cell"><span class="paper-tag">gaussian splatting</span> <span class="paper-tag">novel view synthesis</span> <span class="paper-tag">scene understanding</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.03601v1" onclick="toggleFavorite(this, '2512.03601v1', 'Motion4D: Learning 3D-Consistent Motion and Semantics for 4D Scene Understanding')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.03601v1" data-paper-url="./papers/251203601v1-motion4d-learning-3d-consistent-motion-and-semantics-for-4d-scene-un.html" onclick="toggleFavorite(this, '2512.03601v1', 'Motion4D: Learning 3D-Consistent Motion and Semantics for 4D Scene Understanding')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>3</td>
@@ -52,7 +52,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>SyncTrack4D：面向未同步多视角视频的4D高斯溅射动态场景重建。</td>
   <td class="tags-cell"><span class="paper-tag">gaussian splatting</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04315v1" onclick="toggleFavorite(this, '2512.04315v1', 'SyncTrack4D: Cross-Video Motion Alignment and Video Synchronization for Multi-Video 4D Gaussian Splatting')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04315v1" data-paper-url="./papers/251204315v1-synctrack4d-cross-video-motion-alignment-and-video-synchronization-f.html" onclick="toggleFavorite(this, '2512.04315v1', 'SyncTrack4D: Cross-Video Motion Alignment and Video Synchronization for Multi-Video 4D Gaussian Splatting')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>4</td>
@@ -60,7 +60,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>提出基于记忆引导的点云补全框架，用于牙科重建，提升补全精度。</td>
   <td class="tags-cell"><span class="paper-tag">point cloud</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.03598v1" onclick="toggleFavorite(this, '2512.03598v1', 'Memory-Guided Point Cloud Completion for Dental Reconstruction')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.03598v1" data-paper-url="./papers/251203598v1-memory-guided-point-cloud-completion-for-dental-reconstruction.html" onclick="toggleFavorite(this, '2512.03598v1', 'Memory-Guided Point Cloud Completion for Dental Reconstruction')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>5</td>
@@ -68,7 +68,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>Mind-to-Face：首个基于脑电信号解码的逼真人脸Avatar生成框架</td>
   <td class="tags-cell"><span class="paper-tag">3D gaussian splatting</span> <span class="paper-tag">gaussian splatting</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04313v1" onclick="toggleFavorite(this, '2512.04313v1', 'Mind-to-Face: Neural-Driven Photorealistic Avatar Synthesis via EEG Decoding')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04313v1" data-paper-url="./papers/251204313v1-mind-to-face-neural-driven-photorealistic-avatar-synthesis-via-eeg-d.html" onclick="toggleFavorite(this, '2512.04313v1', 'Mind-to-Face: Neural-Driven Photorealistic Avatar Synthesis via EEG Decoding')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>6</td>
@@ -76,7 +76,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>MVRoom：基于多视角扩散模型的可控3D室内场景生成</td>
   <td class="tags-cell"><span class="paper-tag">novel view synthesis</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04248v1" onclick="toggleFavorite(this, '2512.04248v1', 'MVRoom: Controllable 3D Indoor Scene Generation with Multi-View Diffusion Models')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04248v1" data-paper-url="./papers/251204248v1-mvroom-controllable-3d-indoor-scene-generation-with-multi-view-diffu.html" onclick="toggleFavorite(this, '2512.04248v1', 'MVRoom: Controllable 3D Indoor Scene Generation with Multi-View Diffusion Models')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>7</td>
@@ -84,7 +84,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>发现VGGT中隐含的离群点抑制能力，提升野外图像三维重建鲁棒性</td>
   <td class="tags-cell"><span class="paper-tag">VGGT</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04012v1" onclick="toggleFavorite(this, '2512.04012v1', 'Emergent Outlier View Rejection in Visual Geometry Grounded Transformers')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04012v1" data-paper-url="./papers/251204012v1-emergent-outlier-view-rejection-in-visual-geometry-grounded-transfor.html" onclick="toggleFavorite(this, '2512.04012v1', 'Emergent Outlier View Rejection in Visual Geometry Grounded Transformers')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>8</td>
@@ -92,7 +92,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>提出ReCamDriving，一种纯视觉相机控制的新轨迹视频生成框架</td>
   <td class="tags-cell"><span class="paper-tag">3DGS</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.03621v1" onclick="toggleFavorite(this, '2512.03621v1', 'ReCamDriving: LiDAR-Free Camera-Controlled Novel Trajectory Video Generation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.03621v1" data-paper-url="./papers/251203621v1-recamdriving-lidar-free-camera-controlled-novel-trajectory-video-gen.html" onclick="toggleFavorite(this, '2512.03621v1', 'ReCamDriving: LiDAR-Free Camera-Controlled Novel Trajectory Video Generation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>9</td>
@@ -100,7 +100,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>提出BBF框架，利用音视频语义指导上下文感知的视频插帧</td>
   <td class="tags-cell"><span class="paper-tag">optical flow</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.03590v1" onclick="toggleFavorite(this, '2512.03590v1', 'Beyond Boundary Frames: Audio-Visual Semantic Guidance for Context-Aware Video Interpolation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.03590v1" data-paper-url="./papers/251203590v1-beyond-boundary-frames-audio-visual-semantic-guidance-for-context-aw.html" onclick="toggleFavorite(this, '2512.03590v1', 'Beyond Boundary Frames: Audio-Visual Semantic Guidance for Context-Aware Video Interpolation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>10</td>
@@ -108,7 +108,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>GAOT：提出基于文本引导扩散模型的铰接物体生成框架</td>
   <td class="tags-cell"><span class="paper-tag">point cloud</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.03566v1" onclick="toggleFavorite(this, '2512.03566v1', 'GAOT: Generating Articulated Objects Through Text-Guided Diffusion Models')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.03566v1" data-paper-url="./papers/251203566v1-gaot-generating-articulated-objects-through-text-guided-diffusion-mo.html" onclick="toggleFavorite(this, '2512.03566v1', 'GAOT: Generating Articulated Objects Through Text-Guided Diffusion Models')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>11</td>
@@ -116,7 +116,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>CartoMapQA：提出用于评估视觉-语言模型地图理解能力的基础基准数据集。</td>
   <td class="tags-cell"><span class="paper-tag">navigation</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.03558v1" onclick="toggleFavorite(this, '2512.03558v1', 'CartoMapQA: A Fundamental Benchmark Dataset Evaluating Vision-Language Models on Cartographic Map Understanding')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.03558v1" data-paper-url="./papers/251203558v1-cartomapqa-a-fundamental-benchmark-dataset-evaluating-vision-languag.html" onclick="toggleFavorite(this, '2512.03558v1', 'CartoMapQA: A Fundamental Benchmark Dataset Evaluating Vision-Language Models on Cartographic Map Understanding')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>12</td>
@@ -124,7 +124,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>OpenTrack3D：面向精确和泛化的开放词汇3D实例分割</td>
   <td class="tags-cell"><span class="paper-tag">point cloud</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.03532v1" onclick="toggleFavorite(this, '2512.03532v1', 'OpenTrack3D: Towards Accurate and Generalizable Open-Vocabulary 3D Instance Segmentation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.03532v1" data-paper-url="./papers/251203532v1-opentrack3d-towards-accurate-and-generalizable-open-vocabulary-3d-in.html" onclick="toggleFavorite(this, '2512.03532v1', 'OpenTrack3D: Towards Accurate and Generalizable Open-Vocabulary 3D Instance Segmentation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>13</td>
@@ -132,7 +132,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>提出结合YOLO和SAM的AfroBeats舞蹈动作分析框架，无需专业设备。</td>
   <td class="tags-cell"><span class="paper-tag">pose estimation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.03509v1" onclick="toggleFavorite(this, '2512.03509v1', 'AfroBeats Dance Movement Analysis Using Computer Vision: A Proof-of-Concept Framework Combining YOLO and Segment Anything Model')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.03509v1" data-paper-url="./papers/251203509v1-afrobeats-dance-movement-analysis-using-computer-vision-a-proof-of-c.html" onclick="toggleFavorite(this, '2512.03509v1', 'AfroBeats Dance Movement Analysis Using Computer Vision: A Proof-of-Concept Framework Combining YOLO and Segment Anything Model')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>14</td>
@@ -140,7 +140,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>提出EEA：一种用于长视频理解的探索-利用智能体框架</td>
   <td class="tags-cell"><span class="paper-tag">navigation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.03500v1" onclick="toggleFavorite(this, '2512.03500v1', 'EEA: Exploration-Exploitation Agent for Long Video Understanding')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.03500v1" data-paper-url="./papers/251203500v1-eea-exploration-exploitation-agent-for-long-video-understanding.html" onclick="toggleFavorite(this, '2512.03500v1', 'EEA: Exploration-Exploitation Agent for Long Video Understanding')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -159,7 +159,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>提出Cross-Stain Contrastive Learning框架，解决多染色病理切片表示学习中的对齐问题。</td>
   <td class="tags-cell"><span class="paper-tag">representation learning</span> <span class="paper-tag">contrastive learning</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.03577v1" onclick="toggleFavorite(this, '2512.03577v1', 'Cross-Stain Contrastive Learning for Paired Immunohistochemistry and Histopathology Slide Representation Learning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.03577v1" data-paper-url="./papers/251203577v1-cross-stain-contrastive-learning-for-paired-immunohistochemistry-and.html" onclick="toggleFavorite(this, '2512.03577v1', 'Cross-Stain Contrastive Learning for Paired Immunohistochemistry and Histopathology Slide Representation Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>16</td>
@@ -167,7 +167,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>提出TempR1，通过时序感知多任务强化学习提升MLLM对长视频的时序理解能力。</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">localization</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.03963v2" onclick="toggleFavorite(this, '2512.03963v2', 'TempR1: Improving Temporal Understanding of MLLMs via Temporal-Aware Multi-Task Reinforcement Learning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.03963v2" data-paper-url="./papers/251203963v2-tempr1-improving-temporal-understanding-of-mllms-via-temporal-aware-.html" onclick="toggleFavorite(this, '2512.03963v2', 'TempR1: Improving Temporal Understanding of MLLMs via Temporal-Aware Multi-Task Reinforcement Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>17</td>
@@ -175,7 +175,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>RELIC：基于长时记忆的交互式视频世界模型，实现实时场景探索</td>
   <td class="tags-cell"><span class="paper-tag">world model</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04040v1" onclick="toggleFavorite(this, '2512.04040v1', 'RELIC: Interactive Video World Model with Long-Horizon Memory')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04040v1" data-paper-url="./papers/251204040v1-relic-interactive-video-world-model-with-long-horizon-memory.html" onclick="toggleFavorite(this, '2512.04040v1', 'RELIC: Interactive Video World Model with Long-Horizon Memory')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>18</td>
@@ -183,7 +183,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>研究草图表示学习中时序性的影响，揭示最优建模方式。</td>
   <td class="tags-cell"><span class="paper-tag">representation learning</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04007v2" onclick="toggleFavorite(this, '2512.04007v2', 'On the Temporality for Sketch Representation Learning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04007v2" data-paper-url="./papers/251204007v2-on-the-temporality-for-sketch-representation-learning.html" onclick="toggleFavorite(this, '2512.04007v2', 'On the Temporality for Sketch Representation Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>19</td>
@@ -191,7 +191,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>提出频率感知Mamba（FAMamba）用于恶劣天气下的交通图像恢复。</td>
   <td class="tags-cell"><span class="paper-tag">Mamba</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.03852v1" onclick="toggleFavorite(this, '2512.03852v1', 'Traffic Image Restoration under Adverse Weather via Frequency-Aware Mamba')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.03852v1" data-paper-url="./papers/251203852v1-traffic-image-restoration-under-adverse-weather-via-frequency-aware-.html" onclick="toggleFavorite(this, '2512.03852v1', 'Traffic Image Restoration under Adverse Weather via Frequency-Aware Mamba')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>20</td>
@@ -199,7 +199,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>提出单一生涯学习范式，利用个体生活视频自监督学习通用视觉表征。</td>
   <td class="tags-cell"><span class="paper-tag">representation learning</span> <span class="paper-tag">depth estimation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04085v1" onclick="toggleFavorite(this, '2512.04085v1', 'Unique Lives, Shared World: Learning from Single-Life Videos')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04085v1" data-paper-url="./papers/251204085v1-unique-lives-shared-world-learning-from-single-life-videos.html" onclick="toggleFavorite(this, '2512.04085v1', 'Unique Lives, Shared World: Learning from Single-Life Videos')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -218,7 +218,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>提出Gamma-from-Mono，用于车辆应用中道路相对、度量、自监督单目几何估计</td>
   <td class="tags-cell"><span class="paper-tag">motion planning</span> <span class="paper-tag">depth estimation</span> <span class="paper-tag">monocular depth</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04303v1" onclick="toggleFavorite(this, '2512.04303v1', 'Gamma-from-Mono: Road-Relative, Metric, Self-Supervised Monocular Geometry for Vehicular Applications')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04303v1" data-paper-url="./papers/251204303v1-gamma-from-mono-road-relative-metric-self-supervised-monocular-geome.html" onclick="toggleFavorite(this, '2512.04303v1', 'Gamma-from-Mono: Road-Relative, Metric, Self-Supervised Monocular Geometry for Vehicular Applications')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>22</td>
@@ -226,7 +226,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>LAMP：利用语言辅助的运动规划实现可控视频生成</td>
   <td class="tags-cell"><span class="paper-tag">motion planning</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.03619v2" onclick="toggleFavorite(this, '2512.03619v2', 'LAMP: Language-Assisted Motion Planning for Controllable Video Generation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.03619v2" data-paper-url="./papers/251203619v2-lamp-language-assisted-motion-planning-for-controllable-video-genera.html" onclick="toggleFavorite(this, '2512.03619v2', 'LAMP: Language-Assisted Motion Planning for Controllable Video Generation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>23</td>
@@ -234,7 +234,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>SpaceTools：通过双重交互强化学习增强工具辅助的空间推理能力</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">reinforcement learning</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04069v1" onclick="toggleFavorite(this, '2512.04069v1', 'SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04069v1" data-paper-url="./papers/251204069v1-spacetools-tool-augmented-spatial-reasoning-via-double-interactive-r.html" onclick="toggleFavorite(this, '2512.04069v1', 'SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>24</td>
@@ -242,7 +242,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>提出Vision Action Transformer (VAT)，充分利用ViT各层特征进行机器人动作学习。</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">imitation learning</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.06013v1" onclick="toggleFavorite(this, '2512.06013v1', 'VAT: Vision Action Transformer by Unlocking Full Representation of ViT')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.06013v1" data-paper-url="./papers/251206013v1-vat-vision-action-transformer-by-unlocking-full-representation-of-vi.html" onclick="toggleFavorite(this, '2512.06013v1', 'VAT: Vision Action Transformer by Unlocking Full Representation of ViT')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>25</td>
@@ -250,7 +250,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>PosA-VLA：通过姿态条件锚点注意力增强具身任务中的动作生成</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.03724v2" onclick="toggleFavorite(this, '2512.03724v2', 'PosA-VLA: Enhancing Action Generation via Pose-Conditioned Anchor Attention')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.03724v2" data-paper-url="./papers/251203724v2-posa-vla-enhancing-action-generation-via-pose-conditioned-anchor-att.html" onclick="toggleFavorite(this, '2512.03724v2', 'PosA-VLA: Enhancing Action Generation via Pose-Conditioned Anchor Attention')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -269,7 +269,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>FloodDiffusion：用于流式运动生成的定制扩散强制框架</td>
   <td class="tags-cell"><span class="paper-tag">motion generation</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.03520v1" onclick="toggleFavorite(this, '2512.03520v1', 'FloodDiffusion: Tailored Diffusion Forcing for Streaming Motion Generation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.03520v1" data-paper-url="./papers/251203520v1-flooddiffusion-tailored-diffusion-forcing-for-streaming-motion-gener.html" onclick="toggleFavorite(this, '2512.03520v1', 'FloodDiffusion: Tailored Diffusion Forcing for Streaming Motion Generation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>27</td>
@@ -277,7 +277,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>UniMo：提出一个自回归框架，统一建模2D视频和3D人体运动，实现同步生成与理解。</td>
   <td class="tags-cell"><span class="paper-tag">motion token</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.03918v1" onclick="toggleFavorite(this, '2512.03918v1', 'UniMo: Unifying 2D Video and 3D Human Motion with an Autoregressive Framework')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.03918v1" data-paper-url="./papers/251203918v1-unimo-unifying-2d-video-and-3d-human-motion-with-an-autoregressive-f.html" onclick="toggleFavorite(this, '2512.03918v1', 'UniMo: Unifying 2D Video and 3D Human Motion with an Autoregressive Framework')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -296,7 +296,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>提出GRU-SNF，通过推理时随机细化GRU-NF，实现实时视频运动迁移中多样性预测。</td>
   <td class="tags-cell"><span class="paper-tag">motion transfer</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04282v1" onclick="toggleFavorite(this, '2512.04282v1', 'Inference-time Stochastic Refinement of GRU-Normalizing Flow for Real-time Video Motion Transfer')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04282v1" data-paper-url="./papers/251204282v1-inference-time-stochastic-refinement-of-gru-normalizing-flow-for-rea.html" onclick="toggleFavorite(this, '2512.04282v1', 'Inference-time Stochastic Refinement of GRU-Normalizing Flow for Real-time Video Motion Transfer')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -315,7 +315,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-03
   <td>PULSE：统一多任务架构，用于心脏分割、诊断和少样本跨模态临床自适应</td>
   <td class="tags-cell"><span class="paper-tag">PULSE</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.03848v1" onclick="toggleFavorite(this, '2512.03848v1', 'PULSE: A Unified Multi-Task Architecture for Cardiac Segmentation, Diagnosis, and Few-Shot Cross-Modality Clinical Adaptation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.03848v1" data-paper-url="./papers/251203848v1-pulse-a-unified-multi-task-architecture-for-cardiac-segmentation-dia.html" onclick="toggleFavorite(this, '2512.03848v1', 'PULSE: A Unified Multi-Task Architecture for Cardiac Segmentation, Diagnosis, and Few-Shot Cross-Modality Clinical Adaptation')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

@@ -8,7 +8,7 @@ title: StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffu
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2512.10959" class="toolbar-btn" target="_blank">📄 arXiv: 2512.10959v1</a>
   <a href="https://arxiv.org/pdf/2512.10959.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.10959v1" onclick="toggleFavorite(this, '2512.10959v1', 'StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffusion in a Canonical Space')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.10959v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2512.10959v1', 'StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffusion in a Canonical Space')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

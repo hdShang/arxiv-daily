@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.CL - 2025-10-02
   <td>提出模型融合方法，提升多模态模型在语言任务中的性能表现</td>
   <td class="tags-cell"><span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.01845v1" onclick="toggleFavorite(this, '2510.01845v1', 'Model Merging to Maintain Language-Only Performance in Developmentally Plausible Multimodal Models')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.01845v1" data-paper-url="./papers/251001845v1-model-merging-to-maintain-language-only-performance-in-developmental.html" onclick="toggleFavorite(this, '2510.01845v1', 'Model Merging to Maintain Language-Only Performance in Developmentally Plausible Multimodal Models')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -38,7 +38,7 @@ title: arXiv 中文要点汇总 - cs.CL - 2025-10-02
   <td>通过感官提示激活纯文本语言模型中的潜在多模态表征</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.02425v1" onclick="toggleFavorite(this, '2510.02425v1', 'Words That Make Language Models Perceive')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.02425v1" data-paper-url="./papers/251002425v1-words-that-make-language-models-perceive.html" onclick="toggleFavorite(this, '2510.02425v1', 'Words That Make Language Models Perceive')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

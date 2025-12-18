@@ -37,7 +37,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出VaCo，通过视觉中心激活与协调提升多模态大语言模型的视觉理解能力</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span> <span class="paper-tag">foundation model</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14349v3" onclick="toggleFavorite(this, '2510.14349v3', 'Vision-Centric Activation and Coordination for Multimodal Large Language Models')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14349v3" data-paper-url="./papers/251014349v3-vision-centric-activation-and-coordination-for-multimodal-large-lang.html" onclick="toggleFavorite(this, '2510.14349v3', 'Vision-Centric Activation and Coordination for Multimodal Large Language Models')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -45,7 +45,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出IAD-GPT，利用多模态大语言模型提升工业异常检测的视觉知识。</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span> <span class="paper-tag">multimodal</span> <span class="paper-tag">visual grounding</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.16036v1" onclick="toggleFavorite(this, '2510.16036v1', 'IAD-GPT: Advancing Visual Knowledge in Multimodal Large Language Model for Industrial Anomaly Detection')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.16036v1" data-paper-url="./papers/251016036v1-iad-gpt-advancing-visual-knowledge-in-multimodal-large-language-mode.html" onclick="toggleFavorite(this, '2510.16036v1', 'IAD-GPT: Advancing Visual Knowledge in Multimodal Large Language Model for Industrial Anomaly Detection')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>3</td>
@@ -53,7 +53,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出nlg2choice方法，提升多模态大语言模型在细粒度视觉识别中的分类与检索能力。</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14885v2" onclick="toggleFavorite(this, '2510.14885v2', 'You May Speak Freely: Improving the Fine-Grained Visual Recognition Capabilities of Multimodal Large Language Models with Answer Extraction')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14885v2" data-paper-url="./papers/251014885v2-you-may-speak-freely-improving-the-fine-grained-visual-recognition-c.html" onclick="toggleFavorite(this, '2510.14885v2', 'You May Speak Freely: Improving the Fine-Grained Visual Recognition Capabilities of Multimodal Large Language Models with Answer Extraction')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>4</td>
@@ -61,7 +61,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>系统性评测多模态大语言模型在人脸识别任务上的性能表现。</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14866v1" onclick="toggleFavorite(this, '2510.14866v1', 'Benchmarking Multimodal Large Language Models for Face Recognition')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14866v1" data-paper-url="./papers/251014866v1-benchmarking-multimodal-large-language-models-for-face-recognition.html" onclick="toggleFavorite(this, '2510.14866v1', 'Benchmarking Multimodal Large Language Models for Face Recognition')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>5</td>
@@ -69,7 +69,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出UniFilter：一种基于合成数据的统一多模态数据质量分类器</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15162v1" onclick="toggleFavorite(this, '2510.15162v1', 'Train a Unified Multimodal Data Quality Classifier with Synthetic Data')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15162v1" data-paper-url="./papers/251015162v1-train-a-unified-multimodal-data-quality-classifier-with-synthetic-da.html" onclick="toggleFavorite(this, '2510.15162v1', 'Train a Unified Multimodal Data Quality Classifier with Synthetic Data')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>6</td>
@@ -77,7 +77,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出基于多模态LLM描述的半监督视频异常检测框架，提升复杂异常检测能力和可解释性。</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14896v1" onclick="toggleFavorite(this, '2510.14896v1', 'Leveraging Multimodal LLM Descriptions of Activity for Explainable Semi-Supervised Video Anomaly Detection')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14896v1" data-paper-url="./papers/251014896v1-leveraging-multimodal-llm-descriptions-of-activity-for-explainable-s.html" onclick="toggleFavorite(this, '2510.14896v1', 'Leveraging Multimodal LLM Descriptions of Activity for Explainable Semi-Supervised Video Anomaly Detection')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>7</td>
@@ -85,7 +85,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出ChangingGrounding基准与Mem-ChangingGrounder方法，解决动态场景下的3D视觉定位问题</td>
   <td class="tags-cell"><span class="paper-tag">visual grounding</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14965v1" onclick="toggleFavorite(this, '2510.14965v1', 'ChangingGrounding: 3D Visual Grounding in Changing Scenes')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14965v1" data-paper-url="./papers/251014965v1-changinggrounding-3d-visual-grounding-in-changing-scenes.html" onclick="toggleFavorite(this, '2510.14965v1', 'ChangingGrounding: 3D Visual Grounding in Changing Scenes')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>8</td>
@@ -93,7 +93,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>VTimeCoT：通过绘制视频进度条进行视频时序定位与推理</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span> <span class="paper-tag">multimodal</span> <span class="paper-tag">chain-of-thought</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14672v1" onclick="toggleFavorite(this, '2510.14672v1', 'VTimeCoT: Thinking by Drawing for Video Temporal Grounding and Reasoning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14672v1" data-paper-url="./papers/251014672v1-vtimecot-thinking-by-drawing-for-video-temporal-grounding-and-reason.html" onclick="toggleFavorite(this, '2510.14672v1', 'VTimeCoT: Thinking by Drawing for Video Temporal Grounding and Reasoning')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>9</td>
@@ -101,7 +101,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出DentVFM：用于口腔颌面放射学的通用视觉基础模型</td>
   <td class="tags-cell"><span class="paper-tag">foundation model</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14532v1" onclick="toggleFavorite(this, '2510.14532v1', 'Towards Generalist Intelligence in Dentistry: Vision Foundation Models for Oral and Maxillofacial Radiology')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14532v1" data-paper-url="./papers/251014532v1-towards-generalist-intelligence-in-dentistry-vision-foundation-model.html" onclick="toggleFavorite(this, '2510.14532v1', 'Towards Generalist Intelligence in Dentistry: Vision Foundation Models for Oral and Maxillofacial Radiology')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>10</td>
@@ -109,7 +109,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出Big Five和HEXACO联合建模方法，用于多模态表观人格特质识别</td>
   <td class="tags-cell"><span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14203v1" onclick="toggleFavorite(this, '2510.14203v1', 'Joint Modeling of Big Five and HEXACO for Multimodal Apparent Personality-trait Recognition')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14203v1" data-paper-url="./papers/251014203v1-joint-modeling-of-big-five-and-hexaco-for-multimodal-apparent-person.html" onclick="toggleFavorite(this, '2510.14203v1', 'Joint Modeling of Big Five and HEXACO for Multimodal Apparent Personality-trait Recognition')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>11</td>
@@ -117,7 +117,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>MOBIUS：通过多模态瓶颈融合与校准解码器剪枝实现Big-to-Mobile通用实例分割</td>
   <td class="tags-cell"><span class="paper-tag">foundation model</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15026v1" onclick="toggleFavorite(this, '2510.15026v1', 'MOBIUS: Big-to-Mobile Universal Instance Segmentation via Multi-modal Bottleneck Fusion and Calibrated Decoder Pruning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15026v1" data-paper-url="./papers/251015026v1-mobius-big-to-mobile-universal-instance-segmentation-via-multi-modal.html" onclick="toggleFavorite(this, '2510.15026v1', 'MOBIUS: Big-to-Mobile Universal Instance Segmentation via Multi-modal Bottleneck Fusion and Calibrated Decoder Pruning')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>12</td>
@@ -125,7 +125,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出MaskCaptioner，通过联合学习分割和描述视频中的物体轨迹，实现端到端的密集视频物体描述。</td>
   <td class="tags-cell"><span class="paper-tag">VLN</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14904v2" onclick="toggleFavorite(this, '2510.14904v2', 'MaskCaptioner: Learning to Jointly Segment and Caption Object Trajectories in Videos')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14904v2" data-paper-url="./papers/251014904v2-maskcaptioner-learning-to-jointly-segment-and-caption-object-traject.html" onclick="toggleFavorite(this, '2510.14904v2', 'MaskCaptioner: Learning to Jointly Segment and Caption Object Trajectories in Videos')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>13</td>
@@ -133,7 +133,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>DEXTER：利用扩散模型和文本推理实现视觉模型的可解释性，无需数据。</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14741v2" onclick="toggleFavorite(this, '2510.14741v2', 'DEXTER: Diffusion-Guided EXplanations with TExtual Reasoning for Vision Models')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14741v2" data-paper-url="./papers/251014741v2-dexter-diffusion-guided-explanations-with-textual-reasoning-for-visi.html" onclick="toggleFavorite(this, '2510.14741v2', 'DEXTER: Diffusion-Guided EXplanations with TExtual Reasoning for Vision Models')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>14</td>
@@ -141,7 +141,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出基于非配对视频片段的上下文学习方法，用于指令驱动的视频编辑。</td>
   <td class="tags-cell"><span class="paper-tag">instruction following</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14648v1" onclick="toggleFavorite(this, '2510.14648v1', 'In-Context Learning with Unpaired Clips for Instruction-based Video Editing')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14648v1" data-paper-url="./papers/251014648v1-in-context-learning-with-unpaired-clips-for-instruction-based-video-.html" onclick="toggleFavorite(this, '2510.14648v1', 'In-Context Learning with Unpaired Clips for Instruction-based Video Editing')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>15</td>
@@ -149,7 +149,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出高效视频采样EVS，通过剪枝时序冗余token加速VLM推理。</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14624v1" onclick="toggleFavorite(this, '2510.14624v1', 'Efficient Video Sampling: Pruning Temporally Redundant Tokens for Faster VLM Inference')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14624v1" data-paper-url="./papers/251014624v1-efficient-video-sampling-pruning-temporally-redundant-tokens-for-fas.html" onclick="toggleFavorite(this, '2510.14624v1', 'Efficient Video Sampling: Pruning Temporally Redundant Tokens for Faster VLM Inference')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>16</td>
@@ -157,7 +157,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出基于水印的三层对比解码方法，提升视觉-语言模型的事实性和视觉 grounding。</td>
   <td class="tags-cell"><span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14304v1" onclick="toggleFavorite(this, '2510.14304v1', 'Watermarking for Factuality: Guiding Vision-Language Models Toward Truth via Tri-layer Contrastive Decoding')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14304v1" data-paper-url="./papers/251014304v1-watermarking-for-factuality-guiding-vision-language-models-toward-tr.html" onclick="toggleFavorite(this, '2510.14304v1', 'Watermarking for Factuality: Guiding Vision-Language Models Toward Truth via Tri-layer Contrastive Decoding')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -176,7 +176,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>OmniMotion：提出连续掩码自回归Transformer，用于多模态全身人体运动生成。</td>
   <td class="tags-cell"><span class="paper-tag">linear attention</span> <span class="paper-tag">text-to-motion</span> <span class="paper-tag">motion generation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14954v1" onclick="toggleFavorite(this, '2510.14954v1', 'OmniMotion: Multimodal Motion Generation with Continuous Masked Autoregression')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14954v1" data-paper-url="./papers/251014954v1-omnimotion-multimodal-motion-generation-with-continuous-masked-autor.html" onclick="toggleFavorite(this, '2510.14954v1', 'OmniMotion: Multimodal Motion Generation with Continuous Masked Autoregression')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>18</td>
@@ -184,7 +184,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出WeCKD：一种弱监督链式蒸馏网络，用于高效多模态医学影像分析。</td>
   <td class="tags-cell"><span class="paper-tag">teacher-student</span> <span class="paper-tag">distillation</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14668v2" onclick="toggleFavorite(this, '2510.14668v2', 'WeCKD: Weakly-supervised Chained Distillation Network for Efficient Multimodal Medical Imaging')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14668v2" data-paper-url="./papers/251014668v2-weckd-weakly-supervised-chained-distillation-network-for-efficient-m.html" onclick="toggleFavorite(this, '2510.14668v2', 'WeCKD: Weakly-supervised Chained Distillation Network for Efficient Multimodal Medical Imaging')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>19</td>
@@ -192,7 +192,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出Wiki-PRF框架，解决知识库VQA中多模态查询质量和检索结果相关性问题</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">multimodal</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14605v2" onclick="toggleFavorite(this, '2510.14605v2', 'Knowledge-based Visual Question Answer with Multimodal Processing, Retrieval and Filtering')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14605v2" data-paper-url="./papers/251014605v2-knowledge-based-visual-question-answer-with-multimodal-processing-re.html" onclick="toggleFavorite(this, '2510.14605v2', 'Knowledge-based Visual Question Answer with Multimodal Processing, Retrieval and Filtering')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>20</td>
@@ -200,7 +200,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出CORE框架，融合上下文感知的路径选择语义，提升轨迹表示学习效果</td>
   <td class="tags-cell"><span class="paper-tag">representation learning</span> <span class="paper-tag">spatiotemporal</span> <span class="paper-tag">large language model</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14819v2" onclick="toggleFavorite(this, '2510.14819v2', 'Capturing Context-Aware Route Choice Semantics for Trajectory Representation Learning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14819v2" data-paper-url="./papers/251014819v2-capturing-context-aware-route-choice-semantics-for-trajectory-repres.html" onclick="toggleFavorite(this, '2510.14819v2', 'Capturing Context-Aware Route Choice Semantics for Trajectory Representation Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>21</td>
@@ -208,7 +208,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出DRIFT，通过梯度空间注入方向性推理知识，高效微调多模态大语言模型</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">large language model</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15050v1" onclick="toggleFavorite(this, '2510.15050v1', 'Directional Reasoning Injection for Fine-Tuning MLLMs')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15050v1" data-paper-url="./papers/251015050v1-directional-reasoning-injection-for-fine-tuning-mllms.html" onclick="toggleFavorite(this, '2510.15050v1', 'Directional Reasoning Injection for Fine-Tuning MLLMs')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>22</td>
@@ -216,7 +216,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出COGS框架以提升多模态大语言模型的推理能力</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">large language model</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15040v1" onclick="toggleFavorite(this, '2510.15040v1', 'Composition-Grounded Instruction Synthesis for Visual Reasoning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15040v1" data-paper-url="./papers/251015040v1-composition-grounded-instruction-synthesis-for-visual-reasoning.html" onclick="toggleFavorite(this, '2510.15040v1', 'Composition-Grounded Instruction Synthesis for Visual Reasoning')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>23</td>
@@ -224,7 +224,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出空间偏好奖励SPR，提升MLLM在细粒度空间理解上的能力</td>
   <td class="tags-cell"><span class="paper-tag">direct preference optimization</span> <span class="paper-tag">large language model</span> <span class="paper-tag">multimodal</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14374v1" onclick="toggleFavorite(this, '2510.14374v1', 'Spatial Preference Rewarding for MLLMs Spatial Understanding')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14374v1" data-paper-url="./papers/251014374v1-spatial-preference-rewarding-for-mllms-spatial-understanding.html" onclick="toggleFavorite(this, '2510.14374v1', 'Spatial Preference Rewarding for MLLMs Spatial Understanding')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>24</td>
@@ -232,7 +232,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>RealDPO：利用真实数据偏好学习，提升视频生成模型运动真实性</td>
   <td class="tags-cell"><span class="paper-tag">preference learning</span> <span class="paper-tag">DPO</span> <span class="paper-tag">direct preference optimization</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14955v2" onclick="toggleFavorite(this, '2510.14955v2', 'RealDPO: Real or Not Real, that is the Preference')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14955v2" data-paper-url="./papers/251014955v2-realdpo-real-or-not-real-that-is-the-preference.html" onclick="toggleFavorite(this, '2510.14955v2', 'RealDPO: Real or Not Real, that is the Preference')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>25</td>
@@ -240,7 +240,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>Terra：基于点潜变量的可探索原生3D世界模型</td>
   <td class="tags-cell"><span class="paper-tag">flow matching</span> <span class="paper-tag">world model</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14977v1" onclick="toggleFavorite(this, '2510.14977v1', 'Terra: Explorable Native 3D World Model with Point Latents')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14977v1" data-paper-url="./papers/251014977v1-terra-explorable-native-3d-world-model-with-point-latents.html" onclick="toggleFavorite(this, '2510.14977v1', 'Terra: Explorable Native 3D World Model with Point Latents')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>26</td>
@@ -248,7 +248,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出DRBD-Mamba模型，用于鲁棒高效的脑肿瘤分割，并提供分析性见解</td>
   <td class="tags-cell"><span class="paper-tag">Mamba</span> <span class="paper-tag">state space model</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14383v2" onclick="toggleFavorite(this, '2510.14383v2', 'DRBD-Mamba for Robust and Efficient Brain Tumor Segmentation with Analytical Insights')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14383v2" data-paper-url="./papers/251014383v2-drbd-mamba-for-robust-and-efficient-brain-tumor-segmentation-with-an.html" onclick="toggleFavorite(this, '2510.14383v2', 'DRBD-Mamba for Robust and Efficient Brain Tumor Segmentation with Analytical Insights')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>27</td>
@@ -256,7 +256,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>GDGen：基于势能的通用动力学生成框架，用于可扫描物理世界建模</td>
   <td class="tags-cell"><span class="paper-tag">world model</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15041v1" onclick="toggleFavorite(this, '2510.15041v1', 'Generalized Dynamics Generation towards Scannable Physical World Model')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15041v1" data-paper-url="./papers/251015041v1-generalized-dynamics-generation-towards-scannable-physical-world-mod.html" onclick="toggleFavorite(this, '2510.15041v1', 'Generalized Dynamics Generation towards Scannable Physical World Model')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>28</td>
@@ -264,7 +264,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出基于Vision Mamba的多孔介质渗透率预测模型，提升计算效率和内存利用率。</td>
   <td class="tags-cell"><span class="paper-tag">Mamba</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14516v2" onclick="toggleFavorite(this, '2510.14516v2', 'Vision Mamba for Permeability Prediction of Porous Media')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14516v2" data-paper-url="./papers/251014516v2-vision-mamba-for-permeability-prediction-of-porous-media.html" onclick="toggleFavorite(this, '2510.14516v2', 'Vision Mamba for Permeability Prediction of Porous Media')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>29</td>
@@ -272,7 +272,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出Identity-GRPO，通过强化学习优化多人视频生成中的身份保持问题。</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14256v2" onclick="toggleFavorite(this, '2510.14256v2', 'Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement Learning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14256v2" data-paper-url="./papers/251014256v2-identity-grpo-optimizing-multi-human-identity-preserving-video-gener.html" onclick="toggleFavorite(this, '2510.14256v2', 'Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>30</td>
@@ -280,7 +280,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出一种基于弱监督多模态视频数据管道的机器学习方法</td>
   <td class="tags-cell"><span class="paper-tag">MAE</span> <span class="paper-tag">depth estimation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14862v1" onclick="toggleFavorite(this, '2510.14862v1', 'Multi-modal video data-pipelines for machine learning with minimal human supervision')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14862v1" data-paper-url="./papers/251014862v1-multi-modal-video-data-pipelines-for-machine-learning-with-minimal-h.html" onclick="toggleFavorite(this, '2510.14862v1', 'Multi-modal video data-pipelines for machine learning with minimal human supervision')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>31</td>
@@ -288,7 +288,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出DBP-MAE加速ViT预训练，降低计算成本和碳排放，提升下游任务性能。</td>
   <td class="tags-cell"><span class="paper-tag">masked autoencoder</span> <span class="paper-tag">MAE</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14657v2" onclick="toggleFavorite(this, '2510.14657v2', 'Decorrelation Speeds Up Vision Transformers')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14657v2" data-paper-url="./papers/251014657v2-decorrelation-speeds-up-vision-transformers.html" onclick="toggleFavorite(this, '2510.14657v2', 'Decorrelation Speeds Up Vision Transformers')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -307,7 +307,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出CoT-PL框架，通过视觉链式推理和伪标签提升开放词汇目标检测在复杂场景下的性能。</td>
   <td class="tags-cell"><span class="paper-tag">open-vocabulary</span> <span class="paper-tag">open vocabulary</span> <span class="paper-tag">chain-of-thought</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14792v1" onclick="toggleFavorite(this, '2510.14792v1', 'CoT-PL: Visual Chain-of-Thought Reasoning Meets Pseudo-Labeling for Open-Vocabulary Object Detection')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14792v1" data-paper-url="./papers/251014792v1-cot-pl-visual-chain-of-thought-reasoning-meets-pseudo-labeling-for-o.html" onclick="toggleFavorite(this, '2510.14792v1', 'CoT-PL: Visual Chain-of-Thought Reasoning Meets Pseudo-Labeling for Open-Vocabulary Object Detection')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>33</td>
@@ -315,7 +315,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>GauSSmart：融合2D基础模型与几何滤波增强3D高斯溅射重建</td>
   <td class="tags-cell"><span class="paper-tag">3D gaussian splatting</span> <span class="paper-tag">gaussian splatting</span> <span class="paper-tag">splatting</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14270v3" onclick="toggleFavorite(this, '2510.14270v3', 'GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14270v3" data-paper-url="./papers/251014270v3-gaussmart-enhanced-3d-reconstruction-through-2d-foundation-models-an.html" onclick="toggleFavorite(this, '2510.14270v3', 'GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>34</td>
@@ -323,7 +323,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>BalanceGS：面向GPU的3D高斯溅射高效训练的算法-系统协同设计</td>
   <td class="tags-cell"><span class="paper-tag">3D gaussian splatting</span> <span class="paper-tag">3DGS</span> <span class="paper-tag">gaussian splatting</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14564v1" onclick="toggleFavorite(this, '2510.14564v1', 'BalanceGS: Algorithm-System Co-design for Efficient 3D Gaussian Splatting Training on GPU')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14564v1" data-paper-url="./papers/251014564v1-balancegs-algorithm-system-co-design-for-efficient-3d-gaussian-splat.html" onclick="toggleFavorite(this, '2510.14564v1', 'BalanceGS: Algorithm-System Co-design for Efficient 3D Gaussian Splatting Training on GPU')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>35</td>
@@ -331,7 +331,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>SaLon3R：结构感知的长期通用3D重建，解决冗余和几何不一致问题</td>
   <td class="tags-cell"><span class="paper-tag">depth estimation</span> <span class="paper-tag">3D gaussian splatting</span> <span class="paper-tag">3DGS</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15072v1" onclick="toggleFavorite(this, '2510.15072v1', 'SaLon3R: Structure-aware Long-term Generalizable 3D Reconstruction from Unposed Images')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15072v1" data-paper-url="./papers/251015072v1-salon3r-structure-aware-long-term-generalizable-3d-reconstruction-fr.html" onclick="toggleFavorite(this, '2510.15072v1', 'SaLon3R: Structure-aware Long-term Generalizable 3D Reconstruction from Unposed Images')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>36</td>
@@ -339,7 +339,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>利用图像先验知识提升3D高斯压缩率与渲染质量</td>
   <td class="tags-cell"><span class="paper-tag">3D gaussian splatting</span> <span class="paper-tag">3DGS</span> <span class="paper-tag">gaussian splatting</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14705v1" onclick="toggleFavorite(this, '2510.14705v1', 'Leveraging Learned Image Prior for 3D Gaussian Compression')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14705v1" data-paper-url="./papers/251014705v1-leveraging-learned-image-prior-for-3d-gaussian-compression.html" onclick="toggleFavorite(this, '2510.14705v1', 'Leveraging Learned Image Prior for 3D Gaussian Compression')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>37</td>
@@ -347,7 +347,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>C4D：通过双重对应关系从3D重建4D动态场景</td>
   <td class="tags-cell"><span class="paper-tag">depth estimation</span> <span class="paper-tag">optical flow</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14960v1" onclick="toggleFavorite(this, '2510.14960v1', 'C4D: 4D Made from 3D through Dual Correspondences')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14960v1" data-paper-url="./papers/251014960v1-c4d-4d-made-from-3d-through-dual-correspondences.html" onclick="toggleFavorite(this, '2510.14960v1', 'C4D: 4D Made from 3D through Dual Correspondences')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>38</td>
@@ -355,7 +355,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出基于多视角表演捕捉的视频扩散模型定制框架，实现相机可控和角色一致性。</td>
   <td class="tags-cell"><span class="paper-tag">gaussian splatting</span> <span class="paper-tag">splatting</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14179v1" onclick="toggleFavorite(this, '2510.14179v1', 'Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Multi-View Performance Captures')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14179v1" data-paper-url="./papers/251014179v1-virtually-being-customizing-camera-controllable-video-diffusion-mode.html" onclick="toggleFavorite(this, '2510.14179v1', 'Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Multi-View Performance Captures')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>39</td>
@@ -363,7 +363,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>STANCE：通过稀疏到稠密锚定编码实现运动连贯的视频生成</td>
   <td class="tags-cell"><span class="paper-tag">monocular depth</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14588v2" onclick="toggleFavorite(this, '2510.14588v2', 'STANCE: Motion Coherent Video Generation Via Sparse-to-Dense Anchored Encoding')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14588v2" data-paper-url="./papers/251014588v2-stance-motion-coherent-video-generation-via-sparse-to-dense-anchored.html" onclick="toggleFavorite(this, '2510.14588v2', 'STANCE: Motion Coherent Video Generation Via Sparse-to-Dense Anchored Encoding')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -382,7 +382,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>MathCanvas：用于多模态数学推理的内在视觉思维链</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">large language model</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14958v1" onclick="toggleFavorite(this, '2510.14958v1', 'MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal Mathematical Reasoning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14958v1" data-paper-url="./papers/251014958v1-mathcanvas-intrinsic-visual-chain-of-thought-for-multimodal-mathemat.html" onclick="toggleFavorite(this, '2510.14958v1', 'MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal Mathematical Reasoning')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>41</td>
@@ -390,7 +390,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>QDepth-VLA：利用量化深度预测辅助视觉-语言-动作模型，提升空间感知能力</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">VQ-VAE</span> <span class="paper-tag">vision-language-action</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14836v1" onclick="toggleFavorite(this, '2510.14836v1', 'QDepth-VLA: Quantized Depth Prediction as Auxiliary Supervision for Vision-Language-Action Models')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14836v1" data-paper-url="./papers/251014836v1-qdepth-vla-quantized-depth-prediction-as-auxiliary-supervision-for-v.html" onclick="toggleFavorite(this, '2510.14836v1', 'QDepth-VLA: Quantized Depth Prediction as Auxiliary Supervision for Vision-Language-Action Models')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>42</td>
@@ -398,7 +398,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>UrbanVerse：通过城市漫游视频扩展城市模拟规模，用于具身智能体训练。</td>
   <td class="tags-cell"><span class="paper-tag">quadruped</span> <span class="paper-tag">sim-to-real</span> <span class="paper-tag">embodied AI</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15018v1" onclick="toggleFavorite(this, '2510.15018v1', 'UrbanVerse: Scaling Urban Simulation by Watching City-Tour Videos')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15018v1" data-paper-url="./papers/251015018v1-urbanverse-scaling-urban-simulation-by-watching-city-tour-videos.html" onclick="toggleFavorite(this, '2510.15018v1', 'UrbanVerse: Scaling Urban Simulation by Watching City-Tour Videos')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -417,7 +417,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>EuroMineNet：欧盟多时相Sentinel-2矿区时空足迹分析基准数据集</td>
   <td class="tags-cell"><span class="paper-tag">spatiotemporal</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14661v1" onclick="toggleFavorite(this, '2510.14661v1', 'EuroMineNet: A Multitemporal Sentinel-2 Benchmark for Spatiotemporal Mining Footprint Analysis in the European Union (2015-2024)')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14661v1" data-paper-url="./papers/251014661v1-eurominenet-a-multitemporal-sentinel-2-benchmark-for-spatiotemporal-.html" onclick="toggleFavorite(this, '2510.14661v1', 'EuroMineNet: A Multitemporal Sentinel-2 Benchmark for Spatiotemporal Mining Footprint Analysis in the European Union (2015-2024)')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>44</td>
@@ -425,7 +425,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出事件间隔调制(EIM)方案，提升事件相机光通信的传输速率。</td>
   <td class="tags-cell"><span class="paper-tag">PULSE</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14245v1" onclick="toggleFavorite(this, '2510.14245v1', 'Event Interval Modulation: A Novel Scheme for Event-based Optical Camera Communication')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14245v1" data-paper-url="./papers/251014245v1-event-interval-modulation-a-novel-scheme-for-event-based-optical-cam.html" onclick="toggleFavorite(this, '2510.14245v1', 'Event Interval Modulation: A Novel Scheme for Event-based Optical Camera Communication')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -444,7 +444,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出TOUCH框架，实现文本引导的可控自由手部-物体交互生成。</td>
   <td class="tags-cell"><span class="paper-tag">physically plausible</span> <span class="paper-tag">HOI</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14874v1" onclick="toggleFavorite(this, '2510.14874v1', 'TOUCH: Text-guided Controllable Generation of Free-Form Hand-Object Interactions')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14874v1" data-paper-url="./papers/251014874v1-touch-text-guided-controllable-generation-of-free-form-hand-object-i.html" onclick="toggleFavorite(this, '2510.14874v1', 'TOUCH: Text-guided Controllable Generation of Free-Form Hand-Object Interactions')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>46</td>
@@ -452,7 +452,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>提出组合相位扩散方法，解决长运动序列生成中片段衔接不流畅问题。</td>
   <td class="tags-cell"><span class="paper-tag">motion generation</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.14427v1" onclick="toggleFavorite(this, '2510.14427v1', 'Deep Compositional Phase Diffusion for Long Motion Sequence Generation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.14427v1" data-paper-url="./papers/251014427v1-deep-compositional-phase-diffusion-for-long-motion-sequence-generati.html" onclick="toggleFavorite(this, '2510.14427v1', 'Deep Compositional Phase Diffusion for Long Motion Sequence Generation')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -471,7 +471,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-16
   <td>分析婴儿视觉经验的“块状”相似性，提升小样本学习泛化能力</td>
   <td class="tags-cell"><span class="paper-tag">egocentric</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15060v1" onclick="toggleFavorite(this, '2510.15060v1', 'A solution to generalized learning from small training sets found in everyday infant experiences')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15060v1" data-paper-url="./papers/251015060v1-a-solution-to-generalized-learning-from-small-training-sets-found-in.html" onclick="toggleFavorite(this, '2510.15060v1', 'A solution to generalized learning from small training sets found in everyday infant experiences')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-10-19
   <td>提出ELLSA，首个端到端全双工多模态模型，实现类人交互。</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.16756v1" onclick="toggleFavorite(this, '2510.16756v1', 'End-to-end Listen, Look, Speak and Act')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.16756v1" data-paper-url="./papers/251016756v1-end-to-end-listen-look-speak-and-act.html" onclick="toggleFavorite(this, '2510.16756v1', 'End-to-end Listen, Look, Speak and Act')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

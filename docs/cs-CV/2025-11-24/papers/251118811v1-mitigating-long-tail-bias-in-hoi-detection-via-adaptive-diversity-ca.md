@@ -8,7 +8,7 @@ title: Mitigating Long-Tail Bias in HOI Detection via Adaptive Diversity Cache
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.18811" class="toolbar-btn" target="_blank">📄 arXiv: 2511.18811v1</a>
   <a href="https://arxiv.org/pdf/2511.18811.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.18811v1" onclick="toggleFavorite(this, '2511.18811v1', 'Mitigating Long-Tail Bias in HOI Detection via Adaptive Diversity Cache')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.18811v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.18811v1', 'Mitigating Long-Tail Bias in HOI Detection via Adaptive Diversity Cache')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

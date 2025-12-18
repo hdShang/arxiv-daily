@@ -8,7 +8,7 @@ title: RefBench-PRO: Perceptual and Reasoning Oriented Benchmark for Referring E
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2512.06276" class="toolbar-btn" target="_blank">📄 arXiv: 2512.06276v2</a>
   <a href="https://arxiv.org/pdf/2512.06276.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.06276v2" onclick="toggleFavorite(this, '2512.06276v2', 'RefBench-PRO: Perceptual and Reasoning Oriented Benchmark for Referring Expression Comprehension')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.06276v2" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2512.06276v2', 'RefBench-PRO: Perceptual and Reasoning Oriented Benchmark for Referring Expression Comprehension')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

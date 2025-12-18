@@ -31,7 +31,7 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-10-03
   <td>GS-Share：通过增量高斯溅射实现高保真地图共享</td>
   <td class="tags-cell"><span class="paper-tag">3D gaussian splatting</span> <span class="paper-tag">gaussian splatting</span> <span class="paper-tag">splatting</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.02884v1" onclick="toggleFavorite(this, '2510.02884v1', 'GS-Share: Enabling High-fidelity Map Sharing with Incremental Gaussian Splatting')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.02884v1" data-paper-url="./papers/251002884v1-gs-share-enabling-high-fidelity-map-sharing-with-incremental-gaussia.html" onclick="toggleFavorite(this, '2510.02884v1', 'GS-Share: Enabling High-fidelity Map Sharing with Incremental Gaussian Splatting')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -50,7 +50,7 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-10-03
   <td>提出面向任务的三维点云可视化分类法，提升可视化效果与可解释性</td>
   <td class="tags-cell"><span class="paper-tag">spatiotemporal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.02651v1" onclick="toggleFavorite(this, '2510.02651v1', 'Visualizing Spatial Point Clouds: A Task-Oriented Taxonomy')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.02651v1" data-paper-url="./papers/251002651v1-visualizing-spatial-point-clouds-a-task-oriented-taxonomy.html" onclick="toggleFavorite(this, '2510.02651v1', 'Visualizing Spatial Point Clouds: A Task-Oriented Taxonomy')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

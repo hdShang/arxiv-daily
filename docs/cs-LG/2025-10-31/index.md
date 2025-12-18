@@ -31,7 +31,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-10-31
   <td>DeepThinkVLA通过混合注意力机制和两阶段训练提升VLA模型推理能力</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">vision-language-action</span> <span class="paper-tag">VLA</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.15669v1" onclick="toggleFavorite(this, '2511.15669v1', 'DeepThinkVLA: Enhancing Reasoning Capability of Vision-Language-Action Models')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.15669v1" data-paper-url="./papers/251115669v1-deepthinkvla-enhancing-reasoning-capability-of-vision-language-actio.html" onclick="toggleFavorite(this, '2511.15669v1', 'DeepThinkVLA: Enhancing Reasoning Capability of Vision-Language-Action Models')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -39,7 +39,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-10-31
   <td>提出软任务感知路由专家（STAR）方法，提升等变表征学习效果。</td>
   <td class="tags-cell"><span class="paper-tag">representation learning</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.27222v1" onclick="toggleFavorite(this, '2510.27222v1', 'Soft Task-Aware Routing of Experts for Equivariant Representation Learning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.27222v1" data-paper-url="./papers/251027222v1-soft-task-aware-routing-of-experts-for-equivariant-representation-le.html" onclick="toggleFavorite(this, '2510.27222v1', 'Soft Task-Aware Routing of Experts for Equivariant Representation Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

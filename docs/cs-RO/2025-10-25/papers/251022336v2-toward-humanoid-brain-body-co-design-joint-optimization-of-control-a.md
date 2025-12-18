@@ -8,7 +8,7 @@ title: Toward Humanoid Brain-Body Co-design: Joint Optimization of Control and M
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.22336" class="toolbar-btn" target="_blank">📄 arXiv: 2510.22336v2</a>
   <a href="https://arxiv.org/pdf/2510.22336.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.22336v2" onclick="toggleFavorite(this, '2510.22336v2', 'Toward Humanoid Brain-Body Co-design: Joint Optimization of Control and Morphology for Fall Recovery')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.22336v2" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.22336v2', 'Toward Humanoid Brain-Body Co-design: Joint Optimization of Control and Morphology for Fall Recovery')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

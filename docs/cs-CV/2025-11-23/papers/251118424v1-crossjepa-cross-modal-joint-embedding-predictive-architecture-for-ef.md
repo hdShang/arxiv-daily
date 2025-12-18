@@ -8,7 +8,7 @@ title: CrossJEPA: Cross-Modal Joint-Embedding Predictive Architecture for Effici
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.18424" class="toolbar-btn" target="_blank">📄 arXiv: 2511.18424v1</a>
   <a href="https://arxiv.org/pdf/2511.18424.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.18424v1" onclick="toggleFavorite(this, '2511.18424v1', 'CrossJEPA: Cross-Modal Joint-Embedding Predictive Architecture for Efficient 3D Representation Learning from 2D Images')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.18424v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.18424v1', 'CrossJEPA: Cross-Modal Joint-Embedding Predictive Architecture for Efficient 3D Representation Learning from 2D Images')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-12-04
   <td>SPLICE：局部语义提取到全局神经混合的部件级3D形状编辑</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04514v1" onclick="toggleFavorite(this, '2512.04514v1', 'SPLICE: Part-Level 3D Shape Editing from Local Semantic Extraction to Global Neural Mixing')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04514v1" data-paper-url="./papers/251204514v1-splice-part-level-3d-shape-editing-from-local-semantic-extraction-to.html" onclick="toggleFavorite(this, '2512.04514v1', 'SPLICE: Part-Level 3D Shape Editing from Local Semantic Extraction to Global Neural Mixing')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

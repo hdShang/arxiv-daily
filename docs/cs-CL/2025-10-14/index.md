@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.CL - 2025-10-14
   <td>VLURes：提出多语种视觉语言理解基准，评估低资源语言环境下VLM的细粒度能力。</td>
   <td class="tags-cell"><span class="paper-tag">scene understanding</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.12845v1" onclick="toggleFavorite(this, '2510.12845v1', 'VLURes: Benchmarking VLM Visual and Linguistic Understanding in Low-Resource Languages')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.12845v1" data-paper-url="./papers/251012845v1-vlures-benchmarking-vlm-visual-and-linguistic-understanding-in-low-r.html" onclick="toggleFavorite(this, '2510.12845v1', 'VLURes: Benchmarking VLM Visual and Linguistic Understanding in Low-Resource Languages')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

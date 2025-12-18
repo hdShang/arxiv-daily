@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-11-14
   <td>提出基于Flow-Matching Co-Generation的多机器人协同非抓取操作框架</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">motion planning</span> <span class="paper-tag">flow matching</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.10874v1" onclick="toggleFavorite(this, '2511.10874v1', 'Collaborative Multi-Robot Non-Prehensile Manipulation via Flow-Matching Co-Generation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.10874v1" data-paper-url="./papers/251110874v1-collaborative-multi-robot-non-prehensile-manipulation-via-flow-match.html" onclick="toggleFavorite(this, '2511.10874v1', 'Collaborative Multi-Robot Non-Prehensile Manipulation via Flow-Matching Co-Generation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -38,7 +38,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-11-14
   <td>WetExplorer：一种用于湿地温室气体自动调查的自主移动机器人</td>
   <td class="tags-cell"><span class="paper-tag">locomotion</span> <span class="paper-tag">motion planning</span> <span class="paper-tag">localization</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.10864v1" onclick="toggleFavorite(this, '2511.10864v1', 'WetExplorer: Automating Wetland Greenhouse-Gas Surveys with an Autonomous Mobile Robot')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.10864v1" data-paper-url="./papers/251110864v1-wetexplorer-automating-wetland-greenhouse-gas-surveys-with-an-autono.html" onclick="toggleFavorite(this, '2511.10864v1', 'WetExplorer: Automating Wetland Greenhouse-Gas Surveys with an Autonomous Mobile Robot')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

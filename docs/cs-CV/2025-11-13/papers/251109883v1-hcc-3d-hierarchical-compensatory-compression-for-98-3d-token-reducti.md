@@ -8,7 +8,7 @@ title: HCC-3D: Hierarchical Compensatory Compression for 98% 3D Token Reduction 
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.09883" class="toolbar-btn" target="_blank">📄 arXiv: 2511.09883v1</a>
   <a href="https://arxiv.org/pdf/2511.09883.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.09883v1" onclick="toggleFavorite(this, '2511.09883v1', 'HCC-3D: Hierarchical Compensatory Compression for 98% 3D Token Reduction in Vision-Language Models')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.09883v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.09883v1', 'HCC-3D: Hierarchical Compensatory Compression for 98% 3D Token Reduction in Vision-Language Models')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

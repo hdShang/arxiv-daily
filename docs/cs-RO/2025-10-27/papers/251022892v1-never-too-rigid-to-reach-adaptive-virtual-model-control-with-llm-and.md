@@ -8,7 +8,7 @@ title: Never Too Rigid to Reach: Adaptive Virtual Model Control with LLM- and Ly
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.22892" class="toolbar-btn" target="_blank">📄 arXiv: 2510.22892v1</a>
   <a href="https://arxiv.org/pdf/2510.22892.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.22892v1" onclick="toggleFavorite(this, '2510.22892v1', 'Never Too Rigid to Reach: Adaptive Virtual Model Control with LLM- and Lyapunov-Based Reinforcement Learning')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.22892v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.22892v1', 'Never Too Rigid to Reach: Adaptive Virtual Model Control with LLM- and Lyapunov-Based Reinforcement Learning')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

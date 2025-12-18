@@ -8,7 +8,7 @@ title: Is It Truly Necessary to Process and Fit Minutes-Long Reference Videos fo
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.07940" class="toolbar-btn" target="_blank">📄 arXiv: 2511.07940v1</a>
   <a href="https://arxiv.org/pdf/2511.07940.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.07940v1" onclick="toggleFavorite(this, '2511.07940v1', 'Is It Truly Necessary to Process and Fit Minutes-Long Reference Videos for Personalized Talking Face Generation?')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.07940v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.07940v1', 'Is It Truly Necessary to Process and Fit Minutes-Long Reference Videos for Personalized Talking Face Generation?')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

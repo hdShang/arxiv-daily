@@ -8,7 +8,7 @@ title: Fly-CL: A Fly-Inspired Framework for Enhancing Efficient Decorrelation an
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.16877" class="toolbar-btn" target="_blank">📄 arXiv: 2510.16877v1</a>
   <a href="https://arxiv.org/pdf/2510.16877.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.16877v1" onclick="toggleFavorite(this, '2510.16877v1', 'Fly-CL: A Fly-Inspired Framework for Enhancing Efficient Decorrelation and Reduced Training Time in Pre-trained Model-based Continual Representation Learning')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.16877v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.16877v1', 'Fly-CL: A Fly-Inspired Framework for Enhancing Efficient Decorrelation and Reduced Training Time in Pre-trained Model-based Continual Representation Learning')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

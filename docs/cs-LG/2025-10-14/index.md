@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-10-14
   <td>GraphShaper提出几何感知对齐框架，提升文本属性图的迁移学习性能。</td>
   <td class="tags-cell"><span class="paper-tag">contrastive learning</span> <span class="paper-tag">large language model</span> <span class="paper-tag">foundation model</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.12085v1" onclick="toggleFavorite(this, '2510.12085v1', 'GraphShaper: Geometry-aware Alignment for Improving Transfer Learning in Text-Attributed Graphs')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.12085v1" data-paper-url="./papers/251012085v1-graphshaper-geometry-aware-alignment-for-improving-transfer-learning.html" onclick="toggleFavorite(this, '2510.12085v1', 'GraphShaper: Geometry-aware Alignment for Improving Transfer Learning in Text-Attributed Graphs')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

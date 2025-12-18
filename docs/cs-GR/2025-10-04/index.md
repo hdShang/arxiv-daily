@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-10-04
   <td>提出加权水库抽样方法，提升注视点渲染的感知质量和效率</td>
   <td class="tags-cell"><span class="paper-tag">spatiotemporal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.03964v1" onclick="toggleFavorite(this, '2510.03964v1', 'Enhancing Foveated Rendering with Weighted Reservoir Sampling')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.03964v1" data-paper-url="./papers/251003964v1-enhancing-foveated-rendering-with-weighted-reservoir-sampling.html" onclick="toggleFavorite(this, '2510.03964v1', 'Enhancing Foveated Rendering with Weighted Reservoir Sampling')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-11-15
   <td>提出一种基于全身动作识别的CAVE沉浸式漫游框架，提升用户体验</td>
   <td class="tags-cell"><span class="paper-tag">locomotion</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.12251v1" onclick="toggleFavorite(this, '2511.12251v1', 'Locomotion in CAVE: Enhancing Immersion through Full-Body Motion')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.12251v1" data-paper-url="./papers/251112251v1-locomotion-in-cave-enhancing-immersion-through-full-body-motion.html" onclick="toggleFavorite(this, '2511.12251v1', 'Locomotion in CAVE: Enhancing Immersion through Full-Body Motion')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

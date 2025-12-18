@@ -8,7 +8,7 @@ title: Neural Hamiltonian Deformation Fields for Dynamic Scene Rendering
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2512.10424" class="toolbar-btn" target="_blank">📄 arXiv: 2512.10424v1</a>
   <a href="https://arxiv.org/pdf/2512.10424.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.10424v1" onclick="toggleFavorite(this, '2512.10424v1', 'Neural Hamiltonian Deformation Fields for Dynamic Scene Rendering')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.10424v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2512.10424v1', 'Neural Hamiltonian Deformation Fields for Dynamic Scene Rendering')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

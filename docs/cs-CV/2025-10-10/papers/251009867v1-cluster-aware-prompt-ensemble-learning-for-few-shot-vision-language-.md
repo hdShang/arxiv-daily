@@ -8,7 +8,7 @@ title: Cluster-Aware Prompt Ensemble Learning for Few-Shot Vision-Language Model
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.09867" class="toolbar-btn" target="_blank">📄 arXiv: 2510.09867v1</a>
   <a href="https://arxiv.org/pdf/2510.09867.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.09867v1" onclick="toggleFavorite(this, '2510.09867v1', 'Cluster-Aware Prompt Ensemble Learning for Few-Shot Vision-Language Model Adaptation')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.09867v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.09867v1', 'Cluster-Aware Prompt Ensemble Learning for Few-Shot Vision-Language Model Adaptation')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

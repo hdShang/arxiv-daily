@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-11-24
   <td>AvatarBrush：单目视频重建可局部编辑的高斯人像模型</td>
   <td class="tags-cell"><span class="paper-tag">3DGS</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.19189v1" onclick="toggleFavorite(this, '2511.19189v1', 'AvatarBrush: Monocular Reconstruction of Gaussian Avatars with Intuitive Local Editing')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.19189v1" data-paper-url="./papers/251119189v1-avatarbrush-monocular-reconstruction-of-gaussian-avatars-with-intuit.html" onclick="toggleFavorite(this, '2511.19189v1', 'AvatarBrush: Monocular Reconstruction of Gaussian Avatars with Intuitive Local Editing')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -38,7 +38,7 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-11-24
   <td>提出一种拓扑感知的逆渲染方法，用于重建高亏格曲面网格</td>
   <td class="tags-cell"><span class="paper-tag">point cloud</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.18680v1" onclick="toggleFavorite(this, '2511.18680v1', 'Inverse Rendering for High-Genus Surface Meshes from Multi-View Images')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.18680v1" data-paper-url="./papers/251118680v1-inverse-rendering-for-high-genus-surface-meshes-from-multi-view-imag.html" onclick="toggleFavorite(this, '2511.18680v1', 'Inverse Rendering for High-Genus Surface Meshes from Multi-View Images')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

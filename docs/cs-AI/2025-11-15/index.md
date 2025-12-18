@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-11-15
   <td>AttackVLA提出统一框架，评估并提升视觉-语言-动作模型的对抗鲁棒性。</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.12149v1" onclick="toggleFavorite(this, '2511.12149v1', 'AttackVLA: Benchmarking Adversarial and Backdoor Attacks on Vision-Language-Action Models')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.12149v1" data-paper-url="./papers/251112149v1-attackvla-benchmarking-adversarial-and-backdoor-attacks-on-vision-la.html" onclick="toggleFavorite(this, '2511.12149v1', 'AttackVLA: Benchmarking Adversarial and Backdoor Attacks on Vision-Language-Action Models')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

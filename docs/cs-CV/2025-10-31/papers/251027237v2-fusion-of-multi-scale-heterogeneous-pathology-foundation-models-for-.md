@@ -8,7 +8,7 @@ title: Fusion of Multi-scale Heterogeneous Pathology Foundation Models for Whole
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.27237" class="toolbar-btn" target="_blank">📄 arXiv: 2510.27237v2</a>
   <a href="https://arxiv.org/pdf/2510.27237.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.27237v2" onclick="toggleFavorite(this, '2510.27237v2', 'Fusion of Multi-scale Heterogeneous Pathology Foundation Models for Whole Slide Image Analysis')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.27237v2" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.27237v2', 'Fusion of Multi-scale Heterogeneous Pathology Foundation Models for Whole Slide Image Analysis')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

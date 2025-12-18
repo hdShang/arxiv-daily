@@ -37,7 +37,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-17
   <td>提出PFGS，通过姿态融合3D高斯溅射实现完整的多姿态物体重建</td>
   <td class="tags-cell"><span class="paper-tag">3D gaussian splatting</span> <span class="paper-tag">3DGS</span> <span class="paper-tag">gaussian splatting</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15386v1" onclick="toggleFavorite(this, '2510.15386v1', 'PFGS: Pose-Fused 3D Gaussian Splatting for Complete Multi-Pose Object Reconstruction')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15386v1" data-paper-url="./papers/251015386v1-pfgs-pose-fused-3d-gaussian-splatting-for-complete-multi-pose-object.html" onclick="toggleFavorite(this, '2510.15386v1', 'PFGS: Pose-Fused 3D Gaussian Splatting for Complete Multi-Pose Object Reconstruction')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -45,7 +45,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-17
   <td>提出MARIS水下开放词汇实例分割基准，并设计GPEM和SAIM模块提升分割性能。</td>
   <td class="tags-cell"><span class="paper-tag">open-vocabulary</span> <span class="paper-tag">open vocabulary</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15398v2" onclick="toggleFavorite(this, '2510.15398v2', 'MARIS: Marine Open-Vocabulary Instance Segmentation with Geometric Enhancement and Semantic Alignment')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15398v2" data-paper-url="./papers/251015398v2-maris-marine-open-vocabulary-instance-segmentation-with-geometric-en.html" onclick="toggleFavorite(this, '2510.15398v2', 'MARIS: Marine Open-Vocabulary Instance Segmentation with Geometric Enhancement and Semantic Alignment')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>3</td>
@@ -53,7 +53,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-17
   <td>H2OFlow：利用3D生成模型和稠密扩散流学习人-物交互行为</td>
   <td class="tags-cell"><span class="paper-tag">affordance</span> <span class="paper-tag">human-object interaction</span> <span class="paper-tag">HOI</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.21769v1" onclick="toggleFavorite(this, '2510.21769v1', 'H2OFlow: Grounding Human-Object Affordances with 3D Generative Models and Dense Diffused Flows')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.21769v1" data-paper-url="./papers/251021769v1-h2oflow-grounding-human-object-affordances-with-3d-generative-models.html" onclick="toggleFavorite(this, '2510.21769v1', 'H2OFlow: Grounding Human-Object Affordances with 3D Generative Models and Dense Diffused Flows')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>4</td>
@@ -61,7 +61,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-17
   <td>提出主动场景分解与重建方法，利用人机交互动态优化场景理解。</td>
   <td class="tags-cell"><span class="paper-tag">gaussian splatting</span> <span class="paper-tag">splatting</span> <span class="paper-tag">human-object interaction</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.16272v1" onclick="toggleFavorite(this, '2510.16272v1', 'Proactive Scene Decomposition and Reconstruction')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.16272v1" data-paper-url="./papers/251016272v1-proactive-scene-decomposition-and-reconstruction.html" onclick="toggleFavorite(this, '2510.16272v1', 'Proactive Scene Decomposition and Reconstruction')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>5</td>
@@ -69,7 +69,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-17
   <td>提出结合起始到峰值与峰值到结束阶段光流的微表情识别方法</td>
   <td class="tags-cell"><span class="paper-tag">optical flow</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15471v1" onclick="toggleFavorite(this, '2510.15471v1', 'A Novel Combined Optical Flow Approach for Comprehensive Micro-Expression Recognition')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15471v1" data-paper-url="./papers/251015471v1-a-novel-combined-optical-flow-approach-for-comprehensive-micro-expre.html" onclick="toggleFavorite(this, '2510.15471v1', 'A Novel Combined Optical Flow Approach for Comprehensive Micro-Expression Recognition')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>6</td>
@@ -77,7 +77,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-17
   <td>DriveGen3D：通过高效视频扩散加速前馈式驾驶场景生成</td>
   <td class="tags-cell"><span class="paper-tag">scene reconstruction</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15264v1" onclick="toggleFavorite(this, '2510.15264v1', 'DriveGen3D: Boosting Feed-Forward Driving Scene Generation with Efficient Video Diffusion')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15264v1" data-paper-url="./papers/251015264v1-drivegen3d-boosting-feed-forward-driving-scene-generation-with-effic.html" onclick="toggleFavorite(this, '2510.15264v1', 'DriveGen3D: Boosting Feed-Forward Driving Scene Generation with Efficient Video Diffusion')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>7</td>
@@ -85,7 +85,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-17
   <td>提出RelateSeg，通过神经符号空间推理提升开放词汇语义分割性能</td>
   <td class="tags-cell"><span class="paper-tag">open-vocabulary</span> <span class="paper-tag">open vocabulary</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15841v1" onclick="toggleFavorite(this, '2510.15841v1', 'Neuro-Symbolic Spatial Reasoning in Segmentation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15841v1" data-paper-url="./papers/251015841v1-neuro-symbolic-spatial-reasoning-in-segmentation.html" onclick="toggleFavorite(this, '2510.15841v1', 'Neuro-Symbolic Spatial Reasoning in Segmentation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>8</td>
@@ -93,7 +93,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-17
   <td>提出SANR：一种场景感知神经表示光场图像压缩框架，实现率失真优化。</td>
   <td class="tags-cell"><span class="paper-tag">scene reconstruction</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15775v1" onclick="toggleFavorite(this, '2510.15775v1', 'SANR: Scene-Aware Neural Representation for Light Field Image Compression with Rate-Distortion Optimization')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15775v1" data-paper-url="./papers/251015775v1-sanr-scene-aware-neural-representation-for-light-field-image-compres.html" onclick="toggleFavorite(this, '2510.15775v1', 'SANR: Scene-Aware Neural Representation for Light Field Image Compression with Rate-Distortion Optimization')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>9</td>
@@ -101,7 +101,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-17
   <td>提出DGME-T，通过方向网格运动编码增强Transformer在历史影像镜头运动分类中的鲁棒性</td>
   <td class="tags-cell"><span class="paper-tag">optical flow</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15725v1" onclick="toggleFavorite(this, '2510.15725v1', 'DGME-T: Directional Grid Motion Encoding for Transformer-Based Historical Camera Movement Classification')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15725v1" data-paper-url="./papers/251015725v1-dgme-t-directional-grid-motion-encoding-for-transformer-based-histor.html" onclick="toggleFavorite(this, '2510.15725v1', 'DGME-T: Directional Grid Motion Encoding for Transformer-Based Historical Camera Movement Classification')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -120,7 +120,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-17
   <td>BLIP3o-NEXT：原生图像生成的新前沿，统一文本到图像生成与图像编辑</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">foundation model</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15857v1" onclick="toggleFavorite(this, '2510.15857v1', 'BLIP3o-NEXT: Next Frontier of Native Image Generation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15857v1" data-paper-url="./papers/251015857v1-blip3o-next-next-frontier-of-native-image-generation.html" onclick="toggleFavorite(this, '2510.15857v1', 'BLIP3o-NEXT: Next Frontier of Native Image Generation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>11</td>
@@ -128,7 +128,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-17
   <td>提出UniMedVL，统一医学多模态理解与生成，提升医疗诊断应用性能。</td>
   <td class="tags-cell"><span class="paper-tag">curriculum learning</span> <span class="paper-tag">multimodal</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15710v2" onclick="toggleFavorite(this, '2510.15710v2', 'UniMedVL: Unifying Medical Multimodal Understanding And Generation Through Observation-Knowledge-Analysis')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15710v2" data-paper-url="./papers/251015710v2-unimedvl-unifying-medical-multimodal-understanding-and-generation-th.html" onclick="toggleFavorite(this, '2510.15710v2', 'UniMedVL: Unifying Medical Multimodal Understanding And Generation Through Observation-Knowledge-Analysis')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>12</td>
@@ -136,7 +136,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-17
   <td>提出CoMe：通过层拼接压缩大语言模型，在显著剪枝的同时保持性能。</td>
   <td class="tags-cell"><span class="paper-tag">distillation</span> <span class="paper-tag">large language model</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15304v1" onclick="toggleFavorite(this, '2510.15304v1', 'Layer as Puzzle Pieces: Compressing Large Language Models through Layer Concatenation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15304v1" data-paper-url="./papers/251015304v1-layer-as-puzzle-pieces-compressing-large-language-models-through-lay.html" onclick="toggleFavorite(this, '2510.15304v1', 'Layer as Puzzle Pieces: Compressing Large Language Models through Layer Concatenation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>13</td>
@@ -144,7 +144,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-17
   <td>VM-BeautyNet：融合Vision Transformer与Mamba的面部美学预测模型</td>
   <td class="tags-cell"><span class="paper-tag">Mamba</span> <span class="paper-tag">MAE</span> <span class="paper-tag">spatial relationship</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.16220v1" onclick="toggleFavorite(this, '2510.16220v1', 'VM-BeautyNet: A Synergistic Ensemble of Vision Transformer and Mamba for Facial Beauty Prediction')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.16220v1" data-paper-url="./papers/251016220v1-vm-beautynet-a-synergistic-ensemble-of-vision-transformer-and-mamba-.html" onclick="toggleFavorite(this, '2510.16220v1', 'VM-BeautyNet: A Synergistic Ensemble of Vision Transformer and Mamba for Facial Beauty Prediction')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>14</td>
@@ -152,7 +152,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-17
   <td>提出Cortical-SSM，利用深度状态空间模型解码脑电和皮层脑电运动想象信号</td>
   <td class="tags-cell"><span class="paper-tag">SSM</span> <span class="paper-tag">state space model</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15371v1" onclick="toggleFavorite(this, '2510.15371v1', 'Cortical-SSM: A Deep State Space Model for EEG and ECoG Motor Imagery Decoding')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15371v1" data-paper-url="./papers/251015371v1-cortical-ssm-a-deep-state-space-model-for-eeg-and-ecog-motor-imagery.html" onclick="toggleFavorite(this, '2510.15371v1', 'Cortical-SSM: A Deep State Space Model for EEG and ECoG Motor Imagery Decoding')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>15</td>
@@ -160,7 +160,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-17
   <td>StretchySnake：灵活的SSM训练解锁跨时空尺度的动作识别</td>
   <td class="tags-cell"><span class="paper-tag">SSM</span> <span class="paper-tag">state space model</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.16209v1" onclick="toggleFavorite(this, '2510.16209v1', 'StretchySnake: Flexible SSM Training Unlocks Action Recognition Across Spatio-Temporal Scales')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.16209v1" data-paper-url="./papers/251016209v1-stretchysnake-flexible-ssm-training-unlocks-action-recognition-acros.html" onclick="toggleFavorite(this, '2510.16209v1', 'StretchySnake: Flexible SSM Training Unlocks Action Recognition Across Spatio-Temporal Scales')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>16</td>
@@ -168,7 +168,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-17
   <td>提出Ditto框架，通过高质量合成数据集Editto-1M，显著提升指令驱动的视频编辑能力。</td>
   <td class="tags-cell"><span class="paper-tag">curriculum learning</span> <span class="paper-tag">instruction following</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15742v1" onclick="toggleFavorite(this, '2510.15742v1', 'Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15742v1" data-paper-url="./papers/251015742v1-scaling-instruction-based-video-editing-with-a-high-quality-syntheti.html" onclick="toggleFavorite(this, '2510.15742v1', 'Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>17</td>
@@ -176,7 +176,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-17
   <td>提出基于证据优先的自适应框架EARL，解决视频LLM长视频推理中信息稀释问题。</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">large language model</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15440v1" onclick="toggleFavorite(this, '2510.15440v1', 'Select Less, Reason More: Prioritizing Evidence Purity for Video Reasoning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15440v1" data-paper-url="./papers/251015440v1-select-less-reason-more-prioritizing-evidence-purity-for-video-reaso.html" onclick="toggleFavorite(this, '2510.15440v1', 'Select Less, Reason More: Prioritizing Evidence Purity for Video Reasoning')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -195,7 +195,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-17
   <td>Imaginarium：提出视觉引导的高质量3D场景布局生成方法，提升场景丰富度和质量。</td>
   <td class="tags-cell"><span class="paper-tag">spatial relationship</span> <span class="paper-tag">large language model</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15564v1" onclick="toggleFavorite(this, '2510.15564v1', 'Imaginarium: Vision-guided High-Quality 3D Scene Layout Generation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15564v1" data-paper-url="./papers/251015564v1-imaginarium-vision-guided-high-quality-3d-scene-layout-generation.html" onclick="toggleFavorite(this, '2510.15564v1', 'Imaginarium: Vision-guided High-Quality 3D Scene Layout Generation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>19</td>
@@ -203,7 +203,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-17
   <td>MRASfM：提出多相机SfM框架，解决自动驾驶场景重建难题。</td>
   <td class="tags-cell"><span class="paper-tag">spatial relationship</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15467v1" onclick="toggleFavorite(this, '2510.15467v1', 'MRASfM: Multi-Camera Reconstruction and Aggregation through Structure-from-Motion in Driving Scenes')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15467v1" data-paper-url="./papers/251015467v1-mrasfm-multi-camera-reconstruction-and-aggregation-through-structure.html" onclick="toggleFavorite(this, '2510.15467v1', 'MRASfM: Multi-Camera Reconstruction and Aggregation through Structure-from-Motion in Driving Scenes')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -222,7 +222,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-17
   <td>Meta发布Embody 3D：大规模多模态人体运动与行为数据集</td>
   <td class="tags-cell"><span class="paper-tag">locomotion</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.16258v1" onclick="toggleFavorite(this, '2510.16258v1', 'Embody 3D: A Large-scale Multimodal Motion and Behavior Dataset')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.16258v1" data-paper-url="./papers/251016258v1-embody-3d-a-large-scale-multimodal-motion-and-behavior-dataset.html" onclick="toggleFavorite(this, '2510.16258v1', 'Embody 3D: A Large-scale Multimodal Motion and Behavior Dataset')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -241,7 +241,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-17
   <td>提出基于多模态MRI的无监督脑肿瘤分割方法，解决标注数据稀缺问题。</td>
   <td class="tags-cell"><span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15684v1" onclick="toggleFavorite(this, '2510.15684v1', 'Towards Label-Free Brain Tumor Segmentation: Unsupervised Learning with Multimodal MRI')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15684v1" data-paper-url="./papers/251015684v1-towards-label-free-brain-tumor-segmentation-unsupervised-learning-wi.html" onclick="toggleFavorite(this, '2510.15684v1', 'Towards Label-Free Brain Tumor Segmentation: Unsupervised Learning with Multimodal MRI')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -260,7 +260,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-17
   <td>发布Aria Gen 2 Pilot Dataset，用于可穿戴设备的第一人称视角多模态感知研究</td>
   <td class="tags-cell"><span class="paper-tag">egocentric</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.16134v1" onclick="toggleFavorite(this, '2510.16134v1', 'Aria Gen 2 Pilot Dataset')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.16134v1" data-paper-url="./papers/251016134v1-aria-gen-2-pilot-dataset.html" onclick="toggleFavorite(this, '2510.16134v1', 'Aria Gen 2 Pilot Dataset')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -279,7 +279,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-17
   <td>LILAC：基于流式VAE-Diffusion和因果解码的长序列增量低延迟任意动作风格化</td>
   <td class="tags-cell"><span class="paper-tag">character control</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.15392v1" onclick="toggleFavorite(this, '2510.15392v1', 'LILAC: Long-sequence Incremental Low-latency Arbitrary Motion Stylization via Streaming VAE-Diffusion with Causal Decoding')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.15392v1" data-paper-url="./papers/251015392v1-lilac-long-sequence-incremental-low-latency-arbitrary-motion-styliza.html" onclick="toggleFavorite(this, '2510.15392v1', 'LILAC: Long-sequence Incremental Low-latency Arbitrary Motion Stylization via Streaming VAE-Diffusion with Causal Decoding')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

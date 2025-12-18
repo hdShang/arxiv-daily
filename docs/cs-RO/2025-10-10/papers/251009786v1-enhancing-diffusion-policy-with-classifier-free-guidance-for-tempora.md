@@ -8,7 +8,7 @@ title: Enhancing Diffusion Policy with Classifier-Free Guidance for Temporal Rob
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.09786" class="toolbar-btn" target="_blank">📄 arXiv: 2510.09786v1</a>
   <a href="https://arxiv.org/pdf/2510.09786.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.09786v1" onclick="toggleFavorite(this, '2510.09786v1', 'Enhancing Diffusion Policy with Classifier-Free Guidance for Temporal Robotic Tasks')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.09786v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.09786v1', 'Enhancing Diffusion Policy with Classifier-Free Guidance for Temporal Robotic Tasks')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

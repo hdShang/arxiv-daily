@@ -8,7 +8,7 @@ title: A3RNN: Bi-directional Fusion of Bottom-up and Top-down Process for Develo
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.10221" class="toolbar-btn" target="_blank">📄 arXiv: 2510.10221v1</a>
   <a href="https://arxiv.org/pdf/2510.10221.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.10221v1" onclick="toggleFavorite(this, '2510.10221v1', 'A3RNN: Bi-directional Fusion of Bottom-up and Top-down Process for Developmental Visual Attention in Robots')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.10221v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.10221v1', 'A3RNN: Bi-directional Fusion of Bottom-up and Top-down Process for Developmental Visual Attention in Robots')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

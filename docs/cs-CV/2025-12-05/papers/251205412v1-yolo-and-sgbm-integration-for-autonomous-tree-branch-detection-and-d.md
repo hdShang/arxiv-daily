@@ -8,7 +8,7 @@ title: YOLO and SGBM Integration for Autonomous Tree Branch Detection and Depth 
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2512.05412" class="toolbar-btn" target="_blank">📄 arXiv: 2512.05412v1</a>
   <a href="https://arxiv.org/pdf/2512.05412.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.05412v1" onclick="toggleFavorite(this, '2512.05412v1', 'YOLO and SGBM Integration for Autonomous Tree Branch Detection and Depth Estimation in Radiata Pine Pruning Applications')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.05412v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2512.05412v1', 'YOLO and SGBM Integration for Autonomous Tree Branch Detection and Depth Estimation in Radiata Pine Pruning Applications')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

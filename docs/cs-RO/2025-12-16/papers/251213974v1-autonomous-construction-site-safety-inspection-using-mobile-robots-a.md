@@ -8,7 +8,7 @@ title: Autonomous Construction-Site Safety Inspection Using Mobile Robots: A Mul
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2512.13974" class="toolbar-btn" target="_blank">📄 arXiv: 2512.13974v1</a>
   <a href="https://arxiv.org/pdf/2512.13974.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.13974v1" onclick="toggleFavorite(this, '2512.13974v1', 'Autonomous Construction-Site Safety Inspection Using Mobile Robots: A Multilayer VLM-LLM Pipeline')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.13974v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2512.13974v1', 'Autonomous Construction-Site Safety Inspection Using Mobile Robots: A Multilayer VLM-LLM Pipeline')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

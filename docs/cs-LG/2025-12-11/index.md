@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-12-11
   <td>提出基于数字孪生监督强化学习的水下自主导航框架，提升复杂环境适应性。</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">deep reinforcement learning</span> <span class="paper-tag">PPO</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.10925v1" onclick="toggleFavorite(this, '2512.10925v1', 'Digital Twin Supervised Reinforcement Learning Framework for Autonomous Underwater Navigation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.10925v1" data-paper-url="./papers/251210925v1-digital-twin-supervised-reinforcement-learning-framework-for-autonom.html" onclick="toggleFavorite(this, '2512.10925v1', 'Digital Twin Supervised Reinforcement Learning Framework for Autonomous Underwater Navigation')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

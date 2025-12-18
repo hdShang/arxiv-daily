@@ -8,7 +8,7 @@ title: MARC: Memory-Augmented RL Token Compression for Efficient Video Understan
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.07915" class="toolbar-btn" target="_blank">📄 arXiv: 2510.07915v1</a>
   <a href="https://arxiv.org/pdf/2510.07915.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.07915v1" onclick="toggleFavorite(this, '2510.07915v1', 'MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.07915v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.07915v1', 'MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

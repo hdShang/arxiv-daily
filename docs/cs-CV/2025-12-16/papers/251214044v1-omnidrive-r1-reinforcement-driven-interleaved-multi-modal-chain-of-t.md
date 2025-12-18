@@ -8,7 +8,7 @@ title: OmniDrive-R1: Reinforcement-driven Interleaved Multi-modal Chain-of-Thoug
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2512.14044" class="toolbar-btn" target="_blank">📄 arXiv: 2512.14044v1</a>
   <a href="https://arxiv.org/pdf/2512.14044.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.14044v1" onclick="toggleFavorite(this, '2512.14044v1', 'OmniDrive-R1: Reinforcement-driven Interleaved Multi-modal Chain-of-Thought for Trustworthy Vision-Language Autonomous Driving')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.14044v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2512.14044v1', 'OmniDrive-R1: Reinforcement-driven Interleaved Multi-modal Chain-of-Thought for Trustworthy Vision-Language Autonomous Driving')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

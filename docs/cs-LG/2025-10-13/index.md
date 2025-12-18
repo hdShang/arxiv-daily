@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-10-13
   <td>QeRL：量化增强的LLM强化学习框架，提升效率并增强探索能力</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">large language model</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.11696v1" onclick="toggleFavorite(this, '2510.11696v1', 'QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning for LLMs')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.11696v1" data-paper-url="./papers/251011696v1-qerl-beyond-efficiency-quantization-enhanced-reinforcement-learning-.html" onclick="toggleFavorite(this, '2510.11696v1', 'QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning for LLMs')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

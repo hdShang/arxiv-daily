@@ -8,7 +8,7 @@ title: From Passive Perception to Active Memory: A Weakly Supervised Image Manip
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.20359" class="toolbar-btn" target="_blank">📄 arXiv: 2511.20359v1</a>
   <a href="https://arxiv.org/pdf/2511.20359.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.20359v1" onclick="toggleFavorite(this, '2511.20359v1', 'From Passive Perception to Active Memory: A Weakly Supervised Image Manipulation Localization Framework Driven by Coarse-Grained Annotations')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.20359v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.20359v1', 'From Passive Perception to Active Memory: A Weakly Supervised Image Manipulation Localization Framework Driven by Coarse-Grained Annotations')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

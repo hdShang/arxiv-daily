@@ -8,7 +8,7 @@ title: Mesh-Gait: A Unified Framework for Gait Recognition Through Multi-Modal R
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.10406" class="toolbar-btn" target="_blank">📄 arXiv: 2510.10406v1</a>
   <a href="https://arxiv.org/pdf/2510.10406.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.10406v1" onclick="toggleFavorite(this, '2510.10406v1', 'Mesh-Gait: A Unified Framework for Gait Recognition Through Multi-Modal Representation Learning from 2D Silhouettes')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.10406v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.10406v1', 'Mesh-Gait: A Unified Framework for Gait Recognition Through Multi-Modal Representation Learning from 2D Silhouettes')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

@@ -8,7 +8,7 @@ title: Synthetic Object Compositions for Scalable and Accurate Learning in Detec
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.09110" class="toolbar-btn" target="_blank">📄 arXiv: 2510.09110v3</a>
   <a href="https://arxiv.org/pdf/2510.09110.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.09110v3" onclick="toggleFavorite(this, '2510.09110v3', 'Synthetic Object Compositions for Scalable and Accurate Learning in Detection, Segmentation, and Grounding')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.09110v3" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.09110v3', 'Synthetic Object Compositions for Scalable and Accurate Learning in Detection, Segmentation, and Grounding')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

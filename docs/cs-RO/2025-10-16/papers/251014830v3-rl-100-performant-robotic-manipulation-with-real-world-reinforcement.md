@@ -8,7 +8,7 @@ title: RL-100: Performant Robotic Manipulation with Real-World Reinforcement Lea
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.14830" class="toolbar-btn" target="_blank">📄 arXiv: 2510.14830v3</a>
   <a href="https://arxiv.org/pdf/2510.14830.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.14830v3" onclick="toggleFavorite(this, '2510.14830v3', 'RL-100: Performant Robotic Manipulation with Real-World Reinforcement Learning')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.14830v3" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.14830v3', 'RL-100: Performant Robotic Manipulation with Real-World Reinforcement Learning')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

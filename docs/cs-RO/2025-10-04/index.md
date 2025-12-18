@@ -31,7 +31,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-04
   <td>提出基于3D隐空间地图的移动操作策略学习方法，增强空间和时间推理能力。</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">mobile manipulation</span> <span class="paper-tag">reinforcement learning</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.03885v1" onclick="toggleFavorite(this, '2510.03885v1', 'Seeing the Bigger Picture: 3D Latent Mapping for Mobile Manipulation Policy Learning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.03885v1" data-paper-url="./papers/251003885v1-seeing-the-bigger-picture-3d-latent-mapping-for-mobile-manipulation-.html" onclick="toggleFavorite(this, '2510.03885v1', 'Seeing the Bigger Picture: 3D Latent Mapping for Mobile Manipulation Policy Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -39,7 +39,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-04
   <td>提出基于接触的统一多任务机器人学习框架，实现通用运动与操作策略</td>
   <td class="tags-cell"><span class="paper-tag">quadruped</span> <span class="paper-tag">humanoid</span> <span class="paper-tag">biped</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.03599v1" onclick="toggleFavorite(this, '2510.03599v1', 'Learning to Act Through Contact: A Unified View of Multi-Task Robot Learning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.03599v1" data-paper-url="./papers/251003599v1-learning-to-act-through-contact-a-unified-view-of-multi-task-robot-l.html" onclick="toggleFavorite(this, '2510.03599v1', 'Learning to Act Through Contact: A Unified View of Multi-Task Robot Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>3</td>
@@ -47,7 +47,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-04
   <td>提出NoTVLA框架，通过稀疏轨迹学习解决VLA模型中的灾难性遗忘问题，提升机器人操作的泛化性。</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">vision-language-action</span> <span class="paper-tag">VLA</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.03895v1" onclick="toggleFavorite(this, '2510.03895v1', 'NoTVLA: Narrowing of Dense Action Trajectories for Generalizable Robot Manipulation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.03895v1" data-paper-url="./papers/251003895v1-notvla-narrowing-of-dense-action-trajectories-for-generalizable-robo.html" onclick="toggleFavorite(this, '2510.03895v1', 'NoTVLA: Narrowing of Dense Action Trajectories for Generalizable Robot Manipulation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>4</td>
@@ -55,7 +55,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-04
   <td>提出一种新型无束缚磁驱动尺蠖软体机器人，实现快速爬行运动</td>
   <td class="tags-cell"><span class="paper-tag">locomotion</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.03660v1" onclick="toggleFavorite(this, '2510.03660v1', 'An Amphibious Untethered Inchworm Soft Robot for Fast Crawling Locomotion')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.03660v1" data-paper-url="./papers/251003660v1-an-amphibious-untethered-inchworm-soft-robot-for-fast-crawling-locom.html" onclick="toggleFavorite(this, '2510.03660v1', 'An Amphibious Untethered Inchworm Soft Robot for Fast Crawling Locomotion')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>5</td>
@@ -63,7 +63,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-04
   <td>EmbodiSwap：利用合成数据实现机器人零样本模仿学习</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">imitation learning</span> <span class="paper-tag">Ego4D</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.03706v1" onclick="toggleFavorite(this, '2510.03706v1', 'EmbodiSwap for Zero-Shot Robot Imitation Learning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.03706v1" data-paper-url="./papers/251003706v1-embodiswap-for-zero-shot-robot-imitation-learning.html" onclick="toggleFavorite(this, '2510.03706v1', 'EmbodiSwap for Zero-Shot Robot Imitation Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>6</td>
@@ -71,7 +71,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-04
   <td>COVER：面向半静态环境固定时间运动规划的覆盖验证路径图</td>
   <td class="tags-cell"><span class="paper-tag">motion planning</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.03875v1" onclick="toggleFavorite(this, '2510.03875v1', 'COVER:COverage-VErified Roadmaps for Fixed-time Motion Planning in Continuous Semi-Static Environments')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.03875v1" data-paper-url="./papers/251003875v1-covercoverage-verified-roadmaps-for-fixed-time-motion-planning-in-co.html" onclick="toggleFavorite(this, '2510.03875v1', 'COVER:COverage-VErified Roadmaps for Fixed-time Motion Planning in Continuous Semi-Static Environments')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>7</td>
@@ -79,7 +79,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-04
   <td>提出基于模型的自适应精度控制方法，解决不确定动力学下的桌面平面推移任务。</td>
   <td class="tags-cell"><span class="paper-tag">sim-to-real</span> <span class="paper-tag">domain randomization</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.03768v1" onclick="toggleFavorite(this, '2510.03768v1', 'Model-Based Adaptive Precision Control for Tabletop Planar Pushing Under Uncertain Dynamics')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.03768v1" data-paper-url="./papers/251003768v1-model-based-adaptive-precision-control-for-tabletop-planar-pushing-u.html" onclick="toggleFavorite(this, '2510.03768v1', 'Model-Based Adaptive Precision Control for Tabletop Planar Pushing Under Uncertain Dynamics')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -98,7 +98,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-04
   <td>提出TCB-VIO，一种基于焦平面传感器的高帧率紧耦合视觉惯性里程计</td>
   <td class="tags-cell"><span class="paper-tag">VIO</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.03919v1" onclick="toggleFavorite(this, '2510.03919v1', 'TCB-VIO: Tightly-Coupled Focal-Plane Binary-Enhanced Visual Inertial Odometry')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.03919v1" data-paper-url="./papers/251003919v1-tcb-vio-tightly-coupled-focal-plane-binary-enhanced-visual-inertial-.html" onclick="toggleFavorite(this, '2510.03919v1', 'TCB-VIO: Tightly-Coupled Focal-Plane Binary-Enhanced Visual Inertial Odometry')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

@@ -33,7 +33,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-03
   <td>HumanoidExo：通过可穿戴外骨骼实现可扩展的全身人形机器人操作</td>
   <td class="tags-cell"><span class="paper-tag">humanoid</span> <span class="paper-tag">humanoid robot</span> <span class="paper-tag">whole-body control</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.03022v1" onclick="toggleFavorite(this, '2510.03022v1', 'HumanoidExo: Scalable Whole-Body Humanoid Manipulation via Wearable Exoskeleton')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.03022v1" data-paper-url="./papers/251003022v1-humanoidexo-scalable-whole-body-humanoid-manipulation-via-wearable-e.html" onclick="toggleFavorite(this, '2510.03022v1', 'HumanoidExo: Scalable Whole-Body Humanoid Manipulation via Wearable Exoskeleton')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -41,7 +41,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-03
   <td>提出共设计机制以提升人形机器人智能与适应性</td>
   <td class="tags-cell"><span class="paper-tag">humanoid</span> <span class="paper-tag">humanoid robot</span> <span class="paper-tag">sim2real</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.03081v1" onclick="toggleFavorite(this, '2510.03081v1', 'Embracing Evolution: A Call for Body-Control Co-Design in Embodied Humanoid Robot')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.03081v1" data-paper-url="./papers/251003081v1-embracing-evolution-a-call-for-body-control-co-design-in-embodied-hu.html" onclick="toggleFavorite(this, '2510.03081v1', 'Embracing Evolution: A Call for Body-Control Co-Design in Embodied Humanoid Robot')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>3</td>
@@ -49,7 +49,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-03
   <td>提出基于点云条件Flow Matching的优化型机器人运动规划快速启动方法</td>
   <td class="tags-cell"><span class="paper-tag">trajectory optimization</span> <span class="paper-tag">motion planning</span> <span class="paper-tag">flow matching</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.03460v1" onclick="toggleFavorite(this, '2510.03460v1', 'Warm-Starting Optimization-Based Motion Planning for Robotic Manipulators via Point Cloud-Conditioned Flow Matching')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.03460v1" data-paper-url="./papers/251003460v1-warm-starting-optimization-based-motion-planning-for-robotic-manipul.html" onclick="toggleFavorite(this, '2510.03460v1', 'Warm-Starting Optimization-Based Motion Planning for Robotic Manipulators via Point Cloud-Conditioned Flow Matching')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>4</td>
@@ -57,7 +57,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-03
   <td>LapSurgie：提出基于人型机器人的遥操作腹腔镜手术框架</td>
   <td class="tags-cell"><span class="paper-tag">humanoid</span> <span class="paper-tag">humanoid robot</span> <span class="paper-tag">teleoperation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.03529v1" onclick="toggleFavorite(this, '2510.03529v1', 'LapSurgie: Humanoid Robots Performing Surgery via Teleoperated Handheld Laparoscopy')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.03529v1" data-paper-url="./papers/251003529v1-lapsurgie-humanoid-robots-performing-surgery-via-teleoperated-handhe.html" onclick="toggleFavorite(this, '2510.03529v1', 'LapSurgie: Humanoid Robots Performing Surgery via Teleoperated Handheld Laparoscopy')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>5</td>
@@ -65,7 +65,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-03
   <td>提出力场引导的3D柔顺流匹配策略，解决接触密集型任务中的力控问题</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">bi-manual</span> <span class="paper-tag">sim2real</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.02738v2" onclick="toggleFavorite(this, '2510.02738v2', 'Flow with the Force Field: Learning 3D Compliant Flow Matching Policies from Force and Demonstration-Guided Simulation Data')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.02738v2" data-paper-url="./papers/251002738v2-flow-with-the-force-field-learning-3d-compliant-flow-matching-polici.html" onclick="toggleFavorite(this, '2510.02738v2', 'Flow with the Force Field: Learning 3D Compliant Flow Matching Policies from Force and Demonstration-Guided Simulation Data')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>6</td>
@@ -73,7 +73,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-03
   <td>提出基于高阶控制障碍函数的多无人机分布式连接维持与恢复框架</td>
   <td class="tags-cell"><span class="paper-tag">MPC</span> <span class="paper-tag">motion planning</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.03504v1" onclick="toggleFavorite(this, '2510.03504v1', 'Distributed Connectivity Maintenance and Recovery for Quadrotor Motion Planning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.03504v1" data-paper-url="./papers/251003504v1-distributed-connectivity-maintenance-and-recovery-for-quadrotor-moti.html" onclick="toggleFavorite(this, '2510.03504v1', 'Distributed Connectivity Maintenance and Recovery for Quadrotor Motion Planning')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>7</td>
@@ -81,7 +81,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-03
   <td>提出基于点云和控制障碍函数的模型预测控制算法，用于自主移动机器人的安全导航。</td>
   <td class="tags-cell"><span class="paper-tag">model predictive control</span> <span class="paper-tag">motion planning</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.02885v1" onclick="toggleFavorite(this, '2510.02885v1', 'Point Cloud-Based Control Barrier Functions for Model Predictive Control in Safety-Critical Navigation of Autonomous Mobile Robots')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.02885v1" data-paper-url="./papers/251002885v1-point-cloud-based-control-barrier-functions-for-model-predictive-con.html" onclick="toggleFavorite(this, '2510.02885v1', 'Point Cloud-Based Control Barrier Functions for Model Predictive Control in Safety-Critical Navigation of Autonomous Mobile Robots')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>8</td>
@@ -89,7 +89,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-03
   <td>提出ADAHI，通过动作偏差感知推理降低无线机器人低延迟需求。</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">behavior cloning</span> <span class="paper-tag">embodied AI</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.02851v2" onclick="toggleFavorite(this, '2510.02851v2', 'Action Deviation-Aware Inference for Low-Latency Wireless Robots')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.02851v2" data-paper-url="./papers/251002851v2-action-deviation-aware-inference-for-low-latency-wireless-robots.html" onclick="toggleFavorite(this, '2510.02851v2', 'Action Deviation-Aware Inference for Low-Latency Wireless Robots')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>9</td>
@@ -97,7 +97,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-03
   <td>提出重型滑移转向移动平台实时非线性模型预测控制，用于轨迹跟踪任务</td>
   <td class="tags-cell"><span class="paper-tag">model predictive control</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.02976v1" onclick="toggleFavorite(this, '2510.02976v1', 'Real-Time Nonlinear Model Predictive Control of Heavy-Duty Skid-Steered Mobile Platform for Trajectory Tracking Tasks')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.02976v1" data-paper-url="./papers/251002976v1-real-time-nonlinear-model-predictive-control-of-heavy-duty-skid-stee.html" onclick="toggleFavorite(this, '2510.02976v1', 'Real-Time Nonlinear Model Predictive Control of Heavy-Duty Skid-Steered Mobile Platform for Trajectory Tracking Tasks')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>10</td>
@@ -105,7 +105,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-03
   <td>提出基于几何力学的柔顺游泳机器人优化框架，实现颗粒介质中的高效运动控制。</td>
   <td class="tags-cell"><span class="paper-tag">locomotion</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.03457v2" onclick="toggleFavorite(this, '2510.03457v2', 'Optimal swimming with body compliance in an overdamped medium')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.03457v2" data-paper-url="./papers/251003457v2-optimal-swimming-with-body-compliance-in-an-overdamped-medium.html" onclick="toggleFavorite(this, '2510.03457v2', 'Optimal swimming with body compliance in an overdamped medium')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>11</td>
@@ -113,7 +113,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-03
   <td>提出基于动态时空地图的长时程人体运动预测方法，提升机器人应用中的安全性。</td>
   <td class="tags-cell"><span class="paper-tag">motion planning</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.03031v1" onclick="toggleFavorite(this, '2510.03031v1', 'Long-Term Human Motion Prediction Using Spatio-Temporal Maps of Dynamics')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.03031v1" data-paper-url="./papers/251003031v1-long-term-human-motion-prediction-using-spatio-temporal-maps-of-dyna.html" onclick="toggleFavorite(this, '2510.03031v1', 'Long-Term Human Motion Prediction Using Spatio-Temporal Maps of Dynamics')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -132,7 +132,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-03
   <td>提出MM-Nav：一种基于多视角VLA模型和多专家学习的鲁棒视觉导航方法</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">teacher-student</span> <span class="paper-tag">egocentric</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.03142v1" onclick="toggleFavorite(this, '2510.03142v1', 'MM-Nav: Multi-View VLA Model for Robust Visual Navigation via Multi-Expert Learning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.03142v1" data-paper-url="./papers/251003142v1-mm-nav-multi-view-vla-model-for-robust-visual-navigation-via-multi-e.html" onclick="toggleFavorite(this, '2510.03142v1', 'MM-Nav: Multi-View VLA Model for Robust Visual Navigation via Multi-Expert Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>13</td>
@@ -140,7 +140,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-03
   <td>提出3D-CovDiffusion，用于生成高覆盖率的工业表面处理轨迹</td>
   <td class="tags-cell"><span class="paper-tag">diffusion policy</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.03011v1" onclick="toggleFavorite(this, '2510.03011v1', '3D-CovDiffusion: 3D-Aware Diffusion Policy for Coverage Path Planning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.03011v1" data-paper-url="./papers/251003011v1-3d-covdiffusion-3d-aware-diffusion-policy-for-coverage-path-planning.html" onclick="toggleFavorite(this, '2510.03011v1', '3D-CovDiffusion: 3D-Aware Diffusion Policy for Coverage Path Planning')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -159,7 +159,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-03
   <td>提出Caption引导的检索系统，提升跨模态无人机导航中图文检索的精度。</td>
   <td class="tags-cell"><span class="paper-tag">VLA</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.02728v2" onclick="toggleFavorite(this, '2510.02728v2', 'Team Xiaomi EV-AD VLA: Caption-Guided Retrieval System for Cross-Modal Drone Navigation -- Technical Report for IROS 2025 RoboSense Challenge Track 4')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.02728v2" data-paper-url="./papers/251002728v2-team-xiaomi-ev-ad-vla-caption-guided-retrieval-system-for-cross-moda.html" onclick="toggleFavorite(this, '2510.02728v2', 'Team Xiaomi EV-AD VLA: Caption-Guided Retrieval System for Cross-Modal Drone Navigation -- Technical Report for IROS 2025 RoboSense Challenge Track 4')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>15</td>
@@ -167,7 +167,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-10-03
   <td>提出iLLM-A*算法，加速LLM增强的大规模栅格地图路径规划超1000倍</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.02716v2" onclick="toggleFavorite(this, '2510.02716v2', 'A $1000\times$ Faster LLM-enhanced Algorithm For Path Planning in Large-scale Grid Maps')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.02716v2" data-paper-url="./papers/251002716v2-a-1000times-faster-llm-enhanced-algorithm-for-path-planning-in-large.html" onclick="toggleFavorite(this, '2510.02716v2', 'A $1000\times$ Faster LLM-enhanced Algorithm For Path Planning in Large-scale Grid Maps')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

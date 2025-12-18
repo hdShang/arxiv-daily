@@ -8,7 +8,7 @@ title: ChartAgent: A Multimodal Agent for Visually Grounded Reasoning in Complex
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.04514" class="toolbar-btn" target="_blank">📄 arXiv: 2510.04514v1</a>
   <a href="https://arxiv.org/pdf/2510.04514.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.04514v1" onclick="toggleFavorite(this, '2510.04514v1', 'ChartAgent: A Multimodal Agent for Visually Grounded Reasoning in Complex Chart Question Answering')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.04514v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.04514v1', 'ChartAgent: A Multimodal Agent for Visually Grounded Reasoning in Complex Chart Question Answering')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

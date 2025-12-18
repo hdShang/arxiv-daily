@@ -8,7 +8,7 @@ title: CC-GRMAS: A Multi-Agent Graph Neural System for Spatiotemporal Landslide 
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.20875" class="toolbar-btn" target="_blank">📄 arXiv: 2510.20875v1</a>
   <a href="https://arxiv.org/pdf/2510.20875.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.20875v1" onclick="toggleFavorite(this, '2510.20875v1', 'CC-GRMAS: A Multi-Agent Graph Neural System for Spatiotemporal Landslide Risk Assessment in High Mountain Asia')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.20875v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.20875v1', 'CC-GRMAS: A Multi-Agent Graph Neural System for Spatiotemporal Landslide Risk Assessment in High Mountain Asia')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

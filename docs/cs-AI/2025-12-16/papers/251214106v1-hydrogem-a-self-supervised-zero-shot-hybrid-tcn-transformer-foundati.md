@@ -8,7 +8,7 @@ title: HydroGEM: A Self Supervised Zero Shot Hybrid TCN Transformer Foundation M
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2512.14106" class="toolbar-btn" target="_blank">📄 arXiv: 2512.14106v1</a>
   <a href="https://arxiv.org/pdf/2512.14106.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.14106v1" onclick="toggleFavorite(this, '2512.14106v1', 'HydroGEM: A Self Supervised Zero Shot Hybrid TCN Transformer Foundation Model for Continental Scale Streamflow Quality Control')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.14106v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2512.14106v1', 'HydroGEM: A Self Supervised Zero Shot Hybrid TCN Transformer Foundation Model for Continental Scale Streamflow Quality Control')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

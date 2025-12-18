@@ -8,7 +8,7 @@ title: TPG-INR: Target Prior-Guided Implicit 3D CT Reconstruction for Enhanced S
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.18806" class="toolbar-btn" target="_blank">📄 arXiv: 2511.18806v1</a>
   <a href="https://arxiv.org/pdf/2511.18806.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.18806v1" onclick="toggleFavorite(this, '2511.18806v1', 'TPG-INR: Target Prior-Guided Implicit 3D CT Reconstruction for Enhanced Sparse-view Imaging')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.18806v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.18806v1', 'TPG-INR: Target Prior-Guided Implicit 3D CT Reconstruction for Enhanced Sparse-view Imaging')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

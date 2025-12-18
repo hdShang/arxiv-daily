@@ -8,7 +8,7 @@ title: Virtually Being: Customizing Camera-Controllable Video Diffusion Models w
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.14179" class="toolbar-btn" target="_blank">📄 arXiv: 2510.14179v1</a>
   <a href="https://arxiv.org/pdf/2510.14179.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.14179v1" onclick="toggleFavorite(this, '2510.14179v1', 'Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Multi-View Performance Captures')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.14179v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.14179v1', 'Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Multi-View Performance Captures')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

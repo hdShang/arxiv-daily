@@ -8,7 +8,7 @@ title: Fourier-Attentive Representation Learning: A Fourier-Guided Framework for
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2512.04395" class="toolbar-btn" target="_blank">📄 arXiv: 2512.04395v1</a>
   <a href="https://arxiv.org/pdf/2512.04395.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.04395v1" onclick="toggleFavorite(this, '2512.04395v1', 'Fourier-Attentive Representation Learning: A Fourier-Guided Framework for Few-Shot Generalization in Vision-Language Models')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.04395v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2512.04395v1', 'Fourier-Attentive Representation Learning: A Fourier-Guided Framework for Few-Shot Generalization in Vision-Language Models')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

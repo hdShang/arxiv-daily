@@ -8,7 +8,7 @@ title: ShelfOcc: Native 3D Supervision beyond LiDAR for Vision-Based Occupancy E
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.15396" class="toolbar-btn" target="_blank">📄 arXiv: 2511.15396v1</a>
   <a href="https://arxiv.org/pdf/2511.15396.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.15396v1" onclick="toggleFavorite(this, '2511.15396v1', 'ShelfOcc: Native 3D Supervision beyond LiDAR for Vision-Based Occupancy Estimation')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.15396v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.15396v1', 'ShelfOcc: Native 3D Supervision beyond LiDAR for Vision-Based Occupancy Estimation')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

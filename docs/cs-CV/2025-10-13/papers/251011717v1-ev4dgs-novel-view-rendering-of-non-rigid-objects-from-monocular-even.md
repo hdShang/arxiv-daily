@@ -8,7 +8,7 @@ title: Ev4DGS: Novel-view Rendering of Non-Rigid Objects from Monocular Event St
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.11717" class="toolbar-btn" target="_blank">📄 arXiv: 2510.11717v1</a>
   <a href="https://arxiv.org/pdf/2510.11717.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.11717v1" onclick="toggleFavorite(this, '2510.11717v1', 'Ev4DGS: Novel-view Rendering of Non-Rigid Objects from Monocular Event Streams')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.11717v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.11717v1', 'Ev4DGS: Novel-view Rendering of Non-Rigid Objects from Monocular Event Streams')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

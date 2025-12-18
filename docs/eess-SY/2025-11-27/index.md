@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - eess.SY - 2025-11-27
   <td>针对欠驱动多通道系统，提出基于事件触发切换控制的协同操作框架</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.22810v1" onclick="toggleFavorite(this, '2511.22810v1', 'Switching control of underactuated multi-channel systems with input constraints for cooperative manipulation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.22810v1" data-paper-url="./papers/251122810v1-switching-control-of-underactuated-multi-channel-systems-with-input-.html" onclick="toggleFavorite(this, '2511.22810v1', 'Switching control of underactuated multi-channel systems with input constraints for cooperative manipulation')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

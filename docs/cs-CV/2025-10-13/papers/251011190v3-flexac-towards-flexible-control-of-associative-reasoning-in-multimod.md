@@ -8,7 +8,7 @@ title: FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal L
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.11190" class="toolbar-btn" target="_blank">📄 arXiv: 2510.11190v3</a>
   <a href="https://arxiv.org/pdf/2510.11190.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.11190v3" onclick="toggleFavorite(this, '2510.11190v3', 'FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.11190v3" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.11190v3', 'FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

@@ -31,7 +31,7 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-10-01
   <td>提出一种基于音频驱动的实时面部动画系统，用于社交远程呈现。</td>
   <td class="tags-cell"><span class="paper-tag">distillation</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.01176v2" onclick="toggleFavorite(this, '2510.01176v2', 'Audio Driven Real-Time Facial Animation for Social Telepresence')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.01176v2" data-paper-url="./papers/251001176v2-audio-driven-real-time-facial-animation-for-social-telepresence.html" onclick="toggleFavorite(this, '2510.01176v2', 'Audio Driven Real-Time Facial Animation for Social Telepresence')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -50,7 +50,7 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-10-01
   <td>虚拟现实通过深度压缩改变感知到的功能性身体尺寸</td>
   <td class="tags-cell"><span class="paper-tag">affordance</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.00824v1" onclick="toggleFavorite(this, '2510.00824v1', 'Virtual Reality Alters Perceived Functional Body Size')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.00824v1" data-paper-url="./papers/251000824v1-virtual-reality-alters-perceived-functional-body-size.html" onclick="toggleFavorite(this, '2510.00824v1', 'Virtual Reality Alters Perceived Functional Body Size')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

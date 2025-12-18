@@ -8,7 +8,7 @@ title: Oitijjo-3D: Generative AI Framework for Rapid 3D Heritage Reconstruction 
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.00362" class="toolbar-btn" target="_blank">📄 arXiv: 2511.00362v1</a>
   <a href="https://arxiv.org/pdf/2511.00362.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.00362v1" onclick="toggleFavorite(this, '2511.00362v1', 'Oitijjo-3D: Generative AI Framework for Rapid 3D Heritage Reconstruction from Street View Imagery')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.00362v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.00362v1', 'Oitijjo-3D: Generative AI Framework for Rapid 3D Heritage Reconstruction from Street View Imagery')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

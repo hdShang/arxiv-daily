@@ -8,7 +8,7 @@ title: XYZCylinder: Towards Compatible Feed-Forward 3D Gaussian Splatting for Dr
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.07856" class="toolbar-btn" target="_blank">📄 arXiv: 2510.07856v2</a>
   <a href="https://arxiv.org/pdf/2510.07856.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.07856v2" onclick="toggleFavorite(this, '2510.07856v2', 'XYZCylinder: Towards Compatible Feed-Forward 3D Gaussian Splatting for Driving Scenes via Unified Cylinder Lifting Method')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.07856v2" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.07856v2', 'XYZCylinder: Towards Compatible Feed-Forward 3D Gaussian Splatting for Driving Scenes via Unified Cylinder Lifting Method')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

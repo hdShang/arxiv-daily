@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-10-13
   <td>GS-Verse：基于网格的高斯溅射，用于虚拟现实中具有物理感知交互</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">gaussian splatting</span> <span class="paper-tag">splatting</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.11878v2" onclick="toggleFavorite(this, '2510.11878v2', 'GS-Verse: Mesh-based Gaussian Splatting for Physics-aware Interaction in Virtual Reality')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.11878v2" data-paper-url="./papers/251011878v2-gs-verse-mesh-based-gaussian-splatting-for-physics-aware-interaction.html" onclick="toggleFavorite(this, '2510.11878v2', 'GS-Verse: Mesh-based Gaussian Splatting for Physics-aware Interaction in Virtual Reality')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

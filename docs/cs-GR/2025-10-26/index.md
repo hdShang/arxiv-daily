@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-10-26
   <td>提出环境感知运动匹配，解决角色与动态环境自然交互的难题</td>
   <td class="tags-cell"><span class="paper-tag">locomotion</span> <span class="paper-tag">motion matching</span> <span class="paper-tag">character animation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.22632v1" onclick="toggleFavorite(this, '2510.22632v1', 'Environment-aware Motion Matching')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.22632v1" data-paper-url="./papers/251022632v1-environment-aware-motion-matching.html" onclick="toggleFavorite(this, '2510.22632v1', 'Environment-aware Motion Matching')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -38,7 +38,7 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-10-26
   <td>Step2Motion：提出一种基于压力感应鞋垫的步态运动重建方法</td>
   <td class="tags-cell"><span class="paper-tag">locomotion</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.22712v1" onclick="toggleFavorite(this, '2510.22712v1', 'Step2Motion: Locomotion Reconstruction from Pressure Sensing Insoles')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.22712v1" data-paper-url="./papers/251022712v1-step2motion-locomotion-reconstruction-from-pressure-sensing-insoles.html" onclick="toggleFavorite(this, '2510.22712v1', 'Step2Motion: Locomotion Reconstruction from Pressure Sensing Insoles')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

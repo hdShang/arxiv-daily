@@ -34,7 +34,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-03
   <td>提出SE(3)-PoseFlow，用于估计6D位姿分布，实现不确定性感知的机器人操作</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">grasp</span> <span class="paper-tag">flow matching</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.01501v1" onclick="toggleFavorite(this, '2511.01501v1', 'SE(3)-PoseFlow: Estimating 6D Pose Distributions for Uncertainty-Aware Robotic Manipulation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.01501v1" data-paper-url="./papers/251101501v1-se3-poseflow-estimating-6d-pose-distributions-for-uncertainty-aware-.html" onclick="toggleFavorite(this, '2511.01501v1', 'SE(3)-PoseFlow: Estimating 6D Pose Distributions for Uncertainty-Aware Robotic Manipulation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -42,7 +42,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-03
   <td>OmniVLA：面向机器人操作的物理 grounding 多模态 VLA 模型，统一多传感器感知</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.01210v2" onclick="toggleFavorite(this, '2511.01210v2', 'OmniVLA: Physically-Grounded Multimodal VLA with Unified Multi-Sensor Perception for Robotic Manipulation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.01210v2" data-paper-url="./papers/251101210v2-omnivla-physically-grounded-multimodal-vla-with-unified-multi-sensor.html" onclick="toggleFavorite(this, '2511.01210v2', 'OmniVLA: Physically-Grounded Multimodal VLA with Unified Multi-Sensor Perception for Robotic Manipulation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>3</td>
@@ -50,7 +50,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-03
   <td>提出TIR-Bench，用于评估Agentic图像推理中模型利用工具进行图像处理的能力</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">localization</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.01833v2" onclick="toggleFavorite(this, '2511.01833v2', 'TIR-Bench: A Comprehensive Benchmark for Agentic Thinking-with-Images Reasoning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.01833v2" data-paper-url="./papers/251101833v2-tir-bench-a-comprehensive-benchmark-for-agentic-thinking-with-images.html" onclick="toggleFavorite(this, '2511.01833v2', 'TIR-Bench: A Comprehensive Benchmark for Agentic Thinking-with-Images Reasoning')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>4</td>
@@ -58,7 +58,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-03
   <td>PixelVLA：通过像素级理解和多模态提示，提升视觉-语言-动作模型的性能</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">scene understanding</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.01571v1" onclick="toggleFavorite(this, '2511.01571v1', 'PixelVLA: Advancing Pixel-level Understanding in Vision-Language-Action Model')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.01571v1" data-paper-url="./papers/251101571v1-pixelvla-advancing-pixel-level-understanding-in-vision-language-acti.html" onclick="toggleFavorite(this, '2511.01571v1', 'PixelVLA: Advancing Pixel-level Understanding in Vision-Language-Action Model')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>5</td>
@@ -66,7 +66,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-03
   <td>提出AiM数据集与基线方法，用于野生环境下的动物4D重建</td>
   <td class="tags-cell"><span class="paper-tag">quadruped</span> <span class="paper-tag">pose estimation</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.01169v1" onclick="toggleFavorite(this, '2511.01169v1', 'Web-Scale Collection of Video Data for 4D Animal Reconstruction')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.01169v1" data-paper-url="./papers/251101169v1-web-scale-collection-of-video-data-for-4d-animal-reconstruction.html" onclick="toggleFavorite(this, '2511.01169v1', 'Web-Scale Collection of Video Data for 4D Animal Reconstruction')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>6</td>
@@ -74,7 +74,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-03
   <td>提出EVLP，通过强化监督微调学习统一具身视觉-语言规划器，解决长程操作任务中的多模态规划问题。</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.05553v1" onclick="toggleFavorite(this, '2511.05553v1', 'EVLP:Learning Unified Embodied Vision-Language Planner with Reinforced Supervised Fine-Tuning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.05553v1" data-paper-url="./papers/251105553v1-evlplearning-unified-embodied-vision-language-planner-with-reinforce.html" onclick="toggleFavorite(this, '2511.05553v1', 'EVLP:Learning Unified Embodied Vision-Language Planner with Reinforced Supervised Fine-Tuning')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>7</td>
@@ -82,7 +82,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-03
   <td>提出基于对比语言-图像预训练模型的生成对抗攻击方法，提升攻击效果与视觉保真度。</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.01317v2" onclick="toggleFavorite(this, '2511.01317v2', 'A Generative Adversarial Approach to Adversarial Attacks Guided by Contrastive Language-Image Pre-trained Model')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.01317v2" data-paper-url="./papers/251101317v2-a-generative-adversarial-approach-to-adversarial-attacks-guided-by-c.html" onclick="toggleFavorite(this, '2511.01317v2', 'A Generative Adversarial Approach to Adversarial Attacks Guided by Contrastive Language-Image Pre-trained Model')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>8</td>
@@ -90,7 +90,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-03
   <td>提出几何感知点丢弃适配器，提升LiDAR在恶劣天气下的语义分割性能。</td>
   <td class="tags-cell"><span class="paper-tag">domain randomization</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.01250v2" onclick="toggleFavorite(this, '2511.01250v2', 'Source-Only Cross-Weather LiDAR via Geometry-Aware Point Drop')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.01250v2" data-paper-url="./papers/251101250v2-source-only-cross-weather-lidar-via-geometry-aware-point-drop.html" onclick="toggleFavorite(this, '2511.01250v2', 'Source-Only Cross-Weather LiDAR via Geometry-Aware Point Drop')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -109,7 +109,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-03
   <td>提出DiMoDE框架，通过区分运动分量提升深度和自运动联合学习效果</td>
   <td class="tags-cell"><span class="paper-tag">optical flow</span> <span class="paper-tag">ego-motion</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.01502v1" onclick="toggleFavorite(this, '2511.01502v1', 'Discriminately Treating Motion Components Evolves Joint Depth and Ego-Motion Learning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.01502v1" data-paper-url="./papers/251101502v1-discriminately-treating-motion-components-evolves-joint-depth-and-eg.html" onclick="toggleFavorite(this, '2511.01502v1', 'Discriminately Treating Motion Components Evolves Joint Depth and Ego-Motion Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>10</td>
@@ -117,7 +117,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-03
   <td>提出HGFreNet，利用Hop-hybrid GraphFomer解决单目视频3D人体姿态估计中的轨迹不一致问题。</td>
   <td class="tags-cell"><span class="paper-tag">pose estimation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.01756v1" onclick="toggleFavorite(this, '2511.01756v1', 'HGFreNet: Hop-hybrid GraphFomer for 3D Human Pose Estimation with Trajectory Consistency in Frequency Domain')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.01756v1" data-paper-url="./papers/251101756v1-hgfrenet-hop-hybrid-graphfomer-for-3d-human-pose-estimation-with-tra.html" onclick="toggleFavorite(this, '2511.01756v1', 'HGFreNet: Hop-hybrid GraphFomer for 3D Human Pose Estimation with Trajectory Consistency in Frequency Domain')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>11</td>
@@ -125,7 +125,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-03
   <td>提出光电卷积神经网络两阶段设计，通过直接核优化提升单目深度估计精度。</td>
   <td class="tags-cell"><span class="paper-tag">depth estimation</span> <span class="paper-tag">monocular depth</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.02065v1" onclick="toggleFavorite(this, '2511.02065v1', 'Opto-Electronic Convolutional Neural Network Design Via Direct Kernel Optimization')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.02065v1" data-paper-url="./papers/251102065v1-opto-electronic-convolutional-neural-network-design-via-direct-kerne.html" onclick="toggleFavorite(this, '2511.02065v1', 'Opto-Electronic Convolutional Neural Network Design Via Direct Kernel Optimization')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>12</td>
@@ -133,7 +133,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-03
   <td>提出Fire-ART数据集，并设计基于全景图像的3D重建方法，用于消防资产的BIM语义增强。</td>
   <td class="tags-cell"><span class="paper-tag">localization</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.01399v1" onclick="toggleFavorite(this, '2511.01399v1', 'Semantic BIM enrichment for firefighting assets: Fire-ART dataset and panoramic image-based 3D reconstruction')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.01399v1" data-paper-url="./papers/251101399v1-semantic-bim-enrichment-for-firefighting-assets-fire-art-dataset-and.html" onclick="toggleFavorite(this, '2511.01399v1', 'Semantic BIM enrichment for firefighting assets: Fire-ART dataset and panoramic image-based 3D reconstruction')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>13</td>
@@ -141,7 +141,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-03
   <td>Eyes on Target：提出深度感知和注视引导的目标检测框架，用于以自我为中心的视频分析。</td>
   <td class="tags-cell"><span class="paper-tag">ego-motion</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.01237v1" onclick="toggleFavorite(this, '2511.01237v1', 'Eyes on Target: Gaze-Aware Object Detection in Egocentric Video')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.01237v1" data-paper-url="./papers/251101237v1-eyes-on-target-gaze-aware-object-detection-in-egocentric-video.html" onclick="toggleFavorite(this, '2511.01237v1', 'Eyes on Target: Gaze-Aware Object Detection in Egocentric Video')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -160,7 +160,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-03
   <td>MVSMamba：利用状态空间模型实现高效多视角立体视觉重建</td>
   <td class="tags-cell"><span class="paper-tag">Mamba</span> <span class="paper-tag">state space model</span> <span class="paper-tag">feature matching</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.01315v1" onclick="toggleFavorite(this, '2511.01315v1', 'MVSMamba: Multi-View Stereo with State Space Model')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.01315v1" data-paper-url="./papers/251101315v1-mvsmamba-multi-view-stereo-with-state-space-model.html" onclick="toggleFavorite(this, '2511.01315v1', 'MVSMamba: Multi-View Stereo with State Space Model')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>15</td>
@@ -168,7 +168,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-03
   <td>Actial：通过视角学习激活多模态大语言模型的空间推理能力</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">scene understanding</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.01618v1" onclick="toggleFavorite(this, '2511.01618v1', 'Actial: Activate Spatial Reasoning Ability of Multimodal Large Language Models')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.01618v1" data-paper-url="./papers/251101618v1-actial-activate-spatial-reasoning-ability-of-multimodal-large-langua.html" onclick="toggleFavorite(this, '2511.01618v1', 'Actial: Activate Spatial Reasoning Ability of Multimodal Large Language Models')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>16</td>
@@ -176,7 +176,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-03
   <td>DINO-MX：一个模块化自监督学习框架，降低计算成本并提升灵活性。</td>
   <td class="tags-cell"><span class="paper-tag">representation learning</span> <span class="paper-tag">localization</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.01610v1" onclick="toggleFavorite(this, '2511.01610v1', 'DINO-MX: A Modular & Flexible Framework for Self-Supervised Learning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.01610v1" data-paper-url="./papers/251101610v1-dino-mx-a-modular-flexible-framework-for-self-supervised-learning.html" onclick="toggleFavorite(this, '2511.01610v1', 'DINO-MX: A Modular & Flexible Framework for Self-Supervised Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -195,7 +195,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-11-03
   <td>MoSa：基于可扩展自回归建模的运动生成框架，提升文本驱动3D人体运动生成质量与效率。</td>
   <td class="tags-cell"><span class="paper-tag">motion generation</span> <span class="paper-tag">MoMask</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.01200v1" onclick="toggleFavorite(this, '2511.01200v1', 'MoSa: Motion Generation with Scalable Autoregressive Modeling')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.01200v1" data-paper-url="./papers/251101200v1-mosa-motion-generation-with-scalable-autoregressive-modeling.html" onclick="toggleFavorite(this, '2511.01200v1', 'MoSa: Motion Generation with Scalable Autoregressive Modeling')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

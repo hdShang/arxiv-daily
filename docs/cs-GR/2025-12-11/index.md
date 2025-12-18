@@ -31,7 +31,7 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-12-11
   <td>DeMapGS：基于高斯溅射的同时进行网格变形和表面属性映射</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">gaussian splatting</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.10572v1" onclick="toggleFavorite(this, '2512.10572v1', 'DeMapGS: Simultaneous Mesh Deformation and Surface Attribute Mapping via Gaussian Splatting')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.10572v1" data-paper-url="./papers/251210572v1-demapgs-simultaneous-mesh-deformation-and-surface-attribute-mapping-.html" onclick="toggleFavorite(this, '2512.10572v1', 'DeMapGS: Simultaneous Mesh Deformation and Surface Attribute Mapping via Gaussian Splatting')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -50,7 +50,7 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-12-11
   <td>提出NeHaD，利用哈密顿力学实现动态场景的物理真实渲染</td>
   <td class="tags-cell"><span class="paper-tag">gaussian splatting</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.10424v1" onclick="toggleFavorite(this, '2512.10424v1', 'Neural Hamiltonian Deformation Fields for Dynamic Scene Rendering')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.10424v1" data-paper-url="./papers/251210424v1-neural-hamiltonian-deformation-fields-for-dynamic-scene-rendering.html" onclick="toggleFavorite(this, '2512.10424v1', 'Neural Hamiltonian Deformation Fields for Dynamic Scene Rendering')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

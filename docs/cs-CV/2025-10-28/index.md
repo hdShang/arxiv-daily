@@ -32,7 +32,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-28
   <td>Mars-Bench：火星科学任务的深度学习基础模型评估基准</td>
   <td class="tags-cell"><span class="paper-tag">foundation model</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.24010v1" onclick="toggleFavorite(this, '2510.24010v1', 'Mars-Bench: A Benchmark for Evaluating Foundation Models for Mars Science Tasks')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.24010v1" data-paper-url="./papers/251024010v1-mars-bench-a-benchmark-for-evaluating-foundation-models-for-mars-sci.html" onclick="toggleFavorite(this, '2510.24010v1', 'Mars-Bench: A Benchmark for Evaluating Foundation Models for Mars Science Tasks')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -40,7 +40,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-28
   <td>提出AutoPrompt，利用LLM自动生成对抗性提示，实现对文本到图像模型的黑盒红队测试。</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span> <span class="paper-tag">zero-shot transfer</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.24034v1" onclick="toggleFavorite(this, '2510.24034v1', 'AutoPrompt: Automated Red-Teaming of Text-to-Image Models via LLM-Driven Adversarial Prompts')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.24034v1" data-paper-url="./papers/251024034v1-autoprompt-automated-red-teaming-of-text-to-image-models-via-llm-dri.html" onclick="toggleFavorite(this, '2510.24034v1', 'AutoPrompt: Automated Red-Teaming of Text-to-Image Models via LLM-Driven Adversarial Prompts')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -59,7 +59,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-10-28
   <td>提出TeleEgo基准以评估现实场景中的自我中心AI助手</td>
   <td class="tags-cell"><span class="paper-tag">egocentric</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.23981v4" onclick="toggleFavorite(this, '2510.23981v4', 'TeleEgo: Benchmarking Egocentric AI Assistants in the Wild')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.23981v4" data-paper-url="./papers/251023981v4-teleego-benchmarking-egocentric-ai-assistants-in-the-wild.html" onclick="toggleFavorite(this, '2510.23981v4', 'TeleEgo: Benchmarking Egocentric AI Assistants in the Wild')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

@@ -31,7 +31,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-11-24
   <td>VISTA-Gym：通过强化学习提升视觉语言模型在工具集成推理方面的能力</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.19773v1" onclick="toggleFavorite(this, '2511.19773v1', 'Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.19773v1" data-paper-url="./papers/251119773v1-scaling-agentic-reinforcement-learning-for-tool-integrated-reasoning.html" onclick="toggleFavorite(this, '2511.19773v1', 'Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -50,7 +50,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-11-24
   <td>提出一种基于设备端深度学习的目标跟踪与波束成形实时嵌入式系统</td>
   <td class="tags-cell"><span class="paper-tag">depth estimation</span> <span class="paper-tag">localization</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.19396v1" onclick="toggleFavorite(this, '2511.19396v1', 'Real-Time Object Tracking with On-Device Deep Learning for Adaptive Beamforming in Dynamic Acoustic Environments')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.19396v1" data-paper-url="./papers/251119396v1-real-time-object-tracking-with-on-device-deep-learning-for-adaptive-.html" onclick="toggleFavorite(this, '2511.19396v1', 'Real-Time Object Tracking with On-Device Deep Learning for Adaptive Beamforming in Dynamic Acoustic Environments')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

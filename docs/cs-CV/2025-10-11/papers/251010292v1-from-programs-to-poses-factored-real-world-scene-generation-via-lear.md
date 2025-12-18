@@ -8,7 +8,7 @@ title: From Programs to Poses: Factored Real-World Scene Generation via Learned 
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.10292" class="toolbar-btn" target="_blank">📄 arXiv: 2510.10292v1</a>
   <a href="https://arxiv.org/pdf/2510.10292.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.10292v1" onclick="toggleFavorite(this, '2510.10292v1', 'From Programs to Poses: Factored Real-World Scene Generation via Learned Program Libraries')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.10292v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.10292v1', 'From Programs to Poses: Factored Real-World Scene Generation via Learned Program Libraries')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

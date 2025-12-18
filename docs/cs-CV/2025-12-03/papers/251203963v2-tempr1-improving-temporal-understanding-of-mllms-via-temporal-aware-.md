@@ -8,7 +8,7 @@ title: TempR1: Improving Temporal Understanding of MLLMs via Temporal-Aware Mult
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2512.03963" class="toolbar-btn" target="_blank">📄 arXiv: 2512.03963v2</a>
   <a href="https://arxiv.org/pdf/2512.03963.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.03963v2" onclick="toggleFavorite(this, '2512.03963v2', 'TempR1: Improving Temporal Understanding of MLLMs via Temporal-Aware Multi-Task Reinforcement Learning')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2512.03963v2" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2512.03963v2', 'TempR1: Improving Temporal Understanding of MLLMs via Temporal-Aware Multi-Task Reinforcement Learning')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

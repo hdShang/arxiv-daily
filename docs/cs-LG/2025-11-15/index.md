@@ -31,7 +31,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-11-15
   <td>EgoCogNav：提出认知感知的自中心导航框架，融合场景与感知信息预测人类行为。</td>
   <td class="tags-cell"><span class="paper-tag">navigation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.17581v1" onclick="toggleFavorite(this, '2511.17581v1', 'EgoCogNav: Cognition-aware Human Egocentric Navigation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.17581v1" data-paper-url="./papers/251117581v1-egocognav-cognition-aware-human-egocentric-navigation.html" onclick="toggleFavorite(this, '2511.17581v1', 'EgoCogNav: Cognition-aware Human Egocentric Navigation')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -50,7 +50,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-11-15
   <td>提出S-VFM，通过变分流匹配实现高效的单步生成</td>
   <td class="tags-cell"><span class="paper-tag">flow matching</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.17583v1" onclick="toggleFavorite(this, '2511.17583v1', 'Learning Straight Flows: Variational Flow Matching for Efficient Generation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.17583v1" data-paper-url="./papers/251117583v1-learning-straight-flows-variational-flow-matching-for-efficient-gene.html" onclick="toggleFavorite(this, '2511.17583v1', 'Learning Straight Flows: Variational Flow Matching for Efficient Generation')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

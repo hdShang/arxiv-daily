@@ -34,7 +34,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>提出AionHMR框架，实现年龄包容的3D人体网格重建，用于保护隐私的数据匿名化。</td>
   <td class="tags-cell"><span class="paper-tag">pose estimation</span> <span class="paper-tag">human mesh recovery</span> <span class="paper-tag">SMPL</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.05259v1" onclick="toggleFavorite(this, '2512.05259v1', 'Age-Inclusive 3D Human Mesh Recovery for Action-Preserving Data Anonymization')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.05259v1" data-paper-url="./papers/251205259v1-age-inclusive-3d-human-mesh-recovery-for-action-preserving-data-anon.html" onclick="toggleFavorite(this, '2512.05259v1', 'Age-Inclusive 3D Human Mesh Recovery for Action-Preserving Data Anonymization')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -42,7 +42,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>RobustSplat++：解耦3DGS的稠密化、动态和光照，实现野外场景鲁棒建模</td>
   <td class="tags-cell"><span class="paper-tag">3D gaussian splatting</span> <span class="paper-tag">3DGS</span> <span class="paper-tag">gaussian splatting</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04815v1" onclick="toggleFavorite(this, '2512.04815v1', 'RobustSplat++: Decoupling Densification, Dynamics, and Illumination for In-the-Wild 3DGS')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04815v1" data-paper-url="./papers/251204815v1-robustsplat-decoupling-densification-dynamics-and-illumination-for-i.html" onclick="toggleFavorite(this, '2512.04815v1', 'RobustSplat++: Decoupling Densification, Dynamics, and Illumination for In-the-Wild 3DGS')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>3</td>
@@ -50,7 +50,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>提出高斯熵场以驱动3D高斯优化中的自适应稀疏性</td>
   <td class="tags-cell"><span class="paper-tag">3D gaussian splatting</span> <span class="paper-tag">3DGS</span> <span class="paper-tag">gaussian splatting</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04542v1" onclick="toggleFavorite(this, '2512.04542v1', 'Gaussian Entropy Fields: Driving Adaptive Sparsity in 3D Gaussian Optimization')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04542v1" data-paper-url="./papers/251204542v1-gaussian-entropy-fields-driving-adaptive-sparsity-in-3d-gaussian-opt.html" onclick="toggleFavorite(this, '2512.04542v1', 'Gaussian Entropy Fields: Driving Adaptive Sparsity in 3D Gaussian Optimization')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>4</td>
@@ -58,7 +58,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>提出MAFNet，通过多频自适应融合网络实现实时高精度立体匹配</td>
   <td class="tags-cell"><span class="paper-tag">stereo matching</span> <span class="paper-tag">disparity estimation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04358v1" onclick="toggleFavorite(this, '2512.04358v1', 'MAFNet:Multi-frequency Adaptive Fusion Network for Real-time Stereo Matching')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04358v1" data-paper-url="./papers/251204358v1-mafnetmulti-frequency-adaptive-fusion-network-for-real-time-stereo-m.html" onclick="toggleFavorite(this, '2512.04358v1', 'MAFNet:Multi-frequency Adaptive Fusion Network for Real-time Stereo Matching')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>5</td>
@@ -66,7 +66,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>LiteVGGT：通过几何感知缓存Token合并加速VGGT，实现大规模场景高效3D重建。</td>
   <td class="tags-cell"><span class="paper-tag">VGGT</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04939v1" onclick="toggleFavorite(this, '2512.04939v1', 'LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04939v1" data-paper-url="./papers/251204939v1-litevggt-boosting-vanilla-vggt-via-geometry-aware-cached-token-mergi.html" onclick="toggleFavorite(this, '2512.04939v1', 'LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>6</td>
@@ -74,7 +74,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>提出E(3)-Pose，解决胎儿MRI中对称感知的头部姿态估计问题</td>
   <td class="tags-cell"><span class="paper-tag">pose estimation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04890v3" onclick="toggleFavorite(this, '2512.04890v3', 'Equivariant symmetry-aware head pose estimation for fetal MRI')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04890v3" data-paper-url="./papers/251204890v3-equivariant-symmetry-aware-head-pose-estimation-for-fetal-mri.html" onclick="toggleFavorite(this, '2512.04890v3', 'Equivariant symmetry-aware head pose estimation for fetal MRI')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>7</td>
@@ -82,7 +82,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>提出BioTUCH，结合生物阻抗感知优化自接触场景下的人体姿态伪标签。</td>
   <td class="tags-cell"><span class="paper-tag">pose estimation</span> <span class="paper-tag">motion generation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04862v1" onclick="toggleFavorite(this, '2512.04862v1', 'Contact-Aware Refinement of Human Pose Pseudo-Ground Truth via Bioimpedance Sensing')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04862v1" data-paper-url="./papers/251204862v1-contact-aware-refinement-of-human-pose-pseudo-ground-truth-via-bioim.html" onclick="toggleFavorite(this, '2512.04862v1', 'Contact-Aware Refinement of Human Pose Pseudo-Ground Truth via Bioimpedance Sensing')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>8</td>
@@ -90,7 +90,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>Splannequin：利用双重检测 Splatting 冻结单目人体雕塑挑战视频</td>
   <td class="tags-cell"><span class="paper-tag">gaussian splatting</span> <span class="paper-tag">scene reconstruction</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.05113v2" onclick="toggleFavorite(this, '2512.05113v2', 'Splannequin: Freezing Monocular Mannequin-Challenge Footage with Dual-Detection Splatting')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.05113v2" data-paper-url="./papers/251205113v2-splannequin-freezing-monocular-mannequin-challenge-footage-with-dual.html" onclick="toggleFavorite(this, '2512.05113v2', 'Splannequin: Freezing Monocular Mannequin-Challenge Footage with Dual-Detection Splatting')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>9</td>
@@ -98,7 +98,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>提出4DLangVGGT，用于高效且可泛化的4D语言-视觉几何对齐</td>
   <td class="tags-cell"><span class="paper-tag">gaussian splatting</span> <span class="paper-tag">scene understanding</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.05060v1" onclick="toggleFavorite(this, '2512.05060v1', '4DLangVGGT: 4D Language-Visual Geometry Grounded Transformer')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.05060v1" data-paper-url="./papers/251205060v1-4dlangvggt-4d-language-visual-geometry-grounded-transformer.html" onclick="toggleFavorite(this, '2512.05060v1', '4DLangVGGT: 4D Language-Visual Geometry Grounded Transformer')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>10</td>
@@ -106,7 +106,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>Light-X：提出可控相机与光照的生成式4D视频渲染框架</td>
   <td class="tags-cell"><span class="paper-tag">point cloud</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.05115v2" onclick="toggleFavorite(this, '2512.05115v2', 'Light-X: Generative 4D Video Rendering with Camera and Illumination Control')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.05115v2" data-paper-url="./papers/251205115v2-light-x-generative-4d-video-rendering-with-camera-and-illumination-c.html" onclick="toggleFavorite(this, '2512.05115v2', 'Light-X: Generative 4D Video Rendering with Camera and Illumination Control')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>11</td>
@@ -114,7 +114,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>针对嵌入式GPU，提出动态内存分配策略优化VANICP点云配准算法。</td>
   <td class="tags-cell"><span class="paper-tag">point cloud</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04996v1" onclick="toggleFavorite(this, '2512.04996v1', 'A dynamic memory assignment strategy for dilation-based ICP algorithm on embedded GPUs')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04996v1" data-paper-url="./papers/251204996v1-a-dynamic-memory-assignment-strategy-for-dilation-based-icp-algorith.html" onclick="toggleFavorite(this, '2512.04996v1', 'A dynamic memory assignment strategy for dilation-based ICP algorithm on embedded GPUs')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>12</td>
@@ -122,7 +122,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>提出基于门控机制的多模态自适应融合网络，提升人类行为识别精度</td>
   <td class="tags-cell"><span class="paper-tag">optical flow</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04943v1" onclick="toggleFavorite(this, '2512.04943v1', 'Towards Adaptive Fusion of Multimodal Deep Networks for Human Action Recognition')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04943v1" data-paper-url="./papers/251204943v1-towards-adaptive-fusion-of-multimodal-deep-networks-for-human-action.html" onclick="toggleFavorite(this, '2512.04943v1', 'Towards Adaptive Fusion of Multimodal Deep Networks for Human Action Recognition')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>13</td>
@@ -130,7 +130,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>提出YOTO框架，解决目标检测中免重训练的新品增量学习问题</td>
   <td class="tags-cell"><span class="paper-tag">localization</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04888v2" onclick="toggleFavorite(this, '2512.04888v2', 'You Only Train Once (YOTO): A Retraining-Free Object Detection Framework')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04888v2" data-paper-url="./papers/251204888v2-you-only-train-once-yoto-a-retraining-free-object-detection-framewor.html" onclick="toggleFavorite(this, '2512.04888v2', 'You Only Train Once (YOTO): A Retraining-Free Object Detection Framework')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>14</td>
@@ -138,7 +138,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>提出HeFT，利用视频扩散先验实现鲁棒的零样本点跟踪</td>
   <td class="tags-cell"><span class="paper-tag">localization</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04619v1" onclick="toggleFavorite(this, '2512.04619v1', 'Denoise to Track: Harnessing Video Diffusion Priors for Robust Correspondence')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04619v1" data-paper-url="./papers/251204619v1-denoise-to-track-harnessing-video-diffusion-priors-for-robust-corres.html" onclick="toggleFavorite(this, '2512.04619v1', 'Denoise to Track: Harnessing Video Diffusion Priors for Robust Correspondence')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>15</td>
@@ -146,7 +146,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>提出基于视觉-语言分割融合的恶意图像分析方法，实现一步到位的内容检测、元素识别和定位。</td>
   <td class="tags-cell"><span class="paper-tag">localization</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04599v1" onclick="toggleFavorite(this, '2512.04599v1', 'Malicious Image Analysis via Vision-Language Segmentation Fusion: Detection, Element, and Location in One-shot')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04599v1" data-paper-url="./papers/251204599v1-malicious-image-analysis-via-vision-language-segmentation-fusion-det.html" onclick="toggleFavorite(this, '2512.04599v1', 'Malicious Image Analysis via Vision-Language Segmentation Fusion: Detection, Element, and Location in One-shot')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -165,7 +165,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>X-Humanoid：通过机器人化人类视频大规模生成类人机器人视频</td>
   <td class="tags-cell"><span class="paper-tag">humanoid</span> <span class="paper-tag">humanoid robot</span> <span class="paper-tag">world model</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04537v1" onclick="toggleFavorite(this, '2512.04537v1', 'X-Humanoid: Robotize Human Videos to Generate Humanoid Videos at Scale')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04537v1" data-paper-url="./papers/251204537v1-x-humanoid-robotize-human-videos-to-generate-humanoid-videos-at-scal.html" onclick="toggleFavorite(this, '2512.04537v1', 'X-Humanoid: Robotize Human Videos to Generate Humanoid Videos at Scale')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>17</td>
@@ -173,7 +173,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>提出基于RGB-D融合和LLM的可解释帕金森步态识别框架</td>
   <td class="tags-cell"><span class="paper-tag">gait</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04425v1" onclick="toggleFavorite(this, '2512.04425v1', 'Explainable Parkinsons Disease Gait Recognition Using Multimodal RGB-D Fusion and Large Language Models')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04425v1" data-paper-url="./papers/251204425v1-explainable-parkinsons-disease-gait-recognition-using-multimodal-rgb.html" onclick="toggleFavorite(this, '2512.04425v1', 'Explainable Parkinsons Disease Gait Recognition Using Multimodal RGB-D Fusion and Large Language Models')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>18</td>
@@ -181,7 +181,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>FASTer：通过神经动作标记化实现高效的自回归视觉-语言-动作建模</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">cross-embodiment</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04952v2" onclick="toggleFavorite(this, '2512.04952v2', 'FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via Neural Action Tokenization')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04952v2" data-paper-url="./papers/251204952v2-faster-toward-efficient-autoregressive-vision-language-action-modeli.html" onclick="toggleFavorite(this, '2512.04952v2', 'FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via Neural Action Tokenization')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>19</td>
@@ -189,7 +189,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>提出基于生成先验和接触约束的物体遮挡重建方法，提升机器人操作性能。</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.05079v1" onclick="toggleFavorite(this, '2512.05079v1', 'Object Reconstruction under Occlusion with Generative Priors and Contact-induced Constraints')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.05079v1" data-paper-url="./papers/251205079v1-object-reconstruction-under-occlusion-with-generative-priors-and-con.html" onclick="toggleFavorite(this, '2512.05079v1', 'Object Reconstruction under Occlusion with Generative Priors and Contact-induced Constraints')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>20</td>
@@ -197,7 +197,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>BulletTime：解耦时间和相机姿态控制的视频生成框架</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.05076v1" onclick="toggleFavorite(this, '2512.05076v1', 'BulletTime: Decoupled Control of Time and Camera Pose for Video Generation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.05076v1" data-paper-url="./papers/251205076v1-bullettime-decoupled-control-of-time-and-camera-pose-for-video-gener.html" onclick="toggleFavorite(this, '2512.05076v1', 'BulletTime: Decoupled Control of Time and Camera Pose for Video Generation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>21</td>
@@ -205,7 +205,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>提出CrossPoint-Bench和CroPond模型，解决视觉语言模型中跨视角点对应难题。</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04686v2" onclick="toggleFavorite(this, '2512.04686v2', 'Towards Cross-View Point Correspondence in Vision-Language Models')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04686v2" data-paper-url="./papers/251204686v2-towards-cross-view-point-correspondence-in-vision-language-models.html" onclick="toggleFavorite(this, '2512.04686v2', 'Towards Cross-View Point Correspondence in Vision-Language Models')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -224,7 +224,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>提出稳定单像素对比学习方法，用于语义和几何任务</td>
   <td class="tags-cell"><span class="paper-tag">contrastive learning</span> <span class="paper-tag">teacher-student</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04970v1" onclick="toggleFavorite(this, '2512.04970v1', 'Stable Single-Pixel Contrastive Learning for Semantic and Geometric Tasks')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04970v1" data-paper-url="./papers/251204970v1-stable-single-pixel-contrastive-learning-for-semantic-and-geometric-.html" onclick="toggleFavorite(this, '2512.04970v1', 'Stable Single-Pixel Contrastive Learning for Semantic and Geometric Tasks')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>23</td>
@@ -232,7 +232,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>DuGI-MAE：通过双域引导改进红外图像掩码自编码器性能</td>
   <td class="tags-cell"><span class="paper-tag">masked autoencoder</span> <span class="paper-tag">MAE</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04511v1" onclick="toggleFavorite(this, '2512.04511v1', 'DuGI-MAE: Improving Infrared Mask Autoencoders via Dual-Domain Guidance')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04511v1" data-paper-url="./papers/251204511v1-dugi-mae-improving-infrared-mask-autoencoders-via-dual-domain-guidan.html" onclick="toggleFavorite(this, '2512.04511v1', 'DuGI-MAE: Improving Infrared Mask Autoencoders via Dual-Domain Guidance')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>24</td>
@@ -240,7 +240,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>Semore：VLM引导的增强语义运动表征用于视觉强化学习</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.05172v1" onclick="toggleFavorite(this, '2512.05172v1', 'Semore: VLM-guided Enhanced Semantic Motion Representations for Visual Reinforcement Learning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.05172v1" data-paper-url="./papers/251205172v1-semore-vlm-guided-enhanced-semantic-motion-representations-for-visua.html" onclick="toggleFavorite(this, '2512.05172v1', 'Semore: VLM-guided Enhanced Semantic Motion Representations for Visual Reinforcement Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>25</td>
@@ -248,7 +248,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>ReflexFlow：通过反思式优化Flow Matching学习目标，缓解生成模型的暴露偏差</td>
   <td class="tags-cell"><span class="paper-tag">flow matching</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04904v1" onclick="toggleFavorite(this, '2512.04904v1', 'ReflexFlow: Rethinking Learning Objective for Exposure Bias Alleviation in Flow Matching')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04904v1" data-paper-url="./papers/251204904v1-reflexflow-rethinking-learning-objective-for-exposure-bias-alleviati.html" onclick="toggleFavorite(this, '2512.04904v1', 'ReflexFlow: Rethinking Learning Objective for Exposure Bias Alleviation in Flow Matching')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>26</td>
@@ -256,7 +256,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>提出FARL框架，利用傅里叶分析解耦视觉表征，提升视觉-语言模型在少样本学习中的泛化能力。</td>
   <td class="tags-cell"><span class="paper-tag">representation learning</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04395v1" onclick="toggleFavorite(this, '2512.04395v1', 'Fourier-Attentive Representation Learning: A Fourier-Guided Framework for Few-Shot Generalization in Vision-Language Models')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04395v1" data-paper-url="./papers/251204395v1-fourier-attentive-representation-learning-a-fourier-guided-framework.html" onclick="toggleFavorite(this, '2512.04395v1', 'Fourier-Attentive Representation Learning: A Fourier-Guided Framework for Few-Shot Generalization in Vision-Language Models')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -275,7 +275,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>研究运动扩散模型中运动表征对人体运动生成的影响，并提出优化建议。</td>
   <td class="tags-cell"><span class="paper-tag">motion diffusion model</span> <span class="paper-tag">MDM</span> <span class="paper-tag">motion diffusion</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04499v1" onclick="toggleFavorite(this, '2512.04499v1', 'Back to Basics: Motion Representation Matters for Human Motion Generation Using Diffusion Model')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04499v1" data-paper-url="./papers/251204499v1-back-to-basics-motion-representation-matters-for-human-motion-genera.html" onclick="toggleFavorite(this, '2512.04499v1', 'Back to Basics: Motion Representation Matters for Human Motion Generation Using Diffusion Model')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>28</td>
@@ -283,7 +283,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>COMET：基于Transformer的实时可控长时程人体运动生成框架</td>
   <td class="tags-cell"><span class="paper-tag">motion generation</span> <span class="paper-tag">character control</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.04487v1" onclick="toggleFavorite(this, '2512.04487v1', 'Controllable Long-term Motion Generation with Extended Joint Targets')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.04487v1" data-paper-url="./papers/251204487v1-controllable-long-term-motion-generation-with-extended-joint-targets.html" onclick="toggleFavorite(this, '2512.04487v1', 'Controllable Long-term Motion Generation with Extended Joint Targets')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>29</td>
@@ -291,7 +291,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-04
   <td>提出MoRe4D，联合进行3D几何重建和运动生成，从单张图像合成4D场景。</td>
   <td class="tags-cell"><span class="paper-tag">motion generation</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.05044v1" onclick="toggleFavorite(this, '2512.05044v1', 'Joint 3D Geometry Reconstruction and Motion Generation for 4D Synthesis from a Single Image')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.05044v1" data-paper-url="./papers/251205044v1-joint-3d-geometry-reconstruction-and-motion-generation-for-4d-synthe.html" onclick="toggleFavorite(this, '2512.05044v1', 'Joint 3D Geometry Reconstruction and Motion Generation for 4D Synthesis from a Single Image')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

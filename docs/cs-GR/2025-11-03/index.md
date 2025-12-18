@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-11-03
   <td>提出基于流映射的可微流体模拟伴随方法，实现精确涡旋动力学控制</td>
   <td class="tags-cell"><span class="paper-tag">PULSE</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.01259v1" onclick="toggleFavorite(this, '2511.01259v1', 'An Adjoint Method for Differentiable Fluid Simulation on Flow Maps')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.01259v1" data-paper-url="./papers/251101259v1-an-adjoint-method-for-differentiable-fluid-simulation-on-flow-maps.html" onclick="toggleFavorite(this, '2511.01259v1', 'An Adjoint Method for Differentiable Fluid Simulation on Flow Maps')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

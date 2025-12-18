@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.GR - 2025-11-20
   <td>Vorion：首个硬件加速3D高斯渲染与训练的RISC-V GPU原型</td>
   <td class="tags-cell"><span class="paper-tag">3D gaussian splatting</span> <span class="paper-tag">3DGS</span> <span class="paper-tag">gaussian splatting</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.16831v1" onclick="toggleFavorite(this, '2511.16831v1', 'Vorion: A RISC-V GPU with Hardware-Accelerated 3D Gaussian Rendering and Training')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.16831v1" data-paper-url="./papers/251116831v1-vorion-a-risc-v-gpu-with-hardware-accelerated-3d-gaussian-rendering-.html" onclick="toggleFavorite(this, '2511.16831v1', 'Vorion: A RISC-V GPU with Hardware-Accelerated 3D Gaussian Rendering and Training')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

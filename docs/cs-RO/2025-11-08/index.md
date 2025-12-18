@@ -31,7 +31,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-11-08
   <td>ViTaMIn-B：一种可靠高效的双手视觉触觉操作交互界面</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">bi-manual</span> <span class="paper-tag">bimanual</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.05858v2" onclick="toggleFavorite(this, '2511.05858v2', 'ViTaMIn-B: A Reliable and Efficient Visuo-Tactile Bimanual Manipulation Interface')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.05858v2" data-paper-url="./papers/251105858v2-vitamin-b-a-reliable-and-efficient-visuo-tactile-bimanual-manipulati.html" onclick="toggleFavorite(this, '2511.05858v2', 'ViTaMIn-B: A Reliable and Efficient Visuo-Tactile Bimanual Manipulation Interface')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -39,7 +39,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-11-08
   <td>提出基于VLM规划原子技能的柔性操作策略学习框架，无需人工演示。</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">reinforcement learning</span> <span class="paper-tag">policy learning</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.05855v1" onclick="toggleFavorite(this, '2511.05855v1', 'Gentle Manipulation Policy Learning via Demonstrations from VLM Planned Atomic Skills')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.05855v1" data-paper-url="./papers/251105855v1-gentle-manipulation-policy-learning-via-demonstrations-from-vlm-plan.html" onclick="toggleFavorite(this, '2511.05855v1', 'Gentle Manipulation Policy Learning via Demonstrations from VLM Planned Atomic Skills')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>3</td>
@@ -47,7 +47,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-11-08
   <td>提出一种基于语言条件的安全过滤框架，用于机器人导航中的安全约束。</td>
   <td class="tags-cell"><span class="paper-tag">MPC</span> <span class="paper-tag">model predictive control</span> <span class="paper-tag">navigation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.05889v1" onclick="toggleFavorite(this, '2511.05889v1', 'From Words to Safety: Language-Conditioned Safety Filtering for Robot Navigation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.05889v1" data-paper-url="./papers/251105889v1-from-words-to-safety-language-conditioned-safety-filtering-for-robot.html" onclick="toggleFavorite(this, '2511.05889v1', 'From Words to Safety: Language-Conditioned Safety Filtering for Robot Navigation')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

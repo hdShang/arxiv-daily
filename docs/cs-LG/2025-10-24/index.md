@@ -31,7 +31,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-10-24
   <td>提出基于模块化组合偏置的解耦表示学习方法，实现属性、对象及其联合解耦。</td>
   <td class="tags-cell"><span class="paper-tag">DRL</span> <span class="paper-tag">representation learning</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.21402v2" onclick="toggleFavorite(this, '2510.21402v2', 'Disentangled Representation Learning via Modular Compositional Bias')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.21402v2" data-paper-url="./papers/251021402v2-disentangled-representation-learning-via-modular-compositional-bias.html" onclick="toggleFavorite(this, '2510.21402v2', 'Disentangled Representation Learning via Modular Compositional Bias')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

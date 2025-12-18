@@ -8,7 +8,7 @@ title: Unsupervised Learning for Industrial Defect Detection: A Case Study on Sh
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.02541" class="toolbar-btn" target="_blank">📄 arXiv: 2511.02541v2</a>
   <a href="https://arxiv.org/pdf/2511.02541.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.02541v2" onclick="toggleFavorite(this, '2511.02541v2', 'Unsupervised Learning for Industrial Defect Detection: A Case Study on Shearographic Data')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.02541v2" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.02541v2', 'Unsupervised Learning for Industrial Defect Detection: A Case Study on Shearographic Data')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

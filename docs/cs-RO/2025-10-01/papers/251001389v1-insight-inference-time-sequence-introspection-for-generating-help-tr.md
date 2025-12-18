@@ -8,7 +8,7 @@ title: INSIGHT: INference-time Sequence Introspection for Generating Help Trigge
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.01389" class="toolbar-btn" target="_blank">📄 arXiv: 2510.01389v1</a>
   <a href="https://arxiv.org/pdf/2510.01389.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.01389v1" onclick="toggleFavorite(this, '2510.01389v1', 'INSIGHT: INference-time Sequence Introspection for Generating Help Triggers in Vision-Language-Action Models')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.01389v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.01389v1', 'INSIGHT: INference-time Sequence Introspection for Generating Help Triggers in Vision-Language-Action Models')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

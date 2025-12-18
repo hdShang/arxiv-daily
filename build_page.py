@@ -1092,6 +1092,8 @@ def main():
     # 按分类和日期组织论文
     # tag -> date -> [papers]
     tag_date_papers: Dict[str, Dict[str, List[Dict[str, Any]]]] = defaultdict(lambda: defaultdict(list))
+    # 用于去重：tag -> date -> set of arxiv_ids
+    seen_papers: Dict[str, Dict[str, set]] = defaultdict(lambda: defaultdict(set))
     
     for date_label, json_path in pairs:
         data = read_json(json_path)
@@ -1107,6 +1109,7 @@ def main():
             print(f"[INFO] 发现月度数据 {month_prefix}，将根据论文发布日期拆分...")
         
         for paper in papers:
+            arxiv_id = paper.get("arxiv_id", "")
             matched_tags = classify_paper(paper, target_tags)
             if not matched_tags:
                 # 没有匹配任何目标分类，放到第一个分类（作为默认）
@@ -1126,6 +1129,10 @@ def main():
                 paper_date = date_label
             
             for tag in matched_tags:
+                # 避免同一篇论文重复添加到同一个 tag+date 组合
+                if arxiv_id and arxiv_id in seen_papers[tag][paper_date]:
+                    continue
+                seen_papers[tag][paper_date].add(arxiv_id)
                 tag_date_papers[tag][paper_date].append(paper)
     
     # 统计

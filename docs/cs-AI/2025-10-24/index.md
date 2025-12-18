@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-10-24
   <td>提出神经符号框架，提升具身任务规划中代码策略的可靠性</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span> <span class="paper-tag">Code as Policies</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.21302v1" onclick="toggleFavorite(this, '2510.21302v1', 'Towards Reliable Code-as-Policies: A Neuro-Symbolic Framework for Embodied Task Planning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.21302v1" data-paper-url="./papers/251021302v1-towards-reliable-code-as-policies-a-neuro-symbolic-framework-for-emb.html" onclick="toggleFavorite(this, '2510.21302v1', 'Towards Reliable Code-as-Policies: A Neuro-Symbolic Framework for Embodied Task Planning')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -38,7 +38,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-10-24
   <td>提出DMVFC，利用多模态MRI数据进行功能一致的纤维束聚类</td>
   <td class="tags-cell"><span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.24770v2" onclick="toggleFavorite(this, '2510.24770v2', 'DMVFC: Deep Learning Based Functionally Consistent Tractography Fiber Clustering Using Multimodal Diffusion MRI and Functional MRI')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.24770v2" data-paper-url="./papers/251024770v2-dmvfc-deep-learning-based-functionally-consistent-tractography-fiber.html" onclick="toggleFavorite(this, '2510.24770v2', 'DMVFC: Deep Learning Based Functionally Consistent Tractography Fiber Clustering Using Multimodal Diffusion MRI and Functional MRI')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>3</td>
@@ -46,7 +46,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-10-24
   <td>提出基于BERT和ResNet-50的多模态虚假评论检测方法，提升电商平台信任度。</td>
   <td class="tags-cell"><span class="paper-tag">multimodal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.00020v1" onclick="toggleFavorite(this, '2511.00020v1', 'Multimodal Detection of Fake Reviews using BERT and ResNet-50')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.00020v1" data-paper-url="./papers/251100020v1-multimodal-detection-of-fake-reviews-using-bert-and-resnet-50.html" onclick="toggleFavorite(this, '2511.00020v1', 'Multimodal Detection of Fake Reviews using BERT and ResNet-50')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

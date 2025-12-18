@@ -33,7 +33,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-15
   <td>提出基于弹簧-质量轨迹的人形机器人步态自适应框架，实现复杂地形运动。</td>
   <td class="tags-cell"><span class="paper-tag">humanoid</span> <span class="paper-tag">humanoid robot</span> <span class="paper-tag">whole-body control</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.13304v1" onclick="toggleFavorite(this, '2512.13304v1', 'Humanoid Robot Running Through Random Stepping Stones and Jumping Over Obstacles: Step Adaptation Using Spring-Mass Trajectories')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.13304v1" data-paper-url="./papers/251213304v1-humanoid-robot-running-through-random-stepping-stones-and-jumping-ov.html" onclick="toggleFavorite(this, '2512.13304v1', 'Humanoid Robot Running Through Random Stepping Stones and Jumping Over Obstacles: Step Adaptation Using Spring-Mass Trajectories')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -41,7 +41,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-15
   <td>提出DexWM，利用人类视频提升灵巧操作世界模型的预测能力</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">dexterous manipulation</span> <span class="paper-tag">grasping</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.13644v1" onclick="toggleFavorite(this, '2512.13644v1', 'World Models Can Leverage Human Videos for Dexterous Manipulation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.13644v1" data-paper-url="./papers/251213644v1-world-models-can-leverage-human-videos-for-dexterous-manipulation.html" onclick="toggleFavorite(this, '2512.13644v1', 'World Models Can Leverage Human Videos for Dexterous Manipulation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>3</td>
@@ -49,7 +49,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-15
   <td>提出一种基于降维感知表示的地形感知双足运动学习方法</td>
   <td class="tags-cell"><span class="paper-tag">bipedal</span> <span class="paper-tag">biped</span> <span class="paper-tag">locomotion</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.12993v1" onclick="toggleFavorite(this, '2512.12993v1', 'Learning Terrain Aware Bipedal Locomotion via Reduced Dimensional Perceptual Representations')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.12993v1" data-paper-url="./papers/251212993v1-learning-terrain-aware-bipedal-locomotion-via-reduced-dimensional-pe.html" onclick="toggleFavorite(this, '2512.12993v1', 'Learning Terrain Aware Bipedal Locomotion via Reduced Dimensional Perceptual Representations')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>4</td>
@@ -57,7 +57,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-15
   <td>提出PvP框架，利用本体感受特权对比学习提升人形机器人数据效率。</td>
   <td class="tags-cell"><span class="paper-tag">humanoid</span> <span class="paper-tag">humanoid robot</span> <span class="paper-tag">whole-body control</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.13093v1" onclick="toggleFavorite(this, '2512.13093v1', 'PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.13093v1" data-paper-url="./papers/251213093v1-pvp-data-efficient-humanoid-robot-learning-with-proprioceptive-privi.html" onclick="toggleFavorite(this, '2512.13093v1', 'PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>5</td>
@@ -65,7 +65,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-15
   <td>提出DemoFunGrasp，通过演示编辑强化学习实现通用灵巧的功能性抓取</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">grasping</span> <span class="paper-tag">grasp</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.13380v1" onclick="toggleFavorite(this, '2512.13380v1', 'Universal Dexterous Functional Grasping via Demonstration-Editing Reinforcement Learning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.13380v1" data-paper-url="./papers/251213380v1-universal-dexterous-functional-grasping-via-demonstration-editing-re.html" onclick="toggleFavorite(this, '2512.13380v1', 'Universal Dexterous Functional Grasping via Demonstration-Editing Reinforcement Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>6</td>
@@ -73,7 +73,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-15
   <td>提出OXE-AugE数据集，通过机器人增强扩展OXE，提升跨具身策略学习能力。</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">policy learning</span> <span class="paper-tag">cross-embodiment</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.13100v1" onclick="toggleFavorite(this, '2512.13100v1', 'OXE-AugE: A Large-Scale Robot Augmentation of OXE for Scaling Cross-Embodiment Policy Learning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.13100v1" data-paper-url="./papers/251213100v1-oxe-auge-a-large-scale-robot-augmentation-of-oxe-for-scaling-cross-e.html" onclick="toggleFavorite(this, '2512.13100v1', 'OXE-AugE: A Large-Scale Robot Augmentation of OXE for Scaling Cross-Embodiment Policy Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>7</td>
@@ -81,7 +81,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-15
   <td>提出基于多方向安全矩形走廊的MPC方法，解决非完整机器人复杂环境导航问题</td>
   <td class="tags-cell"><span class="paper-tag">MPC</span> <span class="paper-tag">model predictive control</span> <span class="paper-tag">navigation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.13215v1" onclick="toggleFavorite(this, '2512.13215v1', 'Multi-directional Safe Rectangle Corridor-Based MPC for Nonholonomic Robots Navigation in Cluttered Environment')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.13215v1" data-paper-url="./papers/251213215v1-multi-directional-safe-rectangle-corridor-based-mpc-for-nonholonomic.html" onclick="toggleFavorite(this, '2512.13215v1', 'Multi-directional Safe Rectangle Corridor-Based MPC for Nonholonomic Robots Navigation in Cluttered Environment')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>8</td>
@@ -89,7 +89,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-15
   <td>提出基于强化学习的6自由度微重力舱内对接方法，用于国际空间站Int-Ball2机器人。</td>
   <td class="tags-cell"><span class="paper-tag">sim-to-real</span> <span class="paper-tag">reinforcement learning</span> <span class="paper-tag">PPO</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.13514v1" onclick="toggleFavorite(this, '2512.13514v1', 'Reinforcement Learning based 6-DoF Maneuvers for Microgravity Intravehicular Docking: A Simulation Study with Int-Ball2 in ISS-JEM')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.13514v1" data-paper-url="./papers/251213514v1-reinforcement-learning-based-6-dof-maneuvers-for-microgravity-intrav.html" onclick="toggleFavorite(this, '2512.13514v1', 'Reinforcement Learning based 6-DoF Maneuvers for Microgravity Intravehicular Docking: A Simulation Study with Int-Ball2 in ISS-JEM')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>9</td>
@@ -97,7 +97,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-15
   <td>提出基于GPU加速强化学习的AUV六自由度位置控制方法，实现零样本迁移。</td>
   <td class="tags-cell"><span class="paper-tag">sim-to-real</span> <span class="paper-tag">reinforcement learning</span> <span class="paper-tag">policy learning</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.13359v1" onclick="toggleFavorite(this, '2512.13359v1', 'Fast Policy Learning for 6-DOF Position Control of Underwater Vehicles')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.13359v1" data-paper-url="./papers/251213359v1-fast-policy-learning-for-6-dof-position-control-of-underwater-vehicl.html" onclick="toggleFavorite(this, '2512.13359v1', 'Fast Policy Learning for 6-DOF Position Control of Underwater Vehicles')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>10</td>
@@ -105,7 +105,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-15
   <td>START：基于地形重建的稀疏落脚点四足机器人运动</td>
   <td class="tags-cell"><span class="paper-tag">quadruped</span> <span class="paper-tag">locomotion</span> <span class="paper-tag">height map</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.13153v1" onclick="toggleFavorite(this, '2512.13153v1', 'START: Traversing Sparse Footholds with Terrain Reconstruction')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.13153v1" data-paper-url="./papers/251213153v1-start-traversing-sparse-footholds-with-terrain-reconstruction.html" onclick="toggleFavorite(this, '2512.13153v1', 'START: Traversing Sparse Footholds with Terrain Reconstruction')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>11</td>
@@ -113,7 +113,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-15
   <td>提出NL2SpaTiaL数据集和翻译验证框架，用于机器人操作任务中的自然语言到时空逻辑生成。</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.13670v1" onclick="toggleFavorite(this, '2512.13670v1', 'NL2SpaTiaL: Generating Geometric Spatio-Temporal Logic Specifications from Natural Language for Manipulation Tasks')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.13670v1" data-paper-url="./papers/251213670v1-nl2spatial-generating-geometric-spatio-temporal-logic-specifications.html" onclick="toggleFavorite(this, '2512.13670v1', 'NL2SpaTiaL: Generating Geometric Spatio-Temporal Logic Specifications from Natural Language for Manipulation Tasks')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>12</td>
@@ -121,7 +121,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-15
   <td>提出一种基于任务级反馈的非线性模型预测控制迭代调优框架，用于机器人制造任务。</td>
   <td class="tags-cell"><span class="paper-tag">model predictive control</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.13170v1" onclick="toggleFavorite(this, '2512.13170v1', 'Iterative Tuning of Nonlinear Model Predictive Control for Robotic Manufacturing Tasks')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.13170v1" data-paper-url="./papers/251213170v1-iterative-tuning-of-nonlinear-model-predictive-control-for-robotic-m.html" onclick="toggleFavorite(this, '2512.13170v1', 'Iterative Tuning of Nonlinear Model Predictive Control for Robotic Manufacturing Tasks')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>13</td>
@@ -129,7 +129,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-15
   <td>提出基于热扩散的多机器人视觉语言运动规划框架LCHD</td>
   <td class="tags-cell"><span class="paper-tag">motion planning</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.13090v1" onclick="toggleFavorite(this, '2512.13090v1', 'Multi-Robot Motion Planning from Vision and Language using Heat-Inspired Diffusion')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.13090v1" data-paper-url="./papers/251213090v1-multi-robot-motion-planning-from-vision-and-language-using-heat-insp.html" onclick="toggleFavorite(this, '2512.13090v1', 'Multi-Robot Motion Planning from Vision and Language using Heat-Inspired Diffusion')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>14</td>
@@ -137,7 +137,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-15
   <td>RoboTracer：利用视觉-语言模型推理实现机器人空间轨迹追踪</td>
   <td class="tags-cell"><span class="paper-tag">humanoid</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.13660v1" onclick="toggleFavorite(this, '2512.13660v1', 'RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.13660v1" data-paper-url="./papers/251213660v1-robotracer-mastering-spatial-trace-with-reasoning-in-vision-language.html" onclick="toggleFavorite(this, '2512.13660v1', 'RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -156,7 +156,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-15
   <td>提出基于内在动机的多机器人社会编队导航算法，实现协同探索。</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">navigation</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.13293v2" onclick="toggleFavorite(this, '2512.13293v2', 'Intrinsic-Motivation Multi-Robot Social Formation Navigation with Coordinated Exploration')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.13293v2" data-paper-url="./papers/251213293v2-intrinsic-motivation-multi-robot-social-formation-navigation-with-co.html" onclick="toggleFavorite(this, '2512.13293v2', 'Intrinsic-Motivation Multi-Robot Social Formation Navigation with Coordinated Exploration')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>16</td>
@@ -164,7 +164,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-15
   <td>提出基于鲁棒强化学习的车道保持系统，解决雪地自动驾驶难题</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">deep reinforcement learning</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.12987v1" onclick="toggleFavorite(this, '2512.12987v1', 'Tackling Snow-Induced Challenges: Safe Autonomous Lane-Keeping with Robust Reinforcement Learning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.12987v1" data-paper-url="./papers/251212987v1-tackling-snow-induced-challenges-safe-autonomous-lane-keeping-with-r.html" onclick="toggleFavorite(this, '2512.12987v1', 'Tackling Snow-Induced Challenges: Safe Autonomous Lane-Keeping with Robust Reinforcement Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -183,7 +183,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-15
   <td>评估改进型COAST导丝机器人在解剖模型中的导航能力</td>
   <td class="tags-cell"><span class="paper-tag">navigation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.13477v1" onclick="toggleFavorite(this, '2512.13477v1', 'Evaluating the Navigation Capabilities of a Modified COAST Guidewire Robot in an Anatomical Phantom Model')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.13477v1" data-paper-url="./papers/251213477v1-evaluating-the-navigation-capabilities-of-a-modified-coast-guidewire.html" onclick="toggleFavorite(this, '2512.13477v1', 'Evaluating the Navigation Capabilities of a Modified COAST Guidewire Robot in an Anatomical Phantom Model')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

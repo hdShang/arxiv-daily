@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-11-16
   <td>探索LLM辅助强化学习在分散式自动驾驶中的应用：奖励塑造的案例研究</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">reward shaping</span> <span class="paper-tag">navigation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.12751v1" onclick="toggleFavorite(this, '2511.12751v1', 'Are LLMs The Way Forward? A Case Study on LLM-Guided Reinforcement Learning for Decentralized Autonomous Driving')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.12751v1" data-paper-url="./papers/251112751v1-are-llms-the-way-forward-a-case-study-on-llm-guided-reinforcement-le.html" onclick="toggleFavorite(this, '2511.12751v1', 'Are LLMs The Way Forward? A Case Study on LLM-Guided Reinforcement Learning for Decentralized Autonomous Driving')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -38,7 +38,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-11-16
   <td>提出HiFiNet，用于道路网络表征学习，融合空间和频谱信息。</td>
   <td class="tags-cell"><span class="paper-tag">representation learning</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.12507v1" onclick="toggleFavorite(this, '2511.12507v1', 'Hierarchical Frequency-Decomposition Graph Neural Networks for Road Network Representation Learning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.12507v1" data-paper-url="./papers/251112507v1-hierarchical-frequency-decomposition-graph-neural-networks-for-road-.html" onclick="toggleFavorite(this, '2511.12507v1', 'Hierarchical Frequency-Decomposition Graph Neural Networks for Road Network Representation Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

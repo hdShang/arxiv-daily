@@ -8,7 +8,7 @@ title: VideoChat-M1: Collaborative Policy Planning for Video Understanding via M
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.19524" class="toolbar-btn" target="_blank">📄 arXiv: 2511.19524v1</a>
   <a href="https://arxiv.org/pdf/2511.19524.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.19524v1" onclick="toggleFavorite(this, '2511.19524v1', 'VideoChat-M1: Collaborative Policy Planning for Video Understanding via Multi-Agent Reinforcement Learning')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.19524v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.19524v1', 'VideoChat-M1: Collaborative Policy Planning for Video Understanding via Multi-Agent Reinforcement Learning')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

@@ -8,7 +8,7 @@ title: CoT-PL: Visual Chain-of-Thought Reasoning Meets Pseudo-Labeling for Open-
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.14792" class="toolbar-btn" target="_blank">📄 arXiv: 2510.14792v1</a>
   <a href="https://arxiv.org/pdf/2510.14792.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.14792v1" onclick="toggleFavorite(this, '2510.14792v1', 'CoT-PL: Visual Chain-of-Thought Reasoning Meets Pseudo-Labeling for Open-Vocabulary Object Detection')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.14792v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.14792v1', 'CoT-PL: Visual Chain-of-Thought Reasoning Meets Pseudo-Labeling for Open-Vocabulary Object Detection')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

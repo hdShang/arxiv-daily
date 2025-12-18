@@ -8,7 +8,7 @@ title: Towards classification-based representation learning for place recognitio
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.00738" class="toolbar-btn" target="_blank">📄 arXiv: 2511.00738v2</a>
   <a href="https://arxiv.org/pdf/2511.00738.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.00738v2" onclick="toggleFavorite(this, '2511.00738v2', 'Towards classification-based representation learning for place recognition on LiDAR scans')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.00738v2" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.00738v2', 'Towards classification-based representation learning for place recognition on LiDAR scans')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

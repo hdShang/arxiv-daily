@@ -8,7 +8,7 @@ title: Where, Not What: Compelling Video LLMs to Learn Geometric Causality for 3
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.17034" class="toolbar-btn" target="_blank">📄 arXiv: 2510.17034v1</a>
   <a href="https://arxiv.org/pdf/2510.17034.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.17034v1" onclick="toggleFavorite(this, '2510.17034v1', 'Where, Not What: Compelling Video LLMs to Learn Geometric Causality for 3D-Grounding')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.17034v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.17034v1', 'Where, Not What: Compelling Video LLMs to Learn Geometric Causality for 3D-Grounding')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

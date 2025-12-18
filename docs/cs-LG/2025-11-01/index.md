@@ -31,7 +31,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-11-01
   <td>BOOM：通过世界模型引导的离策略强化学习，提升样本效率和性能。</td>
   <td class="tags-cell"><span class="paper-tag">humanoid</span> <span class="paper-tag">reinforcement learning</span> <span class="paper-tag">policy learning</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.00423v2" onclick="toggleFavorite(this, '2511.00423v2', 'Bootstrap Off-policy with World Model')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.00423v2" data-paper-url="./papers/251100423v2-bootstrap-off-policy-with-world-model.html" onclick="toggleFavorite(this, '2511.00423v2', 'Bootstrap Off-policy with World Model')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

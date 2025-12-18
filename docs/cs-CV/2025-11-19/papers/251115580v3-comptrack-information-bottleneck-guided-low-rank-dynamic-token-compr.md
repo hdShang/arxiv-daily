@@ -8,7 +8,7 @@ title: CompTrack: Information Bottleneck-Guided Low-Rank Dynamic Token Compressi
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.15580" class="toolbar-btn" target="_blank">📄 arXiv: 2511.15580v3</a>
   <a href="https://arxiv.org/pdf/2511.15580.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.15580v3" onclick="toggleFavorite(this, '2511.15580v3', 'CompTrack: Information Bottleneck-Guided Low-Rank Dynamic Token Compression for Point Cloud Tracking')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.15580v3" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.15580v3', 'CompTrack: Information Bottleneck-Guided Low-Rank Dynamic Token Compression for Point Cloud Tracking')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

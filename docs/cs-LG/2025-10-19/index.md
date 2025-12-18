@@ -31,7 +31,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-10-19
   <td>NeuCo-Bench：面向地球观测的神经嵌入评估基准框架，解决表征学习的标准化评估问题</td>
   <td class="tags-cell"><span class="paper-tag">representation learning</span> <span class="paper-tag">foundation model</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.17914v1" onclick="toggleFavorite(this, '2510.17914v1', 'NeuCo-Bench: A Novel Benchmark Framework for Neural Embeddings in Earth Observation')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.17914v1" data-paper-url="./papers/251017914v1-neuco-bench-a-novel-benchmark-framework-for-neural-embeddings-in-ear.html" onclick="toggleFavorite(this, '2510.17914v1', 'NeuCo-Bench: A Novel Benchmark Framework for Neural Embeddings in Earth Observation')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -39,7 +39,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-10-19
   <td>Fly-CL：受果蝇启发的持续表征学习框架，提升去相关性并加速训练。</td>
   <td class="tags-cell"><span class="paper-tag">representation learning</span></td>
   <td>✅</td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.16877v1" onclick="toggleFavorite(this, '2510.16877v1', 'Fly-CL: A Fly-Inspired Framework for Enhancing Efficient Decorrelation and Reduced Training Time in Pre-trained Model-based Continual Representation Learning')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.16877v1" data-paper-url="./papers/251016877v1-fly-cl-a-fly-inspired-framework-for-enhancing-efficient-decorrelatio.html" onclick="toggleFavorite(this, '2510.16877v1', 'Fly-CL: A Fly-Inspired Framework for Enhancing Efficient Decorrelation and Reduced Training Time in Pre-trained Model-based Continual Representation Learning')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

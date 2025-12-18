@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - eess.SY - 2025-10-29
   <td>提出一种社会感知时空管道方法，用于控制未知多智能体系统，实现规定时间内到达目标。</td>
   <td class="tags-cell"><span class="paper-tag">spatiotemporal</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2510.25597v1" onclick="toggleFavorite(this, '2510.25597v1', 'Incorporating Social Awareness into Control of Unknown Multi-Agent Systems: A Real-Time Spatiotemporal Tubes Approach')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2510.25597v1" data-paper-url="./papers/251025597v1-incorporating-social-awareness-into-control-of-unknown-multi-agent-s.html" onclick="toggleFavorite(this, '2510.25597v1', 'Incorporating Social Awareness into Control of Unknown Multi-Agent Systems: A Real-Time Spatiotemporal Tubes Approach')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

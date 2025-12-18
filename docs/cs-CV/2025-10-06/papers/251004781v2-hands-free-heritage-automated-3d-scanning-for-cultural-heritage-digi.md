@@ -8,7 +8,7 @@ title: Hands-Free Heritage: Automated 3D Scanning for Cultural Heritage Digitiza
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.04781" class="toolbar-btn" target="_blank">📄 arXiv: 2510.04781v2</a>
   <a href="https://arxiv.org/pdf/2510.04781.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.04781v2" onclick="toggleFavorite(this, '2510.04781v2', 'Hands-Free Heritage: Automated 3D Scanning for Cultural Heritage Digitization')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.04781v2" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.04781v2', 'Hands-Free Heritage: Automated 3D Scanning for Cultural Heritage Digitization')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

@@ -31,7 +31,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-11-17
   <td>DAP：一种用于自动驾驶的离散token自回归规划器，实现BEV语义和轨迹联合预测。</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">behavior cloning</span> <span class="paper-tag">representation learning</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.13306v1" onclick="toggleFavorite(this, '2511.13306v1', 'DAP: A Discrete-token Autoregressive Planner for Autonomous Driving')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.13306v1" data-paper-url="./papers/251113306v1-dap-a-discrete-token-autoregressive-planner-for-autonomous-driving.html" onclick="toggleFavorite(this, '2511.13306v1', 'DAP: A Discrete-token Autoregressive Planner for Autonomous Driving')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -39,7 +39,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-11-17
   <td>KANGURA：基于KAN的几何感知学习框架，用于复杂结构的三维建模</td>
   <td class="tags-cell"><span class="paper-tag">predictive model</span> <span class="paper-tag">representation learning</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.13798v1" onclick="toggleFavorite(this, '2511.13798v1', 'KANGURA: Kolmogorov-Arnold Network-Based Geometry-Aware Learning with Unified Representation Attention for 3D Modeling of Complex Structures')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.13798v1" data-paper-url="./papers/251113798v1-kangura-kolmogorov-arnold-network-based-geometry-aware-learning-with.html" onclick="toggleFavorite(this, '2511.13798v1', 'KANGURA: Kolmogorov-Arnold Network-Based Geometry-Aware Learning with Unified Representation Attention for 3D Modeling of Complex Structures')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -58,7 +58,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-11-17
   <td>通过用户参与式研讨会洞察视觉-语言模型中的用户信任问题</td>
   <td class="tags-cell"><span class="paper-tag">running</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2511.13458v1" onclick="toggleFavorite(this, '2511.13458v1', 'Trust in Vision-Language Models: Insights from a Participatory User Workshop')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2511.13458v1" data-paper-url="./papers/251113458v1-trust-in-vision-language-models-insights-from-a-participatory-user-w.html" onclick="toggleFavorite(this, '2511.13458v1', 'Trust in Vision-Language Models: Insights from a Participatory User Workshop')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

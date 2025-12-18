@@ -8,7 +8,7 @@ title: Learning to Act Through Contact: A Unified View of Multi-Task Robot Learn
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2510.03599" class="toolbar-btn" target="_blank">📄 arXiv: 2510.03599v1</a>
   <a href="https://arxiv.org/pdf/2510.03599.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.03599v1" onclick="toggleFavorite(this, '2510.03599v1', 'Learning to Act Through Contact: A Unified View of Multi-Task Robot Learning')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2510.03599v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2510.03599v1', 'Learning to Act Through Contact: A Unified View of Multi-Task Robot Learning')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

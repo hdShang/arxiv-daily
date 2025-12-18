@@ -31,7 +31,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-11-30
   <td>提出部分等变强化学习，解决对称破缺环境下的泛化问题</td>
   <td class="tags-cell"><span class="paper-tag">locomotion</span> <span class="paper-tag">manipulation</span> <span class="paper-tag">reinforcement learning</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.00915v1" onclick="toggleFavorite(this, '2512.00915v1', 'Partially Equivariant Reinforcement Learning in Symmetry-Breaking Environments')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.00915v1" data-paper-url="./papers/251200915v1-partially-equivariant-reinforcement-learning-in-symmetry-breaking-en.html" onclick="toggleFavorite(this, '2512.00915v1', 'Partially Equivariant Reinforcement Learning in Symmetry-Breaking Environments')" title="添加到收藏夹">☆</button></td>
 </tr>
 <tr>
   <td>2</td>
@@ -39,7 +39,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-11-30
   <td>Sigma：面向心电感应对齐的视觉-语言-动作模型，解决人型机器人认知系统语义鸿沟</td>
   <td class="tags-cell"><span class="paper-tag">humanoid</span> <span class="paper-tag">humanoid robot</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.00783v2" onclick="toggleFavorite(this, '2512.00783v2', 'Sigma: The Key for Vision-Language-Action Models toward Telepathic Alignment')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.00783v2" data-paper-url="./papers/251200783v2-sigma-the-key-for-vision-language-action-models-toward-telepathic-al.html" onclick="toggleFavorite(this, '2512.00783v2', 'Sigma: The Key for Vision-Language-Action Models toward Telepathic Alignment')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>
@@ -58,7 +58,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-11-30
   <td>REM：通过多帧轨迹评估LLM具身空间推理能力</td>
   <td class="tags-cell"><span class="paper-tag">navigation</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.00736v1" onclick="toggleFavorite(this, '2512.00736v1', 'REM: Evaluating LLM Embodied Spatial Reasoning through Multi-Frame Trajectories')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.00736v1" data-paper-url="./papers/251200736v1-rem-evaluating-llm-embodied-spatial-reasoning-through-multi-frame-tr.html" onclick="toggleFavorite(this, '2512.00736v1', 'REM: Evaluating LLM Embodied Spatial Reasoning through Multi-Frame Trajectories')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

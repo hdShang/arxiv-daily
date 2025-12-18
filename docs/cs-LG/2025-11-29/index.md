@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.LG - 2025-11-29
   <td>针对可穿戴设备，提出超轻量级可分离卷积神经网络用于帕金森病步态检测和优化传感器位置。</td>
   <td class="tags-cell"><span class="paper-tag">gait</span></td>
   <td></td>
-  <td><button class="favorite-btn" data-arxiv-id="2512.00396v2" onclick="toggleFavorite(this, '2512.00396v2', 'Time-Series at the Edge: Tiny Separable CNNs for Wearable Gait Detection and Optimal Sensor Placement')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="2512.00396v2" data-paper-url="./papers/251200396v2-time-series-at-the-edge-tiny-separable-cnns-for-wearable-gait-detect.html" onclick="toggleFavorite(this, '2512.00396v2', 'Time-Series at the Edge: Tiny Separable CNNs for Wearable Gait Detection and Optimal Sensor Placement')" title="添加到收藏夹">☆</button></td>
 </tr>
 </tbody>
 </table>

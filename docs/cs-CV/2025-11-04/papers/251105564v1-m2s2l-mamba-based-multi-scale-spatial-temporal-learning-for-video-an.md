@@ -8,7 +8,7 @@ title: M2S2L: Mamba-based Multi-Scale Spatial-temporal Learning for Video Anomal
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.05564" class="toolbar-btn" target="_blank">📄 arXiv: 2511.05564v1</a>
   <a href="https://arxiv.org/pdf/2511.05564.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.05564v1" onclick="toggleFavorite(this, '2511.05564v1', 'M2S2L: Mamba-based Multi-Scale Spatial-temporal Learning for Video Anomaly Detection')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.05564v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.05564v1', 'M2S2L: Mamba-based Multi-Scale Spatial-temporal Learning for Video Anomaly Detection')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 

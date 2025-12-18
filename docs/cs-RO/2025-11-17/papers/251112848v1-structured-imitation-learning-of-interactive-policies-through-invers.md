@@ -8,7 +8,7 @@ title: Structured Imitation Learning of Interactive Policies through Inverse Gam
 <div class="paper-toolbar">
   <a href="https://arxiv.org/abs/2511.12848" class="toolbar-btn" target="_blank">📄 arXiv: 2511.12848v1</a>
   <a href="https://arxiv.org/pdf/2511.12848.pdf" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.12848v1" onclick="toggleFavorite(this, '2511.12848v1', 'Structured Imitation Learning of Interactive Policies through Inverse Games')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="2511.12848v1" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '2511.12848v1', 'Structured Imitation Learning of Interactive Policies through Inverse Games')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 
