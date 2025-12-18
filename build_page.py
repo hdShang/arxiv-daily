@@ -73,7 +73,7 @@ def render_paper_md(p: Dict[str, Any]) -> str:
 <div class="paper-toolbar">
   <a href="{abs_url}" class="toolbar-btn" target="_blank">📄 arXiv: {arxiv_id}</a>
   <a href="{pdf_url}" class="toolbar-btn" target="_blank">📥 PDF</a>
-  <button class="toolbar-btn favorite-btn" data-arxiv-id="{arxiv_id}" onclick="toggleFavorite(this, '{arxiv_id}', '{title_escaped}')" title="添加到收藏夹">☆ 收藏</button>
+  <button class="toolbar-btn favorite-btn" data-arxiv-id="{arxiv_id}" data-paper-url="__CURRENT_PAGE__" onclick="toggleFavorite(this, '{arxiv_id}', '{title_escaped}')" title="添加到收藏夹">☆ 收藏</button>
   <button class="toolbar-btn" onclick="copyLinkToClipboard(this)">🔗 分享</button>
 </div>
 ''')
@@ -207,13 +207,14 @@ def _render_paper_table_html(papers: List[Dict[str, Any]], start_idx: int = 0) -
                 break
         tags_html = " ".join([f'<span class="paper-tag">{t}</span>' for t in tags])
         
+        paper_url = f"./papers/{slug}.html"
         rows.append(f'''<tr>
   <td>{i}</td>
-  <td><a href="./papers/{slug}.html">{title_display}</a></td>
+  <td><a href="{paper_url}">{title_display}</a></td>
   <td>{headline}</td>
   <td class="tags-cell">{tags_html}</td>
   <td>{code_icon}</td>
-  <td><button class="favorite-btn" data-arxiv-id="{arxiv_id}" onclick="toggleFavorite(this, '{arxiv_id}', '{title_escaped}')" title="添加到收藏夹">☆</button></td>
+  <td><button class="favorite-btn" data-arxiv-id="{arxiv_id}" data-paper-url="{paper_url}" onclick="toggleFavorite(this, '{arxiv_id}', '{title_escaped}')" title="添加到收藏夹">☆</button></td>
 </tr>''')
     return "\n".join(rows)
 
