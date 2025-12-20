@@ -50,7 +50,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-18
 <tr>
   <td>3</td>
   <td><a href="./papers/251216461v1-snow-spatio-temporal-scene-understanding-with-world-knowledge-for-op.html">SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning</a></td>
-  <td>SNOW：融合世界知识的时空场景理解框架，用于开放世界具身推理</td>
+  <td>SNOW：利用世界知识进行时空场景理解，实现开放世界具身推理</td>
   <td class="tags-cell"><span class="paper-tag">world model</span> <span class="paper-tag">scene understanding</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16461v1" data-paper-url="./papers/251216461v1-snow-spatio-temporal-scene-understanding-with-world-knowledge-for-op.html" onclick="toggleFavorite(this, '2512.16461v1', 'SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning')" title="添加到收藏夹">☆</button></td>
@@ -58,7 +58,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-18
 <tr>
   <td>4</td>
   <td><a href="./papers/251216918v1-adatooler-v-adaptive-tool-use-for-images-and-videos.html">AdaTooler-V: Adaptive Tool-Use for Images and Videos</a></td>
-  <td>提出AdaTooler-V，通过自适应工具使用提升多模态大语言模型在图像和视频任务中的推理效率和性能。</td>
+  <td>AdaTooler-V：一种自适应工具使用的图像和视频多模态大语言模型</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">large language model</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16918v1" data-paper-url="./papers/251216918v1-adatooler-v-adaptive-tool-use-for-images-and-videos.html" onclick="toggleFavorite(this, '2512.16918v1', 'AdaTooler-V: Adaptive Tool-Use for Images and Videos')" title="添加到收藏夹">☆</button></td>
@@ -66,7 +66,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-18
 <tr>
   <td>5</td>
   <td><a href="./papers/251216893v1-instant-expressive-gaussian-head-avatar-via-3d-aware-expression-dist.html">Instant Expressive Gaussian Head Avatar via 3D-Aware Expression Distillation</a></td>
-  <td>提出基于3D感知表达蒸馏的快速高表现力高斯头部头像方法</td>
+  <td>提出基于3D感知表达蒸馏的快速高表现力高斯头部Avatar方法</td>
   <td class="tags-cell"><span class="paper-tag">distillation</span> <span class="paper-tag">gaussian splatting</span> <span class="paper-tag">splatting</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16893v1" data-paper-url="./papers/251216893v1-instant-expressive-gaussian-head-avatar-via-3d-aware-expression-dist.html" onclick="toggleFavorite(this, '2512.16893v1', 'Instant Expressive Gaussian Head Avatar via 3D-Aware Expression Distillation')" title="添加到收藏夹">☆</button></td>
@@ -74,7 +74,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-18
 <tr>
   <td>6</td>
   <td><a href="./papers/251216635v1-sarmae-masked-autoencoder-for-sar-representation-learning.html">SARMAE: Masked Autoencoder for SAR Representation Learning</a></td>
-  <td>SARMAE：面向SAR图像表征学习的噪声感知掩码自编码器</td>
+  <td>提出SARMAE以解决SAR图像表示学习中的噪声问题</td>
   <td class="tags-cell"><span class="paper-tag">representation learning</span> <span class="paper-tag">masked autoencoder</span></td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16635v1" data-paper-url="./papers/251216635v1-sarmae-masked-autoencoder-for-sar-representation-learning.html" onclick="toggleFavorite(this, '2512.16635v1', 'SARMAE: Masked Autoencoder for SAR Representation Learning')" title="添加到收藏夹">☆</button></td>
@@ -98,7 +98,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-18
 <tr>
   <td>9</td>
   <td><a href="./papers/251216294v1-macl-multi-label-adaptive-contrastive-learning-loss-for-remote-sensi.html">MACL: Multi-Label Adaptive Contrastive Learning Loss for Remote Sensing Image Retrieval</a></td>
-  <td>提出多标签自适应对比学习(MACL)损失，用于遥感图像检索。</td>
+  <td>提出MACL：一种多标签自适应对比学习损失，用于遥感图像检索</td>
   <td class="tags-cell"><span class="paper-tag">representation learning</span> <span class="paper-tag">contrastive learning</span></td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16294v1" data-paper-url="./papers/251216294v1-macl-multi-label-adaptive-contrastive-learning-loss-for-remote-sensi.html" onclick="toggleFavorite(this, '2512.16294v1', 'MACL: Multi-Label Adaptive Contrastive Learning Loss for Remote Sensing Image Retrieval')" title="添加到收藏夹">☆</button></td>
@@ -114,7 +114,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-18
 <tr>
   <td>11</td>
   <td><a href="./papers/251216909v1-momagraph-state-aware-unified-scene-graphs-with-vision-language-mode.html">MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning</a></td>
-  <td>MomaGraph：面向具身任务规划，融合视觉-语言模型的、状态感知的统一场景图</td>
+  <td>提出MomaGraph，利用视觉-语言模型为具身任务规划构建状态感知的统一场景图。</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">scene understanding</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16909v1" data-paper-url="./papers/251216909v1-momagraph-state-aware-unified-scene-graphs-with-vision-language-mode.html" onclick="toggleFavorite(this, '2512.16909v1', 'MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning')" title="添加到收藏夹">☆</button></td>
@@ -149,7 +149,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-18
 <tr>
   <td>14</td>
   <td><a href="./papers/251216485v1-smile-on-the-face-sadness-in-the-eyes-bridging-the-emotion-gap-with-.html">Smile on the Face, Sadness in the Eyes: Bridging the Emotion Gap with a Multimodal Dataset of Eye and Facial Behaviors</a></td>
-  <td>提出EMERT模型和EMER数据集，利用眼部行为弥合面部表情识别和情感识别的差距</td>
+  <td>提出EMER数据集和EMERT模型，利用眼部行为弥合面部表情识别和情感识别之间的差距</td>
   <td class="tags-cell"><span class="paper-tag">multimodal</span></td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16485v1" data-paper-url="./papers/251216485v1-smile-on-the-face-sadness-in-the-eyes-bridging-the-emotion-gap-with-.html" onclick="toggleFavorite(this, '2512.16485v1', 'Smile on the Face, Sadness in the Eyes: Bridging the Emotion Gap with a Multimodal Dataset of Eye and Facial Behaviors')" title="添加到收藏夹">☆</button></td>
@@ -173,7 +173,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-18
 <tr>
   <td>17</td>
   <td><a href="./papers/251216303v1-pixelarena-a-benchmark-for-pixel-precision-visual-intelligence.html">PixelArena: A benchmark for Pixel-Precision Visual Intelligence</a></td>
-  <td>PixelArena：提出像素级视觉智能评测基准，评估多模态大模型图像生成能力</td>
+  <td>PixelArena：提出像素级视觉智能评估基准，用于客观评估图像生成模型的细粒度生成能力。</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16303v1" data-paper-url="./papers/251216303v1-pixelarena-a-benchmark-for-pixel-precision-visual-intelligence.html" onclick="toggleFavorite(this, '2512.16303v1', 'PixelArena: A benchmark for Pixel-Precision Visual Intelligence')" title="添加到收藏夹">☆</button></td>
@@ -189,7 +189,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-18
 <tr>
   <td>19</td>
   <td><a href="./papers/251216636v1-reglue-your-latents-with-global-and-local-semantics-for-entangled-di.html">REGLUE Your Latents with Global and Local Semantics for Entangled Diffusion</a></td>
-  <td>REGLUE：融合全局与局部语义的解耦扩散模型，提升图像合成质量与收敛速度</td>
+  <td>REGLUE：融合全局与局部语义的解耦扩散模型，提升图像合成质量。</td>
   <td class="tags-cell"><span class="paper-tag">foundation model</span></td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16636v1" data-paper-url="./papers/251216636v1-reglue-your-latents-with-global-and-local-semantics-for-entangled-di.html" onclick="toggleFavorite(this, '2512.16636v1', 'REGLUE Your Latents with Global and Local Semantics for Entangled Diffusion')" title="添加到收藏夹">☆</button></td>
@@ -197,7 +197,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-18
 <tr>
   <td>20</td>
   <td><a href="./papers/251216501v1-venusbench-gd-a-comprehensive-multi-platform-gui-benchmark-for-diver.html">VenusBench-GD: A Comprehensive Multi-Platform GUI Benchmark for Diverse Grounding Tasks</a></td>
-  <td>VenusBench-GD：一个全面的多平台GUI基准，用于评估多样化的Grounding任务</td>
+  <td>提出VenusBench-GD，一个全面的多平台GUI基准，用于评估多样化的Grounding任务。</td>
   <td class="tags-cell"><span class="paper-tag">multimodal</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16501v1" data-paper-url="./papers/251216501v1-venusbench-gd-a-comprehensive-multi-platform-gui-benchmark-for-diver.html" onclick="toggleFavorite(this, '2512.16501v1', 'VenusBench-GD: A Comprehensive Multi-Platform GUI Benchmark for Diverse Grounding Tasks')" title="添加到收藏夹">☆</button></td>
@@ -232,7 +232,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-18
 <tr>
   <td>23</td>
   <td><a href="./papers/251216913v1-depth-any-panoramas-a-foundation-model-for-panoramic-depth-estimatio.html">Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation</a></td>
-  <td>提出全景深度估计基础模型DAP，提升跨场景距离的泛化能力。</td>
+  <td>提出全景深度基础模型以解决多场景深度估计问题</td>
   <td class="tags-cell"><span class="paper-tag">depth estimation</span> <span class="paper-tag">metric depth</span> <span class="paper-tag">geometric consistency</span></td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16913v1" data-paper-url="./papers/251216913v1-depth-any-panoramas-a-foundation-model-for-panoramic-depth-estimatio.html" onclick="toggleFavorite(this, '2512.16913v1', 'Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation')" title="添加到收藏夹">☆</button></td>
@@ -256,7 +256,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-18
 <tr>
   <td>26</td>
   <td><a href="./papers/251216564v1-4d-primitive-mâché-glueing-primitives-for-persistent-4d-scene-recons.html">4D Primitive-Mâché: Glueing Primitives for Persistent 4D Scene Reconstruction</a></td>
-  <td>提出4D Primitive-Mâché，通过拼接基元实现持久化4D场景重建</td>
+  <td>提出4D Primitive-Mâché，用于单目视频的持久化4D场景重建</td>
   <td class="tags-cell"><span class="paper-tag">scene reconstruction</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16564v1" data-paper-url="./papers/251216564v1-4d-primitive-mâché-glueing-primitives-for-persistent-4d-scene-recons.html" onclick="toggleFavorite(this, '2512.16564v1', '4D Primitive-Mâché: Glueing Primitives for Persistent 4D Scene Reconstruction')" title="添加到收藏夹">☆</button></td>
@@ -272,7 +272,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-18
 <tr>
   <td>28</td>
   <td><a href="./papers/251216077v1-auto-vocabulary-3d-object-detection.html">Auto-Vocabulary 3D Object Detection</a></td>
-  <td>提出AV3DOD框架，实现无需用户干预的自动词汇3D目标检测。</td>
+  <td>提出AV3DOD，实现无需用户干预的自动词汇3D目标检测</td>
   <td class="tags-cell"><span class="paper-tag">open-vocabulary</span> <span class="paper-tag">open vocabulary</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16077v1" data-paper-url="./papers/251216077v1-auto-vocabulary-3d-object-detection.html" onclick="toggleFavorite(this, '2512.16077v1', 'Auto-Vocabulary 3D Object Detection')" title="添加到收藏夹">☆</button></td>
@@ -299,7 +299,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-18
 <tr>
   <td>30</td>
   <td><a href="./papers/251216767v1-make-it-poseable-feed-forward-latent-posing-model-for-3d-humanoid-ch.html">Make-It-Poseable: Feed-forward Latent Posing Model for 3D Humanoid Character Animation</a></td>
-  <td>提出Make-It-Poseable，用于解决3D人形角色动画中姿态控制难题</td>
+  <td>提出Make-It-Poseable，用于解决3D人形角色动画中姿态控制难题。</td>
   <td class="tags-cell"><span class="paper-tag">humanoid</span> <span class="paper-tag">character animation</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16767v1" data-paper-url="./papers/251216767v1-make-it-poseable-feed-forward-latent-posing-model-for-3d-humanoid-ch.html" onclick="toggleFavorite(this, '2512.16767v1', 'Make-It-Poseable: Feed-forward Latent Posing Model for 3D Humanoid Character Animation')" title="添加到收藏夹">☆</button></td>
@@ -334,7 +334,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-18
 <tr>
   <td>33</td>
   <td><a href="./papers/251216907v1-flowing-from-reasoning-to-motion-learning-3d-hand-trajectory-predict.html">Flowing from Reasoning to Motion: Learning 3D Hand Trajectory Prediction from Egocentric Human Interaction Videos</a></td>
-  <td>EgoMAN：基于自中心交互视频学习3D手部轨迹预测，实现从推理到动作的流畅衔接</td>
+  <td>EgoMAN：基于自中心交互视频，学习3D手部轨迹预测，实现从推理到运动的生成</td>
   <td class="tags-cell"><span class="paper-tag">motion generation</span> <span class="paper-tag">egocentric</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16907v1" data-paper-url="./papers/251216907v1-flowing-from-reasoning-to-motion-learning-3d-hand-trajectory-predict.html" onclick="toggleFavorite(this, '2512.16907v1', 'Flowing from Reasoning to Motion: Learning 3D Hand Trajectory Prediction from Egocentric Human Interaction Videos')" title="添加到收藏夹">☆</button></td>
@@ -342,7 +342,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-18
 <tr>
   <td>34</td>
   <td><a href="./papers/251216456v1-prime-and-reach-synthesising-body-motion-for-gaze-primed-object-reac.html">Prime and Reach: Synthesising Body Motion for Gaze-Primed Object Reach</a></td>
-  <td>提出基于注视启动的人体运动合成方法，用于模拟拾取/放置物体的自然行为。</td>
+  <td>提出一种基于注视引导的运动合成方法以解决人类动作生成问题</td>
   <td class="tags-cell"><span class="paper-tag">motion generation</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16456v1" data-paper-url="./papers/251216456v1-prime-and-reach-synthesising-body-motion-for-gaze-primed-object-reac.html" onclick="toggleFavorite(this, '2512.16456v1', 'Prime and Reach: Synthesising Body Motion for Gaze-Primed Object Reach')" title="添加到收藏夹">☆</button></td>
@@ -361,7 +361,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-18
 <tr>
   <td>35</td>
   <td><a href="./papers/251216360v1-everybodydance-bipartite-graph-based-identity-correspondence-for-mul.html">EverybodyDance: Bipartite Graph-Based Identity Correspondence for Multi-Character Animation</a></td>
-  <td>EverybodyDance：基于二分图的角色匹配方法，解决多角色动画中的身份对应问题。</td>
+  <td>提出EverybodyDance，通过二分图匹配解决多角色动画中的身份对应问题。</td>
   <td class="tags-cell"><span class="paper-tag">character animation</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16360v1" data-paper-url="./papers/251216360v1-everybodydance-bipartite-graph-based-identity-correspondence-for-mul.html" onclick="toggleFavorite(this, '2512.16360v1', 'EverybodyDance: Bipartite Graph-Based Identity Correspondence for Multi-Character Animation')" title="添加到收藏夹">☆</button></td>
@@ -369,7 +369,7 @@ title: arXiv 中文要点汇总 - cs.CV - 2025-12-18
 <tr>
   <td>36</td>
   <td><a href="./papers/251216920v1-easyv2v-a-high-quality-instruction-based-video-editing-framework.html">EasyV2V: A High-quality Instruction-based Video Editing Framework</a></td>
-  <td>EasyV2V：提出一种高质量的基于指令的视频编辑框架，提升视频编辑的一致性、控制性和泛化性。</td>
+  <td>EasyV2V：高质量的基于指令的视频编辑框架，实现灵活可控的视频编辑。</td>
   <td class="tags-cell"><span class="paper-tag">spatiotemporal</span></td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16920v1" data-paper-url="./papers/251216920v1-easyv2v-a-high-quality-instruction-based-video-editing-framework.html" onclick="toggleFavorite(this, '2512.16920v1', 'EasyV2V: A High-quality Instruction-based Video Editing Framework')" title="添加到收藏夹">☆</button></td>

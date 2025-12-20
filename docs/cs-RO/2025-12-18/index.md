@@ -30,7 +30,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-18
 <tr>
   <td>1</td>
   <td><a href="./papers/251216446v1-e-sds-environment-aware-see-it-do-it-sorted-automated-environment-aw.html">E-SDS: Environment-aware See it, Do it, Sorted - Automated Environment-Aware Reinforcement Learning for Humanoid Locomotion</a></td>
-  <td>E-SDS：环境感知的人形机器人强化学习框架，实现复杂地形稳健运动</td>
+  <td>E-SDS：环境感知的人形机器人强化学习，解决复杂地形导航问题</td>
   <td class="tags-cell"><span class="paper-tag">humanoid</span> <span class="paper-tag">humanoid locomotion</span> <span class="paper-tag">locomotion</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16446v1" data-paper-url="./papers/251216446v1-e-sds-environment-aware-see-it-do-it-sorted-automated-environment-aw.html" onclick="toggleFavorite(this, '2512.16446v1', 'E-SDS: Environment-aware See it, Do it, Sorted - Automated Environment-Aware Reinforcement Learning for Humanoid Locomotion')" title="添加到收藏夹">☆</button></td>
@@ -38,7 +38,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-18
 <tr>
   <td>2</td>
   <td><a href="./papers/251216724v1-verm-leveraging-foundation-models-to-create-a-virtual-eye-for-effici.html">VERM: Leveraging Foundation Models to Create a Virtual Eye for Efficient 3D Robotic Manipulation</a></td>
-  <td>VERM：利用基础模型构建虚拟视点，提升3D机器人操作效率</td>
+  <td>VERM：利用基础模型为机器人操作构建高效3D虚拟视觉</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">foundation model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16724v1" data-paper-url="./papers/251216724v1-verm-leveraging-foundation-models-to-create-a-virtual-eye-for-effici.html" onclick="toggleFavorite(this, '2512.16724v1', 'VERM: Leveraging Foundation Models to Create a Virtual Eye for Efficient 3D Robotic Manipulation')" title="添加到收藏夹">☆</button></td>
@@ -46,7 +46,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-18
 <tr>
   <td>3</td>
   <td><a href="./papers/251216793v1-physbrain-human-egocentric-data-as-a-bridge-from-vision-language-mod.html">PhysBrain: Human Egocentric Data as a Bridge from Vision Language Models to Physical Intelligence</a></td>
-  <td>提出Egocentric2Embodiment以解决机器人物理智能问题</td>
+  <td>提出PhysBrain以解决机器人视觉语言模型与物理智能的匹配问题</td>
   <td class="tags-cell"><span class="paper-tag">humanoid</span> <span class="paper-tag">humanoid robot</span> <span class="paper-tag">egocentric</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16793v1" data-paper-url="./papers/251216793v1-physbrain-human-egocentric-data-as-a-bridge-from-vision-language-mod.html" onclick="toggleFavorite(this, '2512.16793v1', 'PhysBrain: Human Egocentric Data as a Bridge from Vision Language Models to Physical Intelligence')" title="添加到收藏夹">☆</button></td>
@@ -62,7 +62,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-18
 <tr>
   <td>5</td>
   <td><a href="./papers/251216861v1-reinforcegen-hybrid-skill-policies-with-automated-data-generation-an.html">ReinforceGen: Hybrid Skill Policies with Automated Data Generation and Reinforcement Learning</a></td>
-  <td>ReinforceGen：结合自动数据生成与强化学习的混合技能策略，解决机器人长程操作难题。</td>
+  <td>ReinforceGen：结合自动数据生成与强化学习的混合技能策略，解决机器人长时程操作难题。</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span> <span class="paper-tag">motion planning</span> <span class="paper-tag">reinforcement learning</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16861v1" data-paper-url="./papers/251216861v1-reinforcegen-hybrid-skill-policies-with-automated-data-generation-an.html" onclick="toggleFavorite(this, '2512.16861v1', 'ReinforceGen: Hybrid Skill Policies with Automated Data Generation and Reinforcement Learning')" title="添加到收藏夹">☆</button></td>
@@ -113,7 +113,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-18
 <tr>
   <td>10</td>
   <td><a href="./papers/251216881v1-polaris-scalable-real-to-sim-evaluations-for-generalist-robot-polici.html">PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies</a></td>
-  <td>PolaRiS：一种可扩展的真实到模拟的通用机器人策略评估框架</td>
+  <td>PolaRiS：用于通用机器人策略的可扩展真实到模拟评估框架</td>
   <td class="tags-cell"><span class="paper-tag">foundation model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16881v1" data-paper-url="./papers/251216881v1-polaris-scalable-real-to-sim-evaluations-for-generalist-robot-polici.html" onclick="toggleFavorite(this, '2512.16881v1', 'PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies')" title="添加到收藏夹">☆</button></td>
@@ -132,7 +132,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-12-18
 <tr>
   <td>11</td>
   <td><a href="./papers/251216367v1-a2visr-an-active-and-adaptive-ground-aerial-localization-system-usin.html">A2VISR: An Active and Adaptive Ground-Aerial Localization System Using Visual Inertial and Single-Range Fusion</a></td>
-  <td>提出A2VISR，一种融合视觉惯性和单测距的主动自适应地-空协同定位系统</td>
+  <td>提出A2VISR：一种融合视觉惯性和单测距的主动自适应地空协同定位系统</td>
   <td class="tags-cell"><span class="paper-tag">optical flow</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16367v1" data-paper-url="./papers/251216367v1-a2visr-an-active-and-adaptive-ground-aerial-localization-system-usin.html" onclick="toggleFavorite(this, '2512.16367v1', 'A2VISR: An Active and Adaptive Ground-Aerial Localization System Using Visual Inertial and Single-Range Fusion')" title="添加到收藏夹">☆</button></td>

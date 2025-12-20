@@ -45,7 +45,7 @@ title: arXiv 中文要点汇总 - cs.CL - 2025-12-18
 <tr>
   <td>3</td>
   <td><a href="./papers/251216182v1-dualguard-dual-stream-large-language-model-watermarking-defense-agai.html">DualGuard: Dual-stream Large Language Model Watermarking Defense against Paraphrase and Spoofing Attack</a></td>
-  <td>提出DualGuard以解决大语言模型水印防御问题</td>
+  <td>提出DualGuard，防御针对大语言模型水印的复述攻击和欺骗攻击。</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16182v1" data-paper-url="./papers/251216182v1-dualguard-dual-stream-large-language-model-watermarking-defense-agai.html" onclick="toggleFavorite(this, '2512.16182v1', 'DualGuard: Dual-stream Large Language Model Watermarking Defense against Paraphrase and Spoofing Attack')" title="添加到收藏夹">☆</button></td>
@@ -61,7 +61,7 @@ title: arXiv 中文要点汇总 - cs.CL - 2025-12-18
 <tr>
   <td>5</td>
   <td><a href="./papers/251216795v1-from-facts-to-conclusions-integrating-deductive-reasoning-in-retriev.html">From Facts to Conclusions : Integrating Deductive Reasoning in Retrieval-Augmented LLMs</a></td>
-  <td>提出推理追踪增强的RAG框架，解决检索信息冲突和主观性问题。</td>
+  <td>提出推理追踪增强的RAG框架，解决检索信息冲突和主观性问题，提升LLM回答的正确性和可信度。</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16795v1" data-paper-url="./papers/251216795v1-from-facts-to-conclusions-integrating-deductive-reasoning-in-retriev.html" onclick="toggleFavorite(this, '2512.16795v1', 'From Facts to Conclusions : Integrating Deductive Reasoning in Retrieval-Augmented LLMs')" title="添加到收藏夹">☆</button></td>
@@ -69,7 +69,7 @@ title: arXiv 中文要点汇总 - cs.CL - 2025-12-18
 <tr>
   <td>6</td>
   <td><a href="./papers/251216602v1-refusal-steering-fine-grained-control-over-llm-refusal-behaviour-for.html">Refusal Steering: Fine-grained Control over LLM Refusal Behaviour for Sensitive Topics</a></td>
-  <td>提出拒绝引导方法以控制大型语言模型的拒绝行为</td>
+  <td>Refusal Steering：通过激活向量调控LLM在敏感话题上的拒绝行为</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16602v1" data-paper-url="./papers/251216602v1-refusal-steering-fine-grained-control-over-llm-refusal-behaviour-for.html" onclick="toggleFavorite(this, '2512.16602v1', 'Refusal Steering: Fine-grained Control over LLM Refusal Behaviour for Sensitive Topics')" title="添加到收藏夹">☆</button></td>
@@ -77,7 +77,7 @@ title: arXiv 中文要点汇总 - cs.CL - 2025-12-18
 <tr>
   <td>7</td>
   <td><a href="./papers/251216248v1-sigma-moe-tiny-technical-report.html">Sigma-Moe-Tiny Technical Report</a></td>
-  <td>Sigma-MoE-Tiny：提出一种高稀疏MoE语言模型，解决专家负载均衡问题，实现高效扩展。</td>
+  <td>Sigma-MoE-Tiny：提出一种高稀疏MoE语言模型，解决专家负载均衡难题，实现高效扩展。</td>
   <td class="tags-cell"><span class="paper-tag">foundation model</span></td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16248v1" data-paper-url="./papers/251216248v1-sigma-moe-tiny-technical-report.html" onclick="toggleFavorite(this, '2512.16248v1', 'Sigma-Moe-Tiny Technical Report')" title="添加到收藏夹">☆</button></td>
@@ -85,7 +85,7 @@ title: arXiv 中文要点汇总 - cs.CL - 2025-12-18
 <tr>
   <td>8</td>
   <td><a href="./papers/251216439v1-from-essence-to-defense-adaptive-semantic-aware-watermarking-for-emb.html">From Essence to Defense: Adaptive Semantic-aware Watermarking for Embedding-as-a-Service Copyright Protection</a></td>
-  <td>提出SemMark：一种自适应语义感知水印方法，用于保护Embedding-as-a-Service的版权</td>
+  <td>提出SemMark以解决EaaS版权保护中的水印隐蔽性问题</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16439v1" data-paper-url="./papers/251216439v1-from-essence-to-defense-adaptive-semantic-aware-watermarking-for-emb.html" onclick="toggleFavorite(this, '2512.16439v1', 'From Essence to Defense: Adaptive Semantic-aware Watermarking for Embedding-as-a-Service Copyright Protection')" title="添加到收藏夹">☆</button></td>
@@ -120,7 +120,7 @@ title: arXiv 中文要点汇总 - cs.CL - 2025-12-18
 <tr>
   <td>11</td>
   <td><a href="./papers/251216883v1-adasearch-balancing-parametric-knowledge-and-search-in-large-languag.html">AdaSearch: Balancing Parametric Knowledge and Search in Large Language Models via Reinforcement Learning</a></td>
-  <td>AdaSearch：通过强化学习平衡大语言模型中的参数知识和搜索</td>
+  <td>提出AdaSearch，通过强化学习平衡大语言模型的参数知识与外部搜索。</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">large language model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16883v1" data-paper-url="./papers/251216883v1-adasearch-balancing-parametric-knowledge-and-search-in-large-languag.html" onclick="toggleFavorite(this, '2512.16883v1', 'AdaSearch: Balancing Parametric Knowledge and Search in Large Language Models via Reinforcement Learning')" title="添加到收藏夹">☆</button></td>

@@ -39,7 +39,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-18
 <tr>
   <td>2</td>
   <td><a href="./papers/251216855v1-toggle-temporal-logic-guided-large-language-model-compression-for-ed.html">TOGGLE: Temporal Logic-Guided Large Language Model Compression for Edge</a></td>
-  <td>提出TOGGLE，利用时序逻辑引导LLM压缩，实现边缘设备高效部署。</td>
+  <td>TOGGLE：时序逻辑引导的大语言模型边缘压缩方法</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16855v1" data-paper-url="./papers/251216855v1-toggle-temporal-logic-guided-large-language-model-compression-for-ed.html" onclick="toggleFavorite(this, '2512.16855v1', 'TOGGLE: Temporal Logic-Guided Large Language Model Compression for Edge')" title="添加到收藏夹">☆</button></td>
@@ -55,7 +55,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-18
 <tr>
   <td>4</td>
   <td><a href="./papers/251216453v1-timeseries2report-prompting-enables-adaptive-large-language-model-ma.html">TimeSeries2Report prompting enables adaptive large language model management of lithium-ion batteries</a></td>
-  <td>提出TimeSeries2Report框架，实现大语言模型对锂离子电池的自适应管理</td>
+  <td>提出TimeSeries2Report框架，利用大语言模型优化锂离子电池管理</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16453v1" data-paper-url="./papers/251216453v1-timeseries2report-prompting-enables-adaptive-large-language-model-ma.html" onclick="toggleFavorite(this, '2512.16453v1', 'TimeSeries2Report prompting enables adaptive large language model management of lithium-ion batteries')" title="添加到收藏夹">☆</button></td>
@@ -63,7 +63,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-18
 <tr>
   <td>5</td>
   <td><a href="./papers/251216063v1-a-multi-agent-large-language-model-framework-for-automated-qualitati.html">A Multi-Agent Large Language Model Framework for Automated Qualitative Analysis</a></td>
-  <td>提出CoTI多Agent LLM框架，自动化定性分析，提升患者体验研究效率。</td>
+  <td>提出CoTI多智能体LLM框架，自动化定性分析，提升患者体验研究效率。</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16063v1" data-paper-url="./papers/251216063v1-a-multi-agent-large-language-model-framework-for-automated-qualitati.html" onclick="toggleFavorite(this, '2512.16063v1', 'A Multi-Agent Large Language Model Framework for Automated Qualitative Analysis')" title="添加到收藏夹">☆</button></td>
@@ -71,7 +71,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-18
 <tr>
   <td>6</td>
   <td><a href="./papers/251216698v1-do-multi-agents-solve-better-than-single-evaluating-agentic-framewor.html">Do Multi-Agents Solve Better Than Single? Evaluating Agentic Frameworks for Diagram-Grounded Geometry Problem Solving and Reasoning</a></td>
-  <td>比较多智能体与单智能体在几何问题求解中的表现</td>
+  <td>对比单智能体与多智能体框架，评估其在图解几何问题求解中的表现。</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span> <span class="paper-tag">multimodal</span></td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16698v1" data-paper-url="./papers/251216698v1-do-multi-agents-solve-better-than-single-evaluating-agentic-framewor.html" onclick="toggleFavorite(this, '2512.16698v1', 'Do Multi-Agents Solve Better Than Single? Evaluating Agentic Frameworks for Diagram-Grounded Geometry Problem Solving and Reasoning')" title="添加到收藏夹">☆</button></td>
@@ -87,7 +87,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-18
 <tr>
   <td>8</td>
   <td><a href="./papers/251216300v1-code-in-the-loop-forensics-agentic-tool-use-for-image-forgery-detect.html">Code-in-the-Loop Forensics: Agentic Tool Use for Image Forgery Detection</a></td>
-  <td>提出ForenAgent以解决图像伪造检测中的信息流不统一问题</td>
+  <td>提出ForenAgent，利用Agentic工具进行图像伪造检测，实现更灵活和可解释的分析。</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span> <span class="paper-tag">multimodal</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16300v1" data-paper-url="./papers/251216300v1-code-in-the-loop-forensics-agentic-tool-use-for-image-forgery-detect.html" onclick="toggleFavorite(this, '2512.16300v1', 'Code-in-the-Loop Forensics: Agentic Tool Use for Image Forgery Detection')" title="添加到收藏夹">☆</button></td>
@@ -135,7 +135,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-18
 <tr>
   <td>14</td>
   <td><a href="./papers/251216532v1-from-personalization-to-prejudice-bias-and-discrimination-in-memory-.html">From Personalization to Prejudice: Bias and Discrimination in Memory-Enhanced AI Agents for Recruitment</a></td>
-  <td>揭示记忆增强型AI招聘Agent中的偏见引入与强化机制</td>
+  <td>揭示记忆增强型AI招聘Agent的偏见引入与强化机制</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16532v1" data-paper-url="./papers/251216532v1-from-personalization-to-prejudice-bias-and-discrimination-in-memory-.html" onclick="toggleFavorite(this, '2512.16532v1', 'From Personalization to Prejudice: Bias and Discrimination in Memory-Enhanced AI Agents for Recruitment')" title="添加到收藏夹">☆</button></td>
@@ -151,7 +151,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-18
 <tr>
   <td>16</td>
   <td><a href="./papers/251216447v1-towards-ai-supported-research-a-vision-of-the-tib-aissistant.html">Towards AI-Supported Research: a Vision of the TIB AIssistant</a></td>
-  <td>提出TIB AIssistant：一个支持科研全流程的领域无关人机协作平台</td>
+  <td>提出TIB AIssistant平台，旨在利用AI增强科研工作流程，促进跨学科的科学发现。</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16447v1" data-paper-url="./papers/251216447v1-towards-ai-supported-research-a-vision-of-the-tib-aissistant.html" onclick="toggleFavorite(this, '2512.16447v1', 'Towards AI-Supported Research: a Vision of the TIB AIssistant')" title="添加到收藏夹">☆</button></td>
@@ -167,7 +167,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-18
 <tr>
   <td>18</td>
   <td><a href="./papers/251216425v1-introducing-orkg-ask-an-ai-driven-scholarly-literature-search-and-ex.html">Introducing ORKG ASK: an AI-driven Scholarly Literature Search and Exploration System Taking a Neuro-Symbolic Approach</a></td>
-  <td>提出基于神经符号方法的ORKG ASK，用于AI驱动的学术文献搜索与探索</td>
+  <td>提出ORKG ASK：一种基于神经符号方法的AI驱动的学术文献搜索与探索系统</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16425v1" data-paper-url="./papers/251216425v1-introducing-orkg-ask-an-ai-driven-scholarly-literature-search-and-ex.html" onclick="toggleFavorite(this, '2512.16425v1', 'Introducing ORKG ASK: an AI-driven Scholarly Literature Search and Exploration System Taking a Neuro-Symbolic Approach')" title="添加到收藏夹">☆</button></td>
@@ -175,7 +175,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-18
 <tr>
   <td>19</td>
   <td><a href="./papers/251216424v1-synthelite-chemist-aligned-and-feasibility-aware-synthesis-planning-.html">Synthelite: Chemist-aligned and feasibility-aware synthesis planning with LLMs</a></td>
-  <td>Synthelite：利用LLM实现化学家友好且可行性感知的合成路线规划</td>
+  <td>Synthelite：利用LLM实现化学家导向且可行性感知的合成路线规划</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16424v1" data-paper-url="./papers/251216424v1-synthelite-chemist-aligned-and-feasibility-aware-synthesis-planning-.html" onclick="toggleFavorite(this, '2512.16424v1', 'Synthelite: Chemist-aligned and feasibility-aware synthesis planning with LLMs')" title="添加到收藏夹">☆</button></td>
@@ -183,7 +183,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-18
 <tr>
   <td>20</td>
   <td><a href="./papers/251216344v1-ai-needs-physics-more-than-physics-needs-ai.html">AI Needs Physics More Than Physics Needs AI</a></td>
-  <td>强调物理学对AI发展的重要性，提出融合理论严谨性和机器学习灵活性的“Big AI”愿景</td>
+  <td>强调物理学对人工智能的重要性，提出融合理论与机器学习的“大AI”愿景</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16344v1" data-paper-url="./papers/251216344v1-ai-needs-physics-more-than-physics-needs-ai.html" onclick="toggleFavorite(this, '2512.16344v1', 'AI Needs Physics More Than Physics Needs AI')" title="添加到收藏夹">☆</button></td>
@@ -199,7 +199,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-18
 <tr>
   <td>22</td>
   <td><a href="./papers/251216307v1-beyond-the-benchmark-innovative-defenses-against-prompt-injection-at.html">Beyond the Benchmark: Innovative Defenses Against Prompt Injection Attacks</a></td>
-  <td>针对LLaMA模型，提出迭代式prompt优化防御prompt注入攻击。</td>
+  <td>针对LLaMA模型，提出迭代式prompt优化防御prompt注入攻击</td>
   <td class="tags-cell"><span class="paper-tag">chain-of-thought</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16307v1" data-paper-url="./papers/251216307v1-beyond-the-benchmark-innovative-defenses-against-prompt-injection-at.html" onclick="toggleFavorite(this, '2512.16307v1', 'Beyond the Benchmark: Innovative Defenses Against Prompt Injection Attacks')" title="添加到收藏夹">☆</button></td>
@@ -207,7 +207,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-18
 <tr>
   <td>23</td>
   <td><a href="./papers/251216301v1-adaptation-of-agentic-ai.html">Adaptation of Agentic AI</a></td>
-  <td>提出Agentic AI自适应统一框架，提升智能体性能、可靠性和泛化能力</td>
+  <td>提出Agentic AI自适应框架，提升智能体性能、可靠性和泛化能力</td>
   <td class="tags-cell"><span class="paper-tag">foundation model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16301v1" data-paper-url="./papers/251216301v1-adaptation-of-agentic-ai.html" onclick="toggleFavorite(this, '2512.16301v1', 'Adaptation of Agentic AI')" title="添加到收藏夹">☆</button></td>
@@ -215,7 +215,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-18
 <tr>
   <td>24</td>
   <td><a href="./papers/251216279v1-quadsentinel-sequent-safety-for-machine-checkable-control-in-multi-a.html">QuadSentinel: Sequent Safety for Machine-Checkable Control in Multi-agent Systems</a></td>
-  <td>QuadSentinel：多智能体系统中基于时序推理和可机检规则的安全控制</td>
+  <td>QuadSentinel：多智能体系统中基于时序的安全策略可验证控制</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span></td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16279v1" data-paper-url="./papers/251216279v1-quadsentinel-sequent-safety-for-machine-checkable-control-in-multi-a.html" onclick="toggleFavorite(this, '2512.16279v1', 'QuadSentinel: Sequent Safety for Machine-Checkable Control in Multi-agent Systems')" title="添加到收藏夹">☆</button></td>
@@ -223,7 +223,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-18
 <tr>
   <td>25</td>
   <td><a href="./papers/251216272v1-beyond-blind-spots-analytic-hints-for-mitigating-llm-based-evaluatio.html">Beyond Blind Spots: Analytic Hints for Mitigating LLM-Based Evaluation Pitfalls</a></td>
-  <td>利用分析提示缓解LLM代码评估中的盲点，提升COBOL代码生成质量</td>
+  <td>利用分析提示缓解LLM在代码评估中的盲点，提升COBOL代码生成质量</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16272v1" data-paper-url="./papers/251216272v1-beyond-blind-spots-analytic-hints-for-mitigating-llm-based-evaluatio.html" onclick="toggleFavorite(this, '2512.16272v1', 'Beyond Blind Spots: Analytic Hints for Mitigating LLM-Based Evaluation Pitfalls')" title="添加到收藏夹">☆</button></td>
@@ -231,7 +231,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-18
 <tr>
   <td>26</td>
   <td><a href="./papers/251216262v1-learning-to-wait-synchronizing-agents-with-the-physical-world.html">Learning to Wait: Synchronizing Agents with the Physical World</a></td>
-  <td>提出Agent端时间同步方法，解决LLM在异步环境中与物理世界交互的时延问题</td>
+  <td>提出Agent端时间同步方法，解决LLM在异步环境中的时序校准问题</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16262v1" data-paper-url="./papers/251216262v1-learning-to-wait-synchronizing-agents-with-the-physical-world.html" onclick="toggleFavorite(this, '2512.16262v1', 'Learning to Wait: Synchronizing Agents with the Physical World')" title="添加到收藏夹">☆</button></td>
@@ -239,7 +239,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-18
 <tr>
   <td>27</td>
   <td><a href="./papers/251216167v1-ev-trust-a-strategy-equilibrium-trust-mechanism-for-evolutionary-gam.html">Ev-Trust: A Strategy Equilibrium Trust Mechanism for Evolutionary Games in LLM-Based Multi-Agent Services</a></td>
-  <td>提出Ev-Trust，一种基于演化博弈论的LLM多智能体服务信任机制。</td>
+  <td>提出Ev-Trust机制，利用演化博弈论解决LLM多智能体服务中的信任问题。</td>
   <td class="tags-cell"><span class="paper-tag">large language model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16167v1" data-paper-url="./papers/251216167v1-ev-trust-a-strategy-equilibrium-trust-mechanism-for-evolutionary-gam.html" onclick="toggleFavorite(this, '2512.16167v1', 'Ev-Trust: A Strategy Equilibrium Trust Mechanism for Evolutionary Games in LLM-Based Multi-Agent Services')" title="添加到收藏夹">☆</button></td>
@@ -266,7 +266,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-18
 <tr>
   <td>29</td>
   <td><a href="./papers/251216236v1-the-evolution-of-reranking-models-in-information-retrieval-from-heur.html">The Evolution of Reranking Models in Information Retrieval: From Heuristic Methods to Large Language Models</a></td>
-  <td>综述信息检索中重排序模型演进：从启发式方法到大型语言模型</td>
+  <td>综述信息检索中重排序模型演进：从启发式方法到大语言模型</td>
   <td class="tags-cell"><span class="paper-tag">distillation</span> <span class="paper-tag">large language model</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16236v1" data-paper-url="./papers/251216236v1-the-evolution-of-reranking-models-in-information-retrieval-from-heur.html" onclick="toggleFavorite(this, '2512.16236v1', 'The Evolution of Reranking Models in Information Retrieval: From Heuristic Methods to Large Language Models')" title="添加到收藏夹">☆</button></td>
@@ -274,7 +274,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-18
 <tr>
   <td>30</td>
   <td><a href="./papers/251216813v1-coordinated-anti-jamming-resilience-in-swarm-networks-via-multi-agen.html">Coordinated Anti-Jamming Resilience in Swarm Networks via Multi-Agent Reinforcement Learning</a></td>
-  <td>提出基于QMIX的多智能体强化学习方法，提升集群网络在反应式干扰下的通信韧性。</td>
+  <td>提出基于QMIX的多智能体强化学习方法，提升集群网络在反应式干扰下的抗干扰能力</td>
   <td class="tags-cell"><span class="paper-tag">reinforcement learning</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16813v1" data-paper-url="./papers/251216813v1-coordinated-anti-jamming-resilience-in-swarm-networks-via-multi-agen.html" onclick="toggleFavorite(this, '2512.16813v1', 'Coordinated Anti-Jamming Resilience in Swarm Networks via Multi-Agent Reinforcement Learning')" title="添加到收藏夹">☆</button></td>
@@ -301,7 +301,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-18
 <tr>
   <td>32</td>
   <td><a href="./papers/251216295v1-os-oracle-a-comprehensive-framework-for-cross-platform-gui-critic-mo.html">OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models</a></td>
-  <td>提出OS-Oracle框架，用于跨平台GUI智能体的决策评估与优化</td>
+  <td>OS-Oracle：构建跨平台GUI评论模型的综合框架，提升计算机使用代理的决策能力</td>
   <td class="tags-cell"><span class="paper-tag">manipulation</span></td>
   <td>✅</td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16295v1" data-paper-url="./papers/251216295v1-os-oracle-a-comprehensive-framework-for-cross-platform-gui-critic-mo.html" onclick="toggleFavorite(this, '2512.16295v1', 'OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models')" title="添加到收藏夹">☆</button></td>
@@ -320,7 +320,7 @@ title: arXiv 中文要点汇总 - cs.AI - 2025-12-18
 <tr>
   <td>33</td>
   <td><a href="./papers/251216856v1-distributional-agi-safety.html">Distributional AGI Safety</a></td>
-  <td>提出分布式AGI安全框架，通过虚拟沙盒经济应对群体智能风险。</td>
+  <td>提出分布式的AGI安全框架，应对多智能体协作涌现的通用智能风险。</td>
   <td class="tags-cell"><span class="paper-tag">affordance</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16856v1" data-paper-url="./papers/251216856v1-distributional-agi-safety.html" onclick="toggleFavorite(this, '2512.16856v1', 'Distributional AGI Safety')" title="添加到收藏夹">☆</button></td>

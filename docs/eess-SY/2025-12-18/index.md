@@ -56,7 +56,7 @@ title: arXiv 中文要点汇总 - eess.SY - 2025-12-18
 <tr>
   <td>3</td>
   <td><a href="./papers/251216608v1-resilience-of-coupled-systems-under-deep-uncertainty-and-dynamic-com.html">Resilience of coupled systems under deep uncertainty and dynamic complexity: An integrative literature review</a></td>
-  <td>针对复杂动态和深度不确定性，提出耦合系统韧性评估的综合框架。</td>
+  <td>综述耦合系统在深度不确定性和动态复杂性下的韧性研究，提出未来研究方向。</td>
   <td class="tags-cell"><span class="paper-tag">spatiotemporal</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16608v1" data-paper-url="./papers/251216608v1-resilience-of-coupled-systems-under-deep-uncertainty-and-dynamic-com.html" onclick="toggleFavorite(this, '2512.16608v1', 'Resilience of coupled systems under deep uncertainty and dynamic complexity: An integrative literature review')" title="添加到收藏夹">☆</button></td>
@@ -64,7 +64,7 @@ title: arXiv 中文要点汇总 - eess.SY - 2025-12-18
 <tr>
   <td>4</td>
   <td><a href="./papers/251216497v1-from-liability-to-asset-a-three-mode-grid-forming-control-framework-.html">From Liability to Asset: A Three-Mode Grid-Forming Control Framework for Centralized Data Center UPS Systems</a></td>
-  <td>针对数据中心UPS系统，提出三模式并网控制框架，提升弱电网适应性。</td>
+  <td>针对数据中心UPS系统，提出三模式电网重构控制框架，提升弱电网适应性。</td>
   <td class="tags-cell"><span class="paper-tag">PULSE</span></td>
   <td></td>
   <td><button class="favorite-btn" data-arxiv-id="2512.16497v1" data-paper-url="./papers/251216497v1-from-liability-to-asset-a-three-mode-grid-forming-control-framework-.html" onclick="toggleFavorite(this, '2512.16497v1', 'From Liability to Asset: A Three-Mode Grid-Forming Control Framework for Centralized Data Center UPS Systems')" title="添加到收藏夹">☆</button></td>
