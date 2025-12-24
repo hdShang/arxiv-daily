@@ -5,13 +5,14 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-06-01
 
 # cs.RO（2025-06-01）
 
-📊 共 **10** 篇论文
+📊 共 **11** 篇论文
 
 
 ## 🎯 兴趣领域导航
 
 <div class="interest-nav">
 <a href="#支柱一机器人控制-robot-control" class="interest-badge">支柱一：机器人控制 (Robot Control) (9)</a>
+<a href="#支柱二rl算法与架构-rl-architecture" class="interest-badge">支柱二：RL算法与架构 (RL & Architecture) (1)</a>
 <a href="#支柱三空间感知与语义-perception-semantics" class="interest-badge">支柱三：空间感知与语义 (Perception & Semantics) (1)</a>
 </div>
 
@@ -101,7 +102,7 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-06-01
 </table>
 
 
-<h2 id="支柱三空间感知与语义-perception-semantics">🔬 支柱三：空间感知与语义 (Perception & Semantics) (1 篇)</h2>
+<h2 id="支柱二rl算法与架构-rl-architecture">🔬 支柱二：RL算法与架构 (RL & Architecture) (1 篇)</h2>
 
 <table>
 <thead>
@@ -110,6 +111,25 @@ title: arXiv 中文要点汇总 - cs.RO - 2025-06-01
 <tbody>
 <tr>
   <td>10</td>
+  <td><a href="./papers/250600819v1-drivemind-a-dual-vlm-based-reinforcement-learning-framework-for-auto.html">DriveMind: A Dual-VLM based Reinforcement Learning Framework for Autonomous Driving</a></td>
+  <td>提出DriveMind框架以解决自主驾驶中的适应性与安全性问题</td>
+  <td class="tags-cell"><span class="paper-tag">reinforcement learning</span> <span class="paper-tag">world model</span> <span class="paper-tag">distillation</span></td>
+  <td></td>
+  <td><button class="favorite-btn" data-arxiv-id="2506.00819v1" data-paper-url="./papers/250600819v1-drivemind-a-dual-vlm-based-reinforcement-learning-framework-for-auto.html" onclick="toggleFavorite(this, '2506.00819v1', 'DriveMind: A Dual-VLM based Reinforcement Learning Framework for Autonomous Driving')" title="添加到收藏夹">☆</button></td>
+</tr>
+</tbody>
+</table>
+
+
+<h2 id="支柱三空间感知与语义-perception-semantics">🔬 支柱三：空间感知与语义 (Perception & Semantics) (1 篇)</h2>
+
+<table>
+<thead>
+<tr><th>#</th><th>题目</th><th>一句话要点</th><th>标签</th><th>🔗</th><th>⭐</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td>11</td>
   <td><a href="./papers/250600970v1-globally-consistent-rgb-d-slam-with-2d-gaussian-splatting.html">Globally Consistent RGB-D SLAM with 2D Gaussian Splatting</a></td>
   <td>提出2DGS-SLAM以解决RGB-D SLAM中的深度一致性问题</td>
   <td class="tags-cell"><span class="paper-tag">3D gaussian splatting</span> <span class="paper-tag">gaussian splatting</span> <span class="paper-tag">splatting</span></td>

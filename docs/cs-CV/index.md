@@ -146,6 +146,35 @@ title: arXiv 中文要点汇总 - cs.CV
 <option value="2025-06-05/index.html" >2025-06-05</option>
 <option value="2025-06-04/index.html" >2025-06-04</option>
 <option value="2025-06-03/index.html" >2025-06-03</option>
+<option value="2025-06-01/index.html" >2025-06-01</option>
+<option value="2025-05-31/index.html" >2025-05-31</option>
+<option value="2025-05-30/index.html" >2025-05-30</option>
+<option value="2025-05-29/index.html" >2025-05-29</option>
+<option value="2025-05-28/index.html" >2025-05-28</option>
+<option value="2025-05-27/index.html" >2025-05-27</option>
+<option value="2025-05-26/index.html" >2025-05-26</option>
+<option value="2025-05-24/index.html" >2025-05-24</option>
+<option value="2025-05-23/index.html" >2025-05-23</option>
+<option value="2025-05-22/index.html" >2025-05-22</option>
+<option value="2025-05-20/index.html" >2025-05-20</option>
+<option value="2025-05-19/index.html" >2025-05-19</option>
+<option value="2025-05-18/index.html" >2025-05-18</option>
+<option value="2025-05-17/index.html" >2025-05-17</option>
+<option value="2025-05-16/index.html" >2025-05-16</option>
+<option value="2025-05-14/index.html" >2025-05-14</option>
+<option value="2025-05-13/index.html" >2025-05-13</option>
+<option value="2025-05-12/index.html" >2025-05-12</option>
+<option value="2025-05-11/index.html" >2025-05-11</option>
+<option value="2025-05-10/index.html" >2025-05-10</option>
+<option value="2025-05-09/index.html" >2025-05-09</option>
+<option value="2025-05-08/index.html" >2025-05-08</option>
+<option value="2025-05-07/index.html" >2025-05-07</option>
+<option value="2025-05-06/index.html" >2025-05-06</option>
+<option value="2025-05-05/index.html" >2025-05-05</option>
+<option value="2025-05-04/index.html" >2025-05-04</option>
+<option value="2025-05-03/index.html" >2025-05-03</option>
+<option value="2025-05-02/index.html" >2025-05-02</option>
+<option value="2025-05-01/index.html" >2025-05-01</option>
 <option value="2023-12-02/index.html" >2023-12-02</option>
 <option value="2023-12-01/index.html" >2023-12-01</option>
   </select>
@@ -406,7 +435,7 @@ title: arXiv 中文要点汇总 - cs.CV
 <div class="cal-header">四</div>
 <div class="cal-header">五</div>
 <div class="cal-header">六</div>
-<div class="cal-day">1</div>
+<a href="2025-06-01/index.html" class="cal-day has-data">1</a>
 <div class="cal-day">2</div>
 <a href="2025-06-03/index.html" class="cal-day has-data">3</a>
 <a href="2025-06-04/index.html" class="cal-day has-data">4</a>
@@ -441,6 +470,53 @@ title: arXiv 中文要点汇总 - cs.CV
 <div class="cal-day empty"></div>
 <div class="cal-day empty"></div>
 <div class="cal-day empty"></div>
+</div>
+</div>
+<div class="calendar-month">
+<h3 class="month-title">2025年5月</h3>
+<div class="calendar-grid">
+<div class="cal-header">日</div>
+<div class="cal-header">一</div>
+<div class="cal-header">二</div>
+<div class="cal-header">三</div>
+<div class="cal-header">四</div>
+<div class="cal-header">五</div>
+<div class="cal-header">六</div>
+<div class="cal-day empty"></div>
+<div class="cal-day empty"></div>
+<div class="cal-day empty"></div>
+<div class="cal-day empty"></div>
+<a href="2025-05-01/index.html" class="cal-day has-data">1</a>
+<a href="2025-05-02/index.html" class="cal-day has-data">2</a>
+<a href="2025-05-03/index.html" class="cal-day has-data">3</a>
+<a href="2025-05-04/index.html" class="cal-day has-data">4</a>
+<a href="2025-05-05/index.html" class="cal-day has-data">5</a>
+<a href="2025-05-06/index.html" class="cal-day has-data">6</a>
+<a href="2025-05-07/index.html" class="cal-day has-data">7</a>
+<a href="2025-05-08/index.html" class="cal-day has-data">8</a>
+<a href="2025-05-09/index.html" class="cal-day has-data">9</a>
+<a href="2025-05-10/index.html" class="cal-day has-data">10</a>
+<a href="2025-05-11/index.html" class="cal-day has-data">11</a>
+<a href="2025-05-12/index.html" class="cal-day has-data">12</a>
+<a href="2025-05-13/index.html" class="cal-day has-data">13</a>
+<a href="2025-05-14/index.html" class="cal-day has-data">14</a>
+<div class="cal-day">15</div>
+<a href="2025-05-16/index.html" class="cal-day has-data">16</a>
+<a href="2025-05-17/index.html" class="cal-day has-data">17</a>
+<a href="2025-05-18/index.html" class="cal-day has-data">18</a>
+<a href="2025-05-19/index.html" class="cal-day has-data">19</a>
+<a href="2025-05-20/index.html" class="cal-day has-data">20</a>
+<div class="cal-day">21</div>
+<a href="2025-05-22/index.html" class="cal-day has-data">22</a>
+<a href="2025-05-23/index.html" class="cal-day has-data">23</a>
+<a href="2025-05-24/index.html" class="cal-day has-data">24</a>
+<div class="cal-day">25</div>
+<a href="2025-05-26/index.html" class="cal-day has-data">26</a>
+<a href="2025-05-27/index.html" class="cal-day has-data">27</a>
+<a href="2025-05-28/index.html" class="cal-day has-data">28</a>
+<a href="2025-05-29/index.html" class="cal-day has-data">29</a>
+<a href="2025-05-30/index.html" class="cal-day has-data">30</a>
+<a href="2025-05-31/index.html" class="cal-day has-data">31</a>
 </div>
 </div>
 <div class="calendar-month">
