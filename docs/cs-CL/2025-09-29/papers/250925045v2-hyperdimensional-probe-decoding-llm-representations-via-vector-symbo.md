@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hyperdimensional Probe: Decoding LLM Representations via Vector Symbolic Architectures
+title: "Hyperdimensional Probe: Decoding LLM Representations via Vector Symbolic Architectures"
 ---
 
 # Hyperdimensional Probe: Decoding LLM Representations via Vector Symbolic Architectures

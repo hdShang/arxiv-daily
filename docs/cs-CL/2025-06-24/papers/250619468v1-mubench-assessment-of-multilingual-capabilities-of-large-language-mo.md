@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MuBench: Assessment of Multilingual Capabilities of Large Language Models Across 61 Languages
+title: "MuBench: Assessment of Multilingual Capabilities of Large Language Models Across 61 Languages"
 ---
 
 # MuBench: Assessment of Multilingual Capabilities of Large Language Models Across 61 Languages

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation
+title: "Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation"
 ---
 
 # Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation

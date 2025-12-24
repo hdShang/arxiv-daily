@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TOAST: Task-Oriented Adaptive Semantic Transmission over Dynamic Wireless Environments
+title: "TOAST: Task-Oriented Adaptive Semantic Transmission over Dynamic Wireless Environments"
 ---
 
 # TOAST: Task-Oriented Adaptive Semantic Transmission over Dynamic Wireless Environments

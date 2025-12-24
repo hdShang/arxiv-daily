@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dental3R: Geometry-Aware Pairing for Intraoral 3D Reconstruction from Sparse-View Photographs
+title: "Dental3R: Geometry-Aware Pairing for Intraoral 3D Reconstruction from Sparse-View Photographs"
 ---
 
 # Dental3R: Geometry-Aware Pairing for Intraoral 3D Reconstruction from Sparse-View Photographs

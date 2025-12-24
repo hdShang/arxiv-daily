@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TacMan-Turbo: Proactive Tactile Control for Robust and Efficient Articulated Object Manipulation
+title: "TacMan-Turbo: Proactive Tactile Control for Robust and Efficient Articulated Object Manipulation"
 ---
 
 # TacMan-Turbo: Proactive Tactile Control for Robust and Efficient Articulated Object Manipulation

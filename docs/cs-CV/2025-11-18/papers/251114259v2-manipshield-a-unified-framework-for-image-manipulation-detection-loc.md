@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ManipShield: A Unified Framework for Image Manipulation Detection, Localization and Explanation
+title: "ManipShield: A Unified Framework for Image Manipulation Detection, Localization and Explanation"
 ---
 
 # ManipShield: A Unified Framework for Image Manipulation Detection, Localization and Explanation

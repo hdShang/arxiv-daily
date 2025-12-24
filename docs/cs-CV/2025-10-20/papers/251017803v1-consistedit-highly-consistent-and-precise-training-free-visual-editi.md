@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ConsistEdit: Highly Consistent and Precise Training-free Visual Editing
+title: "ConsistEdit: Highly Consistent and Precise Training-free Visual Editing"
 ---
 
 # ConsistEdit: Highly Consistent and Precise Training-free Visual Editing

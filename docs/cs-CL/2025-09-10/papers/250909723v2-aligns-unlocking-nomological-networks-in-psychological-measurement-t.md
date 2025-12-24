@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ALIGNS: Unlocking nomological networks in psychological measurement through a large language model
+title: "ALIGNS: Unlocking nomological networks in psychological measurement through a large language model"
 ---
 
 # ALIGNS: Unlocking nomological networks in psychological measurement through a large language model

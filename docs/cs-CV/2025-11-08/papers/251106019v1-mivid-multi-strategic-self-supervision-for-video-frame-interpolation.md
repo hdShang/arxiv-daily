@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MiVID: Multi-Strategic Self-Supervision for Video Frame Interpolation using Diffusion Model
+title: "MiVID: Multi-Strategic Self-Supervision for Video Frame Interpolation using Diffusion Model"
 ---
 
 # MiVID: Multi-Strategic Self-Supervision for Video Frame Interpolation using Diffusion Model

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SeBERTis: A Framework for Producing Classifiers of Security-Related Issue Reports
+title: "SeBERTis: A Framework for Producing Classifiers of Security-Related Issue Reports"
 ---
 
 # SeBERTis: A Framework for Producing Classifiers of Security-Related Issue Reports

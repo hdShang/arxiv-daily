@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EDTalk++: Full Disentanglement for Controllable Talking Head Synthesis
+title: "EDTalk++: Full Disentanglement for Controllable Talking Head Synthesis"
 ---
 
 # EDTalk++: Full Disentanglement for Controllable Talking Head Synthesis

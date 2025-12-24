@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning
+title: "KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning"
 ---
 
 # KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning

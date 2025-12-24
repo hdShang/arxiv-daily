@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion
+title: "BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion"
 ---
 
 # BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion

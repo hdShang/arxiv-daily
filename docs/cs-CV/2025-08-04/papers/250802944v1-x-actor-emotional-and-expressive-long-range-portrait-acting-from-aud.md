@@ -1,6 +1,6 @@
 ---
 layout: default
-title: X-Actor: Emotional and Expressive Long-Range Portrait Acting from Audio
+title: "X-Actor: Emotional and Expressive Long-Range Portrait Acting from Audio"
 ---
 
 # X-Actor: Emotional and Expressive Long-Range Portrait Acting from Audio

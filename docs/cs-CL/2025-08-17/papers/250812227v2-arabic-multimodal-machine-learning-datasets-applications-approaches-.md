@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Arabic Multimodal Machine Learning: Datasets, Applications, Approaches, and Challenges
+title: "Arabic Multimodal Machine Learning: Datasets, Applications, Approaches, and Challenges"
 ---
 
 # Arabic Multimodal Machine Learning: Datasets, Applications, Approaches, and Challenges

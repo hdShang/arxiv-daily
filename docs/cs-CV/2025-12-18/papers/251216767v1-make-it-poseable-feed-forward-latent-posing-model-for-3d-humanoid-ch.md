@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Make-It-Poseable: Feed-forward Latent Posing Model for 3D Humanoid Character Animation
+title: "Make-It-Poseable: Feed-forward Latent Posing Model for 3D Humanoid Character Animation"
 ---
 
 # Make-It-Poseable: Feed-forward Latent Posing Model for 3D Humanoid Character Animation

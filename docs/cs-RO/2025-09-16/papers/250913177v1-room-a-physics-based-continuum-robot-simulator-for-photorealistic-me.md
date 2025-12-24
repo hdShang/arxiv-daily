@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ROOM: A Physics-Based Continuum Robot Simulator for Photorealistic Medical Datasets Generation
+title: "ROOM: A Physics-Based Continuum Robot Simulator for Photorealistic Medical Datasets Generation"
 ---
 
 # ROOM: A Physics-Based Continuum Robot Simulator for Photorealistic Medical Datasets Generation

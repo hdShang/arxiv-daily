@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Cost of Thinking: Increased Jailbreak Risk in Large Language Models
+title: "The Cost of Thinking: Increased Jailbreak Risk in Large Language Models"
 ---
 
 # The Cost of Thinking: Increased Jailbreak Risk in Large Language Models

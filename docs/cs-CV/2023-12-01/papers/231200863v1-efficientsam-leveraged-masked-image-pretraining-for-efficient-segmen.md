@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything
+title: "EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything"
 ---
 
 # EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything

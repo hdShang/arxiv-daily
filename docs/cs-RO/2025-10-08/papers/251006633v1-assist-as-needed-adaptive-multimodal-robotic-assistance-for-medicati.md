@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assist-As-Needed: Adaptive Multimodal Robotic Assistance for Medication Management in Dementia Care
+title: "Assist-As-Needed: Adaptive Multimodal Robotic Assistance for Medication Management in Dementia Care"
 ---
 
 # Assist-As-Needed: Adaptive Multimodal Robotic Assistance for Medication Management in Dementia Care

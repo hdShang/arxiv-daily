@@ -1,6 +1,6 @@
 ---
 layout: default
-title: USB-Rec: An Effective Framework for Improving Conversational Recommendation Capability of Large Language Model
+title: "USB-Rec: An Effective Framework for Improving Conversational Recommendation Capability of Large Language Model"
 ---
 
 # USB-Rec: An Effective Framework for Improving Conversational Recommendation Capability of Large Language Model

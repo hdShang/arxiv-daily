@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Box6D : Zero-shot Category-level 6D Pose Estimation of Warehouse Boxes
+title: "Box6D : Zero-shot Category-level 6D Pose Estimation of Warehouse Boxes"
 ---
 
 # Box6D : Zero-shot Category-level 6D Pose Estimation of Warehouse Boxes

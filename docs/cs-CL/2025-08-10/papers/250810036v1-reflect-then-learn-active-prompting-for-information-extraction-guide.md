@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reflect then Learn: Active Prompting for Information Extraction Guided by Introspective Confusion
+title: "Reflect then Learn: Active Prompting for Information Extraction Guided by Introspective Confusion"
 ---
 
 # Reflect then Learn: Active Prompting for Information Extraction Guided by Introspective Confusion

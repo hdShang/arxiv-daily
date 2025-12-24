@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening
+title: "StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening"
 ---
 
 # StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening

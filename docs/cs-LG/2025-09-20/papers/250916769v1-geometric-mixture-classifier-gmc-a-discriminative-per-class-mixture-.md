@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Geometric Mixture Classifier (GMC): A Discriminative Per-Class Mixture of Hyperplanes
+title: "Geometric Mixture Classifier (GMC): A Discriminative Per-Class Mixture of Hyperplanes"
 ---
 
 # Geometric Mixture Classifier (GMC): A Discriminative Per-Class Mixture of Hyperplanes

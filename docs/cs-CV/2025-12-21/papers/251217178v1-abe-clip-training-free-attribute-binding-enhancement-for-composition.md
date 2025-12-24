@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ABE-CLIP: Training-Free Attribute Binding Enhancement for Compositional Image-Text Matching
+title: "ABE-CLIP: Training-Free Attribute Binding Enhancement for Compositional Image-Text Matching"
 ---
 
 # ABE-CLIP: Training-Free Attribute Binding Enhancement for Compositional Image-Text Matching

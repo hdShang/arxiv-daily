@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Theory of Mind in Action: The Instruction Inference Task
+title: "Theory of Mind in Action: The Instruction Inference Task"
 ---
 
 # Theory of Mind in Action: The Instruction Inference Task

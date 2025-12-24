@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stepwise Think-Critique: A Unified Framework for Robust and Interpretable LLM Reasoning
+title: "Stepwise Think-Critique: A Unified Framework for Robust and Interpretable LLM Reasoning"
 ---
 
 # Stepwise Think-Critique: A Unified Framework for Robust and Interpretable LLM Reasoning

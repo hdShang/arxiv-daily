@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HumanoidExo: Scalable Whole-Body Humanoid Manipulation via Wearable Exoskeleton
+title: "HumanoidExo: Scalable Whole-Body Humanoid Manipulation via Wearable Exoskeleton"
 ---
 
 # HumanoidExo: Scalable Whole-Body Humanoid Manipulation via Wearable Exoskeleton

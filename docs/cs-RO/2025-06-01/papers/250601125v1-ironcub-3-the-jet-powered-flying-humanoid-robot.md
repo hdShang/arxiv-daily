@@ -1,6 +1,6 @@
 ---
 layout: default
-title: iRonCub 3: The Jet-Powered Flying Humanoid Robot
+title: "iRonCub 3: The Jet-Powered Flying Humanoid Robot"
 ---
 
 # iRonCub 3: The Jet-Powered Flying Humanoid Robot

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Robust Vision-Language Models via Tensor Decomposition: A Defense Against Adversarial Attacks
+title: "Robust Vision-Language Models via Tensor Decomposition: A Defense Against Adversarial Attacks"
 ---
 
 # Robust Vision-Language Models via Tensor Decomposition: A Defense Against Adversarial Attacks

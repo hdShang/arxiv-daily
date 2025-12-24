@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RAGuard: A Novel Approach for in-context Safe Retrieval Augmented Generation for LLMs
+title: "RAGuard: A Novel Approach for in-context Safe Retrieval Augmented Generation for LLMs"
 ---
 
 # RAGuard: A Novel Approach for in-context Safe Retrieval Augmented Generation for LLMs

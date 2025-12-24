@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Xolver: Multi-Agent Reasoning with Holistic Experience Learning Just Like an Olympiad Team
+title: "Xolver: Multi-Agent Reasoning with Holistic Experience Learning Just Like an Olympiad Team"
 ---
 
 # Xolver: Multi-Agent Reasoning with Holistic Experience Learning Just Like an Olympiad Team

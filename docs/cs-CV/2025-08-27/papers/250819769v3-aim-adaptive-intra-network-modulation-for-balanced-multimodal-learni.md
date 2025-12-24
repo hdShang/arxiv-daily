@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AIM: Adaptive Intra-Network Modulation for Balanced Multimodal Learning
+title: "AIM: Adaptive Intra-Network Modulation for Balanced Multimodal Learning"
 ---
 
 # AIM: Adaptive Intra-Network Modulation for Balanced Multimodal Learning

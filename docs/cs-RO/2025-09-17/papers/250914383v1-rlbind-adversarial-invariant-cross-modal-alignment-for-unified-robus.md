@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RLBind: Adversarial-Invariant Cross-Modal Alignment for Unified Robust Embeddings
+title: "RLBind: Adversarial-Invariant Cross-Modal Alignment for Unified Robust Embeddings"
 ---
 
 # RLBind: Adversarial-Invariant Cross-Modal Alignment for Unified Robust Embeddings

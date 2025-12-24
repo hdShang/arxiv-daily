@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Alias-Free ViT: Fractional Shift Invariance via Linear Attention
+title: "Alias-Free ViT: Fractional Shift Invariance via Linear Attention"
 ---
 
 # Alias-Free ViT: Fractional Shift Invariance via Linear Attention

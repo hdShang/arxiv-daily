@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InterSyn: Interleaved Learning for Dynamic Motion Synthesis in the Wild
+title: "InterSyn: Interleaved Learning for Dynamic Motion Synthesis in the Wild"
 ---
 
 # InterSyn: Interleaved Learning for Dynamic Motion Synthesis in the Wild

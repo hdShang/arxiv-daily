@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ChronoForge-RL: Chronological Forging through Reinforcement Learning for Enhanced Video Understanding
+title: "ChronoForge-RL: Chronological Forging through Reinforcement Learning for Enhanced Video Understanding"
 ---
 
 # ChronoForge-RL: Chronological Forging through Reinforcement Learning for Enhanced Video Understanding

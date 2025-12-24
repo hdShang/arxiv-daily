@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Quest for Generalizable Motion Generation: Data, Model, and Evaluation
+title: "The Quest for Generalizable Motion Generation: Data, Model, and Evaluation"
 ---
 
 # The Quest for Generalizable Motion Generation: Data, Model, and Evaluation

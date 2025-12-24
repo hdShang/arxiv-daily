@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Efficient Benchmarking of Foundation Models in Remote Sensing: A Capabilities Encoding Approach
+title: "Towards Efficient Benchmarking of Foundation Models in Remote Sensing: A Capabilities Encoding Approach"
 ---
 
 # Towards Efficient Benchmarking of Foundation Models in Remote Sensing: A Capabilities Encoding Approach

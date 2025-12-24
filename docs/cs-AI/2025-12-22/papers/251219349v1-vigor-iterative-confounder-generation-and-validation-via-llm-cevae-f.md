@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VIGOR+: Iterative Confounder Generation and Validation via LLM-CEVAE Feedback Loop
+title: "VIGOR+: Iterative Confounder Generation and Validation via LLM-CEVAE Feedback Loop"
 ---
 
 # VIGOR+: Iterative Confounder Generation and Validation via LLM-CEVAE Feedback Loop

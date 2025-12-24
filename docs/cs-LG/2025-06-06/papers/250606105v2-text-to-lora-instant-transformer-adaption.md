@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Text-to-LoRA: Instant Transformer Adaption
+title: "Text-to-LoRA: Instant Transformer Adaption"
 ---
 
 # Text-to-LoRA: Instant Transformer Adaption

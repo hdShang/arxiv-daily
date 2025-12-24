@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EcBot: Data-Driven Energy Consumption Open-Source MATLAB Library for Manipulators
+title: "EcBot: Data-Driven Energy Consumption Open-Source MATLAB Library for Manipulators"
 ---
 
 # EcBot: Data-Driven Energy Consumption Open-Source MATLAB Library for Manipulators

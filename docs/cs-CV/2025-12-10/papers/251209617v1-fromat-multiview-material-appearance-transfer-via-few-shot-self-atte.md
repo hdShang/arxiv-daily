@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FROMAT: Multiview Material Appearance Transfer via Few-Shot Self-Attention Adaptation
+title: "FROMAT: Multiview Material Appearance Transfer via Few-Shot Self-Attention Adaptation"
 ---
 
 # FROMAT: Multiview Material Appearance Transfer via Few-Shot Self-Attention Adaptation

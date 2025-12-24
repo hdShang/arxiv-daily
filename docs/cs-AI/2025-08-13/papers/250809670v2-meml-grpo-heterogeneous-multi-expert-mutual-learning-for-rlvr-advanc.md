@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MEML-GRPO: Heterogeneous Multi-Expert Mutual Learning for RLVR Advancement
+title: "MEML-GRPO: Heterogeneous Multi-Expert Mutual Learning for RLVR Advancement"
 ---
 
 # MEML-GRPO: Heterogeneous Multi-Expert Mutual Learning for RLVR Advancement

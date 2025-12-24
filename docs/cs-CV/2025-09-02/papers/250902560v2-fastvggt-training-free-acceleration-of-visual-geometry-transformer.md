@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FastVGGT: Training-Free Acceleration of Visual Geometry Transformer
+title: "FastVGGT: Training-Free Acceleration of Visual Geometry Transformer"
 ---
 
 # FastVGGT: Training-Free Acceleration of Visual Geometry Transformer

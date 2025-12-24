@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Epitome: Pioneering an Experimental Platform for AI-Social Science Integration
+title: "Epitome: Pioneering an Experimental Platform for AI-Social Science Integration"
 ---
 
 # Epitome: Pioneering an Experimental Platform for AI-Social Science Integration

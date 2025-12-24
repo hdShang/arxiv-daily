@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MASLegalBench: Benchmarking Multi-Agent Systems in Deductive Legal Reasoning
+title: "MASLegalBench: Benchmarking Multi-Agent Systems in Deductive Legal Reasoning"
 ---
 
 # MASLegalBench: Benchmarking Multi-Agent Systems in Deductive Legal Reasoning

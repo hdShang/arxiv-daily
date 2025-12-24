@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MDPO: Overcoming the Training-Inference Divide of Masked Diffusion Language Models
+title: "MDPO: Overcoming the Training-Inference Divide of Masked Diffusion Language Models"
 ---
 
 # MDPO: Overcoming the Training-Inference Divide of Masked Diffusion Language Models

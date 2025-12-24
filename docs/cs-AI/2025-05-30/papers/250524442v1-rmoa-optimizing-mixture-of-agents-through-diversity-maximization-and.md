@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RMoA: Optimizing Mixture-of-Agents through Diversity Maximization and Residual Compensation
+title: "RMoA: Optimizing Mixture-of-Agents through Diversity Maximization and Residual Compensation"
 ---
 
 # RMoA: Optimizing Mixture-of-Agents through Diversity Maximization and Residual Compensation

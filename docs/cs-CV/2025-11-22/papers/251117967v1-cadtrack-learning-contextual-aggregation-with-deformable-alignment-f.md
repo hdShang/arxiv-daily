@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CADTrack: Learning Contextual Aggregation with Deformable Alignment for Robust RGBT Tracking
+title: "CADTrack: Learning Contextual Aggregation with Deformable Alignment for Robust RGBT Tracking"
 ---
 
 # CADTrack: Learning Contextual Aggregation with Deformable Alignment for Robust RGBT Tracking

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors
+title: "From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors"
 ---
 
 # From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors

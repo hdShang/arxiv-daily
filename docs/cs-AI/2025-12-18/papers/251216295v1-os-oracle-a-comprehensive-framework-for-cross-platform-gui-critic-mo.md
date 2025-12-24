@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models
+title: "OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models"
 ---
 
 # OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models

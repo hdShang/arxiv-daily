@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spatia: Video Generation with Updatable Spatial Memory
+title: "Spatia: Video Generation with Updatable Spatial Memory"
 ---
 
 # Spatia: Video Generation with Updatable Spatial Memory

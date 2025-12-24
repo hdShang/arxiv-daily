@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ProofNet++: A Neuro-Symbolic System for Formal Proof Verification with Self-Correction
+title: "ProofNet++: A Neuro-Symbolic System for Formal Proof Verification with Self-Correction"
 ---
 
 # ProofNet++: A Neuro-Symbolic System for Formal Proof Verification with Self-Correction

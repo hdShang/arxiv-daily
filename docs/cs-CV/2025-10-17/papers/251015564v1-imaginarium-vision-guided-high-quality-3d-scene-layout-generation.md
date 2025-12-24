@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Imaginarium: Vision-guided High-Quality 3D Scene Layout Generation
+title: "Imaginarium: Vision-guided High-Quality 3D Scene Layout Generation"
 ---
 
 # Imaginarium: Vision-guided High-Quality 3D Scene Layout Generation

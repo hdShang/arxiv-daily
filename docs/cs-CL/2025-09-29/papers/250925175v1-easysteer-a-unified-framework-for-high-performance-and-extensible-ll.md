@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering
+title: "EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering"
 ---
 
 # EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering

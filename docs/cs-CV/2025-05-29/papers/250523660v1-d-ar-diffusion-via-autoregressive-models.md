@@ -1,6 +1,6 @@
 ---
 layout: default
-title: D-AR: Diffusion via Autoregressive Models
+title: "D-AR: Diffusion via Autoregressive Models"
 ---
 
 # D-AR: Diffusion via Autoregressive Models

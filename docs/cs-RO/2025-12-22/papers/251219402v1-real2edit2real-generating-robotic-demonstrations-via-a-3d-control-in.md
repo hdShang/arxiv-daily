@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface
+title: "Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface"
 ---
 
 # Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface

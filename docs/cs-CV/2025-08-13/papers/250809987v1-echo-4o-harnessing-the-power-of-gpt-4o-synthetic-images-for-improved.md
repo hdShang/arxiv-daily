@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved Image Generation
+title: "Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved Image Generation"
 ---
 
 # Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved Image Generation

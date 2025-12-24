@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quantifying Fairness in LLMs Beyond Tokens: A Semantic and Statistical Perspective
+title: "Quantifying Fairness in LLMs Beyond Tokens: A Semantic and Statistical Perspective"
 ---
 
 # Quantifying Fairness in LLMs Beyond Tokens: A Semantic and Statistical Perspective

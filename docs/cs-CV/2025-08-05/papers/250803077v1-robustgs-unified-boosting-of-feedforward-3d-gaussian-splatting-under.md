@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RobustGS: Unified Boosting of Feedforward 3D Gaussian Splatting under Low-Quality Conditions
+title: "RobustGS: Unified Boosting of Feedforward 3D Gaussian Splatting under Low-Quality Conditions"
 ---
 
 # RobustGS: Unified Boosting of Feedforward 3D Gaussian Splatting under Low-Quality Conditions

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Synthetic Founders: AI-Generated Social Simulations for Startup Validation Research in Computational Social Science
+title: "Synthetic Founders: AI-Generated Social Simulations for Startup Validation Research in Computational Social Science"
 ---
 
 # Synthetic Founders: AI-Generated Social Simulations for Startup Validation Research in Computational Social Science

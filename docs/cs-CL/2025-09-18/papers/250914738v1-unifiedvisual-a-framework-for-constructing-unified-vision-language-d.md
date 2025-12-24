@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UnifiedVisual: A Framework for Constructing Unified Vision-Language Datasets
+title: "UnifiedVisual: A Framework for Constructing Unified Vision-Language Datasets"
 ---
 
 # UnifiedVisual: A Framework for Constructing Unified Vision-Language Datasets

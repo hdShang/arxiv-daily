@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Xihe: Scalable Zero-Shot Time Series Learner Via Hierarchical Interleaved Block Attention
+title: "Xihe: Scalable Zero-Shot Time Series Learner Via Hierarchical Interleaved Block Attention"
 ---
 
 # Xihe: Scalable Zero-Shot Time Series Learner Via Hierarchical Interleaved Block Attention

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ctrl-Crash: Controllable Diffusion for Realistic Car Crashes
+title: "Ctrl-Crash: Controllable Diffusion for Realistic Car Crashes"
 ---
 
 # Ctrl-Crash: Controllable Diffusion for Realistic Car Crashes

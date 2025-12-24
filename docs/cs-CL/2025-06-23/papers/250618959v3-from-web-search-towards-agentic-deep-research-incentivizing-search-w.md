@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents
+title: "From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents"
 ---
 
 # From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents

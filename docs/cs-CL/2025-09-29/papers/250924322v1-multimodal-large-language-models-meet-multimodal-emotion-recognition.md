@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multimodal Large Language Models Meet Multimodal Emotion Recognition and Reasoning: A Survey
+title: "Multimodal Large Language Models Meet Multimodal Emotion Recognition and Reasoning: A Survey"
 ---
 
 # Multimodal Large Language Models Meet Multimodal Emotion Recognition and Reasoning: A Survey

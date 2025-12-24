@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lost in Transmission: When and Why LLMs Fail to Reason Globally
+title: "Lost in Transmission: When and Why LLMs Fail to Reason Globally"
 ---
 
 # Lost in Transmission: When and Why LLMs Fail to Reason Globally

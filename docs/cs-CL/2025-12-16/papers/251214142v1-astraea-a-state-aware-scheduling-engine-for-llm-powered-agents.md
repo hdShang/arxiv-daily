@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Astraea: A State-Aware Scheduling Engine for LLM-Powered Agents
+title: "Astraea: A State-Aware Scheduling Engine for LLM-Powered Agents"
 ---
 
 # Astraea: A State-Aware Scheduling Engine for LLM-Powered Agents

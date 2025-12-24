@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VFaith: Do Large Multimodal Models Really Reason on Seen Images Rather than Previous Memories?
+title: "VFaith: Do Large Multimodal Models Really Reason on Seen Images Rather than Previous Memories?"
 ---
 
 # VFaith: Do Large Multimodal Models Really Reason on Seen Images Rather than Previous Memories?

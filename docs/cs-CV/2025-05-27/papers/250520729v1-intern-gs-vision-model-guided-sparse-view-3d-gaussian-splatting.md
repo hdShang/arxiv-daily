@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting
+title: "Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting"
 ---
 
 # Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting

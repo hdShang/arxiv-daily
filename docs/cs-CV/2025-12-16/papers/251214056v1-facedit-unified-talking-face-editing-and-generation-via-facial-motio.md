@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FacEDiT: Unified Talking Face Editing and Generation via Facial Motion Infilling
+title: "FacEDiT: Unified Talking Face Editing and Generation via Facial Motion Infilling"
 ---
 
 # FacEDiT: Unified Talking Face Editing and Generation via Facial Motion Infilling

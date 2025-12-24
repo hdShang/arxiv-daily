@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FLEG: Feed-Forward Language Embedded Gaussian Splatting from Any Views
+title: "FLEG: Feed-Forward Language Embedded Gaussian Splatting from Any Views"
 ---
 
 # FLEG: Feed-Forward Language Embedded Gaussian Splatting from Any Views

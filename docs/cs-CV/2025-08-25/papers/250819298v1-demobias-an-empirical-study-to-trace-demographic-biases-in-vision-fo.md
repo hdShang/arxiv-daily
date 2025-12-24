@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DemoBias: An Empirical Study to Trace Demographic Biases in Vision Foundation Models
+title: "DemoBias: An Empirical Study to Trace Demographic Biases in Vision Foundation Models"
 ---
 
 # DemoBias: An Empirical Study to Trace Demographic Biases in Vision Foundation Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ensemble-MIX: Enhancing Sample Efficiency in Multi-Agent RL Using Ensemble Methods
+title: "Ensemble-MIX: Enhancing Sample Efficiency in Multi-Agent RL Using Ensemble Methods"
 ---
 
 # Ensemble-MIX: Enhancing Sample Efficiency in Multi-Agent RL Using Ensemble Methods

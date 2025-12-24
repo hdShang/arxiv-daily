@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VFMF: World Modeling by Forecasting Vision Foundation Model Features
+title: "VFMF: World Modeling by Forecasting Vision Foundation Model Features"
 ---
 
 # VFMF: World Modeling by Forecasting Vision Foundation Model Features

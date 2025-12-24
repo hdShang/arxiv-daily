@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations
+title: "CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations"
 ---
 
 # CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations

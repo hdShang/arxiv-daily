@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TURA: Tool-Augmented Unified Retrieval Agent for AI Search
+title: "TURA: Tool-Augmented Unified Retrieval Agent for AI Search"
 ---
 
 # TURA: Tool-Augmented Unified Retrieval Agent for AI Search

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IFDECORATOR: Wrapping Instruction Following Reinforcement Learning with Verifiable Rewards
+title: "IFDECORATOR: Wrapping Instruction Following Reinforcement Learning with Verifiable Rewards"
 ---
 
 # IFDECORATOR: Wrapping Instruction Following Reinforcement Learning with Verifiable Rewards

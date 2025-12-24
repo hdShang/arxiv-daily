@@ -1,6 +1,6 @@
 ---
 layout: default
-title: E-Navi: Environmental Adaptive Navigation for UAVs on Resource Constrained Platforms
+title: "E-Navi: Environmental Adaptive Navigation for UAVs on Resource Constrained Platforms"
 ---
 
 # E-Navi: Environmental Adaptive Navigation for UAVs on Resource Constrained Platforms

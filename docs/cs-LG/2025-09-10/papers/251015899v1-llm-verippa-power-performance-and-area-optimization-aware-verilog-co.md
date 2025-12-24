@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM-VeriPPA: Power, Performance, and Area Optimization aware Verilog Code Generation with Large Language Models
+title: "LLM-VeriPPA: Power, Performance, and Area Optimization aware Verilog Code Generation with Large Language Models"
 ---
 
 # LLM-VeriPPA: Power, Performance, and Area Optimization aware Verilog Code Generation with Large Language Models

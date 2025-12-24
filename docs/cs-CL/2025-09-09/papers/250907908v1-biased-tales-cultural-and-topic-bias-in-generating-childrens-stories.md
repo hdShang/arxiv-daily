@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Biased Tales: Cultural and Topic Bias in Generating Children's Stories
+title: "Biased Tales: Cultural and Topic Bias in Generating Children's Stories"
 ---
 
 # Biased Tales: Cultural and Topic Bias in Generating Children's Stories

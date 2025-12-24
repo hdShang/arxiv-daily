@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TRUST: Transparent, Robust and Ultra-Sparse Trees
+title: "TRUST: Transparent, Robust and Ultra-Sparse Trees"
 ---
 
 # TRUST: Transparent, Robust and Ultra-Sparse Trees

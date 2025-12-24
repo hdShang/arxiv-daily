@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MotionTrans: Human VR Data Enable Motion-Level Learning for Robotic Manipulation Policies
+title: "MotionTrans: Human VR Data Enable Motion-Level Learning for Robotic Manipulation Policies"
 ---
 
 # MotionTrans: Human VR Data Enable Motion-Level Learning for Robotic Manipulation Policies

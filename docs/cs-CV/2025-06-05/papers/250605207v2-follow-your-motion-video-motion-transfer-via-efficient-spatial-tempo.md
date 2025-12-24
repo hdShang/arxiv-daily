@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning
+title: "Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning"
 ---
 
 # Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning

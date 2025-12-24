@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DuoCLR: Dual-Surrogate Contrastive Learning for Skeleton-based Human Action Segmentation
+title: "DuoCLR: Dual-Surrogate Contrastive Learning for Skeleton-based Human Action Segmentation"
 ---
 
 # DuoCLR: Dual-Surrogate Contrastive Learning for Skeleton-based Human Action Segmentation

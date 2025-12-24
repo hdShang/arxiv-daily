@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EPO: Entropy-regularized Policy Optimization for LLM Agents Reinforcement Learning
+title: "EPO: Entropy-regularized Policy Optimization for LLM Agents Reinforcement Learning"
 ---
 
 # EPO: Entropy-regularized Policy Optimization for LLM Agents Reinforcement Learning

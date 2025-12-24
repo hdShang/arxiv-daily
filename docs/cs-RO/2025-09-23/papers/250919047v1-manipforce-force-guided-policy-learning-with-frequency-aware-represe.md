@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ManipForce: Force-Guided Policy Learning with Frequency-Aware Representation for Contact-Rich Manipulation
+title: "ManipForce: Force-Guided Policy Learning with Frequency-Aware Representation for Contact-Rich Manipulation"
 ---
 
 # ManipForce: Force-Guided Policy Learning with Frequency-Aware Representation for Contact-Rich Manipulation

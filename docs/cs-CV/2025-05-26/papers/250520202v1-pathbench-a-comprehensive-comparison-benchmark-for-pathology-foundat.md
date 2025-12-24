@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PathBench: A comprehensive comparison benchmark for pathology foundation models towards precision oncology
+title: "PathBench: A comprehensive comparison benchmark for pathology foundation models towards precision oncology"
 ---
 
 # PathBench: A comprehensive comparison benchmark for pathology foundation models towards precision oncology

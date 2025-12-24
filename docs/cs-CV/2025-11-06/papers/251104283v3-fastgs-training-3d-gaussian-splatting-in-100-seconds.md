@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FastGS: Training 3D Gaussian Splatting in 100 Seconds
+title: "FastGS: Training 3D Gaussian Splatting in 100 Seconds"
 ---
 
 # FastGS: Training 3D Gaussian Splatting in 100 Seconds

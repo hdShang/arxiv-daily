@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Less is More: Towards Simple Graph Contrastive Learning
+title: "Less is More: Towards Simple Graph Contrastive Learning"
 ---
 
 # Less is More: Towards Simple Graph Contrastive Learning

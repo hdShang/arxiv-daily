@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FairyGen: Storied Cartoon Video from a Single Child-Drawn Character
+title: "FairyGen: Storied Cartoon Video from a Single Child-Drawn Character"
 ---
 
 # FairyGen: Storied Cartoon Video from a Single Child-Drawn Character

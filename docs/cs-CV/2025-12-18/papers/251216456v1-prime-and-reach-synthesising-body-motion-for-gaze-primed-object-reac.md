@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prime and Reach: Synthesising Body Motion for Gaze-Primed Object Reach
+title: "Prime and Reach: Synthesising Body Motion for Gaze-Primed Object Reach"
 ---
 
 # Prime and Reach: Synthesising Body Motion for Gaze-Primed Object Reach

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FA-Seg: A Fast and Accurate Diffusion-Based Method for Open-Vocabulary Segmentation
+title: "FA-Seg: A Fast and Accurate Diffusion-Based Method for Open-Vocabulary Segmentation"
 ---
 
 # FA-Seg: A Fast and Accurate Diffusion-Based Method for Open-Vocabulary Segmentation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LitePT: Lighter Yet Stronger Point Transformer
+title: "LitePT: Lighter Yet Stronger Point Transformer"
 ---
 
 # LitePT: Lighter Yet Stronger Point Transformer

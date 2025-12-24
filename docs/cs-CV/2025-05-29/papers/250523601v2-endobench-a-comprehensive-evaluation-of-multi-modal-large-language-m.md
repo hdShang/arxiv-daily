@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EndoBench: A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis
+title: "EndoBench: A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis"
 ---
 
 # EndoBench: A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis

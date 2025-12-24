@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cognitive Decision Routing in Large Language Models: When to Think Fast, When to Think Slow
+title: "Cognitive Decision Routing in Large Language Models: When to Think Fast, When to Think Slow"
 ---
 
 # Cognitive Decision Routing in Large Language Models: When to Think Fast, When to Think Slow

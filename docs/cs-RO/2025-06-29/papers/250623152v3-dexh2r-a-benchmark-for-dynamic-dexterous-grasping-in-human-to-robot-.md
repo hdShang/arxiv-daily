@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover
+title: "DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover"
 ---
 
 # DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover

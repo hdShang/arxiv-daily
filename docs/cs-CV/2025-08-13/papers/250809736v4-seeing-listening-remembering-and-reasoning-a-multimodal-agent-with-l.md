@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory
+title: "Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory"
 ---
 
 # Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory

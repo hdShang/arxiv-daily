@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aligning Language Models with Observational Data: Opportunities and Risks from a Causal Perspective
+title: "Aligning Language Models with Observational Data: Opportunities and Risks from a Causal Perspective"
 ---
 
 # Aligning Language Models with Observational Data: Opportunities and Risks from a Causal Perspective

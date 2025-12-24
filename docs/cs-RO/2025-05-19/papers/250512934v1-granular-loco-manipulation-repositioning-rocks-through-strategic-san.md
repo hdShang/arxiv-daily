@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Granular Loco-Manipulation: Repositioning Rocks Through Strategic Sand Avalanche
+title: "Granular Loco-Manipulation: Repositioning Rocks Through Strategic Sand Avalanche"
 ---
 
 # Granular Loco-Manipulation: Repositioning Rocks Through Strategic Sand Avalanche

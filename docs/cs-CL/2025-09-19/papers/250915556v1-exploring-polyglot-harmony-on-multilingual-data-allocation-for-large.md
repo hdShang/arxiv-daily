@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exploring Polyglot Harmony: On Multilingual Data Allocation for Large Language Models Pretraining
+title: "Exploring Polyglot Harmony: On Multilingual Data Allocation for Large Language Models Pretraining"
 ---
 
 # Exploring Polyglot Harmony: On Multilingual Data Allocation for Large Language Models Pretraining

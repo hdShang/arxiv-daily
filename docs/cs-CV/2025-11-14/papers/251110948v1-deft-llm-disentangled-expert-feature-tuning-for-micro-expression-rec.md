@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DEFT-LLM: Disentangled Expert Feature Tuning for Micro-Expression Recognition
+title: "DEFT-LLM: Disentangled Expert Feature Tuning for Micro-Expression Recognition"
 ---
 
 # DEFT-LLM: Disentangled Expert Feature Tuning for Micro-Expression Recognition

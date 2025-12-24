@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CEIDM: A Controlled Entity and Interaction Diffusion Model for Enhanced Text-to-Image Generation
+title: "CEIDM: A Controlled Entity and Interaction Diffusion Model for Enhanced Text-to-Image Generation"
 ---
 
 # CEIDM: A Controlled Entity and Interaction Diffusion Model for Enhanced Text-to-Image Generation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MaRGen: Multi-Agent LLM Approach for Self-Directed Market Research and Analysis
+title: "MaRGen: Multi-Agent LLM Approach for Self-Directed Market Research and Analysis"
 ---
 
 # MaRGen: Multi-Agent LLM Approach for Self-Directed Market Research and Analysis

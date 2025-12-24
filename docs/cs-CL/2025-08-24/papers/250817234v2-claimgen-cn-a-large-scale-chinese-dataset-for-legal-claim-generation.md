@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ClaimGen-CN: A Large-scale Chinese Dataset for Legal Claim Generation
+title: "ClaimGen-CN: A Large-scale Chinese Dataset for Legal Claim Generation"
 ---
 
 # ClaimGen-CN: A Large-scale Chinese Dataset for Legal Claim Generation

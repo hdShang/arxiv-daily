@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TAGAL: Tabular Data Generation using Agentic LLM Methods
+title: "TAGAL: Tabular Data Generation using Agentic LLM Methods"
 ---
 
 # TAGAL: Tabular Data Generation using Agentic LLM Methods

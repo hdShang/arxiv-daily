@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reasoning Under Uncertainty: Exploring Probabilistic Reasoning Capabilities of LLMs
+title: "Reasoning Under Uncertainty: Exploring Probabilistic Reasoning Capabilities of LLMs"
 ---
 
 # Reasoning Under Uncertainty: Exploring Probabilistic Reasoning Capabilities of LLMs

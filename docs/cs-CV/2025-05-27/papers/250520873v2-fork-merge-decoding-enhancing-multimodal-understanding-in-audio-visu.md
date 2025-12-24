@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fork-Merge Decoding: Enhancing Multimodal Understanding in Audio-Visual Large Language Models
+title: "Fork-Merge Decoding: Enhancing Multimodal Understanding in Audio-Visual Large Language Models"
 ---
 
 # Fork-Merge Decoding: Enhancing Multimodal Understanding in Audio-Visual Large Language Models

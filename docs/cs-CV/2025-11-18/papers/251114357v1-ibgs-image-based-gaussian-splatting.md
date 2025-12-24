@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IBGS: Image-Based Gaussian Splatting
+title: "IBGS: Image-Based Gaussian Splatting"
 ---
 
 # IBGS: Image-Based Gaussian Splatting

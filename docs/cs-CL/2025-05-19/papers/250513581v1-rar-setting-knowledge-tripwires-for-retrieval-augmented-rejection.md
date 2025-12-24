@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RAR: Setting Knowledge Tripwires for Retrieval Augmented Rejection
+title: "RAR: Setting Knowledge Tripwires for Retrieval Augmented Rejection"
 ---
 
 # RAR: Setting Knowledge Tripwires for Retrieval Augmented Rejection

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AnchorHOI: Zero-shot Generation of 4D Human-Object Interaction via Anchor-based Prior Distillation
+title: "AnchorHOI: Zero-shot Generation of 4D Human-Object Interaction via Anchor-based Prior Distillation"
 ---
 
 # AnchorHOI: Zero-shot Generation of 4D Human-Object Interaction via Anchor-based Prior Distillation

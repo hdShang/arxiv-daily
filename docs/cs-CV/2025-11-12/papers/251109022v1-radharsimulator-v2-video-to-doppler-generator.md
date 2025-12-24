@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RadHARSimulator V2: Video to Doppler Generator
+title: "RadHARSimulator V2: Video to Doppler Generator"
 ---
 
 # RadHARSimulator V2: Video to Doppler Generator

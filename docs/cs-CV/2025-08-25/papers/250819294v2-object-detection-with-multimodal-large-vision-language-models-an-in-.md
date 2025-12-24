@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Object Detection with Multimodal Large Vision-Language Models: An In-depth Review
+title: "Object Detection with Multimodal Large Vision-Language Models: An In-depth Review"
 ---
 
 # Object Detection with Multimodal Large Vision-Language Models: An In-depth Review

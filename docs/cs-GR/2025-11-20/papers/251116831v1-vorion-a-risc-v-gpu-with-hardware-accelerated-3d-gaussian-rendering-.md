@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vorion: A RISC-V GPU with Hardware-Accelerated 3D Gaussian Rendering and Training
+title: "Vorion: A RISC-V GPU with Hardware-Accelerated 3D Gaussian Rendering and Training"
 ---
 
 # Vorion: A RISC-V GPU with Hardware-Accelerated 3D Gaussian Rendering and Training

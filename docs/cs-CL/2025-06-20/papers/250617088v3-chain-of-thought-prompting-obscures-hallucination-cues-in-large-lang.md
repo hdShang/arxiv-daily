@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chain-of-Thought Prompting Obscures Hallucination Cues in Large Language Models: An Empirical Evaluation
+title: "Chain-of-Thought Prompting Obscures Hallucination Cues in Large Language Models: An Empirical Evaluation"
 ---
 
 # Chain-of-Thought Prompting Obscures Hallucination Cues in Large Language Models: An Empirical Evaluation

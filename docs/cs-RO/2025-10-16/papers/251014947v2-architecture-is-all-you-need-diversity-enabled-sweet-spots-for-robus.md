@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Architecture Is All You Need: Diversity-Enabled Sweet Spots for Robust Humanoid Locomotion
+title: "Architecture Is All You Need: Diversity-Enabled Sweet Spots for Robust Humanoid Locomotion"
 ---
 
 # Architecture Is All You Need: Diversity-Enabled Sweet Spots for Robust Humanoid Locomotion

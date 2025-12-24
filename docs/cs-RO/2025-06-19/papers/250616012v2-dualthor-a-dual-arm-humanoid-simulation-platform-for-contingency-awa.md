@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DualTHOR: A Dual-Arm Humanoid Simulation Platform for Contingency-Aware Planning
+title: "DualTHOR: A Dual-Arm Humanoid Simulation Platform for Contingency-Aware Planning"
 ---
 
 # DualTHOR: A Dual-Arm Humanoid Simulation Platform for Contingency-Aware Planning

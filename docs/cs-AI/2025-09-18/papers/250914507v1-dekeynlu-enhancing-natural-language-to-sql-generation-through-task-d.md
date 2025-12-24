@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeKeyNLU: Enhancing Natural Language to SQL Generation through Task Decomposition and Keyword Extraction
+title: "DeKeyNLU: Enhancing Natural Language to SQL Generation through Task Decomposition and Keyword Extraction"
 ---
 
 # DeKeyNLU: Enhancing Natural Language to SQL Generation through Task Decomposition and Keyword Extraction

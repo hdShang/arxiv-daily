@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SlepNet: Spectral Subgraph Representation Learning for Neural Dynamics
+title: "SlepNet: Spectral Subgraph Representation Learning for Neural Dynamics"
 ---
 
 # SlepNet: Spectral Subgraph Representation Learning for Neural Dynamics

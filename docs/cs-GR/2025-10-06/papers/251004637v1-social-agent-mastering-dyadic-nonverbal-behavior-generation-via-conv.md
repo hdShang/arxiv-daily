@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Social Agent: Mastering Dyadic Nonverbal Behavior Generation via Conversational LLM Agents
+title: "Social Agent: Mastering Dyadic Nonverbal Behavior Generation via Conversational LLM Agents"
 ---
 
 # Social Agent: Mastering Dyadic Nonverbal Behavior Generation via Conversational LLM Agents

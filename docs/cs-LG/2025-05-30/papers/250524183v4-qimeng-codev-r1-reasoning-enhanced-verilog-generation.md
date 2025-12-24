@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QiMeng-CodeV-R1: Reasoning-Enhanced Verilog Generation
+title: "QiMeng-CodeV-R1: Reasoning-Enhanced Verilog Generation"
 ---
 
 # QiMeng-CodeV-R1: Reasoning-Enhanced Verilog Generation

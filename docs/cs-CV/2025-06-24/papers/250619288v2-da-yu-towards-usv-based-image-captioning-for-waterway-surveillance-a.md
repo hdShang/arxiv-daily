@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Da Yu: Towards USV-Based Image Captioning for Waterway Surveillance and Scene Understanding
+title: "Da Yu: Towards USV-Based Image Captioning for Waterway Surveillance and Scene Understanding"
 ---
 
 # Da Yu: Towards USV-Based Image Captioning for Waterway Surveillance and Scene Understanding

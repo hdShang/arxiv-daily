@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Objects to Anywhere: A Holistic Benchmark for Multi-level Visual Grounding in 3D Scenes
+title: "From Objects to Anywhere: A Holistic Benchmark for Multi-level Visual Grounding in 3D Scenes"
 ---
 
 # From Objects to Anywhere: A Holistic Benchmark for Multi-level Visual Grounding in 3D Scenes

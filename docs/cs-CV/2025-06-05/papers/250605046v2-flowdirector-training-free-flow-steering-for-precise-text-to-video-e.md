@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FlowDirector: Training-Free Flow Steering for Precise Text-to-Video Editing
+title: "FlowDirector: Training-Free Flow Steering for Precise Text-to-Video Editing"
 ---
 
 # FlowDirector: Training-Free Flow Steering for Precise Text-to-Video Editing

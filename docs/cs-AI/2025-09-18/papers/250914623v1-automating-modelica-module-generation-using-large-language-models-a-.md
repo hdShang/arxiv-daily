@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Automating Modelica Module Generation Using Large Language Models: A Case Study on Building Control Description Language
+title: "Automating Modelica Module Generation Using Large Language Models: A Case Study on Building Control Description Language"
 ---
 
 # Automating Modelica Module Generation Using Large Language Models: A Case Study on Building Control Description Language

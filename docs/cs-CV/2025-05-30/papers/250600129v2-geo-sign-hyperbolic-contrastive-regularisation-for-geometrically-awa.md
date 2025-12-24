@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Geo-Sign: Hyperbolic Contrastive Regularisation for Geometrically Aware Sign Language Translation
+title: "Geo-Sign: Hyperbolic Contrastive Regularisation for Geometrically Aware Sign Language Translation"
 ---
 
 # Geo-Sign: Hyperbolic Contrastive Regularisation for Geometrically Aware Sign Language Translation

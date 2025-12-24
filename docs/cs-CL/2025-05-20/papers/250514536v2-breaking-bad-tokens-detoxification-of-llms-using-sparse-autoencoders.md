@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Breaking Bad Tokens: Detoxification of LLMs Using Sparse Autoencoders
+title: "Breaking Bad Tokens: Detoxification of LLMs Using Sparse Autoencoders"
 ---
 
 # Breaking Bad Tokens: Detoxification of LLMs Using Sparse Autoencoders

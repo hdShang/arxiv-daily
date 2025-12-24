@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cattle-CLIP: A Multimodal Framework for Cattle Behaviour Recognition
+title: "Cattle-CLIP: A Multimodal Framework for Cattle Behaviour Recognition"
 ---
 
 # Cattle-CLIP: A Multimodal Framework for Cattle Behaviour Recognition

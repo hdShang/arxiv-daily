@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Drive As You Like: Strategy-Level Motion Planning Based on A Multi-Head Diffusion Model
+title: "Drive As You Like: Strategy-Level Motion Planning Based on A Multi-Head Diffusion Model"
 ---
 
 # Drive As You Like: Strategy-Level Motion Planning Based on A Multi-Head Diffusion Model

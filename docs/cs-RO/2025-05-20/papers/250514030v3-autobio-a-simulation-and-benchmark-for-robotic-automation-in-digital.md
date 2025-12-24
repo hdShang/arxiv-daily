@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory
+title: "AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory"
 ---
 
 # AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory

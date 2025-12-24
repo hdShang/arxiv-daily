@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GraphLAMA: Enabling Efficient Adaptation of Graph Language Models with Limited Annotations
+title: "GraphLAMA: Enabling Efficient Adaptation of Graph Language Models with Limited Annotations"
 ---
 
 # GraphLAMA: Enabling Efficient Adaptation of Graph Language Models with Limited Annotations

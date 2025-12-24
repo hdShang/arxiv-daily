@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AdsQA: Towards Advertisement Video Understanding
+title: "AdsQA: Towards Advertisement Video Understanding"
 ---
 
 # AdsQA: Towards Advertisement Video Understanding

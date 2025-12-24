@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond the Leaderboard: Rethinking Medical Benchmarks for Large Language Models
+title: "Beyond the Leaderboard: Rethinking Medical Benchmarks for Large Language Models"
 ---
 
 # Beyond the Leaderboard: Rethinking Medical Benchmarks for Large Language Models

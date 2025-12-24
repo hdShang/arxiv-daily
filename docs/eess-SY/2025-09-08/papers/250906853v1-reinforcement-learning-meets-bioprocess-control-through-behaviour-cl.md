@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reinforcement learning meets bioprocess control through behaviour cloning: Real-world deployment in an industrial photobioreactor
+title: "Reinforcement learning meets bioprocess control through behaviour cloning: Real-world deployment in an industrial photobioreactor"
 ---
 
 # Reinforcement learning meets bioprocess control through behaviour cloning: Real-world deployment in an industrial photobioreactor

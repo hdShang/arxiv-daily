@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CroSTAta: Cross-State Transition Attention Transformer for Robotic Manipulation
+title: "CroSTAta: Cross-State Transition Attention Transformer for Robotic Manipulation"
 ---
 
 # CroSTAta: Cross-State Transition Attention Transformer for Robotic Manipulation

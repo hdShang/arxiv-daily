@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MultiDrive: A Co-Simulation Framework Bridging 2D and 3D Driving Simulation for AV Software Validation
+title: "MultiDrive: A Co-Simulation Framework Bridging 2D and 3D Driving Simulation for AV Software Validation"
 ---
 
 # MultiDrive: A Co-Simulation Framework Bridging 2D and 3D Driving Simulation for AV Software Validation

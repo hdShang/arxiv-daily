@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LADLE-MM: Limited Annotation based Detector with Learned Ensembles for Multimodal Misinformation
+title: "LADLE-MM: Limited Annotation based Detector with Learned Ensembles for Multimodal Misinformation"
 ---
 
 # LADLE-MM: Limited Annotation based Detector with Learned Ensembles for Multimodal Misinformation

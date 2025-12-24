@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KARMA: Efficient Structural Defect Segmentation via Kolmogorov-Arnold Representation Learning
+title: "KARMA: Efficient Structural Defect Segmentation via Kolmogorov-Arnold Representation Learning"
 ---
 
 # KARMA: Efficient Structural Defect Segmentation via Kolmogorov-Arnold Representation Learning

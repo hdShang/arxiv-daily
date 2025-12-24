@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Eq.Bot: Enhance Robotic Manipulation Learning via Group Equivariant Canonicalization
+title: "Eq.Bot: Enhance Robotic Manipulation Learning via Group Equivariant Canonicalization"
 ---
 
 # Eq.Bot: Enhance Robotic Manipulation Learning via Group Equivariant Canonicalization

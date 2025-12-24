@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your Vision-Language Model Can't Even Count to 20: Exposing the Failures of VLMs in Compositional Counting
+title: "Your Vision-Language Model Can't Even Count to 20: Exposing the Failures of VLMs in Compositional Counting"
 ---
 
 # Your Vision-Language Model Can't Even Count to 20: Exposing the Failures of VLMs in Compositional Counting

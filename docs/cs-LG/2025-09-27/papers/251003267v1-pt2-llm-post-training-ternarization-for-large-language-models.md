@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PT$^2$-LLM: Post-Training Ternarization for Large Language Models
+title: "PT$^2$-LLM: Post-Training Ternarization for Large Language Models"
 ---
 
 # PT$^2$-LLM: Post-Training Ternarization for Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NIFTY: a Non-Local Image Flow Matching for Texture Synthesis
+title: "NIFTY: a Non-Local Image Flow Matching for Texture Synthesis"
 ---
 
 # NIFTY: a Non-Local Image Flow Matching for Texture Synthesis

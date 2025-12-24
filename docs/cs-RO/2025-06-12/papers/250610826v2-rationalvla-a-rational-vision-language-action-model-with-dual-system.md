@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RationalVLA: A Rational Vision-Language-Action Model with Dual System
+title: "RationalVLA: A Rational Vision-Language-Action Model with Dual System"
 ---
 
 # RationalVLA: A Rational Vision-Language-Action Model with Dual System

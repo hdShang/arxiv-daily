@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IsoNet: Causal Analysis of Multimodal Transformers for Neuromuscular Gesture Classification
+title: "IsoNet: Causal Analysis of Multimodal Transformers for Neuromuscular Gesture Classification"
 ---
 
 # IsoNet: Causal Analysis of Multimodal Transformers for Neuromuscular Gesture Classification

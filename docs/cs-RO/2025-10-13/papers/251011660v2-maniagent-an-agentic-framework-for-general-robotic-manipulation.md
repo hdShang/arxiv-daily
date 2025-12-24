@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ManiAgent: An Agentic Framework for General Robotic Manipulation
+title: "ManiAgent: An Agentic Framework for General Robotic Manipulation"
 ---
 
 # ManiAgent: An Agentic Framework for General Robotic Manipulation

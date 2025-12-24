@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MS-CLR: Multi-Skeleton Contrastive Learning for Human Action Recognition
+title: "MS-CLR: Multi-Skeleton Contrastive Learning for Human Action Recognition"
 ---
 
 # MS-CLR: Multi-Skeleton Contrastive Learning for Human Action Recognition

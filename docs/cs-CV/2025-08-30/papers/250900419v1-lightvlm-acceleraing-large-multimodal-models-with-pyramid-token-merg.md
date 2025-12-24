@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression
+title: "LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression"
 ---
 
 # LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression

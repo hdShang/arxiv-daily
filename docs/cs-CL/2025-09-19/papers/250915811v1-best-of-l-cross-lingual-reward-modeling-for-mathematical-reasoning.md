@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Best-of-L: Cross-Lingual Reward Modeling for Mathematical Reasoning
+title: "Best-of-L: Cross-Lingual Reward Modeling for Mathematical Reasoning"
 ---
 
 # Best-of-L: Cross-Lingual Reward Modeling for Mathematical Reasoning

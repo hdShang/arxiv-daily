@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ThermalDiffusion: Visual-to-Thermal Image-to-Image Translation for Autonomous Navigation
+title: "ThermalDiffusion: Visual-to-Thermal Image-to-Image Translation for Autonomous Navigation"
 ---
 
 # ThermalDiffusion: Visual-to-Thermal Image-to-Image Translation for Autonomous Navigation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NaviTrace: Evaluating Embodied Navigation of Vision-Language Models
+title: "NaviTrace: Evaluating Embodied Navigation of Vision-Language Models"
 ---
 
 # NaviTrace: Evaluating Embodied Navigation of Vision-Language Models

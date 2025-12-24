@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models
+title: "HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models"
 ---
 
 # HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models

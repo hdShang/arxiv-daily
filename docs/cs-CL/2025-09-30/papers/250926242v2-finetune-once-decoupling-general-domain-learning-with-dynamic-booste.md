@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Finetune Once: Decoupling General & Domain Learning with Dynamic Boosted Annealing
+title: "Finetune Once: Decoupling General & Domain Learning with Dynamic Boosted Annealing"
 ---
 
 # Finetune Once: Decoupling General & Domain Learning with Dynamic Boosted Annealing

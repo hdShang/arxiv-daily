@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity
+title: "Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity"
 ---
 
 # Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity

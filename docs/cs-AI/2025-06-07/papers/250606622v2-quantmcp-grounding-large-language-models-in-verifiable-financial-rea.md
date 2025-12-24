@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QuantMCP: Grounding Large Language Models in Verifiable Financial Reality
+title: "QuantMCP: Grounding Large Language Models in Verifiable Financial Reality"
 ---
 
 # QuantMCP: Grounding Large Language Models in Verifiable Financial Reality

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DRQA: Dynamic Reasoning Quota Allocation for Controlling Overthinking in Reasoning Large Language Models
+title: "DRQA: Dynamic Reasoning Quota Allocation for Controlling Overthinking in Reasoning Large Language Models"
 ---
 
 # DRQA: Dynamic Reasoning Quota Allocation for Controlling Overthinking in Reasoning Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Compose Yourself: Average-Velocity Flow Matching for One-Step Speech Enhancement
+title: "Compose Yourself: Average-Velocity Flow Matching for One-Step Speech Enhancement"
 ---
 
 # Compose Yourself: Average-Velocity Flow Matching for One-Step Speech Enhancement

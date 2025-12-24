@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboLinker: A Diffusion-model-based Matching Clothing Generator Between Humans and Companion Robots
+title: "RoboLinker: A Diffusion-model-based Matching Clothing Generator Between Humans and Companion Robots"
 ---
 
 # RoboLinker: A Diffusion-model-based Matching Clothing Generator Between Humans and Companion Robots

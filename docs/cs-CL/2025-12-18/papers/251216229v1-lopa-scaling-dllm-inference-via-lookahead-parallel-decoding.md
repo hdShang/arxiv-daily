@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LoPA: Scaling dLLM Inference via Lookahead Parallel Decoding
+title: "LoPA: Scaling dLLM Inference via Lookahead Parallel Decoding"
 ---
 
 # LoPA: Scaling dLLM Inference via Lookahead Parallel Decoding

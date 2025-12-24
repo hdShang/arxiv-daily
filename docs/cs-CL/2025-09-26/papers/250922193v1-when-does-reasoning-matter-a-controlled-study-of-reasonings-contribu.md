@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When Does Reasoning Matter? A Controlled Study of Reasoning's Contribution to Model Performance
+title: "When Does Reasoning Matter? A Controlled Study of Reasoning's Contribution to Model Performance"
 ---
 
 # When Does Reasoning Matter? A Controlled Study of Reasoning's Contribution to Model Performance

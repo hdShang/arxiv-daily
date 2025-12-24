@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReeMark: Reeb Graphs for Simulating Patterns of Life in Spatiotemporal Trajectories
+title: "ReeMark: Reeb Graphs for Simulating Patterns of Life in Spatiotemporal Trajectories"
 ---
 
 # ReeMark: Reeb Graphs for Simulating Patterns of Life in Spatiotemporal Trajectories

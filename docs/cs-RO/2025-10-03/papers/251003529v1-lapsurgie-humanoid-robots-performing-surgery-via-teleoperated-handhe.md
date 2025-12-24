@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LapSurgie: Humanoid Robots Performing Surgery via Teleoperated Handheld Laparoscopy
+title: "LapSurgie: Humanoid Robots Performing Surgery via Teleoperated Handheld Laparoscopy"
 ---
 
 # LapSurgie: Humanoid Robots Performing Surgery via Teleoperated Handheld Laparoscopy

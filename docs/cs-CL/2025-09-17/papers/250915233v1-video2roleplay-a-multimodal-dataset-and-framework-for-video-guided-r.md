@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Video2Roleplay: A Multimodal Dataset and Framework for Video-Guided Role-playing Agents
+title: "Video2Roleplay: A Multimodal Dataset and Framework for Video-Guided Role-playing Agents"
 ---
 
 # Video2Roleplay: A Multimodal Dataset and Framework for Video-Guided Role-playing Agents

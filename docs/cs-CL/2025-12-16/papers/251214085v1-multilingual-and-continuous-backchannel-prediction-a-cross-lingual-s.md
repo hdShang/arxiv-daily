@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multilingual and Continuous Backchannel Prediction: A Cross-lingual Study
+title: "Multilingual and Continuous Backchannel Prediction: A Cross-lingual Study"
 ---
 
 # Multilingual and Continuous Backchannel Prediction: A Cross-lingual Study

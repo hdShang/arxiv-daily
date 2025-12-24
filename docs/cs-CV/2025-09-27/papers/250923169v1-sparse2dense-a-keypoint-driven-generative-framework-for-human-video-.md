@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sparse2Dense: A Keypoint-driven Generative Framework for Human Video Compression and Vertex Prediction
+title: "Sparse2Dense: A Keypoint-driven Generative Framework for Human Video Compression and Vertex Prediction"
 ---
 
 # Sparse2Dense: A Keypoint-driven Generative Framework for Human Video Compression and Vertex Prediction

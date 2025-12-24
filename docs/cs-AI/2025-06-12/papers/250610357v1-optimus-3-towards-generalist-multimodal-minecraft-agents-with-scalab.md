@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts
+title: "Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts"
 ---
 
 # Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DEAS: DEtached value learning with Action Sequence for Scalable Offline RL
+title: "DEAS: DEtached value learning with Action Sequence for Scalable Offline RL"
 ---
 
 # DEAS: DEtached value learning with Action Sequence for Scalable Offline RL

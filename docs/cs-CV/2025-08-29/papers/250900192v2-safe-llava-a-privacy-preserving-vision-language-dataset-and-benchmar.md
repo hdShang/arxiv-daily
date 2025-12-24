@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Safe-LLaVA: A Privacy-Preserving Vision-Language Dataset and Benchmark for Biometric Safety
+title: "Safe-LLaVA: A Privacy-Preserving Vision-Language Dataset and Benchmark for Biometric Safety"
 ---
 
 # Safe-LLaVA: A Privacy-Preserving Vision-Language Dataset and Benchmark for Biometric Safety

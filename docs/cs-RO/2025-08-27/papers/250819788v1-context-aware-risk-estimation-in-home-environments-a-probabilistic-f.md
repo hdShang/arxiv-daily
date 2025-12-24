@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Context-Aware Risk Estimation in Home Environments: A Probabilistic Framework for Service Robots
+title: "Context-Aware Risk Estimation in Home Environments: A Probabilistic Framework for Service Robots"
 ---
 
 # Context-Aware Risk Estimation in Home Environments: A Probabilistic Framework for Service Robots

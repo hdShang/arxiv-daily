@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fuzzing: Randomness? Reasoning! Efficient Directed Fuzzing via Large Language Models
+title: "Fuzzing: Randomness? Reasoning! Efficient Directed Fuzzing via Large Language Models"
 ---
 
 # Fuzzing: Randomness? Reasoning! Efficient Directed Fuzzing via Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Machine vs Machine: Using AI to Tackle Generative AI Threats in Assessment
+title: "Machine vs Machine: Using AI to Tackle Generative AI Threats in Assessment"
 ---
 
 # Machine vs Machine: Using AI to Tackle Generative AI Threats in Assessment

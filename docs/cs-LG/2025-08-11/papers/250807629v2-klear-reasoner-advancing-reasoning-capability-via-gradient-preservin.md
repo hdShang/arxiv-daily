@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Klear-Reasoner: Advancing Reasoning Capability via Gradient-Preserving Clipping Policy Optimization
+title: "Klear-Reasoner: Advancing Reasoning Capability via Gradient-Preserving Clipping Policy Optimization"
 ---
 
 # Klear-Reasoner: Advancing Reasoning Capability via Gradient-Preserving Clipping Policy Optimization

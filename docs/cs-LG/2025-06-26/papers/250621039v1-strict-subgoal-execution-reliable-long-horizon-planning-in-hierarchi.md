@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Strict Subgoal Execution: Reliable Long-Horizon Planning in Hierarchical Reinforcement Learning
+title: "Strict Subgoal Execution: Reliable Long-Horizon Planning in Hierarchical Reinforcement Learning"
 ---
 
 # Strict Subgoal Execution: Reliable Long-Horizon Planning in Hierarchical Reinforcement Learning

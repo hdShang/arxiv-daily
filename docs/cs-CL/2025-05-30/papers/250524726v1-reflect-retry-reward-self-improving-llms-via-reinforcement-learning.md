@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reflect, Retry, Reward: Self-Improving LLMs via Reinforcement Learning
+title: "Reflect, Retry, Reward: Self-Improving LLMs via Reinforcement Learning"
 ---
 
 # Reflect, Retry, Reward: Self-Improving LLMs via Reinforcement Learning

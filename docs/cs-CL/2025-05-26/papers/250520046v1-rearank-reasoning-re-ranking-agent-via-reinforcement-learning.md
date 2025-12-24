@@ -1,6 +1,6 @@
 ---
 layout: default
-title: REARANK: Reasoning Re-ranking Agent via Reinforcement Learning
+title: "REARANK: Reasoning Re-ranking Agent via Reinforcement Learning"
 ---
 
 # REARANK: Reasoning Re-ranking Agent via Reinforcement Learning

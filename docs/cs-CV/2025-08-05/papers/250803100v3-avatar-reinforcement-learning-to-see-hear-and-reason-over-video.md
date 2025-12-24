@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AVATAR: Reinforcement Learning to See, Hear, and Reason Over Video
+title: "AVATAR: Reinforcement Learning to See, Hear, and Reason Over Video"
 ---
 
 # AVATAR: Reinforcement Learning to See, Hear, and Reason Over Video

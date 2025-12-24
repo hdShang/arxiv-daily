@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Static and Plugged: Make Embodied Evaluation Simple
+title: "Static and Plugged: Make Embodied Evaluation Simple"
 ---
 
 # Static and Plugged: Make Embodied Evaluation Simple

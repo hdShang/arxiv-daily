@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Insertion Language Models: Sequence Generation with Arbitrary-Position Insertions
+title: "Insertion Language Models: Sequence Generation with Arbitrary-Position Insertions"
 ---
 
 # Insertion Language Models: Sequence Generation with Arbitrary-Position Insertions

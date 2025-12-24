@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Irrational Machine: Neurosis and the Limits of Algorithmic Safety
+title: "The Irrational Machine: Neurosis and the Limits of Algorithmic Safety"
 ---
 
 # The Irrational Machine: Neurosis and the Limits of Algorithmic Safety

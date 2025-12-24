@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SocialMaze: A Benchmark for Evaluating Social Reasoning in Large Language Models
+title: "SocialMaze: A Benchmark for Evaluating Social Reasoning in Large Language Models"
 ---
 
 # SocialMaze: A Benchmark for Evaluating Social Reasoning in Large Language Models

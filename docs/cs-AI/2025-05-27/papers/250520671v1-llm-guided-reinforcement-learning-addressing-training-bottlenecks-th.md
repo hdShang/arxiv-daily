@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM-Guided Reinforcement Learning: Addressing Training Bottlenecks through Policy Modulation
+title: "LLM-Guided Reinforcement Learning: Addressing Training Bottlenecks through Policy Modulation"
 ---
 
 # LLM-Guided Reinforcement Learning: Addressing Training Bottlenecks through Policy Modulation

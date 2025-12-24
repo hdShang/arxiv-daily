@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SHERPA: A Model-Driven Framework for Large Language Model Execution
+title: "SHERPA: A Model-Driven Framework for Large Language Model Execution"
 ---
 
 # SHERPA: A Model-Driven Framework for Large Language Model Execution

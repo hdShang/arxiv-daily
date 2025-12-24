@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AMPLIFY: Actionless Motion Priors for Robot Learning from Videos
+title: "AMPLIFY: Actionless Motion Priors for Robot Learning from Videos"
 ---
 
 # AMPLIFY: Actionless Motion Priors for Robot Learning from Videos

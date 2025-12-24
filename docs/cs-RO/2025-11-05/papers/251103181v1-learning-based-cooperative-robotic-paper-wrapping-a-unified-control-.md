@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning-based Cooperative Robotic Paper Wrapping: A Unified Control Policy with Residual Force Control
+title: "Learning-based Cooperative Robotic Paper Wrapping: A Unified Control Policy with Residual Force Control"
 ---
 
 # Learning-based Cooperative Robotic Paper Wrapping: A Unified Control Policy with Residual Force Control

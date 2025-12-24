@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning to Walk in Costume: Adversarial Motion Priors for Aesthetically Constrained Humanoids
+title: "Learning to Walk in Costume: Adversarial Motion Priors for Aesthetically Constrained Humanoids"
 ---
 
 # Learning to Walk in Costume: Adversarial Motion Priors for Aesthetically Constrained Humanoids

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gain Tuning Is Not What You Need: Reward Gain Adaptation for Constrained Locomotion Learning
+title: "Gain Tuning Is Not What You Need: Reward Gain Adaptation for Constrained Locomotion Learning"
 ---
 
 # Gain Tuning Is Not What You Need: Reward Gain Adaptation for Constrained Locomotion Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: H2OFlow: Grounding Human-Object Affordances with 3D Generative Models and Dense Diffused Flows
+title: "H2OFlow: Grounding Human-Object Affordances with 3D Generative Models and Dense Diffused Flows"
 ---
 
 # H2OFlow: Grounding Human-Object Affordances with 3D Generative Models and Dense Diffused Flows

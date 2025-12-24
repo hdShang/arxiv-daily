@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prism: Unleashing GPU Sharing for Cost-Efficient Multi-LLM Serving
+title: "Prism: Unleashing GPU Sharing for Cost-Efficient Multi-LLM Serving"
 ---
 
 # Prism: Unleashing GPU Sharing for Cost-Efficient Multi-LLM Serving

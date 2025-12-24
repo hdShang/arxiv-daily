@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TreeIRL: Safe Urban Driving with Tree Search and Inverse Reinforcement Learning
+title: "TreeIRL: Safe Urban Driving with Tree Search and Inverse Reinforcement Learning"
 ---
 
 # TreeIRL: Safe Urban Driving with Tree Search and Inverse Reinforcement Learning

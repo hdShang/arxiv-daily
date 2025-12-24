@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Shedding Light on Depth: Explainability Assessment in Monocular Depth Estimation
+title: "Shedding Light on Depth: Explainability Assessment in Monocular Depth Estimation"
 ---
 
 # Shedding Light on Depth: Explainability Assessment in Monocular Depth Estimation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoT-Space: A Theoretical Framework for Internal Slow-Thinking via Reinforcement Learning
+title: "CoT-Space: A Theoretical Framework for Internal Slow-Thinking via Reinforcement Learning"
 ---
 
 # CoT-Space: A Theoretical Framework for Internal Slow-Thinking via Reinforcement Learning

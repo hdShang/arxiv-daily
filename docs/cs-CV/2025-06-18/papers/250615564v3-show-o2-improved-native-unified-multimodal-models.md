@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Show-o2: Improved Native Unified Multimodal Models
+title: "Show-o2: Improved Native Unified Multimodal Models"
 ---
 
 # Show-o2: Improved Native Unified Multimodal Models

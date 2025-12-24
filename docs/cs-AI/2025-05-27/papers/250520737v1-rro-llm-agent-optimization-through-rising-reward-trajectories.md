@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RRO: LLM Agent Optimization Through Rising Reward Trajectories
+title: "RRO: LLM Agent Optimization Through Rising Reward Trajectories"
 ---
 
 # RRO: LLM Agent Optimization Through Rising Reward Trajectories

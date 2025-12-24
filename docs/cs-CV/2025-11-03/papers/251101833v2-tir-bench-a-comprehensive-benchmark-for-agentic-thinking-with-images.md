@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TIR-Bench: A Comprehensive Benchmark for Agentic Thinking-with-Images Reasoning
+title: "TIR-Bench: A Comprehensive Benchmark for Agentic Thinking-with-Images Reasoning"
 ---
 
 # TIR-Bench: A Comprehensive Benchmark for Agentic Thinking-with-Images Reasoning

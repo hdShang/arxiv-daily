@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Decoding Uncertainty: The Impact of Decoding Strategies for Uncertainty Estimation in Large Language Models
+title: "Decoding Uncertainty: The Impact of Decoding Strategies for Uncertainty Estimation in Large Language Models"
 ---
 
 # Decoding Uncertainty: The Impact of Decoding Strategies for Uncertainty Estimation in Large Language Models

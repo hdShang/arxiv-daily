@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DepthLM: Metric Depth From Vision Language Models
+title: "DepthLM: Metric Depth From Vision Language Models"
 ---
 
 # DepthLM: Metric Depth From Vision Language Models

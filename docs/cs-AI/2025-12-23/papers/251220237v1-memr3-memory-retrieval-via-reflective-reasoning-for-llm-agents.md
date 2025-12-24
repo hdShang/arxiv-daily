@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MemR$^3$: Memory Retrieval via Reflective Reasoning for LLM Agents
+title: "MemR$^3$: Memory Retrieval via Reflective Reasoning for LLM Agents"
 ---
 
 # MemR$^3$: Memory Retrieval via Reflective Reasoning for LLM Agents

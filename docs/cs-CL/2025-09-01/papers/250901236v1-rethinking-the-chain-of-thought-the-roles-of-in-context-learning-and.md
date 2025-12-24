@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rethinking the Chain-of-Thought: The Roles of In-Context Learning and Pre-trained Priors
+title: "Rethinking the Chain-of-Thought: The Roles of In-Context Learning and Pre-trained Priors"
 ---
 
 # Rethinking the Chain-of-Thought: The Roles of In-Context Learning and Pre-trained Priors

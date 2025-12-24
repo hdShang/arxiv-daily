@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SESGO: Spanish Evaluation of Stereotypical Generative Outputs
+title: "SESGO: Spanish Evaluation of Stereotypical Generative Outputs"
 ---
 
 # SESGO: Spanish Evaluation of Stereotypical Generative Outputs

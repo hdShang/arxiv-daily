@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SafeFall: Learning Protective Control for Humanoid Robots
+title: "SafeFall: Learning Protective Control for Humanoid Robots"
 ---
 
 # SafeFall: Learning Protective Control for Humanoid Robots

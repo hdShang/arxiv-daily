@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PRAISE: Enhancing Product Descriptions with LLM-Driven Structured Insights
+title: "PRAISE: Enhancing Product Descriptions with LLM-Driven Structured Insights"
 ---
 
 # PRAISE: Enhancing Product Descriptions with LLM-Driven Structured Insights

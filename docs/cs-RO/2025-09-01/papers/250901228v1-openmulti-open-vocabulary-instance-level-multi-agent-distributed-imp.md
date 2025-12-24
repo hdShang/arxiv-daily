@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OpenMulti: Open-Vocabulary Instance-Level Multi-Agent Distributed Implicit Mapping
+title: "OpenMulti: Open-Vocabulary Instance-Level Multi-Agent Distributed Implicit Mapping"
 ---
 
 # OpenMulti: Open-Vocabulary Instance-Level Multi-Agent Distributed Implicit Mapping

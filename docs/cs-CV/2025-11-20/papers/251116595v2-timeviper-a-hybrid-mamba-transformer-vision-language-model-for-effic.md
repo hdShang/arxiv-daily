@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding
+title: "TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding"
 ---
 
 # TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaching According to Talents! Instruction Tuning LLMs with Competence-Aware Curriculum Learning
+title: "Teaching According to Talents! Instruction Tuning LLMs with Competence-Aware Curriculum Learning"
 ---
 
 # Teaching According to Talents! Instruction Tuning LLMs with Competence-Aware Curriculum Learning

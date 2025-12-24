@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dynamic Experts Search: Enhancing Reasoning in Mixture-of-Experts LLMs at Test Time
+title: "Dynamic Experts Search: Enhancing Reasoning in Mixture-of-Experts LLMs at Test Time"
 ---
 
 # Dynamic Experts Search: Enhancing Reasoning in Mixture-of-Experts LLMs at Test Time

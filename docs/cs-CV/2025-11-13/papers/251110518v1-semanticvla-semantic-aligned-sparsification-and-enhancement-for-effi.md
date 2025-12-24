@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SemanticVLA: Semantic-Aligned Sparsification and Enhancement for Efficient Robotic Manipulation
+title: "SemanticVLA: Semantic-Aligned Sparsification and Enhancement for Efficient Robotic Manipulation"
 ---
 
 # SemanticVLA: Semantic-Aligned Sparsification and Enhancement for Efficient Robotic Manipulation

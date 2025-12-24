@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FGO-SLAM: Enhancing Gaussian SLAM with Globally Consistent Opacity Radiance Field
+title: "FGO-SLAM: Enhancing Gaussian SLAM with Globally Consistent Opacity Radiance Field"
 ---
 
 # FGO-SLAM: Enhancing Gaussian SLAM with Globally Consistent Opacity Radiance Field

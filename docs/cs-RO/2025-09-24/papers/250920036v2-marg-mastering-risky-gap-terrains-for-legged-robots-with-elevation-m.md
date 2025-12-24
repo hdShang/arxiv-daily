@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MARG: MAstering Risky Gap Terrains for Legged Robots with Elevation Mapping
+title: "MARG: MAstering Risky Gap Terrains for Legged Robots with Elevation Mapping"
 ---
 
 # MARG: MAstering Risky Gap Terrains for Legged Robots with Elevation Mapping

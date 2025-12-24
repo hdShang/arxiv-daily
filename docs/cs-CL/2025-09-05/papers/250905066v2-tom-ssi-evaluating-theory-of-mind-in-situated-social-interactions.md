@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ToM-SSI: Evaluating Theory of Mind in Situated Social Interactions
+title: "ToM-SSI: Evaluating Theory of Mind in Situated Social Interactions"
 ---
 
 # ToM-SSI: Evaluating Theory of Mind in Situated Social Interactions

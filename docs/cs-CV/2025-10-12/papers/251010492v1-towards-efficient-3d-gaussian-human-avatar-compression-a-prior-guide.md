@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Efficient 3D Gaussian Human Avatar Compression: A Prior-Guided Framework
+title: "Towards Efficient 3D Gaussian Human Avatar Compression: A Prior-Guided Framework"
 ---
 
 # Towards Efficient 3D Gaussian Human Avatar Compression: A Prior-Guided Framework

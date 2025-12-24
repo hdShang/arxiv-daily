@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Distilling LLM Prior to Flow Model for Generalizable Agent's Imagination in Object Goal Navigation
+title: "Distilling LLM Prior to Flow Model for Generalizable Agent's Imagination in Object Goal Navigation"
 ---
 
 # Distilling LLM Prior to Flow Model for Generalizable Agent's Imagination in Object Goal Navigation

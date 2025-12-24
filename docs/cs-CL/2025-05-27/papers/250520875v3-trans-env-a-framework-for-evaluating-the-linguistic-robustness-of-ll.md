@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trans-EnV: A Framework for Evaluating the Linguistic Robustness of LLMs Against English Varieties
+title: "Trans-EnV: A Framework for Evaluating the Linguistic Robustness of LLMs Against English Varieties"
 ---
 
 # Trans-EnV: A Framework for Evaluating the Linguistic Robustness of LLMs Against English Varieties

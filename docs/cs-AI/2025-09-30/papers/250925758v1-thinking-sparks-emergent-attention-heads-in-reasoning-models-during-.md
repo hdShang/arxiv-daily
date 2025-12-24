@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thinking Sparks!: Emergent Attention Heads in Reasoning Models During Post Training
+title: "Thinking Sparks!: Emergent Attention Heads in Reasoning Models During Post Training"
 ---
 
 # Thinking Sparks!: Emergent Attention Heads in Reasoning Models During Post Training

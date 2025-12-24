@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Markovian: Reflective Exploration via Bayes-Adaptive RL for LLM Reasoning
+title: "Beyond Markovian: Reflective Exploration via Bayes-Adaptive RL for LLM Reasoning"
 ---
 
 # Beyond Markovian: Reflective Exploration via Bayes-Adaptive RL for LLM Reasoning

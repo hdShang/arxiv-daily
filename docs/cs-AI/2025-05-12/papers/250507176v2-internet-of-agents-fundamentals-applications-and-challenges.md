@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Internet of Agents: Fundamentals, Applications, and Challenges
+title: "Internet of Agents: Fundamentals, Applications, and Challenges"
 ---
 
 # Internet of Agents: Fundamentals, Applications, and Challenges

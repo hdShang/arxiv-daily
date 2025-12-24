@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gaze-VLM:Bridging Gaze and VLMs through Attention Regularization for Egocentric Understanding
+title: "Gaze-VLM:Bridging Gaze and VLMs through Attention Regularization for Egocentric Understanding"
 ---
 
 # Gaze-VLM:Bridging Gaze and VLMs through Attention Regularization for Egocentric Understanding

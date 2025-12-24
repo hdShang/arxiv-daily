@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Naïve Prompting: Strategies for Improved Zero-shot Context-aided Forecasting with LLMs
+title: "Beyond Naïve Prompting: Strategies for Improved Zero-shot Context-aided Forecasting with LLMs"
 ---
 
 # Beyond Naïve Prompting: Strategies for Improved Zero-shot Context-aided Forecasting with LLMs

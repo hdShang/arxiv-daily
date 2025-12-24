@@ -1,6 +1,6 @@
 ---
 layout: default
-title: One Trigger Token Is Enough: A Defense Strategy for Balancing Safety and Usability in Large Language Models
+title: "One Trigger Token Is Enough: A Defense Strategy for Balancing Safety and Usability in Large Language Models"
 ---
 
 # One Trigger Token Is Enough: A Defense Strategy for Balancing Safety and Usability in Large Language Models

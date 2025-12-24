@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Storm Surge in Color: RGB-Encoded Physics-Aware Deep Learning for Storm Surge Forecasting
+title: "Storm Surge in Color: RGB-Encoded Physics-Aware Deep Learning for Storm Surge Forecasting"
 ---
 
 # Storm Surge in Color: RGB-Encoded Physics-Aware Deep Learning for Storm Surge Forecasting

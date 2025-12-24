@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Quadratic Costs in LQR: Bregman Divergence Control
+title: "Beyond Quadratic Costs in LQR: Bregman Divergence Control"
 ---
 
 # Beyond Quadratic Costs in LQR: Bregman Divergence Control

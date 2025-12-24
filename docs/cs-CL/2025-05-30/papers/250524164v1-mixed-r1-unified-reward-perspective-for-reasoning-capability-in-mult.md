@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mixed-R1: Unified Reward Perspective For Reasoning Capability in Multimodal Large Language Models
+title: "Mixed-R1: Unified Reward Perspective For Reasoning Capability in Multimodal Large Language Models"
 ---
 
 # Mixed-R1: Unified Reward Perspective For Reasoning Capability in Multimodal Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TTT3R: 3D Reconstruction as Test-Time Training
+title: "TTT3R: 3D Reconstruction as Test-Time Training"
 ---
 
 # TTT3R: 3D Reconstruction as Test-Time Training

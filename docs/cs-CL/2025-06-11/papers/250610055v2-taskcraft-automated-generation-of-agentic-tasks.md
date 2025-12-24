@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TaskCraft: Automated Generation of Agentic Tasks
+title: "TaskCraft: Automated Generation of Agentic Tasks"
 ---
 
 # TaskCraft: Automated Generation of Agentic Tasks

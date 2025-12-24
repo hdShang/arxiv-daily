@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SQS: Enhancing Sparse Perception Models via Query-based Splatting in Autonomous Driving
+title: "SQS: Enhancing Sparse Perception Models via Query-based Splatting in Autonomous Driving"
 ---
 
 # SQS: Enhancing Sparse Perception Models via Query-based Splatting in Autonomous Driving

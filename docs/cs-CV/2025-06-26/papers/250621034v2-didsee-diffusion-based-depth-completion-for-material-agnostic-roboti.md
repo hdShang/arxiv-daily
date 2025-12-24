@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DidSee: Diffusion-Based Depth Completion for Material-Agnostic Robotic Perception and Manipulation
+title: "DidSee: Diffusion-Based Depth Completion for Material-Agnostic Robotic Perception and Manipulation"
 ---
 
 # DidSee: Diffusion-Based Depth Completion for Material-Agnostic Robotic Perception and Manipulation

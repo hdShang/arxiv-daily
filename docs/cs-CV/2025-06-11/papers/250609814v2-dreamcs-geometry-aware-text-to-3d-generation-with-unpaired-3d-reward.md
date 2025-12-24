@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DreamCS: Geometry-Aware Text-to-3D Generation with Unpaired 3D Reward Supervision
+title: "DreamCS: Geometry-Aware Text-to-3D Generation with Unpaired 3D Reward Supervision"
 ---
 
 # DreamCS: Geometry-Aware Text-to-3D Generation with Unpaired 3D Reward Supervision

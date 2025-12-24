@@ -1,6 +1,6 @@
 ---
 layout: default
-title: E^2GraphRAG: Streamlining Graph-based RAG for High Efficiency and Effectiveness
+title: "E^2GraphRAG: Streamlining Graph-based RAG for High Efficiency and Effectiveness"
 ---
 
 # E^2GraphRAG: Streamlining Graph-based RAG for High Efficiency and Effectiveness

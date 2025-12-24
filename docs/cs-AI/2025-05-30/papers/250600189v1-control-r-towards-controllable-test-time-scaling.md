@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Control-R: Towards controllable test-time scaling
+title: "Control-R: Towards controllable test-time scaling"
 ---
 
 # Control-R: Towards controllable test-time scaling

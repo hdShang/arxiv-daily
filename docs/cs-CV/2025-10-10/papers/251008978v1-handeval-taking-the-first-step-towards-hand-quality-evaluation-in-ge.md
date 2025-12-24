@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HandEval: Taking the First Step Towards Hand Quality Evaluation in Generated Images
+title: "HandEval: Taking the First Step Towards Hand Quality Evaluation in Generated Images"
 ---
 
 # HandEval: Taking the First Step Towards Hand Quality Evaluation in Generated Images

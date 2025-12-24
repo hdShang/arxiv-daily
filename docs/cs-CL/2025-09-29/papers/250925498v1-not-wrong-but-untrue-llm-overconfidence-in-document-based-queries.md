@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Not Wrong, But Untrue: LLM Overconfidence in Document-Based Queries
+title: "Not Wrong, But Untrue: LLM Overconfidence in Document-Based Queries"
 ---
 
 # Not Wrong, But Untrue: LLM Overconfidence in Document-Based Queries

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bridging Perception and Action: Spatially-Grounded Mid-Level Representations for Robot Generalization
+title: "Bridging Perception and Action: Spatially-Grounded Mid-Level Representations for Robot Generalization"
 ---
 
 # Bridging Perception and Action: Spatially-Grounded Mid-Level Representations for Robot Generalization

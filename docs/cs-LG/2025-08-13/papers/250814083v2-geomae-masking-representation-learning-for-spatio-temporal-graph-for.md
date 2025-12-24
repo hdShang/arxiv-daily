@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GeoMAE: Masking Representation Learning for Spatio-Temporal Graph Forecasting with Missing Values
+title: "GeoMAE: Masking Representation Learning for Spatio-Temporal Graph Forecasting with Missing Values"
 ---
 
 # GeoMAE: Masking Representation Learning for Spatio-Temporal Graph Forecasting with Missing Values

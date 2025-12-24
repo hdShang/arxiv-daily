@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GATSim: Urban Mobility Simulation with Generative Agents
+title: "GATSim: Urban Mobility Simulation with Generative Agents"
 ---
 
 # GATSim: Urban Mobility Simulation with Generative Agents

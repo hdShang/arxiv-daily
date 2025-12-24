@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CAD-Coder: Text-to-CAD Generation with Chain-of-Thought and Geometric Reward
+title: "CAD-Coder: Text-to-CAD Generation with Chain-of-Thought and Geometric Reward"
 ---
 
 # CAD-Coder: Text-to-CAD Generation with Chain-of-Thought and Geometric Reward

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Saudi-Dialect-ALLaM: LoRA Fine-Tuning for Dialectal Arabic Generation
+title: "Saudi-Dialect-ALLaM: LoRA Fine-Tuning for Dialectal Arabic Generation"
 ---
 
 # Saudi-Dialect-ALLaM: LoRA Fine-Tuning for Dialectal Arabic Generation

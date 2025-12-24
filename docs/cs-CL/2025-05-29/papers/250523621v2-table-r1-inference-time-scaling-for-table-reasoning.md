@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Table-R1: Inference-Time Scaling for Table Reasoning
+title: "Table-R1: Inference-Time Scaling for Table Reasoning"
 ---
 
 # Table-R1: Inference-Time Scaling for Table Reasoning

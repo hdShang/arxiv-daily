@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoBAD: Modeling Collective Behaviors for Human Mobility Anomaly Detection
+title: "CoBAD: Modeling Collective Behaviors for Human Mobility Anomaly Detection"
 ---
 
 # CoBAD: Modeling Collective Behaviors for Human Mobility Anomaly Detection

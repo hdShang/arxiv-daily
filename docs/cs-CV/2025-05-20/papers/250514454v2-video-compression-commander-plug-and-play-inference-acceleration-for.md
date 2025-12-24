@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Video Compression Commander: Plug-and-Play Inference Acceleration for Video Large Language Models
+title: "Video Compression Commander: Plug-and-Play Inference Acceleration for Video Large Language Models"
 ---
 
 # Video Compression Commander: Plug-and-Play Inference Acceleration for Video Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Multi-View Performance Captures
+title: "Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Multi-View Performance Captures"
 ---
 
 # Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Multi-View Performance Captures

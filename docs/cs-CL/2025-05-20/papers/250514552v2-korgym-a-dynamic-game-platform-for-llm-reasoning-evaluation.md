@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation
+title: "KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation"
 ---
 
 # KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation

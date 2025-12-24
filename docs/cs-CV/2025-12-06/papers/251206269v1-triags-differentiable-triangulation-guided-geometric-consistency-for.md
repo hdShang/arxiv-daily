@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TriaGS: Differentiable Triangulation-Guided Geometric Consistency for 3D Gaussian Splatting
+title: "TriaGS: Differentiable Triangulation-Guided Geometric Consistency for 3D Gaussian Splatting"
 ---
 
 # TriaGS: Differentiable Triangulation-Guided Geometric Consistency for 3D Gaussian Splatting

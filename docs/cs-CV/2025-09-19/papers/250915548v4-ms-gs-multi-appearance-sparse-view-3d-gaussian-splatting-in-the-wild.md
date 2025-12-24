@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MS-GS: Multi-Appearance Sparse-View 3D Gaussian Splatting in the Wild
+title: "MS-GS: Multi-Appearance Sparse-View 3D Gaussian Splatting in the Wild"
 ---
 
 # MS-GS: Multi-Appearance Sparse-View 3D Gaussian Splatting in the Wild

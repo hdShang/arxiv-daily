@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gaussian Blending: Rethinking Alpha Blending in 3D Gaussian Splatting
+title: "Gaussian Blending: Rethinking Alpha Blending in 3D Gaussian Splatting"
 ---
 
 # Gaussian Blending: Rethinking Alpha Blending in 3D Gaussian Splatting

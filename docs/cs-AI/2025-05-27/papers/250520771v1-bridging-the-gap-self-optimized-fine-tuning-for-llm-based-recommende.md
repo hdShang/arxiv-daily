@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bridging the Gap: Self-Optimized Fine-Tuning for LLM-based Recommender Systems
+title: "Bridging the Gap: Self-Optimized Fine-Tuning for LLM-based Recommender Systems"
 ---
 
 # Bridging the Gap: Self-Optimized Fine-Tuning for LLM-based Recommender Systems

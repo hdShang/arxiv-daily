@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning
+title: "Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning"
 ---
 
 # Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning

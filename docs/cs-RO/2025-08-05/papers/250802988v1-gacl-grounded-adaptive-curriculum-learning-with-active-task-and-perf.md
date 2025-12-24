@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GACL: Grounded Adaptive Curriculum Learning with Active Task and Performance Monitoring
+title: "GACL: Grounded Adaptive Curriculum Learning with Active Task and Performance Monitoring"
 ---
 
 # GACL: Grounded Adaptive Curriculum Learning with Active Task and Performance Monitoring

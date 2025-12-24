@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visual-TableQA: Open-Domain Benchmark for Reasoning over Table Images
+title: "Visual-TableQA: Open-Domain Benchmark for Reasoning over Table Images"
 ---
 
 # Visual-TableQA: Open-Domain Benchmark for Reasoning over Table Images

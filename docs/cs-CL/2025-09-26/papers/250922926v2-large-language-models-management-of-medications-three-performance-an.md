@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Large language models management of medications: three performance analyses
+title: "Large language models management of medications: three performance analyses"
 ---
 
 # Large language models management of medications: three performance analyses

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning to Ball: Composing Policies for Long-Horizon Basketball Moves
+title: "Learning to Ball: Composing Policies for Long-Horizon Basketball Moves"
 ---
 
 # Learning to Ball: Composing Policies for Long-Horizon Basketball Moves

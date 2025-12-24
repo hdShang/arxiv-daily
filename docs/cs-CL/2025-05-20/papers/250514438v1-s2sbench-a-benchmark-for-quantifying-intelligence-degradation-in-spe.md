@@ -1,6 +1,6 @@
 ---
 layout: default
-title: S2SBench: A Benchmark for Quantifying Intelligence Degradation in Speech-to-Speech Large Language Models
+title: "S2SBench: A Benchmark for Quantifying Intelligence Degradation in Speech-to-Speech Large Language Models"
 ---
 
 # S2SBench: A Benchmark for Quantifying Intelligence Degradation in Speech-to-Speech Large Language Models

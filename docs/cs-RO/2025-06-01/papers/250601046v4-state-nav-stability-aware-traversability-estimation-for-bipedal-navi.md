@@ -1,6 +1,6 @@
 ---
 layout: default
-title: STATE-NAV: Stability-Aware Traversability Estimation for Bipedal Navigation on Rough Terrain
+title: "STATE-NAV: Stability-Aware Traversability Estimation for Bipedal Navigation on Rough Terrain"
 ---
 
 # STATE-NAV: Stability-Aware Traversability Estimation for Bipedal Navigation on Rough Terrain

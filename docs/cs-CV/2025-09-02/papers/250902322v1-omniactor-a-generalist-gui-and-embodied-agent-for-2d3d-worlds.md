@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniActor: A Generalist GUI and Embodied Agent for 2D&3D Worlds
+title: "OmniActor: A Generalist GUI and Embodied Agent for 2D&3D Worlds"
 ---
 
 # OmniActor: A Generalist GUI and Embodied Agent for 2D&3D Worlds

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoRe-ERL: Learning Motion Residuals using Episodic Reinforcement Learning
+title: "MoRe-ERL: Learning Motion Residuals using Episodic Reinforcement Learning"
 ---
 
 # MoRe-ERL: Learning Motion Residuals using Episodic Reinforcement Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pts3D-LLM: Studying the Impact of Token Structure for 3D Scene Understanding With Large Language Models
+title: "Pts3D-LLM: Studying the Impact of Token Structure for 3D Scene Understanding With Large Language Models"
 ---
 
 # Pts3D-LLM: Studying the Impact of Token Structure for 3D Scene Understanding With Large Language Models

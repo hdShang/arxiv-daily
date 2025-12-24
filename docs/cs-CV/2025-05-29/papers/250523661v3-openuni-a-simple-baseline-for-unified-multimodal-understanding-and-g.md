@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation
+title: "OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation"
 ---
 
 # OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation

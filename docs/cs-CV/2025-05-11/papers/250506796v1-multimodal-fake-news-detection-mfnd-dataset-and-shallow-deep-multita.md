@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multimodal Fake News Detection: MFND Dataset and Shallow-Deep Multitask Learning
+title: "Multimodal Fake News Detection: MFND Dataset and Shallow-Deep Multitask Learning"
 ---
 
 # Multimodal Fake News Detection: MFND Dataset and Shallow-Deep Multitask Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GraSP-VLA: Graph-based Symbolic Action Representation for Long-Horizon Planning with VLA Policies
+title: "GraSP-VLA: Graph-based Symbolic Action Representation for Long-Horizon Planning with VLA Policies"
 ---
 
 # GraSP-VLA: Graph-based Symbolic Action Representation for Long-Horizon Planning with VLA Policies

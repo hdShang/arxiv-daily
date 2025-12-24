@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ConLID: Supervised Contrastive Learning for Low-Resource Language Identification
+title: "ConLID: Supervised Contrastive Learning for Low-Resource Language Identification"
 ---
 
 # ConLID: Supervised Contrastive Learning for Low-Resource Language Identification

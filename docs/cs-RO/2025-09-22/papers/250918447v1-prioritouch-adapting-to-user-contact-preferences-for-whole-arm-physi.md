@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PrioriTouch: Adapting to User Contact Preferences for Whole-Arm Physical Human-Robot Interaction
+title: "PrioriTouch: Adapting to User Contact Preferences for Whole-Arm Physical Human-Robot Interaction"
 ---
 
 # PrioriTouch: Adapting to User Contact Preferences for Whole-Arm Physical Human-Robot Interaction

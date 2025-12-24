@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ResT: Reshaping Token-Level Policy Gradients for Tool-Use Large Language Models
+title: "ResT: Reshaping Token-Level Policy Gradients for Tool-Use Large Language Models"
 ---
 
 # ResT: Reshaping Token-Level Policy Gradients for Tool-Use Large Language Models

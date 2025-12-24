@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Knowledge Augmented Complex Problem Solving with Large Language Models: A Survey
+title: "Knowledge Augmented Complex Problem Solving with Large Language Models: A Survey"
 ---
 
 # Knowledge Augmented Complex Problem Solving with Large Language Models: A Survey

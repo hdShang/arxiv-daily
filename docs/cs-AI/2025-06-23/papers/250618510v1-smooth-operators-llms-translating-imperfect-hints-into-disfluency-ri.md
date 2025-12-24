@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Smooth Operators: LLMs Translating Imperfect Hints into Disfluency-Rich Transcripts
+title: "Smooth Operators: LLMs Translating Imperfect Hints into Disfluency-Rich Transcripts"
 ---
 
 # Smooth Operators: LLMs Translating Imperfect Hints into Disfluency-Rich Transcripts

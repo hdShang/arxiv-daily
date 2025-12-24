@@ -1,6 +1,6 @@
 ---
 layout: default
-title: S$^3$IT: A Benchmark for Spatially Situated Social Intelligence Test
+title: "S$^3$IT: A Benchmark for Spatially Situated Social Intelligence Test"
 ---
 
 # S$^3$IT: A Benchmark for Spatially Situated Social Intelligence Test

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding
+title: "CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding"
 ---
 
 # CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight
+title: "Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight"
 ---
 
 # Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight

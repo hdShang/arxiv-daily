@@ -1,6 +1,6 @@
 ---
 layout: default
-title: E-bike agents: Large Language Model-Driven E-Bike Accident Analysis and Severity Prediction
+title: "E-bike agents: Large Language Model-Driven E-Bike Accident Analysis and Severity Prediction"
 ---
 
 # E-bike agents: Large Language Model-Driven E-Bike Accident Analysis and Severity Prediction

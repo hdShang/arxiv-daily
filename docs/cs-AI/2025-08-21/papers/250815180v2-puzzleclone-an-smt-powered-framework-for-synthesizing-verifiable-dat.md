@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PuzzleClone: An SMT-Powered Framework for Synthesizing Verifiable Data
+title: "PuzzleClone: An SMT-Powered Framework for Synthesizing Verifiable Data"
 ---
 
 # PuzzleClone: An SMT-Powered Framework for Synthesizing Verifiable Data

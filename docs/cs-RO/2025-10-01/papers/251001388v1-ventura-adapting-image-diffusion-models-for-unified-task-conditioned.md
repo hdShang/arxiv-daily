@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VENTURA: Adapting Image Diffusion Models for Unified Task Conditioned Navigation
+title: "VENTURA: Adapting Image Diffusion Models for Unified Task Conditioned Navigation"
 ---
 
 # VENTURA: Adapting Image Diffusion Models for Unified Task Conditioned Navigation

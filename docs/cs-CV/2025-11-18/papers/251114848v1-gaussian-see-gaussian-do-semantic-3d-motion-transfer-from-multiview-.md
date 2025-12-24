@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gaussian See, Gaussian Do: Semantic 3D Motion Transfer from Multiview Video
+title: "Gaussian See, Gaussian Do: Semantic 3D Motion Transfer from Multiview Video"
 ---
 
 # Gaussian See, Gaussian Do: Semantic 3D Motion Transfer from Multiview Video

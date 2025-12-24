@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EMind: A Foundation Model for Multi-task Electromagnetic Signals Understanding
+title: "EMind: A Foundation Model for Multi-task Electromagnetic Signals Understanding"
 ---
 
 # EMind: A Foundation Model for Multi-task Electromagnetic Signals Understanding

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Revisiting Test-Time Scaling: A Survey and a Diversity-Aware Method for Efficient Reasoning
+title: "Revisiting Test-Time Scaling: A Survey and a Diversity-Aware Method for Efficient Reasoning"
 ---
 
 # Revisiting Test-Time Scaling: A Survey and a Diversity-Aware Method for Efficient Reasoning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cartan Networks: Group theoretical Hyperbolic Deep Learning
+title: "Cartan Networks: Group theoretical Hyperbolic Deep Learning"
 ---
 
 # Cartan Networks: Group theoretical Hyperbolic Deep Learning

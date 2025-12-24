@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Transparent and Robust RAG: Adaptive-Reward Reinforcement Learning for Decision Traceability
+title: "Transparent and Robust RAG: Adaptive-Reward Reinforcement Learning for Decision Traceability"
 ---
 
 # Transparent and Robust RAG: Adaptive-Reward Reinforcement Learning for Decision Traceability

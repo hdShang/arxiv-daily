@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ShelfOcc: Native 3D Supervision beyond LiDAR for Vision-Based Occupancy Estimation
+title: "ShelfOcc: Native 3D Supervision beyond LiDAR for Vision-Based Occupancy Estimation"
 ---
 
 # ShelfOcc: Native 3D Supervision beyond LiDAR for Vision-Based Occupancy Estimation

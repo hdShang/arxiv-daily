@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Absolute Zero: Reinforced Self-play Reasoning with Zero Data
+title: "Absolute Zero: Reinforced Self-play Reasoning with Zero Data"
 ---
 
 # Absolute Zero: Reinforced Self-play Reasoning with Zero Data

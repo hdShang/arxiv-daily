@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AuViRe: Audio-visual Speech Representation Reconstruction for Deepfake Temporal Localization
+title: "AuViRe: Audio-visual Speech Representation Reconstruction for Deepfake Temporal Localization"
 ---
 
 # AuViRe: Audio-visual Speech Representation Reconstruction for Deepfake Temporal Localization

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MiGrATe: Mixed-Policy GRPO for Adaptation at Test-Time
+title: "MiGrATe: Mixed-Policy GRPO for Adaptation at Test-Time"
 ---
 
 # MiGrATe: Mixed-Policy GRPO for Adaptation at Test-Time

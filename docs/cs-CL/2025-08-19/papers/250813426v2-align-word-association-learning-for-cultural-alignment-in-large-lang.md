@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ALIGN: Word Association Learning for Cultural Alignment in Large Language Models
+title: "ALIGN: Word Association Learning for Cultural Alignment in Large Language Models"
 ---
 
 # ALIGN: Word Association Learning for Cultural Alignment in Large Language Models

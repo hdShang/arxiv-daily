@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ChemATP: A Training-Free Chemical Reasoning Framework for Large Language Models
+title: "ChemATP: A Training-Free Chemical Reasoning Framework for Large Language Models"
 ---
 
 # ChemATP: A Training-Free Chemical Reasoning Framework for Large Language Models

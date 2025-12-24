@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following
+title: "Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following"
 ---
 
 # Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following

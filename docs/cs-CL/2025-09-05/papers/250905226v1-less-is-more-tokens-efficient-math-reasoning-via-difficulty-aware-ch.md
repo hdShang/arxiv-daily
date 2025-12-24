@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Less is More Tokens: Efficient Math Reasoning via Difficulty-Aware Chain-of-Thought Distillation
+title: "Less is More Tokens: Efficient Math Reasoning via Difficulty-Aware Chain-of-Thought Distillation"
 ---
 
 # Less is More Tokens: Efficient Math Reasoning via Difficulty-Aware Chain-of-Thought Distillation

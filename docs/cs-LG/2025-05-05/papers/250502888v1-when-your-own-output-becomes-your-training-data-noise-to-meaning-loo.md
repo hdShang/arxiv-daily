@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When Your Own Output Becomes Your Training Data: Noise-to-Meaning Loops and a Formal RSI Trigger
+title: "When Your Own Output Becomes Your Training Data: Noise-to-Meaning Loops and a Formal RSI Trigger"
 ---
 
 # When Your Own Output Becomes Your Training Data: Noise-to-Meaning Loops and a Formal RSI Trigger

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Constructive Distortion: Improving MLLMs with Attention-Guided Image Warping
+title: "Constructive Distortion: Improving MLLMs with Attention-Guided Image Warping"
 ---
 
 # Constructive Distortion: Improving MLLMs with Attention-Guided Image Warping

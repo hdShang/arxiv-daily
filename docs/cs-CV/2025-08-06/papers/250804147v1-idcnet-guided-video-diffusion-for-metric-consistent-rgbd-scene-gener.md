@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IDCNet: Guided Video Diffusion for Metric-Consistent RGBD Scene Generation with Precise Camera Control
+title: "IDCNet: Guided Video Diffusion for Metric-Consistent RGBD Scene Generation with Precise Camera Control"
 ---
 
 # IDCNet: Guided Video Diffusion for Metric-Consistent RGBD Scene Generation with Precise Camera Control

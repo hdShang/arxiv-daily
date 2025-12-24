@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CLASS: Contrastive Learning via Action Sequence Supervision for Robot Manipulation
+title: "CLASS: Contrastive Learning via Action Sequence Supervision for Robot Manipulation"
 ---
 
 # CLASS: Contrastive Learning via Action Sequence Supervision for Robot Manipulation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LMR-BENCH: Evaluating LLM Agent's Ability on Reproducing Language Modeling Research
+title: "LMR-BENCH: Evaluating LLM Agent's Ability on Reproducing Language Modeling Research"
 ---
 
 # LMR-BENCH: Evaluating LLM Agent's Ability on Reproducing Language Modeling Research

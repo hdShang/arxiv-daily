@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AdaSearch: Balancing Parametric Knowledge and Search in Large Language Models via Reinforcement Learning
+title: "AdaSearch: Balancing Parametric Knowledge and Search in Large Language Models via Reinforcement Learning"
 ---
 
 # AdaSearch: Balancing Parametric Knowledge and Search in Large Language Models via Reinforcement Learning

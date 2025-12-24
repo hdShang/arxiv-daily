@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ella: Embodied Social Agents with Lifelong Memory
+title: "Ella: Embodied Social Agents with Lifelong Memory"
 ---
 
 # Ella: Embodied Social Agents with Lifelong Memory

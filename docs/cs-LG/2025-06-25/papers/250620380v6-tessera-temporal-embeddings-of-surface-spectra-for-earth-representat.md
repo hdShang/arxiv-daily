@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TESSERA: Temporal Embeddings of Surface Spectra for Earth Representation and Analysis
+title: "TESSERA: Temporal Embeddings of Surface Spectra for Earth Representation and Analysis"
 ---
 
 # TESSERA: Temporal Embeddings of Surface Spectra for Earth Representation and Analysis

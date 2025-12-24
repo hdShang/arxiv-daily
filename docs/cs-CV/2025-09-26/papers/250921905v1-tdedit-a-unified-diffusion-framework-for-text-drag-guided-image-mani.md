@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TDEdit: A Unified Diffusion Framework for Text-Drag Guided Image Manipulation
+title: "TDEdit: A Unified Diffusion Framework for Text-Drag Guided Image Manipulation"
 ---
 
 # TDEdit: A Unified Diffusion Framework for Text-Drag Guided Image Manipulation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Name-Free Gap: Policy-Aware Stylistic Control in Music Generation
+title: "The Name-Free Gap: Policy-Aware Stylistic Control in Music Generation"
 ---
 
 # The Name-Free Gap: Policy-Aware Stylistic Control in Music Generation

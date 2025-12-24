@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scaling Legal AI: Benchmarking Mamba and Transformers for Statutory Classification and Case Law Retrieval
+title: "Scaling Legal AI: Benchmarking Mamba and Transformers for Statutory Classification and Case Law Retrieval"
 ---
 
 # Scaling Legal AI: Benchmarking Mamba and Transformers for Statutory Classification and Case Law Retrieval

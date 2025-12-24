@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GeoCAD: Local Geometry-Controllable CAD Generation with Large Language Models
+title: "GeoCAD: Local Geometry-Controllable CAD Generation with Large Language Models"
 ---
 
 # GeoCAD: Local Geometry-Controllable CAD Generation with Large Language Models

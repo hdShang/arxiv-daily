@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vision in Action: Learning Active Perception from Human Demonstrations
+title: "Vision in Action: Learning Active Perception from Human Demonstrations"
 ---
 
 # Vision in Action: Learning Active Perception from Human Demonstrations

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mixed Signals: Understanding Model Disagreement in Multimodal Empathy Detection
+title: "Mixed Signals: Understanding Model Disagreement in Multimodal Empathy Detection"
 ---
 
 # Mixed Signals: Understanding Model Disagreement in Multimodal Empathy Detection

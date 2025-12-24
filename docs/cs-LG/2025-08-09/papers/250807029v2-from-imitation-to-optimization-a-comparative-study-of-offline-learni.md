@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Imitation to Optimization: A Comparative Study of Offline Learning for Autonomous Driving
+title: "From Imitation to Optimization: A Comparative Study of Offline Learning for Autonomous Driving"
 ---
 
 # From Imitation to Optimization: A Comparative Study of Offline Learning for Autonomous Driving

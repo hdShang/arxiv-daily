@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AINL-Eval 2025 Shared Task: Detection of AI-Generated Scientific Abstracts in Russian
+title: "AINL-Eval 2025 Shared Task: Detection of AI-Generated Scientific Abstracts in Russian"
 ---
 
 # AINL-Eval 2025 Shared Task: Detection of AI-Generated Scientific Abstracts in Russian

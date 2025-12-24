@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BriefMe: A Legal NLP Benchmark for Assisting with Legal Briefs
+title: "BriefMe: A Legal NLP Benchmark for Assisting with Legal Briefs"
 ---
 
 # BriefMe: A Legal NLP Benchmark for Assisting with Legal Briefs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Architecting Resilient LLM Agents: A Guide to Secure Plan-then-Execute Implementations
+title: "Architecting Resilient LLM Agents: A Guide to Secure Plan-then-Execute Implementations"
 ---
 
 # Architecting Resilient LLM Agents: A Guide to Secure Plan-then-Execute Implementations

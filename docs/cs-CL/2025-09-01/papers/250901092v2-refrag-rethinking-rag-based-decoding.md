@@ -1,6 +1,6 @@
 ---
 layout: default
-title: REFRAG: Rethinking RAG based Decoding
+title: "REFRAG: Rethinking RAG based Decoding"
 ---
 
 # REFRAG: Rethinking RAG based Decoding

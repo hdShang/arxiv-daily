@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Depth-Copy-Paste: Multimodal and Depth-Aware Compositing for Robust Face Detection
+title: "Depth-Copy-Paste: Multimodal and Depth-Aware Compositing for Robust Face Detection"
 ---
 
 # Depth-Copy-Paste: Multimodal and Depth-Aware Compositing for Robust Face Detection

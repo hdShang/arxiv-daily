@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Differentiable Entropy Regularization: A Complexity-Aware Approach for Neural Optimization
+title: "Differentiable Entropy Regularization: A Complexity-Aware Approach for Neural Optimization"
 ---
 
 # Differentiable Entropy Regularization: A Complexity-Aware Approach for Neural Optimization

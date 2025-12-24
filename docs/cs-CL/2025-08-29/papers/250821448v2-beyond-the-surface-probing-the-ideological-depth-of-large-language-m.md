@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond the Surface: Probing the Ideological Depth of Large Language Models
+title: "Beyond the Surface: Probing the Ideological Depth of Large Language Models"
 ---
 
 # Beyond the Surface: Probing the Ideological Depth of Large Language Models

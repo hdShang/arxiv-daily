@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Normalized Attention Guidance: Universal Negative Guidance for Diffusion Models
+title: "Normalized Attention Guidance: Universal Negative Guidance for Diffusion Models"
 ---
 
 # Normalized Attention Guidance: Universal Negative Guidance for Diffusion Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IC-Effect: Precise and Efficient Video Effects Editing via In-Context Learning
+title: "IC-Effect: Precise and Efficient Video Effects Editing via In-Context Learning"
 ---
 
 # IC-Effect: Precise and Efficient Video Effects Editing via In-Context Learning

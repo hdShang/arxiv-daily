@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MNN-LLM: A Generic Inference Engine for Fast Large Language Model Deployment on Mobile Devices
+title: "MNN-LLM: A Generic Inference Engine for Fast Large Language Model Deployment on Mobile Devices"
 ---
 
 # MNN-LLM: A Generic Inference Engine for Fast Large Language Model Deployment on Mobile Devices

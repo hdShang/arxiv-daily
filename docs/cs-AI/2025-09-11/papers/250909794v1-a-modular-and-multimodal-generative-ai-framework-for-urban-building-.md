@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Modular and Multimodal Generative AI Framework for Urban Building Energy Data: Generating Synthetic Homes
+title: "A Modular and Multimodal Generative AI Framework for Urban Building Energy Data: Generating Synthetic Homes"
 ---
 
 # A Modular and Multimodal Generative AI Framework for Urban Building Energy Data: Generating Synthetic Homes

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Judgment to Interference: Early Stopping LLM Harmful Outputs via Streaming Content Monitoring
+title: "From Judgment to Interference: Early Stopping LLM Harmful Outputs via Streaming Content Monitoring"
 ---
 
 # From Judgment to Interference: Early Stopping LLM Harmful Outputs via Streaming Content Monitoring

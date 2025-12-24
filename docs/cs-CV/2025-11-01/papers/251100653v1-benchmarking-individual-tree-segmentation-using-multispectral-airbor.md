@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Benchmarking individual tree segmentation using multispectral airborne laser scanning data: the FGI-EMIT dataset
+title: "Benchmarking individual tree segmentation using multispectral airborne laser scanning data: the FGI-EMIT dataset"
 ---
 
 # Benchmarking individual tree segmentation using multispectral airborne laser scanning data: the FGI-EMIT dataset

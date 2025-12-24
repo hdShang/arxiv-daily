@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PropMEND: Hypernetworks for Knowledge Propagation in LLMs
+title: "PropMEND: Hypernetworks for Knowledge Propagation in LLMs"
 ---
 
 # PropMEND: Hypernetworks for Knowledge Propagation in LLMs

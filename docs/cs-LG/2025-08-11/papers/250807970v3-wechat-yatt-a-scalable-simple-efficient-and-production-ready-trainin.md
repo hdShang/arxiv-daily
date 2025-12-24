@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WeChat-YATT: A Scalable, Simple, Efficient, and Production Ready Training Library
+title: "WeChat-YATT: A Scalable, Simple, Efficient, and Production Ready Training Library"
 ---
 
 # WeChat-YATT: A Scalable, Simple, Efficient, and Production Ready Training Library

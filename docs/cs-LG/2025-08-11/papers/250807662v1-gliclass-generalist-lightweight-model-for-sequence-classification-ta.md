@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GLiClass: Generalist Lightweight Model for Sequence Classification Tasks
+title: "GLiClass: Generalist Lightweight Model for Sequence Classification Tasks"
 ---
 
 # GLiClass: Generalist Lightweight Model for Sequence Classification Tasks

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StolenLoRA: Exploring LoRA Extraction Attacks via Synthetic Data
+title: "StolenLoRA: Exploring LoRA Extraction Attacks via Synthetic Data"
 ---
 
 # StolenLoRA: Exploring LoRA Extraction Attacks via Synthetic Data

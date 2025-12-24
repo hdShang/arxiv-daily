@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PRPO: Paragraph-level Policy Optimization for Vision-Language Deepfake Detection
+title: "PRPO: Paragraph-level Policy Optimization for Vision-Language Deepfake Detection"
 ---
 
 # PRPO: Paragraph-level Policy Optimization for Vision-Language Deepfake Detection

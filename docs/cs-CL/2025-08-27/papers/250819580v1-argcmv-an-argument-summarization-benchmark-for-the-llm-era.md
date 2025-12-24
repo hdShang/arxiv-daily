@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ArgCMV: An Argument Summarization Benchmark for the LLM-era
+title: "ArgCMV: An Argument Summarization Benchmark for the LLM-era"
 ---
 
 # ArgCMV: An Argument Summarization Benchmark for the LLM-era

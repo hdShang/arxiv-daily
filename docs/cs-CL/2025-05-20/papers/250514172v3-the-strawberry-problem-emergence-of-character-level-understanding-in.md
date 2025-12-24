@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Strawberry Problem: Emergence of Character-level Understanding in Tokenized Language Models
+title: "The Strawberry Problem: Emergence of Character-level Understanding in Tokenized Language Models"
 ---
 
 # The Strawberry Problem: Emergence of Character-level Understanding in Tokenized Language Models

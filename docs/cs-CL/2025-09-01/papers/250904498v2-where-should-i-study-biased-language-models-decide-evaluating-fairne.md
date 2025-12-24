@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Where Should I Study? Biased Language Models Decide! Evaluating Fairness in LMs for Academic Recommendations
+title: "Where Should I Study? Biased Language Models Decide! Evaluating Fairness in LMs for Academic Recommendations"
 ---
 
 # Where Should I Study? Biased Language Models Decide! Evaluating Fairness in LMs for Academic Recommendations

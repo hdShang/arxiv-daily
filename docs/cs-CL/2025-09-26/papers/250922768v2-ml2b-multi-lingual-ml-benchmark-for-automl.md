@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ML2B: Multi-Lingual ML Benchmark For AutoML
+title: "ML2B: Multi-Lingual ML Benchmark For AutoML"
 ---
 
 # ML2B: Multi-Lingual ML Benchmark For AutoML

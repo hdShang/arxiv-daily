@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CHRONOBERG: Capturing Language Evolution and Temporal Awareness in Foundation Models
+title: "CHRONOBERG: Capturing Language Evolution and Temporal Awareness in Foundation Models"
 ---
 
 # CHRONOBERG: Capturing Language Evolution and Temporal Awareness in Foundation Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoSPlan: Corrective Sequential Planning via Scene Graph Incremental Updates
+title: "CoSPlan: Corrective Sequential Planning via Scene Graph Incremental Updates"
 ---
 
 # CoSPlan: Corrective Sequential Planning via Scene Graph Incremental Updates

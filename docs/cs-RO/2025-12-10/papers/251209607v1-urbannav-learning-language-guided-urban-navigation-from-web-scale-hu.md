@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UrbanNav: Learning Language-Guided Urban Navigation from Web-Scale Human Trajectories
+title: "UrbanNav: Learning Language-Guided Urban Navigation from Web-Scale Human Trajectories"
 ---
 
 # UrbanNav: Learning Language-Guided Urban Navigation from Web-Scale Human Trajectories

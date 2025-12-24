@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SMAP: Self-supervised Motion Adaptation for Physically Plausible Humanoid Whole-body Control
+title: "SMAP: Self-supervised Motion Adaptation for Physically Plausible Humanoid Whole-body Control"
 ---
 
 # SMAP: Self-supervised Motion Adaptation for Physically Plausible Humanoid Whole-body Control

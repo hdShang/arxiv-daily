@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Eye of Judgement: Dissecting the Evaluation of Russian-speaking LLMs with POLLUX
+title: "Eye of Judgement: Dissecting the Evaluation of Russian-speaking LLMs with POLLUX"
 ---
 
 # Eye of Judgement: Dissecting the Evaluation of Russian-speaking LLMs with POLLUX

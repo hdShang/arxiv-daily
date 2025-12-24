@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CAMS: A CityGPT-Powered Agentic Framework for Urban Human Mobility Simulation
+title: "CAMS: A CityGPT-Powered Agentic Framework for Urban Human Mobility Simulation"
 ---
 
 # CAMS: A CityGPT-Powered Agentic Framework for Urban Human Mobility Simulation

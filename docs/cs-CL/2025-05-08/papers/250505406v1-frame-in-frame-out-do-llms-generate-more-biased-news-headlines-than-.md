@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Frame In, Frame Out: Do LLMs Generate More Biased News Headlines than Humans?
+title: "Frame In, Frame Out: Do LLMs Generate More Biased News Headlines than Humans?"
 ---
 
 # Frame In, Frame Out: Do LLMs Generate More Biased News Headlines than Humans?

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scaling Reasoning, Losing Control: Evaluating Instruction Following in Large Reasoning Models
+title: "Scaling Reasoning, Losing Control: Evaluating Instruction Following in Large Reasoning Models"
 ---
 
 # Scaling Reasoning, Losing Control: Evaluating Instruction Following in Large Reasoning Models

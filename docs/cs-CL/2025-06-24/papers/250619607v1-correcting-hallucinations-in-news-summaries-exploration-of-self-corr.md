@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Correcting Hallucinations in News Summaries: Exploration of Self-Correcting LLM Methods with External Knowledge
+title: "Correcting Hallucinations in News Summaries: Exploration of Self-Correcting LLM Methods with External Knowledge"
 ---
 
 # Correcting Hallucinations in News Summaries: Exploration of Self-Correcting LLM Methods with External Knowledge

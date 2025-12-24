@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IGFuse: Interactive 3D Gaussian Scene Reconstruction via Multi-Scans Fusion
+title: "IGFuse: Interactive 3D Gaussian Scene Reconstruction via Multi-Scans Fusion"
 ---
 
 # IGFuse: Interactive 3D Gaussian Scene Reconstruction via Multi-Scans Fusion

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning Straight Flows: Variational Flow Matching for Efficient Generation
+title: "Learning Straight Flows: Variational Flow Matching for Efficient Generation"
 ---
 
 # Learning Straight Flows: Variational Flow Matching for Efficient Generation

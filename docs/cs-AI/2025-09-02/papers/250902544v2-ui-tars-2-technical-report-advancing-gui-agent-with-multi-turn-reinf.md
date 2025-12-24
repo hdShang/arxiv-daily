@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning
+title: "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning"
 ---
 
 # UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning

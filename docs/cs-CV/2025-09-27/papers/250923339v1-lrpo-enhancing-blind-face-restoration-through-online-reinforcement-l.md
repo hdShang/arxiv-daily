@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LRPO: Enhancing Blind Face Restoration through Online Reinforcement Learning
+title: "LRPO: Enhancing Blind Face Restoration through Online Reinforcement Learning"
 ---
 
 # LRPO: Enhancing Blind Face Restoration through Online Reinforcement Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReCoGS: Real-time ReColoring for Gaussian Splatting scenes
+title: "ReCoGS: Real-time ReColoring for Gaussian Splatting scenes"
 ---
 
 # ReCoGS: Real-time ReColoring for Gaussian Splatting scenes

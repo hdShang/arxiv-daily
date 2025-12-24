@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LocoTouch: Learning Dynamic Quadrupedal Transport with Tactile Sensing
+title: "LocoTouch: Learning Dynamic Quadrupedal Transport with Tactile Sensing"
 ---
 
 # LocoTouch: Learning Dynamic Quadrupedal Transport with Tactile Sensing

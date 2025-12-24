@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoralCLIP: Contrastive Alignment of Vision-and-Language Representations with Moral Foundations Theory
+title: "MoralCLIP: Contrastive Alignment of Vision-and-Language Representations with Moral Foundations Theory"
 ---
 
 # MoralCLIP: Contrastive Alignment of Vision-and-Language Representations with Moral Foundations Theory

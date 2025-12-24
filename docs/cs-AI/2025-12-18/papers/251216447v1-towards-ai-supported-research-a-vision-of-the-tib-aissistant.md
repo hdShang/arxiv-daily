@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards AI-Supported Research: a Vision of the TIB AIssistant
+title: "Towards AI-Supported Research: a Vision of the TIB AIssistant"
 ---
 
 # Towards AI-Supported Research: a Vision of the TIB AIssistant

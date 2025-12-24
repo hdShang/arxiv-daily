@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Visual Iconicity Challenge: Evaluating Vision-Language Models on Sign Language Form-Meaning Mapping
+title: "The Visual Iconicity Challenge: Evaluating Vision-Language Models on Sign Language Form-Meaning Mapping"
 ---
 
 # The Visual Iconicity Challenge: Evaluating Vision-Language Models on Sign Language Form-Meaning Mapping

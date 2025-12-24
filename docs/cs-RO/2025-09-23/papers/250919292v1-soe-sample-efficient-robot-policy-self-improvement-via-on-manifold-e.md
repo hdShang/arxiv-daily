@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SOE: Sample-Efficient Robot Policy Self-Improvement via On-Manifold Exploration
+title: "SOE: Sample-Efficient Robot Policy Self-Improvement via On-Manifold Exploration"
 ---
 
 # SOE: Sample-Efficient Robot Policy Self-Improvement via On-Manifold Exploration

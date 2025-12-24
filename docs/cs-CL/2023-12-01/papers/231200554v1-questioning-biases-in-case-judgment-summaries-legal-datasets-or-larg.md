@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Questioning Biases in Case Judgment Summaries: Legal Datasets or Large Language Models?
+title: "Questioning Biases in Case Judgment Summaries: Legal Datasets or Large Language Models?"
 ---
 
 # Questioning Biases in Case Judgment Summaries: Legal Datasets or Large Language Models?

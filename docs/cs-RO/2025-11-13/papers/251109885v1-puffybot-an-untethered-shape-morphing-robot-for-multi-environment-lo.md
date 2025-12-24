@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PuffyBot: An Untethered Shape Morphing Robot for Multi-environment Locomotion
+title: "PuffyBot: An Untethered Shape Morphing Robot for Multi-environment Locomotion"
 ---
 
 # PuffyBot: An Untethered Shape Morphing Robot for Multi-environment Locomotion

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MIDAS: Misalignment-based Data Augmentation Strategy for Imbalanced Multimodal Learning
+title: "MIDAS: Misalignment-based Data Augmentation Strategy for Imbalanced Multimodal Learning"
 ---
 
 # MIDAS: Misalignment-based Data Augmentation Strategy for Imbalanced Multimodal Learning

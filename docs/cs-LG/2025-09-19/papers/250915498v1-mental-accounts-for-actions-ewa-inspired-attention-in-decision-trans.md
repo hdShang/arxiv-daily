@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mental Accounts for Actions: EWA-Inspired Attention in Decision Transformers
+title: "Mental Accounts for Actions: EWA-Inspired Attention in Decision Transformers"
 ---
 
 # Mental Accounts for Actions: EWA-Inspired Attention in Decision Transformers

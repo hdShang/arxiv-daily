@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SwingArena: Competitive Programming Arena for Long-context GitHub Issue Solving
+title: "SwingArena: Competitive Programming Arena for Long-context GitHub Issue Solving"
 ---
 
 # SwingArena: Competitive Programming Arena for Long-context GitHub Issue Solving

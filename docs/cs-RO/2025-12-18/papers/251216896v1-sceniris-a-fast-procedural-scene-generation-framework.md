@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sceniris: A Fast Procedural Scene Generation Framework
+title: "Sceniris: A Fast Procedural Scene Generation Framework"
 ---
 
 # Sceniris: A Fast Procedural Scene Generation Framework

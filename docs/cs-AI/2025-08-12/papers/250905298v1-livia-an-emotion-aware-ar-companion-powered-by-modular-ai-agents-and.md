@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Livia: An Emotion-Aware AR Companion Powered by Modular AI Agents and Progressive Memory Compression
+title: "Livia: An Emotion-Aware AR Companion Powered by Modular AI Agents and Progressive Memory Compression"
 ---
 
 # Livia: An Emotion-Aware AR Companion Powered by Modular AI Agents and Progressive Memory Compression

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Survey of Foundation Models for IoT: Taxonomy and Criteria-Based Analysis
+title: "A Survey of Foundation Models for IoT: Taxonomy and Criteria-Based Analysis"
 ---
 
 # A Survey of Foundation Models for IoT: Taxonomy and Criteria-Based Analysis

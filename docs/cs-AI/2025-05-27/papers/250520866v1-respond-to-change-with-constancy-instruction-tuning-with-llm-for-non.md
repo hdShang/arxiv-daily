@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Respond to Change with Constancy: Instruction-tuning with LLM for Non-I.I.D. Network Traffic Classification
+title: "Respond to Change with Constancy: Instruction-tuning with LLM for Non-I.I.D. Network Traffic Classification"
 ---
 
 # Respond to Change with Constancy: Instruction-tuning with LLM for Non-I.I.D. Network Traffic Classification

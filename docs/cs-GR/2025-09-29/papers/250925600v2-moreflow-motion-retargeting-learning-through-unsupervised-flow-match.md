@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoReFlow: Motion Retargeting Learning through Unsupervised Flow Matching
+title: "MoReFlow: Motion Retargeting Learning through Unsupervised Flow Matching"
 ---
 
 # MoReFlow: Motion Retargeting Learning through Unsupervised Flow Matching

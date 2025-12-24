@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Development of a Testbed for Autonomous Vehicles: Integrating MPC Control with Monocular Camera Lane Detection
+title: "Development of a Testbed for Autonomous Vehicles: Integrating MPC Control with Monocular Camera Lane Detection"
 ---
 
 # Development of a Testbed for Autonomous Vehicles: Integrating MPC Control with Monocular Camera Lane Detection

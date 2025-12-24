@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Parts-Mamba: Augmenting Joint Context with Part-Level Scanning for Occluded Human Skeleton
+title: "Parts-Mamba: Augmenting Joint Context with Part-Level Scanning for Occluded Human Skeleton"
 ---
 
 # Parts-Mamba: Augmenting Joint Context with Part-Level Scanning for Occluded Human Skeleton

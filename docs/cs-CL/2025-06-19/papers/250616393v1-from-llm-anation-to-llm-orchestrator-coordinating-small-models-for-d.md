@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From LLM-anation to LLM-orchestrator: Coordinating Small Models for Data Labeling
+title: "From LLM-anation to LLM-orchestrator: Coordinating Small Models for Data Labeling"
 ---
 
 # From LLM-anation to LLM-orchestrator: Coordinating Small Models for Data Labeling

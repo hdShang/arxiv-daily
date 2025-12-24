@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DEL: Dense Event Localization for Multi-modal Audio-Visual Understanding
+title: "DEL: Dense Event Localization for Multi-modal Audio-Visual Understanding"
 ---
 
 # DEL: Dense Event Localization for Multi-modal Audio-Visual Understanding

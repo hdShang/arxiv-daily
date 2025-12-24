@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IDEAlign: Comparing Large Language Models to Human Experts in Open-ended Interpretive Annotations
+title: "IDEAlign: Comparing Large Language Models to Human Experts in Open-ended Interpretive Annotations"
 ---
 
 # IDEAlign: Comparing Large Language Models to Human Experts in Open-ended Interpretive Annotations

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Raindrop GS: A Benchmark for 3D Gaussian Splatting under Raindrop Conditions
+title: "Raindrop GS: A Benchmark for 3D Gaussian Splatting under Raindrop Conditions"
 ---
 
 # Raindrop GS: A Benchmark for 3D Gaussian Splatting under Raindrop Conditions

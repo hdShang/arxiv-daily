@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows
+title: "OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows"
 ---
 
 # OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows

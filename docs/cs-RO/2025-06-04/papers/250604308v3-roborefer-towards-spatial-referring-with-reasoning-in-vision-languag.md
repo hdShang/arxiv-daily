@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics
+title: "RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics"
 ---
 
 # RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics

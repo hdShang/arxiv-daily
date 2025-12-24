@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Performance Guaranteed Poisoning Attacks in Federated Learning: A Sliding Mode Approach
+title: "Performance Guaranteed Poisoning Attacks in Federated Learning: A Sliding Mode Approach"
 ---
 
 # Performance Guaranteed Poisoning Attacks in Federated Learning: A Sliding Mode Approach

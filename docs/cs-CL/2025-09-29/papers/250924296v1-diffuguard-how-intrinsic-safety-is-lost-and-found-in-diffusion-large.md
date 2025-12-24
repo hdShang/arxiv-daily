@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DiffuGuard: How Intrinsic Safety is Lost and Found in Diffusion Large Language Models
+title: "DiffuGuard: How Intrinsic Safety is Lost and Found in Diffusion Large Language Models"
 ---
 
 # DiffuGuard: How Intrinsic Safety is Lost and Found in Diffusion Large Language Models

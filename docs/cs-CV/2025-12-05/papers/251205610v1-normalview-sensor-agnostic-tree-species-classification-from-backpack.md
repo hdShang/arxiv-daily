@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NormalView: sensor-agnostic tree species classification from backpack and aerial lidar data using geometric projections
+title: "NormalView: sensor-agnostic tree species classification from backpack and aerial lidar data using geometric projections"
 ---
 
 # NormalView: sensor-agnostic tree species classification from backpack and aerial lidar data using geometric projections

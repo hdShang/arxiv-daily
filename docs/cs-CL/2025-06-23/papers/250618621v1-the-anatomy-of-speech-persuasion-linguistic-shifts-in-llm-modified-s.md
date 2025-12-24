@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Anatomy of Speech Persuasion: Linguistic Shifts in LLM-Modified Speeches
+title: "The Anatomy of Speech Persuasion: Linguistic Shifts in LLM-Modified Speeches"
 ---
 
 # The Anatomy of Speech Persuasion: Linguistic Shifts in LLM-Modified Speeches

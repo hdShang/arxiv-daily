@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniAPO: Unified Multimodal Automated Prompt Optimization
+title: "UniAPO: Unified Multimodal Automated Prompt Optimization"
 ---
 
 # UniAPO: Unified Multimodal Automated Prompt Optimization

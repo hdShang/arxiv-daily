@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Can LLMs Reason About Trust?: A Pilot Study
+title: "Can LLMs Reason About Trust?: A Pilot Study"
 ---
 
 # Can LLMs Reason About Trust?: A Pilot Study

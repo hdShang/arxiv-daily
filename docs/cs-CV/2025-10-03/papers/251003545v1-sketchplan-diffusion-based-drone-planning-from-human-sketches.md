@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SketchPlan: Diffusion Based Drone Planning From Human Sketches
+title: "SketchPlan: Diffusion Based Drone Planning From Human Sketches"
 ---
 
 # SketchPlan: Diffusion Based Drone Planning From Human Sketches

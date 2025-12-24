@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MPCM-Net: Multi-scale network integrates partial attention convolution with Mamba for ground-based cloud image segmentation
+title: "MPCM-Net: Multi-scale network integrates partial attention convolution with Mamba for ground-based cloud image segmentation"
 ---
 
 # MPCM-Net: Multi-scale network integrates partial attention convolution with Mamba for ground-based cloud image segmentation

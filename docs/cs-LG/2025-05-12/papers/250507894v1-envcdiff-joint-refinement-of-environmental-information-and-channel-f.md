@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EnvCDiff: Joint Refinement of Environmental Information and Channel Fingerprints via Conditional Generative Diffusion Model
+title: "EnvCDiff: Joint Refinement of Environmental Information and Channel Fingerprints via Conditional Generative Diffusion Model"
 ---
 
 # EnvCDiff: Joint Refinement of Environmental Information and Channel Fingerprints via Conditional Generative Diffusion Model

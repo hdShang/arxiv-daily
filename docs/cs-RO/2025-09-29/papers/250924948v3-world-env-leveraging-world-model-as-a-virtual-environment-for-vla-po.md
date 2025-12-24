@@ -1,6 +1,6 @@
 ---
 layout: default
-title: World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training
+title: "World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training"
 ---
 
 # World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BioCLIP 2: Emergent Properties from Scaling Hierarchical Contrastive Learning
+title: "BioCLIP 2: Emergent Properties from Scaling Hierarchical Contrastive Learning"
 ---
 
 # BioCLIP 2: Emergent Properties from Scaling Hierarchical Contrastive Learning

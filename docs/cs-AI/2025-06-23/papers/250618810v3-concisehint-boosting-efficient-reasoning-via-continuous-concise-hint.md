@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ConciseHint: Boosting Efficient Reasoning via Continuous Concise Hints during Generation
+title: "ConciseHint: Boosting Efficient Reasoning via Continuous Concise Hints during Generation"
 ---
 
 # ConciseHint: Boosting Efficient Reasoning via Continuous Concise Hints during Generation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReSplat: Learning Recurrent Gaussian Splats
+title: "ReSplat: Learning Recurrent Gaussian Splats"
 ---
 
 # ReSplat: Learning Recurrent Gaussian Splats

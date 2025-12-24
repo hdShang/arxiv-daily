@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent
+title: "BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent"
 ---
 
 # BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent

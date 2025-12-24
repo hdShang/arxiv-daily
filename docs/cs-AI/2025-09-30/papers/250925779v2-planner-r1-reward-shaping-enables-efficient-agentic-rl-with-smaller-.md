@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Planner-R1: Reward Shaping Enables Efficient Agentic RL with Smaller LLMs
+title: "Planner-R1: Reward Shaping Enables Efficient Agentic RL with Smaller LLMs"
 ---
 
 # Planner-R1: Reward Shaping Enables Efficient Agentic RL with Smaller LLMs

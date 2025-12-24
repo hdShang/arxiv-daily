@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gaussian Herding across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS
+title: "Gaussian Herding across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS"
 ---
 
 # Gaussian Herding across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MienCap: Realtime Performance-Based Facial Animation with Live Mood Dynamics
+title: "MienCap: Realtime Performance-Based Facial Animation with Live Mood Dynamics"
 ---
 
 # MienCap: Realtime Performance-Based Facial Animation with Live Mood Dynamics

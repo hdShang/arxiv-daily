@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FoodSEM: Large Language Model Specialized in Food Named-Entity Linking
+title: "FoodSEM: Large Language Model Specialized in Food Named-Entity Linking"
 ---
 
 # FoodSEM: Large Language Model Specialized in Food Named-Entity Linking

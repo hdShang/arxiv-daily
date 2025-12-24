@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboScape-R: Unified Reward-Observation World Models for Generalizable Robotics Training via RL
+title: "RoboScape-R: Unified Reward-Observation World Models for Generalizable Robotics Training via RL"
 ---
 
 # RoboScape-R: Unified Reward-Observation World Models for Generalizable Robotics Training via RL

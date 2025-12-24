@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mind Meets Space: Rethinking Agentic Spatial Intelligence from a Neuroscience-inspired Perspective
+title: "Mind Meets Space: Rethinking Agentic Spatial Intelligence from a Neuroscience-inspired Perspective"
 ---
 
 # Mind Meets Space: Rethinking Agentic Spatial Intelligence from a Neuroscience-inspired Perspective

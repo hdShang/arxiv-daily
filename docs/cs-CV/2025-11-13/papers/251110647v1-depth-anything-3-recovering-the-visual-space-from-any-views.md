@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Depth Anything 3: Recovering the Visual Space from Any Views
+title: "Depth Anything 3: Recovering the Visual Space from Any Views"
 ---
 
 # Depth Anything 3: Recovering the Visual Space from Any Views

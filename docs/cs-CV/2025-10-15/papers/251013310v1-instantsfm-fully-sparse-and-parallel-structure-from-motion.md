@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InstantSfM: Fully Sparse and Parallel Structure-from-Motion
+title: "InstantSfM: Fully Sparse and Parallel Structure-from-Motion"
 ---
 
 # InstantSfM: Fully Sparse and Parallel Structure-from-Motion

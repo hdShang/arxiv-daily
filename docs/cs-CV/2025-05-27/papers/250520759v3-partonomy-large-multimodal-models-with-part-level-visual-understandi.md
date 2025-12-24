@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding
+title: "PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding"
 ---
 
 # PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding

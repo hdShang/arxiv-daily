@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MIR: Methodology Inspiration Retrieval for Scientific Research Problems
+title: "MIR: Methodology Inspiration Retrieval for Scientific Research Problems"
 ---
 
 # MIR: Methodology Inspiration Retrieval for Scientific Research Problems

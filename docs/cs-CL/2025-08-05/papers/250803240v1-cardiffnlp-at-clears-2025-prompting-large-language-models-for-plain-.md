@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CardiffNLP at CLEARS-2025: Prompting Large Language Models for Plain Language and Easy-to-Read Text Rewriting
+title: "CardiffNLP at CLEARS-2025: Prompting Large Language Models for Plain Language and Easy-to-Read Text Rewriting"
 ---
 
 # CardiffNLP at CLEARS-2025: Prompting Large Language Models for Plain Language and Easy-to-Read Text Rewriting

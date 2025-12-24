@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Optimizing RAG Pipelines for Arabic: A Systematic Analysis of Core Components
+title: "Optimizing RAG Pipelines for Arabic: A Systematic Analysis of Core Components"
 ---
 
 # Optimizing RAG Pipelines for Arabic: A Systematic Analysis of Core Components

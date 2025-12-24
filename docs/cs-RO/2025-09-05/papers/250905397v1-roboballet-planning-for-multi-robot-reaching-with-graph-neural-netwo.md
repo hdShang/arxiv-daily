@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboBallet: Planning for Multi-Robot Reaching with Graph Neural Networks and Reinforcement Learning
+title: "RoboBallet: Planning for Multi-Robot Reaching with Graph Neural Networks and Reinforcement Learning"
 ---
 
 # RoboBallet: Planning for Multi-Robot Reaching with Graph Neural Networks and Reinforcement Learning

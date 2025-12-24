@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ask-to-Clarify: Resolving Instruction Ambiguity through Multi-turn Dialogue
+title: "Ask-to-Clarify: Resolving Instruction Ambiguity through Multi-turn Dialogue"
 ---
 
 # Ask-to-Clarify: Resolving Instruction Ambiguity through Multi-turn Dialogue

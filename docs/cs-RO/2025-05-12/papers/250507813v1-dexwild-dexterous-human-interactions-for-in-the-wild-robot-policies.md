@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies
+title: "DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies"
 ---
 
 # DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Natural Language-Based Document Image Retrieval: New Dataset and Benchmark
+title: "Towards Natural Language-Based Document Image Retrieval: New Dataset and Benchmark"
 ---
 
 # Towards Natural Language-Based Document Image Retrieval: New Dataset and Benchmark

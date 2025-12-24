@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Intercept Cancer: Cancer Pre-Screening with Large Scale Healthcare Foundation Models
+title: "Intercept Cancer: Cancer Pre-Screening with Large Scale Healthcare Foundation Models"
 ---
 
 # Intercept Cancer: Cancer Pre-Screening with Large Scale Healthcare Foundation Models

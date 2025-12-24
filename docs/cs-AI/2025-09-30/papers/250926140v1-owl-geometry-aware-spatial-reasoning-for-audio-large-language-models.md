@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OWL: Geometry-Aware Spatial Reasoning for Audio Large Language Models
+title: "OWL: Geometry-Aware Spatial Reasoning for Audio Large Language Models"
 ---
 
 # OWL: Geometry-Aware Spatial Reasoning for Audio Large Language Models

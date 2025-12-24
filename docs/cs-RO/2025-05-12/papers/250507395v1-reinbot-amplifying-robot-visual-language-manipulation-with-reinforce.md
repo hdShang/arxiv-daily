@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning
+title: "ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning"
 ---
 
 # ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning

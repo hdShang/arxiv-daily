@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching
+title: "Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching"
 ---
 
 # Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching

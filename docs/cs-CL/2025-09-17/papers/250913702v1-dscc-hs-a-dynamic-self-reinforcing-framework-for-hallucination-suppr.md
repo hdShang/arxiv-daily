@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DSCC-HS: A Dynamic Self-Reinforcing Framework for Hallucination Suppression in Large Language Models
+title: "DSCC-HS: A Dynamic Self-Reinforcing Framework for Hallucination Suppression in Large Language Models"
 ---
 
 # DSCC-HS: A Dynamic Self-Reinforcing Framework for Hallucination Suppression in Large Language Models

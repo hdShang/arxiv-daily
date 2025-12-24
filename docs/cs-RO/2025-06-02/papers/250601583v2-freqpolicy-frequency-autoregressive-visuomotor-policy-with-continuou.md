@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FreqPolicy: Frequency Autoregressive Visuomotor Policy with Continuous Tokens
+title: "FreqPolicy: Frequency Autoregressive Visuomotor Policy with Continuous Tokens"
 ---
 
 # FreqPolicy: Frequency Autoregressive Visuomotor Policy with Continuous Tokens

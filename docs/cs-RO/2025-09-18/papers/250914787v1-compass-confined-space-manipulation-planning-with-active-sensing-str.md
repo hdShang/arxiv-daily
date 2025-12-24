@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COMPASS: Confined-space Manipulation Planning with Active Sensing Strategy
+title: "COMPASS: Confined-space Manipulation Planning with Active Sensing Strategy"
 ---
 
 # COMPASS: Confined-space Manipulation Planning with Active Sensing Strategy

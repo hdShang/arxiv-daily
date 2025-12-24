@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HyperVL: An Efficient and Dynamic Multimodal Large Language Model for Edge Devices
+title: "HyperVL: An Efficient and Dynamic Multimodal Large Language Model for Edge Devices"
 ---
 
 # HyperVL: An Efficient and Dynamic Multimodal Large Language Model for Edge Devices

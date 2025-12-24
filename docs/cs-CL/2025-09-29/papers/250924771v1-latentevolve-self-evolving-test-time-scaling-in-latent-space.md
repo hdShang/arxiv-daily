@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LatentEvolve: Self-Evolving Test-Time Scaling in Latent Space
+title: "LatentEvolve: Self-Evolving Test-Time Scaling in Latent Space"
 ---
 
 # LatentEvolve: Self-Evolving Test-Time Scaling in Latent Space

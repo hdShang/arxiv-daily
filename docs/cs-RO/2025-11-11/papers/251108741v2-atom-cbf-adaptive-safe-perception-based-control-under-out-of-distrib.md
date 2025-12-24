@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ATOM-CBF: Adaptive Safe Perception-Based Control under Out-of-Distribution Measurements
+title: "ATOM-CBF: Adaptive Safe Perception-Based Control under Out-of-Distribution Measurements"
 ---
 
 # ATOM-CBF: Adaptive Safe Perception-Based Control under Out-of-Distribution Measurements

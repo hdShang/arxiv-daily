@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Talking to Robots: A Practical Examination of Speech Foundation Models for HRI Applications
+title: "Talking to Robots: A Practical Examination of Speech Foundation Models for HRI Applications"
 ---
 
 # Talking to Robots: A Practical Examination of Speech Foundation Models for HRI Applications

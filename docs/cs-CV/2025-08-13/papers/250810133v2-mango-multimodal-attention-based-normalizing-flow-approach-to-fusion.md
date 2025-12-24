@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MANGO: Multimodal Attention-based Normalizing Flow Approach to Fusion Learning
+title: "MANGO: Multimodal Attention-based Normalizing Flow Approach to Fusion Learning"
 ---
 
 # MANGO: Multimodal Attention-based Normalizing Flow Approach to Fusion Learning

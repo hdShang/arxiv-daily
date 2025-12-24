@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KeySG: Hierarchical Keyframe-Based 3D Scene Graphs
+title: "KeySG: Hierarchical Keyframe-Based 3D Scene Graphs"
 ---
 
 # KeySG: Hierarchical Keyframe-Based 3D Scene Graphs

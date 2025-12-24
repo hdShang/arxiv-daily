@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Industrial LLM-based Code Optimization under Regulation: A Mixture-of-Agents Approach
+title: "Industrial LLM-based Code Optimization under Regulation: A Mixture-of-Agents Approach"
 ---
 
 # Industrial LLM-based Code Optimization under Regulation: A Mixture-of-Agents Approach

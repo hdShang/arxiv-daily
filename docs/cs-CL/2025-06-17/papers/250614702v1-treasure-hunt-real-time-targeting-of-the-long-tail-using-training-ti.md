@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Treasure Hunt: Real-time Targeting of the Long Tail using Training-Time Markers
+title: "Treasure Hunt: Real-time Targeting of the Long Tail using Training-Time Markers"
 ---
 
 # Treasure Hunt: Real-time Targeting of the Long Tail using Training-Time Markers

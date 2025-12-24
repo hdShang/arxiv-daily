@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MiniMax-Remover: Taming Bad Noise Helps Video Object Removal
+title: "MiniMax-Remover: Taming Bad Noise Helps Video Object Removal"
 ---
 
 # MiniMax-Remover: Taming Bad Noise Helps Video Object Removal

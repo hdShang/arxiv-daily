@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EfficientDepth: A Fast and Detail-Preserving Monocular Depth Estimation Model
+title: "EfficientDepth: A Fast and Detail-Preserving Monocular Depth Estimation Model"
 ---
 
 # EfficientDepth: A Fast and Detail-Preserving Monocular Depth Estimation Model

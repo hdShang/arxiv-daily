@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Generalizing Beyond Suboptimality: Offline Reinforcement Learning Learns Effective Scheduling through Random Data
+title: "Generalizing Beyond Suboptimality: Offline Reinforcement Learning Learns Effective Scheduling through Random Data"
 ---
 
 # Generalizing Beyond Suboptimality: Offline Reinforcement Learning Learns Effective Scheduling through Random Data

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bridging Perception and Planning: Towards End-to-End Planning for Signal Temporal Logic Tasks
+title: "Bridging Perception and Planning: Towards End-to-End Planning for Signal Temporal Logic Tasks"
 ---
 
 # Bridging Perception and Planning: Towards End-to-End Planning for Signal Temporal Logic Tasks

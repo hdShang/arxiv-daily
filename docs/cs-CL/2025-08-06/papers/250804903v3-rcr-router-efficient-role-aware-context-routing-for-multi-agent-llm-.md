@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RCR-Router: Efficient Role-Aware Context Routing for Multi-Agent LLM Systems with Structured Memory
+title: "RCR-Router: Efficient Role-Aware Context Routing for Multi-Agent LLM Systems with Structured Memory"
 ---
 
 # RCR-Router: Efficient Role-Aware Context Routing for Multi-Agent LLM Systems with Structured Memory

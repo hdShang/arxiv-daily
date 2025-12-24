@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AmbiGraph-Eval: Can LLMs Effectively Handle Ambiguous Graph Queries?
+title: "AmbiGraph-Eval: Can LLMs Effectively Handle Ambiguous Graph Queries?"
 ---
 
 # AmbiGraph-Eval: Can LLMs Effectively Handle Ambiguous Graph Queries?

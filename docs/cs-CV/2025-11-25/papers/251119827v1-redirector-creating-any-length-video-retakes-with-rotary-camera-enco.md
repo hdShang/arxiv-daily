@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReDirector: Creating Any-Length Video Retakes with Rotary Camera Encoding
+title: "ReDirector: Creating Any-Length Video Retakes with Rotary Camera Encoding"
 ---
 
 # ReDirector: Creating Any-Length Video Retakes with Rotary Camera Encoding

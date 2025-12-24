@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeX-Portrait: Disentangled and Expressive Portrait Animation via Explicit and Latent Motion Representations
+title: "DeX-Portrait: Disentangled and Expressive Portrait Animation via Explicit and Latent Motion Representations"
 ---
 
 # DeX-Portrait: Disentangled and Expressive Portrait Animation via Explicit and Latent Motion Representations

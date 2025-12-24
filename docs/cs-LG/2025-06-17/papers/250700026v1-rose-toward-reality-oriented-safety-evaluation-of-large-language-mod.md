@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ROSE: Toward Reality-Oriented Safety Evaluation of Large Language Models
+title: "ROSE: Toward Reality-Oriented Safety Evaluation of Large Language Models"
 ---
 
 # ROSE: Toward Reality-Oriented Safety Evaluation of Large Language Models

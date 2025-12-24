@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TeleMath: A Benchmark for Large Language Models in Telecom Mathematical Problem Solving
+title: "TeleMath: A Benchmark for Large Language Models in Telecom Mathematical Problem Solving"
 ---
 
 # TeleMath: A Benchmark for Large Language Models in Telecom Mathematical Problem Solving

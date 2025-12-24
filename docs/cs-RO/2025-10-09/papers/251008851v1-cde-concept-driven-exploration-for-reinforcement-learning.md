@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CDE: Concept-Driven Exploration for Reinforcement Learning
+title: "CDE: Concept-Driven Exploration for Reinforcement Learning"
 ---
 
 # CDE: Concept-Driven Exploration for Reinforcement Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RIVAL: Reinforcement Learning with Iterative and Adversarial Optimization for Machine Translation
+title: "RIVAL: Reinforcement Learning with Iterative and Adversarial Optimization for Machine Translation"
 ---
 
 # RIVAL: Reinforcement Learning with Iterative and Adversarial Optimization for Machine Translation

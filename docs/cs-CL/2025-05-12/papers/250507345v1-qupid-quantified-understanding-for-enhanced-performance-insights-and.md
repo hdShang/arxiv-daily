@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QUPID: Quantified Understanding for Enhanced Performance, Insights, and Decisions in Korean Search Engines
+title: "QUPID: Quantified Understanding for Enhanced Performance, Insights, and Decisions in Korean Search Engines"
 ---
 
 # QUPID: Quantified Understanding for Enhanced Performance, Insights, and Decisions in Korean Search Engines

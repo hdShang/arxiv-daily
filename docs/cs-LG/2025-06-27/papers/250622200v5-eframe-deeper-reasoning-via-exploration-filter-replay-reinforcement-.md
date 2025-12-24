@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EFRame: Deeper Reasoning via Exploration-Filter-Replay Reinforcement Learning Framework
+title: "EFRame: Deeper Reasoning via Exploration-Filter-Replay Reinforcement Learning Framework"
 ---
 
 # EFRame: Deeper Reasoning via Exploration-Filter-Replay Reinforcement Learning Framework

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniVLA: An Omni-Modal Vision-Language-Action Model for Robot Navigation
+title: "OmniVLA: An Omni-Modal Vision-Language-Action Model for Robot Navigation"
 ---
 
 # OmniVLA: An Omni-Modal Vision-Language-Action Model for Robot Navigation

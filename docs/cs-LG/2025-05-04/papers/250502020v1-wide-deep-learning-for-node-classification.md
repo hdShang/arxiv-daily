@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wide & Deep Learning for Node Classification
+title: "Wide & Deep Learning for Node Classification"
 ---
 
 # Wide & Deep Learning for Node Classification

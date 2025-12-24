@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Touch2Shape: Touch-Conditioned 3D Diffusion for Shape Exploration and Reconstruction
+title: "Touch2Shape: Touch-Conditioned 3D Diffusion for Shape Exploration and Reconstruction"
 ---
 
 # Touch2Shape: Touch-Conditioned 3D Diffusion for Shape Exploration and Reconstruction

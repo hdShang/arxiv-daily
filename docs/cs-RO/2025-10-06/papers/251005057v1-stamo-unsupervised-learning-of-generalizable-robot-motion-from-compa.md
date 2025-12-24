@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StaMo: Unsupervised Learning of Generalizable Robot Motion from Compact State Representation
+title: "StaMo: Unsupervised Learning of Generalizable Robot Motion from Compact State Representation"
 ---
 
 # StaMo: Unsupervised Learning of Generalizable Robot Motion from Compact State Representation

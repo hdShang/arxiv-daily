@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SAMVAD: A Multi-Agent System for Simulating Judicial Deliberation Dynamics in India
+title: "SAMVAD: A Multi-Agent System for Simulating Judicial Deliberation Dynamics in India"
 ---
 
 # SAMVAD: A Multi-Agent System for Simulating Judicial Deliberation Dynamics in India

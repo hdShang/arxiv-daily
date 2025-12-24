@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Score the Steps, Not Just the Goal: VLM-Based Subgoal Evaluation for Robotic Manipulation
+title: "Score the Steps, Not Just the Goal: VLM-Based Subgoal Evaluation for Robotic Manipulation"
 ---
 
 # Score the Steps, Not Just the Goal: VLM-Based Subgoal Evaluation for Robotic Manipulation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SeViCES: Unifying Semantic-Visual Evidence Consensus for Long Video Understanding
+title: "SeViCES: Unifying Semantic-Visual Evidence Consensus for Long Video Understanding"
 ---
 
 # SeViCES: Unifying Semantic-Visual Evidence Consensus for Long Video Understanding

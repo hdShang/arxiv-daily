@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TTRV: Test-Time Reinforcement Learning for Vision Language Models
+title: "TTRV: Test-Time Reinforcement Learning for Vision Language Models"
 ---
 
 # TTRV: Test-Time Reinforcement Learning for Vision Language Models

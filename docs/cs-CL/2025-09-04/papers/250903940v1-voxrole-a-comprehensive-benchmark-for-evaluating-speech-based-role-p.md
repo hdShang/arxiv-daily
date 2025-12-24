@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VoxRole: A Comprehensive Benchmark for Evaluating Speech-Based Role-Playing Agents
+title: "VoxRole: A Comprehensive Benchmark for Evaluating Speech-Based Role-Playing Agents"
 ---
 
 # VoxRole: A Comprehensive Benchmark for Evaluating Speech-Based Role-Playing Agents

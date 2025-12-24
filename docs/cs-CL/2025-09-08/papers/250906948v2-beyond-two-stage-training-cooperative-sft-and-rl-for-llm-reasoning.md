@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning
+title: "Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning"
 ---
 
 # Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning

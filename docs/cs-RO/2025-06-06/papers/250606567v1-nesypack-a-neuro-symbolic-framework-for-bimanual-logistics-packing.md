@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NeSyPack: A Neuro-Symbolic Framework for Bimanual Logistics Packing
+title: "NeSyPack: A Neuro-Symbolic Framework for Bimanual Logistics Packing"
 ---
 
 # NeSyPack: A Neuro-Symbolic Framework for Bimanual Logistics Packing

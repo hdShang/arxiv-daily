@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SLAG: Scalable Language-Augmented Gaussian Splatting
+title: "SLAG: Scalable Language-Augmented Gaussian Splatting"
 ---
 
 # SLAG: Scalable Language-Augmented Gaussian Splatting

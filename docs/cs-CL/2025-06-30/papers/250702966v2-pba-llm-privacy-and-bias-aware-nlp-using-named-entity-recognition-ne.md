@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PBa-LLM: Privacy- and Bias-aware NLP using Named-Entity Recognition (NER)
+title: "PBa-LLM: Privacy- and Bias-aware NLP using Named-Entity Recognition (NER)"
 ---
 
 # PBa-LLM: Privacy- and Bias-aware NLP using Named-Entity Recognition (NER)

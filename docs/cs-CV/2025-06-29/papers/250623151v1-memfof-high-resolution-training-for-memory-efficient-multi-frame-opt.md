@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MEMFOF: High-Resolution Training for Memory-Efficient Multi-Frame Optical Flow Estimation
+title: "MEMFOF: High-Resolution Training for Memory-Efficient Multi-Frame Optical Flow Estimation"
 ---
 
 # MEMFOF: High-Resolution Training for Memory-Efficient Multi-Frame Optical Flow Estimation

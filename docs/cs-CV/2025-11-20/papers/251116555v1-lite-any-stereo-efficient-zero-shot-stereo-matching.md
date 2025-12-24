@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lite Any Stereo: Efficient Zero-Shot Stereo Matching
+title: "Lite Any Stereo: Efficient Zero-Shot Stereo Matching"
 ---
 
 # Lite Any Stereo: Efficient Zero-Shot Stereo Matching

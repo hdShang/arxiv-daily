@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DORA: Object Affordance-Guided Reinforcement Learning for Dexterous Robotic Manipulation
+title: "DORA: Object Affordance-Guided Reinforcement Learning for Dexterous Robotic Manipulation"
 ---
 
 # DORA: Object Affordance-Guided Reinforcement Learning for Dexterous Robotic Manipulation

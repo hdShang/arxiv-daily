@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction
+title: "RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction"
 ---
 
 # RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction

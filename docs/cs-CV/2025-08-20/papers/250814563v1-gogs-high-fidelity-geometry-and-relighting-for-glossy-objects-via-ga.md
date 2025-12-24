@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GOGS: High-Fidelity Geometry and Relighting for Glossy Objects via Gaussian Surfels
+title: "GOGS: High-Fidelity Geometry and Relighting for Glossy Objects via Gaussian Surfels"
 ---
 
 # GOGS: High-Fidelity Geometry and Relighting for Glossy Objects via Gaussian Surfels

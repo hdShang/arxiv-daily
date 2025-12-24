@@ -1,6 +1,6 @@
 ---
 layout: default
-title: USAD: Universal Speech and Audio Representation via Distillation
+title: "USAD: Universal Speech and Audio Representation via Distillation"
 ---
 
 # USAD: Universal Speech and Audio Representation via Distillation

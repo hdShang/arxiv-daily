@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GSsplat: Generalizable Semantic Gaussian Splatting for Novel-view Synthesis in 3D Scenes
+title: "GSsplat: Generalizable Semantic Gaussian Splatting for Novel-view Synthesis in 3D Scenes"
 ---
 
 # GSsplat: Generalizable Semantic Gaussian Splatting for Novel-view Synthesis in 3D Scenes

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LaGarNet: Goal-Conditioned Recurrent State-Space Models for Pick-and-Place Garment Flattening
+title: "LaGarNet: Goal-Conditioned Recurrent State-Space Models for Pick-and-Place Garment Flattening"
 ---
 
 # LaGarNet: Goal-Conditioned Recurrent State-Space Models for Pick-and-Place Garment Flattening

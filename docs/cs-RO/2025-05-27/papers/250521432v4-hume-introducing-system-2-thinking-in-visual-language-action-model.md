@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hume: Introducing System-2 Thinking in Visual-Language-Action Model
+title: "Hume: Introducing System-2 Thinking in Visual-Language-Action Model"
 ---
 
 # Hume: Introducing System-2 Thinking in Visual-Language-Action Model

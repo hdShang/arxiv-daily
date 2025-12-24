@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Who is in the Spotlight: The Hidden Bias Undermining Multimodal Retrieval-Augmented Generation
+title: "Who is in the Spotlight: The Hidden Bias Undermining Multimodal Retrieval-Augmented Generation"
 ---
 
 # Who is in the Spotlight: The Hidden Bias Undermining Multimodal Retrieval-Augmented Generation

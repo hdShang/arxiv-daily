@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vector Prism: Animating Vector Graphics by Stratifying Semantic Structure
+title: "Vector Prism: Animating Vector Graphics by Stratifying Semantic Structure"
 ---
 
 # Vector Prism: Animating Vector Graphics by Stratifying Semantic Structure

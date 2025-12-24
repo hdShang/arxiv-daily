@@ -1,6 +1,6 @@
 ---
 layout: default
-title: D2-Mamba: Dual-Scale Fusion and Dual-Path Scanning with SSMs for Shadow Removal
+title: "D2-Mamba: Dual-Scale Fusion and Dual-Path Scanning with SSMs for Shadow Removal"
 ---
 
 # D2-Mamba: Dual-Scale Fusion and Dual-Path Scanning with SSMs for Shadow Removal

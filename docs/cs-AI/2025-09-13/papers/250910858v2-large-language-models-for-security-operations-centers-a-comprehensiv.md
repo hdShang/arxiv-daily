@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Large Language Models for Security Operations Centers: A Comprehensive Survey
+title: "Large Language Models for Security Operations Centers: A Comprehensive Survey"
 ---
 
 # Large Language Models for Security Operations Centers: A Comprehensive Survey

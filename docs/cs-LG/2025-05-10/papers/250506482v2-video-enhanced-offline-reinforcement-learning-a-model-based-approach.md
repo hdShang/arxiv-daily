@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach
+title: "Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach"
 ---
 
 # Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach

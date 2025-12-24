@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DOMR: Establishing Cross-View Segmentation via Dense Object Matching
+title: "DOMR: Establishing Cross-View Segmentation via Dense Object Matching"
 ---
 
 # DOMR: Establishing Cross-View Segmentation via Dense Object Matching

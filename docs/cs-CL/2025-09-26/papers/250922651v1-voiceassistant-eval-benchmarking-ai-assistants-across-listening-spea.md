@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VoiceAssistant-Eval: Benchmarking AI Assistants across Listening, Speaking, and Viewing
+title: "VoiceAssistant-Eval: Benchmarking AI Assistants across Listening, Speaking, and Viewing"
 ---
 
 # VoiceAssistant-Eval: Benchmarking AI Assistants across Listening, Speaking, and Viewing

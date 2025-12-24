@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VolumetricSMPL: A Neural Volumetric Body Model for Efficient Interactions, Contacts, and Collisions
+title: "VolumetricSMPL: A Neural Volumetric Body Model for Efficient Interactions, Contacts, and Collisions"
 ---
 
 # VolumetricSMPL: A Neural Volumetric Body Model for Efficient Interactions, Contacts, and Collisions

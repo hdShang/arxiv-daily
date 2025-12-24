@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BaseReward: A Strong Baseline for Multimodal Reward Model
+title: "BaseReward: A Strong Baseline for Multimodal Reward Model"
 ---
 
 # BaseReward: A Strong Baseline for Multimodal Reward Model

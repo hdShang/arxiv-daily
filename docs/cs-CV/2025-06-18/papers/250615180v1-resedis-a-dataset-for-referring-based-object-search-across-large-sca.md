@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections
+title: "ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections"
 ---
 
 # ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections

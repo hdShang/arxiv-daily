@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time
+title: "PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time"
 ---
 
 # PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time

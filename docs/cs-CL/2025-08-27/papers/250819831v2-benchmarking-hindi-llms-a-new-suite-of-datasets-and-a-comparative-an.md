@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Benchmarking Hindi LLMs: A New Suite of Datasets and a Comparative Analysis
+title: "Benchmarking Hindi LLMs: A New Suite of Datasets and a Comparative Analysis"
 ---
 
 # Benchmarking Hindi LLMs: A New Suite of Datasets and a Comparative Analysis

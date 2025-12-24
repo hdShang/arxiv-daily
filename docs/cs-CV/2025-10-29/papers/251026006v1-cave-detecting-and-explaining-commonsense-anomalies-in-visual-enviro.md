@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CAVE: Detecting and Explaining Commonsense Anomalies in Visual Environments
+title: "CAVE: Detecting and Explaining Commonsense Anomalies in Visual Environments"
 ---
 
 # CAVE: Detecting and Explaining Commonsense Anomalies in Visual Environments

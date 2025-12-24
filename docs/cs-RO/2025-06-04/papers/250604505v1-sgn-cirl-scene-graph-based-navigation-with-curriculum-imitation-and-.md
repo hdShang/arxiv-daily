@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SGN-CIRL: Scene Graph-based Navigation with Curriculum, Imitation, and Reinforcement Learning
+title: "SGN-CIRL: Scene Graph-based Navigation with Curriculum, Imitation, and Reinforcement Learning"
 ---
 
 # SGN-CIRL: Scene Graph-based Navigation with Curriculum, Imitation, and Reinforcement Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Make Your AUV Adaptive: An Environment-Aware Reinforcement Learning Framework For Underwater Tasks
+title: "Make Your AUV Adaptive: An Environment-Aware Reinforcement Learning Framework For Underwater Tasks"
 ---
 
 # Make Your AUV Adaptive: An Environment-Aware Reinforcement Learning Framework For Underwater Tasks

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniToMBench: Integrating Perspective-Taking to Improve Theory of Mind in LLMs
+title: "UniToMBench: Integrating Perspective-Taking to Improve Theory of Mind in LLMs"
 ---
 
 # UniToMBench: Integrating Perspective-Taking to Improve Theory of Mind in LLMs

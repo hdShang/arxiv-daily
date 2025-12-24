@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SPAN: Spatial-Projection Alignment for Monocular 3D Object Detection
+title: "SPAN: Spatial-Projection Alignment for Monocular 3D Object Detection"
 ---
 
 # SPAN: Spatial-Projection Alignment for Monocular 3D Object Detection

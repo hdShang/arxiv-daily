@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Time: Model-free Reinforcement Learning with Timed Reward Machines
+title: "About Time: Model-free Reinforcement Learning with Timed Reward Machines"
 ---
 
 # About Time: Model-free Reinforcement Learning with Timed Reward Machines

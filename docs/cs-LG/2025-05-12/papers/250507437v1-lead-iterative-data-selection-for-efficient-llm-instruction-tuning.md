@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning
+title: "LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning"
 ---
 
 # LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning

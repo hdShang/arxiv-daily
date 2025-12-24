@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoDAE: Adapting Large Language Models for Education via Chain-of-Thought Data Augmentation
+title: "CoDAE: Adapting Large Language Models for Education via Chain-of-Thought Data Augmentation"
 ---
 
 # CoDAE: Adapting Large Language Models for Education via Chain-of-Thought Data Augmentation

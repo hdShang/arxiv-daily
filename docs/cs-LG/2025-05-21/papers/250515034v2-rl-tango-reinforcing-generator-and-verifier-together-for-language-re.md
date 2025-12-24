@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RL Tango: Reinforcing Generator and Verifier Together for Language Reasoning
+title: "RL Tango: Reinforcing Generator and Verifier Together for Language Reasoning"
 ---
 
 # RL Tango: Reinforcing Generator and Verifier Together for Language Reasoning

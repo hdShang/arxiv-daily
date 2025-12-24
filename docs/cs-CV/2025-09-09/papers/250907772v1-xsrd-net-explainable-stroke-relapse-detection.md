@@ -1,6 +1,6 @@
 ---
 layout: default
-title: XSRD-Net: EXplainable Stroke Relapse Detection
+title: "XSRD-Net: EXplainable Stroke Relapse Detection"
 ---
 
 # XSRD-Net: EXplainable Stroke Relapse Detection

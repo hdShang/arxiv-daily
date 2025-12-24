@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Agentic Aerial Cinematography: From Dialogue Cues to Cinematic Trajectories
+title: "Agentic Aerial Cinematography: From Dialogue Cues to Cinematic Trajectories"
 ---
 
 # Agentic Aerial Cinematography: From Dialogue Cues to Cinematic Trajectories

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS
+title: "ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS"
 ---
 
 # ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS

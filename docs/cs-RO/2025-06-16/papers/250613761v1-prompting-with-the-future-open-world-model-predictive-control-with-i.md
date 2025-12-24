@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins
+title: "Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins"
 ---
 
 # Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins

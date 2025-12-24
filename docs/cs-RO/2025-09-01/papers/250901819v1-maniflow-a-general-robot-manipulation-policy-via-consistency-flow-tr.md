@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ManiFlow: A General Robot Manipulation Policy via Consistency Flow Training
+title: "ManiFlow: A General Robot Manipulation Policy via Consistency Flow Training"
 ---
 
 # ManiFlow: A General Robot Manipulation Policy via Consistency Flow Training

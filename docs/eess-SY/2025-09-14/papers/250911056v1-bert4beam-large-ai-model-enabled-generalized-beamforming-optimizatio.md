@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization
+title: "BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization"
 ---
 
 # BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization

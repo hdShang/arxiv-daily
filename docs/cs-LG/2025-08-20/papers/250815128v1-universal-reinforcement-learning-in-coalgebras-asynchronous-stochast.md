@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Universal Reinforcement Learning in Coalgebras: Asynchronous Stochastic Computation via Conduction
+title: "Universal Reinforcement Learning in Coalgebras: Asynchronous Stochastic Computation via Conduction"
 ---
 
 # Universal Reinforcement Learning in Coalgebras: Asynchronous Stochastic Computation via Conduction

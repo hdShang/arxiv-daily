@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniCUE: Unified Recognition and Generation Framework for Chinese Cued Speech Video-to-Speech Generation
+title: "UniCUE: Unified Recognition and Generation Framework for Chinese Cued Speech Video-to-Speech Generation"
 ---
 
 # UniCUE: Unified Recognition and Generation Framework for Chinese Cued Speech Video-to-Speech Generation

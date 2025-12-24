@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PressTrack-HMR: Pressure-Based Top-Down Multi-Person Global Human Mesh Recovery
+title: "PressTrack-HMR: Pressure-Based Top-Down Multi-Person Global Human Mesh Recovery"
 ---
 
 # PressTrack-HMR: Pressure-Based Top-Down Multi-Person Global Human Mesh Recovery

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Immersive Teleoperation of Beyond-Human-Scale Robotic Manipulators: Challenges and Future Directions
+title: "Immersive Teleoperation of Beyond-Human-Scale Robotic Manipulators: Challenges and Future Directions"
 ---
 
 # Immersive Teleoperation of Beyond-Human-Scale Robotic Manipulators: Challenges and Future Directions

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Best of Sim and Real: Decoupled Visuomotor Manipulation via Learning Control in Simulation and Perception in Real
+title: "Best of Sim and Real: Decoupled Visuomotor Manipulation via Learning Control in Simulation and Perception in Real"
 ---
 
 # Best of Sim and Real: Decoupled Visuomotor Manipulation via Learning Control in Simulation and Perception in Real

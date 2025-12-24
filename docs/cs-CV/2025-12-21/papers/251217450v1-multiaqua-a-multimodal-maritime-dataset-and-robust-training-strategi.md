@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MULTIAQUA: A multimodal maritime dataset and robust training strategies for multimodal semantic segmentation
+title: "MULTIAQUA: A multimodal maritime dataset and robust training strategies for multimodal semantic segmentation"
 ---
 
 # MULTIAQUA: A multimodal maritime dataset and robust training strategies for multimodal semantic segmentation

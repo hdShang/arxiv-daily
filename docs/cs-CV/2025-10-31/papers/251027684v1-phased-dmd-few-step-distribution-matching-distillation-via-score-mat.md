@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Phased DMD: Few-step Distribution Matching Distillation via Score Matching within Subintervals
+title: "Phased DMD: Few-step Distribution Matching Distillation via Score Matching within Subintervals"
 ---
 
 # Phased DMD: Few-step Distribution Matching Distillation via Score Matching within Subintervals

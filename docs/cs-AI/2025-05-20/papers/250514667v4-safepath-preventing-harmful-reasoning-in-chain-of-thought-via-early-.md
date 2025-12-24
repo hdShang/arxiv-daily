@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early Alignment
+title: "SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early Alignment"
 ---
 
 # SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early Alignment

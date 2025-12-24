@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VideoVerse: How Far is Your T2V Generator from a World Model?
+title: "VideoVerse: How Far is Your T2V Generator from a World Model?"
 ---
 
 # VideoVerse: How Far is Your T2V Generator from a World Model?

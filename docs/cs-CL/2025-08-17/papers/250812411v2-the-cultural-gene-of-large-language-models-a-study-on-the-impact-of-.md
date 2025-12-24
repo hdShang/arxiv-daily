@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Cultural Gene of Large Language Models: A Study on the Impact of Cross-Corpus Training on Model Values and Biases
+title: "The Cultural Gene of Large Language Models: A Study on the Impact of Cross-Corpus Training on Model Values and Biases"
 ---
 
 # The Cultural Gene of Large Language Models: A Study on the Impact of Cross-Corpus Training on Model Values and Biases

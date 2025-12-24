@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Attention Lattice Adapter: Visual Explanation Generation for Visual Foundation Model
+title: "Attention Lattice Adapter: Visual Explanation Generation for Visual Foundation Model"
 ---
 
 # Attention Lattice Adapter: Visual Explanation Generation for Visual Foundation Model

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality
+title: "KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality"
 ---
 
 # KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality

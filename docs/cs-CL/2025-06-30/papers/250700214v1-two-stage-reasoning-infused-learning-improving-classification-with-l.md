@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Two-Stage Reasoning-Infused Learning: Improving Classification with LLM-Generated Reasoning
+title: "Two-Stage Reasoning-Infused Learning: Improving Classification with LLM-Generated Reasoning"
 ---
 
 # Two-Stage Reasoning-Infused Learning: Improving Classification with LLM-Generated Reasoning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RELIC: Evaluating Compositional Instruction Following via Language Recognition
+title: "RELIC: Evaluating Compositional Instruction Following via Language Recognition"
 ---
 
 # RELIC: Evaluating Compositional Instruction Following via Language Recognition

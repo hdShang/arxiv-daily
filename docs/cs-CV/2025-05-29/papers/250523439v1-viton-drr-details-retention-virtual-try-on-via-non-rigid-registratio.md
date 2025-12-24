@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VITON-DRR: Details Retention Virtual Try-on via Non-rigid Registration
+title: "VITON-DRR: Details Retention Virtual Try-on via Non-rigid Registration"
 ---
 
 # VITON-DRR: Details Retention Virtual Try-on via Non-rigid Registration

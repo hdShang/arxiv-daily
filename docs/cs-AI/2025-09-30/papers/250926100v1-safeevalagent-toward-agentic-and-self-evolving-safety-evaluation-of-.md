@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SafeEvalAgent: Toward Agentic and Self-Evolving Safety Evaluation of LLMs
+title: "SafeEvalAgent: Toward Agentic and Self-Evolving Safety Evaluation of LLMs"
 ---
 
 # SafeEvalAgent: Toward Agentic and Self-Evolving Safety Evaluation of LLMs

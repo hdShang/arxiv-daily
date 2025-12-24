@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks
+title: "DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks"
 ---
 
 # DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BiasBusters: Uncovering and Mitigating Tool Selection Bias in Large Language Models
+title: "BiasBusters: Uncovering and Mitigating Tool Selection Bias in Large Language Models"
 ---
 
 # BiasBusters: Uncovering and Mitigating Tool Selection Bias in Large Language Models

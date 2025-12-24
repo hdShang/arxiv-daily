@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SWIRL: A Staged Workflow for Interleaved Reinforcement Learning in Mobile GUI Control
+title: "SWIRL: A Staged Workflow for Interleaved Reinforcement Learning in Mobile GUI Control"
 ---
 
 # SWIRL: A Staged Workflow for Interleaved Reinforcement Learning in Mobile GUI Control

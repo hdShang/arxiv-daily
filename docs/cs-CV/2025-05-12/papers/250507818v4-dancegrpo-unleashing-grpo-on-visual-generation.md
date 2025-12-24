@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DanceGRPO: Unleashing GRPO on Visual Generation
+title: "DanceGRPO: Unleashing GRPO on Visual Generation"
 ---
 
 # DanceGRPO: Unleashing GRPO on Visual Generation

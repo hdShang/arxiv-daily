@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SwitchVLA: Execution-Aware Task Switching for Vision-Language-Action Models
+title: "SwitchVLA: Execution-Aware Task Switching for Vision-Language-Action Models"
 ---
 
 # SwitchVLA: Execution-Aware Task Switching for Vision-Language-Action Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aya Vision: Advancing the Frontier of Multilingual Multimodality
+title: "Aya Vision: Advancing the Frontier of Multilingual Multimodality"
 ---
 
 # Aya Vision: Advancing the Frontier of Multilingual Multimodality

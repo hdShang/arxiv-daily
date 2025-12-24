@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoPa-SG: Dense Scene Graphs with Parametric and Proto-Relations
+title: "CoPa-SG: Dense Scene Graphs with Parametric and Proto-Relations"
 ---
 
 # CoPa-SG: Dense Scene Graphs with Parametric and Proto-Relations

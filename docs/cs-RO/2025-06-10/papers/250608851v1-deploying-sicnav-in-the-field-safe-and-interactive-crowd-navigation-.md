@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deploying SICNav in the Field: Safe and Interactive Crowd Navigation using MPC and Bilevel Optimization
+title: "Deploying SICNav in the Field: Safe and Interactive Crowd Navigation using MPC and Bilevel Optimization"
 ---
 
 # Deploying SICNav in the Field: Safe and Interactive Crowd Navigation using MPC and Bilevel Optimization

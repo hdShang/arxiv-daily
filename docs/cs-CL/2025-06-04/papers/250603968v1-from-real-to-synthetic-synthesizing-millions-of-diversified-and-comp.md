@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Real to Synthetic: Synthesizing Millions of Diversified and Complicated User Instructions with Attributed Grounding
+title: "From Real to Synthetic: Synthesizing Millions of Diversified and Complicated User Instructions with Attributed Grounding"
 ---
 
 # From Real to Synthetic: Synthesizing Millions of Diversified and Complicated User Instructions with Attributed Grounding

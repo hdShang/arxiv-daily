@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents
+title: "HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents"
 ---
 
 # HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents

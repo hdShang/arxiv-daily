@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How Large Language Models play humans in online conversations: a simulated study of the 2016 US politics on Reddit
+title: "How Large Language Models play humans in online conversations: a simulated study of the 2016 US politics on Reddit"
 ---
 
 # How Large Language Models play humans in online conversations: a simulated study of the 2016 US politics on Reddit

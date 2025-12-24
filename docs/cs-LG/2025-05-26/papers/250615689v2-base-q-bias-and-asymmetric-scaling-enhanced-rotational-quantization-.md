@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BASE-Q: Bias and Asymmetric Scaling Enhanced Rotational Quantization for Large Language Models
+title: "BASE-Q: Bias and Asymmetric Scaling Enhanced Rotational Quantization for Large Language Models"
 ---
 
 # BASE-Q: Bias and Asymmetric Scaling Enhanced Rotational Quantization for Large Language Models

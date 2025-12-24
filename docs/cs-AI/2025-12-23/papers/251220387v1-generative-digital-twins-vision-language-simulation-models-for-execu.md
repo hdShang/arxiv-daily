@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Generative Digital Twins: Vision-Language Simulation Models for Executable Industrial Systems
+title: "Generative Digital Twins: Vision-Language Simulation Models for Executable Industrial Systems"
 ---
 
 # Generative Digital Twins: Vision-Language Simulation Models for Executable Industrial Systems

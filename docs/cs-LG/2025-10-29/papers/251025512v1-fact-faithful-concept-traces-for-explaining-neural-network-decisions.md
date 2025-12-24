@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FaCT: Faithful Concept Traces for Explaining Neural Network Decisions
+title: "FaCT: Faithful Concept Traces for Explaining Neural Network Decisions"
 ---
 
 # FaCT: Faithful Concept Traces for Explaining Neural Network Decisions

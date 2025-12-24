@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HMR-ODTA: Online Diverse Task Allocation for a Team of Heterogeneous Mobile Robots
+title: "HMR-ODTA: Online Diverse Task Allocation for a Team of Heterogeneous Mobile Robots"
 ---
 
 # HMR-ODTA: Online Diverse Task Allocation for a Team of Heterogeneous Mobile Robots

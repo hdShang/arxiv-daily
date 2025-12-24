@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey
+title: "Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey"
 ---
 
 # Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey

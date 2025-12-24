@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SIMSplat: Predictive Driving Scene Editing with Language-aligned 4D Gaussian Splatting
+title: "SIMSplat: Predictive Driving Scene Editing with Language-aligned 4D Gaussian Splatting"
 ---
 
 # SIMSplat: Predictive Driving Scene Editing with Language-aligned 4D Gaussian Splatting

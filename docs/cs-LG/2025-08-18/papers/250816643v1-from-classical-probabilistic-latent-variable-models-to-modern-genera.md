@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Classical Probabilistic Latent Variable Models to Modern Generative AI: A Unified Perspective
+title: "From Classical Probabilistic Latent Variable Models to Modern Generative AI: A Unified Perspective"
 ---
 
 # From Classical Probabilistic Latent Variable Models to Modern Generative AI: A Unified Perspective

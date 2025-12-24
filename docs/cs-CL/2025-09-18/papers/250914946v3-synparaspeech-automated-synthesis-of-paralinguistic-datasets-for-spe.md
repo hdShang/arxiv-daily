@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SynParaSpeech: Automated Synthesis of Paralinguistic Datasets for Speech Generation and Understanding
+title: "SynParaSpeech: Automated Synthesis of Paralinguistic Datasets for Speech Generation and Understanding"
 ---
 
 # SynParaSpeech: Automated Synthesis of Paralinguistic Datasets for Speech Generation and Understanding

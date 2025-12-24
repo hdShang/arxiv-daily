@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Capturing Polysemanticity with PRISM: A Multi-Concept Feature Description Framework
+title: "Capturing Polysemanticity with PRISM: A Multi-Concept Feature Description Framework"
 ---
 
 # Capturing Polysemanticity with PRISM: A Multi-Concept Feature Description Framework

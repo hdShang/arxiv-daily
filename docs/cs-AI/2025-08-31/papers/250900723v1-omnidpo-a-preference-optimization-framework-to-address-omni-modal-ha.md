@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniDPO: A Preference Optimization Framework to Address Omni-Modal Hallucination
+title: "OmniDPO: A Preference Optimization Framework to Address Omni-Modal Hallucination"
 ---
 
 # OmniDPO: A Preference Optimization Framework to Address Omni-Modal Hallucination

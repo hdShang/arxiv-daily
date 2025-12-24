@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Generative World Models of Tasks: LLM-Driven Hierarchical Scaffolding for Embodied Agents
+title: "Generative World Models of Tasks: LLM-Driven Hierarchical Scaffolding for Embodied Agents"
 ---
 
 # Generative World Models of Tasks: LLM-Driven Hierarchical Scaffolding for Embodied Agents

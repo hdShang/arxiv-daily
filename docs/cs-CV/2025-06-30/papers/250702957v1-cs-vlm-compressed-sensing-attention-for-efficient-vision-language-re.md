@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CS-VLM: Compressed Sensing Attention for Efficient Vision-Language Representation Learning
+title: "CS-VLM: Compressed Sensing Attention for Efficient Vision-Language Representation Learning"
 ---
 
 # CS-VLM: Compressed Sensing Attention for Efficient Vision-Language Representation Learning

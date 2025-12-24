@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TORSO: Template-Oriented Reasoning Towards General Tasks
+title: "TORSO: Template-Oriented Reasoning Towards General Tasks"
 ---
 
 # TORSO: Template-Oriented Reasoning Towards General Tasks

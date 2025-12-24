@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ROI-GS: Interest-based Local Quality 3D Gaussian Splatting
+title: "ROI-GS: Interest-based Local Quality 3D Gaussian Splatting"
 ---
 
 # ROI-GS: Interest-based Local Quality 3D Gaussian Splatting

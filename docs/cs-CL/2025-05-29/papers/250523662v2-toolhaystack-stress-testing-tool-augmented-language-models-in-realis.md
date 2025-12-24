@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ToolHaystack: Stress-Testing Tool-Augmented Language Models in Realistic Long-Term Interactions
+title: "ToolHaystack: Stress-Testing Tool-Augmented Language Models in Realistic Long-Term Interactions"
 ---
 
 # ToolHaystack: Stress-Testing Tool-Augmented Language Models in Realistic Long-Term Interactions

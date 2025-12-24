@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TOP: Time Optimization Policy for Stable and Accurate Standing Manipulation with Humanoid Robots
+title: "TOP: Time Optimization Policy for Stable and Accurate Standing Manipulation with Humanoid Robots"
 ---
 
 # TOP: Time Optimization Policy for Stable and Accurate Standing Manipulation with Humanoid Robots

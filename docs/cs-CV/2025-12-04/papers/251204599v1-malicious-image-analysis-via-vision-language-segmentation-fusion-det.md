@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Malicious Image Analysis via Vision-Language Segmentation Fusion: Detection, Element, and Location in One-shot
+title: "Malicious Image Analysis via Vision-Language Segmentation Fusion: Detection, Element, and Location in One-shot"
 ---
 
 # Malicious Image Analysis via Vision-Language Segmentation Fusion: Detection, Element, and Location in One-shot

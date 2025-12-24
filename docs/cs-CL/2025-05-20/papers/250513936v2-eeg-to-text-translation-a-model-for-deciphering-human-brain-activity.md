@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EEG-to-Text Translation: A Model for Deciphering Human Brain Activity
+title: "EEG-to-Text Translation: A Model for Deciphering Human Brain Activity"
 ---
 
 # EEG-to-Text Translation: A Model for Deciphering Human Brain Activity

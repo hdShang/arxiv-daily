@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SynergyWarpNet: Attention-Guided Cooperative Warping for Neural Portrait Animation
+title: "SynergyWarpNet: Attention-Guided Cooperative Warping for Neural Portrait Animation"
 ---
 
 # SynergyWarpNet: Attention-Guided Cooperative Warping for Neural Portrait Animation

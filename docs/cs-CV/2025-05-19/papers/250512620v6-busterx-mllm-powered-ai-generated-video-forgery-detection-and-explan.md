@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BusterX: MLLM-Powered AI-Generated Video Forgery Detection and Explanation
+title: "BusterX: MLLM-Powered AI-Generated Video Forgery Detection and Explanation"
 ---
 
 # BusterX: MLLM-Powered AI-Generated Video Forgery Detection and Explanation

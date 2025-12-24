@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spatial Reasoning in Foundation Models: Benchmarking Object-Centric Spatial Understanding
+title: "Spatial Reasoning in Foundation Models: Benchmarking Object-Centric Spatial Understanding"
 ---
 
 # Spatial Reasoning in Foundation Models: Benchmarking Object-Centric Spatial Understanding

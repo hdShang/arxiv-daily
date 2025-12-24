@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation
+title: "TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation"
 ---
 
 # TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation

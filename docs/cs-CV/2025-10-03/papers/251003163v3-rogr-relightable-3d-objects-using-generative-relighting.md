@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ROGR: Relightable 3D Objects using Generative Relighting
+title: "ROGR: Relightable 3D Objects using Generative Relighting"
 ---
 
 # ROGR: Relightable 3D Objects using Generative Relighting

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FiLM-Nav: Efficient and Generalizable Navigation via VLM Fine-tuning
+title: "FiLM-Nav: Efficient and Generalizable Navigation via VLM Fine-tuning"
 ---
 
 # FiLM-Nav: Efficient and Generalizable Navigation via VLM Fine-tuning

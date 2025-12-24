@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation
+title: "Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation"
 ---
 
 # Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation

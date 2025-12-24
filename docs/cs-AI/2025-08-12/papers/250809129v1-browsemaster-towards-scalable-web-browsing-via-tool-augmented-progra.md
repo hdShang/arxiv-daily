@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BrowseMaster: Towards Scalable Web Browsing via Tool-Augmented Programmatic Agent Pair
+title: "BrowseMaster: Towards Scalable Web Browsing via Tool-Augmented Programmatic Agent Pair"
 ---
 
 # BrowseMaster: Towards Scalable Web Browsing via Tool-Augmented Programmatic Agent Pair

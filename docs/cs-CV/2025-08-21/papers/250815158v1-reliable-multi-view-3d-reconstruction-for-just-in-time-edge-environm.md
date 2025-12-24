@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reliable Multi-view 3D Reconstruction for `Just-in-time' Edge Environments
+title: "Reliable Multi-view 3D Reconstruction for `Just-in-time' Edge Environments"
 ---
 
 # Reliable Multi-view 3D Reconstruction for `Just-in-time' Edge Environments

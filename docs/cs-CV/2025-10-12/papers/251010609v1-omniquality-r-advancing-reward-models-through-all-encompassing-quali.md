@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniQuality-R: Advancing Reward Models Through All-Encompassing Quality Assessment
+title: "OmniQuality-R: Advancing Reward Models Through All-Encompassing Quality Assessment"
 ---
 
 # OmniQuality-R: Advancing Reward Models Through All-Encompassing Quality Assessment

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stand Up, NAO! Increasing the Reliability of Stand-Up Motions Through Error Compensation in Position Control
+title: "Stand Up, NAO! Increasing the Reliability of Stand-Up Motions Through Error Compensation in Position Control"
 ---
 
 # Stand Up, NAO! Increasing the Reliability of Stand-Up Motions Through Error Compensation in Position Control

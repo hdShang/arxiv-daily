@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CRAFT-E: A Neuro-Symbolic Framework for Embodied Affordance Grounding
+title: "CRAFT-E: A Neuro-Symbolic Framework for Embodied Affordance Grounding"
 ---
 
 # CRAFT-E: A Neuro-Symbolic Framework for Embodied Affordance Grounding

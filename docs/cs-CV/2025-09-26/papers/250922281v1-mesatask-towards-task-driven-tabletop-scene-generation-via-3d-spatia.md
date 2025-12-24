@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MesaTask: Towards Task-Driven Tabletop Scene Generation via 3D Spatial Reasoning
+title: "MesaTask: Towards Task-Driven Tabletop Scene Generation via 3D Spatial Reasoning"
 ---
 
 # MesaTask: Towards Task-Driven Tabletop Scene Generation via 3D Spatial Reasoning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Human Demonstrations: Diffusion-Based Reinforcement Learning to Generate Data for VLA Training
+title: "Beyond Human Demonstrations: Diffusion-Based Reinforcement Learning to Generate Data for VLA Training"
 ---
 
 # Beyond Human Demonstrations: Diffusion-Based Reinforcement Learning to Generate Data for VLA Training

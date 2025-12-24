@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MultiPhishGuard: An LLM-based Multi-Agent System for Phishing Email Detection
+title: "MultiPhishGuard: An LLM-based Multi-Agent System for Phishing Email Detection"
 ---
 
 # MultiPhishGuard: An LLM-based Multi-Agent System for Phishing Email Detection

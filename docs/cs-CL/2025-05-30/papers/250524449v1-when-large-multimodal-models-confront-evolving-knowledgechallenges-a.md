@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When Large Multimodal Models Confront Evolving Knowledge:Challenges and Pathways
+title: "When Large Multimodal Models Confront Evolving Knowledge:Challenges and Pathways"
 ---
 
 # When Large Multimodal Models Confront Evolving Knowledge:Challenges and Pathways

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AncientBench: Towards Comprehensive Evaluation on Excavated and Transmitted Chinese Corpora
+title: "AncientBench: Towards Comprehensive Evaluation on Excavated and Transmitted Chinese Corpora"
 ---
 
 # AncientBench: Towards Comprehensive Evaluation on Excavated and Transmitted Chinese Corpora

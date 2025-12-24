@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FoCLIP: A Feature-Space Misalignment Framework for CLIP-Based Image Manipulation and Detection
+title: "FoCLIP: A Feature-Space Misalignment Framework for CLIP-Based Image Manipulation and Detection"
 ---
 
 # FoCLIP: A Feature-Space Misalignment Framework for CLIP-Based Image Manipulation and Detection

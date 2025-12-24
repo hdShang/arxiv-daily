@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PWC-MoE: Privacy-Aware Wireless Collaborative Mixture of Experts
+title: "PWC-MoE: Privacy-Aware Wireless Collaborative Mixture of Experts"
 ---
 
 # PWC-MoE: Privacy-Aware Wireless Collaborative Mixture of Experts

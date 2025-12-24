@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InteractMove: Text-Controlled Human-Object Interaction Generation in 3D Scenes with Movable Objects
+title: "InteractMove: Text-Controlled Human-Object Interaction Generation in 3D Scenes with Movable Objects"
 ---
 
 # InteractMove: Text-Controlled Human-Object Interaction Generation in 3D Scenes with Movable Objects

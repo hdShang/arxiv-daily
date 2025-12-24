@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SoftMimic: Learning Compliant Whole-body Control from Examples
+title: "SoftMimic: Learning Compliant Whole-body Control from Examples"
 ---
 
 # SoftMimic: Learning Compliant Whole-body Control from Examples

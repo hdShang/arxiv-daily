@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FS-Diff: Semantic guidance and clarity-aware simultaneous multimodal image fusion and super-resolution
+title: "FS-Diff: Semantic guidance and clarity-aware simultaneous multimodal image fusion and super-resolution"
 ---
 
 # FS-Diff: Semantic guidance and clarity-aware simultaneous multimodal image fusion and super-resolution

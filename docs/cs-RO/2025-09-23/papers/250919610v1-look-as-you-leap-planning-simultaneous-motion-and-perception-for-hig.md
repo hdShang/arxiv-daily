@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Look as You Leap: Planning Simultaneous Motion and Perception for High-DOF Robots
+title: "Look as You Leap: Planning Simultaneous Motion and Perception for High-DOF Robots"
 ---
 
 # Look as You Leap: Planning Simultaneous Motion and Perception for High-DOF Robots

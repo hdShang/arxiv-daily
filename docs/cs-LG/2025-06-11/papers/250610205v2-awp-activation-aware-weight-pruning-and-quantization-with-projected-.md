@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AWP: Activation-Aware Weight Pruning and Quantization with Projected Gradient Descent
+title: "AWP: Activation-Aware Weight Pruning and Quantization with Projected Gradient Descent"
 ---
 
 # AWP: Activation-Aware Weight Pruning and Quantization with Projected Gradient Descent

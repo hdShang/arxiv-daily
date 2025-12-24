@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FSA: An Alternative Efficient Implementation of Native Sparse Attention Kernel
+title: "FSA: An Alternative Efficient Implementation of Native Sparse Attention Kernel"
 ---
 
 # FSA: An Alternative Efficient Implementation of Native Sparse Attention Kernel

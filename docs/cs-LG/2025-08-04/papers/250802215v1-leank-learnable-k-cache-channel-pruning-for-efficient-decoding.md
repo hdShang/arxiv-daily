@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LeanK: Learnable K Cache Channel Pruning for Efficient Decoding
+title: "LeanK: Learnable K Cache Channel Pruning for Efficient Decoding"
 ---
 
 # LeanK: Learnable K Cache Channel Pruning for Efficient Decoding

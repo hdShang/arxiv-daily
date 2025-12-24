@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DiffPhysCam: Differentiable Physics-Based Camera Simulation for Inverse Rendering and Embodied AI
+title: "DiffPhysCam: Differentiable Physics-Based Camera Simulation for Inverse Rendering and Embodied AI"
 ---
 
 # DiffPhysCam: Differentiable Physics-Based Camera Simulation for Inverse Rendering and Embodied AI

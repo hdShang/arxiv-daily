@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SemShareKV: Efficient KVCache Sharing for Semantically Similar Prompts via Token-Level LSH Matching
+title: "SemShareKV: Efficient KVCache Sharing for Semantically Similar Prompts via Token-Level LSH Matching"
 ---
 
 # SemShareKV: Efficient KVCache Sharing for Semantically Similar Prompts via Token-Level LSH Matching

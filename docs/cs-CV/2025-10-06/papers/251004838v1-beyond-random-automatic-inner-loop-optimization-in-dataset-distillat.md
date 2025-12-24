@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Random: Automatic Inner-loop Optimization in Dataset Distillation
+title: "Beyond Random: Automatic Inner-loop Optimization in Dataset Distillation"
 ---
 
 # Beyond Random: Automatic Inner-loop Optimization in Dataset Distillation

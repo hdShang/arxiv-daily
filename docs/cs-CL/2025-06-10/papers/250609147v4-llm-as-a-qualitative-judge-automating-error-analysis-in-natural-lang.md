@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM-as-a-qualitative-judge: automating error analysis in natural language generation
+title: "LLM-as-a-qualitative-judge: automating error analysis in natural language generation"
 ---
 
 # LLM-as-a-qualitative-judge: automating error analysis in natural language generation

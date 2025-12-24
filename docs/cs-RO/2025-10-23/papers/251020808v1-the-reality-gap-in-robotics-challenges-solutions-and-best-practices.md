@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Reality Gap in Robotics: Challenges, Solutions, and Best Practices
+title: "The Reality Gap in Robotics: Challenges, Solutions, and Best Practices"
 ---
 
 # The Reality Gap in Robotics: Challenges, Solutions, and Best Practices

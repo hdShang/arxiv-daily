@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Memento: Note-Taking for Your Future Self
+title: "Memento: Note-Taking for Your Future Self"
 ---
 
 # Memento: Note-Taking for Your Future Self

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Plausibility as Failure: How LLMs and Humans Co-Construct Epistemic Error
+title: "Plausibility as Failure: How LLMs and Humans Co-Construct Epistemic Error"
 ---
 
 # Plausibility as Failure: How LLMs and Humans Co-Construct Epistemic Error

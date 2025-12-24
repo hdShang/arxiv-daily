@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unified World Models: Memory-Augmented Planning and Foresight for Visual Navigation
+title: "Unified World Models: Memory-Augmented Planning and Foresight for Visual Navigation"
 ---
 
 # Unified World Models: Memory-Augmented Planning and Foresight for Visual Navigation

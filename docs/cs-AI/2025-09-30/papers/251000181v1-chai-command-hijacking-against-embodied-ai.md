@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CHAI: Command Hijacking against embodied AI
+title: "CHAI: Command Hijacking against embodied AI"
 ---
 
 # CHAI: Command Hijacking against embodied AI

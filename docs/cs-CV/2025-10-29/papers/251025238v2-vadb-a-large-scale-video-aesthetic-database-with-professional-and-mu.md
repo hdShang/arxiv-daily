@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VADB: A Large-Scale Video Aesthetic Database with Professional and Multi-Dimensional Annotations
+title: "VADB: A Large-Scale Video Aesthetic Database with Professional and Multi-Dimensional Annotations"
 ---
 
 # VADB: A Large-Scale Video Aesthetic Database with Professional and Multi-Dimensional Annotations

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Swarm-STL: A Framework for Motion Planning in Large-Scale, Multi-Swarm Systems
+title: "Swarm-STL: A Framework for Motion Planning in Large-Scale, Multi-Swarm Systems"
 ---
 
 # Swarm-STL: A Framework for Motion Planning in Large-Scale, Multi-Swarm Systems

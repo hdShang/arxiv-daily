@@ -1,6 +1,6 @@
 ---
 layout: default
-title: F1: A Vision-Language-Action Model Bridging Understanding and Generation to Actions
+title: "F1: A Vision-Language-Action Model Bridging Understanding and Generation to Actions"
 ---
 
 # F1: A Vision-Language-Action Model Bridging Understanding and Generation to Actions

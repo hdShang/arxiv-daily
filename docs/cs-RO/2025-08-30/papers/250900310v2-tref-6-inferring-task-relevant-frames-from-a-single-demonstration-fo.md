@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TReF-6: Inferring Task-Relevant Frames from a Single Demonstration for One-Shot Skill Generalization
+title: "TReF-6: Inferring Task-Relevant Frames from a Single Demonstration for One-Shot Skill Generalization"
 ---
 
 # TReF-6: Inferring Task-Relevant Frames from a Single Demonstration for One-Shot Skill Generalization

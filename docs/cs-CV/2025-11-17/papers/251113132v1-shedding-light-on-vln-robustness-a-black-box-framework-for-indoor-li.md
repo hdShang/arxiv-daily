@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Shedding Light on VLN Robustness: A Black-box Framework for Indoor Lighting-based Adversarial Attack
+title: "Shedding Light on VLN Robustness: A Black-box Framework for Indoor Lighting-based Adversarial Attack"
 ---
 
 # Shedding Light on VLN Robustness: A Black-box Framework for Indoor Lighting-based Adversarial Attack

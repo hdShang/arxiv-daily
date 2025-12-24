@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RangeSAM: On the Potential of Visual Foundation Models for Range-View represented LiDAR segmentation
+title: "RangeSAM: On the Potential of Visual Foundation Models for Range-View represented LiDAR segmentation"
 ---
 
 # RangeSAM: On the Potential of Visual Foundation Models for Range-View represented LiDAR segmentation

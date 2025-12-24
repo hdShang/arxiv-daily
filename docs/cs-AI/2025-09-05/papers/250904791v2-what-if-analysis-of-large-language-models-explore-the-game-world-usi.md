@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What-If Analysis of Large Language Models: Explore the Game World Using Proactive Thinking
+title: "What-If Analysis of Large Language Models: Explore the Game World Using Proactive Thinking"
 ---
 
 # What-If Analysis of Large Language Models: Explore the Game World Using Proactive Thinking

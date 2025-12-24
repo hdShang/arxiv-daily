@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboGPT-R1: Enhancing Robot Planning with Reinforcement Learning
+title: "RoboGPT-R1: Enhancing Robot Planning with Reinforcement Learning"
 ---
 
 # RoboGPT-R1: Enhancing Robot Planning with Reinforcement Learning

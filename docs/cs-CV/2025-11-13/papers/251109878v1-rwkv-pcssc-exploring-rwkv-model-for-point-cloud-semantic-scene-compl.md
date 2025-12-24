@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RWKV-PCSSC: Exploring RWKV Model for Point Cloud Semantic Scene Completion
+title: "RWKV-PCSSC: Exploring RWKV Model for Point Cloud Semantic Scene Completion"
 ---
 
 # RWKV-PCSSC: Exploring RWKV Model for Point Cloud Semantic Scene Completion

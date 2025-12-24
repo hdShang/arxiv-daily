@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Competition to Synergy: Unlocking Reinforcement Learning for Subject-Driven Image Generation
+title: "From Competition to Synergy: Unlocking Reinforcement Learning for Subject-Driven Image Generation"
 ---
 
 # From Competition to Synergy: Unlocking Reinforcement Learning for Subject-Driven Image Generation

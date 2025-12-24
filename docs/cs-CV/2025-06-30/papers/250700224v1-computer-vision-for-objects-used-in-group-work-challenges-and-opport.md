@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Computer Vision for Objects used in Group Work: Challenges and Opportunities
+title: "Computer Vision for Objects used in Group Work: Challenges and Opportunities"
 ---
 
 # Computer Vision for Objects used in Group Work: Challenges and Opportunities

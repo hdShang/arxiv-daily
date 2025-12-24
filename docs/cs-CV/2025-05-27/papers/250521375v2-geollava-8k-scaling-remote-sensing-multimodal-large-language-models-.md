@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GeoLLaVA-8K: Scaling Remote-Sensing Multimodal Large Language Models to 8K Resolution
+title: "GeoLLaVA-8K: Scaling Remote-Sensing Multimodal Large Language Models to 8K Resolution"
 ---
 
 # GeoLLaVA-8K: Scaling Remote-Sensing Multimodal Large Language Models to 8K Resolution

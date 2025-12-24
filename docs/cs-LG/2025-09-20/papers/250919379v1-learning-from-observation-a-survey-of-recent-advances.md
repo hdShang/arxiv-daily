@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning from Observation: A Survey of Recent Advances
+title: "Learning from Observation: A Survey of Recent Advances"
 ---
 
 # Learning from Observation: A Survey of Recent Advances

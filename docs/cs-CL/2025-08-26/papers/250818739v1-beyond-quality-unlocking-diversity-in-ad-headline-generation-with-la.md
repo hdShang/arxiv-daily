@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Quality: Unlocking Diversity in Ad Headline Generation with Large Language Models
+title: "Beyond Quality: Unlocking Diversity in Ad Headline Generation with Large Language Models"
 ---
 
 # Beyond Quality: Unlocking Diversity in Ad Headline Generation with Large Language Models

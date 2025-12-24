@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deceive, Detect, and Disclose: Large Language Models Play Mini-Mafia
+title: "Deceive, Detect, and Disclose: Large Language Models Play Mini-Mafia"
 ---
 
 # Deceive, Detect, and Disclose: Large Language Models Play Mini-Mafia

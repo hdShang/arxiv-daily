@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HD-NDEs: Neural Differential Equations for Hallucination Detection in LLMs
+title: "HD-NDEs: Neural Differential Equations for Hallucination Detection in LLMs"
 ---
 
 # HD-NDEs: Neural Differential Equations for Hallucination Detection in LLMs

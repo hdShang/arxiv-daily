@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AppCopilot: Toward General, Accurate, Long-Horizon, and Efficient Mobile Agent
+title: "AppCopilot: Toward General, Accurate, Long-Horizon, and Efficient Mobile Agent"
 ---
 
 # AppCopilot: Toward General, Accurate, Long-Horizon, and Efficient Mobile Agent

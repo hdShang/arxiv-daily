@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dynamic-I2V: Exploring Image-to-Video Generation Models via Multimodal LLM
+title: "Dynamic-I2V: Exploring Image-to-Video Generation Models via Multimodal LLM"
 ---
 
 # Dynamic-I2V: Exploring Image-to-Video Generation Models via Multimodal LLM

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Balanced Actor Initialization: Stable RLHF Training of Distillation-Based Reasoning Models
+title: "Balanced Actor Initialization: Stable RLHF Training of Distillation-Based Reasoning Models"
 ---
 
 # Balanced Actor Initialization: Stable RLHF Training of Distillation-Based Reasoning Models

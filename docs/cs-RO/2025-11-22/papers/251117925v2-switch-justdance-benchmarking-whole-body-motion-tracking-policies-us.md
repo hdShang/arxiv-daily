@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Switch-JustDance: Benchmarking Whole Body Motion Tracking Policies Using a Commercial Console Game
+title: "Switch-JustDance: Benchmarking Whole Body Motion Tracking Policies Using a Commercial Console Game"
 ---
 
 # Switch-JustDance: Benchmarking Whole Body Motion Tracking Policies Using a Commercial Console Game

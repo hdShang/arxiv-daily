@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ScaleLong: A Multi-Timescale Benchmark for Long Video Understanding
+title: "ScaleLong: A Multi-Timescale Benchmark for Long Video Understanding"
 ---
 
 # ScaleLong: A Multi-Timescale Benchmark for Long Video Understanding

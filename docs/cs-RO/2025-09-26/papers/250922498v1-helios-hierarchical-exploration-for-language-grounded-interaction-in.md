@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HELIOS: Hierarchical Exploration for Language-grounded Interaction in Open Scenes
+title: "HELIOS: Hierarchical Exploration for Language-grounded Interaction in Open Scenes"
 ---
 
 # HELIOS: Hierarchical Exploration for Language-grounded Interaction in Open Scenes

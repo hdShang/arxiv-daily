@@ -1,6 +1,6 @@
 ---
 layout: default
-title: U-ARM : Ultra low-cost general teleoperation interface for robot manipulation
+title: "U-ARM : Ultra low-cost general teleoperation interface for robot manipulation"
 ---
 
 # U-ARM : Ultra low-cost general teleoperation interface for robot manipulation

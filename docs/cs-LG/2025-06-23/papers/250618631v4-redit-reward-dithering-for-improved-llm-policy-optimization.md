@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReDit: Reward Dithering for Improved LLM Policy Optimization
+title: "ReDit: Reward Dithering for Improved LLM Policy Optimization"
 ---
 
 # ReDit: Reward Dithering for Improved LLM Policy Optimization

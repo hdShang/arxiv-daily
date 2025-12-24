@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LinguaSafe: A Comprehensive Multilingual Safety Benchmark for Large Language Models
+title: "LinguaSafe: A Comprehensive Multilingual Safety Benchmark for Large Language Models"
 ---
 
 # LinguaSafe: A Comprehensive Multilingual Safety Benchmark for Large Language Models

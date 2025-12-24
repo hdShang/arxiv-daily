@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Uni3D-MoE: Scalable Multimodal 3D Scene Understanding via Mixture of Experts
+title: "Uni3D-MoE: Scalable Multimodal 3D Scene Understanding via Mixture of Experts"
 ---
 
 # Uni3D-MoE: Scalable Multimodal 3D Scene Understanding via Mixture of Experts

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HOI-PAGE: Zero-Shot Human-Object Interaction Generation with Part Affordance Guidance
+title: "HOI-PAGE: Zero-Shot Human-Object Interaction Generation with Part Affordance Guidance"
 ---
 
 # HOI-PAGE: Zero-Shot Human-Object Interaction Generation with Part Affordance Guidance

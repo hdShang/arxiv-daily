@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Evaluating VisualRAG: Quantifying Cross-Modal Performance in Enterprise Document Understanding
+title: "Evaluating VisualRAG: Quantifying Cross-Modal Performance in Enterprise Document Understanding"
 ---
 
 # Evaluating VisualRAG: Quantifying Cross-Modal Performance in Enterprise Document Understanding

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM in the Middle: A Systematic Review of Threats and Mitigations to Real-World LLM-based Systems
+title: "LLM in the Middle: A Systematic Review of Threats and Mitigations to Real-World LLM-based Systems"
 ---
 
 # LLM in the Middle: A Systematic Review of Threats and Mitigations to Real-World LLM-based Systems

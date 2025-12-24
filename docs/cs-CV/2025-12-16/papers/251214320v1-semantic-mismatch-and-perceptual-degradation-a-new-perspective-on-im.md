@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Semantic Mismatch and Perceptual Degradation: A New Perspective on Image Editing Immunity
+title: "Semantic Mismatch and Perceptual Degradation: A New Perspective on Image Editing Immunity"
 ---
 
 # Semantic Mismatch and Perceptual Degradation: A New Perspective on Image Editing Immunity

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PySensors 2.0: A Python Package for Sparse Sensor Placement
+title: "PySensors 2.0: A Python Package for Sparse Sensor Placement"
 ---
 
 # PySensors 2.0: A Python Package for Sparse Sensor Placement

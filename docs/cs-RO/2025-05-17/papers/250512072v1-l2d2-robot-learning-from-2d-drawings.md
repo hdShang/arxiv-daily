@@ -1,6 +1,6 @@
 ---
 layout: default
-title: L2D2: Robot Learning from 2D Drawings
+title: "L2D2: Robot Learning from 2D Drawings"
 ---
 
 # L2D2: Robot Learning from 2D Drawings

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ArtiWorld: LLM-Driven Articulation of 3D Objects in Scenes
+title: "ArtiWorld: LLM-Driven Articulation of 3D Objects in Scenes"
 ---
 
 # ArtiWorld: LLM-Driven Articulation of 3D Objects in Scenes

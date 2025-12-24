@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seg-R1: Segmentation Can Be Surprisingly Simple with Reinforcement Learning
+title: "Seg-R1: Segmentation Can Be Surprisingly Simple with Reinforcement Learning"
 ---
 
 # Seg-R1: Segmentation Can Be Surprisingly Simple with Reinforcement Learning

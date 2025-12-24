@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TimeOmni-1: Incentivizing Complex Reasoning with Time Series in Large Language Models
+title: "TimeOmni-1: Incentivizing Complex Reasoning with Time Series in Large Language Models"
 ---
 
 # TimeOmni-1: Incentivizing Complex Reasoning with Time Series in Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReviewGraph: A Knowledge Graph Embedding Based Framework for Review Rating Prediction with Sentiment Features
+title: "ReviewGraph: A Knowledge Graph Embedding Based Framework for Review Rating Prediction with Sentiment Features"
 ---
 
 # ReviewGraph: A Knowledge Graph Embedding Based Framework for Review Rating Prediction with Sentiment Features

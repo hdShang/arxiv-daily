@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Agent Tools Orchestration Leaks More: Dataset, Benchmark, and Mitigation
+title: "Agent Tools Orchestration Leaks More: Dataset, Benchmark, and Mitigation"
 ---
 
 # Agent Tools Orchestration Leaks More: Dataset, Benchmark, and Mitigation

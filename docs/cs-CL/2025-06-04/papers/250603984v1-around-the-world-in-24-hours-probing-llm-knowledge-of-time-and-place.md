@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Around the World in 24 Hours: Probing LLM Knowledge of Time and Place
+title: "Around the World in 24 Hours: Probing LLM Knowledge of Time and Place"
 ---
 
 # Around the World in 24 Hours: Probing LLM Knowledge of Time and Place

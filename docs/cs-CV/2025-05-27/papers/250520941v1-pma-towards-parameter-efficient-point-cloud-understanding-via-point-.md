@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PMA: Towards Parameter-Efficient Point Cloud Understanding via Point Mamba Adapter
+title: "PMA: Towards Parameter-Efficient Point Cloud Understanding via Point Mamba Adapter"
 ---
 
 # PMA: Towards Parameter-Efficient Point Cloud Understanding via Point Mamba Adapter

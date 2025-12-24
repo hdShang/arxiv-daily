@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MixKVQ: Query-Aware Mixed-Precision KV Cache Quantization for Long-Context Reasoning
+title: "MixKVQ: Query-Aware Mixed-Precision KV Cache Quantization for Long-Context Reasoning"
 ---
 
 # MixKVQ: Query-Aware Mixed-Precision KV Cache Quantization for Long-Context Reasoning

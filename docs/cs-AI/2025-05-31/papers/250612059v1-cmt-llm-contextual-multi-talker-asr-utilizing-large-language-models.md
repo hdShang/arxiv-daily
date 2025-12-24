@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CMT-LLM: Contextual Multi-Talker ASR Utilizing Large Language Models
+title: "CMT-LLM: Contextual Multi-Talker ASR Utilizing Large Language Models"
 ---
 
 # CMT-LLM: Contextual Multi-Talker ASR Utilizing Large Language Models

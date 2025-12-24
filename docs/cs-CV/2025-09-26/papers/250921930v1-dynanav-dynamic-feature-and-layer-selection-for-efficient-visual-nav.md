@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DynaNav: Dynamic Feature and Layer Selection for Efficient Visual Navigation
+title: "DynaNav: Dynamic Feature and Layer Selection for Efficient Visual Navigation"
 ---
 
 # DynaNav: Dynamic Feature and Layer Selection for Efficient Visual Navigation

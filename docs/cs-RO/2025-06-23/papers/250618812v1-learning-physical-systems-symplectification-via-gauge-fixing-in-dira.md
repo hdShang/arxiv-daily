@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning Physical Systems: Symplectification via Gauge Fixing in Dirac Structures
+title: "Learning Physical Systems: Symplectification via Gauge Fixing in Dirac Structures"
 ---
 
 # Learning Physical Systems: Symplectification via Gauge Fixing in Dirac Structures

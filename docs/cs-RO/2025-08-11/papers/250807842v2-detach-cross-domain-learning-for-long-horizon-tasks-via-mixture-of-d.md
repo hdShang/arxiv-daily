@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DETACH: Cross-domain Learning for Long-Horizon Tasks via Mixture of Disentangled Experts
+title: "DETACH: Cross-domain Learning for Long-Horizon Tasks via Mixture of Disentangled Experts"
 ---
 
 # DETACH: Cross-domain Learning for Long-Horizon Tasks via Mixture of Disentangled Experts

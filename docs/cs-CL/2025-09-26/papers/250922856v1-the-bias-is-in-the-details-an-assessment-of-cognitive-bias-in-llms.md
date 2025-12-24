@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Bias is in the Details: An Assessment of Cognitive Bias in LLMs
+title: "The Bias is in the Details: An Assessment of Cognitive Bias in LLMs"
 ---
 
 # The Bias is in the Details: An Assessment of Cognitive Bias in LLMs

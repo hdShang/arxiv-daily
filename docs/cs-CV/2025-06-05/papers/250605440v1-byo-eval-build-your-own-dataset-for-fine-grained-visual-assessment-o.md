@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BYO-Eval: Build Your Own Dataset for Fine-Grained Visual Assessment of Multimodal Language Models
+title: "BYO-Eval: Build Your Own Dataset for Fine-Grained Visual Assessment of Multimodal Language Models"
 ---
 
 # BYO-Eval: Build Your Own Dataset for Fine-Grained Visual Assessment of Multimodal Language Models

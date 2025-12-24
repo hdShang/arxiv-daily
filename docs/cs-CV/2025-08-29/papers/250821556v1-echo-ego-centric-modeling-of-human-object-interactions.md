@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ECHO: Ego-Centric modeling of Human-Object interactions
+title: "ECHO: Ego-Centric modeling of Human-Object interactions"
 ---
 
 # ECHO: Ego-Centric modeling of Human-Object interactions

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Empirical Evaluation of AI-Assisted Software Package Selection: A Knowledge Graph Approach
+title: "Empirical Evaluation of AI-Assisted Software Package Selection: A Knowledge Graph Approach"
 ---
 
 # Empirical Evaluation of AI-Assisted Software Package Selection: A Knowledge Graph Approach

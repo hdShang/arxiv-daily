@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL
+title: "SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL"
 ---
 
 # SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL

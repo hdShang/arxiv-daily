@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FindingDory: A Benchmark to Evaluate Memory in Embodied Agents
+title: "FindingDory: A Benchmark to Evaluate Memory in Embodied Agents"
 ---
 
 # FindingDory: A Benchmark to Evaluate Memory in Embodied Agents

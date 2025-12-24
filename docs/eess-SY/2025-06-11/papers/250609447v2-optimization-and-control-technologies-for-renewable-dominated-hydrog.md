@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Optimization and Control Technologies for Renewable-Dominated Hydrogen-Blended Integrated Gas-Electricity System: A Review
+title: "Optimization and Control Technologies for Renewable-Dominated Hydrogen-Blended Integrated Gas-Electricity System: A Review"
 ---
 
 # Optimization and Control Technologies for Renewable-Dominated Hydrogen-Blended Integrated Gas-Electricity System: A Review

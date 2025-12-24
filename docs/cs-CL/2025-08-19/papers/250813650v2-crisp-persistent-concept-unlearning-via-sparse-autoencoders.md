@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CRISP: Persistent Concept Unlearning via Sparse Autoencoders
+title: "CRISP: Persistent Concept Unlearning via Sparse Autoencoders"
 ---
 
 # CRISP: Persistent Concept Unlearning via Sparse Autoencoders

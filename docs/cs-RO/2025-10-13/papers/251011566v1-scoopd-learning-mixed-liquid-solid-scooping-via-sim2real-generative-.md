@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SCOOP'D: Learning Mixed-Liquid-Solid Scooping via Sim2Real Generative Policy
+title: "SCOOP'D: Learning Mixed-Liquid-Solid Scooping via Sim2Real Generative Policy"
 ---
 
 # SCOOP'D: Learning Mixed-Liquid-Solid Scooping via Sim2Real Generative Policy

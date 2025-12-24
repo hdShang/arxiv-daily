@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kinetic Mining in Context: Few-Shot Action Synthesis via Text-to-Motion Distillation
+title: "Kinetic Mining in Context: Few-Shot Action Synthesis via Text-to-Motion Distillation"
 ---
 
 # Kinetic Mining in Context: Few-Shot Action Synthesis via Text-to-Motion Distillation

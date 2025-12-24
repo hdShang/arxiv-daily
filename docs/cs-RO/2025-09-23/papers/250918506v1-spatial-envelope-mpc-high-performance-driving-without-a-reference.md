@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spatial Envelope MPC: High Performance Driving without a Reference
+title: "Spatial Envelope MPC: High Performance Driving without a Reference"
 ---
 
 # Spatial Envelope MPC: High Performance Driving without a Reference

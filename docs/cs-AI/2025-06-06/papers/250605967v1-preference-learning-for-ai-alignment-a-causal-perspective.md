@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Preference Learning for AI Alignment: a Causal Perspective
+title: "Preference Learning for AI Alignment: a Causal Perspective"
 ---
 
 # Preference Learning for AI Alignment: a Causal Perspective

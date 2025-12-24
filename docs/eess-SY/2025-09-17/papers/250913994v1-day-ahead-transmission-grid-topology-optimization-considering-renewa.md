@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Day-Ahead Transmission Grid Topology Optimization Considering Renewable Energy Sources' Uncertainty
+title: "Day-Ahead Transmission Grid Topology Optimization Considering Renewable Energy Sources' Uncertainty"
 ---
 
 # Day-Ahead Transmission Grid Topology Optimization Considering Renewable Energy Sources' Uncertainty

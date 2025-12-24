@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Majority is not always right: RL training for solution aggregation
+title: "The Majority is not always right: RL training for solution aggregation"
 ---
 
 # The Majority is not always right: RL training for solution aggregation

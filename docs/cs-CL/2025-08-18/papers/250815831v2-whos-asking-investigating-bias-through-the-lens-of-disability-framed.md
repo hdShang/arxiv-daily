@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Who's Asking? Investigating Bias Through the Lens of Disability Framed Queries in LLMs
+title: "Who's Asking? Investigating Bias Through the Lens of Disability Framed Queries in LLMs"
 ---
 
 # Who's Asking? Investigating Bias Through the Lens of Disability Framed Queries in LLMs

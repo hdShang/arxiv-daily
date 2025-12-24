@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hold My Beer: Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control
+title: "Hold My Beer: Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control"
 ---
 
 # Hold My Beer: Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control

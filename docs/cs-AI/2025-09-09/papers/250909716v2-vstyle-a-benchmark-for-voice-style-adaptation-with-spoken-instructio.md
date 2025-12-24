@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VStyle: A Benchmark for Voice Style Adaptation with Spoken Instructions
+title: "VStyle: A Benchmark for Voice Style Adaptation with Spoken Instructions"
 ---
 
 # VStyle: A Benchmark for Voice Style Adaptation with Spoken Instructions

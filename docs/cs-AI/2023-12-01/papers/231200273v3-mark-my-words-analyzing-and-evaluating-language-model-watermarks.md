@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mark My Words: Analyzing and Evaluating Language Model Watermarks
+title: "Mark My Words: Analyzing and Evaluating Language Model Watermarks"
 ---
 
 # Mark My Words: Analyzing and Evaluating Language Model Watermarks

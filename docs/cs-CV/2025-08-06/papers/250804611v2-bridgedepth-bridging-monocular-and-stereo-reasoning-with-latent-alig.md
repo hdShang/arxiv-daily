@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BridgeDepth: Bridging Monocular and Stereo Reasoning with Latent Alignment
+title: "BridgeDepth: Bridging Monocular and Stereo Reasoning with Latent Alignment"
 ---
 
 # BridgeDepth: Bridging Monocular and Stereo Reasoning with Latent Alignment

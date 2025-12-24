@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Agoran: An Agentic Open Marketplace for 6G RAN Automation
+title: "Agoran: An Agentic Open Marketplace for 6G RAN Automation"
 ---
 
 # Agoran: An Agentic Open Marketplace for 6G RAN Automation

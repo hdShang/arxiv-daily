@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Noise Hypernetworks: Amortizing Test-Time Compute in Diffusion Models
+title: "Noise Hypernetworks: Amortizing Test-Time Compute in Diffusion Models"
 ---
 
 # Noise Hypernetworks: Amortizing Test-Time Compute in Diffusion Models

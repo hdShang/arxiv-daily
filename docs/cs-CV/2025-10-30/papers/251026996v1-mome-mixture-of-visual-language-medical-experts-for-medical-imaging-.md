@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoME: Mixture of Visual Language Medical Experts for Medical Imaging Segmentation
+title: "MoME: Mixture of Visual Language Medical Experts for Medical Imaging Segmentation"
 ---
 
 # MoME: Mixture of Visual Language Medical Experts for Medical Imaging Segmentation

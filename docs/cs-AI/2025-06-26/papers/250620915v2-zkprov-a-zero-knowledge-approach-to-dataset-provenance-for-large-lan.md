@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ZKPROV: A Zero-Knowledge Approach to Dataset Provenance for Large Language Models
+title: "ZKPROV: A Zero-Knowledge Approach to Dataset Provenance for Large Language Models"
 ---
 
 # ZKPROV: A Zero-Knowledge Approach to Dataset Provenance for Large Language Models

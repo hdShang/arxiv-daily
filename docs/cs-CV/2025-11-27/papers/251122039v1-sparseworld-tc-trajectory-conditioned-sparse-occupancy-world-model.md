@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SparseWorld-TC: Trajectory-Conditioned Sparse Occupancy World Model
+title: "SparseWorld-TC: Trajectory-Conditioned Sparse Occupancy World Model"
 ---
 
 # SparseWorld-TC: Trajectory-Conditioned Sparse Occupancy World Model

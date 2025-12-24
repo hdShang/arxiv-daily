@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeRainMamba: A Frequency-Aware State Space Model with Detail Enhancement for Image Deraining
+title: "DeRainMamba: A Frequency-Aware State Space Model with Detail Enhancement for Image Deraining"
 ---
 
 # DeRainMamba: A Frequency-Aware State Space Model with Detail Enhancement for Image Deraining

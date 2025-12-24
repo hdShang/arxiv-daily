@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Large Language Models Meet Knowledge Graphs for Question Answering: Synthesis and Opportunities
+title: "Large Language Models Meet Knowledge Graphs for Question Answering: Synthesis and Opportunities"
 ---
 
 # Large Language Models Meet Knowledge Graphs for Question Answering: Synthesis and Opportunities

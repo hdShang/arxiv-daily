@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Video Object Recognition in Mobile Edge Networks: Local Tracking or Edge Detection?
+title: "Video Object Recognition in Mobile Edge Networks: Local Tracking or Edge Detection?"
 ---
 
 # Video Object Recognition in Mobile Edge Networks: Local Tracking or Edge Detection?

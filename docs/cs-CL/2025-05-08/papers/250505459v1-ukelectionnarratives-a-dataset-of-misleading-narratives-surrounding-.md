@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UKElectionNarratives: A Dataset of Misleading Narratives Surrounding Recent UK General Elections
+title: "UKElectionNarratives: A Dataset of Misleading Narratives Surrounding Recent UK General Elections"
 ---
 
 # UKElectionNarratives: A Dataset of Misleading Narratives Surrounding Recent UK General Elections

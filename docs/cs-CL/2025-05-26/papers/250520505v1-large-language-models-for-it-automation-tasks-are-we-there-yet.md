@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Large Language Models for IT Automation Tasks: Are We There Yet?
+title: "Large Language Models for IT Automation Tasks: Are We There Yet?"
 ---
 
 # Large Language Models for IT Automation Tasks: Are We There Yet?

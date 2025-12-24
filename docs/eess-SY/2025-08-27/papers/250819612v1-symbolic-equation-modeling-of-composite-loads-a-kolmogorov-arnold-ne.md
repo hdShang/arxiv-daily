@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Symbolic Equation Modeling of Composite Loads: A Kolmogorov-Arnold Network based Learning Approach
+title: "Symbolic Equation Modeling of Composite Loads: A Kolmogorov-Arnold Network based Learning Approach"
 ---
 
 # Symbolic Equation Modeling of Composite Loads: A Kolmogorov-Arnold Network based Learning Approach

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency
+title: "InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency"
 ---
 
 # InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency

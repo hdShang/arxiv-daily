@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NeMo-Inspector: A Visualization Tool for LLM Generation Analysis
+title: "NeMo-Inspector: A Visualization Tool for LLM Generation Analysis"
 ---
 
 # NeMo-Inspector: A Visualization Tool for LLM Generation Analysis

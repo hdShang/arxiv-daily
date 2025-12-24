@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning
+title: "MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning"
 ---
 
 # MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning

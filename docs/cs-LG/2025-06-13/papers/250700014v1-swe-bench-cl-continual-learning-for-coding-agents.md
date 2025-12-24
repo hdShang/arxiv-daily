@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SWE-Bench-CL: Continual Learning for Coding Agents
+title: "SWE-Bench-CL: Continual Learning for Coding Agents"
 ---
 
 # SWE-Bench-CL: Continual Learning for Coding Agents

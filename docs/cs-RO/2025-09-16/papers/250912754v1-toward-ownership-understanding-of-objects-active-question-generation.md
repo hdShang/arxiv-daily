@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Toward Ownership Understanding of Objects: Active Question Generation with Large Language Model and Probabilistic Generative Model
+title: "Toward Ownership Understanding of Objects: Active Question Generation with Large Language Model and Probabilistic Generative Model"
 ---
 
 # Toward Ownership Understanding of Objects: Active Question Generation with Large Language Model and Probabilistic Generative Model

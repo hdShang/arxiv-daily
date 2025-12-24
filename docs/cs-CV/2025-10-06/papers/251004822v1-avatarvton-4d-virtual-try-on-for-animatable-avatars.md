@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AvatarVTON: 4D Virtual Try-On for Animatable Avatars
+title: "AvatarVTON: 4D Virtual Try-On for Animatable Avatars"
 ---
 
 # AvatarVTON: 4D Virtual Try-On for Animatable Avatars

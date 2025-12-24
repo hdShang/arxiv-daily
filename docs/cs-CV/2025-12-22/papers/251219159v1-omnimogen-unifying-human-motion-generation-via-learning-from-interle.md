@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniMoGen: Unifying Human Motion Generation via Learning from Interleaved Text-Motion Instructions
+title: "OmniMoGen: Unifying Human Motion Generation via Learning from Interleaved Text-Motion Instructions"
 ---
 
 # OmniMoGen: Unifying Human Motion Generation via Learning from Interleaved Text-Motion Instructions

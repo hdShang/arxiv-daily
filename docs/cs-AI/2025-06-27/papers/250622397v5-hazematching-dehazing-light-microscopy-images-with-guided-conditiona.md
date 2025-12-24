@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HazeMatching: Dehazing Light Microscopy Images with Guided Conditional Flow Matching
+title: "HazeMatching: Dehazing Light Microscopy Images with Guided Conditional Flow Matching"
 ---
 
 # HazeMatching: Dehazing Light Microscopy Images with Guided Conditional Flow Matching

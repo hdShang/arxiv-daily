@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Concurrent Modular Agent: Framework for Autonomous LLM Agents
+title: "A Concurrent Modular Agent: Framework for Autonomous LLM Agents"
 ---
 
 # A Concurrent Modular Agent: Framework for Autonomous LLM Agents

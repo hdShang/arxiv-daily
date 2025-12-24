@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SPADE: Towards Scalable Path Planning Architecture on Actionable Multi-Domain 3D Scene Graphs
+title: "SPADE: Towards Scalable Path Planning Architecture on Actionable Multi-Domain 3D Scene Graphs"
 ---
 
 # SPADE: Towards Scalable Path Planning Architecture on Actionable Multi-Domain 3D Scene Graphs

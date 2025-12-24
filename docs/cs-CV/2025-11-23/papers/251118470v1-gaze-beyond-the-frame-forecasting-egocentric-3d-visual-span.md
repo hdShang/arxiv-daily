@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gaze Beyond the Frame: Forecasting Egocentric 3D Visual Span
+title: "Gaze Beyond the Frame: Forecasting Egocentric 3D Visual Span"
 ---
 
 # Gaze Beyond the Frame: Forecasting Egocentric 3D Visual Span

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LightGTS: A Lightweight General Time Series Forecasting Model
+title: "LightGTS: A Lightweight General Time Series Forecasting Model"
 ---
 
 # LightGTS: A Lightweight General Time Series Forecasting Model

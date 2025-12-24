@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thruster-Enhanced Locomotion: A Decoupled Model Predictive Control with Learned Contact Residuals
+title: "Thruster-Enhanced Locomotion: A Decoupled Model Predictive Control with Learned Contact Residuals"
 ---
 
 # Thruster-Enhanced Locomotion: A Decoupled Model Predictive Control with Learned Contact Residuals

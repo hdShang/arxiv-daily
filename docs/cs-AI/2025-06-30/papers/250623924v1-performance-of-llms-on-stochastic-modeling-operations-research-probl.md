@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Performance of LLMs on Stochastic Modeling Operations Research Problems: From Theory to Practice
+title: "Performance of LLMs on Stochastic Modeling Operations Research Problems: From Theory to Practice"
 ---
 
 # Performance of LLMs on Stochastic Modeling Operations Research Problems: From Theory to Practice

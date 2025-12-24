@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GaussEdit: Adaptive 3D Scene Editing with Text and Image Prompts
+title: "GaussEdit: Adaptive 3D Scene Editing with Text and Image Prompts"
 ---
 
 # GaussEdit: Adaptive 3D Scene Editing with Text and Image Prompts

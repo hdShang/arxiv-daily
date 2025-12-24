@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TrainVerify: Equivalence-Based Verification for Distributed LLM Training
+title: "TrainVerify: Equivalence-Based Verification for Distributed LLM Training"
 ---
 
 # TrainVerify: Equivalence-Based Verification for Distributed LLM Training

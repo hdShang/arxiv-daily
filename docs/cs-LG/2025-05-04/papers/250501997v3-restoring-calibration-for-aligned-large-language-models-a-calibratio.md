@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Restoring Calibration for Aligned Large Language Models: A Calibration-Aware Fine-Tuning Approach
+title: "Restoring Calibration for Aligned Large Language Models: A Calibration-Aware Fine-Tuning Approach"
 ---
 
 # Restoring Calibration for Aligned Large Language Models: A Calibration-Aware Fine-Tuning Approach

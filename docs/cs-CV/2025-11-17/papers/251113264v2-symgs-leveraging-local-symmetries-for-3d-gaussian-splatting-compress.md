@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SymGS : Leveraging Local Symmetries for 3D Gaussian Splatting Compression
+title: "SymGS : Leveraging Local Symmetries for 3D Gaussian Splatting Compression"
 ---
 
 # SymGS : Leveraging Local Symmetries for 3D Gaussian Splatting Compression

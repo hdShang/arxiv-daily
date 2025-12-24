@@ -1,6 +1,6 @@
 ---
 layout: default
-title: REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient Large Reasoning Models
+title: "REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient Large Reasoning Models"
 ---
 
 # REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient Large Reasoning Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Safety Meets Speed: Accelerated Neural MPC with Safety Guarantees and No Retraining
+title: "Safety Meets Speed: Accelerated Neural MPC with Safety Guarantees and No Retraining"
 ---
 
 # Safety Meets Speed: Accelerated Neural MPC with Safety Guarantees and No Retraining

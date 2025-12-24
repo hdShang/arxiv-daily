@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Revisiting Diffusion Q-Learning: From Iterative Denoising to One-Step Action Generation
+title: "Revisiting Diffusion Q-Learning: From Iterative Denoising to One-Step Action Generation"
 ---
 
 # Revisiting Diffusion Q-Learning: From Iterative Denoising to One-Step Action Generation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ControlDreamer: Blending Geometry and Style in Text-to-3D
+title: "ControlDreamer: Blending Geometry and Style in Text-to-3D"
 ---
 
 # ControlDreamer: Blending Geometry and Style in Text-to-3D

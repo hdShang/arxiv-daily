@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting
+title: "FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting"
 ---
 
 # FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting

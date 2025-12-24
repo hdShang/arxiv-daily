@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model
+title: "3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model"
 ---
 
 # 3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model

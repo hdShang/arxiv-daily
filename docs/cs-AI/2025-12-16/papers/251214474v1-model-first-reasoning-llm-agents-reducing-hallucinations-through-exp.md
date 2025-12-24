@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Model-First Reasoning LLM Agents: Reducing Hallucinations through Explicit Problem Modeling
+title: "Model-First Reasoning LLM Agents: Reducing Hallucinations through Explicit Problem Modeling"
 ---
 
 # Model-First Reasoning LLM Agents: Reducing Hallucinations through Explicit Problem Modeling

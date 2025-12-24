@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InternSVG: Towards Unified SVG Tasks with Multimodal Large Language Models
+title: "InternSVG: Towards Unified SVG Tasks with Multimodal Large Language Models"
 ---
 
 # InternSVG: Towards Unified SVG Tasks with Multimodal Large Language Models

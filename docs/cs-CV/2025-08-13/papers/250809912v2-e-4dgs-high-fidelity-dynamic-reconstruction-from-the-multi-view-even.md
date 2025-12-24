@@ -1,6 +1,6 @@
 ---
 layout: default
-title: E-4DGS: High-Fidelity Dynamic Reconstruction from the Multi-view Event Cameras
+title: "E-4DGS: High-Fidelity Dynamic Reconstruction from the Multi-view Event Cameras"
 ---
 
 # E-4DGS: High-Fidelity Dynamic Reconstruction from the Multi-view Event Cameras

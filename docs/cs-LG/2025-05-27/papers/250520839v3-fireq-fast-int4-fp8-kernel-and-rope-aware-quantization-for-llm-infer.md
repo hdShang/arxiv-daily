@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FireQ: Fast INT4-FP8 Kernel and RoPE-aware Quantization for LLM Inference Acceleration
+title: "FireQ: Fast INT4-FP8 Kernel and RoPE-aware Quantization for LLM Inference Acceleration"
 ---
 
 # FireQ: Fast INT4-FP8 Kernel and RoPE-aware Quantization for LLM Inference Acceleration

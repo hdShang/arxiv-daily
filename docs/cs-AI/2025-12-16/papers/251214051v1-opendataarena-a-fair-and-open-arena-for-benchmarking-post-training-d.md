@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OpenDataArena: A Fair and Open Arena for Benchmarking Post-Training Dataset Value
+title: "OpenDataArena: A Fair and Open Arena for Benchmarking Post-Training Dataset Value"
 ---
 
 # OpenDataArena: A Fair and Open Arena for Benchmarking Post-Training Dataset Value

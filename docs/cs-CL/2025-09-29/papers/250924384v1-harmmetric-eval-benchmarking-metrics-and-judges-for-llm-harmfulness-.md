@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HarmMetric Eval: Benchmarking Metrics and Judges for LLM Harmfulness Assessment
+title: "HarmMetric Eval: Benchmarking Metrics and Judges for LLM Harmfulness Assessment"
 ---
 
 # HarmMetric Eval: Benchmarking Metrics and Judges for LLM Harmfulness Assessment

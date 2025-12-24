@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RELIC: Interactive Video World Model with Long-Horizon Memory
+title: "RELIC: Interactive Video World Model with Long-Horizon Memory"
 ---
 
 # RELIC: Interactive Video World Model with Long-Horizon Memory

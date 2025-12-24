@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reasoning Like Experts: Leveraging Multimodal Large Language Models for Drawing-based Psychoanalysis
+title: "Reasoning Like Experts: Leveraging Multimodal Large Language Models for Drawing-based Psychoanalysis"
 ---
 
 # Reasoning Like Experts: Leveraging Multimodal Large Language Models for Drawing-based Psychoanalysis

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Heartcare Suite: Multi-dimensional Understanding of ECG with Raw Multi-lead Signal Modeling
+title: "Heartcare Suite: Multi-dimensional Understanding of ECG with Raw Multi-lead Signal Modeling"
 ---
 
 # Heartcare Suite: Multi-dimensional Understanding of ECG with Raw Multi-lead Signal Modeling

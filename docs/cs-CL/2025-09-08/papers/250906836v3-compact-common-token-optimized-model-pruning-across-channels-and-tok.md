@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COMPACT: Common-token Optimized Model Pruning Across Channels and Tokens
+title: "COMPACT: Common-token Optimized Model Pruning Across Channels and Tokens"
 ---
 
 # COMPACT: Common-token Optimized Model Pruning Across Channels and Tokens

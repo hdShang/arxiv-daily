@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your Reward Function for RL is Your Best PRM for Search: Unifying RL and Search-Based TTS
+title: "Your Reward Function for RL is Your Best PRM for Search: Unifying RL and Search-Based TTS"
 ---
 
 # Your Reward Function for RL is Your Best PRM for Search: Unifying RL and Search-Based TTS

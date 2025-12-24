@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoBridge: A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation
+title: "RoBridge: A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation"
 ---
 
 # RoBridge: A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PhysiAgent: An Embodied Agent Framework in Physical World
+title: "PhysiAgent: An Embodied Agent Framework in Physical World"
 ---
 
 # PhysiAgent: An Embodied Agent Framework in Physical World

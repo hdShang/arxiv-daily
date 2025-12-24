@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SwS: Self-aware Weakness-driven Problem Synthesis in Reinforcement Learning for LLM Reasoning
+title: "SwS: Self-aware Weakness-driven Problem Synthesis in Reinforcement Learning for LLM Reasoning"
 ---
 
 # SwS: Self-aware Weakness-driven Problem Synthesis in Reinforcement Learning for LLM Reasoning

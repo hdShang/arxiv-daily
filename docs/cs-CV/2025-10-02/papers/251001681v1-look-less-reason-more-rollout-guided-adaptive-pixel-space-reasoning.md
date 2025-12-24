@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Look Less, Reason More: Rollout-Guided Adaptive Pixel-Space Reasoning
+title: "Look Less, Reason More: Rollout-Guided Adaptive Pixel-Space Reasoning"
 ---
 
 # Look Less, Reason More: Rollout-Guided Adaptive Pixel-Space Reasoning

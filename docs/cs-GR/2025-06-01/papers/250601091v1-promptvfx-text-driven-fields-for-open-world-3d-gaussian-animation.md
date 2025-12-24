@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PromptVFX: Text-Driven Fields for Open-World 3D Gaussian Animation
+title: "PromptVFX: Text-Driven Fields for Open-World 3D Gaussian Animation"
 ---
 
 # PromptVFX: Text-Driven Fields for Open-World 3D Gaussian Animation

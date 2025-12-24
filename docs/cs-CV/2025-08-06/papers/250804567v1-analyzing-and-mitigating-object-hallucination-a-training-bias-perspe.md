@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Analyzing and Mitigating Object Hallucination: A Training Bias Perspective
+title: "Analyzing and Mitigating Object Hallucination: A Training Bias Perspective"
 ---
 
 # Analyzing and Mitigating Object Hallucination: A Training Bias Perspective

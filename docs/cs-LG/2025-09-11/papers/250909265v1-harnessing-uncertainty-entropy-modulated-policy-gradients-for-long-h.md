@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents
+title: "Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents"
 ---
 
 # Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents

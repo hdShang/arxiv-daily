@@ -1,6 +1,6 @@
 ---
 layout: default
-title: REI-Bench: Can Embodied Agents Understand Vague Human Instructions in Task Planning?
+title: "REI-Bench: Can Embodied Agents Understand Vague Human Instructions in Task Planning?"
 ---
 
 # REI-Bench: Can Embodied Agents Understand Vague Human Instructions in Task Planning?

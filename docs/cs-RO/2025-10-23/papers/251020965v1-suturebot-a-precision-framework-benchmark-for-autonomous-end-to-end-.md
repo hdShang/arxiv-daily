@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SutureBot: A Precision Framework & Benchmark For Autonomous End-to-End Suturing
+title: "SutureBot: A Precision Framework & Benchmark For Autonomous End-to-End Suturing"
 ---
 
 # SutureBot: A Precision Framework & Benchmark For Autonomous End-to-End Suturing

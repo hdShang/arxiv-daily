@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoIDO: Efficient Data Selection for Visual Instruction Tuning via Coupled Importance-Diversity Optimization
+title: "CoIDO: Efficient Data Selection for Visual Instruction Tuning via Coupled Importance-Diversity Optimization"
 ---
 
 # CoIDO: Efficient Data Selection for Visual Instruction Tuning via Coupled Importance-Diversity Optimization

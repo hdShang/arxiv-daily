@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Yes-MT's Submission to the Low-Resource Indic Language Translation Shared Task in WMT 2024
+title: "Yes-MT's Submission to the Low-Resource Indic Language Translation Shared Task in WMT 2024"
 ---
 
 # Yes-MT's Submission to the Low-Resource Indic Language Translation Shared Task in WMT 2024

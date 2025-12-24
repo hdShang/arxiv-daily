@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HiERO: understanding the hierarchy of human behavior enhances reasoning on egocentric videos
+title: "HiERO: understanding the hierarchy of human behavior enhances reasoning on egocentric videos"
 ---
 
 # HiERO: understanding the hierarchy of human behavior enhances reasoning on egocentric videos

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sparfels: Fast Reconstruction from Sparse Unposed Imagery
+title: "Sparfels: Fast Reconstruction from Sparse Unposed Imagery"
 ---
 
 # Sparfels: Fast Reconstruction from Sparse Unposed Imagery

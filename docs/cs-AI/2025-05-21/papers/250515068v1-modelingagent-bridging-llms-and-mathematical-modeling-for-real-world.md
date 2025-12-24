@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ModelingAgent: Bridging LLMs and Mathematical Modeling for Real-World Challenges
+title: "ModelingAgent: Bridging LLMs and Mathematical Modeling for Real-World Challenges"
 ---
 
 # ModelingAgent: Bridging LLMs and Mathematical Modeling for Real-World Challenges

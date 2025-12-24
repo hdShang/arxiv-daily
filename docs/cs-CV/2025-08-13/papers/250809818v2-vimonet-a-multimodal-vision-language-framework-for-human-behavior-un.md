@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ViMoNet: A Multimodal Vision-Language Framework for Human Behavior Understanding from Motion and Video
+title: "ViMoNet: A Multimodal Vision-Language Framework for Human Behavior Understanding from Motion and Video"
 ---
 
 # ViMoNet: A Multimodal Vision-Language Framework for Human Behavior Understanding from Motion and Video

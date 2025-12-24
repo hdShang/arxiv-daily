@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Grove MoE: Towards Efficient and Superior MoE LLMs with Adjugate Experts
+title: "Grove MoE: Towards Efficient and Superior MoE LLMs with Adjugate Experts"
 ---
 
 # Grove MoE: Towards Efficient and Superior MoE LLMs with Adjugate Experts

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning
+title: "VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning"
 ---
 
 # VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning

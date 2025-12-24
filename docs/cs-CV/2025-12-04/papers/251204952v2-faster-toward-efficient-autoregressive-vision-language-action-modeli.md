@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via Neural Action Tokenization
+title: "FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via Neural Action Tokenization"
 ---
 
 # FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via Neural Action Tokenization

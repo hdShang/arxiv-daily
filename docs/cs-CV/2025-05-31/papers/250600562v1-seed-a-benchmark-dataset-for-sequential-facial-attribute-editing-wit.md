@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SEED: A Benchmark Dataset for Sequential Facial Attribute Editing with Diffusion Models
+title: "SEED: A Benchmark Dataset for Sequential Facial Attribute Editing with Diffusion Models"
 ---
 
 # SEED: A Benchmark Dataset for Sequential Facial Attribute Editing with Diffusion Models

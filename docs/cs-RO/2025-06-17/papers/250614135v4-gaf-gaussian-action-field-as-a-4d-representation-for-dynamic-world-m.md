@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GAF: Gaussian Action Field as a 4D Representation for Dynamic World Modeling in Robotic Manipulation
+title: "GAF: Gaussian Action Field as a 4D Representation for Dynamic World Modeling in Robotic Manipulation"
 ---
 
 # GAF: Gaussian Action Field as a 4D Representation for Dynamic World Modeling in Robotic Manipulation

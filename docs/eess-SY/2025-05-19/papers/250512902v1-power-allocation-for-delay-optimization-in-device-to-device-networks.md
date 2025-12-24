@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Power Allocation for Delay Optimization in Device-to-Device Networks: A Graph Reinforcement Learning Approach
+title: "Power Allocation for Delay Optimization in Device-to-Device Networks: A Graph Reinforcement Learning Approach"
 ---
 
 # Power Allocation for Delay Optimization in Device-to-Device Networks: A Graph Reinforcement Learning Approach

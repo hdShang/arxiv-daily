@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StatsMerging: Statistics-Guided Model Merging via Task-Specific Teacher Distillation
+title: "StatsMerging: Statistics-Guided Model Merging via Task-Specific Teacher Distillation"
 ---
 
 # StatsMerging: Statistics-Guided Model Merging via Task-Specific Teacher Distillation

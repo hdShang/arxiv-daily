@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pseudo Depth Meets Gaussian: A Feed-forward RGB SLAM Baseline
+title: "Pseudo Depth Meets Gaussian: A Feed-forward RGB SLAM Baseline"
 ---
 
 # Pseudo Depth Meets Gaussian: A Feed-forward RGB SLAM Baseline

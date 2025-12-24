@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation
+title: "DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation"
 ---
 
 # DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation

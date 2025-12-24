@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KBE-DME: Dynamic Multimodal Evaluation via Knowledge Enhanced Benchmark Evolution
+title: "KBE-DME: Dynamic Multimodal Evaluation via Knowledge Enhanced Benchmark Evolution"
 ---
 
 # KBE-DME: Dynamic Multimodal Evaluation via Knowledge Enhanced Benchmark Evolution

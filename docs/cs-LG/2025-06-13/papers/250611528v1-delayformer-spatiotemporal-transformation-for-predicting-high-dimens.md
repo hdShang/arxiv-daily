@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Delayformer: spatiotemporal transformation for predicting high-dimensional dynamics
+title: "Delayformer: spatiotemporal transformation for predicting high-dimensional dynamics"
 ---
 
 # Delayformer: spatiotemporal transformation for predicting high-dimensional dynamics

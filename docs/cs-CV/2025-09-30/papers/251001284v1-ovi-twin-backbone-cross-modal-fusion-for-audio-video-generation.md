@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ovi: Twin Backbone Cross-Modal Fusion for Audio-Video Generation
+title: "Ovi: Twin Backbone Cross-Modal Fusion for Audio-Video Generation"
 ---
 
 # Ovi: Twin Backbone Cross-Modal Fusion for Audio-Video Generation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial Representations
+title: "Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial Representations"
 ---
 
 # Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial Representations

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Better with Less: Small Proprietary Models Surpass Large Language Models in Financial Transaction Understanding
+title: "Better with Less: Small Proprietary Models Surpass Large Language Models in Financial Transaction Understanding"
 ---
 
 # Better with Less: Small Proprietary Models Surpass Large Language Models in Financial Transaction Understanding

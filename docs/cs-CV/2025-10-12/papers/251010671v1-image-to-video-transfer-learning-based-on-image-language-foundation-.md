@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Image-to-Video Transfer Learning based on Image-Language Foundation Models: A Comprehensive Survey
+title: "Image-to-Video Transfer Learning based on Image-Language Foundation Models: A Comprehensive Survey"
 ---
 
 # Image-to-Video Transfer Learning based on Image-Language Foundation Models: A Comprehensive Survey

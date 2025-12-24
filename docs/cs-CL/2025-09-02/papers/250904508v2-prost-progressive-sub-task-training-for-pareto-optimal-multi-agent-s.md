@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ProST: Progressive Sub-task Training for Pareto-Optimal Multi-agent Systems Using Small Language Models
+title: "ProST: Progressive Sub-task Training for Pareto-Optimal Multi-agent Systems Using Small Language Models"
 ---
 
 # ProST: Progressive Sub-task Training for Pareto-Optimal Multi-agent Systems Using Small Language Models

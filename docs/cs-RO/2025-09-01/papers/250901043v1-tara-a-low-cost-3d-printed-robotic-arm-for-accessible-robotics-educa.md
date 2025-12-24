@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TARA: A Low-Cost 3D-Printed Robotic Arm for Accessible Robotics Education
+title: "TARA: A Low-Cost 3D-Printed Robotic Arm for Accessible Robotics Education"
 ---
 
 # TARA: A Low-Cost 3D-Printed Robotic Arm for Accessible Robotics Education

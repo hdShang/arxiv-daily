@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pico-Banana-400K: A Large-Scale Dataset for Text-Guided Image Editing
+title: "Pico-Banana-400K: A Large-Scale Dataset for Text-Guided Image Editing"
 ---
 
 # Pico-Banana-400K: A Large-Scale Dataset for Text-Guided Image Editing

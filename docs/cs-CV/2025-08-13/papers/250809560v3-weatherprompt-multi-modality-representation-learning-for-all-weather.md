@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WeatherPrompt: Multi-modality Representation Learning for All-Weather Drone Visual Geo-Localization
+title: "WeatherPrompt: Multi-modality Representation Learning for All-Weather Drone Visual Geo-Localization"
 ---
 
 # WeatherPrompt: Multi-modality Representation Learning for All-Weather Drone Visual Geo-Localization

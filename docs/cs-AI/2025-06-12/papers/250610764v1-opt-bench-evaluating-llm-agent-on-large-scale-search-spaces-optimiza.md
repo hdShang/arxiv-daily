@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems
+title: "OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems"
 ---
 
 # OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems

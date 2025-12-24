@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Human Hands to Robot Arms: Manipulation Skills Transfer via Trajectory Alignment
+title: "From Human Hands to Robot Arms: Manipulation Skills Transfer via Trajectory Alignment"
 ---
 
 # From Human Hands to Robot Arms: Manipulation Skills Transfer via Trajectory Alignment

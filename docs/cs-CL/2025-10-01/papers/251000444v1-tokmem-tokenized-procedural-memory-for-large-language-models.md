@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TokMem: Tokenized Procedural Memory for Large Language Models
+title: "TokMem: Tokenized Procedural Memory for Large Language Models"
 ---
 
 # TokMem: Tokenized Procedural Memory for Large Language Models

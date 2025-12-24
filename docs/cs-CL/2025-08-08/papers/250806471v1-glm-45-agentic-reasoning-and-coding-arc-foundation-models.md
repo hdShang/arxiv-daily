@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
+title: "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
 ---
 
 # GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models

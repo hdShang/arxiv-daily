@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MuGS: Multi-Baseline Generalizable Gaussian Splatting Reconstruction
+title: "MuGS: Multi-Baseline Generalizable Gaussian Splatting Reconstruction"
 ---
 
 # MuGS: Multi-Baseline Generalizable Gaussian Splatting Reconstruction

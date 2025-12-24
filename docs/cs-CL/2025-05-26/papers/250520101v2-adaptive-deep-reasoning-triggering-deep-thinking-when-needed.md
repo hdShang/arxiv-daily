@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adaptive Deep Reasoning: Triggering Deep Thinking When Needed
+title: "Adaptive Deep Reasoning: Triggering Deep Thinking When Needed"
 ---
 
 # Adaptive Deep Reasoning: Triggering Deep Thinking When Needed

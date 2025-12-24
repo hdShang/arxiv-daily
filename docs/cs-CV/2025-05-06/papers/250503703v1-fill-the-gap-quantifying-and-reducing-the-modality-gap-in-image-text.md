@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fill the Gap: Quantifying and Reducing the Modality Gap in Image-Text Representation Learning
+title: "Fill the Gap: Quantifying and Reducing the Modality Gap in Image-Text Representation Learning"
 ---
 
 # Fill the Gap: Quantifying and Reducing the Modality Gap in Image-Text Representation Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MIDAS: Multimodal Interactive Digital-humAn Synthesis via Real-time Autoregressive Video Generation
+title: "MIDAS: Multimodal Interactive Digital-humAn Synthesis via Real-time Autoregressive Video Generation"
 ---
 
 # MIDAS: Multimodal Interactive Digital-humAn Synthesis via Real-time Autoregressive Video Generation

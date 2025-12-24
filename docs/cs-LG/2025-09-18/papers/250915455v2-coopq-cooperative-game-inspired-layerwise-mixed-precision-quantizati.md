@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoopQ: Cooperative Game Inspired Layerwise Mixed Precision Quantization for LLMs
+title: "CoopQ: Cooperative Game Inspired Layerwise Mixed Precision Quantization for LLMs"
 ---
 
 # CoopQ: Cooperative Game Inspired Layerwise Mixed Precision Quantization for LLMs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OVSegDT: Segmenting Transformer for Open-Vocabulary Object Goal Navigation
+title: "OVSegDT: Segmenting Transformer for Open-Vocabulary Object Goal Navigation"
 ---
 
 # OVSegDT: Segmenting Transformer for Open-Vocabulary Object Goal Navigation

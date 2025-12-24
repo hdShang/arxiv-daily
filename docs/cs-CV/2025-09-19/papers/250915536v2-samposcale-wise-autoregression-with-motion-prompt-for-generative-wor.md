@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SAMPO:Scale-wise Autoregression with Motion PrOmpt for generative world models
+title: "SAMPO:Scale-wise Autoregression with Motion PrOmpt for generative world models"
 ---
 
 # SAMPO:Scale-wise Autoregression with Motion PrOmpt for generative world models

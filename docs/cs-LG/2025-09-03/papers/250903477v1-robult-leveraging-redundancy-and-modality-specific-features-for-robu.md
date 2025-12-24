@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Robult: Leveraging Redundancy and Modality Specific Features for Robust Multimodal Learning
+title: "Robult: Leveraging Redundancy and Modality Specific Features for Robust Multimodal Learning"
 ---
 
 # Robult: Leveraging Redundancy and Modality Specific Features for Robust Multimodal Learning

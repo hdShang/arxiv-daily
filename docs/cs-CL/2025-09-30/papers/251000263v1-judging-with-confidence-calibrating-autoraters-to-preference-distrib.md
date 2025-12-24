@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Judging with Confidence: Calibrating Autoraters to Preference Distributions
+title: "Judging with Confidence: Calibrating Autoraters to Preference Distributions"
 ---
 
 # Judging with Confidence: Calibrating Autoraters to Preference Distributions

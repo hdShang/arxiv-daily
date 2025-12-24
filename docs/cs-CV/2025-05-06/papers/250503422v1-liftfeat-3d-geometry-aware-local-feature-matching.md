@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LiftFeat: 3D Geometry-Aware Local Feature Matching
+title: "LiftFeat: 3D Geometry-Aware Local Feature Matching"
 ---
 
 # LiftFeat: 3D Geometry-Aware Local Feature Matching

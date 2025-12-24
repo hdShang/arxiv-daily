@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HairGS: Hair Strand Reconstruction based on 3D Gaussian Splatting
+title: "HairGS: Hair Strand Reconstruction based on 3D Gaussian Splatting"
 ---
 
 # HairGS: Hair Strand Reconstruction based on 3D Gaussian Splatting

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation
+title: "Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation"
 ---
 
 # Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation

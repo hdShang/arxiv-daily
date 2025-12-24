@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Laplacian Analysis Meets Dynamics Modelling: Gaussian Splatting for 4D Reconstruction
+title: "Laplacian Analysis Meets Dynamics Modelling: Gaussian Splatting for 4D Reconstruction"
 ---
 
 # Laplacian Analysis Meets Dynamics Modelling: Gaussian Splatting for 4D Reconstruction

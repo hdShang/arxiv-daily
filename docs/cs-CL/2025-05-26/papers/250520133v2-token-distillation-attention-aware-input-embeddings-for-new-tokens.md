@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Token Distillation: Attention-aware Input Embeddings For New Tokens
+title: "Token Distillation: Attention-aware Input Embeddings For New Tokens"
 ---
 
 # Token Distillation: Attention-aware Input Embeddings For New Tokens

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pixie: Fast and Generalizable Supervised Learning of 3D Physics from Pixels
+title: "Pixie: Fast and Generalizable Supervised Learning of 3D Physics from Pixels"
 ---
 
 # Pixie: Fast and Generalizable Supervised Learning of 3D Physics from Pixels

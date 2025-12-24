@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SkelSplat: Robust Multi-view 3D Human Pose Estimation with Differentiable Gaussian Rendering
+title: "SkelSplat: Robust Multi-view 3D Human Pose Estimation with Differentiable Gaussian Rendering"
 ---
 
 # SkelSplat: Robust Multi-view 3D Human Pose Estimation with Differentiable Gaussian Rendering

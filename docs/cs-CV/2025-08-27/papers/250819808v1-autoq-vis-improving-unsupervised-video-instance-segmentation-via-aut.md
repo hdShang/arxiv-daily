@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AutoQ-VIS: Improving Unsupervised Video Instance Segmentation via Automatic Quality Assessment
+title: "AutoQ-VIS: Improving Unsupervised Video Instance Segmentation via Automatic Quality Assessment"
 ---
 
 # AutoQ-VIS: Improving Unsupervised Video Instance Segmentation via Automatic Quality Assessment

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MTIL: Encoding Full History with Mamba for Temporal Imitation Learning
+title: "MTIL: Encoding Full History with Mamba for Temporal Imitation Learning"
 ---
 
 # MTIL: Encoding Full History with Mamba for Temporal Imitation Learning

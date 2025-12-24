@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ADHint: Adaptive Hints with Difficulty Priors for Reinforcement Learning
+title: "ADHint: Adaptive Hints with Difficulty Priors for Reinforcement Learning"
 ---
 
 # ADHint: Adaptive Hints with Difficulty Priors for Reinforcement Learning

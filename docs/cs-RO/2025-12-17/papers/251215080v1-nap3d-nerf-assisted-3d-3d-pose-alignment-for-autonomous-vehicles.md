@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NAP3D: NeRF Assisted 3D-3D Pose Alignment for Autonomous Vehicles
+title: "NAP3D: NeRF Assisted 3D-3D Pose Alignment for Autonomous Vehicles"
 ---
 
 # NAP3D: NeRF Assisted 3D-3D Pose Alignment for Autonomous Vehicles

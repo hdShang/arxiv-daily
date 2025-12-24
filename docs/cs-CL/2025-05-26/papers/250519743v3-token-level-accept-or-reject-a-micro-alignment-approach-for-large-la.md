@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Token-level Accept or Reject: A Micro Alignment Approach for Large Language Models
+title: "Token-level Accept or Reject: A Micro Alignment Approach for Large Language Models"
 ---
 
 # Token-level Accept or Reject: A Micro Alignment Approach for Large Language Models

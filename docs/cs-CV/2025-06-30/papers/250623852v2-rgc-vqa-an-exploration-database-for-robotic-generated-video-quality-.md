@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RGC-VQA: An Exploration Database for Robotic-Generated Video Quality Assessment
+title: "RGC-VQA: An Exploration Database for Robotic-Generated Video Quality Assessment"
 ---
 
 # RGC-VQA: An Exploration Database for Robotic-Generated Video Quality Assessment

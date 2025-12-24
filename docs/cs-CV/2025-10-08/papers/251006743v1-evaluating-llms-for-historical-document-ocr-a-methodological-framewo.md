@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Evaluating LLMs for Historical Document OCR: A Methodological Framework for Digital Humanities
+title: "Evaluating LLMs for Historical Document OCR: A Methodological Framework for Digital Humanities"
 ---
 
 # Evaluating LLMs for Historical Document OCR: A Methodological Framework for Digital Humanities

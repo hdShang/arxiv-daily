@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MathSticks: A Benchmark for Visual Symbolic Compositional Reasoning with Matchstick Puzzles
+title: "MathSticks: A Benchmark for Visual Symbolic Compositional Reasoning with Matchstick Puzzles"
 ---
 
 # MathSticks: A Benchmark for Visual Symbolic Compositional Reasoning with Matchstick Puzzles

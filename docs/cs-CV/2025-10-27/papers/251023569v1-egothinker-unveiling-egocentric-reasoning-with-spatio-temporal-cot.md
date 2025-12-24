@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EgoThinker: Unveiling Egocentric Reasoning with Spatio-Temporal CoT
+title: "EgoThinker: Unveiling Egocentric Reasoning with Spatio-Temporal CoT"
 ---
 
 # EgoThinker: Unveiling Egocentric Reasoning with Spatio-Temporal CoT

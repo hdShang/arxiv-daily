@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EmoSign: A Multimodal Dataset for Understanding Emotions in American Sign Language
+title: "EmoSign: A Multimodal Dataset for Understanding Emotions in American Sign Language"
 ---
 
 # EmoSign: A Multimodal Dataset for Understanding Emotions in American Sign Language

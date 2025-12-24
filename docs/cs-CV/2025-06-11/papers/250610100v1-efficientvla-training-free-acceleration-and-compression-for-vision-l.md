@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models
+title: "EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models"
 ---
 
 # EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models

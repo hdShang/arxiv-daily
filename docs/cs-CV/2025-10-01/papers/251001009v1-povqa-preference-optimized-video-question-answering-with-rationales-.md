@@ -1,6 +1,6 @@
 ---
 layout: default
-title: POVQA: Preference-Optimized Video Question Answering with Rationales for Data Efficiency
+title: "POVQA: Preference-Optimized Video Question Answering with Rationales for Data Efficiency"
 ---
 
 # POVQA: Preference-Optimized Video Question Answering with Rationales for Data Efficiency

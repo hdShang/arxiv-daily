@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AdaptiveGuard: Towards Adaptive Runtime Safety for LLM-Powered Software
+title: "AdaptiveGuard: Towards Adaptive Runtime Safety for LLM-Powered Software"
 ---
 
 # AdaptiveGuard: Towards Adaptive Runtime Safety for LLM-Powered Software

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AC/DC: LLM-based Audio Comprehension via Dialogue Continuation
+title: "AC/DC: LLM-based Audio Comprehension via Dialogue Continuation"
 ---
 
 # AC/DC: LLM-based Audio Comprehension via Dialogue Continuation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cross-Linguistic Transfer in Multilingual NLP: The Role of Language Families and Morphology
+title: "Cross-Linguistic Transfer in Multilingual NLP: The Role of Language Families and Morphology"
 ---
 
 # Cross-Linguistic Transfer in Multilingual NLP: The Role of Language Families and Morphology

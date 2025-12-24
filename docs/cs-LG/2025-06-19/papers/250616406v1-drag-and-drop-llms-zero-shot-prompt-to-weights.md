@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Drag-and-Drop LLMs: Zero-Shot Prompt-to-Weights
+title: "Drag-and-Drop LLMs: Zero-Shot Prompt-to-Weights"
 ---
 
 # Drag-and-Drop LLMs: Zero-Shot Prompt-to-Weights

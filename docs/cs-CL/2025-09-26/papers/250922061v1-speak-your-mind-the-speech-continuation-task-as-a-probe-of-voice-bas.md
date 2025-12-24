@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Speak Your Mind: The Speech Continuation Task as a Probe of Voice-Based Model Bias
+title: "Speak Your Mind: The Speech Continuation Task as a Probe of Voice-Based Model Bias"
 ---
 
 # Speak Your Mind: The Speech Continuation Task as a Probe of Voice-Based Model Bias

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Model Science: getting serious about verification, explanation and control of AI systems
+title: "Model Science: getting serious about verification, explanation and control of AI systems"
 ---
 
 # Model Science: getting serious about verification, explanation and control of AI systems

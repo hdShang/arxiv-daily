@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM4Sweat: A Trustworthy Large Language Model for Hyperhidrosis Support
+title: "LLM4Sweat: A Trustworthy Large Language Model for Hyperhidrosis Support"
 ---
 
 # LLM4Sweat: A Trustworthy Large Language Model for Hyperhidrosis Support

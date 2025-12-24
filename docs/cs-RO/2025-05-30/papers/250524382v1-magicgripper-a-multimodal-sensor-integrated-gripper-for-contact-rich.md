@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MagicGripper: A Multimodal Sensor-Integrated Gripper for Contact-Rich Robotic Manipulation
+title: "MagicGripper: A Multimodal Sensor-Integrated Gripper for Contact-Rich Robotic Manipulation"
 ---
 
 # MagicGripper: A Multimodal Sensor-Integrated Gripper for Contact-Rich Robotic Manipulation

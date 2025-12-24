@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLMs are Better Than You Think: Label-Guided In-Context Learning for Named Entity Recognition
+title: "LLMs are Better Than You Think: Label-Guided In-Context Learning for Named Entity Recognition"
 ---
 
 # LLMs are Better Than You Think: Label-Guided In-Context Learning for Named Entity Recognition

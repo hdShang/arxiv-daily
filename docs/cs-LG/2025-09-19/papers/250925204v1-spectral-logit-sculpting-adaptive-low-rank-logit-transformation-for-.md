@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spectral Logit Sculpting: Adaptive Low-Rank Logit Transformation for Controlled Text Generation
+title: "Spectral Logit Sculpting: Adaptive Low-Rank Logit Transformation for Controlled Text Generation"
 ---
 
 # Spectral Logit Sculpting: Adaptive Low-Rank Logit Transformation for Controlled Text Generation

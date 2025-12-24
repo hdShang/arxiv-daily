@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GTPO and GRPO-S: Token and Sequence-Level Reward Shaping with Policy Entropy
+title: "GTPO and GRPO-S: Token and Sequence-Level Reward Shaping with Policy Entropy"
 ---
 
 # GTPO and GRPO-S: Token and Sequence-Level Reward Shaping with Policy Entropy

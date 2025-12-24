@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deep Space Weather Model: Long-Range Solar Flare Prediction from Multi-Wavelength Images
+title: "Deep Space Weather Model: Long-Range Solar Flare Prediction from Multi-Wavelength Images"
 ---
 
 # Deep Space Weather Model: Long-Range Solar Flare Prediction from Multi-Wavelength Images

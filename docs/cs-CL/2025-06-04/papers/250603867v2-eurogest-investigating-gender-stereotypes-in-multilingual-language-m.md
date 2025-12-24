@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EuroGEST: Investigating gender stereotypes in multilingual language models
+title: "EuroGEST: Investigating gender stereotypes in multilingual language models"
 ---
 
 # EuroGEST: Investigating gender stereotypes in multilingual language models

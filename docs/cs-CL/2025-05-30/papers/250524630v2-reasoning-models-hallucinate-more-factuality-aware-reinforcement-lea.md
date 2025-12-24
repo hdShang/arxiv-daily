@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reasoning Models Hallucinate More: Factuality-Aware Reinforcement Learning for Large Reasoning Models
+title: "Reasoning Models Hallucinate More: Factuality-Aware Reinforcement Learning for Large Reasoning Models"
 ---
 
 # Reasoning Models Hallucinate More: Factuality-Aware Reinforcement Learning for Large Reasoning Models

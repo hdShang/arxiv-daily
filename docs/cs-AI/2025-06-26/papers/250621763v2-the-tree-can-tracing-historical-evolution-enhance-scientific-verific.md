@@ -1,6 +1,6 @@
 ---
 layout: default
-title: THE-Tree: Can Tracing Historical Evolution Enhance Scientific Verification and Reasoning?
+title: "THE-Tree: Can Tracing Historical Evolution Enhance Scientific Verification and Reasoning?"
 ---
 
 # THE-Tree: Can Tracing Historical Evolution Enhance Scientific Verification and Reasoning?

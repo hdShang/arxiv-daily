@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ResMimic: From General Motion Tracking to Humanoid Whole-body Loco-Manipulation via Residual Learning
+title: "ResMimic: From General Motion Tracking to Humanoid Whole-body Loco-Manipulation via Residual Learning"
 ---
 
 # ResMimic: From General Motion Tracking to Humanoid Whole-body Loco-Manipulation via Residual Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ViRC: Enhancing Visual Interleaved Mathematical CoT with Reason Chunking
+title: "ViRC: Enhancing Visual Interleaved Mathematical CoT with Reason Chunking"
 ---
 
 # ViRC: Enhancing Visual Interleaved Mathematical CoT with Reason Chunking

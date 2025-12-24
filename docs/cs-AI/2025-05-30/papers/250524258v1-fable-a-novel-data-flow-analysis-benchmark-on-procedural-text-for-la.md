@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FABLE: A Novel Data-Flow Analysis Benchmark on Procedural Text for Large Language Model Evaluation
+title: "FABLE: A Novel Data-Flow Analysis Benchmark on Procedural Text for Large Language Model Evaluation"
 ---
 
 # FABLE: A Novel Data-Flow Analysis Benchmark on Procedural Text for Large Language Model Evaluation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CloudMamba: Grouped Selective State Spaces for Point Cloud Analysis
+title: "CloudMamba: Grouped Selective State Spaces for Point Cloud Analysis"
 ---
 
 # CloudMamba: Grouped Selective State Spaces for Point Cloud Analysis

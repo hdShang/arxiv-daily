@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Do We Know What LLMs Don't Know? A Study of Consistency in Knowledge Probing
+title: "Do We Know What LLMs Don't Know? A Study of Consistency in Knowledge Probing"
 ---
 
 # Do We Know What LLMs Don't Know? A Study of Consistency in Knowledge Probing

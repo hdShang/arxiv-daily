@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models
+title: "100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models"
 ---
 
 # 100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models

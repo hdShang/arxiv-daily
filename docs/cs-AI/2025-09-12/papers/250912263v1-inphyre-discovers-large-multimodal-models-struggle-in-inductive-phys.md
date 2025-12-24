@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InPhyRe Discovers: Large Multimodal Models Struggle in Inductive Physical Reasoning
+title: "InPhyRe Discovers: Large Multimodal Models Struggle in Inductive Physical Reasoning"
 ---
 
 # InPhyRe Discovers: Large Multimodal Models Struggle in Inductive Physical Reasoning

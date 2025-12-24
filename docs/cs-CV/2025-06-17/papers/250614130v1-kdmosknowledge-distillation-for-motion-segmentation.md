@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KDMOS:Knowledge Distillation for Motion Segmentation
+title: "KDMOS:Knowledge Distillation for Motion Segmentation"
 ---
 
 # KDMOS:Knowledge Distillation for Motion Segmentation

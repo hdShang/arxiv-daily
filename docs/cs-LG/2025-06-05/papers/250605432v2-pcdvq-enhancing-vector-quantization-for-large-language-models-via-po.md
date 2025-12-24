@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PCDVQ: Enhancing Vector Quantization for Large Language Models via Polar Coordinate Decoupling
+title: "PCDVQ: Enhancing Vector Quantization for Large Language Models via Polar Coordinate Decoupling"
 ---
 
 # PCDVQ: Enhancing Vector Quantization for Large Language Models via Polar Coordinate Decoupling

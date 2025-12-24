@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TrajSceneLLM: A Multimodal Perspective on Semantic GPS Trajectory Analysis
+title: "TrajSceneLLM: A Multimodal Perspective on Semantic GPS Trajectory Analysis"
 ---
 
 # TrajSceneLLM: A Multimodal Perspective on Semantic GPS Trajectory Analysis

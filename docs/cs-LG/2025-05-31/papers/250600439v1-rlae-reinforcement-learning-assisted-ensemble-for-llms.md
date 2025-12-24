@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RLAE: Reinforcement Learning-Assisted Ensemble for LLMs
+title: "RLAE: Reinforcement Learning-Assisted Ensemble for LLMs"
 ---
 
 # RLAE: Reinforcement Learning-Assisted Ensemble for LLMs

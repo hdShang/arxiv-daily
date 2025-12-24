@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MOGRAS: Human Motion with Grasping in 3D Scenes
+title: "MOGRAS: Human Motion with Grasping in 3D Scenes"
 ---
 
 # MOGRAS: Human Motion with Grasping in 3D Scenes

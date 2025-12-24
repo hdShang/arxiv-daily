@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CLF-RL: Control Lyapunov Function Guided Reinforcement Learning
+title: "CLF-RL: Control Lyapunov Function Guided Reinforcement Learning"
 ---
 
 # CLF-RL: Control Lyapunov Function Guided Reinforcement Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PMMD: A pose-guided multi-view multi-modal diffusion for person generation
+title: "PMMD: A pose-guided multi-view multi-modal diffusion for person generation"
 ---
 
 # PMMD: A pose-guided multi-view multi-modal diffusion for person generation

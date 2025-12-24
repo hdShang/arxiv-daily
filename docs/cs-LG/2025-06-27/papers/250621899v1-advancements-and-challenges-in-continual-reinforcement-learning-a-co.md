@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Advancements and Challenges in Continual Reinforcement Learning: A Comprehensive Review
+title: "Advancements and Challenges in Continual Reinforcement Learning: A Comprehensive Review"
 ---
 
 # Advancements and Challenges in Continual Reinforcement Learning: A Comprehensive Review

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoGU V2: Toward a Higher Pareto Frontier Between Model Usability and Security
+title: "MoGU V2: Toward a Higher Pareto Frontier Between Model Usability and Security"
 ---
 
 # MoGU V2: Toward a Higher Pareto Frontier Between Model Usability and Security

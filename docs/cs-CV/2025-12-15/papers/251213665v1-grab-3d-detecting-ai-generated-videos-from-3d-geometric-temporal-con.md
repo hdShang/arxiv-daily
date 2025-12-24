@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Grab-3D: Detecting AI-Generated Videos from 3D Geometric Temporal Consistency
+title: "Grab-3D: Detecting AI-Generated Videos from 3D Geometric Temporal Consistency"
 ---
 
 # Grab-3D: Detecting AI-Generated Videos from 3D Geometric Temporal Consistency

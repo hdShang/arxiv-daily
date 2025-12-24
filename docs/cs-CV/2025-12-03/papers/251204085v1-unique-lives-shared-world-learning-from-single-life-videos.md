@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unique Lives, Shared World: Learning from Single-Life Videos
+title: "Unique Lives, Shared World: Learning from Single-Life Videos"
 ---
 
 # Unique Lives, Shared World: Learning from Single-Life Videos

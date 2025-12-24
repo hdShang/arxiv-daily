@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Output Scaling: YingLong-Delayed Chain of Thought in a Large Pretrained Time Series Forecasting Model
+title: "Output Scaling: YingLong-Delayed Chain of Thought in a Large Pretrained Time Series Forecasting Model"
 ---
 
 # Output Scaling: YingLong-Delayed Chain of Thought in a Large Pretrained Time Series Forecasting Model

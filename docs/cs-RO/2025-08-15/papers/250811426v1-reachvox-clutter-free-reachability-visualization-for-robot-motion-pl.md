@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReachVox: Clutter-free Reachability Visualization for Robot Motion Planning in Virtual Reality
+title: "ReachVox: Clutter-free Reachability Visualization for Robot Motion Planning in Virtual Reality"
 ---
 
 # ReachVox: Clutter-free Reachability Visualization for Robot Motion Planning in Virtual Reality

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs
+title: "StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs"
 ---
 
 # StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs

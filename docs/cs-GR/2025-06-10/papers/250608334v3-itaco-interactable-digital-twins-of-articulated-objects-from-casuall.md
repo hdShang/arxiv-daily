@@ -1,6 +1,6 @@
 ---
 layout: default
-title: iTACO: Interactable Digital Twins of Articulated Objects from Casually Captured RGBD Videos
+title: "iTACO: Interactable Digital Twins of Articulated Objects from Casually Captured RGBD Videos"
 ---
 
 # iTACO: Interactable Digital Twins of Articulated Objects from Casually Captured RGBD Videos

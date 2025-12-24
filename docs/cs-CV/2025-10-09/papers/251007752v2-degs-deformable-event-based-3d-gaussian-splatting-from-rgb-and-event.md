@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DEGS: Deformable Event-based 3D Gaussian Splatting from RGB and Event Stream
+title: "DEGS: Deformable Event-based 3D Gaussian Splatting from RGB and Event Stream"
 ---
 
 # DEGS: Deformable Event-based 3D Gaussian Splatting from RGB and Event Stream

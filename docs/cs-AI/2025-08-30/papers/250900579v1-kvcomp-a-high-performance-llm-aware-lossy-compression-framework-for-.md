@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KVComp: A High-Performance, LLM-Aware, Lossy Compression Framework for KV Cache
+title: "KVComp: A High-Performance, LLM-Aware, Lossy Compression Framework for KV Cache"
 ---
 
 # KVComp: A High-Performance, LLM-Aware, Lossy Compression Framework for KV Cache

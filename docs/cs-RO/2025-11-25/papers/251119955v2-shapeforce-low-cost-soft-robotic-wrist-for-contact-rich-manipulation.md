@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ShapeForce: Low-Cost Soft Robotic Wrist for Contact-Rich Manipulation
+title: "ShapeForce: Low-Cost Soft Robotic Wrist for Contact-Rich Manipulation"
 ---
 
 # ShapeForce: Low-Cost Soft Robotic Wrist for Contact-Rich Manipulation

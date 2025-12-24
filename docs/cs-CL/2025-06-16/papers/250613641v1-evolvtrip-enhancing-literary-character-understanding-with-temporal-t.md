@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EvolvTrip: Enhancing Literary Character Understanding with Temporal Theory-of-Mind Graphs
+title: "EvolvTrip: Enhancing Literary Character Understanding with Temporal Theory-of-Mind Graphs"
 ---
 
 # EvolvTrip: Enhancing Literary Character Understanding with Temporal Theory-of-Mind Graphs

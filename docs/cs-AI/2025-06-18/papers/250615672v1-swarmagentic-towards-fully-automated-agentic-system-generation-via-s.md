@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence
+title: "SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence"
 ---
 
 # SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence

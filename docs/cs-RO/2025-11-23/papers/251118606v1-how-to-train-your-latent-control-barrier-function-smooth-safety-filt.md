@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to Train Your Latent Control Barrier Function: Smooth Safety Filtering Under Hard-to-Model Constraints
+title: "How to Train Your Latent Control Barrier Function: Smooth Safety Filtering Under Hard-to-Model Constraints"
 ---
 
 # How to Train Your Latent Control Barrier Function: Smooth Safety Filtering Under Hard-to-Model Constraints

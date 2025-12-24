@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CodePlot-CoT: Mathematical Visual Reasoning by Thinking with Code-Driven Images
+title: "CodePlot-CoT: Mathematical Visual Reasoning by Thinking with Code-Driven Images"
 ---
 
 # CodePlot-CoT: Mathematical Visual Reasoning by Thinking with Code-Driven Images

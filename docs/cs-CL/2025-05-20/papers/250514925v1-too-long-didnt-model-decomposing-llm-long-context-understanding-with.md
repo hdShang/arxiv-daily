@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Too Long, Didn't Model: Decomposing LLM Long-Context Understanding With Novels
+title: "Too Long, Didn't Model: Decomposing LLM Long-Context Understanding With Novels"
 ---
 
 # Too Long, Didn't Model: Decomposing LLM Long-Context Understanding With Novels

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark
+title: "MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark"
 ---
 
 # MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark

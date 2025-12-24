@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Keywords: Evaluating Large Language Model Classification of Nuanced Ableism
+title: "Beyond Keywords: Evaluating Large Language Model Classification of Nuanced Ableism"
 ---
 
 # Beyond Keywords: Evaluating Large Language Model Classification of Nuanced Ableism

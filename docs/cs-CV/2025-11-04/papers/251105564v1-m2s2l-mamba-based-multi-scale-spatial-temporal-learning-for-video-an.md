@@ -1,6 +1,6 @@
 ---
 layout: default
-title: M2S2L: Mamba-based Multi-Scale Spatial-temporal Learning for Video Anomaly Detection
+title: "M2S2L: Mamba-based Multi-Scale Spatial-temporal Learning for Video Anomaly Detection"
 ---
 
 # M2S2L: Mamba-based Multi-Scale Spatial-temporal Learning for Video Anomaly Detection

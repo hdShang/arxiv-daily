@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics
+title: "SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics"
 ---
 
 # SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics

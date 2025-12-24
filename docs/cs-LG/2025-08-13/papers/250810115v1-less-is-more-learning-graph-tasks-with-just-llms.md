@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Less is More: Learning Graph Tasks with Just LLMs
+title: "Less is More: Learning Graph Tasks with Just LLMs"
 ---
 
 # Less is More: Learning Graph Tasks with Just LLMs

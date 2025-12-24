@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers
+title: "Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers"
 ---
 
 # Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers

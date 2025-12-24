@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EmoMeta: A Multimodal Dataset for Fine-grained Emotion Classification in Chinese Metaphors
+title: "EmoMeta: A Multimodal Dataset for Fine-grained Emotion Classification in Chinese Metaphors"
 ---
 
 # EmoMeta: A Multimodal Dataset for Fine-grained Emotion Classification in Chinese Metaphors

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: You Can't Steal Nothing: Mitigating Prompt Leakages in LLMs via System Vectors
+title: "You Can't Steal Nothing: Mitigating Prompt Leakages in LLMs via System Vectors"
 ---
 
 # You Can't Steal Nothing: Mitigating Prompt Leakages in LLMs via System Vectors

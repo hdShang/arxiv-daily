@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning Depth from Past Selves: Self-Evolution Contrast for Robust Depth Estimation
+title: "Learning Depth from Past Selves: Self-Evolution Contrast for Robust Depth Estimation"
 ---
 
 # Learning Depth from Past Selves: Self-Evolution Contrast for Robust Depth Estimation

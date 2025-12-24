@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Iti-Validator: A Guardrail Framework for Validating and Correcting LLM-Generated Itineraries
+title: "Iti-Validator: A Guardrail Framework for Validating and Correcting LLM-Generated Itineraries"
 ---
 
 # Iti-Validator: A Guardrail Framework for Validating and Correcting LLM-Generated Itineraries

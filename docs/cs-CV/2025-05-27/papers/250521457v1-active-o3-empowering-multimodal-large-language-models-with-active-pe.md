@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO
+title: "Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO"
 ---
 
 # Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO

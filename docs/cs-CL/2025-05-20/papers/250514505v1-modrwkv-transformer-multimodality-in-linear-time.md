@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ModRWKV: Transformer Multimodality in Linear Time
+title: "ModRWKV: Transformer Multimodality in Linear Time"
 ---
 
 # ModRWKV: Transformer Multimodality in Linear Time

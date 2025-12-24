@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CLoD-GS: Continuous Level-of-Detail via 3D Gaussian Splatting
+title: "CLoD-GS: Continuous Level-of-Detail via 3D Gaussian Splatting"
 ---
 
 # CLoD-GS: Continuous Level-of-Detail via 3D Gaussian Splatting

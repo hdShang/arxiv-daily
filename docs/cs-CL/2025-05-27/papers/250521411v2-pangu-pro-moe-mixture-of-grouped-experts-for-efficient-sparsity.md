@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pangu Pro MoE: Mixture of Grouped Experts for Efficient Sparsity
+title: "Pangu Pro MoE: Mixture of Grouped Experts for Efficient Sparsity"
 ---
 
 # Pangu Pro MoE: Mixture of Grouped Experts for Efficient Sparsity

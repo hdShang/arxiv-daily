@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Generative AI for Industrial Contour Detection: A Language-Guided Vision System
+title: "Generative AI for Industrial Contour Detection: A Language-Guided Vision System"
 ---
 
 # Generative AI for Industrial Contour Detection: A Language-Guided Vision System

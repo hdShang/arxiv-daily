@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MILD: Multi-Layer Diffusion Strategy for Complex and Precise Multi-IP Aware Human Erasing
+title: "MILD: Multi-Layer Diffusion Strategy for Complex and Precise Multi-IP Aware Human Erasing"
 ---
 
 # MILD: Multi-Layer Diffusion Strategy for Complex and Precise Multi-IP Aware Human Erasing

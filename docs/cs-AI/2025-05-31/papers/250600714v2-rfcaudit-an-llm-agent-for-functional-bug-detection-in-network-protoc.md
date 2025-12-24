@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RFCAudit: An LLM Agent for Functional Bug Detection in Network Protocols
+title: "RFCAudit: An LLM Agent for Functional Bug Detection in Network Protocols"
 ---
 
 # RFCAudit: An LLM Agent for Functional Bug Detection in Network Protocols

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLMPR: A Novel LLM-Driven Transfer Learning based Petition Ranking Model
+title: "LLMPR: A Novel LLM-Driven Transfer Learning based Petition Ranking Model"
 ---
 
 # LLMPR: A Novel LLM-Driven Transfer Learning based Petition Ranking Model

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WorldEval: World Model as Real-World Robot Policies Evaluator
+title: "WorldEval: World Model as Real-World Robot Policies Evaluator"
 ---
 
 # WorldEval: World Model as Real-World Robot Policies Evaluator

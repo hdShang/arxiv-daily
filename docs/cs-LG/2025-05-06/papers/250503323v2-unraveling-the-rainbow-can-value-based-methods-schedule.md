@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unraveling the Rainbow: can value-based methods schedule?
+title: "Unraveling the Rainbow: can value-based methods schedule?"
 ---
 
 # Unraveling the Rainbow: can value-based methods schedule?

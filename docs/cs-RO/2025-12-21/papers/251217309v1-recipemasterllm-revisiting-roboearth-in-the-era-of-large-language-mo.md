@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RecipeMasterLLM: Revisiting RoboEarth in the Era of Large Language Models
+title: "RecipeMasterLLM: Revisiting RoboEarth in the Era of Large Language Models"
 ---
 
 # RecipeMasterLLM: Revisiting RoboEarth in the Era of Large Language Models

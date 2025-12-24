@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HAD: Hybrid Architecture Distillation Outperforms Teacher in Genomic Sequence Modeling
+title: "HAD: Hybrid Architecture Distillation Outperforms Teacher in Genomic Sequence Modeling"
 ---
 
 # HAD: Hybrid Architecture Distillation Outperforms Teacher in Genomic Sequence Modeling

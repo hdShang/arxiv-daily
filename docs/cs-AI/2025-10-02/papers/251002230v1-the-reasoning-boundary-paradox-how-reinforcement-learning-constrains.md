@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Reasoning Boundary Paradox: How Reinforcement Learning Constrains Language Models
+title: "The Reasoning Boundary Paradox: How Reinforcement Learning Constrains Language Models"
 ---
 
 # The Reasoning Boundary Paradox: How Reinforcement Learning Constrains Language Models

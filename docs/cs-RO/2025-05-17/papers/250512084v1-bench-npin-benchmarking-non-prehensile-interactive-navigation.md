@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bench-NPIN: Benchmarking Non-prehensile Interactive Navigation
+title: "Bench-NPIN: Benchmarking Non-prehensile Interactive Navigation"
 ---
 
 # Bench-NPIN: Benchmarking Non-prehensile Interactive Navigation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FedRAG: A Framework for Fine-Tuning Retrieval-Augmented Generation Systems
+title: "FedRAG: A Framework for Fine-Tuning Retrieval-Augmented Generation Systems"
 ---
 
 # FedRAG: A Framework for Fine-Tuning Retrieval-Augmented Generation Systems

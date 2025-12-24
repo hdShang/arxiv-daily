@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Evaluation Sheet for Deep Research: A Use Case for Academic Survey Writing
+title: "Evaluation Sheet for Deep Research: A Use Case for Academic Survey Writing"
 ---
 
 # Evaluation Sheet for Deep Research: A Use Case for Academic Survey Writing

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding
+title: "TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding"
 ---
 
 # TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding

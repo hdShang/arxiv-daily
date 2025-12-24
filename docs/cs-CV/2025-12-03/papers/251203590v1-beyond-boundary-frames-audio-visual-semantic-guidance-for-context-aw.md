@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Boundary Frames: Audio-Visual Semantic Guidance for Context-Aware Video Interpolation
+title: "Beyond Boundary Frames: Audio-Visual Semantic Guidance for Context-Aware Video Interpolation"
 ---
 
 # Beyond Boundary Frames: Audio-Visual Semantic Guidance for Context-Aware Video Interpolation

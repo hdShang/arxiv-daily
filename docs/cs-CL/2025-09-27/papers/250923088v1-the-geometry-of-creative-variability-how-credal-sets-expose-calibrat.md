@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Geometry of Creative Variability: How Credal Sets Expose Calibration Gaps in Language Models
+title: "The Geometry of Creative Variability: How Credal Sets Expose Calibration Gaps in Language Models"
 ---
 
 # The Geometry of Creative Variability: How Credal Sets Expose Calibration Gaps in Language Models

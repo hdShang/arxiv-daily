@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stream-Omni: Simultaneous Multimodal Interactions with Large Language-Vision-Speech Model
+title: "Stream-Omni: Simultaneous Multimodal Interactions with Large Language-Vision-Speech Model"
 ---
 
 # Stream-Omni: Simultaneous Multimodal Interactions with Large Language-Vision-Speech Model

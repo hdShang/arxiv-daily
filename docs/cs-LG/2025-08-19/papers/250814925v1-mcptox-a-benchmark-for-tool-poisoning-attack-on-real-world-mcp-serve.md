@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MCPTox: A Benchmark for Tool Poisoning Attack on Real-World MCP Servers
+title: "MCPTox: A Benchmark for Tool Poisoning Attack on Real-World MCP Servers"
 ---
 
 # MCPTox: A Benchmark for Tool Poisoning Attack on Real-World MCP Servers

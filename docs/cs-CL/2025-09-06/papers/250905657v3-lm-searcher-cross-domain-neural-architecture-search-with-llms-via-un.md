@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LM-Searcher: Cross-domain Neural Architecture Search with LLMs via Unified Numerical Encoding
+title: "LM-Searcher: Cross-domain Neural Architecture Search with LLMs via Unified Numerical Encoding"
 ---
 
 # LM-Searcher: Cross-domain Neural Architecture Search with LLMs via Unified Numerical Encoding

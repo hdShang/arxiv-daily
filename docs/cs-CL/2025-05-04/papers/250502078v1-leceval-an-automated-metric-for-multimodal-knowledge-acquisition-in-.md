@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LecEval: An Automated Metric for Multimodal Knowledge Acquisition in Multimedia Learning
+title: "LecEval: An Automated Metric for Multimodal Knowledge Acquisition in Multimedia Learning"
 ---
 
 # LecEval: An Automated Metric for Multimodal Knowledge Acquisition in Multimedia Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Internet 3.0: Architecture for a Web-of-Agents with it's Algorithm for Ranking Agents
+title: "Internet 3.0: Architecture for a Web-of-Agents with it's Algorithm for Ranking Agents"
 ---
 
 # Internet 3.0: Architecture for a Web-of-Agents with it's Algorithm for Ranking Agents

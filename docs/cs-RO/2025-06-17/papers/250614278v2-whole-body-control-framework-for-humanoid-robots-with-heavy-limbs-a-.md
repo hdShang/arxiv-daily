@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Whole-Body Control Framework for Humanoid Robots with Heavy Limbs: A Model-Based Approach
+title: "Whole-Body Control Framework for Humanoid Robots with Heavy Limbs: A Model-Based Approach"
 ---
 
 # Whole-Body Control Framework for Humanoid Robots with Heavy Limbs: A Model-Based Approach

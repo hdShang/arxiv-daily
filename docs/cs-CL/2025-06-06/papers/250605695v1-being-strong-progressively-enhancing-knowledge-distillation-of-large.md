@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Being Strong Progressively! Enhancing Knowledge Distillation of Large Language Models through a Curriculum Learning Framework
+title: "Being Strong Progressively! Enhancing Knowledge Distillation of Large Language Models through a Curriculum Learning Framework"
 ---
 
 # Being Strong Progressively! Enhancing Knowledge Distillation of Large Language Models through a Curriculum Learning Framework

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BLINK-Twice: You see, but do you observe? A Reasoning Benchmark on Visual Perception
+title: "BLINK-Twice: You see, but do you observe? A Reasoning Benchmark on Visual Perception"
 ---
 
 # BLINK-Twice: You see, but do you observe? A Reasoning Benchmark on Visual Perception

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Parse-Augment-Distill: Learning Generalizable Bimanual Visuomotor Policies from Single Human Video
+title: "Parse-Augment-Distill: Learning Generalizable Bimanual Visuomotor Policies from Single Human Video"
 ---
 
 # Parse-Augment-Distill: Learning Generalizable Bimanual Visuomotor Policies from Single Human Video

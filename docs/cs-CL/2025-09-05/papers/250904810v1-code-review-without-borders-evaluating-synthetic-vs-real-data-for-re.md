@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Code Review Without Borders: Evaluating Synthetic vs. Real Data for Review Recommendation
+title: "Code Review Without Borders: Evaluating Synthetic vs. Real Data for Review Recommendation"
 ---
 
 # Code Review Without Borders: Evaluating Synthetic vs. Real Data for Review Recommendation

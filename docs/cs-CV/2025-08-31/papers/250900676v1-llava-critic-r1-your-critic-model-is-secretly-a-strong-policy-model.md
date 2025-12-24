@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLaVA-Critic-R1: Your Critic Model is Secretly a Strong Policy Model
+title: "LLaVA-Critic-R1: Your Critic Model is Secretly a Strong Policy Model"
 ---
 
 # LLaVA-Critic-R1: Your Critic Model is Secretly a Strong Policy Model

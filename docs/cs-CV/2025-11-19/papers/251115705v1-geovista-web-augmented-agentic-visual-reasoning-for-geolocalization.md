@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization
+title: "GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization"
 ---
 
 # GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization

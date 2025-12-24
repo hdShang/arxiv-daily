@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Real-Time Sign Language to text Translation using Deep Learning: A Comparative study of LSTM and 3D CNN
+title: "Real-Time Sign Language to text Translation using Deep Learning: A Comparative study of LSTM and 3D CNN"
 ---
 
 # Real-Time Sign Language to text Translation using Deep Learning: A Comparative study of LSTM and 3D CNN

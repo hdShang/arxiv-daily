@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RSL-RL: A Learning Library for Robotics Research
+title: "RSL-RL: A Learning Library for Robotics Research"
 ---
 
 # RSL-RL: A Learning Library for Robotics Research

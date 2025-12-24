@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Train Once, Deploy Anywhere: Realize Data-Efficient Dynamic Object Manipulation
+title: "Train Once, Deploy Anywhere: Realize Data-Efficient Dynamic Object Manipulation"
 ---
 
 # Train Once, Deploy Anywhere: Realize Data-Efficient Dynamic Object Manipulation

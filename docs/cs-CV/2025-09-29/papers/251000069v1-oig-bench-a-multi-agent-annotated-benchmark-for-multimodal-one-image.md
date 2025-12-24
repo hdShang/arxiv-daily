@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OIG-Bench: A Multi-Agent Annotated Benchmark for Multimodal One-Image Guides Understanding
+title: "OIG-Bench: A Multi-Agent Annotated Benchmark for Multimodal One-Image Guides Understanding"
 ---
 
 # OIG-Bench: A Multi-Agent Annotated Benchmark for Multimodal One-Image Guides Understanding

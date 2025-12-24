@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Q-Router: Agentic Video Quality Assessment with Expert Model Routing and Artifact Localization
+title: "Q-Router: Agentic Video Quality Assessment with Expert Model Routing and Artifact Localization"
 ---
 
 # Q-Router: Agentic Video Quality Assessment with Expert Model Routing and Artifact Localization

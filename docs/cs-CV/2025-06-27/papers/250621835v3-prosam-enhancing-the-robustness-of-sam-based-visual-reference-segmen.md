@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ProSAM: Enhancing the Robustness of SAM-based Visual Reference Segmentation with Probabilistic Prompts
+title: "ProSAM: Enhancing the Robustness of SAM-based Visual Reference Segmentation with Probabilistic Prompts"
 ---
 
 # ProSAM: Enhancing the Robustness of SAM-based Visual Reference Segmentation with Probabilistic Prompts

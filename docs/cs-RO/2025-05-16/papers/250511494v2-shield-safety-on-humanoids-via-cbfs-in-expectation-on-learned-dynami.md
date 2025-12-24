@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SHIELD: Safety on Humanoids via CBFs In Expectation on Learned Dynamics
+title: "SHIELD: Safety on Humanoids via CBFs In Expectation on Learned Dynamics"
 ---
 
 # SHIELD: Safety on Humanoids via CBFs In Expectation on Learned Dynamics

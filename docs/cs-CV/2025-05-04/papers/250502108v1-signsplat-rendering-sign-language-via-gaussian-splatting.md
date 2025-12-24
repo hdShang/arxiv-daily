@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SignSplat: Rendering Sign Language via Gaussian Splatting
+title: "SignSplat: Rendering Sign Language via Gaussian Splatting"
 ---
 
 # SignSplat: Rendering Sign Language via Gaussian Splatting

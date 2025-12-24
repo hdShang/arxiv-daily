@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TED-4DGS: Temporally Activated and Embedding-based Deformation for 4DGS Compression
+title: "TED-4DGS: Temporally Activated and Embedding-based Deformation for 4DGS Compression"
 ---
 
 # TED-4DGS: Temporally Activated and Embedding-based Deformation for 4DGS Compression

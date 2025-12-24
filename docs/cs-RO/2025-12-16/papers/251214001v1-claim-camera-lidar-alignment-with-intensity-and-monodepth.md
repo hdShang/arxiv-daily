@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CLAIM: Camera-LiDAR Alignment with Intensity and Monodepth
+title: "CLAIM: Camera-LiDAR Alignment with Intensity and Monodepth"
 ---
 
 # CLAIM: Camera-LiDAR Alignment with Intensity and Monodepth

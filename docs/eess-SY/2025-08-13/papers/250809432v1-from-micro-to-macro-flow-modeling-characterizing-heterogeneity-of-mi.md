@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Micro to Macro Flow Modeling: Characterizing Heterogeneity of Mixed-Autonomy Traffic
+title: "From Micro to Macro Flow Modeling: Characterizing Heterogeneity of Mixed-Autonomy Traffic"
 ---
 
 # From Micro to Macro Flow Modeling: Characterizing Heterogeneity of Mixed-Autonomy Traffic

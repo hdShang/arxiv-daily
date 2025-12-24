@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Global Optimality in Multi-Flyby Asteroid Trajectory Optimization: Theory and Application Techniques
+title: "Global Optimality in Multi-Flyby Asteroid Trajectory Optimization: Theory and Application Techniques"
 ---
 
 # Global Optimality in Multi-Flyby Asteroid Trajectory Optimization: Theory and Application Techniques

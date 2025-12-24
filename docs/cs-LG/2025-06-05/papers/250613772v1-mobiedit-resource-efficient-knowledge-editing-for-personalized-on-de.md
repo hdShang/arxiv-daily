@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MobiEdit: Resource-efficient Knowledge Editing for Personalized On-device LLMs
+title: "MobiEdit: Resource-efficient Knowledge Editing for Personalized On-device LLMs"
 ---
 
 # MobiEdit: Resource-efficient Knowledge Editing for Personalized On-device LLMs

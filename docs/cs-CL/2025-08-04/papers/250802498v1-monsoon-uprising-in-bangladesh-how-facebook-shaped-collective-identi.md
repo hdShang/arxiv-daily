@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Monsoon Uprising in Bangladesh: How Facebook Shaped Collective Identity
+title: "Monsoon Uprising in Bangladesh: How Facebook Shaped Collective Identity"
 ---
 
 # Monsoon Uprising in Bangladesh: How Facebook Shaped Collective Identity

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Context Misleads LLMs: The Role of Context Filtering in Maintaining Safe Alignment of LLMs
+title: "Context Misleads LLMs: The Role of Context Filtering in Maintaining Safe Alignment of LLMs"
 ---
 
 # Context Misleads LLMs: The Role of Context Filtering in Maintaining Safe Alignment of LLMs

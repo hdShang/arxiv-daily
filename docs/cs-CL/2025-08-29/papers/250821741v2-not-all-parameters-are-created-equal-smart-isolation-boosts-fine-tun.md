@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Not All Parameters Are Created Equal: Smart Isolation Boosts Fine-Tuning Performance
+title: "Not All Parameters Are Created Equal: Smart Isolation Boosts Fine-Tuning Performance"
 ---
 
 # Not All Parameters Are Created Equal: Smart Isolation Boosts Fine-Tuning Performance

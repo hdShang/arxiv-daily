@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse
+title: "Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse"
 ---
 
 # Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse

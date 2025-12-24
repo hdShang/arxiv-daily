@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BrepLLM: Native Boundary Representation Understanding with Large Language Models
+title: "BrepLLM: Native Boundary Representation Understanding with Large Language Models"
 ---
 
 # BrepLLM: Native Boundary Representation Understanding with Large Language Models

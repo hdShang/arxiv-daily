@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3D-LATTE: Latent Space 3D Editing from Textual Instructions
+title: "3D-LATTE: Latent Space 3D Editing from Textual Instructions"
 ---
 
 # 3D-LATTE: Latent Space 3D Editing from Textual Instructions

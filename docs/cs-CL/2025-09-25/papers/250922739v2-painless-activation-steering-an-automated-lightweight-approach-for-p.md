@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Painless Activation Steering: An Automated, Lightweight Approach for Post-Training Large Language Models
+title: "Painless Activation Steering: An Automated, Lightweight Approach for Post-Training Large Language Models"
 ---
 
 # Painless Activation Steering: An Automated, Lightweight Approach for Post-Training Large Language Models

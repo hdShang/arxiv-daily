@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DEXTER: Diffusion-Guided EXplanations with TExtual Reasoning for Vision Models
+title: "DEXTER: Diffusion-Guided EXplanations with TExtual Reasoning for Vision Models"
 ---
 
 # DEXTER: Diffusion-Guided EXplanations with TExtual Reasoning for Vision Models

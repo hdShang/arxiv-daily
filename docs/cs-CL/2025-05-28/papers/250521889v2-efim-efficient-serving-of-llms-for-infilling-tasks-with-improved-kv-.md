@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EFIM: Efficient Serving of LLMs for Infilling Tasks with Improved KV Cache Reuse
+title: "EFIM: Efficient Serving of LLMs for Infilling Tasks with Improved KV Cache Reuse"
 ---
 
 # EFIM: Efficient Serving of LLMs for Infilling Tasks with Improved KV Cache Reuse

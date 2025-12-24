@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EmoSLLM: Parameter-Efficient Adaptation of LLMs for Speech Emotion Recognition
+title: "EmoSLLM: Parameter-Efficient Adaptation of LLMs for Speech Emotion Recognition"
 ---
 
 # EmoSLLM: Parameter-Efficient Adaptation of LLMs for Speech Emotion Recognition

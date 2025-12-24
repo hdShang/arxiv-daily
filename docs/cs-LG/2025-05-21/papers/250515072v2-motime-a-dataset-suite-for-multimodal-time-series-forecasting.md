@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoTime: A Dataset Suite for Multimodal Time Series Forecasting
+title: "MoTime: A Dataset Suite for Multimodal Time Series Forecasting"
 ---
 
 # MoTime: A Dataset Suite for Multimodal Time Series Forecasting

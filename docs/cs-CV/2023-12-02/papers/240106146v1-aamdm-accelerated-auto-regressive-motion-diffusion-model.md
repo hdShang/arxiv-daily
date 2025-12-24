@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AAMDM: Accelerated Auto-regressive Motion Diffusion Model
+title: "AAMDM: Accelerated Auto-regressive Motion Diffusion Model"
 ---
 
 # AAMDM: Accelerated Auto-regressive Motion Diffusion Model

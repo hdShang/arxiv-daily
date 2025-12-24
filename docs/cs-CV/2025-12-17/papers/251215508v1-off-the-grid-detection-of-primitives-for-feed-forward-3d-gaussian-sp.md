@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting
+title: "Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting"
 ---
 
 # Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting

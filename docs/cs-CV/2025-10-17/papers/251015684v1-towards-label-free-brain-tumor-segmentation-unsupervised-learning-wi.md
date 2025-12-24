@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Label-Free Brain Tumor Segmentation: Unsupervised Learning with Multimodal MRI
+title: "Towards Label-Free Brain Tumor Segmentation: Unsupervised Learning with Multimodal MRI"
 ---
 
 # Towards Label-Free Brain Tumor Segmentation: Unsupervised Learning with Multimodal MRI

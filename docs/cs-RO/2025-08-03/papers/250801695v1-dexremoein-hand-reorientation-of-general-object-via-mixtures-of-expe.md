@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DexReMoE:In-hand Reorientation of General Object via Mixtures of Experts
+title: "DexReMoE:In-hand Reorientation of General Object via Mixtures of Experts"
 ---
 
 # DexReMoE:In-hand Reorientation of General Object via Mixtures of Experts

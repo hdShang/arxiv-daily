@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AIMeter: Measuring, Analyzing, and Visualizing Energy and Carbon Footprint of AI Workloads
+title: "AIMeter: Measuring, Analyzing, and Visualizing Energy and Carbon Footprint of AI Workloads"
 ---
 
 # AIMeter: Measuring, Analyzing, and Visualizing Energy and Carbon Footprint of AI Workloads

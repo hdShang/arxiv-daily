@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FastUMI-100K: Advancing Data-driven Robotic Manipulation with a Large-scale UMI-style Dataset
+title: "FastUMI-100K: Advancing Data-driven Robotic Manipulation with a Large-scale UMI-style Dataset"
 ---
 
 # FastUMI-100K: Advancing Data-driven Robotic Manipulation with a Large-scale UMI-style Dataset

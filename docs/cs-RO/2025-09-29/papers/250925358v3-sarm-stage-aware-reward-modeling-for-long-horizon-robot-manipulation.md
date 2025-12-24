@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation
+title: "SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation"
 ---
 
 # SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation

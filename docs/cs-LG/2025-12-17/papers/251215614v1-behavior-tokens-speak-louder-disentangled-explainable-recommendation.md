@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Behavior Tokens Speak Louder: Disentangled Explainable Recommendation with Behavior Vocabulary
+title: "Behavior Tokens Speak Louder: Disentangled Explainable Recommendation with Behavior Vocabulary"
 ---
 
 # Behavior Tokens Speak Louder: Disentangled Explainable Recommendation with Behavior Vocabulary

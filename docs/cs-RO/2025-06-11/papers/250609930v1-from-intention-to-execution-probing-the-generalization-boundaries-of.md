@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Intention to Execution: Probing the Generalization Boundaries of Vision-Language-Action Models
+title: "From Intention to Execution: Probing the Generalization Boundaries of Vision-Language-Action Models"
 ---
 
 # From Intention to Execution: Probing the Generalization Boundaries of Vision-Language-Action Models

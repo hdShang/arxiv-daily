@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HumanCM: One Step Human Motion Prediction
+title: "HumanCM: One Step Human Motion Prediction"
 ---
 
 # HumanCM: One Step Human Motion Prediction

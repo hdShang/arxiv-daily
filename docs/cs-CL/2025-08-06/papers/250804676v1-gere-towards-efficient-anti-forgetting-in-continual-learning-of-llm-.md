@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GeRe: Towards Efficient Anti-Forgetting in Continual Learning of LLM via General Samples Replay
+title: "GeRe: Towards Efficient Anti-Forgetting in Continual Learning of LLM via General Samples Replay"
 ---
 
 # GeRe: Towards Efficient Anti-Forgetting in Continual Learning of LLM via General Samples Replay

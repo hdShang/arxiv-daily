@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LocoMamba: Vision-Driven Locomotion via End-to-End Deep Reinforcement Learning with Mamba
+title: "LocoMamba: Vision-Driven Locomotion via End-to-End Deep Reinforcement Learning with Mamba"
 ---
 
 # LocoMamba: Vision-Driven Locomotion via End-to-End Deep Reinforcement Learning with Mamba

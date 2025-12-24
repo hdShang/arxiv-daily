@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MiniBEE: A New Form Factor for Compact Bimanual Dexterity
+title: "MiniBEE: A New Form Factor for Compact Bimanual Dexterity"
 ---
 
 # MiniBEE: A New Form Factor for Compact Bimanual Dexterity

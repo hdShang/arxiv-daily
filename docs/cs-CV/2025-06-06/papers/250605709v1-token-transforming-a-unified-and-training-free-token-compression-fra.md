@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Token Transforming: A Unified and Training-Free Token Compression Framework for Vision Transformer Acceleration
+title: "Token Transforming: A Unified and Training-Free Token Compression Framework for Vision Transformer Acceleration"
 ---
 
 # Token Transforming: A Unified and Training-Free Token Compression Framework for Vision Transformer Acceleration

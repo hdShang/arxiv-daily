@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Knowledge Collapse in LLMs: When Fluency Survives but Facts Fail under Recursive Synthetic Training
+title: "Knowledge Collapse in LLMs: When Fluency Survives but Facts Fail under Recursive Synthetic Training"
 ---
 
 # Knowledge Collapse in LLMs: When Fluency Survives but Facts Fail under Recursive Synthetic Training

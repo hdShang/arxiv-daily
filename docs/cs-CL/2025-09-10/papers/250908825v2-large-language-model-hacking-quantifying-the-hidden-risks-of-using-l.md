@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Large Language Model Hacking: Quantifying the Hidden Risks of Using LLMs for Text Annotation
+title: "Large Language Model Hacking: Quantifying the Hidden Risks of Using LLMs for Text Annotation"
 ---
 
 # Large Language Model Hacking: Quantifying the Hidden Risks of Using LLMs for Text Annotation

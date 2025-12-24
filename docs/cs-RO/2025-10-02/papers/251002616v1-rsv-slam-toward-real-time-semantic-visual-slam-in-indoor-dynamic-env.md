@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RSV-SLAM: Toward Real-Time Semantic Visual SLAM in Indoor Dynamic Environments
+title: "RSV-SLAM: Toward Real-Time Semantic Visual SLAM in Indoor Dynamic Environments"
 ---
 
 # RSV-SLAM: Toward Real-Time Semantic Visual SLAM in Indoor Dynamic Environments

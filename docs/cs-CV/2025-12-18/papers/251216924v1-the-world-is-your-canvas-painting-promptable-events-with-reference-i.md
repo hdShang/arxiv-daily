@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Text
+title: "The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Text"
 ---
 
 # The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Text

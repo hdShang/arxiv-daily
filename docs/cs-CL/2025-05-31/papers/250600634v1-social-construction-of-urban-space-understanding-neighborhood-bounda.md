@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Social Construction of Urban Space: Understanding Neighborhood Boundaries Using Rental Listings
+title: "Social Construction of Urban Space: Understanding Neighborhood Boundaries Using Rental Listings"
 ---
 
 # Social Construction of Urban Space: Understanding Neighborhood Boundaries Using Rental Listings

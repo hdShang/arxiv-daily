@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MIRG-RL: Multi-Image Reasoning and Grounding with Reinforcement Learning
+title: "MIRG-RL: Multi-Image Reasoning and Grounding with Reinforcement Learning"
 ---
 
 # MIRG-RL: Multi-Image Reasoning and Grounding with Reinforcement Learning

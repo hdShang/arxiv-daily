@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation
+title: "DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation"
 ---
 
 # DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation

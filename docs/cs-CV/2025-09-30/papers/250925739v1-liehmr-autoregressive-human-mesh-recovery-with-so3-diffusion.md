@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LieHMR: Autoregressive Human Mesh Recovery with $SO(3)$ Diffusion
+title: "LieHMR: Autoregressive Human Mesh Recovery with $SO(3)$ Diffusion"
 ---
 
 # LieHMR: Autoregressive Human Mesh Recovery with $SO(3)$ Diffusion

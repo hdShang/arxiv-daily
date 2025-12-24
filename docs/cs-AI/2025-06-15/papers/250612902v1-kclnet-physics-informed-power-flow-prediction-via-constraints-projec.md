@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KCLNet: Physics-Informed Power Flow Prediction via Constraints Projections
+title: "KCLNet: Physics-Informed Power Flow Prediction via Constraints Projections"
 ---
 
 # KCLNet: Physics-Informed Power Flow Prediction via Constraints Projections

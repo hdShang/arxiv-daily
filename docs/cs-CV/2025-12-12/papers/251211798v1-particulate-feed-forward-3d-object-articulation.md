@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Particulate: Feed-Forward 3D Object Articulation
+title: "Particulate: Feed-Forward 3D Object Articulation"
 ---
 
 # Particulate: Feed-Forward 3D Object Articulation

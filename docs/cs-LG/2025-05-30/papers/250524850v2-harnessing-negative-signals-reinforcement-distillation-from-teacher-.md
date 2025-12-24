@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Harnessing Negative Signals: Reinforcement Distillation from Teacher Data for LLM Reasoning
+title: "Harnessing Negative Signals: Reinforcement Distillation from Teacher Data for LLM Reasoning"
 ---
 
 # Harnessing Negative Signals: Reinforcement Distillation from Teacher Data for LLM Reasoning

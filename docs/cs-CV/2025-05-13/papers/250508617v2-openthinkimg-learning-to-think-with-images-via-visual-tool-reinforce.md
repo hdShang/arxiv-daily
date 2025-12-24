@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning
+title: "OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning"
 ---
 
 # OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning

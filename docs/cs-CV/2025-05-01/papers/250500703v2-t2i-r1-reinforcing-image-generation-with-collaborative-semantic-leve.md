@@ -1,6 +1,6 @@
 ---
 layout: default
-title: T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT
+title: "T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT"
 ---
 
 # T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT

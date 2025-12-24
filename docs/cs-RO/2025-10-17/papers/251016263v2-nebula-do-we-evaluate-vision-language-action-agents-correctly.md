@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NEBULA: Do We Evaluate Vision-Language-Action Agents Correctly?
+title: "NEBULA: Do We Evaluate Vision-Language-Action Agents Correctly?"
 ---
 
 # NEBULA: Do We Evaluate Vision-Language-Action Agents Correctly?

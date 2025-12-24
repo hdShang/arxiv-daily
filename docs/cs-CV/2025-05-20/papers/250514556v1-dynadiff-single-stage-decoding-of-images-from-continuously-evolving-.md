@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI
+title: "Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI"
 ---
 
 # Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Retrv-R1: A Reasoning-Driven MLLM Framework for Universal and Efficient Multimodal Retrieval
+title: "Retrv-R1: A Reasoning-Driven MLLM Framework for Universal and Efficient Multimodal Retrieval"
 ---
 
 # Retrv-R1: A Reasoning-Driven MLLM Framework for Universal and Efficient Multimodal Retrieval

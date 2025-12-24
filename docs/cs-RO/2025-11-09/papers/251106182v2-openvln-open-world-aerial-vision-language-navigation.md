@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OpenVLN: Open-world Aerial Vision-Language Navigation
+title: "OpenVLN: Open-world Aerial Vision-Language Navigation"
 ---
 
 # OpenVLN: Open-world Aerial Vision-Language Navigation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PainFormer: a Vision Foundation Model for Automatic Pain Assessment
+title: "PainFormer: a Vision Foundation Model for Automatic Pain Assessment"
 ---
 
 # PainFormer: a Vision Foundation Model for Automatic Pain Assessment

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SignAligner: Harmonizing Complementary Pose Modalities for Coherent Sign Language Generation
+title: "SignAligner: Harmonizing Complementary Pose Modalities for Coherent Sign Language Generation"
 ---
 
 # SignAligner: Harmonizing Complementary Pose Modalities for Coherent Sign Language Generation

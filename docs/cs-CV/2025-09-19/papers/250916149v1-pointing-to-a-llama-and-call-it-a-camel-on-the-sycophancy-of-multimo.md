@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pointing to a Llama and Call it a Camel: On the Sycophancy of Multimodal Large Language Models
+title: "Pointing to a Llama and Call it a Camel: On the Sycophancy of Multimodal Large Language Models"
 ---
 
 # Pointing to a Llama and Call it a Camel: On the Sycophancy of Multimodal Large Language Models

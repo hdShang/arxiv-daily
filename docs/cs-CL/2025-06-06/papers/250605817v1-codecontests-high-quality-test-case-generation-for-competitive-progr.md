@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CodeContests+: High-Quality Test Case Generation for Competitive Programming
+title: "CodeContests+: High-Quality Test Case Generation for Competitive Programming"
 ---
 
 # CodeContests+: High-Quality Test Case Generation for Competitive Programming

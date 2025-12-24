@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SPECS: Specificity-Enhanced CLIP-Score for Long Image Caption Evaluation
+title: "SPECS: Specificity-Enhanced CLIP-Score for Long Image Caption Evaluation"
 ---
 
 # SPECS: Specificity-Enhanced CLIP-Score for Long Image Caption Evaluation

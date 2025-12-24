@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EverybodyDance: Bipartite Graph-Based Identity Correspondence for Multi-Character Animation
+title: "EverybodyDance: Bipartite Graph-Based Identity Correspondence for Multi-Character Animation"
 ---
 
 # EverybodyDance: Bipartite Graph-Based Identity Correspondence for Multi-Character Animation

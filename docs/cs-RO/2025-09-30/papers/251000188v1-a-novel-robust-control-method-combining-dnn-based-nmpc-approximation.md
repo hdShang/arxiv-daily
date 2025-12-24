@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Novel Robust Control Method Combining DNN-Based NMPC Approximation and PI Control: Application to Exoskeleton Squat Movements
+title: "A Novel Robust Control Method Combining DNN-Based NMPC Approximation and PI Control: Application to Exoskeleton Squat Movements"
 ---
 
 # A Novel Robust Control Method Combining DNN-Based NMPC Approximation and PI Control: Application to Exoskeleton Squat Movements

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MIST: Towards Multi-dimensional Implicit BiaS Evaluation of LLMs via Theory of Mind
+title: "MIST: Towards Multi-dimensional Implicit BiaS Evaluation of LLMs via Theory of Mind"
 ---
 
 # MIST: Towards Multi-dimensional Implicit BiaS Evaluation of LLMs via Theory of Mind

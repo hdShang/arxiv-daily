@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dancing with Still Images: Video Distillation via Static-Dynamic Disentanglement
+title: "Dancing with Still Images: Video Distillation via Static-Dynamic Disentanglement"
 ---
 
 # Dancing with Still Images: Video Distillation via Static-Dynamic Disentanglement

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CodeSimpleQA: Scaling Factuality in Code Large Language Models
+title: "CodeSimpleQA: Scaling Factuality in Code Large Language Models"
 ---
 
 # CodeSimpleQA: Scaling Factuality in Code Large Language Models

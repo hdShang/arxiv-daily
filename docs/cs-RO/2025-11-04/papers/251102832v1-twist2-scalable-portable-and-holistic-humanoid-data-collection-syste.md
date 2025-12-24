@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System
+title: "TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System"
 ---
 
 # TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System

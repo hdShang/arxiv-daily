@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CASA: Cross-Attention via Self-Attention for Efficient Vision-Language Fusion
+title: "CASA: Cross-Attention via Self-Attention for Efficient Vision-Language Fusion"
 ---
 
 # CASA: Cross-Attention via Self-Attention for Efficient Vision-Language Fusion

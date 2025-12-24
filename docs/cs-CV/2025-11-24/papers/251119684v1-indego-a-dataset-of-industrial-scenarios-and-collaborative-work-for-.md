@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants
+title: "IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants"
 ---
 
 # IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants

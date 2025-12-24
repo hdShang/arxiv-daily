@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VideoNSA: Native Sparse Attention Scales Video Understanding
+title: "VideoNSA: Native Sparse Attention Scales Video Understanding"
 ---
 
 # VideoNSA: Native Sparse Attention Scales Video Understanding

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CHIMERA: A Knowledge Base of Scientific Idea Recombinations for Research Analysis and Ideation
+title: "CHIMERA: A Knowledge Base of Scientific Idea Recombinations for Research Analysis and Ideation"
 ---
 
 # CHIMERA: A Knowledge Base of Scientific Idea Recombinations for Research Analysis and Ideation

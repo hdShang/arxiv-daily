@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HMC: Learning Heterogeneous Meta-Control for Contact-Rich Loco-Manipulation
+title: "HMC: Learning Heterogeneous Meta-Control for Contact-Rich Loco-Manipulation"
 ---
 
 # HMC: Learning Heterogeneous Meta-Control for Contact-Rich Loco-Manipulation

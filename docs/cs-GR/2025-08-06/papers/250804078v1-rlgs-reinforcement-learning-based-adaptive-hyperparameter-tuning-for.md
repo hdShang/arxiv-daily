@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RLGS: Reinforcement Learning-Based Adaptive Hyperparameter Tuning for Gaussian Splatting
+title: "RLGS: Reinforcement Learning-Based Adaptive Hyperparameter Tuning for Gaussian Splatting"
 ---
 
 # RLGS: Reinforcement Learning-Based Adaptive Hyperparameter Tuning for Gaussian Splatting

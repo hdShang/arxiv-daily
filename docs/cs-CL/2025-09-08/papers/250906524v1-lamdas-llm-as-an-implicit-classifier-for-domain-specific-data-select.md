@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LAMDAS: LLM as an Implicit Classifier for Domain-specific Data Selection
+title: "LAMDAS: LLM as an Implicit Classifier for Domain-specific Data Selection"
 ---
 
 # LAMDAS: LLM as an Implicit Classifier for Domain-specific Data Selection

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dynamic-ICP: Doppler-Aware Iterative Closest Point Registration for Dynamic Scenes
+title: "Dynamic-ICP: Doppler-Aware Iterative Closest Point Registration for Dynamic Scenes"
 ---
 
 # Dynamic-ICP: Doppler-Aware Iterative Closest Point Registration for Dynamic Scenes

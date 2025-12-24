@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning to Rank Chain-of-Thought: Using a Small Model
+title: "Learning to Rank Chain-of-Thought: Using a Small Model"
 ---
 
 # Learning to Rank Chain-of-Thought: Using a Small Model

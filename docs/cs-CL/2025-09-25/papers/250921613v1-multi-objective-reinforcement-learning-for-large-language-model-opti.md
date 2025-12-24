@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multi-Objective Reinforcement Learning for Large Language Model Optimization: Visionary Perspective
+title: "Multi-Objective Reinforcement Learning for Large Language Model Optimization: Visionary Perspective"
 ---
 
 # Multi-Objective Reinforcement Learning for Large Language Model Optimization: Visionary Perspective

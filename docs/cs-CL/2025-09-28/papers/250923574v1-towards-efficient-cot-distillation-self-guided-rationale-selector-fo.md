@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Efficient CoT Distillation: Self-Guided Rationale Selector for Better Performance with Fewer Rationales
+title: "Towards Efficient CoT Distillation: Self-Guided Rationale Selector for Better Performance with Fewer Rationales"
 ---
 
 # Towards Efficient CoT Distillation: Self-Guided Rationale Selector for Better Performance with Fewer Rationales

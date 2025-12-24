@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fusion to Enhance: Fusion Visual Encoder to Enhance Multimodal Language Model
+title: "Fusion to Enhance: Fusion Visual Encoder to Enhance Multimodal Language Model"
 ---
 
 # Fusion to Enhance: Fusion Visual Encoder to Enhance Multimodal Language Model

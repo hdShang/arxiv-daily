@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GVGAI-LLM: Evaluating Large Language Model Agents with Infinite Games
+title: "GVGAI-LLM: Evaluating Large Language Model Agents with Infinite Games"
 ---
 
 # GVGAI-LLM: Evaluating Large Language Model Agents with Infinite Games

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Llama-GENBA-10B: A Trilingual Large Language Model for German, English and Bavarian
+title: "Llama-GENBA-10B: A Trilingual Large Language Model for German, English and Bavarian"
 ---
 
 # Llama-GENBA-10B: A Trilingual Large Language Model for German, English and Bavarian

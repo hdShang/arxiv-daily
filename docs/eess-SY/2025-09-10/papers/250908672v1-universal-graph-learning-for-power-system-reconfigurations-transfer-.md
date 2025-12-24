@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Universal Graph Learning for Power System Reconfigurations: Transfer Across Topology Variations
+title: "Universal Graph Learning for Power System Reconfigurations: Transfer Across Topology Variations"
 ---
 
 # Universal Graph Learning for Power System Reconfigurations: Transfer Across Topology Variations

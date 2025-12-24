@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Audio-Thinker: Guiding Audio Language Model When and How to Think via Reinforcement Learning
+title: "Audio-Thinker: Guiding Audio Language Model When and How to Think via Reinforcement Learning"
 ---
 
 # Audio-Thinker: Guiding Audio Language Model When and How to Think via Reinforcement Learning

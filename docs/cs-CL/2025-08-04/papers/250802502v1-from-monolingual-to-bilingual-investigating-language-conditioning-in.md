@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Monolingual to Bilingual: Investigating Language Conditioning in Large Language Models for Psycholinguistic Tasks
+title: "From Monolingual to Bilingual: Investigating Language Conditioning in Large Language Models for Psycholinguistic Tasks"
 ---
 
 # From Monolingual to Bilingual: Investigating Language Conditioning in Large Language Models for Psycholinguistic Tasks

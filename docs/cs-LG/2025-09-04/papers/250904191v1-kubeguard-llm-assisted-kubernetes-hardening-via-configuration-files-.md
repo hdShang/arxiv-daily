@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KubeGuard: LLM-Assisted Kubernetes Hardening via Configuration Files and Runtime Logs Analysis
+title: "KubeGuard: LLM-Assisted Kubernetes Hardening via Configuration Files and Runtime Logs Analysis"
 ---
 
 # KubeGuard: LLM-Assisted Kubernetes Hardening via Configuration Files and Runtime Logs Analysis

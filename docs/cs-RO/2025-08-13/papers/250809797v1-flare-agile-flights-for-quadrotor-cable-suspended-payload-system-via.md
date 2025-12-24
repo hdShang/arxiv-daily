@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FLARE: Agile Flights for Quadrotor Cable-Suspended Payload System via Reinforcement Learning
+title: "FLARE: Agile Flights for Quadrotor Cable-Suspended Payload System via Reinforcement Learning"
 ---
 
 # FLARE: Agile Flights for Quadrotor Cable-Suspended Payload System via Reinforcement Learning

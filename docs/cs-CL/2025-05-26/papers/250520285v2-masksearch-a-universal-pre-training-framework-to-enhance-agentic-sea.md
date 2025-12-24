@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MaskSearch: A Universal Pre-Training Framework to Enhance Agentic Search Capability
+title: "MaskSearch: A Universal Pre-Training Framework to Enhance Agentic Search Capability"
 ---
 
 # MaskSearch: A Universal Pre-Training Framework to Enhance Agentic Search Capability

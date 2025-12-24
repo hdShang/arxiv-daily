@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GymPN: A Library for Decision-Making in Process Management Systems
+title: "GymPN: A Library for Decision-Making in Process Management Systems"
 ---
 
 # GymPN: A Library for Decision-Making in Process Management Systems

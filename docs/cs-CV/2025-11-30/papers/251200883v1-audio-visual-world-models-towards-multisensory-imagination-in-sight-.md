@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound
+title: "Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound"
 ---
 
 # Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound

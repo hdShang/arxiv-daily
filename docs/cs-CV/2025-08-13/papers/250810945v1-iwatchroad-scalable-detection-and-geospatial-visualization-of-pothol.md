@@ -1,6 +1,6 @@
 ---
 layout: default
-title: iWatchRoad: Scalable Detection and Geospatial Visualization of Potholes for Smart Cities
+title: "iWatchRoad: Scalable Detection and Geospatial Visualization of Potholes for Smart Cities"
 ---
 
 # iWatchRoad: Scalable Detection and Geospatial Visualization of Potholes for Smart Cities

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MambaNetLK: Enhancing Colonoscopy Point Cloud Registration with Mamba
+title: "MambaNetLK: Enhancing Colonoscopy Point Cloud Registration with Mamba"
 ---
 
 # MambaNetLK: Enhancing Colonoscopy Point Cloud Registration with Mamba

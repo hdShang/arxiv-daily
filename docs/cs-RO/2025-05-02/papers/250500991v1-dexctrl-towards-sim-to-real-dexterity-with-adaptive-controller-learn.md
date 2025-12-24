@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DexCtrl: Towards Sim-to-Real Dexterity with Adaptive Controller Learning
+title: "DexCtrl: Towards Sim-to-Real Dexterity with Adaptive Controller Learning"
 ---
 
 # DexCtrl: Towards Sim-to-Real Dexterity with Adaptive Controller Learning

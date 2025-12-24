@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Breaking the SFT Plateau: Multimodal Structured Reinforcement Learning for Chart-to-Code Generation
+title: "Breaking the SFT Plateau: Multimodal Structured Reinforcement Learning for Chart-to-Code Generation"
 ---
 
 # Breaking the SFT Plateau: Multimodal Structured Reinforcement Learning for Chart-to-Code Generation

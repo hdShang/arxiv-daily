@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R-CAGE: A Structural Model for Emotion Output Design in Human-AI Interaction
+title: "R-CAGE: A Structural Model for Emotion Output Design in Human-AI Interaction"
 ---
 
 # R-CAGE: A Structural Model for Emotion Output Design in Human-AI Interaction

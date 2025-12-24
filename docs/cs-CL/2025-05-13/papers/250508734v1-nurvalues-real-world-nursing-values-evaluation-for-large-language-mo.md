@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NurValues: Real-World Nursing Values Evaluation for Large Language Models in Clinical Context
+title: "NurValues: Real-World Nursing Values Evaluation for Large Language Models in Clinical Context"
 ---
 
 # NurValues: Real-World Nursing Values Evaluation for Large Language Models in Clinical Context

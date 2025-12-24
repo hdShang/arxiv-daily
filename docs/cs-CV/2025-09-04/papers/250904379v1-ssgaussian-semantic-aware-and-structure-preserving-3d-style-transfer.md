@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SSGaussian: Semantic-Aware and Structure-Preserving 3D Style Transfer
+title: "SSGaussian: Semantic-Aware and Structure-Preserving 3D Style Transfer"
 ---
 
 # SSGaussian: Semantic-Aware and Structure-Preserving 3D Style Transfer

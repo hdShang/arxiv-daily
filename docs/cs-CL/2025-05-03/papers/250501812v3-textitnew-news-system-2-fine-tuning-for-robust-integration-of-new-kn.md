@@ -1,6 +1,6 @@
 ---
 layout: default
-title: $\textit{New News}$: System-2 Fine-tuning for Robust Integration of New Knowledge
+title: "$\\textit{New News}$: System-2 Fine-tuning for Robust Integration of New Knowledge"
 ---
 
 # $\textit{New News}$: System-2 Fine-tuning for Robust Integration of New Knowledge

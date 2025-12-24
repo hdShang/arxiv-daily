@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tests as Prompt: A Test-Driven-Development Benchmark for LLM Code Generation
+title: "Tests as Prompt: A Test-Driven-Development Benchmark for LLM Code Generation"
 ---
 
 # Tests as Prompt: A Test-Driven-Development Benchmark for LLM Code Generation

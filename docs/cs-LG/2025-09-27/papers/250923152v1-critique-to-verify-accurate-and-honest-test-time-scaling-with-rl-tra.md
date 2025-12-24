@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Critique to Verify: Accurate and Honest Test-Time Scaling with RL-Trained Verifiers
+title: "Critique to Verify: Accurate and Honest Test-Time Scaling with RL-Trained Verifiers"
 ---
 
 # Critique to Verify: Accurate and Honest Test-Time Scaling with RL-Trained Verifiers

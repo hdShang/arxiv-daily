@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NVSPolicy: Adaptive Novel-View Synthesis for Generalizable Language-Conditioned Policy Learning
+title: "NVSPolicy: Adaptive Novel-View Synthesis for Generalizable Language-Conditioned Policy Learning"
 ---
 
 # NVSPolicy: Adaptive Novel-View Synthesis for Generalizable Language-Conditioned Policy Learning

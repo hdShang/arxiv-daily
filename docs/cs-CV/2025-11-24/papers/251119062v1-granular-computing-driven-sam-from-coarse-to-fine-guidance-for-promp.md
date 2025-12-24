@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Granular Computing-driven SAM: From Coarse-to-Fine Guidance for Prompt-Free Segmentation
+title: "Granular Computing-driven SAM: From Coarse-to-Fine Guidance for Prompt-Free Segmentation"
 ---
 
 # Granular Computing-driven SAM: From Coarse-to-Fine Guidance for Prompt-Free Segmentation

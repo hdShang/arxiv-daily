@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Plan-X: Instruct Video Generation via Semantic Planning
+title: "Plan-X: Instruct Video Generation via Semantic Planning"
 ---
 
 # Plan-X: Instruct Video Generation via Semantic Planning

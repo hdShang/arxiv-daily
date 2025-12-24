@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Oracle Has Spoken: A Multi-Aspect Evaluation of Dialogue in Pythia
+title: "The Oracle Has Spoken: A Multi-Aspect Evaluation of Dialogue in Pythia"
 ---
 
 # The Oracle Has Spoken: A Multi-Aspect Evaluation of Dialogue in Pythia

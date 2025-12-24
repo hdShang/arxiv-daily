@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SpidR: Learning Fast and Stable Linguistic Units for Spoken Language Models Without Supervision
+title: "SpidR: Learning Fast and Stable Linguistic Units for Spoken Language Models Without Supervision"
 ---
 
 # SpidR: Learning Fast and Stable Linguistic Units for Spoken Language Models Without Supervision

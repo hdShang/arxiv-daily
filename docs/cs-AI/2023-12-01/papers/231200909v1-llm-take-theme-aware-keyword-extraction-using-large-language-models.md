@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM-TAKE: Theme Aware Keyword Extraction Using Large Language Models
+title: "LLM-TAKE: Theme Aware Keyword Extraction Using Large Language Models"
 ---
 
 # LLM-TAKE: Theme Aware Keyword Extraction Using Large Language Models

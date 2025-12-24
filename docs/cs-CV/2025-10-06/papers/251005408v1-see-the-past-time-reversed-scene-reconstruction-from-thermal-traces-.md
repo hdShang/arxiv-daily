@@ -1,6 +1,6 @@
 ---
 layout: default
-title: See the past: Time-Reversed Scene Reconstruction from Thermal Traces Using Visual Language Models
+title: "See the past: Time-Reversed Scene Reconstruction from Thermal Traces Using Visual Language Models"
 ---
 
 # See the past: Time-Reversed Scene Reconstruction from Thermal Traces Using Visual Language Models

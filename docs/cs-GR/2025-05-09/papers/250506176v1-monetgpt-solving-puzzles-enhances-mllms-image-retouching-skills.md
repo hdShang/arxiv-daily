@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MonetGPT: Solving Puzzles Enhances MLLMs' Image Retouching Skills
+title: "MonetGPT: Solving Puzzles Enhances MLLMs' Image Retouching Skills"
 ---
 
 # MonetGPT: Solving Puzzles Enhances MLLMs' Image Retouching Skills

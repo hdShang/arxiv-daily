@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ArchGPT: Understanding the World's Architectures with Large Multimodal Models
+title: "ArchGPT: Understanding the World's Architectures with Large Multimodal Models"
 ---
 
 # ArchGPT: Understanding the World's Architectures with Large Multimodal Models

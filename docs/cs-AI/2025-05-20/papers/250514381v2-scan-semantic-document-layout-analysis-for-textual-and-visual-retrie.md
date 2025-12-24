@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SCAN: Semantic Document Layout Analysis for Textual and Visual Retrieval-Augmented Generation
+title: "SCAN: Semantic Document Layout Analysis for Textual and Visual Retrieval-Augmented Generation"
 ---
 
 # SCAN: Semantic Document Layout Analysis for Textual and Visual Retrieval-Augmented Generation

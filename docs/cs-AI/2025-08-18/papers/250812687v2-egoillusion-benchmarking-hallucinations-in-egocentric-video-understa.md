@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EGOILLUSION: Benchmarking Hallucinations in Egocentric Video Understanding
+title: "EGOILLUSION: Benchmarking Hallucinations in Egocentric Video Understanding"
 ---
 
 # EGOILLUSION: Benchmarking Hallucinations in Egocentric Video Understanding

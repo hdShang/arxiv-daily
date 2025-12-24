@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IDSplat: Instance-Decomposed 3D Gaussian Splatting for Driving Scenes
+title: "IDSplat: Instance-Decomposed 3D Gaussian Splatting for Driving Scenes"
 ---
 
 # IDSplat: Instance-Decomposed 3D Gaussian Splatting for Driving Scenes

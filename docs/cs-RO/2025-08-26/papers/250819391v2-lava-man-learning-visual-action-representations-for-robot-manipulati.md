@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LaVA-Man: Learning Visual Action Representations for Robot Manipulation
+title: "LaVA-Man: Learning Visual Action Representations for Robot Manipulation"
 ---
 
 # LaVA-Man: Learning Visual Action Representations for Robot Manipulation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GATO: GPU-Accelerated and Batched Trajectory Optimization for Scalable Edge Model Predictive Control
+title: "GATO: GPU-Accelerated and Batched Trajectory Optimization for Scalable Edge Model Predictive Control"
 ---
 
 # GATO: GPU-Accelerated and Batched Trajectory Optimization for Scalable Edge Model Predictive Control

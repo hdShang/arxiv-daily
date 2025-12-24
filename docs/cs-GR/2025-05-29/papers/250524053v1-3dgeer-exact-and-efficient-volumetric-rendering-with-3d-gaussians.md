@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3DGEER: Exact and Efficient Volumetric Rendering with 3D Gaussians
+title: "3DGEER: Exact and Efficient Volumetric Rendering with 3D Gaussians"
 ---
 
 # 3DGEER: Exact and Efficient Volumetric Rendering with 3D Gaussians

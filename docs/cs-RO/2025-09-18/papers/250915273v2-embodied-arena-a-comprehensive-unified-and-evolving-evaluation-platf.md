@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Embodied Arena: A Comprehensive, Unified, and Evolving Evaluation Platform for Embodied AI
+title: "Embodied Arena: A Comprehensive, Unified, and Evolving Evaluation Platform for Embodied AI"
 ---
 
 # Embodied Arena: A Comprehensive, Unified, and Evolving Evaluation Platform for Embodied AI

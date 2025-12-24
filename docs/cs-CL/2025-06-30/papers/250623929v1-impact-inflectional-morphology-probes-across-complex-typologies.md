@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IMPACT: Inflectional Morphology Probes Across Complex Typologies
+title: "IMPACT: Inflectional Morphology Probes Across Complex Typologies"
 ---
 
 # IMPACT: Inflectional Morphology Probes Across Complex Typologies

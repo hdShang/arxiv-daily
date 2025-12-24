@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EDVD-LLaMA: Explainable Deepfake Video Detection via Multimodal Large Language Model Reasoning
+title: "EDVD-LLaMA: Explainable Deepfake Video Detection via Multimodal Large Language Model Reasoning"
 ---
 
 # EDVD-LLaMA: Explainable Deepfake Video Detection via Multimodal Large Language Model Reasoning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CascadeFormer: A Family of Two-stage Cascading Transformers for Skeleton-based Human Action Recognition
+title: "CascadeFormer: A Family of Two-stage Cascading Transformers for Skeleton-based Human Action Recognition"
 ---
 
 # CascadeFormer: A Family of Two-stage Cascading Transformers for Skeleton-based Human Action Recognition

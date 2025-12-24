@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SVGen: Interpretable Vector Graphics Generation with Large Language Models
+title: "SVGen: Interpretable Vector Graphics Generation with Large Language Models"
 ---
 
 # SVGen: Interpretable Vector Graphics Generation with Large Language Models

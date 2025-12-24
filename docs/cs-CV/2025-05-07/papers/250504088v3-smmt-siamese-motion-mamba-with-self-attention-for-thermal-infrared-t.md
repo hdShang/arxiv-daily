@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SMMT: Siamese Motion Mamba with Self-attention for Thermal Infrared Target Tracking
+title: "SMMT: Siamese Motion Mamba with Self-attention for Thermal Infrared Target Tracking"
 ---
 
 # SMMT: Siamese Motion Mamba with Self-attention for Thermal Infrared Target Tracking

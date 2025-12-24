@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HouseTS: A Large-Scale, Multimodal Spatiotemporal U.S. Housing Dataset
+title: "HouseTS: A Large-Scale, Multimodal Spatiotemporal U.S. Housing Dataset"
 ---
 
 # HouseTS: A Large-Scale, Multimodal Spatiotemporal U.S. Housing Dataset

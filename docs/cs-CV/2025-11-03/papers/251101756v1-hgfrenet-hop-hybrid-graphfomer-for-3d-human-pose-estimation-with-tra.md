@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HGFreNet: Hop-hybrid GraphFomer for 3D Human Pose Estimation with Trajectory Consistency in Frequency Domain
+title: "HGFreNet: Hop-hybrid GraphFomer for 3D Human Pose Estimation with Trajectory Consistency in Frequency Domain"
 ---
 
 # HGFreNet: Hop-hybrid GraphFomer for 3D Human Pose Estimation with Trajectory Consistency in Frequency Domain

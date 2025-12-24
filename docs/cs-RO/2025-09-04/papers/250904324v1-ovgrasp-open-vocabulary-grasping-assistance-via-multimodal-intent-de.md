@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OVGrasp: Open-Vocabulary Grasping Assistance via Multimodal Intent Detection
+title: "OVGrasp: Open-Vocabulary Grasping Assistance via Multimodal Intent Detection"
 ---
 
 # OVGrasp: Open-Vocabulary Grasping Assistance via Multimodal Intent Detection

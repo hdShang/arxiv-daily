@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)
+title: "Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)"
 ---
 
 # Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)

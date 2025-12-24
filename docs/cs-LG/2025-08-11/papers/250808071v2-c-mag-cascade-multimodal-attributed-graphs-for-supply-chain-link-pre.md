@@ -1,6 +1,6 @@
 ---
 layout: default
-title: C-MAG: Cascade Multimodal Attributed Graphs for Supply Chain Link Prediction
+title: "C-MAG: Cascade Multimodal Attributed Graphs for Supply Chain Link Prediction"
 ---
 
 # C-MAG: Cascade Multimodal Attributed Graphs for Supply Chain Link Prediction

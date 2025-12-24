@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InfoFlood: Jailbreaking Large Language Models with Information Overload
+title: "InfoFlood: Jailbreaking Large Language Models with Information Overload"
 ---
 
 # InfoFlood: Jailbreaking Large Language Models with Information Overload

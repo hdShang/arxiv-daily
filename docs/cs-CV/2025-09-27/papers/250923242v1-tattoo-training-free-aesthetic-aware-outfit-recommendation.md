@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TATTOO: Training-free AesTheTic-aware Outfit recOmmendation
+title: "TATTOO: Training-free AesTheTic-aware Outfit recOmmendation"
 ---
 
 # TATTOO: Training-free AesTheTic-aware Outfit recOmmendation

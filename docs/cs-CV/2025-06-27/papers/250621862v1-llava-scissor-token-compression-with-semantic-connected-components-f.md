@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLaVA-Scissor: Token Compression with Semantic Connected Components for Video LLMs
+title: "LLaVA-Scissor: Token Compression with Semantic Connected Components for Video LLMs"
 ---
 
 # LLaVA-Scissor: Token Compression with Semantic Connected Components for Video LLMs

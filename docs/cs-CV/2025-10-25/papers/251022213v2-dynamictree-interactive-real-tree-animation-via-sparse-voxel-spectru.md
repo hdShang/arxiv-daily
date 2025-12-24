@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DynamicTree: Interactive Real Tree Animation via Sparse Voxel Spectrum
+title: "DynamicTree: Interactive Real Tree Animation via Sparse Voxel Spectrum"
 ---
 
 # DynamicTree: Interactive Real Tree Animation via Sparse Voxel Spectrum

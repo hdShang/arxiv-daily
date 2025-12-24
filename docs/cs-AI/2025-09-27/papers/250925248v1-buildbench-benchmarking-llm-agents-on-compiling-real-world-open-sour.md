@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BuildBench: Benchmarking LLM Agents on Compiling Real-World Open-Source Software
+title: "BuildBench: Benchmarking LLM Agents on Compiling Real-World Open-Source Software"
 ---
 
 # BuildBench: Benchmarking LLM Agents on Compiling Real-World Open-Source Software

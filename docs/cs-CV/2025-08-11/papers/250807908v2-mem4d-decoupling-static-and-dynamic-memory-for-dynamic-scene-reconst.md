@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mem4D: Decoupling Static and Dynamic Memory for Dynamic Scene Reconstruction
+title: "Mem4D: Decoupling Static and Dynamic Memory for Dynamic Scene Reconstruction"
 ---
 
 # Mem4D: Decoupling Static and Dynamic Memory for Dynamic Scene Reconstruction

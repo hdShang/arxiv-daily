@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CKA-Guided Modular Quantization: Beyond Bit-Width to Algorithmic Diversity
+title: "CKA-Guided Modular Quantization: Beyond Bit-Width to Algorithmic Diversity"
 ---
 
 # CKA-Guided Modular Quantization: Beyond Bit-Width to Algorithmic Diversity

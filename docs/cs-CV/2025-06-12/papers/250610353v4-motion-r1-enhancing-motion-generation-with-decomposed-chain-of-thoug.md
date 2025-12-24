@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Motion-R1: Enhancing Motion Generation with Decomposed Chain-of-Thought and RL Binding
+title: "Motion-R1: Enhancing Motion Generation with Decomposed Chain-of-Thought and RL Binding"
 ---
 
 # Motion-R1: Enhancing Motion Generation with Decomposed Chain-of-Thought and RL Binding

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TIB AIssistant: a Platform for AI-Supported Research Across Research Life Cycles
+title: "TIB AIssistant: a Platform for AI-Supported Research Across Research Life Cycles"
 ---
 
 # TIB AIssistant: a Platform for AI-Supported Research Across Research Life Cycles

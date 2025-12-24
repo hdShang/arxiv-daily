@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Look, Zoom, Understand: The Robotic Eyeball for Embodied Perception
+title: "Look, Zoom, Understand: The Robotic Eyeball for Embodied Perception"
 ---
 
 # Look, Zoom, Understand: The Robotic Eyeball for Embodied Perception

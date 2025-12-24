@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning
+title: "CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning"
 ---
 
 # CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning

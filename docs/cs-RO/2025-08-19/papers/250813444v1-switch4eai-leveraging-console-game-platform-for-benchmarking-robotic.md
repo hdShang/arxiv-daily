@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Switch4EAI: Leveraging Console Game Platform for Benchmarking Robotic Athletics
+title: "Switch4EAI: Leveraging Console Game Platform for Benchmarking Robotic Athletics"
 ---
 
 # Switch4EAI: Leveraging Console Game Platform for Benchmarking Robotic Athletics

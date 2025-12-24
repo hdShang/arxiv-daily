@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models
+title: "FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models"
 ---
 
 # FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models

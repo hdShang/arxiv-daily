@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Distribution Parameter Actor-Critic: Shifting the Agent-Environment Boundary for Diverse Action Spaces
+title: "Distribution Parameter Actor-Critic: Shifting the Agent-Environment Boundary for Diverse Action Spaces"
 ---
 
 # Distribution Parameter Actor-Critic: Shifting the Agent-Environment Boundary for Diverse Action Spaces

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: X-SQL: Expert Schema Linking and Understanding of Text-to-SQL with Multi-LLMs
+title: "X-SQL: Expert Schema Linking and Understanding of Text-to-SQL with Multi-LLMs"
 ---
 
 # X-SQL: Expert Schema Linking and Understanding of Text-to-SQL with Multi-LLMs

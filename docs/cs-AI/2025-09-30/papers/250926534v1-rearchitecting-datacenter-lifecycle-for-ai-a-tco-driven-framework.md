@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rearchitecting Datacenter Lifecycle for AI: A TCO-Driven Framework
+title: "Rearchitecting Datacenter Lifecycle for AI: A TCO-Driven Framework"
 ---
 
 # Rearchitecting Datacenter Lifecycle for AI: A TCO-Driven Framework

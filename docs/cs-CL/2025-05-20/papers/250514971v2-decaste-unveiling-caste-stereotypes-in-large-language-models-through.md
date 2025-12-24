@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DECASTE: Unveiling Caste Stereotypes in Large Language Models through Multi-Dimensional Bias Analysis
+title: "DECASTE: Unveiling Caste Stereotypes in Large Language Models through Multi-Dimensional Bias Analysis"
 ---
 
 # DECASTE: Unveiling Caste Stereotypes in Large Language Models through Multi-Dimensional Bias Analysis

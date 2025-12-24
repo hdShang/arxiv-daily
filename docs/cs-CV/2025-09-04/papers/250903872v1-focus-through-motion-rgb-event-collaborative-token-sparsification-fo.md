@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Focus Through Motion: RGB-Event Collaborative Token Sparsification for Efficient Object Detection
+title: "Focus Through Motion: RGB-Event Collaborative Token Sparsification for Efficient Object Detection"
 ---
 
 # Focus Through Motion: RGB-Event Collaborative Token Sparsification for Efficient Object Detection

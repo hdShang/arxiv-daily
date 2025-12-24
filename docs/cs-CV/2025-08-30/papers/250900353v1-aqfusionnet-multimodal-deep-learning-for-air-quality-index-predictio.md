@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AQFusionNet: Multimodal Deep Learning for Air Quality Index Prediction with Imagery and Sensor Data
+title: "AQFusionNet: Multimodal Deep Learning for Air Quality Index Prediction with Imagery and Sensor Data"
 ---
 
 # AQFusionNet: Multimodal Deep Learning for Air Quality Index Prediction with Imagery and Sensor Data

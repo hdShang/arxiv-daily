@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Being-M0.5: A Real-Time Controllable Vision-Language-Motion Model
+title: "Being-M0.5: A Real-Time Controllable Vision-Language-Motion Model"
 ---
 
 # Being-M0.5: A Real-Time Controllable Vision-Language-Motion Model

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LogiPlan: A Structured Benchmark for Logical Planning and Relational Reasoning in LLMs
+title: "LogiPlan: A Structured Benchmark for Logical Planning and Relational Reasoning in LLMs"
 ---
 
 # LogiPlan: A Structured Benchmark for Logical Planning and Relational Reasoning in LLMs

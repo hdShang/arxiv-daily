@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Humanoid Goalkeeper: Learning from Position Conditioned Task-Motion Constraints
+title: "Humanoid Goalkeeper: Learning from Position Conditioned Task-Motion Constraints"
 ---
 
 # Humanoid Goalkeeper: Learning from Position Conditioned Task-Motion Constraints

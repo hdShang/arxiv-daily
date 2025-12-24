@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM Jailbreak Detection for (Almost) Free!
+title: "LLM Jailbreak Detection for (Almost) Free!"
 ---
 
 # LLM Jailbreak Detection for (Almost) Free!

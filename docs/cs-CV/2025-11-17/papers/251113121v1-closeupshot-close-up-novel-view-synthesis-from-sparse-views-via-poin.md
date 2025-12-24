@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CloseUpShot: Close-up Novel View Synthesis from Sparse-views via Point-conditioned Diffusion Model
+title: "CloseUpShot: Close-up Novel View Synthesis from Sparse-views via Point-conditioned Diffusion Model"
 ---
 
 # CloseUpShot: Close-up Novel View Synthesis from Sparse-views via Point-conditioned Diffusion Model

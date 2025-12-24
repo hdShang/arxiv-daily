@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visual Affordance Prediction: Survey and Reproducibility
+title: "Visual Affordance Prediction: Survey and Reproducibility"
 ---
 
 # Visual Affordance Prediction: Survey and Reproducibility

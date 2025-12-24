@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SLAP: Shortcut Learning for Abstract Planning
+title: "SLAP: Shortcut Learning for Abstract Planning"
 ---
 
 # SLAP: Shortcut Learning for Abstract Planning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Neuro-Symbolic Artificial Intelligence: Towards Improving the Reasoning Abilities of Large Language Models
+title: "Neuro-Symbolic Artificial Intelligence: Towards Improving the Reasoning Abilities of Large Language Models"
 ---
 
 # Neuro-Symbolic Artificial Intelligence: Towards Improving the Reasoning Abilities of Large Language Models

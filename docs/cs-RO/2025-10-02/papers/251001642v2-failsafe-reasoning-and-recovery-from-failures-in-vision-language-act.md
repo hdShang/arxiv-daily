@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FailSafe: Reasoning and Recovery from Failures in Vision-Language-Action Models
+title: "FailSafe: Reasoning and Recovery from Failures in Vision-Language-Action Models"
 ---
 
 # FailSafe: Reasoning and Recovery from Failures in Vision-Language-Action Models

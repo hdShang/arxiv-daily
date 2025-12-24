@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AnTKV: Anchor Token-Aware Sub-Bit Vector Quantization for KV Cache in Large Language Models
+title: "AnTKV: Anchor Token-Aware Sub-Bit Vector Quantization for KV Cache in Large Language Models"
 ---
 
 # AnTKV: Anchor Token-Aware Sub-Bit Vector Quantization for KV Cache in Large Language Models

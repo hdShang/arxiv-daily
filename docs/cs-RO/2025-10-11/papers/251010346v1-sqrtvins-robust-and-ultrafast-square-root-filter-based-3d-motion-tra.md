@@ -1,6 +1,6 @@
 ---
 layout: default
-title: sqrtVINS: Robust and Ultrafast Square-Root Filter-based 3D Motion Tracking
+title: "sqrtVINS: Robust and Ultrafast Square-Root Filter-based 3D Motion Tracking"
 ---
 
 # sqrtVINS: Robust and Ultrafast Square-Root Filter-based 3D Motion Tracking

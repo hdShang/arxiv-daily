@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Minkowski-MambaNet: A Point Cloud Framework with Selective State Space Models for Forest Biomass Quantification
+title: "Minkowski-MambaNet: A Point Cloud Framework with Selective State Space Models for Forest Biomass Quantification"
 ---
 
 # Minkowski-MambaNet: A Point Cloud Framework with Selective State Space Models for Forest Biomass Quantification

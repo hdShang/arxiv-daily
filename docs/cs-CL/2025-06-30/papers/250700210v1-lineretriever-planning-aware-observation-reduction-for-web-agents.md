@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LineRetriever: Planning-Aware Observation Reduction for Web Agents
+title: "LineRetriever: Planning-Aware Observation Reduction for Web Agents"
 ---
 
 # LineRetriever: Planning-Aware Observation Reduction for Web Agents

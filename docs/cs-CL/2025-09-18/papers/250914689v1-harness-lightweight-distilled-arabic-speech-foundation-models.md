@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HARNESS: Lightweight Distilled Arabic Speech Foundation Models
+title: "HARNESS: Lightweight Distilled Arabic Speech Foundation Models"
 ---
 
 # HARNESS: Lightweight Distilled Arabic Speech Foundation Models

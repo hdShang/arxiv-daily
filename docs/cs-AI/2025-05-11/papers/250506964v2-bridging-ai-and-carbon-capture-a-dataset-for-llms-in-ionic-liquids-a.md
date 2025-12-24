@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bridging AI and Carbon Capture: A Dataset for LLMs in Ionic Liquids and CBE Research
+title: "Bridging AI and Carbon Capture: A Dataset for LLMs in Ionic Liquids and CBE Research"
 ---
 
 # Bridging AI and Carbon Capture: A Dataset for LLMs in Ionic Liquids and CBE Research

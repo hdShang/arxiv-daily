@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VC-Agent: An Interactive Agent for Customized Video Dataset Collection
+title: "VC-Agent: An Interactive Agent for Customized Video Dataset Collection"
 ---
 
 # VC-Agent: An Interactive Agent for Customized Video Dataset Collection

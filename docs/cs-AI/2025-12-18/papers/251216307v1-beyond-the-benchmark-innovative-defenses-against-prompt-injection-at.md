@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond the Benchmark: Innovative Defenses Against Prompt Injection Attacks
+title: "Beyond the Benchmark: Innovative Defenses Against Prompt Injection Attacks"
 ---
 
 # Beyond the Benchmark: Innovative Defenses Against Prompt Injection Attacks

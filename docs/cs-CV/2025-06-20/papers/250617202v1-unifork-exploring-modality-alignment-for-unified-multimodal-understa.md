@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation
+title: "UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation"
 ---
 
 # UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation

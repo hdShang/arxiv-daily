@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GUAVA: Generalizable Upper Body 3D Gaussian Avatar
+title: "GUAVA: Generalizable Upper Body 3D Gaussian Avatar"
 ---
 
 # GUAVA: Generalizable Upper Body 3D Gaussian Avatar

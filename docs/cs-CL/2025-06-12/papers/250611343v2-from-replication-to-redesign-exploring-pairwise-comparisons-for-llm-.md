@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Replication to Redesign: Exploring Pairwise Comparisons for LLM-Based Peer Review
+title: "From Replication to Redesign: Exploring Pairwise Comparisons for LLM-Based Peer Review"
 ---
 
 # From Replication to Redesign: Exploring Pairwise Comparisons for LLM-Based Peer Review

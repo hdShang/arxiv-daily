@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Latent Preference Coding: Aligning Large Language Models via Discrete Latent Codes
+title: "Latent Preference Coding: Aligning Large Language Models via Discrete Latent Codes"
 ---
 
 # Latent Preference Coding: Aligning Large Language Models via Discrete Latent Codes

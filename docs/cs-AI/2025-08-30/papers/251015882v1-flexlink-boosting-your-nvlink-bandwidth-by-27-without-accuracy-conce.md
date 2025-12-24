@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FlexLink: Boosting your NVLink Bandwidth by 27% without accuracy concern
+title: "FlexLink: Boosting your NVLink Bandwidth by 27% without accuracy concern"
 ---
 
 # FlexLink: Boosting your NVLink Bandwidth by 27% without accuracy concern

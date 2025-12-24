@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Chains: Bridging Large Language Models and Knowledge Bases in Complex Question Answering
+title: "Beyond Chains: Bridging Large Language Models and Knowledge Bases in Complex Question Answering"
 ---
 
 # Beyond Chains: Bridging Large Language Models and Knowledge Bases in Complex Question Answering

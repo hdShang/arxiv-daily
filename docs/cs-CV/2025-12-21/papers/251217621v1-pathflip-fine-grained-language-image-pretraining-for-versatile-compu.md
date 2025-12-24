@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology
+title: "PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology"
 ---
 
 # PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology

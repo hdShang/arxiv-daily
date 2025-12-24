@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Omni-DPO: A Dual-Perspective Paradigm for Dynamic Preference Learning of LLMs
+title: "Omni-DPO: A Dual-Perspective Paradigm for Dynamic Preference Learning of LLMs"
 ---
 
 # Omni-DPO: A Dual-Perspective Paradigm for Dynamic Preference Learning of LLMs

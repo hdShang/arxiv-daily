@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Why Distillation can Outperform Zero-RL: The Role of Flexible Reasoning
+title: "Why Distillation can Outperform Zero-RL: The Role of Flexible Reasoning"
 ---
 
 # Why Distillation can Outperform Zero-RL: The Role of Flexible Reasoning

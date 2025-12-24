@@ -1,6 +1,6 @@
 ---
 layout: default
-title: T2S: High-resolution Time Series Generation with Text-to-Series Diffusion Models
+title: "T2S: High-resolution Time Series Generation with Text-to-Series Diffusion Models"
 ---
 
 # T2S: High-resolution Time Series Generation with Text-to-Series Diffusion Models

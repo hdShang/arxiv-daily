@@ -1,6 +1,6 @@
 ---
 layout: default
-title: REM: Evaluating LLM Embodied Spatial Reasoning through Multi-Frame Trajectories
+title: "REM: Evaluating LLM Embodied Spatial Reasoning through Multi-Frame Trajectories"
 ---
 
 # REM: Evaluating LLM Embodied Spatial Reasoning through Multi-Frame Trajectories

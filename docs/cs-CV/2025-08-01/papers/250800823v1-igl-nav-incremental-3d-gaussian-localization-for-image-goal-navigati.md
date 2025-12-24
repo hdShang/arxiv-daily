@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation
+title: "IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation"
 ---
 
 # IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation

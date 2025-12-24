@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GEN3D: Generating Domain-Free 3D Scenes from a Single Image
+title: "GEN3D: Generating Domain-Free 3D Scenes from a Single Image"
 ---
 
 # GEN3D: Generating Domain-Free 3D Scenes from a Single Image

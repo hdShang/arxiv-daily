@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GaussianImage++: Boosted Image Representation and Compression with 2D Gaussian Splatting
+title: "GaussianImage++: Boosted Image Representation and Compression with 2D Gaussian Splatting"
 ---
 
 # GaussianImage++: Boosted Image Representation and Compression with 2D Gaussian Splatting

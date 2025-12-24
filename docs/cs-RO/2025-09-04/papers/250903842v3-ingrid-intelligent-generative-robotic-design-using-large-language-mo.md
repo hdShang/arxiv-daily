@@ -1,6 +1,6 @@
 ---
 layout: default
-title: INGRID: Intelligent Generative Robotic Design Using Large Language Models
+title: "INGRID: Intelligent Generative Robotic Design Using Large Language Models"
 ---
 
 # INGRID: Intelligent Generative Robotic Design Using Large Language Models

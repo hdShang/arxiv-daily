@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nexus-INR: Diverse Knowledge-guided Arbitrary-Scale Multimodal Medical Image Super-Resolution
+title: "Nexus-INR: Diverse Knowledge-guided Arbitrary-Scale Multimodal Medical Image Super-Resolution"
 ---
 
 # Nexus-INR: Diverse Knowledge-guided Arbitrary-Scale Multimodal Medical Image Super-Resolution

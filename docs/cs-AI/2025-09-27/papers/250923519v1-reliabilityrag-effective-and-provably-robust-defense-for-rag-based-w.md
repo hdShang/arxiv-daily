@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReliabilityRAG: Effective and Provably Robust Defense for RAG-based Web-Search
+title: "ReliabilityRAG: Effective and Provably Robust Defense for RAG-based Web-Search"
 ---
 
 # ReliabilityRAG: Effective and Provably Robust Defense for RAG-based Web-Search

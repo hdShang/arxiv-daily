@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ChatGPT produces more "lazy" thinkers: Evidence of cognitive engagement decline
+title: "ChatGPT produces more \"lazy\" thinkers: Evidence of cognitive engagement decline"
 ---
 
 # ChatGPT produces more "lazy" thinkers: Evidence of cognitive engagement decline

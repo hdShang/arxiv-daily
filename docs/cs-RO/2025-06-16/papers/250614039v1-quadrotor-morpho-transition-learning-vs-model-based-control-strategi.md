@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quadrotor Morpho-Transition: Learning vs Model-Based Control Strategies
+title: "Quadrotor Morpho-Transition: Learning vs Model-Based Control Strategies"
 ---
 
 # Quadrotor Morpho-Transition: Learning vs Model-Based Control Strategies

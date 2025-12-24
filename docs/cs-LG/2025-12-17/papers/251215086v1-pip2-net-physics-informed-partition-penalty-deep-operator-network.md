@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PIP$^2$ Net: Physics-informed Partition Penalty Deep Operator Network
+title: "PIP$^2$ Net: Physics-informed Partition Penalty Deep Operator Network"
 ---
 
 # PIP$^2$ Net: Physics-informed Partition Penalty Deep Operator Network

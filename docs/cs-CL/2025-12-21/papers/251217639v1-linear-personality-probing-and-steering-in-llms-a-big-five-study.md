@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Linear Personality Probing and Steering in LLMs: A Big Five Study
+title: "Linear Personality Probing and Steering in LLMs: A Big Five Study"
 ---
 
 # Linear Personality Probing and Steering in LLMs: A Big Five Study

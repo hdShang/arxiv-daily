@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MimicParts: Part-aware Style Injection for Speech-Driven 3D Motion Generation
+title: "MimicParts: Part-aware Style Injection for Speech-Driven 3D Motion Generation"
 ---
 
 # MimicParts: Part-aware Style Injection for Speech-Driven 3D Motion Generation

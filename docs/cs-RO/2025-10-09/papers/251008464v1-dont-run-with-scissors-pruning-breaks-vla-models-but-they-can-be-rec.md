@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Don't Run with Scissors: Pruning Breaks VLA Models but They Can Be Recovered
+title: "Don't Run with Scissors: Pruning Breaks VLA Models but They Can Be Recovered"
 ---
 
 # Don't Run with Scissors: Pruning Breaks VLA Models but They Can Be Recovered

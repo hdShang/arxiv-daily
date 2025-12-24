@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vid-SME: Membership Inference Attacks against Large Video Understanding Models
+title: "Vid-SME: Membership Inference Attacks against Large Video Understanding Models"
 ---
 
 # Vid-SME: Membership Inference Attacks against Large Video Understanding Models

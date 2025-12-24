@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MonkeyOCR: Document Parsing with a Structure-Recognition-Relation Triplet Paradigm
+title: "MonkeyOCR: Document Parsing with a Structure-Recognition-Relation Triplet Paradigm"
 ---
 
 # MonkeyOCR: Document Parsing with a Structure-Recognition-Relation Triplet Paradigm

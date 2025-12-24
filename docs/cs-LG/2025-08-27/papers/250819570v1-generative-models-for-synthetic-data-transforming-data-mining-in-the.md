@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Generative Models for Synthetic Data: Transforming Data Mining in the GenAI Era
+title: "Generative Models for Synthetic Data: Transforming Data Mining in the GenAI Era"
 ---
 
 # Generative Models for Synthetic Data: Transforming Data Mining in the GenAI Era

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OTTER: Open-Tagging via Text-Image Representation for Multi-modal Understanding
+title: "OTTER: Open-Tagging via Text-Image Representation for Multi-modal Understanding"
 ---
 
 # OTTER: Open-Tagging via Text-Image Representation for Multi-modal Understanding

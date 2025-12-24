@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AutoMixAlign: Adaptive Data Mixing for Multi-Task Preference Optimization in LLMs
+title: "AutoMixAlign: Adaptive Data Mixing for Multi-Task Preference Optimization in LLMs"
 ---
 
 # AutoMixAlign: Adaptive Data Mixing for Multi-Task Preference Optimization in LLMs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PDE-Transformer: Efficient and Versatile Transformers for Physics Simulations
+title: "PDE-Transformer: Efficient and Versatile Transformers for Physics Simulations"
 ---
 
 # PDE-Transformer: Efficient and Versatile Transformers for Physics Simulations

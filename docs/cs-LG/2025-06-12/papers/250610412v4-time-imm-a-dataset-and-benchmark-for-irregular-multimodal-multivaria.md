@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series
+title: "Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series"
 ---
 
 # Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series

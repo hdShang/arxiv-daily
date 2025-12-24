@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MR. Judge: Multimodal Reasoner as a Judge
+title: "MR. Judge: Multimodal Reasoner as a Judge"
 ---
 
 # MR. Judge: Multimodal Reasoner as a Judge

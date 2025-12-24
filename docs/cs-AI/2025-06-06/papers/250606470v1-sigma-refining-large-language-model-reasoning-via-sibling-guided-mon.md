@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SIGMA: Refining Large Language Model Reasoning via Sibling-Guided Monte Carlo Augmentation
+title: "SIGMA: Refining Large Language Model Reasoning via Sibling-Guided Monte Carlo Augmentation"
 ---
 
 # SIGMA: Refining Large Language Model Reasoning via Sibling-Guided Monte Carlo Augmentation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Narrative-Guided Reinforcement Learning: A Platform for Studying Language Model Influence on Decision Making
+title: "Narrative-Guided Reinforcement Learning: A Platform for Studying Language Model Influence on Decision Making"
 ---
 
 # Narrative-Guided Reinforcement Learning: A Platform for Studying Language Model Influence on Decision Making

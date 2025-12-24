@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ArchesClimate: Probabilistic Decadal Ensemble Generation With Flow Matching
+title: "ArchesClimate: Probabilistic Decadal Ensemble Generation With Flow Matching"
 ---
 
 # ArchesClimate: Probabilistic Decadal Ensemble Generation With Flow Matching

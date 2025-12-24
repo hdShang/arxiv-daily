@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Test-Time Matching: Unlocking Compositional Reasoning in Multimodal Models
+title: "Test-Time Matching: Unlocking Compositional Reasoning in Multimodal Models"
 ---
 
 # Test-Time Matching: Unlocking Compositional Reasoning in Multimodal Models

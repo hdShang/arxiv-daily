@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ENSI: Efficient Non-Interactive Secure Inference for Large Language Models
+title: "ENSI: Efficient Non-Interactive Secure Inference for Large Language Models"
 ---
 
 # ENSI: Efficient Non-Interactive Secure Inference for Large Language Models

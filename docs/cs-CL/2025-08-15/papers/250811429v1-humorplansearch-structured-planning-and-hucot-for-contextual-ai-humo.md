@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HumorPlanSearch: Structured Planning and HuCoT for Contextual AI Humor
+title: "HumorPlanSearch: Structured Planning and HuCoT for Contextual AI Humor"
 ---
 
 # HumorPlanSearch: Structured Planning and HuCoT for Contextual AI Humor

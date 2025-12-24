@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RaCalNet: Radar Calibration Network for Sparse-Supervised Metric Depth Estimation
+title: "RaCalNet: Radar Calibration Network for Sparse-Supervised Metric Depth Estimation"
 ---
 
 # RaCalNet: Radar Calibration Network for Sparse-Supervised Metric Depth Estimation

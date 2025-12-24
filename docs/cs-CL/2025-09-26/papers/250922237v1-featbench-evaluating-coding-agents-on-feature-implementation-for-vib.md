@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FeatBench: Evaluating Coding Agents on Feature Implementation for Vibe Coding
+title: "FeatBench: Evaluating Coding Agents on Feature Implementation for Vibe Coding"
 ---
 
 # FeatBench: Evaluating Coding Agents on Feature Implementation for Vibe Coding

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLMs on support of privacy and security of mobile apps: state of the art and research directions
+title: "LLMs on support of privacy and security of mobile apps: state of the art and research directions"
 ---
 
 # LLMs on support of privacy and security of mobile apps: state of the art and research directions

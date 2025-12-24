@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DefenderBench: A Toolkit for Evaluating Language Agents in Cybersecurity Environments
+title: "DefenderBench: A Toolkit for Evaluating Language Agents in Cybersecurity Environments"
 ---
 
 # DefenderBench: A Toolkit for Evaluating Language Agents in Cybersecurity Environments

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Safe: Enhancing Mathematical Reasoning in Large Language Models via Retrospective Step-aware Formal Verification
+title: "Safe: Enhancing Mathematical Reasoning in Large Language Models via Retrospective Step-aware Formal Verification"
 ---
 
 # Safe: Enhancing Mathematical Reasoning in Large Language Models via Retrospective Step-aware Formal Verification

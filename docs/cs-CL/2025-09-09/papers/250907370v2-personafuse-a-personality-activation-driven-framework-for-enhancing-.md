@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PersonaFuse: A Personality Activation-Driven Framework for Enhancing Human-LLM Interactions
+title: "PersonaFuse: A Personality Activation-Driven Framework for Enhancing Human-LLM Interactions"
 ---
 
 # PersonaFuse: A Personality Activation-Driven Framework for Enhancing Human-LLM Interactions

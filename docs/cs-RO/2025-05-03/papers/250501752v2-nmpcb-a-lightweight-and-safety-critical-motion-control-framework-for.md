@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NMPCB: A Lightweight and Safety-Critical Motion Control Framework for Ackermann Mobile Robot
+title: "NMPCB: A Lightweight and Safety-Critical Motion Control Framework for Ackermann Mobile Robot"
 ---
 
 # NMPCB: A Lightweight and Safety-Critical Motion Control Framework for Ackermann Mobile Robot

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FLEET: Formal Language-Grounded Scheduling for Heterogeneous Robot Teams
+title: "FLEET: Formal Language-Grounded Scheduling for Heterogeneous Robot Teams"
 ---
 
 # FLEET: Formal Language-Grounded Scheduling for Heterogeneous Robot Teams

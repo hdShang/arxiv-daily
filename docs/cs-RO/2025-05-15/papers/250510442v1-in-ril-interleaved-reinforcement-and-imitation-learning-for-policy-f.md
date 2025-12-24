@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IN-RIL: Interleaved Reinforcement and Imitation Learning for Policy Fine-Tuning
+title: "IN-RIL: Interleaved Reinforcement and Imitation Learning for Policy Fine-Tuning"
 ---
 
 # IN-RIL: Interleaved Reinforcement and Imitation Learning for Policy Fine-Tuning

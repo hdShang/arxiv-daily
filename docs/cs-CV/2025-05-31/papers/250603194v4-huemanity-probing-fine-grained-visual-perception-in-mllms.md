@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HueManity: Probing Fine-Grained Visual Perception in MLLMs
+title: "HueManity: Probing Fine-Grained Visual Perception in MLLMs"
 ---
 
 # HueManity: Probing Fine-Grained Visual Perception in MLLMs

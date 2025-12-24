@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mixture of Sparse Attention: Content-Based Learnable Sparse Attention via Expert-Choice Routing
+title: "Mixture of Sparse Attention: Content-Based Learnable Sparse Attention via Expert-Choice Routing"
 ---
 
 # Mixture of Sparse Attention: Content-Based Learnable Sparse Attention via Expert-Choice Routing

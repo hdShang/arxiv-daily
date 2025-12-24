@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ultra-FineWeb: Efficient Data Filtering and Verification for High-Quality LLM Training Data
+title: "Ultra-FineWeb: Efficient Data Filtering and Verification for High-Quality LLM Training Data"
 ---
 
 # Ultra-FineWeb: Efficient Data Filtering and Verification for High-Quality LLM Training Data

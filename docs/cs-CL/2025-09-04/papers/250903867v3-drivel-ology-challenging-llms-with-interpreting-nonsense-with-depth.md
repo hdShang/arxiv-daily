@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth
+title: "Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth"
 ---
 
 # Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth

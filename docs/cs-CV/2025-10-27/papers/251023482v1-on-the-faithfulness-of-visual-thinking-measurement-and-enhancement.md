@@ -1,6 +1,6 @@
 ---
 layout: default
-title: On the Faithfulness of Visual Thinking: Measurement and Enhancement
+title: "On the Faithfulness of Visual Thinking: Measurement and Enhancement"
 ---
 
 # On the Faithfulness of Visual Thinking: Measurement and Enhancement

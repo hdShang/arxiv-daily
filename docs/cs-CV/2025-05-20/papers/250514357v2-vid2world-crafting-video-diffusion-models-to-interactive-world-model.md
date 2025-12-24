@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vid2World: Crafting Video Diffusion Models to Interactive World Models
+title: "Vid2World: Crafting Video Diffusion Models to Interactive World Models"
 ---
 
 # Vid2World: Crafting Video Diffusion Models to Interactive World Models

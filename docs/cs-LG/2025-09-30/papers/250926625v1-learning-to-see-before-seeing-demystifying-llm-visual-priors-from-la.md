@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning to See Before Seeing: Demystifying LLM Visual Priors from Language Pre-training
+title: "Learning to See Before Seeing: Demystifying LLM Visual Priors from Language Pre-training"
 ---
 
 # Learning to See Before Seeing: Demystifying LLM Visual Priors from Language Pre-training

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Rules to Rewards: Reinforcement Learning for Interest Rate Adjustment in DeFi Lending
+title: "From Rules to Rewards: Reinforcement Learning for Interest Rate Adjustment in DeFi Lending"
 ---
 
 # From Rules to Rewards: Reinforcement Learning for Interest Rate Adjustment in DeFi Lending

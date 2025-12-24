@@ -1,6 +1,6 @@
 ---
 layout: default
-title: White-Box Reasoning: Synergizing LLM Strategy and gm/Id Data for Automated Analog Circuit Design
+title: "White-Box Reasoning: Synergizing LLM Strategy and gm/Id Data for Automated Analog Circuit Design"
 ---
 
 # White-Box Reasoning: Synergizing LLM Strategy and gm/Id Data for Automated Analog Circuit Design

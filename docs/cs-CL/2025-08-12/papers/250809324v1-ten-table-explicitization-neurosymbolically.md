@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TEN: Table Explicitization, Neurosymbolically
+title: "TEN: Table Explicitization, Neurosymbolically"
 ---
 
 # TEN: Table Explicitization, Neurosymbolically

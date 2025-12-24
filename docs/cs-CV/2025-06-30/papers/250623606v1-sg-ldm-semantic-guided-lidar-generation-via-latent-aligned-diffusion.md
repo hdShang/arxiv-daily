@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SG-LDM: Semantic-Guided LiDAR Generation via Latent-Aligned Diffusion
+title: "SG-LDM: Semantic-Guided LiDAR Generation via Latent-Aligned Diffusion"
 ---
 
 # SG-LDM: Semantic-Guided LiDAR Generation via Latent-Aligned Diffusion

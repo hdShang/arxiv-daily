@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Select Less, Reason More: Prioritizing Evidence Purity for Video Reasoning
+title: "Select Less, Reason More: Prioritizing Evidence Purity for Video Reasoning"
 ---
 
 # Select Less, Reason More: Prioritizing Evidence Purity for Video Reasoning

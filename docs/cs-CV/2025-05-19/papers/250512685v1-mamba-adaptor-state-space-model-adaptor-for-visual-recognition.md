@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mamba-Adaptor: State Space Model Adaptor for Visual Recognition
+title: "Mamba-Adaptor: State Space Model Adaptor for Visual Recognition"
 ---
 
 # Mamba-Adaptor: State Space Model Adaptor for Visual Recognition

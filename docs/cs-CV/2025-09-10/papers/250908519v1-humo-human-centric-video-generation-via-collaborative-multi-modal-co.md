@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning
+title: "HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning"
 ---
 
 # HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning

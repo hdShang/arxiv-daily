@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LoSemB: Logic-Guided Semantic Bridging for Inductive Tool Retrieval
+title: "LoSemB: Logic-Guided Semantic Bridging for Inductive Tool Retrieval"
 ---
 
 # LoSemB: Logic-Guided Semantic Bridging for Inductive Tool Retrieval

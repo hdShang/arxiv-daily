@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TReB: A Comprehensive Benchmark for Evaluating Table Reasoning Capabilities of Large Language Models
+title: "TReB: A Comprehensive Benchmark for Evaluating Table Reasoning Capabilities of Large Language Models"
 ---
 
 # TReB: A Comprehensive Benchmark for Evaluating Table Reasoning Capabilities of Large Language Models

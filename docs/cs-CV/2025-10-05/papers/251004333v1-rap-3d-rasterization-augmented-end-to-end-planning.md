@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RAP: 3D Rasterization Augmented End-to-End Planning
+title: "RAP: 3D Rasterization Augmented End-to-End Planning"
 ---
 
 # RAP: 3D Rasterization Augmented End-to-End Planning

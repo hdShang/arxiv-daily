@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoCa: Modality-aware Continual Pre-training Makes Better Bidirectional Multimodal Embeddings
+title: "MoCa: Modality-aware Continual Pre-training Makes Better Bidirectional Multimodal Embeddings"
 ---
 
 # MoCa: Modality-aware Continual Pre-training Makes Better Bidirectional Multimodal Embeddings

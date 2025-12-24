@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RPM: Reasoning-Level Personalization for Black-Box Large Language Models
+title: "RPM: Reasoning-Level Personalization for Black-Box Large Language Models"
 ---
 
 # RPM: Reasoning-Level Personalization for Black-Box Large Language Models

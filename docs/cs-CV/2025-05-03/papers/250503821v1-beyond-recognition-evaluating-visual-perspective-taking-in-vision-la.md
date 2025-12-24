@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Recognition: Evaluating Visual Perspective Taking in Vision Language Models
+title: "Beyond Recognition: Evaluating Visual Perspective Taking in Vision Language Models"
 ---
 
 # Beyond Recognition: Evaluating Visual Perspective Taking in Vision Language Models

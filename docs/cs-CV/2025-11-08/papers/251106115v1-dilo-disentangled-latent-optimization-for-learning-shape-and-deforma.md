@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DiLO: Disentangled Latent Optimization for Learning Shape and Deformation in Grouped Deforming 3D Objects
+title: "DiLO: Disentangled Latent Optimization for Learning Shape and Deformation in Grouped Deforming 3D Objects"
 ---
 
 # DiLO: Disentangled Latent Optimization for Learning Shape and Deformation in Grouped Deforming 3D Objects

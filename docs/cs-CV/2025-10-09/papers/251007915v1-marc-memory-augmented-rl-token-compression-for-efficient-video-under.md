@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding
+title: "MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding"
 ---
 
 # MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding

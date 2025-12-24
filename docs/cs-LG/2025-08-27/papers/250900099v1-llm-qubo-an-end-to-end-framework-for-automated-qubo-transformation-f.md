@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM-QUBO: An End-to-End Framework for Automated QUBO Transformation from Natural Language Problem Descriptions
+title: "LLM-QUBO: An End-to-End Framework for Automated QUBO Transformation from Natural Language Problem Descriptions"
 ---
 
 # LLM-QUBO: An End-to-End Framework for Automated QUBO Transformation from Natural Language Problem Descriptions

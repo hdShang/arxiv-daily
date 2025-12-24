@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spotting tell-tale visual artifacts in face swapping videos: strengths and pitfalls of CNN detectors
+title: "Spotting tell-tale visual artifacts in face swapping videos: strengths and pitfalls of CNN detectors"
 ---
 
 # Spotting tell-tale visual artifacts in face swapping videos: strengths and pitfalls of CNN detectors

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CaRLi-V: Camera-RADAR-LiDAR Point-Wise 3D Velocity Estimation
+title: "CaRLi-V: Camera-RADAR-LiDAR Point-Wise 3D Velocity Estimation"
 ---
 
 # CaRLi-V: Camera-RADAR-LiDAR Point-Wise 3D Velocity Estimation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue
+title: "InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue"
 ---
 
 # InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue

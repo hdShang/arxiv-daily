@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seeing in the Dark: Benchmarking Egocentric 3D Vision with the Oxford Day-and-Night Dataset
+title: "Seeing in the Dark: Benchmarking Egocentric 3D Vision with the Oxford Day-and-Night Dataset"
 ---
 
 # Seeing in the Dark: Benchmarking Egocentric 3D Vision with the Oxford Day-and-Night Dataset

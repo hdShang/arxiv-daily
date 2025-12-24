@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SpikeGrasp: A Benchmark for 6-DoF Grasp Pose Detection from Stereo Spike Streams
+title: "SpikeGrasp: A Benchmark for 6-DoF Grasp Pose Detection from Stereo Spike Streams"
 ---
 
 # SpikeGrasp: A Benchmark for 6-DoF Grasp Pose Detection from Stereo Spike Streams

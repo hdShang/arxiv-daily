@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FlashVLM: Text-Guided Visual Token Selection for Large Multimodal Models
+title: "FlashVLM: Text-Guided Visual Token Selection for Large Multimodal Models"
 ---
 
 # FlashVLM: Text-Guided Visual Token Selection for Large Multimodal Models

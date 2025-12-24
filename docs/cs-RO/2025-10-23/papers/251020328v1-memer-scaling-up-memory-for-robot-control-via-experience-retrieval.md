@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MemER: Scaling Up Memory for Robot Control via Experience Retrieval
+title: "MemER: Scaling Up Memory for Robot Control via Experience Retrieval"
 ---
 
 # MemER: Scaling Up Memory for Robot Control via Experience Retrieval

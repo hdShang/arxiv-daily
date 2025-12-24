@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Uni-Hand: Universal Hand Motion Forecasting in Egocentric Views
+title: "Uni-Hand: Universal Hand Motion Forecasting in Egocentric Views"
 ---
 
 # Uni-Hand: Universal Hand Motion Forecasting in Egocentric Views

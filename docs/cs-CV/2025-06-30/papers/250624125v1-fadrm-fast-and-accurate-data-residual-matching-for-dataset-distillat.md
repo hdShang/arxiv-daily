@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation
+title: "FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation"
 ---
 
 # FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation

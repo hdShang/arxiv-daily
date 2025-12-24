@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos
+title: "MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos"
 ---
 
 # MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WAVE: Learning Unified & Versatile Audio-Visual Embeddings with Multimodal LLM
+title: "WAVE: Learning Unified & Versatile Audio-Visual Embeddings with Multimodal LLM"
 ---
 
 # WAVE: Learning Unified & Versatile Audio-Visual Embeddings with Multimodal LLM

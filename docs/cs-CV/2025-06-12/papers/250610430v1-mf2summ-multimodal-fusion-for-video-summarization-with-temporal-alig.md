@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MF2Summ: Multimodal Fusion for Video Summarization with Temporal Alignment
+title: "MF2Summ: Multimodal Fusion for Video Summarization with Temporal Alignment"
 ---
 
 # MF2Summ: Multimodal Fusion for Video Summarization with Temporal Alignment

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mobi-$π$: Mobilizing Your Robot Learning Policy
+title: "Mobi-$π$: Mobilizing Your Robot Learning Policy"
 ---
 
 # Mobi-$π$: Mobilizing Your Robot Learning Policy

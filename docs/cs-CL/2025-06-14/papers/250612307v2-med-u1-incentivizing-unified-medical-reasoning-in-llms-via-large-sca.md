@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Med-U1: Incentivizing Unified Medical Reasoning in LLMs via Large-scale Reinforcement Learning
+title: "Med-U1: Incentivizing Unified Medical Reasoning in LLMs via Large-scale Reinforcement Learning"
 ---
 
 # Med-U1: Incentivizing Unified Medical Reasoning in LLMs via Large-scale Reinforcement Learning

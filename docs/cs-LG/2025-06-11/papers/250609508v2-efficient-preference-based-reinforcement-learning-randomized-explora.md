@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Efficient Preference-Based Reinforcement Learning: Randomized Exploration Meets Experimental Design
+title: "Efficient Preference-Based Reinforcement Learning: Randomized Exploration Meets Experimental Design"
 ---
 
 # Efficient Preference-Based Reinforcement Learning: Randomized Exploration Meets Experimental Design

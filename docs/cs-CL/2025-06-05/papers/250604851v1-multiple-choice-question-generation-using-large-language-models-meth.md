@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multiple-Choice Question Generation Using Large Language Models: Methodology and Educator Insights
+title: "Multiple-Choice Question Generation Using Large Language Models: Methodology and Educator Insights"
 ---
 
 # Multiple-Choice Question Generation Using Large Language Models: Methodology and Educator Insights

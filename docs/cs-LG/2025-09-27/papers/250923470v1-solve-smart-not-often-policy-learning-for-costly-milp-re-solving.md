@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Solve Smart, Not Often: Policy Learning for Costly MILP Re-solving
+title: "Solve Smart, Not Often: Policy Learning for Costly MILP Re-solving"
 ---
 
 # Solve Smart, Not Often: Policy Learning for Costly MILP Re-solving

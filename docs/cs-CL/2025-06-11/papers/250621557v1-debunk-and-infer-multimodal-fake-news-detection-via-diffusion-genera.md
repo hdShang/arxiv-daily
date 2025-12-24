@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Debunk and Infer: Multimodal Fake News Detection via Diffusion-Generated Evidence and LLM Reasoning
+title: "Debunk and Infer: Multimodal Fake News Detection via Diffusion-Generated Evidence and LLM Reasoning"
 ---
 
 # Debunk and Infer: Multimodal Fake News Detection via Diffusion-Generated Evidence and LLM Reasoning

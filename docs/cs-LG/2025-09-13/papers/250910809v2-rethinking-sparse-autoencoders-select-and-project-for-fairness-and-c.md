@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rethinking Sparse Autoencoders: Select-and-Project for Fairness and Control from Encoder Features Alone
+title: "Rethinking Sparse Autoencoders: Select-and-Project for Fairness and Control from Encoder Features Alone"
 ---
 
 # Rethinking Sparse Autoencoders: Select-and-Project for Fairness and Control from Encoder Features Alone

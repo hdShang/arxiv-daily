@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thunder-NUBench: A Benchmark for LLMs' Sentence-Level Negation Understanding
+title: "Thunder-NUBench: A Benchmark for LLMs' Sentence-Level Negation Understanding"
 ---
 
 # Thunder-NUBench: A Benchmark for LLMs' Sentence-Level Negation Understanding

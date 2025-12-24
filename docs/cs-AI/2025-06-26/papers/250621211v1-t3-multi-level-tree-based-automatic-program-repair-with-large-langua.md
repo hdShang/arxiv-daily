@@ -1,6 +1,6 @@
 ---
 layout: default
-title: $T^3$: Multi-level Tree-based Automatic Program Repair with Large Language Models
+title: "$T^3$: Multi-level Tree-based Automatic Program Repair with Large Language Models"
 ---
 
 # $T^3$: Multi-level Tree-based Automatic Program Repair with Large Language Models

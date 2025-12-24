@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MDD-Net: Multimodal Depression Detection through Mutual Transformer
+title: "MDD-Net: Multimodal Depression Detection through Mutual Transformer"
 ---
 
 # MDD-Net: Multimodal Depression Detection through Mutual Transformer

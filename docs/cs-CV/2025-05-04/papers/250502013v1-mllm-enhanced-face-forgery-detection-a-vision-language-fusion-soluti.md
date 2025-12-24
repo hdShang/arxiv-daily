@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MLLM-Enhanced Face Forgery Detection: A Vision-Language Fusion Solution
+title: "MLLM-Enhanced Face Forgery Detection: A Vision-Language Fusion Solution"
 ---
 
 # MLLM-Enhanced Face Forgery Detection: A Vision-Language Fusion Solution

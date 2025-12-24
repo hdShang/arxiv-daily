@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AttriLens-Mol: Attribute Guided Reinforcement Learning for Molecular Property Prediction with Large Language Models
+title: "AttriLens-Mol: Attribute Guided Reinforcement Learning for Molecular Property Prediction with Large Language Models"
 ---
 
 # AttriLens-Mol: Attribute Guided Reinforcement Learning for Molecular Property Prediction with Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Breaking Quadratic Barriers: A Non-Attention LLM for Ultra-Long Context Horizons
+title: "Breaking Quadratic Barriers: A Non-Attention LLM for Ultra-Long Context Horizons"
 ---
 
 # Breaking Quadratic Barriers: A Non-Attention LLM for Ultra-Long Context Horizons

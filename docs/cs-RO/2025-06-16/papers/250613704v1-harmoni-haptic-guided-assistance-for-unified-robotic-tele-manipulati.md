@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HARMONI: Haptic-Guided Assistance for Unified Robotic Tele-Manipulation and Tele-Navigation
+title: "HARMONI: Haptic-Guided Assistance for Unified Robotic Tele-Manipulation and Tele-Navigation"
 ---
 
 # HARMONI: Haptic-Guided Assistance for Unified Robotic Tele-Manipulation and Tele-Navigation

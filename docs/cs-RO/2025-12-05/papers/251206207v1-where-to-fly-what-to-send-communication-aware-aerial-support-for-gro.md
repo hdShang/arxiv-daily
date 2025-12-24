@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Where to Fly, What to Send: Communication-Aware Aerial Support for Ground Robots
+title: "Where to Fly, What to Send: Communication-Aware Aerial Support for Ground Robots"
 ---
 
 # Where to Fly, What to Send: Communication-Aware Aerial Support for Ground Robots

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PMark: Towards Robust and Distortion-free Semantic-level Watermarking with Channel Constraints
+title: "PMark: Towards Robust and Distortion-free Semantic-level Watermarking with Channel Constraints"
 ---
 
 # PMark: Towards Robust and Distortion-free Semantic-level Watermarking with Channel Constraints

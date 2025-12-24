@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Words to Safety: Language-Conditioned Safety Filtering for Robot Navigation
+title: "From Words to Safety: Language-Conditioned Safety Filtering for Robot Navigation"
 ---
 
 # From Words to Safety: Language-Conditioned Safety Filtering for Robot Navigation

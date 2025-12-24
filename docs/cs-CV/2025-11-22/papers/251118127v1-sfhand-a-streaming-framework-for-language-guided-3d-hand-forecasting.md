@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SFHand: A Streaming Framework for Language-guided 3D Hand Forecasting and Embodied Manipulation
+title: "SFHand: A Streaming Framework for Language-guided 3D Hand Forecasting and Embodied Manipulation"
 ---
 
 # SFHand: A Streaming Framework for Language-guided 3D Hand Forecasting and Embodied Manipulation

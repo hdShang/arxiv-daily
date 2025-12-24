@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SocialNav: Training Human-Inspired Foundation Model for Socially-Aware Embodied Navigation
+title: "SocialNav: Training Human-Inspired Foundation Model for Socially-Aware Embodied Navigation"
 ---
 
 # SocialNav: Training Human-Inspired Foundation Model for Socially-Aware Embodied Navigation

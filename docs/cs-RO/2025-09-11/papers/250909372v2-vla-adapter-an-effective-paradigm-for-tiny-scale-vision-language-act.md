@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model
+title: "VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model"
 ---
 
 # VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model

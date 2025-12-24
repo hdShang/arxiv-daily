@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Recurrent Autoregressive Diffusion: Global Memory Meets Local Attention
+title: "Recurrent Autoregressive Diffusion: Global Memory Meets Local Attention"
 ---
 
 # Recurrent Autoregressive Diffusion: Global Memory Meets Local Attention

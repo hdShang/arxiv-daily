@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DOCUEVAL: An LLM-based AI Engineering Tool for Building Customisable Document Evaluation Workflows
+title: "DOCUEVAL: An LLM-based AI Engineering Tool for Building Customisable Document Evaluation Workflows"
 ---
 
 # DOCUEVAL: An LLM-based AI Engineering Tool for Building Customisable Document Evaluation Workflows

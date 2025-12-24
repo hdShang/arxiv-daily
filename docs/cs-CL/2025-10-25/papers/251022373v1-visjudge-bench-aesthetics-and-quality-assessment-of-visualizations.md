@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VisJudge-Bench: Aesthetics and Quality Assessment of Visualizations
+title: "VisJudge-Bench: Aesthetics and Quality Assessment of Visualizations"
 ---
 
 # VisJudge-Bench: Aesthetics and Quality Assessment of Visualizations

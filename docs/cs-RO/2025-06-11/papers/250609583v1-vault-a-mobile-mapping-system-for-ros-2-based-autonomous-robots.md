@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VAULT: A Mobile Mapping System for ROS 2-based Autonomous Robots
+title: "VAULT: A Mobile Mapping System for ROS 2-based Autonomous Robots"
 ---
 
 # VAULT: A Mobile Mapping System for ROS 2-based Autonomous Robots

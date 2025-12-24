@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FastDDHPose: Towards Unified, Efficient, and Disentangled 3D Human Pose Estimation
+title: "FastDDHPose: Towards Unified, Efficient, and Disentangled 3D Human Pose Estimation"
 ---
 
 # FastDDHPose: Towards Unified, Efficient, and Disentangled 3D Human Pose Estimation

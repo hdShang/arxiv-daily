@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MCLPD:Multi-view Contrastive Learning for EEG-based PD Detection Across Datasets
+title: "MCLPD:Multi-view Contrastive Learning for EEG-based PD Detection Across Datasets"
 ---
 
 # MCLPD:Multi-view Contrastive Learning for EEG-based PD Detection Across Datasets

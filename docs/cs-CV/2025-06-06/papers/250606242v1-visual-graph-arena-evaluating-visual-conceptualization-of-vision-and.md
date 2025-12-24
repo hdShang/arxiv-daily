@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visual Graph Arena: Evaluating Visual Conceptualization of Vision and Multimodal Large Language Models
+title: "Visual Graph Arena: Evaluating Visual Conceptualization of Vision and Multimodal Large Language Models"
 ---
 
 # Visual Graph Arena: Evaluating Visual Conceptualization of Vision and Multimodal Large Language Models

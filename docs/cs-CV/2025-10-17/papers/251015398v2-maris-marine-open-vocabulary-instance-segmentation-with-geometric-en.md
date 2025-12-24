@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MARIS: Marine Open-Vocabulary Instance Segmentation with Geometric Enhancement and Semantic Alignment
+title: "MARIS: Marine Open-Vocabulary Instance Segmentation with Geometric Enhancement and Semantic Alignment"
 ---
 
 # MARIS: Marine Open-Vocabulary Instance Segmentation with Geometric Enhancement and Semantic Alignment

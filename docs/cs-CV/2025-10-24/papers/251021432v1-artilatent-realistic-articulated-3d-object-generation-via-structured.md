@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ArtiLatent: Realistic Articulated 3D Object Generation via Structured Latents
+title: "ArtiLatent: Realistic Articulated 3D Object Generation via Structured Latents"
 ---
 
 # ArtiLatent: Realistic Articulated 3D Object Generation via Structured Latents

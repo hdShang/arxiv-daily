@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Think in Safety: Unveiling and Mitigating Safety Alignment Collapse in Multimodal Large Reasoning Model
+title: "Think in Safety: Unveiling and Mitigating Safety Alignment Collapse in Multimodal Large Reasoning Model"
 ---
 
 # Think in Safety: Unveiling and Mitigating Safety Alignment Collapse in Multimodal Large Reasoning Model

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WorldPrediction: A Benchmark for High-level World Modeling and Long-horizon Procedural Planning
+title: "WorldPrediction: A Benchmark for High-level World Modeling and Long-horizon Procedural Planning"
 ---
 
 # WorldPrediction: A Benchmark for High-level World Modeling and Long-horizon Procedural Planning

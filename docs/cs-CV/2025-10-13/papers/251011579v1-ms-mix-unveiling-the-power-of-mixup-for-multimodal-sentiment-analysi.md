@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MS-Mix: Unveiling the Power of Mixup for Multimodal Sentiment Analysis
+title: "MS-Mix: Unveiling the Power of Mixup for Multimodal Sentiment Analysis"
 ---
 
 # MS-Mix: Unveiling the Power of Mixup for Multimodal Sentiment Analysis

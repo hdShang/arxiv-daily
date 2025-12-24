@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale
+title: "mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale"
 ---
 
 # mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ResSVD: Residual Compensated SVD for Large Language Model Compression
+title: "ResSVD: Residual Compensated SVD for Large Language Model Compression"
 ---
 
 # ResSVD: Residual Compensated SVD for Large Language Model Compression

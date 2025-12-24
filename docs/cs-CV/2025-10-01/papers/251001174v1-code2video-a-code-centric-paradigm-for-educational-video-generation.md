@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Code2Video: A Code-centric Paradigm for Educational Video Generation
+title: "Code2Video: A Code-centric Paradigm for Educational Video Generation"
 ---
 
 # Code2Video: A Code-centric Paradigm for Educational Video Generation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DatasetResearch: Benchmarking Agent Systems for Demand-Driven Dataset Discovery
+title: "DatasetResearch: Benchmarking Agent Systems for Demand-Driven Dataset Discovery"
 ---
 
 # DatasetResearch: Benchmarking Agent Systems for Demand-Driven Dataset Discovery

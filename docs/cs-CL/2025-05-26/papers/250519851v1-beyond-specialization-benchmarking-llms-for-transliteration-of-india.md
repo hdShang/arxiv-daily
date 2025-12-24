@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Specialization: Benchmarking LLMs for Transliteration of Indian Languages
+title: "Beyond Specialization: Benchmarking LLMs for Transliteration of Indian Languages"
 ---
 
 # Beyond Specialization: Benchmarking LLMs for Transliteration of Indian Languages

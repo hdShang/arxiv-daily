@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LightTact: A Visual-Tactile Fingertip Sensor for Deformation-Independent Contact Sensing
+title: "LightTact: A Visual-Tactile Fingertip Sensor for Deformation-Independent Contact Sensing"
 ---
 
 # LightTact: A Visual-Tactile Fingertip Sensor for Deformation-Independent Contact Sensing

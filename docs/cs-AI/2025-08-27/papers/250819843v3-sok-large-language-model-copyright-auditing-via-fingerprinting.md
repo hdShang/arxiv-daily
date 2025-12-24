@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SoK: Large Language Model Copyright Auditing via Fingerprinting
+title: "SoK: Large Language Model Copyright Auditing via Fingerprinting"
 ---
 
 # SoK: Large Language Model Copyright Auditing via Fingerprinting

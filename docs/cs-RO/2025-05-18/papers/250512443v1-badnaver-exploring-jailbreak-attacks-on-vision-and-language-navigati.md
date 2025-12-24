@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BadNAVer: Exploring Jailbreak Attacks On Vision-and-Language Navigation
+title: "BadNAVer: Exploring Jailbreak Attacks On Vision-and-Language Navigation"
 ---
 
 # BadNAVer: Exploring Jailbreak Attacks On Vision-and-Language Navigation

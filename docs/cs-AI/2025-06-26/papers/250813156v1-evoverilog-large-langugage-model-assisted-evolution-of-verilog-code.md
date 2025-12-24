@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EvoVerilog: Large Langugage Model Assisted Evolution of Verilog Code
+title: "EvoVerilog: Large Langugage Model Assisted Evolution of Verilog Code"
 ---
 
 # EvoVerilog: Large Langugage Model Assisted Evolution of Verilog Code

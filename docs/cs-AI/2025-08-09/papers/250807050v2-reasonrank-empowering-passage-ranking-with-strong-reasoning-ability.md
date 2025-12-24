@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReasonRank: Empowering Passage Ranking with Strong Reasoning Ability
+title: "ReasonRank: Empowering Passage Ranking with Strong Reasoning Ability"
 ---
 
 # ReasonRank: Empowering Passage Ranking with Strong Reasoning Ability

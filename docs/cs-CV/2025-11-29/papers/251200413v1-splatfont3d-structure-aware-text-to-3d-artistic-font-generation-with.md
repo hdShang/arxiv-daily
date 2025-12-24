@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SplatFont3D: Structure-Aware Text-to-3D Artistic Font Generation with Part-Level Style Control
+title: "SplatFont3D: Structure-Aware Text-to-3D Artistic Font Generation with Part-Level Style Control"
 ---
 
 # SplatFont3D: Structure-Aware Text-to-3D Artistic Font Generation with Part-Level Style Control

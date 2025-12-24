@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MRD: Using Physically Based Differentiable Rendering to Probe Vision Models for 3D Scene Understanding
+title: "MRD: Using Physically Based Differentiable Rendering to Probe Vision Models for 3D Scene Understanding"
 ---
 
 # MRD: Using Physically Based Differentiable Rendering to Probe Vision Models for 3D Scene Understanding

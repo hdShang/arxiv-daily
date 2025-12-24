@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Too much alignment; not enough culture': Re-balancing cultural alignment practices in LLMs
+title: "'Too much alignment; not enough culture': Re-balancing cultural alignment practices in LLMs"
 ---
 
 # 'Too much alignment; not enough culture': Re-balancing cultural alignment practices in LLMs

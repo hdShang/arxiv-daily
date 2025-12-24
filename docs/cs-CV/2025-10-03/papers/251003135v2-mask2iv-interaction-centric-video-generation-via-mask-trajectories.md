@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mask2IV: Interaction-Centric Video Generation via Mask Trajectories
+title: "Mask2IV: Interaction-Centric Video Generation via Mask Trajectories"
 ---
 
 # Mask2IV: Interaction-Centric Video Generation via Mask Trajectories

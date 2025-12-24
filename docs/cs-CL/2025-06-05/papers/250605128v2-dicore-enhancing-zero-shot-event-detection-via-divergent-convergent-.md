@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DiCoRe: Enhancing Zero-shot Event Detection via Divergent-Convergent LLM Reasoning
+title: "DiCoRe: Enhancing Zero-shot Event Detection via Divergent-Convergent LLM Reasoning"
 ---
 
 # DiCoRe: Enhancing Zero-shot Event Detection via Divergent-Convergent LLM Reasoning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning for Any Atlas and Disorder
+title: "A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning for Any Atlas and Disorder"
 ---
 
 # A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning for Any Atlas and Disorder

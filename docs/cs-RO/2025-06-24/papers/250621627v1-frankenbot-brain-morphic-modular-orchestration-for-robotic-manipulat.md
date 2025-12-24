@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FrankenBot: Brain-Morphic Modular Orchestration for Robotic Manipulation with Vision-Language Models
+title: "FrankenBot: Brain-Morphic Modular Orchestration for Robotic Manipulation with Vision-Language Models"
 ---
 
 # FrankenBot: Brain-Morphic Modular Orchestration for Robotic Manipulation with Vision-Language Models

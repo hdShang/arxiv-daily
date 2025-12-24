@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Generative World Modelling for Humanoids: 1X World Model Challenge Technical Report
+title: "Generative World Modelling for Humanoids: 1X World Model Challenge Technical Report"
 ---
 
 # Generative World Modelling for Humanoids: 1X World Model Challenge Technical Report

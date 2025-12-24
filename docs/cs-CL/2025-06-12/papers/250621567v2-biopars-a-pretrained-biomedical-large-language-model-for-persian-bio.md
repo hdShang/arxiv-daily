@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BioPars: A Pretrained Biomedical Large Language Model for Persian Biomedical Text Mining
+title: "BioPars: A Pretrained Biomedical Large Language Model for Persian Biomedical Text Mining"
 ---
 
 # BioPars: A Pretrained Biomedical Large Language Model for Persian Biomedical Text Mining

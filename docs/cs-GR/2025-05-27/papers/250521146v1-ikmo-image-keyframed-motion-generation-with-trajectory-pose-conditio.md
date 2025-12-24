@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IKMo: Image-Keyframed Motion Generation with Trajectory-Pose Conditioned Motion Diffusion Model
+title: "IKMo: Image-Keyframed Motion Generation with Trajectory-Pose Conditioned Motion Diffusion Model"
 ---
 
 # IKMo: Image-Keyframed Motion Generation with Trajectory-Pose Conditioned Motion Diffusion Model

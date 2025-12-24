@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VoroLight: Learning Quality Volumetric Voronoi Meshes from General Inputs
+title: "VoroLight: Learning Quality Volumetric Voronoi Meshes from General Inputs"
 ---
 
 # VoroLight: Learning Quality Volumetric Voronoi Meshes from General Inputs

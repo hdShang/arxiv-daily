@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LeAD-M3D: Leveraging Asymmetric Distillation for Real-time Monocular 3D Detection
+title: "LeAD-M3D: Leveraging Asymmetric Distillation for Real-time Monocular 3D Detection"
 ---
 
 # LeAD-M3D: Leveraging Asymmetric Distillation for Real-time Monocular 3D Detection

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: C3G: Learning Compact 3D Representations with 2K Gaussians
+title: "C3G: Learning Compact 3D Representations with 2K Gaussians"
 ---
 
 # C3G: Learning Compact 3D Representations with 2K Gaussians

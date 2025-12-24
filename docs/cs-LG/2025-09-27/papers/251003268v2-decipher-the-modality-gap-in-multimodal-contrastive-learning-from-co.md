@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Decipher the Modality Gap in Multimodal Contrastive Learning: From Convergent Representations to Pairwise Alignment
+title: "Decipher the Modality Gap in Multimodal Contrastive Learning: From Convergent Representations to Pairwise Alignment"
 ---
 
 # Decipher the Modality Gap in Multimodal Contrastive Learning: From Convergent Representations to Pairwise Alignment

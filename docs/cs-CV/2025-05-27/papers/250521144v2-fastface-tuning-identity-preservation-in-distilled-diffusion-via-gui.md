@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FastFace: Tuning Identity Preservation in Distilled Diffusion via Guidance and Attention
+title: "FastFace: Tuning Identity Preservation in Distilled Diffusion via Guidance and Attention"
 ---
 
 # FastFace: Tuning Identity Preservation in Distilled Diffusion via Guidance and Attention

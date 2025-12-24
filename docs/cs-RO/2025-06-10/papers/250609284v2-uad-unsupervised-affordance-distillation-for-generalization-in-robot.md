@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UAD: Unsupervised Affordance Distillation for Generalization in Robotic Manipulation
+title: "UAD: Unsupervised Affordance Distillation for Generalization in Robotic Manipulation"
 ---
 
 # UAD: Unsupervised Affordance Distillation for Generalization in Robotic Manipulation

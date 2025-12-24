@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SAM 3: Segment Anything with Concepts
+title: "SAM 3: Segment Anything with Concepts"
 ---
 
 # SAM 3: Segment Anything with Concepts

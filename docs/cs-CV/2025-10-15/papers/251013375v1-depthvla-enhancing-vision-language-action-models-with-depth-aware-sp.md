@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DepthVLA: Enhancing Vision-Language-Action Models with Depth-Aware Spatial Reasoning
+title: "DepthVLA: Enhancing Vision-Language-Action Models with Depth-Aware Spatial Reasoning"
 ---
 
 # DepthVLA: Enhancing Vision-Language-Action Models with Depth-Aware Spatial Reasoning

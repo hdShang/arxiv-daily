@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Flash-Searcher: Fast and Effective Web Agents via DAG-Based Parallel Execution
+title: "Flash-Searcher: Fast and Effective Web Agents via DAG-Based Parallel Execution"
 ---
 
 # Flash-Searcher: Fast and Effective Web Agents via DAG-Based Parallel Execution

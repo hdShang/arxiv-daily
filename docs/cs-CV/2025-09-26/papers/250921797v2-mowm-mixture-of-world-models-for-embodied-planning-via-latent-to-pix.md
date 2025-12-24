@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoWM: Mixture-of-World-Models for Embodied Planning via Latent-to-Pixel Feature Modulation
+title: "MoWM: Mixture-of-World-Models for Embodied Planning via Latent-to-Pixel Feature Modulation"
 ---
 
 # MoWM: Mixture-of-World-Models for Embodied Planning via Latent-to-Pixel Feature Modulation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Versatile Humanoid Table Tennis: Unified Reinforcement Learning with Prediction Augmentation
+title: "Towards Versatile Humanoid Table Tennis: Unified Reinforcement Learning with Prediction Augmentation"
 ---
 
 # Towards Versatile Humanoid Table Tennis: Unified Reinforcement Learning with Prediction Augmentation

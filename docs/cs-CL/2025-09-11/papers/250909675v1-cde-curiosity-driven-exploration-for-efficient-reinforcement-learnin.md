@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CDE: Curiosity-Driven Exploration for Efficient Reinforcement Learning in Large Language Models
+title: "CDE: Curiosity-Driven Exploration for Efficient Reinforcement Learning in Large Language Models"
 ---
 
 # CDE: Curiosity-Driven Exploration for Efficient Reinforcement Learning in Large Language Models

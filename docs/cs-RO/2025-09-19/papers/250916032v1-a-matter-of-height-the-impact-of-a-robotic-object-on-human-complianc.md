@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Matter of Height: The Impact of a Robotic Object on Human Compliance
+title: "A Matter of Height: The Impact of a Robotic Object on Human Compliance"
 ---
 
 # A Matter of Height: The Impact of a Robotic Object on Human Compliance

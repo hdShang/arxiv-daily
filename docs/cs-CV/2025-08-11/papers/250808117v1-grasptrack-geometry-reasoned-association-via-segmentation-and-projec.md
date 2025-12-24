@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GRASPTrack: Geometry-Reasoned Association via Segmentation and Projection for Multi-Object Tracking
+title: "GRASPTrack: Geometry-Reasoned Association via Segmentation and Projection for Multi-Object Tracking"
 ---
 
 # GRASPTrack: Geometry-Reasoned Association via Segmentation and Projection for Multi-Object Tracking

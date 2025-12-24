@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reflect-then-Plan: Offline Model-Based Planning through a Doubly Bayesian Lens
+title: "Reflect-then-Plan: Offline Model-Based Planning through a Doubly Bayesian Lens"
 ---
 
 # Reflect-then-Plan: Offline Model-Based Planning through a Doubly Bayesian Lens

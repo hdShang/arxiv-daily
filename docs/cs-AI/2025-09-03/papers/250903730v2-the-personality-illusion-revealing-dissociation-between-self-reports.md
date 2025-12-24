@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs
+title: "The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs"
 ---
 
 # The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs

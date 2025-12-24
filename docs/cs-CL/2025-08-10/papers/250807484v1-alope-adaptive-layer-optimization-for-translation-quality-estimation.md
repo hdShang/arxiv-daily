@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ALOPE: Adaptive Layer Optimization for Translation Quality Estimation using Large Language Models
+title: "ALOPE: Adaptive Layer Optimization for Translation Quality Estimation using Large Language Models"
 ---
 
 # ALOPE: Adaptive Layer Optimization for Translation Quality Estimation using Large Language Models

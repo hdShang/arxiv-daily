@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HMCF: A Human-in-the-loop Multi-Robot Collaboration Framework Based on Large Language Models
+title: "HMCF: A Human-in-the-loop Multi-Robot Collaboration Framework Based on Large Language Models"
 ---
 
 # HMCF: A Human-in-the-loop Multi-Robot Collaboration Framework Based on Large Language Models

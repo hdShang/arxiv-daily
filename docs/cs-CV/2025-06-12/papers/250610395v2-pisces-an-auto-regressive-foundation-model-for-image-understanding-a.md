@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pisces: An Auto-regressive Foundation Model for Image Understanding and Generation
+title: "Pisces: An Auto-regressive Foundation Model for Image Understanding and Generation"
 ---
 
 # Pisces: An Auto-regressive Foundation Model for Image Understanding and Generation

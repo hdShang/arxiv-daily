@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bias Mitigation Agent: Optimizing Source Selection for Fair and Balanced Knowledge Retrieval
+title: "Bias Mitigation Agent: Optimizing Source Selection for Fair and Balanced Knowledge Retrieval"
 ---
 
 # Bias Mitigation Agent: Optimizing Source Selection for Fair and Balanced Knowledge Retrieval

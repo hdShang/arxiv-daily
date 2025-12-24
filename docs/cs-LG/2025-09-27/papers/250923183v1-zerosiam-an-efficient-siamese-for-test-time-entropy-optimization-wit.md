@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ZeroSiam: An Efficient Siamese for Test-Time Entropy Optimization without Collapse
+title: "ZeroSiam: An Efficient Siamese for Test-Time Entropy Optimization without Collapse"
 ---
 
 # ZeroSiam: An Efficient Siamese for Test-Time Entropy Optimization without Collapse

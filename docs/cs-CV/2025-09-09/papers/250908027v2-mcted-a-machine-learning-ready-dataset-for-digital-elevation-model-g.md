@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MCTED: A Machine-Learning-Ready Dataset for Digital Elevation Model Generation From Mars Imagery
+title: "MCTED: A Machine-Learning-Ready Dataset for Digital Elevation Model Generation From Mars Imagery"
 ---
 
 # MCTED: A Machine-Learning-Ready Dataset for Digital Elevation Model Generation From Mars Imagery

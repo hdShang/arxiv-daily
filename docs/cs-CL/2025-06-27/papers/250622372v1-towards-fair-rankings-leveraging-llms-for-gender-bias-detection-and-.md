@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Fair Rankings: Leveraging LLMs for Gender Bias Detection and Measurement
+title: "Towards Fair Rankings: Leveraging LLMs for Gender Bias Detection and Measurement"
 ---
 
 # Towards Fair Rankings: Leveraging LLMs for Gender Bias Detection and Measurement

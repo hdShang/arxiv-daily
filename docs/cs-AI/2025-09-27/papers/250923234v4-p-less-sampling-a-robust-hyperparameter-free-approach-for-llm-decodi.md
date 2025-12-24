@@ -1,6 +1,6 @@
 ---
 layout: default
-title: p-less Sampling: A Robust Hyperparameter-Free Approach for LLM Decoding
+title: "p-less Sampling: A Robust Hyperparameter-Free Approach for LLM Decoding"
 ---
 
 # p-less Sampling: A Robust Hyperparameter-Free Approach for LLM Decoding

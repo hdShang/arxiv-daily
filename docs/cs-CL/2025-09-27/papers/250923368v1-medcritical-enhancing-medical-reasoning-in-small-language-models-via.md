@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MedCritical: Enhancing Medical Reasoning in Small Language Models via Self-Collaborative Correction
+title: "MedCritical: Enhancing Medical Reasoning in Small Language Models via Self-Collaborative Correction"
 ---
 
 # MedCritical: Enhancing Medical Reasoning in Small Language Models via Self-Collaborative Correction

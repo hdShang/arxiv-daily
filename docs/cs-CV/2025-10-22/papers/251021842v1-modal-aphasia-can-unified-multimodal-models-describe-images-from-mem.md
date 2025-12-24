@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Modal Aphasia: Can Unified Multimodal Models Describe Images From Memory?
+title: "Modal Aphasia: Can Unified Multimodal Models Describe Images From Memory?"
 ---
 
 # Modal Aphasia: Can Unified Multimodal Models Describe Images From Memory?

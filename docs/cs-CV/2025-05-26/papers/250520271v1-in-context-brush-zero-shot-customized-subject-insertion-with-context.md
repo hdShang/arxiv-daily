@@ -1,6 +1,6 @@
 ---
 layout: default
-title: In-Context Brush: Zero-shot Customized Subject Insertion with Context-Aware Latent Space Manipulation
+title: "In-Context Brush: Zero-shot Customized Subject Insertion with Context-Aware Latent Space Manipulation"
 ---
 
 # In-Context Brush: Zero-shot Customized Subject Insertion with Context-Aware Latent Space Manipulation

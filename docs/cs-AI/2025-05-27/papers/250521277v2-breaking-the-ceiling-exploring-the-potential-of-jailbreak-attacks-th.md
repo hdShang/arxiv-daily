@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Breaking the Ceiling: Exploring the Potential of Jailbreak Attacks through Expanding Strategy Space
+title: "Breaking the Ceiling: Exploring the Potential of Jailbreak Attacks through Expanding Strategy Space"
 ---
 
 # Breaking the Ceiling: Exploring the Potential of Jailbreak Attacks through Expanding Strategy Space

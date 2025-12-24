@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Evo-MARL: Co-Evolutionary Multi-Agent Reinforcement Learning for Internalized Safety
+title: "Evo-MARL: Co-Evolutionary Multi-Agent Reinforcement Learning for Internalized Safety"
 ---
 
 # Evo-MARL: Co-Evolutionary Multi-Agent Reinforcement Learning for Internalized Safety

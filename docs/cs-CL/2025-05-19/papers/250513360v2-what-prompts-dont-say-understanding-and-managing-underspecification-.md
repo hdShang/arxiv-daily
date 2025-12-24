@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What Prompts Don't Say: Understanding and Managing Underspecification in LLM Prompts
+title: "What Prompts Don't Say: Understanding and Managing Underspecification in LLM Prompts"
 ---
 
 # What Prompts Don't Say: Understanding and Managing Underspecification in LLM Prompts

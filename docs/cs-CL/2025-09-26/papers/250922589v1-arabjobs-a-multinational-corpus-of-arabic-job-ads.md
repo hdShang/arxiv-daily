@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ArabJobs: A Multinational Corpus of Arabic Job Ads
+title: "ArabJobs: A Multinational Corpus of Arabic Job Ads"
 ---
 
 # ArabJobs: A Multinational Corpus of Arabic Job Ads

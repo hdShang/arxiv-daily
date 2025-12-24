@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RHYTHM: Reasoning with Hierarchical Temporal Tokenization for Human Mobility
+title: "RHYTHM: Reasoning with Hierarchical Temporal Tokenization for Human Mobility"
 ---
 
 # RHYTHM: Reasoning with Hierarchical Temporal Tokenization for Human Mobility

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FLASH: Latent-Aware Semi-Autoregressive Speculative Decoding for Multimodal Tasks
+title: "FLASH: Latent-Aware Semi-Autoregressive Speculative Decoding for Multimodal Tasks"
 ---
 
 # FLASH: Latent-Aware Semi-Autoregressive Speculative Decoding for Multimodal Tasks

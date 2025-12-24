@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FOM-Nav: Frontier-Object Maps for Object Goal Navigation
+title: "FOM-Nav: Frontier-Object Maps for Object Goal Navigation"
 ---
 
 # FOM-Nav: Frontier-Object Maps for Object Goal Navigation

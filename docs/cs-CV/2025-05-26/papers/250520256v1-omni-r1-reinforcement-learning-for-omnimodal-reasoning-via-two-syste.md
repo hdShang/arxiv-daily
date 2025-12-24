@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Omni-R1: Reinforcement Learning for Omnimodal Reasoning via Two-System Collaboration
+title: "Omni-R1: Reinforcement Learning for Omnimodal Reasoning via Two-System Collaboration"
 ---
 
 # Omni-R1: Reinforcement Learning for Omnimodal Reasoning via Two-System Collaboration

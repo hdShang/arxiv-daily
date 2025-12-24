@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PROPA: Toward Process-level Optimization in Visual Reasoning via Reinforcement Learning
+title: "PROPA: Toward Process-level Optimization in Visual Reasoning via Reinforcement Learning"
 ---
 
 # PROPA: Toward Process-level Optimization in Visual Reasoning via Reinforcement Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GuangMing-Explorer: A Four-Legged Robot Platform for Autonomous Exploration in General Environments
+title: "GuangMing-Explorer: A Four-Legged Robot Platform for Autonomous Exploration in General Environments"
 ---
 
 # GuangMing-Explorer: A Four-Legged Robot Platform for Autonomous Exploration in General Environments

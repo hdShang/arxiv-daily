@@ -1,6 +1,6 @@
 ---
 layout: default
-title: STEM: Efficient Relative Capability Evaluation of LLMs through Structured Transition Samples
+title: "STEM: Efficient Relative Capability Evaluation of LLMs through Structured Transition Samples"
 ---
 
 # STEM: Efficient Relative Capability Evaluation of LLMs through Structured Transition Samples

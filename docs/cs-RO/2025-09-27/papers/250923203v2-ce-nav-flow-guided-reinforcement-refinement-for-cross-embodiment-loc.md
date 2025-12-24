@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CE-Nav: Flow-Guided Reinforcement Refinement for Cross-Embodiment Local Navigation
+title: "CE-Nav: Flow-Guided Reinforcement Refinement for Cross-Embodiment Local Navigation"
 ---
 
 # CE-Nav: Flow-Guided Reinforcement Refinement for Cross-Embodiment Local Navigation

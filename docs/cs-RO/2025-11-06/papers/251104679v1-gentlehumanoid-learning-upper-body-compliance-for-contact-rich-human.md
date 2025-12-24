@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GentleHumanoid: Learning Upper-body Compliance for Contact-rich Human and Object Interaction
+title: "GentleHumanoid: Learning Upper-body Compliance for Contact-rich Human and Object Interaction"
 ---
 
 # GentleHumanoid: Learning Upper-body Compliance for Contact-rich Human and Object Interaction

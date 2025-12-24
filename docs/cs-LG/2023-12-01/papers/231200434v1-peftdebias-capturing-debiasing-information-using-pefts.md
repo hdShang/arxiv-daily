@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PEFTDebias : Capturing debiasing information using PEFTs
+title: "PEFTDebias : Capturing debiasing information using PEFTs"
 ---
 
 # PEFTDebias : Capturing debiasing information using PEFTs

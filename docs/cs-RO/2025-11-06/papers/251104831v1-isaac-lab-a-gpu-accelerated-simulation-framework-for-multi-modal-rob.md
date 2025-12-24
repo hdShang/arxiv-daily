@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Isaac Lab: A GPU-Accelerated Simulation Framework for Multi-Modal Robot Learning
+title: "Isaac Lab: A GPU-Accelerated Simulation Framework for Multi-Modal Robot Learning"
 ---
 
 # Isaac Lab: A GPU-Accelerated Simulation Framework for Multi-Modal Robot Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: STRIDER: Navigation via Instruction-Aligned Structural Decision Space Optimization
+title: "STRIDER: Navigation via Instruction-Aligned Structural Decision Space Optimization"
 ---
 
 # STRIDER: Navigation via Instruction-Aligned Structural Decision Space Optimization

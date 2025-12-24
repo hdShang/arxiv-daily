@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PokéAI: A Goal-Generating, Battle-Optimizing Multi-agent System for Pokemon Red
+title: "PokéAI: A Goal-Generating, Battle-Optimizing Multi-agent System for Pokemon Red"
 ---
 
 # PokéAI: A Goal-Generating, Battle-Optimizing Multi-agent System for Pokemon Red

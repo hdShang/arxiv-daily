@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SwiftEval: Developing a Language-Specific Benchmark for LLM-generated Code Evaluation
+title: "SwiftEval: Developing a Language-Specific Benchmark for LLM-generated Code Evaluation"
 ---
 
 # SwiftEval: Developing a Language-Specific Benchmark for LLM-generated Code Evaluation

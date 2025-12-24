@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LoLA: Long Horizon Latent Action Learning for General Robot Manipulation
+title: "LoLA: Long Horizon Latent Action Learning for General Robot Manipulation"
 ---
 
 # LoLA: Long Horizon Latent Action Learning for General Robot Manipulation

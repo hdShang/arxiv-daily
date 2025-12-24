@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EventTSF: Event-Aware Non-Stationary Time Series Forecasting
+title: "EventTSF: Event-Aware Non-Stationary Time Series Forecasting"
 ---
 
 # EventTSF: Event-Aware Non-Stationary Time Series Forecasting

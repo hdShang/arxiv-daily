@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Counterspeech for Mitigating the Influence of Media Bias: Comparing Human and LLM-Generated Responses
+title: "Counterspeech for Mitigating the Influence of Media Bias: Comparing Human and LLM-Generated Responses"
 ---
 
 # Counterspeech for Mitigating the Influence of Media Bias: Comparing Human and LLM-Generated Responses

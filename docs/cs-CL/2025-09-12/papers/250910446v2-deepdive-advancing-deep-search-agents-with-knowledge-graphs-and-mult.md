@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeepDive: Advancing Deep Search Agents with Knowledge Graphs and Multi-Turn RL
+title: "DeepDive: Advancing Deep Search Agents with Knowledge Graphs and Multi-Turn RL"
 ---
 
 # DeepDive: Advancing Deep Search Agents with Knowledge Graphs and Multi-Turn RL

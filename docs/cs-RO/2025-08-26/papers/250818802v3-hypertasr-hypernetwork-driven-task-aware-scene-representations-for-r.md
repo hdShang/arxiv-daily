@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HyperTASR: Hypernetwork-Driven Task-Aware Scene Representations for Robust Manipulation
+title: "HyperTASR: Hypernetwork-Driven Task-Aware Scene Representations for Robust Manipulation"
 ---
 
 # HyperTASR: Hypernetwork-Driven Task-Aware Scene Representations for Robust Manipulation

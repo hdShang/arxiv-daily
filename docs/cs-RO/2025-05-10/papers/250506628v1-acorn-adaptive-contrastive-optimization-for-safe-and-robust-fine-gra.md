@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ACORN: Adaptive Contrastive Optimization for Safe and Robust Fine-Grained Robotic Manipulation
+title: "ACORN: Adaptive Contrastive Optimization for Safe and Robust Fine-Grained Robotic Manipulation"
 ---
 
 # ACORN: Adaptive Contrastive Optimization for Safe and Robust Fine-Grained Robotic Manipulation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EvoCurr: Self-evolving Curriculum with Behavior Code Generation for Complex Decision-making
+title: "EvoCurr: Self-evolving Curriculum with Behavior Code Generation for Complex Decision-making"
 ---
 
 # EvoCurr: Self-evolving Curriculum with Behavior Code Generation for Complex Decision-making

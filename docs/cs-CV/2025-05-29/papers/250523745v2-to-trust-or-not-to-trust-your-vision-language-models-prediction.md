@@ -1,6 +1,6 @@
 ---
 layout: default
-title: To Trust Or Not To Trust Your Vision-Language Model's Prediction
+title: "To Trust Or Not To Trust Your Vision-Language Model's Prediction"
 ---
 
 # To Trust Or Not To Trust Your Vision-Language Model's Prediction

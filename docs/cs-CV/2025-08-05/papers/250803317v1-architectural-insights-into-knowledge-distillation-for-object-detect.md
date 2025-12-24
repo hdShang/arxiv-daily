@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Architectural Insights into Knowledge Distillation for Object Detection: A Comprehensive Review
+title: "Architectural Insights into Knowledge Distillation for Object Detection: A Comprehensive Review"
 ---
 
 # Architectural Insights into Knowledge Distillation for Object Detection: A Comprehensive Review

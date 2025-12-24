@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hunyuan3D 2.5: Towards High-Fidelity 3D Assets Generation with Ultimate Details
+title: "Hunyuan3D 2.5: Towards High-Fidelity 3D Assets Generation with Ultimate Details"
 ---
 
 # Hunyuan3D 2.5: Towards High-Fidelity 3D Assets Generation with Ultimate Details

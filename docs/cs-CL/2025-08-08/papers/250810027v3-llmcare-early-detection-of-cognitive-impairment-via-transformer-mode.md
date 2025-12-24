@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLMCARE: early detection of cognitive impairment via transformer models enhanced by LLM-generated synthetic data
+title: "LLMCARE: early detection of cognitive impairment via transformer models enhanced by LLM-generated synthetic data"
 ---
 
 # LLMCARE: early detection of cognitive impairment via transformer models enhanced by LLM-generated synthetic data

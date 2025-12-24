@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RF-DETR: Neural Architecture Search for Real-Time Detection Transformers
+title: "RF-DETR: Neural Architecture Search for Real-Time Detection Transformers"
 ---
 
 # RF-DETR: Neural Architecture Search for Real-Time Detection Transformers

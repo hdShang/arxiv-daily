@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Think, Reflect, Create: Metacognitive Learning for Zero-Shot Robotic Planning with LLMs
+title: "Think, Reflect, Create: Metacognitive Learning for Zero-Shot Robotic Planning with LLMs"
 ---
 
 # Think, Reflect, Create: Metacognitive Learning for Zero-Shot Robotic Planning with LLMs

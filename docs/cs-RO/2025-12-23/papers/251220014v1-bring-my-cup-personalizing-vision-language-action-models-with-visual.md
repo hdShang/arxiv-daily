@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting
+title: "Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting"
 ---
 
 # Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting

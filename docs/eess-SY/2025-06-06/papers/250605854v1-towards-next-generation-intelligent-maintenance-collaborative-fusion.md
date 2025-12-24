@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Next-Generation Intelligent Maintenance: Collaborative Fusion of Large and Small Models
+title: "Towards Next-Generation Intelligent Maintenance: Collaborative Fusion of Large and Small Models"
 ---
 
 # Towards Next-Generation Intelligent Maintenance: Collaborative Fusion of Large and Small Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AME: Aligned Manifold Entropy for Robust Vision-Language Distillation
+title: "AME: Aligned Manifold Entropy for Robust Vision-Language Distillation"
 ---
 
 # AME: Aligned Manifold Entropy for Robust Vision-Language Distillation

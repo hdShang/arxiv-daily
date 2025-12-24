@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Activations as Features: Probing LLMs for Generalizable Essay Scoring Representations
+title: "Activations as Features: Probing LLMs for Generalizable Essay Scoring Representations"
 ---
 
 # Activations as Features: Probing LLMs for Generalizable Essay Scoring Representations

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Large Language Models Understanding: an Inherent Ambiguity Barrier
+title: "Large Language Models Understanding: an Inherent Ambiguity Barrier"
 ---
 
 # Large Language Models Understanding: an Inherent Ambiguity Barrier

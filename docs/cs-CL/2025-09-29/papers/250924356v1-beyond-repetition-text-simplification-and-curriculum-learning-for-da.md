@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Repetition: Text Simplification and Curriculum Learning for Data-Constrained Pretraining
+title: "Beyond Repetition: Text Simplification and Curriculum Learning for Data-Constrained Pretraining"
 ---
 
 # Beyond Repetition: Text Simplification and Curriculum Learning for Data-Constrained Pretraining

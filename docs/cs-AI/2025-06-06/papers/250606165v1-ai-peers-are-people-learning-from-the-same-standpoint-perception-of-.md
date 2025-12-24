@@ -1,6 +1,6 @@
 ---
 layout: default
-title: (AI peers) are people learning from the same standpoint: Perception of AI characters in a Collaborative Science Investigation
+title: "(AI peers) are people learning from the same standpoint: Perception of AI characters in a Collaborative Science Investigation"
 ---
 
 # (AI peers) are people learning from the same standpoint: Perception of AI characters in a Collaborative Science Investigation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Self-Supervised Event Representations: Towards Accurate, Real-Time Perception on SoC FPGAs
+title: "Self-Supervised Event Representations: Towards Accurate, Real-Time Perception on SoC FPGAs"
 ---
 
 # Self-Supervised Event Representations: Towards Accurate, Real-Time Perception on SoC FPGAs

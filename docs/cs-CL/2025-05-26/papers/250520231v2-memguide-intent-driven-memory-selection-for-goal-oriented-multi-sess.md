@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MemGuide: Intent-Driven Memory Selection for Goal-Oriented Multi-Session LLM Agents
+title: "MemGuide: Intent-Driven Memory Selection for Goal-Oriented Multi-Session LLM Agents"
 ---
 
 # MemGuide: Intent-Driven Memory Selection for Goal-Oriented Multi-Session LLM Agents

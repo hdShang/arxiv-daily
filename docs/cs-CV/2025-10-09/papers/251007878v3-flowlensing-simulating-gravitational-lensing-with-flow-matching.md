@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FlowLensing: Simulating Gravitational Lensing with Flow Matching
+title: "FlowLensing: Simulating Gravitational Lensing with Flow Matching"
 ---
 
 # FlowLensing: Simulating Gravitational Lensing with Flow Matching

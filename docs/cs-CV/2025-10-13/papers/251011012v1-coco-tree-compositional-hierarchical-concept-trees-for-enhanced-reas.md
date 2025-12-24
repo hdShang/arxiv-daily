@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COCO-Tree: Compositional Hierarchical Concept Trees for Enhanced Reasoning in Vision Language Models
+title: "COCO-Tree: Compositional Hierarchical Concept Trees for Enhanced Reasoning in Vision Language Models"
 ---
 
 # COCO-Tree: Compositional Hierarchical Concept Trees for Enhanced Reasoning in Vision Language Models

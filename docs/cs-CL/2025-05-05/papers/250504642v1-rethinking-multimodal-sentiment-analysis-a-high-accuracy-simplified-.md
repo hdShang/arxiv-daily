@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rethinking Multimodal Sentiment Analysis: A High-Accuracy, Simplified Fusion Architecture
+title: "Rethinking Multimodal Sentiment Analysis: A High-Accuracy, Simplified Fusion Architecture"
 ---
 
 # Rethinking Multimodal Sentiment Analysis: A High-Accuracy, Simplified Fusion Architecture

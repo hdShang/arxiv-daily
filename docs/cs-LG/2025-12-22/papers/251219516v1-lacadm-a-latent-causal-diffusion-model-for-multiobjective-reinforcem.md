@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LacaDM: A Latent Causal Diffusion Model for Multiobjective Reinforcement Learning
+title: "LacaDM: A Latent Causal Diffusion Model for Multiobjective Reinforcement Learning"
 ---
 
 # LacaDM: A Latent Causal Diffusion Model for Multiobjective Reinforcement Learning

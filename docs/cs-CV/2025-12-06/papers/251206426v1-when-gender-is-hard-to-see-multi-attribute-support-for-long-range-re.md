@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When Gender is Hard to See: Multi-Attribute Support for Long-Range Recognition
+title: "When Gender is Hard to See: Multi-Attribute Support for Long-Range Recognition"
 ---
 
 # When Gender is Hard to See: Multi-Attribute Support for Long-Range Recognition

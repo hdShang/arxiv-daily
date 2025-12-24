@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniVid: Unifying Vision Tasks with Pre-trained Video Generation Models
+title: "UniVid: Unifying Vision Tasks with Pre-trained Video Generation Models"
 ---
 
 # UniVid: Unifying Vision Tasks with Pre-trained Video Generation Models

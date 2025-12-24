@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Don't Erase, Inform! Detecting and Contextualizing Harmful Language in Cultural Heritage Collections
+title: "Don't Erase, Inform! Detecting and Contextualizing Harmful Language in Cultural Heritage Collections"
 ---
 
 # Don't Erase, Inform! Detecting and Contextualizing Harmful Language in Cultural Heritage Collections

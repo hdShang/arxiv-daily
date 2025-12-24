@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ToxicTAGS: Decoding Toxic Memes with Rich Tag Annotations
+title: "ToxicTAGS: Decoding Toxic Memes with Rich Tag Annotations"
 ---
 
 # ToxicTAGS: Decoding Toxic Memes with Rich Tag Annotations

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DivLogicEval: A Framework for Benchmarking Logical Reasoning Evaluation in Large Language Models
+title: "DivLogicEval: A Framework for Benchmarking Logical Reasoning Evaluation in Large Language Models"
 ---
 
 # DivLogicEval: A Framework for Benchmarking Logical Reasoning Evaluation in Large Language Models

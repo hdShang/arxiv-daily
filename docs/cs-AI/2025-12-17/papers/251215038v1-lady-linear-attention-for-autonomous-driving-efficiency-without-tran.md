@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LADY: Linear Attention for Autonomous Driving Efficiency without Transformers
+title: "LADY: Linear Attention for Autonomous Driving Efficiency without Transformers"
 ---
 
 # LADY: Linear Attention for Autonomous Driving Efficiency without Transformers

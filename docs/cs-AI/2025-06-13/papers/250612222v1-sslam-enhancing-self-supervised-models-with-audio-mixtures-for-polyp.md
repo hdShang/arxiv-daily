@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SSLAM: Enhancing Self-Supervised Models with Audio Mixtures for Polyphonic Soundscapes
+title: "SSLAM: Enhancing Self-Supervised Models with Audio Mixtures for Polyphonic Soundscapes"
 ---
 
 # SSLAM: Enhancing Self-Supervised Models with Audio Mixtures for Polyphonic Soundscapes

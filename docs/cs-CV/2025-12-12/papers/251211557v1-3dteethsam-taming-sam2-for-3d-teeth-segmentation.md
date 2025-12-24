@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3DTeethSAM: Taming SAM2 for 3D Teeth Segmentation
+title: "3DTeethSAM: Taming SAM2 for 3D Teeth Segmentation"
 ---
 
 # 3DTeethSAM: Taming SAM2 for 3D Teeth Segmentation

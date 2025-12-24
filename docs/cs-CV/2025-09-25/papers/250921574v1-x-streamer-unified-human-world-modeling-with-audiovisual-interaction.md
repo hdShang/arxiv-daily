@@ -1,6 +1,6 @@
 ---
 layout: default
-title: X-Streamer: Unified Human World Modeling with Audiovisual Interaction
+title: "X-Streamer: Unified Human World Modeling with Audiovisual Interaction"
 ---
 
 # X-Streamer: Unified Human World Modeling with Audiovisual Interaction

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: REAL-Prover: Retrieval Augmented Lean Prover for Mathematical Reasoning
+title: "REAL-Prover: Retrieval Augmented Lean Prover for Mathematical Reasoning"
 ---
 
 # REAL-Prover: Retrieval Augmented Lean Prover for Mathematical Reasoning

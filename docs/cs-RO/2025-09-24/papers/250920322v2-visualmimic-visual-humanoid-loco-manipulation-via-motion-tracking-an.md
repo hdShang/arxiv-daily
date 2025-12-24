@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation
+title: "VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation"
 ---
 
 # VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation

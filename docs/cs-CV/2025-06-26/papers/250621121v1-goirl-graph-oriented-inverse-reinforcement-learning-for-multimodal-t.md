@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GoIRL: Graph-Oriented Inverse Reinforcement Learning for Multimodal Trajectory Prediction
+title: "GoIRL: Graph-Oriented Inverse Reinforcement Learning for Multimodal Trajectory Prediction"
 ---
 
 # GoIRL: Graph-Oriented Inverse Reinforcement Learning for Multimodal Trajectory Prediction

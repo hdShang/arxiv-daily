@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SuckTac: Camera-based Tactile Sucker for Unstructured Surface Perception and Interaction
+title: "SuckTac: Camera-based Tactile Sucker for Unstructured Surface Perception and Interaction"
 ---
 
 # SuckTac: Camera-based Tactile Sucker for Unstructured Surface Perception and Interaction

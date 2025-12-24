@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EMPOWER: Evolutionary Medical Prompt Optimization With Reinforcement Learning
+title: "EMPOWER: Evolutionary Medical Prompt Optimization With Reinforcement Learning"
 ---
 
 # EMPOWER: Evolutionary Medical Prompt Optimization With Reinforcement Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GraphKV: Breaking the Static Selection Paradigm with Graph-Based KV Cache Eviction
+title: "GraphKV: Breaking the Static Selection Paradigm with Graph-Based KV Cache Eviction"
 ---
 
 # GraphKV: Breaking the Static Selection Paradigm with Graph-Based KV Cache Eviction

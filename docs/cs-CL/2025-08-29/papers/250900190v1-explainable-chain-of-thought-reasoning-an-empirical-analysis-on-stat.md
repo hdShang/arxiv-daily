@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Explainable Chain-of-Thought Reasoning: An Empirical Analysis on State-Aware Reasoning Dynamics
+title: "Explainable Chain-of-Thought Reasoning: An Empirical Analysis on State-Aware Reasoning Dynamics"
 ---
 
 # Explainable Chain-of-Thought Reasoning: An Empirical Analysis on State-Aware Reasoning Dynamics

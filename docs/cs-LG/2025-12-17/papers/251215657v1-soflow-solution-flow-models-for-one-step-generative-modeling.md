@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SoFlow: Solution Flow Models for One-Step Generative Modeling
+title: "SoFlow: Solution Flow Models for One-Step Generative Modeling"
 ---
 
 # SoFlow: Solution Flow Models for One-Step Generative Modeling

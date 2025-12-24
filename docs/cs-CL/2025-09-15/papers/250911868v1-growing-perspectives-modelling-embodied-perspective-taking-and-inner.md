@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Growing Perspectives: Modelling Embodied Perspective Taking and Inner Narrative Development Using Large Language Models
+title: "Growing Perspectives: Modelling Embodied Perspective Taking and Inner Narrative Development Using Large Language Models"
 ---
 
 # Growing Perspectives: Modelling Embodied Perspective Taking and Inner Narrative Development Using Large Language Models

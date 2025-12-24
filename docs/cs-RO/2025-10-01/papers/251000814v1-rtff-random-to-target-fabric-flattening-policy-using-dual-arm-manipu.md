@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RTFF: Random-to-Target Fabric Flattening Policy using Dual-Arm Manipulator
+title: "RTFF: Random-to-Target Fabric Flattening Policy using Dual-Arm Manipulator"
 ---
 
 # RTFF: Random-to-Target Fabric Flattening Policy using Dual-Arm Manipulator

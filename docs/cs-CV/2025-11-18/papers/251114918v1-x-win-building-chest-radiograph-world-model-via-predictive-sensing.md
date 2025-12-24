@@ -1,6 +1,6 @@
 ---
 layout: default
-title: X-WIN: Building Chest Radiograph World Model via Predictive Sensing
+title: "X-WIN: Building Chest Radiograph World Model via Predictive Sensing"
 ---
 
 # X-WIN: Building Chest Radiograph World Model via Predictive Sensing

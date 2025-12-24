@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ToolSample: Dual Dynamic Sampling Methods with Curriculum Learning for RL-based Tool Learning
+title: "ToolSample: Dual Dynamic Sampling Methods with Curriculum Learning for RL-based Tool Learning"
 ---
 
 # ToolSample: Dual Dynamic Sampling Methods with Curriculum Learning for RL-based Tool Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HapticGiant: A Novel Very Large Kinesthetic Haptic Interface with Hierarchical Force Control
+title: "HapticGiant: A Novel Very Large Kinesthetic Haptic Interface with Hierarchical Force Control"
 ---
 
 # HapticGiant: A Novel Very Large Kinesthetic Haptic Interface with Hierarchical Force Control

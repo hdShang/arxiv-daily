@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GLOVER++: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation
+title: "GLOVER++: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation"
 ---
 
 # GLOVER++: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation

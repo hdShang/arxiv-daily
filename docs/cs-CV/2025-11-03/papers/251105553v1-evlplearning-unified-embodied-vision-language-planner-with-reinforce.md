@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EVLP:Learning Unified Embodied Vision-Language Planner with Reinforced Supervised Fine-Tuning
+title: "EVLP:Learning Unified Embodied Vision-Language Planner with Reinforced Supervised Fine-Tuning"
 ---
 
 # EVLP:Learning Unified Embodied Vision-Language Planner with Reinforced Supervised Fine-Tuning

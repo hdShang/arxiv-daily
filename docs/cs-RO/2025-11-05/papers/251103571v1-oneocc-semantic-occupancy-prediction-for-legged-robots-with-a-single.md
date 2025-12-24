@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OneOcc: Semantic Occupancy Prediction for Legged Robots with a Single Panoramic Camera
+title: "OneOcc: Semantic Occupancy Prediction for Legged Robots with a Single Panoramic Camera"
 ---
 
 # OneOcc: Semantic Occupancy Prediction for Legged Robots with a Single Panoramic Camera

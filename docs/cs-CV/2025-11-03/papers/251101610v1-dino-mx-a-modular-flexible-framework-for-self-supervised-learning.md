@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DINO-MX: A Modular & Flexible Framework for Self-Supervised Learning
+title: "DINO-MX: A Modular & Flexible Framework for Self-Supervised Learning"
 ---
 
 # DINO-MX: A Modular & Flexible Framework for Self-Supervised Learning

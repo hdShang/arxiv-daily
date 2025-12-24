@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bias Beyond Demographics: Probing Decision Boundaries in Black-Box LVLMs via Counterfactual VQA
+title: "Bias Beyond Demographics: Probing Decision Boundaries in Black-Box LVLMs via Counterfactual VQA"
 ---
 
 # Bias Beyond Demographics: Probing Decision Boundaries in Black-Box LVLMs via Counterfactual VQA

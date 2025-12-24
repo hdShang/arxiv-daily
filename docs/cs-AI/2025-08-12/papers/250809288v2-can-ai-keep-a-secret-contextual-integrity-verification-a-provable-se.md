@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Can AI Keep a Secret? Contextual Integrity Verification: A Provable Security Architecture for LLMs
+title: "Can AI Keep a Secret? Contextual Integrity Verification: A Provable Security Architecture for LLMs"
 ---
 
 # Can AI Keep a Secret? Contextual Integrity Verification: A Provable Security Architecture for LLMs

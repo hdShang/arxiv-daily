@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ProPerSim: Developing Proactive and Personalized AI Assistants through User-Assistant Simulation
+title: "ProPerSim: Developing Proactive and Personalized AI Assistants through User-Assistant Simulation"
 ---
 
 # ProPerSim: Developing Proactive and Personalized AI Assistants through User-Assistant Simulation

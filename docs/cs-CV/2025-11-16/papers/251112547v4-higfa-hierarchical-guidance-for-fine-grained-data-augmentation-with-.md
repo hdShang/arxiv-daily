@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HiGFA: Hierarchical Guidance for Fine-grained Data Augmentation with Diffusion Models
+title: "HiGFA: Hierarchical Guidance for Fine-grained Data Augmentation with Diffusion Models"
 ---
 
 # HiGFA: Hierarchical Guidance for Fine-grained Data Augmentation with Diffusion Models

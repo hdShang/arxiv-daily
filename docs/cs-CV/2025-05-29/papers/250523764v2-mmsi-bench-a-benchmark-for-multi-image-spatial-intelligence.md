@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence
+title: "MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence"
 ---
 
 # MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence

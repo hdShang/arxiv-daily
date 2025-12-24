@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Correction to Mastery: Reinforced Distillation of Large Language Model Agents
+title: "From Correction to Mastery: Reinforced Distillation of Large Language Model Agents"
 ---
 
 # From Correction to Mastery: Reinforced Distillation of Large Language Model Agents

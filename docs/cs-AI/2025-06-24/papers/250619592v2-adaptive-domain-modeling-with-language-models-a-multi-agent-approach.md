@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adaptive Domain Modeling with Language Models: A Multi-Agent Approach to Task Planning
+title: "Adaptive Domain Modeling with Language Models: A Multi-Agent Approach to Task Planning"
 ---
 
 # Adaptive Domain Modeling with Language Models: A Multi-Agent Approach to Task Planning

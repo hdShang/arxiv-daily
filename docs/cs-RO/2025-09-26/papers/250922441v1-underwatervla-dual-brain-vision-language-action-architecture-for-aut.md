@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UnderwaterVLA: Dual-brain Vision-Language-Action architecture for Autonomous Underwater Navigation
+title: "UnderwaterVLA: Dual-brain Vision-Language-Action architecture for Autonomous Underwater Navigation"
 ---
 
 # UnderwaterVLA: Dual-brain Vision-Language-Action architecture for Autonomous Underwater Navigation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thinking About Thinking: SAGE-nano's Inverse Reasoning for Self-Aware Language Models
+title: "Thinking About Thinking: SAGE-nano's Inverse Reasoning for Self-Aware Language Models"
 ---
 
 # Thinking About Thinking: SAGE-nano's Inverse Reasoning for Self-Aware Language Models

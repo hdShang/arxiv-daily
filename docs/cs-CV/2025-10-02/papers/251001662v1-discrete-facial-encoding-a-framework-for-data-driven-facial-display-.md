@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Discrete Facial Encoding: : A Framework for Data-driven Facial Display Discovery
+title: "Discrete Facial Encoding: : A Framework for Data-driven Facial Display Discovery"
 ---
 
 # Discrete Facial Encoding: : A Framework for Data-driven Facial Display Discovery

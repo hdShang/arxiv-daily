@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CompressKV: Semantic Retrieval Heads Know What Tokens are Not Important Before Generation
+title: "CompressKV: Semantic Retrieval Heads Know What Tokens are Not Important Before Generation"
 ---
 
 # CompressKV: Semantic Retrieval Heads Know What Tokens are Not Important Before Generation

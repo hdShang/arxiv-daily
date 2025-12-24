@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RTS-Mono: A Real-Time Self-Supervised Monocular Depth Estimation Method for Real-World Deployment
+title: "RTS-Mono: A Real-Time Self-Supervised Monocular Depth Estimation Method for Real-World Deployment"
 ---
 
 # RTS-Mono: A Real-Time Self-Supervised Monocular Depth Estimation Method for Real-World Deployment

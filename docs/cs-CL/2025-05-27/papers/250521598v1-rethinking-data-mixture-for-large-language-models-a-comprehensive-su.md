@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rethinking Data Mixture for Large Language Models: A Comprehensive Survey and New Perspectives
+title: "Rethinking Data Mixture for Large Language Models: A Comprehensive Survey and New Perspectives"
 ---
 
 # Rethinking Data Mixture for Large Language Models: A Comprehensive Survey and New Perspectives

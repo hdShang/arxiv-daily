@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MemEngine: A Unified and Modular Library for Developing Advanced Memory of LLM-based Agents
+title: "MemEngine: A Unified and Modular Library for Developing Advanced Memory of LLM-based Agents"
 ---
 
 # MemEngine: A Unified and Modular Library for Developing Advanced Memory of LLM-based Agents

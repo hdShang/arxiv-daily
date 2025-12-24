@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EAvatar: Expression-Aware Head Avatar Reconstruction with Generative Geometry Priors
+title: "EAvatar: Expression-Aware Head Avatar Reconstruction with Generative Geometry Priors"
 ---
 
 # EAvatar: Expression-Aware Head Avatar Reconstruction with Generative Geometry Priors

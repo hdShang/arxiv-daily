@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Social-MAE: A Transformer-Based Multimodal Autoencoder for Face and Voice
+title: "Social-MAE: A Transformer-Based Multimodal Autoencoder for Face and Voice"
 ---
 
 # Social-MAE: A Transformer-Based Multimodal Autoencoder for Face and Voice

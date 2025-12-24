@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM Trainer: Automated Robotic Data Generating via Demonstration Augmentation using LLMs
+title: "LLM Trainer: Automated Robotic Data Generating via Demonstration Augmentation using LLMs"
 ---
 
 # LLM Trainer: Automated Robotic Data Generating via Demonstration Augmentation using LLMs

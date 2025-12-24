@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI Agents for Web Testing: A Case Study in the Wild
+title: "AI Agents for Web Testing: A Case Study in the Wild"
 ---
 
 # AI Agents for Web Testing: A Case Study in the Wild

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Observer, Not Player: Simulating Theory of Mind in LLMs through Game Observation
+title: "Observer, Not Player: Simulating Theory of Mind in LLMs through Game Observation"
 ---
 
 # Observer, Not Player: Simulating Theory of Mind in LLMs through Game Observation

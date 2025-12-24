@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DALR: Dual-level Alignment Learning for Multimodal Sentence Representation Learning
+title: "DALR: Dual-level Alignment Learning for Multimodal Sentence Representation Learning"
 ---
 
 # DALR: Dual-level Alignment Learning for Multimodal Sentence Representation Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trust in Vision-Language Models: Insights from a Participatory User Workshop
+title: "Trust in Vision-Language Models: Insights from a Participatory User Workshop"
 ---
 
 # Trust in Vision-Language Models: Insights from a Participatory User Workshop

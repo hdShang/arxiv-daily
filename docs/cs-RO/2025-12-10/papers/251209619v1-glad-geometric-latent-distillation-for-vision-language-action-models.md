@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GLaD: Geometric Latent Distillation for Vision-Language-Action Models
+title: "GLaD: Geometric Latent Distillation for Vision-Language-Action Models"
 ---
 
 # GLaD: Geometric Latent Distillation for Vision-Language-Action Models

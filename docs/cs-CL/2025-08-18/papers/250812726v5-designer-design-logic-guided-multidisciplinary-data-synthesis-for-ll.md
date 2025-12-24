@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DESIGNER: Design-Logic-Guided Multidisciplinary Data Synthesis for LLM Reasoning
+title: "DESIGNER: Design-Logic-Guided Multidisciplinary Data Synthesis for LLM Reasoning"
 ---
 
 # DESIGNER: Design-Logic-Guided Multidisciplinary Data Synthesis for LLM Reasoning

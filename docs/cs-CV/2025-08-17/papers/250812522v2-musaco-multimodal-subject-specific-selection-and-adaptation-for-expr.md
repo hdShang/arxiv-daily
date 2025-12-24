@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MuSACo: Multimodal Subject-Specific Selection and Adaptation for Expression Recognition with Co-Training
+title: "MuSACo: Multimodal Subject-Specific Selection and Adaptation for Expression Recognition with Co-Training"
 ---
 
 # MuSACo: Multimodal Subject-Specific Selection and Adaptation for Expression Recognition with Co-Training

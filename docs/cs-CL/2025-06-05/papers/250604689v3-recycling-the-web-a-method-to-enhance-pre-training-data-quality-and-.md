@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Recycling the Web: A Method to Enhance Pre-training Data Quality and Quantity for Language Models
+title: "Recycling the Web: A Method to Enhance Pre-training Data Quality and Quantity for Language Models"
 ---
 
 # Recycling the Web: A Method to Enhance Pre-training Data Quality and Quantity for Language Models

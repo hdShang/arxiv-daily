@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PoisonSwarm: Universal Harmful Information Synthesis via Model Crowdsourcing
+title: "PoisonSwarm: Universal Harmful Information Synthesis via Model Crowdsourcing"
 ---
 
 # PoisonSwarm: Universal Harmful Information Synthesis via Model Crowdsourcing

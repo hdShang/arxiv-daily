@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SocialNav-Map: Dynamic Mapping with Human Trajectory Prediction for Zero-Shot Social Navigation
+title: "SocialNav-Map: Dynamic Mapping with Human Trajectory Prediction for Zero-Shot Social Navigation"
 ---
 
 # SocialNav-Map: Dynamic Mapping with Human Trajectory Prediction for Zero-Shot Social Navigation

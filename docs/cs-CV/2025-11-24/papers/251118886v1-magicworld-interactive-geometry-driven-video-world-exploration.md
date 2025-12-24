@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MagicWorld: Interactive Geometry-driven Video World Exploration
+title: "MagicWorld: Interactive Geometry-driven Video World Exploration"
 ---
 
 # MagicWorld: Interactive Geometry-driven Video World Exploration

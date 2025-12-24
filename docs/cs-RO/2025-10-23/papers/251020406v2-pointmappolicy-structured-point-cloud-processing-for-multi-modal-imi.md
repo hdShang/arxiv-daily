@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PointMapPolicy: Structured Point Cloud Processing for Multi-Modal Imitation Learning
+title: "PointMapPolicy: Structured Point Cloud Processing for Multi-Modal Imitation Learning"
 ---
 
 # PointMapPolicy: Structured Point Cloud Processing for Multi-Modal Imitation Learning

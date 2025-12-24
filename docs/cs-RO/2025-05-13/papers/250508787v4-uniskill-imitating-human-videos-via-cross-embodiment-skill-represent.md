@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniSkill: Imitating Human Videos via Cross-Embodiment Skill Representations
+title: "UniSkill: Imitating Human Videos via Cross-Embodiment Skill Representations"
 ---
 
 # UniSkill: Imitating Human Videos via Cross-Embodiment Skill Representations

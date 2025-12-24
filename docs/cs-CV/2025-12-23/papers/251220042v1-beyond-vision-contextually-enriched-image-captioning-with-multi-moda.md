@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Vision: Contextually Enriched Image Captioning with Multi-Modal Retrieva
+title: "Beyond Vision: Contextually Enriched Image Captioning with Multi-Modal Retrieva"
 ---
 
 # Beyond Vision: Contextually Enriched Image Captioning with Multi-Modal Retrieva

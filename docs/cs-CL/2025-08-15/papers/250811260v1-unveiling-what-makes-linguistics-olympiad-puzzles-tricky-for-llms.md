@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UNVEILING: What Makes Linguistics Olympiad Puzzles Tricky for LLMs?
+title: "UNVEILING: What Makes Linguistics Olympiad Puzzles Tricky for LLMs?"
 ---
 
 # UNVEILING: What Makes Linguistics Olympiad Puzzles Tricky for LLMs?

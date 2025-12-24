@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Attention! Your Vision Language Model Could Be Maliciously Manipulated
+title: "Attention! Your Vision Language Model Could Be Maliciously Manipulated"
 ---
 
 # Attention! Your Vision Language Model Could Be Maliciously Manipulated

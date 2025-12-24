@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FastTrack: GPU-Accelerated Tracking for Visual SLAM
+title: "FastTrack: GPU-Accelerated Tracking for Visual SLAM"
 ---
 
 # FastTrack: GPU-Accelerated Tracking for Visual SLAM

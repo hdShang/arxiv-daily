@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RobustSora: De-Watermarked Benchmark for Robust AI-Generated Video Detection
+title: "RobustSora: De-Watermarked Benchmark for Robust AI-Generated Video Detection"
 ---
 
 # RobustSora: De-Watermarked Benchmark for Robust AI-Generated Video Detection

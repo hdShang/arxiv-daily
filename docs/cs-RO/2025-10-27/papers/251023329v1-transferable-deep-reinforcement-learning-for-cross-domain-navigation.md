@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Transferable Deep Reinforcement Learning for Cross-Domain Navigation: from Farmland to the Moon
+title: "Transferable Deep Reinforcement Learning for Cross-Domain Navigation: from Farmland to the Moon"
 ---
 
 # Transferable Deep Reinforcement Learning for Cross-Domain Navigation: from Farmland to the Moon

@@ -23,6 +23,15 @@ def ensure_dir(p: Path):
 def md_escape(s: str) -> str:
     return s.replace("|", r"\|")
 
+def yaml_escape_title(s: str) -> str:
+    """转义 YAML front matter 中的标题，确保特殊字符被正确处理"""
+    # 如果包含冒号、引号或其他特殊字符，使用双引号包裹
+    if any(c in s for c in [':', '"', "'", '#', '&', '*', '!', '|', '>', '<', '{', '}', '[', ']', '`']):
+        # 转义双引号和反斜杠
+        escaped = s.replace('\\', '\\\\').replace('"', '\\"')
+        return f'"{escaped}"'
+    return s
+
 def to_authors(auth_list) -> str:
     if isinstance(auth_list, list):
         return ", ".join(auth_list)
@@ -221,7 +230,8 @@ def _render_paper_table_html(papers: List[Dict[str, Any]], start_idx: int = 0) -
 def build_tag_date_index_md(tag: str, date_label: str, papers: List[Dict[str, Any]], site_title: str) -> str:
     """生成某分类某日期的目录页（按兴趣领域分组）"""
     lines = []
-    lines.append(f"---\nlayout: default\ntitle: {site_title} - {tag} - {date_label}\n---\n")
+    page_title = yaml_escape_title(f"{site_title} - {tag} - {date_label}")
+    lines.append(f"---\nlayout: default\ntitle: {page_title}\n---\n")
     lines.append(f"# {tag}（{date_label}）\n")
     
     # 统计信息
@@ -302,7 +312,8 @@ def build_tag_index_md(tag: str, dates: List[str], site_title: str) -> str:
     import calendar
     
     lines = []
-    lines.append(f"---\nlayout: default\ntitle: {site_title} - {tag}\n---\n")
+    page_title = yaml_escape_title(f"{site_title} - {tag}")
+    lines.append(f"---\nlayout: default\ntitle: {page_title}\n---\n")
     lines.append(f"# {tag}\n")
     lines.append("> 点击日历中高亮的日期查看论文\n")
     
@@ -399,7 +410,8 @@ def build_home_md(tags: List[str], tag_stats: Dict[str, Dict], site_title: str) 
     }
     
     lines = []
-    lines.append(f"---\nlayout: default\ntitle: {site_title}\n---\n")
+    page_title = yaml_escape_title(site_title)
+    lines.append(f"---\nlayout: default\ntitle: {page_title}\n---\n")
     lines.append(f"# {site_title}\n")
     
     # 只显示有数据的分类
@@ -1062,7 +1074,8 @@ def save_tag_date_site(docs_dir: Path, tag: str, date_label: str, papers: List[D
         title = p.get("title", "").strip()
         slug = slugify(f"{p.get('arxiv_id','')}-{title}") or f"paper-{i}"
         body_md = render_paper_md(p)
-        md = f"---\nlayout: default\ntitle: {title}\n---\n\n{body_md}\n"
+        yaml_title = yaml_escape_title(title)
+        md = f"---\nlayout: default\ntitle: {yaml_title}\n---\n\n{body_md}\n"
         (day_dir / "papers" / f"{slug}.md").write_text(md, encoding="utf-8")
 
 def main():

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HapticLLaMA: A Multimodal Sensory Language Model for Haptic Captioning
+title: "HapticLLaMA: A Multimodal Sensory Language Model for Haptic Captioning"
 ---
 
 # HapticLLaMA: A Multimodal Sensory Language Model for Haptic Captioning

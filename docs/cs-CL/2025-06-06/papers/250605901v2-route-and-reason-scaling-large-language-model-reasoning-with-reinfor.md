@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Route-and-Reason: Scaling Large Language Model Reasoning with Reinforced Model Router
+title: "Route-and-Reason: Scaling Large Language Model Reasoning with Reinforced Model Router"
 ---
 
 # Route-and-Reason: Scaling Large Language Model Reasoning with Reinforced Model Router

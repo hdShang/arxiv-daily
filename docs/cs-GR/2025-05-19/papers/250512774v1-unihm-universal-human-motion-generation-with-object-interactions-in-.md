@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniHM: Universal Human Motion Generation with Object Interactions in Indoor Scenes
+title: "UniHM: Universal Human Motion Generation with Object Interactions in Indoor Scenes"
 ---
 
 # UniHM: Universal Human Motion Generation with Object Interactions in Indoor Scenes

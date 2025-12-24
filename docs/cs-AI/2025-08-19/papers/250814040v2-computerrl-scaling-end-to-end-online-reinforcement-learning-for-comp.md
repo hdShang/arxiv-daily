@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ComputerRL: Scaling End-to-End Online Reinforcement Learning for Computer Use Agents
+title: "ComputerRL: Scaling End-to-End Online Reinforcement Learning for Computer Use Agents"
 ---
 
 # ComputerRL: Scaling End-to-End Online Reinforcement Learning for Computer Use Agents

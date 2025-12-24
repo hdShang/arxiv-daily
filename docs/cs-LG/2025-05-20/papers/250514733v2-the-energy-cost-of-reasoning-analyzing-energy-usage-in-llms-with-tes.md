@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Energy Cost of Reasoning: Analyzing Energy Usage in LLMs with Test-time Compute
+title: "The Energy Cost of Reasoning: Analyzing Energy Usage in LLMs with Test-time Compute"
 ---
 
 # The Energy Cost of Reasoning: Analyzing Energy Usage in LLMs with Test-time Compute

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: APRIL: API Synthesis with Automatic Prompt Optimization and Reinforcement Learning
+title: "APRIL: API Synthesis with Automatic Prompt Optimization and Reinforcement Learning"
 ---
 
 # APRIL: API Synthesis with Automatic Prompt Optimization and Reinforcement Learning

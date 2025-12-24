@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PAG: Multi-Turn Reinforced LLM Self-Correction with Policy as Generative Verifier
+title: "PAG: Multi-Turn Reinforced LLM Self-Correction with Policy as Generative Verifier"
 ---
 
 # PAG: Multi-Turn Reinforced LLM Self-Correction with Policy as Generative Verifier

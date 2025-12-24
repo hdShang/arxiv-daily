@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HRT1: One-Shot Human-to-Robot Trajectory Transfer for Mobile Manipulation
+title: "HRT1: One-Shot Human-to-Robot Trajectory Transfer for Mobile Manipulation"
 ---
 
 # HRT1: One-Shot Human-to-Robot Trajectory Transfer for Mobile Manipulation

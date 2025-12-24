@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards bridging the gap: Systematic sim-to-real transfer for diverse legged robots
+title: "Towards bridging the gap: Systematic sim-to-real transfer for diverse legged robots"
 ---
 
 # Towards bridging the gap: Systematic sim-to-real transfer for diverse legged robots

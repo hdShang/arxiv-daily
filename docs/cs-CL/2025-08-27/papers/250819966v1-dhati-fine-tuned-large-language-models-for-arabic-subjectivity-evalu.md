@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dhati+: Fine-tuned Large Language Models for Arabic Subjectivity Evaluation
+title: "Dhati+: Fine-tuned Large Language Models for Arabic Subjectivity Evaluation"
 ---
 
 # Dhati+: Fine-tuned Large Language Models for Arabic Subjectivity Evaluation

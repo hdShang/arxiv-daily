@@ -1,6 +1,6 @@
 ---
 layout: default
-title: U-DiT Policy: U-shaped Diffusion Transformers for Robotic Manipulation
+title: "U-DiT Policy: U-shaped Diffusion Transformers for Robotic Manipulation"
 ---
 
 # U-DiT Policy: U-shaped Diffusion Transformers for Robotic Manipulation

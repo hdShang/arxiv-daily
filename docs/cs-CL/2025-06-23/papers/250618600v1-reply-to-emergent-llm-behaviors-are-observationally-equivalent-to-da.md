@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reply to "Emergent LLM behaviors are observationally equivalent to data leakage"
+title: "Reply to \"Emergent LLM behaviors are observationally equivalent to data leakage\""
 ---
 
 # Reply to "Emergent LLM behaviors are observationally equivalent to data leakage"

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ERUPT: An Open Toolkit for Interfacing with Robot Motion Planners in Extended Reality
+title: "ERUPT: An Open Toolkit for Interfacing with Robot Motion Planners in Extended Reality"
 ---
 
 # ERUPT: An Open Toolkit for Interfacing with Robot Motion Planners in Extended Reality

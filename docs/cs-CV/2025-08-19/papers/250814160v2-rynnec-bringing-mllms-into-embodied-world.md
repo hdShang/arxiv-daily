@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RynnEC: Bringing MLLMs into Embodied World
+title: "RynnEC: Bringing MLLMs into Embodied World"
 ---
 
 # RynnEC: Bringing MLLMs into Embodied World

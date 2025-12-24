@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control
+title: "AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control"
 ---
 
 # AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control

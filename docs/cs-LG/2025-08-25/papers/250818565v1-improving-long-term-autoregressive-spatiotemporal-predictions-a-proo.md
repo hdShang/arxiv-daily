@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Improving Long-term Autoregressive Spatiotemporal Predictions: A Proof of Concept with Fluid Dynamics
+title: "Improving Long-term Autoregressive Spatiotemporal Predictions: A Proof of Concept with Fluid Dynamics"
 ---
 
 # Improving Long-term Autoregressive Spatiotemporal Predictions: A Proof of Concept with Fluid Dynamics

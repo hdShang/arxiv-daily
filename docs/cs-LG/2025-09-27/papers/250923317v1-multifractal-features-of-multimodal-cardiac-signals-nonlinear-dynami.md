@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multifractal features of multimodal cardiac signals: Nonlinear dynamics of exercise recovery
+title: "Multifractal features of multimodal cardiac signals: Nonlinear dynamics of exercise recovery"
 ---
 
 # Multifractal features of multimodal cardiac signals: Nonlinear dynamics of exercise recovery

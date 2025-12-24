@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RiOT: Efficient Prompt Refinement with Residual Optimization Tree
+title: "RiOT: Efficient Prompt Refinement with Residual Optimization Tree"
 ---
 
 # RiOT: Efficient Prompt Refinement with Residual Optimization Tree

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MarketGen: A Scalable Simulation Platform with Auto-Generated Embodied Supermarket Environments
+title: "MarketGen: A Scalable Simulation Platform with Auto-Generated Embodied Supermarket Environments"
 ---
 
 # MarketGen: A Scalable Simulation Platform with Auto-Generated Embodied Supermarket Environments

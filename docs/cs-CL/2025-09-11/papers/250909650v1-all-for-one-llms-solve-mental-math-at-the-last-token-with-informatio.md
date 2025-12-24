@@ -1,6 +1,6 @@
 ---
 layout: default
-title: All for One: LLMs Solve Mental Math at the Last Token With Information Transferred From Other Tokens
+title: "All for One: LLMs Solve Mental Math at the Last Token With Information Transferred From Other Tokens"
 ---
 
 # All for One: LLMs Solve Mental Math at the Last Token With Information Transferred From Other Tokens

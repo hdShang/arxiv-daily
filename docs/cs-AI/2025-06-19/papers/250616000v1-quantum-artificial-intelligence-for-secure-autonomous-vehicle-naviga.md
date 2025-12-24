@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quantum Artificial Intelligence for Secure Autonomous Vehicle Navigation: An Architectural Proposal
+title: "Quantum Artificial Intelligence for Secure Autonomous Vehicle Navigation: An Architectural Proposal"
 ---
 
 # Quantum Artificial Intelligence for Secure Autonomous Vehicle Navigation: An Architectural Proposal

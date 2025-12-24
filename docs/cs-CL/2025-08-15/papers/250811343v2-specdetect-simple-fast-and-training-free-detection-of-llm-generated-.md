@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SpecDetect: Simple, Fast, and Training-Free Detection of LLM-Generated Text via Spectral Analysis
+title: "SpecDetect: Simple, Fast, and Training-Free Detection of LLM-Generated Text via Spectral Analysis"
 ---
 
 # SpecDetect: Simple, Fast, and Training-Free Detection of LLM-Generated Text via Spectral Analysis

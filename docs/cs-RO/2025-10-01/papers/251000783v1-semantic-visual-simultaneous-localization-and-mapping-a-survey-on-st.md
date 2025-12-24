@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Semantic Visual Simultaneous Localization and Mapping: A Survey on State of the Art, Challenges, and Future Directions
+title: "Semantic Visual Simultaneous Localization and Mapping: A Survey on State of the Art, Challenges, and Future Directions"
 ---
 
 # Semantic Visual Simultaneous Localization and Mapping: A Survey on State of the Art, Challenges, and Future Directions

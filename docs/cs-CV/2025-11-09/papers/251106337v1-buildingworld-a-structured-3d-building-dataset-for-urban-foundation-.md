@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BuildingWorld: A Structured 3D Building Dataset for Urban Foundation Models
+title: "BuildingWorld: A Structured 3D Building Dataset for Urban Foundation Models"
 ---
 
 # BuildingWorld: A Structured 3D Building Dataset for Urban Foundation Models

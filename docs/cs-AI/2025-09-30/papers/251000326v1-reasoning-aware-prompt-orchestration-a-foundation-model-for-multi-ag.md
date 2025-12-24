@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reasoning-Aware Prompt Orchestration: A Foundation Model for Multi-Agent Language Model Coordination
+title: "Reasoning-Aware Prompt Orchestration: A Foundation Model for Multi-Agent Language Model Coordination"
 ---
 
 # Reasoning-Aware Prompt Orchestration: A Foundation Model for Multi-Agent Language Model Coordination

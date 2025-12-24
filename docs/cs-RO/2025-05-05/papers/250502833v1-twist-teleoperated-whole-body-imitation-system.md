@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TWIST: Teleoperated Whole-Body Imitation System
+title: "TWIST: Teleoperated Whole-Body Imitation System"
 ---
 
 # TWIST: Teleoperated Whole-Body Imitation System

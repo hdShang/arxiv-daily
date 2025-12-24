@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VAMOS: A Hierarchical Vision-Language-Action Model for Capability-Modulated and Steerable Navigation
+title: "VAMOS: A Hierarchical Vision-Language-Action Model for Capability-Modulated and Steerable Navigation"
 ---
 
 # VAMOS: A Hierarchical Vision-Language-Action Model for Capability-Modulated and Steerable Navigation

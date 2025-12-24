@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RewardRank: Optimizing True Learning-to-Rank Utility
+title: "RewardRank: Optimizing True Learning-to-Rank Utility"
 ---
 
 # RewardRank: Optimizing True Learning-to-Rank Utility

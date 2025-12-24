@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Revisiting Model Inversion Evaluation: From Misleading Standards to Reliable Privacy Assessment
+title: "Revisiting Model Inversion Evaluation: From Misleading Standards to Reliable Privacy Assessment"
 ---
 
 # Revisiting Model Inversion Evaluation: From Misleading Standards to Reliable Privacy Assessment

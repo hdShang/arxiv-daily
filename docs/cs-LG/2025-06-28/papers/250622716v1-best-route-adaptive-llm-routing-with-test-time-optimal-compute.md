@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BEST-Route: Adaptive LLM Routing with Test-Time Optimal Compute
+title: "BEST-Route: Adaptive LLM Routing with Test-Time Optimal Compute"
 ---
 
 # BEST-Route: Adaptive LLM Routing with Test-Time Optimal Compute

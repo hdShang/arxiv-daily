@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Taming SQL Complexity: LLM-Based Equivalence Evaluation for Text-to-SQL
+title: "Taming SQL Complexity: LLM-Based Equivalence Evaluation for Text-to-SQL"
 ---
 
 # Taming SQL Complexity: LLM-Based Equivalence Evaluation for Text-to-SQL

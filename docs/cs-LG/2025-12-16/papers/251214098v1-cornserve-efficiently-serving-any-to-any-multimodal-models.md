@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cornserve: Efficiently Serving Any-to-Any Multimodal Models
+title: "Cornserve: Efficiently Serving Any-to-Any Multimodal Models"
 ---
 
 # Cornserve: Efficiently Serving Any-to-Any Multimodal Models

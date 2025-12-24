@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Can you see how I learn? Human observers' inferences about Reinforcement Learning agents' learning processes
+title: "Can you see how I learn? Human observers' inferences about Reinforcement Learning agents' learning processes"
 ---
 
 # Can you see how I learn? Human observers' inferences about Reinforcement Learning agents' learning processes

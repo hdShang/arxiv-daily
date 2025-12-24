@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LoGoPlanner: Localization Grounded Navigation Policy with Metric-aware Visual Geometry
+title: "LoGoPlanner: Localization Grounded Navigation Policy with Metric-aware Visual Geometry"
 ---
 
 # LoGoPlanner: Localization Grounded Navigation Policy with Metric-aware Visual Geometry

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fixing It in Post: A Comparative Study of LLM Post-Training Data Quality and Model Performance
+title: "Fixing It in Post: A Comparative Study of LLM Post-Training Data Quality and Model Performance"
 ---
 
 # Fixing It in Post: A Comparative Study of LLM Post-Training Data Quality and Model Performance

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DISCOVER: Automated Curricula for Sparse-Reward Reinforcement Learning
+title: "DISCOVER: Automated Curricula for Sparse-Reward Reinforcement Learning"
 ---
 
 # DISCOVER: Automated Curricula for Sparse-Reward Reinforcement Learning

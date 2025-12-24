@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MambaTAD: When State-Space Models Meet Long-Range Temporal Action Detection
+title: "MambaTAD: When State-Space Models Meet Long-Range Temporal Action Detection"
 ---
 
 # MambaTAD: When State-Space Models Meet Long-Range Temporal Action Detection

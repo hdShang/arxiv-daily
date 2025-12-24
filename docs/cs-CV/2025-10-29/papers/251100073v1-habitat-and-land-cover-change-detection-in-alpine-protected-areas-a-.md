@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Habitat and Land Cover Change Detection in Alpine Protected Areas: A Comparison of AI Architectures
+title: "Habitat and Land Cover Change Detection in Alpine Protected Areas: A Comparison of AI Architectures"
 ---
 
 # Habitat and Land Cover Change Detection in Alpine Protected Areas: A Comparison of AI Architectures

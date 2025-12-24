@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AccidentBench: Benchmarking Multimodal Understanding and Reasoning in Vehicle Accidents and Beyond
+title: "AccidentBench: Benchmarking Multimodal Understanding and Reasoning in Vehicle Accidents and Beyond"
 ---
 
 # AccidentBench: Benchmarking Multimodal Understanding and Reasoning in Vehicle Accidents and Beyond

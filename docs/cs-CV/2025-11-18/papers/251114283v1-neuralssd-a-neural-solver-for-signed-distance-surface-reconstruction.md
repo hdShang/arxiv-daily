@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NeuralSSD: A Neural Solver for Signed Distance Surface Reconstruction
+title: "NeuralSSD: A Neural Solver for Signed Distance Surface Reconstruction"
 ---
 
 # NeuralSSD: A Neural Solver for Signed Distance Surface Reconstruction

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation
+title: "AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation"
 ---
 
 # AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation

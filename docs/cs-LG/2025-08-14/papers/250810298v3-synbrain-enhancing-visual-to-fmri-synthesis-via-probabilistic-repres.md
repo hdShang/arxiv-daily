@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SynBrain: Enhancing Visual-to-fMRI Synthesis via Probabilistic Representation Learning
+title: "SynBrain: Enhancing Visual-to-fMRI Synthesis via Probabilistic Representation Learning"
 ---
 
 # SynBrain: Enhancing Visual-to-fMRI Synthesis via Probabilistic Representation Learning

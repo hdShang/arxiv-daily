@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SparseSurf: Sparse-View 3D Gaussian Splatting for Surface Reconstruction
+title: "SparseSurf: Sparse-View 3D Gaussian Splatting for Surface Reconstruction"
 ---
 
 # SparseSurf: Sparse-View 3D Gaussian Splatting for Surface Reconstruction

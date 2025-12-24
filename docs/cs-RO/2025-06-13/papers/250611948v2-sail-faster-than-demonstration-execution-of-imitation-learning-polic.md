@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SAIL: Faster-than-Demonstration Execution of Imitation Learning Policies
+title: "SAIL: Faster-than-Demonstration Execution of Imitation Learning Policies"
 ---
 
 # SAIL: Faster-than-Demonstration Execution of Imitation Learning Policies

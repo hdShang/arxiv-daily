@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TextVidBench: A Benchmark for Long Video Scene Text Understanding
+title: "TextVidBench: A Benchmark for Long Video Scene Text Understanding"
 ---
 
 # TextVidBench: A Benchmark for Long Video Scene Text Understanding

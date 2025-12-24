@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From General Reasoning to Domain Expertise: Uncovering the Limits of Generalization in Large Language Models
+title: "From General Reasoning to Domain Expertise: Uncovering the Limits of Generalization in Large Language Models"
 ---
 
 # From General Reasoning to Domain Expertise: Uncovering the Limits of Generalization in Large Language Models

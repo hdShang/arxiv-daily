@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OpenMap: Instruction Grounding via Open-Vocabulary Visual-Language Mapping
+title: "OpenMap: Instruction Grounding via Open-Vocabulary Visual-Language Mapping"
 ---
 
 # OpenMap: Instruction Grounding via Open-Vocabulary Visual-Language Mapping

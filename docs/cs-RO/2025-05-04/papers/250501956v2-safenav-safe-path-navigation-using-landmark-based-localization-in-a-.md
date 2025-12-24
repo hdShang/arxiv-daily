@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment
+title: "SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment"
 ---
 
 # SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment

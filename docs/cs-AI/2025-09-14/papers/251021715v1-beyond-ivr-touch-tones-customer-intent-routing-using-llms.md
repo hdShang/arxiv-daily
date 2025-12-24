@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond IVR Touch-Tones: Customer Intent Routing using LLMs
+title: "Beyond IVR Touch-Tones: Customer Intent Routing using LLMs"
 ---
 
 # Beyond IVR Touch-Tones: Customer Intent Routing using LLMs

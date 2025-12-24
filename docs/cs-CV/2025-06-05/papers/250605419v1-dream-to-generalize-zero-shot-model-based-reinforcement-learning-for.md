@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dream to Generalize: Zero-Shot Model-Based Reinforcement Learning for Unseen Visual Distractions
+title: "Dream to Generalize: Zero-Shot Model-Based Reinforcement Learning for Unseen Visual Distractions"
 ---
 
 # Dream to Generalize: Zero-Shot Model-Based Reinforcement Learning for Unseen Visual Distractions

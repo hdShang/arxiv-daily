@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SaLon3R: Structure-aware Long-term Generalizable 3D Reconstruction from Unposed Images
+title: "SaLon3R: Structure-aware Long-term Generalizable 3D Reconstruction from Unposed Images"
 ---
 
 # SaLon3R: Structure-aware Long-term Generalizable 3D Reconstruction from Unposed Images

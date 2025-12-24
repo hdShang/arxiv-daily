@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReconDreamer-RL: Enhancing Reinforcement Learning via Diffusion-based Scene Reconstruction
+title: "ReconDreamer-RL: Enhancing Reinforcement Learning via Diffusion-based Scene Reconstruction"
 ---
 
 # ReconDreamer-RL: Enhancing Reinforcement Learning via Diffusion-based Scene Reconstruction

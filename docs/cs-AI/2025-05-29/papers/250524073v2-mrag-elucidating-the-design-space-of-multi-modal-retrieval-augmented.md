@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mRAG: Elucidating the Design Space of Multi-modal Retrieval-Augmented Generation
+title: "mRAG: Elucidating the Design Space of Multi-modal Retrieval-Augmented Generation"
 ---
 
 # mRAG: Elucidating the Design Space of Multi-modal Retrieval-Augmented Generation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CircleFlow: Flow-Guided Camera Blur Estimation using a Circle Grid Target
+title: "CircleFlow: Flow-Guided Camera Blur Estimation using a Circle Grid Target"
 ---
 
 # CircleFlow: Flow-Guided Camera Blur Estimation using a Circle Grid Target

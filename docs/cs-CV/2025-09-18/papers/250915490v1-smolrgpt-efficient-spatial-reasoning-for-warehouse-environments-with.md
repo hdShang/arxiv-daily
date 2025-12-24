@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SmolRGPT: Efficient Spatial Reasoning for Warehouse Environments with 600M Parameters
+title: "SmolRGPT: Efficient Spatial Reasoning for Warehouse Environments with 600M Parameters"
 ---
 
 # SmolRGPT: Efficient Spatial Reasoning for Warehouse Environments with 600M Parameters

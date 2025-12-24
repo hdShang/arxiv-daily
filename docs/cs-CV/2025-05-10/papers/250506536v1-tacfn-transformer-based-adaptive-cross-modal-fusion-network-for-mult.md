@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TACFN: Transformer-based Adaptive Cross-modal Fusion Network for Multimodal Emotion Recognition
+title: "TACFN: Transformer-based Adaptive Cross-modal Fusion Network for Multimodal Emotion Recognition"
 ---
 
 # TACFN: Transformer-based Adaptive Cross-modal Fusion Network for Multimodal Emotion Recognition

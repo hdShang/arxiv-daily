@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Benign-to-Toxic Jailbreaking: Inducing Harmful Responses from Harmless Prompts
+title: "Benign-to-Toxic Jailbreaking: Inducing Harmful Responses from Harmless Prompts"
 ---
 
 # Benign-to-Toxic Jailbreaking: Inducing Harmful Responses from Harmless Prompts

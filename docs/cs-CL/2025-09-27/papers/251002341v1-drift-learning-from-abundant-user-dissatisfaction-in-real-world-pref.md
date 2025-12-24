@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DRIFT: Learning from Abundant User Dissatisfaction in Real-World Preference Learning
+title: "DRIFT: Learning from Abundant User Dissatisfaction in Real-World Preference Learning"
 ---
 
 # DRIFT: Learning from Abundant User Dissatisfaction in Real-World Preference Learning

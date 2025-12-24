@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Denoise to Track: Harnessing Video Diffusion Priors for Robust Correspondence
+title: "Denoise to Track: Harnessing Video Diffusion Priors for Robust Correspondence"
 ---
 
 # Denoise to Track: Harnessing Video Diffusion Priors for Robust Correspondence

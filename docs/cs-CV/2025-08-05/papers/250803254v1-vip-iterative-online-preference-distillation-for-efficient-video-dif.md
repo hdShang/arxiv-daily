@@ -1,6 +1,6 @@
 ---
 layout: default
-title: V.I.P. : Iterative Online Preference Distillation for Efficient Video Diffusion Models
+title: "V.I.P. : Iterative Online Preference Distillation for Efficient Video Diffusion Models"
 ---
 
 # V.I.P. : Iterative Online Preference Distillation for Efficient Video Diffusion Models

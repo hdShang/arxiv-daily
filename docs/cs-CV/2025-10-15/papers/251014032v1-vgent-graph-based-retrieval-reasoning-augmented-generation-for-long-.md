@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vgent: Graph-based Retrieval-Reasoning-Augmented Generation For Long Video Understanding
+title: "Vgent: Graph-based Retrieval-Reasoning-Augmented Generation For Long Video Understanding"
 ---
 
 # Vgent: Graph-based Retrieval-Reasoning-Augmented Generation For Long Video Understanding

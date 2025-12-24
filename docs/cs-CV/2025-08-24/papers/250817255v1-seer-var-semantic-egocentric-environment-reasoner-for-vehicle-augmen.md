@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SEER-VAR: Semantic Egocentric Environment Reasoner for Vehicle Augmented Reality
+title: "SEER-VAR: Semantic Egocentric Environment Reasoner for Vehicle Augmented Reality"
 ---
 
 # SEER-VAR: Semantic Egocentric Environment Reasoner for Vehicle Augmented Reality

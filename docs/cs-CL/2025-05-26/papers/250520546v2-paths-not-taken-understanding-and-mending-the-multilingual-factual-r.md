@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Paths Not Taken: Understanding and Mending the Multilingual Factual Recall Pipeline
+title: "Paths Not Taken: Understanding and Mending the Multilingual Factual Recall Pipeline"
 ---
 
 # Paths Not Taken: Understanding and Mending the Multilingual Factual Recall Pipeline

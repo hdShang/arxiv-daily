@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboRAN: A Unified Robotics Framework for Reinforcement Learning-Based Autonomous Navigation
+title: "RoboRAN: A Unified Robotics Framework for Reinforcement Learning-Based Autonomous Navigation"
 ---
 
 # RoboRAN: A Unified Robotics Framework for Reinforcement Learning-Based Autonomous Navigation

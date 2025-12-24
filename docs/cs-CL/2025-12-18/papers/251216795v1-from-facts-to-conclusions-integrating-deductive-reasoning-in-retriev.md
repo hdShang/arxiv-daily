@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Facts to Conclusions : Integrating Deductive Reasoning in Retrieval-Augmented LLMs
+title: "From Facts to Conclusions : Integrating Deductive Reasoning in Retrieval-Augmented LLMs"
 ---
 
 # From Facts to Conclusions : Integrating Deductive Reasoning in Retrieval-Augmented LLMs

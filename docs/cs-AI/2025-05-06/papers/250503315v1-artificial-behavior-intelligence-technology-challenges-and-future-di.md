@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Artificial Behavior Intelligence: Technology, Challenges, and Future Directions
+title: "Artificial Behavior Intelligence: Technology, Challenges, and Future Directions"
 ---
 
 # Artificial Behavior Intelligence: Technology, Challenges, and Future Directions

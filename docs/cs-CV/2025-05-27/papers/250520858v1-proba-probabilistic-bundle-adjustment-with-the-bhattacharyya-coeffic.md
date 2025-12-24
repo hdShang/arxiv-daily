@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ProBA: Probabilistic Bundle Adjustment with the Bhattacharyya Coefficient
+title: "ProBA: Probabilistic Bundle Adjustment with the Bhattacharyya Coefficient"
 ---
 
 # ProBA: Probabilistic Bundle Adjustment with the Bhattacharyya Coefficient

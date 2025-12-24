@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GraphShaper: Geometry-aware Alignment for Improving Transfer Learning in Text-Attributed Graphs
+title: "GraphShaper: Geometry-aware Alignment for Improving Transfer Learning in Text-Attributed Graphs"
 ---
 
 # GraphShaper: Geometry-aware Alignment for Improving Transfer Learning in Text-Attributed Graphs

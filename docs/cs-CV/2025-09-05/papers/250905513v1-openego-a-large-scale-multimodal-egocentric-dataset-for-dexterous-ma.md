@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OpenEgo: A Large-Scale Multimodal Egocentric Dataset for Dexterous Manipulation
+title: "OpenEgo: A Large-Scale Multimodal Egocentric Dataset for Dexterous Manipulation"
 ---
 
 # OpenEgo: A Large-Scale Multimodal Egocentric Dataset for Dexterous Manipulation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CKD-EHR:Clinical Knowledge Distillation for Electronic Health Records
+title: "CKD-EHR:Clinical Knowledge Distillation for Electronic Health Records"
 ---
 
 # CKD-EHR:Clinical Knowledge Distillation for Electronic Health Records

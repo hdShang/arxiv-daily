@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PixCell: A generative foundation model for digital histopathology images
+title: "PixCell: A generative foundation model for digital histopathology images"
 ---
 
 # PixCell: A generative foundation model for digital histopathology images

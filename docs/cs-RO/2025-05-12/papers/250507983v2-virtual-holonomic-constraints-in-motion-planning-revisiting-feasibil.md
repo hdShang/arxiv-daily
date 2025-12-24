@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Virtual Holonomic Constraints in Motion Planning: Revisiting Feasibility and Limitations
+title: "Virtual Holonomic Constraints in Motion Planning: Revisiting Feasibility and Limitations"
 ---
 
 # Virtual Holonomic Constraints in Motion Planning: Revisiting Feasibility and Limitations

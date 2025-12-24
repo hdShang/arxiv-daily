@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Enrich and Detect: Video Temporal Grounding with Multimodal LLMs
+title: "Enrich and Detect: Video Temporal Grounding with Multimodal LLMs"
 ---
 
 # Enrich and Detect: Video Temporal Grounding with Multimodal LLMs

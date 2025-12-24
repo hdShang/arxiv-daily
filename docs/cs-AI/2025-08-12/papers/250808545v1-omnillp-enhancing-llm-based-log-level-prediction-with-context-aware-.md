@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniLLP: Enhancing LLM-based Log Level Prediction with Context-Aware Retrieval
+title: "OmniLLP: Enhancing LLM-based Log Level Prediction with Context-Aware Retrieval"
 ---
 
 # OmniLLP: Enhancing LLM-based Log Level Prediction with Context-Aware Retrieval

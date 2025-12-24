@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ViStoryBench: Comprehensive Benchmark Suite for Story Visualization
+title: "ViStoryBench: Comprehensive Benchmark Suite for Story Visualization"
 ---
 
 # ViStoryBench: Comprehensive Benchmark Suite for Story Visualization

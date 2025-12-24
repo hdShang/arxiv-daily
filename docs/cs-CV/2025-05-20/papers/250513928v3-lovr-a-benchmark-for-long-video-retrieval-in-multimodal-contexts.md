@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LoVR: A Benchmark for Long Video Retrieval in Multimodal Contexts
+title: "LoVR: A Benchmark for Long Video Retrieval in Multimodal Contexts"
 ---
 
 # LoVR: A Benchmark for Long Video Retrieval in Multimodal Contexts

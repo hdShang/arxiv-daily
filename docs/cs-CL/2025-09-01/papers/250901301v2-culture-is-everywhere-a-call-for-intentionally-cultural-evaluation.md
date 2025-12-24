@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Culture is Everywhere: A Call for Intentionally Cultural Evaluation
+title: "Culture is Everywhere: A Call for Intentionally Cultural Evaluation"
 ---
 
 # Culture is Everywhere: A Call for Intentionally Cultural Evaluation

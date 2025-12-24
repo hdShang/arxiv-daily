@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dense Optical Tracking: Connecting the Dots
+title: "Dense Optical Tracking: Connecting the Dots"
 ---
 
 # Dense Optical Tracking: Connecting the Dots

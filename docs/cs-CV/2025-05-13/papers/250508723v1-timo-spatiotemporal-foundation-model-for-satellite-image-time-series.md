@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TiMo: Spatiotemporal Foundation Model for Satellite Image Time Series
+title: "TiMo: Spatiotemporal Foundation Model for Satellite Image Time Series"
 ---
 
 # TiMo: Spatiotemporal Foundation Model for Satellite Image Time Series

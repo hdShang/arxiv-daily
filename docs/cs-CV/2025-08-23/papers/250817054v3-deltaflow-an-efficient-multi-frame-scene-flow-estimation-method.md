@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeltaFlow: An Efficient Multi-frame Scene Flow Estimation Method
+title: "DeltaFlow: An Efficient Multi-frame Scene Flow Estimation Method"
 ---
 
 # DeltaFlow: An Efficient Multi-frame Scene Flow Estimation Method

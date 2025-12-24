@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RedDino: A foundation model for red blood cell analysis
+title: "RedDino: A foundation model for red blood cell analysis"
 ---
 
 # RedDino: A foundation model for red blood cell analysis

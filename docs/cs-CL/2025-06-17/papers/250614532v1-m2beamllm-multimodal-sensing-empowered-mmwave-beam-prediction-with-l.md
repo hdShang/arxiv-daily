@@ -1,6 +1,6 @@
 ---
 layout: default
-title: M2BeamLLM: Multimodal Sensing-empowered mmWave Beam Prediction with Large Language Models
+title: "M2BeamLLM: Multimodal Sensing-empowered mmWave Beam Prediction with Large Language Models"
 ---
 
 # M2BeamLLM: Multimodal Sensing-empowered mmWave Beam Prediction with Large Language Models

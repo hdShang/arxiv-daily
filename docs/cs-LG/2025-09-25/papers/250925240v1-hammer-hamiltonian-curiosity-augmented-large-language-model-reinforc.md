@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HAMMER: Hamiltonian Curiosity Augmented Large Language Model Reinforcement
+title: "HAMMER: Hamiltonian Curiosity Augmented Large Language Model Reinforcement"
 ---
 
 # HAMMER: Hamiltonian Curiosity Augmented Large Language Model Reinforcement

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NavMoE: Hybrid Model- and Learning-based Traversability Estimation for Local Navigation via Mixture of Experts
+title: "NavMoE: Hybrid Model- and Learning-based Traversability Estimation for Local Navigation via Mixture of Experts"
 ---
 
 # NavMoE: Hybrid Model- and Learning-based Traversability Estimation for Local Navigation via Mixture of Experts

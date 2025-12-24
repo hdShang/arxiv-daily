@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SSFO: Self-Supervised Faithfulness Optimization for Retrieval-Augmented Generation
+title: "SSFO: Self-Supervised Faithfulness Optimization for Retrieval-Augmented Generation"
 ---
 
 # SSFO: Self-Supervised Faithfulness Optimization for Retrieval-Augmented Generation

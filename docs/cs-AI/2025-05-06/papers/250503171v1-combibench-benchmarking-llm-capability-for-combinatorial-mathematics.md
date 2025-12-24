@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CombiBench: Benchmarking LLM Capability for Combinatorial Mathematics
+title: "CombiBench: Benchmarking LLM Capability for Combinatorial Mathematics"
 ---
 
 # CombiBench: Benchmarking LLM Capability for Combinatorial Mathematics

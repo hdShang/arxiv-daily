@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Music's Multimodal Complexity in AVQA: Why We Need More than General Multimodal LLMs
+title: "Music's Multimodal Complexity in AVQA: Why We Need More than General Multimodal LLMs"
 ---
 
 # Music's Multimodal Complexity in AVQA: Why We Need More than General Multimodal LLMs

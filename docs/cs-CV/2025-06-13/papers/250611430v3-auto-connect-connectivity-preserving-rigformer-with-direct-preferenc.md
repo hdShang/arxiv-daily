@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Auto-Connect: Connectivity-Preserving RigFormer with Direct Preference Optimization
+title: "Auto-Connect: Connectivity-Preserving RigFormer with Direct Preference Optimization"
 ---
 
 # Auto-Connect: Connectivity-Preserving RigFormer with Direct Preference Optimization

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hoi! -- A Multimodal Dataset for Force-Grounded, Cross-View Articulated Manipulation
+title: "Hoi! -- A Multimodal Dataset for Force-Grounded, Cross-View Articulated Manipulation"
 ---
 
 # Hoi! -- A Multimodal Dataset for Force-Grounded, Cross-View Articulated Manipulation

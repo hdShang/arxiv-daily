@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PowerGS: Display-Rendering Power Co-Optimization for Neural Rendering in Power-Constrained XR Systems
+title: "PowerGS: Display-Rendering Power Co-Optimization for Neural Rendering in Power-Constrained XR Systems"
 ---
 
 # PowerGS: Display-Rendering Power Co-Optimization for Neural Rendering in Power-Constrained XR Systems

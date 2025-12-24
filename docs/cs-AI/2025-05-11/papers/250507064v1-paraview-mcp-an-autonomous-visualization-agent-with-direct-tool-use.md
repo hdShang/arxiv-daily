@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ParaView-MCP: An Autonomous Visualization Agent with Direct Tool Use
+title: "ParaView-MCP: An Autonomous Visualization Agent with Direct Tool Use"
 ---
 
 # ParaView-MCP: An Autonomous Visualization Agent with Direct Tool Use

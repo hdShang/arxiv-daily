@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SignIT: A Comprehensive Dataset and Multimodal Analysis for Italian Sign Language Recognition
+title: "SignIT: A Comprehensive Dataset and Multimodal Analysis for Italian Sign Language Recognition"
 ---
 
 # SignIT: A Comprehensive Dataset and Multimodal Analysis for Italian Sign Language Recognition

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MATRIX: Multimodal Agent Tuning for Robust Tool-Use Reasoning
+title: "MATRIX: Multimodal Agent Tuning for Robust Tool-Use Reasoning"
 ---
 
 # MATRIX: Multimodal Agent Tuning for Robust Tool-Use Reasoning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CRISTAL: Real-time Camera Registration in Static LiDAR Scans using Neural Rendering
+title: "CRISTAL: Real-time Camera Registration in Static LiDAR Scans using Neural Rendering"
 ---
 
 # CRISTAL: Real-time Camera Registration in Static LiDAR Scans using Neural Rendering

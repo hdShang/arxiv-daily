@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StruMamba3D: Exploring Structural Mamba for Self-supervised Point Cloud Representation Learning
+title: "StruMamba3D: Exploring Structural Mamba for Self-supervised Point Cloud Representation Learning"
 ---
 
 # StruMamba3D: Exploring Structural Mamba for Self-supervised Point Cloud Representation Learning

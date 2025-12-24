@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World
+title: "WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World"
 ---
 
 # WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World

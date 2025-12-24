@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unfolding Generative Flows with Koopman Operators: Fast and Interpretable Sampling
+title: "Unfolding Generative Flows with Koopman Operators: Fast and Interpretable Sampling"
 ---
 
 # Unfolding Generative Flows with Koopman Operators: Fast and Interpretable Sampling

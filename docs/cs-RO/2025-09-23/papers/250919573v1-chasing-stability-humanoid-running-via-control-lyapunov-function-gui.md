@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chasing Stability: Humanoid Running via Control Lyapunov Function Guided Reinforcement Learning
+title: "Chasing Stability: Humanoid Running via Control Lyapunov Function Guided Reinforcement Learning"
 ---
 
 # Chasing Stability: Humanoid Running via Control Lyapunov Function Guided Reinforcement Learning

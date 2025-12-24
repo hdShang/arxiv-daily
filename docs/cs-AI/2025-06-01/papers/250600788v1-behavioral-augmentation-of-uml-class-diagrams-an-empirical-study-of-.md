@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Behavioral Augmentation of UML Class Diagrams: An Empirical Study of Large Language Models for Method Generation
+title: "Behavioral Augmentation of UML Class Diagrams: An Empirical Study of Large Language Models for Method Generation"
 ---
 
 # Behavioral Augmentation of UML Class Diagrams: An Empirical Study of Large Language Models for Method Generation

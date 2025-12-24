@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When Life Gives You Samples: The Benefits of Scaling up Inference Compute for Multilingual LLMs
+title: "When Life Gives You Samples: The Benefits of Scaling up Inference Compute for Multilingual LLMs"
 ---
 
 # When Life Gives You Samples: The Benefits of Scaling up Inference Compute for Multilingual LLMs

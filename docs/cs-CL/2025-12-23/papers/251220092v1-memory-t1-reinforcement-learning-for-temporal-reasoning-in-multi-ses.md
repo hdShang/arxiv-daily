@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Memory-T1: Reinforcement Learning for Temporal Reasoning in Multi-session Agents
+title: "Memory-T1: Reinforcement Learning for Temporal Reasoning in Multi-session Agents"
 ---
 
 # Memory-T1: Reinforcement Learning for Temporal Reasoning in Multi-session Agents

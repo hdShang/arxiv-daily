@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ISyHand: A Dexterous Multi-finger Robot Hand with an Articulated Palm
+title: "ISyHand: A Dexterous Multi-finger Robot Hand with an Articulated Palm"
 ---
 
 # ISyHand: A Dexterous Multi-finger Robot Hand with an Articulated Palm

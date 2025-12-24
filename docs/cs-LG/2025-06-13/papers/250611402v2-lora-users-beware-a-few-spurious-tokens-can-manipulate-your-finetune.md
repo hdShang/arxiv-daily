@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LoRA Users Beware: A Few Spurious Tokens Can Manipulate Your Finetuned Model
+title: "LoRA Users Beware: A Few Spurious Tokens Can Manipulate Your Finetuned Model"
 ---
 
 # LoRA Users Beware: A Few Spurious Tokens Can Manipulate Your Finetuned Model

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Domain Generalization in-the-Wild: Disentangling Classification from Domain-Aware Representations
+title: "Domain Generalization in-the-Wild: Disentangling Classification from Domain-Aware Representations"
 ---
 
 # Domain Generalization in-the-Wild: Disentangling Classification from Domain-Aware Representations

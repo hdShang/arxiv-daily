@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ECHO: Frequency-aware Hierarchical Encoding for Variable-length Signals
+title: "ECHO: Frequency-aware Hierarchical Encoding for Variable-length Signals"
 ---
 
 # ECHO: Frequency-aware Hierarchical Encoding for Variable-length Signals

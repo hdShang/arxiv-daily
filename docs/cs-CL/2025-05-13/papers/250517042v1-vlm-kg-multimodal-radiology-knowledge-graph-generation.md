@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VLM-KG: Multimodal Radiology Knowledge Graph Generation
+title: "VLM-KG: Multimodal Radiology Knowledge Graph Generation"
 ---
 
 # VLM-KG: Multimodal Radiology Knowledge Graph Generation

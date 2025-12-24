@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CORE-3D: Context-aware Open-vocabulary Retrieval by Embeddings in 3D
+title: "CORE-3D: Context-aware Open-vocabulary Retrieval by Embeddings in 3D"
 ---
 
 # CORE-3D: Context-aware Open-vocabulary Retrieval by Embeddings in 3D

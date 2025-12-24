@@ -1,6 +1,6 @@
 ---
 layout: default
-title: REMEDI: Relative Feature Enhanced Meta-Learning with Distillation for Imbalanced Prediction
+title: "REMEDI: Relative Feature Enhanced Meta-Learning with Distillation for Imbalanced Prediction"
 ---
 
 # REMEDI: Relative Feature Enhanced Meta-Learning with Distillation for Imbalanced Prediction

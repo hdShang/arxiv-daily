@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos
+title: "DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos"
 ---
 
 # DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos

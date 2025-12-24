@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ClothHMR: 3D Mesh Recovery of Humans in Diverse Clothing from Single Image
+title: "ClothHMR: 3D Mesh Recovery of Humans in Diverse Clothing from Single Image"
 ---
 
 # ClothHMR: 3D Mesh Recovery of Humans in Diverse Clothing from Single Image

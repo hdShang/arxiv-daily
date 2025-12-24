@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Evaluation methodology of Model Predictive Controllers for building's energy systems
+title: "Evaluation methodology of Model Predictive Controllers for building's energy systems"
 ---
 
 # Evaluation methodology of Model Predictive Controllers for building's energy systems

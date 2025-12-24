@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AutoBnB-RAG: Enhancing Multi-Agent Incident Response with Retrieval-Augmented Generation
+title: "AutoBnB-RAG: Enhancing Multi-Agent Incident Response with Retrieval-Augmented Generation"
 ---
 
 # AutoBnB-RAG: Enhancing Multi-Agent Incident Response with Retrieval-Augmented Generation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Constructed Response: Designing and Choreographing Robot Arm Movements in Collaborative Dance Improvisation
+title: "A Constructed Response: Designing and Choreographing Robot Arm Movements in Collaborative Dance Improvisation"
 ---
 
 # A Constructed Response: Designing and Choreographing Robot Arm Movements in Collaborative Dance Improvisation

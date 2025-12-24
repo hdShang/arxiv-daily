@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exploring the Potential of Offline RL for Reasoning in LLMs: A Preliminary Study
+title: "Exploring the Potential of Offline RL for Reasoning in LLMs: A Preliminary Study"
 ---
 
 # Exploring the Potential of Offline RL for Reasoning in LLMs: A Preliminary Study

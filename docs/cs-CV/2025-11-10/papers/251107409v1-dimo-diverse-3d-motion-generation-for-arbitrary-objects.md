@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DIMO: Diverse 3D Motion Generation for Arbitrary Objects
+title: "DIMO: Diverse 3D Motion Generation for Arbitrary Objects"
 ---
 
 # DIMO: Diverse 3D Motion Generation for Arbitrary Objects

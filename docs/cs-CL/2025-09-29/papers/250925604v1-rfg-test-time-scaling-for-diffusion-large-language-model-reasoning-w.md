@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RFG: Test-Time Scaling for Diffusion Large Language Model Reasoning with Reward-Free Guidance
+title: "RFG: Test-Time Scaling for Diffusion Large Language Model Reasoning with Reward-Free Guidance"
 ---
 
 # RFG: Test-Time Scaling for Diffusion Large Language Model Reasoning with Reward-Free Guidance

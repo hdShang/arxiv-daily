@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FSGlove: An Inertial-Based Hand Tracking System with Shape-Aware Calibration
+title: "FSGlove: An Inertial-Based Hand Tracking System with Shape-Aware Calibration"
 ---
 
 # FSGlove: An Inertial-Based Hand Tracking System with Shape-Aware Calibration

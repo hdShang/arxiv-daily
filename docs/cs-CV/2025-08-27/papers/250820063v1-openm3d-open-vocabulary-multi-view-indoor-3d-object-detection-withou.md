@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OpenM3D: Open Vocabulary Multi-view Indoor 3D Object Detection without Human Annotations
+title: "OpenM3D: Open Vocabulary Multi-view Indoor 3D Object Detection without Human Annotations"
 ---
 
 # OpenM3D: Open Vocabulary Multi-view Indoor 3D Object Detection without Human Annotations

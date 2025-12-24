@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prospect Theory Fails for LLMs: Revealing Instability of Decision-Making under Epistemic Uncertainty
+title: "Prospect Theory Fails for LLMs: Revealing Instability of Decision-Making under Epistemic Uncertainty"
 ---
 
 # Prospect Theory Fails for LLMs: Revealing Instability of Decision-Making under Epistemic Uncertainty

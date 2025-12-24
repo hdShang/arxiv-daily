@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RealDPO: Real or Not Real, that is the Preference
+title: "RealDPO: Real or Not Real, that is the Preference"
 ---
 
 # RealDPO: Real or Not Real, that is the Preference

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InternScenes: A Large-scale Simulatable Indoor Scene Dataset with Realistic Layouts
+title: "InternScenes: A Large-scale Simulatable Indoor Scene Dataset with Realistic Layouts"
 ---
 
 # InternScenes: A Large-scale Simulatable Indoor Scene Dataset with Realistic Layouts

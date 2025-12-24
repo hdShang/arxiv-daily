@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PriOr-Flow: Enhancing Primitive Panoramic Optical Flow with Orthogonal View
+title: "PriOr-Flow: Enhancing Primitive Panoramic Optical Flow with Orthogonal View"
 ---
 
 # PriOr-Flow: Enhancing Primitive Panoramic Optical Flow with Orthogonal View

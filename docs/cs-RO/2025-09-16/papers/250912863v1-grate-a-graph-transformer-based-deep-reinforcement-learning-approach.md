@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GRATE: a Graph transformer-based deep Reinforcement learning Approach for Time-efficient autonomous robot Exploration
+title: "GRATE: a Graph transformer-based deep Reinforcement learning Approach for Time-efficient autonomous robot Exploration"
 ---
 
 # GRATE: a Graph transformer-based deep Reinforcement learning Approach for Time-efficient autonomous robot Exploration

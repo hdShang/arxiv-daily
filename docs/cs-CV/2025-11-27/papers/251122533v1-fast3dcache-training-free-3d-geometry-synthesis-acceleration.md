@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fast3Dcache: Training-free 3D Geometry Synthesis Acceleration
+title: "Fast3Dcache: Training-free 3D Geometry Synthesis Acceleration"
 ---
 
 # Fast3Dcache: Training-free 3D Geometry Synthesis Acceleration

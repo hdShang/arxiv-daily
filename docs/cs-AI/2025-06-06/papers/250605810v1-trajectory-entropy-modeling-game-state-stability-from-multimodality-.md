@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trajectory Entropy: Modeling Game State Stability from Multimodality Trajectory Prediction
+title: "Trajectory Entropy: Modeling Game State Stability from Multimodality Trajectory Prediction"
 ---
 
 # Trajectory Entropy: Modeling Game State Stability from Multimodality Trajectory Prediction

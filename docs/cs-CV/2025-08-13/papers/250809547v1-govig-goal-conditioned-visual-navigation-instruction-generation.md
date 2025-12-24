@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GoViG: Goal-Conditioned Visual Navigation Instruction Generation
+title: "GoViG: Goal-Conditioned Visual Navigation Instruction Generation"
 ---
 
 # GoViG: Goal-Conditioned Visual Navigation Instruction Generation

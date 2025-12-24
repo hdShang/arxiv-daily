@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Internal Representations to Text Quality: A Geometric Approach to LLM Evaluation
+title: "From Internal Representations to Text Quality: A Geometric Approach to LLM Evaluation"
 ---
 
 # From Internal Representations to Text Quality: A Geometric Approach to LLM Evaluation

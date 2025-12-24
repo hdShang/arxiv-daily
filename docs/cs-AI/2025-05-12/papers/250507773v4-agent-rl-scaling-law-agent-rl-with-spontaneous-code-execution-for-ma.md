@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving
+title: "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
 ---
 
 # Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving

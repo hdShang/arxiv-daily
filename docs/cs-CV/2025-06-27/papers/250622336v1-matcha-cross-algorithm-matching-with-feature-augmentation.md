@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MatChA: Cross-Algorithm Matching with Feature Augmentation
+title: "MatChA: Cross-Algorithm Matching with Feature Augmentation"
 ---
 
 # MatChA: Cross-Algorithm Matching with Feature Augmentation

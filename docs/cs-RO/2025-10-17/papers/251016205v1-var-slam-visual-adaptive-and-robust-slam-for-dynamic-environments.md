@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VAR-SLAM: Visual Adaptive and Robust SLAM for Dynamic Environments
+title: "VAR-SLAM: Visual Adaptive and Robust SLAM for Dynamic Environments"
 ---
 
 # VAR-SLAM: Visual Adaptive and Robust SLAM for Dynamic Environments

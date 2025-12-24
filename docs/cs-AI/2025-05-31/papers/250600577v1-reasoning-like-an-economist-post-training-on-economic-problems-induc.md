@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reasoning Like an Economist: Post-Training on Economic Problems Induces Strategic Generalization in LLMs
+title: "Reasoning Like an Economist: Post-Training on Economic Problems Induces Strategic Generalization in LLMs"
 ---
 
 # Reasoning Like an Economist: Post-Training on Economic Problems Induces Strategic Generalization in LLMs

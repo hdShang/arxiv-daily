@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Toward Better EHR Reasoning in LLMs: Reinforcement Learning with Expert Attention Guidance
+title: "Toward Better EHR Reasoning in LLMs: Reinforcement Learning with Expert Attention Guidance"
 ---
 
 # Toward Better EHR Reasoning in LLMs: Reinforcement Learning with Expert Attention Guidance

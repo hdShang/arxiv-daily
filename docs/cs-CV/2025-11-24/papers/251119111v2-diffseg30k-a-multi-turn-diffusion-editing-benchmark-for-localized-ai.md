@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DiffSeg30k: A Multi-Turn Diffusion Editing Benchmark for Localized AIGC Detection
+title: "DiffSeg30k: A Multi-Turn Diffusion Editing Benchmark for Localized AIGC Detection"
 ---
 
 # DiffSeg30k: A Multi-Turn Diffusion Editing Benchmark for Localized AIGC Detection

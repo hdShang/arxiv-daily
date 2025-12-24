@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BulletGen: Improving 4D Reconstruction with Bullet-Time Generation
+title: "BulletGen: Improving 4D Reconstruction with Bullet-Time Generation"
 ---
 
 # BulletGen: Improving 4D Reconstruction with Bullet-Time Generation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PuzzleWorld: A Benchmark for Multimodal, Open-Ended Reasoning in Puzzlehunts
+title: "PuzzleWorld: A Benchmark for Multimodal, Open-Ended Reasoning in Puzzlehunts"
 ---
 
 # PuzzleWorld: A Benchmark for Multimodal, Open-Ended Reasoning in Puzzlehunts

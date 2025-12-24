@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Demystifying Transition Matching: When and Why It Can Beat Flow Matching
+title: "Demystifying Transition Matching: When and Why It Can Beat Flow Matching"
 ---
 
 # Demystifying Transition Matching: When and Why It Can Beat Flow Matching

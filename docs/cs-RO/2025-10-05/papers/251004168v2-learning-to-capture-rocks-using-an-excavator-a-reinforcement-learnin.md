@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning to Capture Rocks using an Excavator: A Reinforcement Learning Approach with Guiding Reward Formulation
+title: "Learning to Capture Rocks using an Excavator: A Reinforcement Learning Approach with Guiding Reward Formulation"
 ---
 
 # Learning to Capture Rocks using an Excavator: A Reinforcement Learning Approach with Guiding Reward Formulation

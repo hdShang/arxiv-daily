@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReIDMamba: Learning Discriminative Features with Visual State Space Model for Person Re-Identification
+title: "ReIDMamba: Learning Discriminative Features with Visual State Space Model for Person Re-Identification"
 ---
 
 # ReIDMamba: Learning Discriminative Features with Visual State Space Model for Person Re-Identification

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MergeMix: A Unified Augmentation Paradigm for Visual and Multi-Modal Understanding
+title: "MergeMix: A Unified Augmentation Paradigm for Visual and Multi-Modal Understanding"
 ---
 
 # MergeMix: A Unified Augmentation Paradigm for Visual and Multi-Modal Understanding

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CodeMixBench: Evaluating Large Language Models on Code Generation with Code-Mixed Prompts
+title: "CodeMixBench: Evaluating Large Language Models on Code Generation with Code-Mixed Prompts"
 ---
 
 # CodeMixBench: Evaluating Large Language Models on Code Generation with Code-Mixed Prompts

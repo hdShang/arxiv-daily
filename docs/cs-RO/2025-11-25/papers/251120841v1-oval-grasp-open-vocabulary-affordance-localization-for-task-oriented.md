@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OVAL-Grasp: Open-Vocabulary Affordance Localization for Task Oriented Grasping
+title: "OVAL-Grasp: Open-Vocabulary Affordance Localization for Task Oriented Grasping"
 ---
 
 # OVAL-Grasp: Open-Vocabulary Affordance Localization for Task Oriented Grasping

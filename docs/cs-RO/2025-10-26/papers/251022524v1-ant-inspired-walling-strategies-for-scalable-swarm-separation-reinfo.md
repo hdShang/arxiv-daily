@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ant-inspired Walling Strategies for Scalable Swarm Separation: Reinforcement Learning Approaches Based on Finite State Machines
+title: "Ant-inspired Walling Strategies for Scalable Swarm Separation: Reinforcement Learning Approaches Based on Finite State Machines"
 ---
 
 # Ant-inspired Walling Strategies for Scalable Swarm Separation: Reinforcement Learning Approaches Based on Finite State Machines

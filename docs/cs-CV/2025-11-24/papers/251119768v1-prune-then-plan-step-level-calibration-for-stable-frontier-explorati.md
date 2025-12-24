@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prune-Then-Plan: Step-Level Calibration for Stable Frontier Exploration in Embodied Question Answering
+title: "Prune-Then-Plan: Step-Level Calibration for Stable Frontier Exploration in Embodied Question Answering"
 ---
 
 # Prune-Then-Plan: Step-Level Calibration for Stable Frontier Exploration in Embodied Question Answering

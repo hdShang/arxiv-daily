@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fake-in-Facext: Towards Fine-Grained Explainable DeepFake Analysis
+title: "Fake-in-Facext: Towards Fine-Grained Explainable DeepFake Analysis"
 ---
 
 # Fake-in-Facext: Towards Fine-Grained Explainable DeepFake Analysis

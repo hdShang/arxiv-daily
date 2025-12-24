@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HuBE: Cross-Embodiment Human-like Behavior Execution for Humanoid Robots
+title: "HuBE: Cross-Embodiment Human-like Behavior Execution for Humanoid Robots"
 ---
 
 # HuBE: Cross-Embodiment Human-like Behavior Execution for Humanoid Robots

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond the Battlefield: Framing Analysis of Media Coverage in Conflict Reporting
+title: "Beyond the Battlefield: Framing Analysis of Media Coverage in Conflict Reporting"
 ---
 
 # Beyond the Battlefield: Framing Analysis of Media Coverage in Conflict Reporting

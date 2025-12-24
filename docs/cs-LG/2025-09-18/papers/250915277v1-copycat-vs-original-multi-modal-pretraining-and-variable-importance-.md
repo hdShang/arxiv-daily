@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Copycat vs. Original: Multi-modal Pretraining and Variable Importance in Box-office Prediction
+title: "Copycat vs. Original: Multi-modal Pretraining and Variable Importance in Box-office Prediction"
 ---
 
 # Copycat vs. Original: Multi-modal Pretraining and Variable Importance in Box-office Prediction

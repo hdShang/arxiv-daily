@@ -1,6 +1,6 @@
 ---
 layout: default
-title: YuLan-OneSim: Towards the Next Generation of Social Simulator with Large Language Models
+title: "YuLan-OneSim: Towards the Next Generation of Social Simulator with Large Language Models"
 ---
 
 # YuLan-OneSim: Towards the Next Generation of Social Simulator with Large Language Models

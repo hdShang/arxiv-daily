@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ViscoReg: Neural Signed Distance Functions via Viscosity Solutions
+title: "ViscoReg: Neural Signed Distance Functions via Viscosity Solutions"
 ---
 
 # ViscoReg: Neural Signed Distance Functions via Viscosity Solutions

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid Vision Tokenizer
+title: "MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid Vision Tokenizer"
 ---
 
 # MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid Vision Tokenizer

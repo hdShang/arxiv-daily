@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4DGS-Craft: Consistent and Interactive 4D Gaussian Splatting Editing
+title: "4DGS-Craft: Consistent and Interactive 4D Gaussian Splatting Editing"
 ---
 
 # 4DGS-Craft: Consistent and Interactive 4D Gaussian Splatting Editing

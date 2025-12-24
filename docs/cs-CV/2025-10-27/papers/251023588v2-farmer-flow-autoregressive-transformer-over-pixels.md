@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FARMER: Flow AutoRegressive Transformer over Pixels
+title: "FARMER: Flow AutoRegressive Transformer over Pixels"
 ---
 
 # FARMER: Flow AutoRegressive Transformer over Pixels

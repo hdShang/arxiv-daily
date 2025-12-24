@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MedHELM: Holistic Evaluation of Large Language Models for Medical Tasks
+title: "MedHELM: Holistic Evaluation of Large Language Models for Medical Tasks"
 ---
 
 # MedHELM: Holistic Evaluation of Large Language Models for Medical Tasks

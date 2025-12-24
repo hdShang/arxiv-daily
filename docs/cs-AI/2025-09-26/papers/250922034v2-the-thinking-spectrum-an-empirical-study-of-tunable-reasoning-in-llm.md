@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Thinking Spectrum: An Empirical Study of Tunable Reasoning in LLMs through Model Merging
+title: "The Thinking Spectrum: An Empirical Study of Tunable Reasoning in LLMs through Model Merging"
 ---
 
 # The Thinking Spectrum: An Empirical Study of Tunable Reasoning in LLMs through Model Merging

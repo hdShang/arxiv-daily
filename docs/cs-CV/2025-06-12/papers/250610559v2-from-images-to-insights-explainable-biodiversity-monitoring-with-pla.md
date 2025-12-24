@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Images to Insights: Explainable Biodiversity Monitoring with Plain Language Habitat Explanations
+title: "From Images to Insights: Explainable Biodiversity Monitoring with Plain Language Habitat Explanations"
 ---
 
 # From Images to Insights: Explainable Biodiversity Monitoring with Plain Language Habitat Explanations

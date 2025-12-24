@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Two Causes, Not One: Rethinking Omission and Fabrication Hallucinations in MLLMs
+title: "Two Causes, Not One: Rethinking Omission and Fabrication Hallucinations in MLLMs"
 ---
 
 # Two Causes, Not One: Rethinking Omission and Fabrication Hallucinations in MLLMs

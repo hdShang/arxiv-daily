@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking
+title: "Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking"
 ---
 
 # Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking

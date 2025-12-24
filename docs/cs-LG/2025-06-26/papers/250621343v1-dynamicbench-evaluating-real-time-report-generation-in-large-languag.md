@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DynamicBench: Evaluating Real-Time Report Generation in Large Language Models
+title: "DynamicBench: Evaluating Real-Time Report Generation in Large Language Models"
 ---
 
 # DynamicBench: Evaluating Real-Time Report Generation in Large Language Models

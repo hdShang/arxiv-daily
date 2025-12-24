@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Immersive Human-X Interaction: A Real-Time Framework for Physically Plausible Motion Synthesis
+title: "Towards Immersive Human-X Interaction: A Real-Time Framework for Physically Plausible Motion Synthesis"
 ---
 
 # Towards Immersive Human-X Interaction: A Real-Time Framework for Physically Plausible Motion Synthesis

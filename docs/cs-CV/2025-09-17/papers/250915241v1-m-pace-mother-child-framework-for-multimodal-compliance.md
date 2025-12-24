@@ -1,6 +1,6 @@
 ---
 layout: default
-title: M-PACE: Mother Child Framework for Multimodal Compliance
+title: "M-PACE: Mother Child Framework for Multimodal Compliance"
 ---
 
 # M-PACE: Mother Child Framework for Multimodal Compliance

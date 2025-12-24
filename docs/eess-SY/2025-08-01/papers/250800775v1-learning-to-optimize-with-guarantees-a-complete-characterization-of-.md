@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning to optimize with guarantees: a complete characterization of linearly convergent algorithms
+title: "Learning to optimize with guarantees: a complete characterization of linearly convergent algorithms"
 ---
 
 # Learning to optimize with guarantees: a complete characterization of linearly convergent algorithms

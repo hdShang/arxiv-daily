@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MaterialRefGS: Reflective Gaussian Splatting with Multi-view Consistent Material Inference
+title: "MaterialRefGS: Reflective Gaussian Splatting with Multi-view Consistent Material Inference"
 ---
 
 # MaterialRefGS: Reflective Gaussian Splatting with Multi-view Consistent Material Inference

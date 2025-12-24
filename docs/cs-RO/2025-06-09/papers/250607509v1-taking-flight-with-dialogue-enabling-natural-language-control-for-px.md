@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Taking Flight with Dialogue: Enabling Natural Language Control for PX4-based Drone Agent
+title: "Taking Flight with Dialogue: Enabling Natural Language Control for PX4-based Drone Agent"
 ---
 
 # Taking Flight with Dialogue: Enabling Natural Language Control for PX4-based Drone Agent

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM-MCoX: Large Language Model-based Multi-robot Coordinated Exploration and Search
+title: "LLM-MCoX: Large Language Model-based Multi-robot Coordinated Exploration and Search"
 ---
 
 # LLM-MCoX: Large Language Model-based Multi-robot Coordinated Exploration and Search

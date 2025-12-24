@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AlphaDecay: Module-wise Weight Decay for Heavy-Tailed Balancing in LLMs
+title: "AlphaDecay: Module-wise Weight Decay for Heavy-Tailed Balancing in LLMs"
 ---
 
 # AlphaDecay: Module-wise Weight Decay for Heavy-Tailed Balancing in LLMs

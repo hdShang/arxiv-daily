@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Room Envelopes: A Synthetic Dataset for Indoor Layout Reconstruction from Images
+title: "Room Envelopes: A Synthetic Dataset for Indoor Layout Reconstruction from Images"
 ---
 
 # Room Envelopes: A Synthetic Dataset for Indoor Layout Reconstruction from Images

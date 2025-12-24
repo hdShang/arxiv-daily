@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JOGS: Joint Optimization of Pose Estimation and 3D Gaussian Splatting
+title: "JOGS: Joint Optimization of Pose Estimation and 3D Gaussian Splatting"
 ---
 
 # JOGS: Joint Optimization of Pose Estimation and 3D Gaussian Splatting

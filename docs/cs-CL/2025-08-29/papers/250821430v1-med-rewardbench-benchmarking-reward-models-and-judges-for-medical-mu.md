@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Med-RewardBench: Benchmarking Reward Models and Judges for Medical Multimodal Large Language Models
+title: "Med-RewardBench: Benchmarking Reward Models and Judges for Medical Multimodal Large Language Models"
 ---
 
 # Med-RewardBench: Benchmarking Reward Models and Judges for Medical Multimodal Large Language Models

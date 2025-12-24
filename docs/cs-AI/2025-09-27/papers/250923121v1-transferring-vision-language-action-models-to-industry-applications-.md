@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Transferring Vision-Language-Action Models to Industry Applications: Architectures, Performance, and Challenges
+title: "Transferring Vision-Language-Action Models to Industry Applications: Architectures, Performance, and Challenges"
 ---
 
 # Transferring Vision-Language-Action Models to Industry Applications: Architectures, Performance, and Challenges

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Motion is the Choreographer: Learning Latent Pose Dynamics for Seamless Sign Language Generation
+title: "Motion is the Choreographer: Learning Latent Pose Dynamics for Seamless Sign Language Generation"
 ---
 
 # Motion is the Choreographer: Learning Latent Pose Dynamics for Seamless Sign Language Generation

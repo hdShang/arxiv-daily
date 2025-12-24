@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GENIE-ASI: Generative Instruction and Executable Code for Analog Subcircuit Identification
+title: "GENIE-ASI: Generative Instruction and Executable Code for Analog Subcircuit Identification"
 ---
 
 # GENIE-ASI: Generative Instruction and Executable Code for Analog Subcircuit Identification

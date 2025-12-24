@@ -1,6 +1,6 @@
 ---
 layout: default
-title: pacSTL: PAC-Bounded Signal Temporal Logic from Data-Driven Reachability Analysis
+title: "pacSTL: PAC-Bounded Signal Temporal Logic from Data-Driven Reachability Analysis"
 ---
 
 # pacSTL: PAC-Bounded Signal Temporal Logic from Data-Driven Reachability Analysis

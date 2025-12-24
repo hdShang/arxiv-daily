@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ResearchPulse: Building Method-Experiment Chains through Multi-Document Scientific Inference
+title: "ResearchPulse: Building Method-Experiment Chains through Multi-Document Scientific Inference"
 ---
 
 # ResearchPulse: Building Method-Experiment Chains through Multi-Document Scientific Inference

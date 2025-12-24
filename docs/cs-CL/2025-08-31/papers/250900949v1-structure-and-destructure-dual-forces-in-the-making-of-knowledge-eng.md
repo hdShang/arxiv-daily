@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Structure and Destructure: Dual Forces in the Making of Knowledge Engines
+title: "Structure and Destructure: Dual Forces in the Making of Knowledge Engines"
 ---
 
 # Structure and Destructure: Dual Forces in the Making of Knowledge Engines

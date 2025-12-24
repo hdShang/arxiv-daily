@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GHAR: GeoPose-based Handheld Augmented Reality for Architectural Positioning, Manipulation and Visual Exploration
+title: "GHAR: GeoPose-based Handheld Augmented Reality for Architectural Positioning, Manipulation and Visual Exploration"
 ---
 
 # GHAR: GeoPose-based Handheld Augmented Reality for Architectural Positioning, Manipulation and Visual Exploration

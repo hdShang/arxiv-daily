@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AMANDA: Agentic Medical Knowledge Augmentation for Data-Efficient Medical Visual Question Answering
+title: "AMANDA: Agentic Medical Knowledge Augmentation for Data-Efficient Medical Visual Question Answering"
 ---
 
 # AMANDA: Agentic Medical Knowledge Augmentation for Data-Efficient Medical Visual Question Answering

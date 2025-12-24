@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Generalization of CLAP from 3D Localization to Image Processing, A Connection With RANSAC & Hough Transforms
+title: "A Generalization of CLAP from 3D Localization to Image Processing, A Connection With RANSAC & Hough Transforms"
 ---
 
 # A Generalization of CLAP from 3D Localization to Image Processing, A Connection With RANSAC & Hough Transforms

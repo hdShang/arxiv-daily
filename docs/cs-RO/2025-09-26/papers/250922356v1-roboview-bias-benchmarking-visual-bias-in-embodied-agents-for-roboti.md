@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboView-Bias: Benchmarking Visual Bias in Embodied Agents for Robotic Manipulation
+title: "RoboView-Bias: Benchmarking Visual Bias in Embodied Agents for Robotic Manipulation"
 ---
 
 # RoboView-Bias: Benchmarking Visual Bias in Embodied Agents for Robotic Manipulation

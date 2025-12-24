@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BTW: A Non-Parametric Variance Stabilization Framework for Multimodal Model Integration
+title: "BTW: A Non-Parametric Variance Stabilization Framework for Multimodal Model Integration"
 ---
 
 # BTW: A Non-Parametric Variance Stabilization Framework for Multimodal Model Integration

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MAFNet:Multi-frequency Adaptive Fusion Network for Real-time Stereo Matching
+title: "MAFNet:Multi-frequency Adaptive Fusion Network for Real-time Stereo Matching"
 ---
 
 # MAFNet:Multi-frequency Adaptive Fusion Network for Real-time Stereo Matching

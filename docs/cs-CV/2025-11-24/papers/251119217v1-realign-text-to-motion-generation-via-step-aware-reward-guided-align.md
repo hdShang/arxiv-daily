@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReAlign: Text-to-Motion Generation via Step-Aware Reward-Guided Alignment
+title: "ReAlign: Text-to-Motion Generation via Step-Aware Reward-Guided Alignment"
 ---
 
 # ReAlign: Text-to-Motion Generation via Step-Aware Reward-Guided Alignment

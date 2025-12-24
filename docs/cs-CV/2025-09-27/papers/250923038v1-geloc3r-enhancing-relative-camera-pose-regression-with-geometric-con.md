@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GeLoc3r: Enhancing Relative Camera Pose Regression with Geometric Consistency Regularization
+title: "GeLoc3r: Enhancing Relative Camera Pose Regression with Geometric Consistency Regularization"
 ---
 
 # GeLoc3r: Enhancing Relative Camera Pose Regression with Geometric Consistency Regularization

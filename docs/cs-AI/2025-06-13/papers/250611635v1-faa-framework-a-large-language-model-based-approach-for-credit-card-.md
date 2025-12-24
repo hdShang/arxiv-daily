@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FAA Framework: A Large Language Model-Based Approach for Credit Card Fraud Investigations
+title: "FAA Framework: A Large Language Model-Based Approach for Credit Card Fraud Investigations"
 ---
 
 # FAA Framework: A Large Language Model-Based Approach for Credit Card Fraud Investigations

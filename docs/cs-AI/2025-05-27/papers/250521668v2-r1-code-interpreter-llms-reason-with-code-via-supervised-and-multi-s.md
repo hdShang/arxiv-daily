@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R1-Code-Interpreter: LLMs Reason with Code via Supervised and Multi-stage Reinforcement Learning
+title: "R1-Code-Interpreter: LLMs Reason with Code via Supervised and Multi-stage Reinforcement Learning"
 ---
 
 # R1-Code-Interpreter: LLMs Reason with Code via Supervised and Multi-stage Reinforcement Learning

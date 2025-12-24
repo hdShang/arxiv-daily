@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bias in Gender Bias Benchmarks: How Spurious Features Distort Evaluation
+title: "Bias in Gender Bias Benchmarks: How Spurious Features Distort Evaluation"
 ---
 
 # Bias in Gender Bias Benchmarks: How Spurious Features Distort Evaluation

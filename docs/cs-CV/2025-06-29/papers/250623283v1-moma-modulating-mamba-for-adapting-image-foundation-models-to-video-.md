@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoMa: Modulating Mamba for Adapting Image Foundation Models to Video Recognition
+title: "MoMa: Modulating Mamba for Adapting Image Foundation Models to Video Recognition"
 ---
 
 # MoMa: Modulating Mamba for Adapting Image Foundation Models to Video Recognition

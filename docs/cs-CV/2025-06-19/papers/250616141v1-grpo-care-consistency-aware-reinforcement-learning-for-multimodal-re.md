@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal Reasoning
+title: "GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal Reasoning"
 ---
 
 # GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal Reasoning

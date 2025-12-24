@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COSPADI: Compressing LLMs via Calibration-Guided Sparse Dictionary Learning
+title: "COSPADI: Compressing LLMs via Calibration-Guided Sparse Dictionary Learning"
 ---
 
 # COSPADI: Compressing LLMs via Calibration-Guided Sparse Dictionary Learning

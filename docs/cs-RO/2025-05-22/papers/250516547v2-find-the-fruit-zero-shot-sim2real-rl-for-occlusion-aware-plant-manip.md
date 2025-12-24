@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Find the Fruit: Zero-Shot Sim2Real RL for Occlusion-Aware Plant Manipulation
+title: "Find the Fruit: Zero-Shot Sim2Real RL for Occlusion-Aware Plant Manipulation"
 ---
 
 # Find the Fruit: Zero-Shot Sim2Real RL for Occlusion-Aware Plant Manipulation

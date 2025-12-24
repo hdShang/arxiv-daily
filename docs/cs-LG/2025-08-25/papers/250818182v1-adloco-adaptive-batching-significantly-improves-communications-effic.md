@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AdLoCo: adaptive batching significantly improves communications efficiency and convergence for Large Language Models
+title: "AdLoCo: adaptive batching significantly improves communications efficiency and convergence for Large Language Models"
 ---
 
 # AdLoCo: adaptive batching significantly improves communications efficiency and convergence for Large Language Models

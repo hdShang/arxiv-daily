@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoRE: Mixture of Residual Experts for Humanoid Lifelike Gaits Learning on Complex Terrains
+title: "MoRE: Mixture of Residual Experts for Humanoid Lifelike Gaits Learning on Complex Terrains"
 ---
 
 # MoRE: Mixture of Residual Experts for Humanoid Lifelike Gaits Learning on Complex Terrains

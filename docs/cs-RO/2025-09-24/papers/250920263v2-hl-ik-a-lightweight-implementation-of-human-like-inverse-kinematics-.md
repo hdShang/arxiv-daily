@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HL-IK: A Lightweight Implementation of Human-Like Inverse Kinematics in Humanoid Arms
+title: "HL-IK: A Lightweight Implementation of Human-Like Inverse Kinematics in Humanoid Arms"
 ---
 
 # HL-IK: A Lightweight Implementation of Human-Like Inverse Kinematics in Humanoid Arms

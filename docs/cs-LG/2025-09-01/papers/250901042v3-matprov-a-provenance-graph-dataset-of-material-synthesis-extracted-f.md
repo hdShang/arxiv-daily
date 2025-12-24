@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MatPROV: A Provenance Graph Dataset of Material Synthesis Extracted from Scientific Literature
+title: "MatPROV: A Provenance Graph Dataset of Material Synthesis Extracted from Scientific Literature"
 ---
 
 # MatPROV: A Provenance Graph Dataset of Material Synthesis Extracted from Scientific Literature

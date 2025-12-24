@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unlearning vs. Obfuscation: Are We Truly Removing Knowledge?
+title: "Unlearning vs. Obfuscation: Are We Truly Removing Knowledge?"
 ---
 
 # Unlearning vs. Obfuscation: Are We Truly Removing Knowledge?

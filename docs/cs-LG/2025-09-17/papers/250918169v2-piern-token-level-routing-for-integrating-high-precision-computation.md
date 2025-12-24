@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PiERN: Token-Level Routing for Integrating High-Precision Computation and Reasoning
+title: "PiERN: Token-Level Routing for Integrating High-Precision Computation and Reasoning"
 ---
 
 # PiERN: Token-Level Routing for Integrating High-Precision Computation and Reasoning

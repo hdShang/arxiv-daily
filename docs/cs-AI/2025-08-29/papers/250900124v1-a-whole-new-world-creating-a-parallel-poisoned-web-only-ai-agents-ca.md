@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Whole New World: Creating a Parallel-Poisoned Web Only AI-Agents Can See
+title: "A Whole New World: Creating a Parallel-Poisoned Web Only AI-Agents Can See"
 ---
 
 # A Whole New World: Creating a Parallel-Poisoned Web Only AI-Agents Can See

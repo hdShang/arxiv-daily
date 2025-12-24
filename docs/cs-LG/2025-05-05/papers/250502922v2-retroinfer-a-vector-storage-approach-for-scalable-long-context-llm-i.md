@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM Inference
+title: "RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM Inference"
 ---
 
 # RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM Inference

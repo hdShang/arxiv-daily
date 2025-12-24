@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ETS: Open Vocabulary Electroencephalography-To-Text Decoding and Sentiment Classification
+title: "ETS: Open Vocabulary Electroencephalography-To-Text Decoding and Sentiment Classification"
 ---
 
 # ETS: Open Vocabulary Electroencephalography-To-Text Decoding and Sentiment Classification

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MME-Reasoning: A Comprehensive Benchmark for Logical Reasoning in MLLMs
+title: "MME-Reasoning: A Comprehensive Benchmark for Logical Reasoning in MLLMs"
 ---
 
 # MME-Reasoning: A Comprehensive Benchmark for Logical Reasoning in MLLMs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Democracy-in-Silico: Institutional Design as Alignment in AI-Governed Polities
+title: "Democracy-in-Silico: Institutional Design as Alignment in AI-Governed Polities"
 ---
 
 # Democracy-in-Silico: Institutional Design as Alignment in AI-Governed Polities

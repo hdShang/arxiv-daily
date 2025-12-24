@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VF-Eval: Evaluating Multimodal LLMs for Generating Feedback on AIGC Videos
+title: "VF-Eval: Evaluating Multimodal LLMs for Generating Feedback on AIGC Videos"
 ---
 
 # VF-Eval: Evaluating Multimodal LLMs for Generating Feedback on AIGC Videos

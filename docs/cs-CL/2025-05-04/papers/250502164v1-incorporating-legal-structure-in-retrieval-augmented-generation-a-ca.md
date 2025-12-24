@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Incorporating Legal Structure in Retrieval-Augmented Generation: A Case Study on Copyright Fair Use
+title: "Incorporating Legal Structure in Retrieval-Augmented Generation: A Case Study on Copyright Fair Use"
 ---
 
 # Incorporating Legal Structure in Retrieval-Augmented Generation: A Case Study on Copyright Fair Use

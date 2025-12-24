@@ -1,6 +1,6 @@
 ---
 layout: default
-title: YOLOv11-RGBT: Towards a Comprehensive Single-Stage Multispectral Object Detection Framework
+title: "YOLOv11-RGBT: Towards a Comprehensive Single-Stage Multispectral Object Detection Framework"
 ---
 
 # YOLOv11-RGBT: Towards a Comprehensive Single-Stage Multispectral Object Detection Framework

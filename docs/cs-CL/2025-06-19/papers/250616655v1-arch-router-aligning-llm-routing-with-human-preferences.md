@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Arch-Router: Aligning LLM Routing with Human Preferences
+title: "Arch-Router: Aligning LLM Routing with Human Preferences"
 ---
 
 # Arch-Router: Aligning LLM Routing with Human Preferences

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SenseFlow: Scaling Distribution Matching for Flow-based Text-to-Image Distillation
+title: "SenseFlow: Scaling Distribution Matching for Flow-based Text-to-Image Distillation"
 ---
 
 # SenseFlow: Scaling Distribution Matching for Flow-based Text-to-Image Distillation

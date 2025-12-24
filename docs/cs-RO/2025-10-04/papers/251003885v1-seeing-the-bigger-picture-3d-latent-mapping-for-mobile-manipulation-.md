@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seeing the Bigger Picture: 3D Latent Mapping for Mobile Manipulation Policy Learning
+title: "Seeing the Bigger Picture: 3D Latent Mapping for Mobile Manipulation Policy Learning"
 ---
 
 # Seeing the Bigger Picture: 3D Latent Mapping for Mobile Manipulation Policy Learning

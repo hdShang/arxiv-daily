@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Radio: Rate-Distortion Optimization for Large Language Model Compression
+title: "Radio: Rate-Distortion Optimization for Large Language Model Compression"
 ---
 
 # Radio: Rate-Distortion Optimization for Large Language Model Compression

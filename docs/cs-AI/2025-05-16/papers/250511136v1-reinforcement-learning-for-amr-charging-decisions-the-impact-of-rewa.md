@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reinforcement Learning for AMR Charging Decisions: The Impact of Reward and Action Space Design
+title: "Reinforcement Learning for AMR Charging Decisions: The Impact of Reward and Action Space Design"
 ---
 
 # Reinforcement Learning for AMR Charging Decisions: The Impact of Reward and Action Space Design

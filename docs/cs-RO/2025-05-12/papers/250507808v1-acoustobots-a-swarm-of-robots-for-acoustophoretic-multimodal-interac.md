@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AcoustoBots: A swarm of robots for acoustophoretic multimodal interactions
+title: "AcoustoBots: A swarm of robots for acoustophoretic multimodal interactions"
 ---
 
 # AcoustoBots: A swarm of robots for acoustophoretic multimodal interactions

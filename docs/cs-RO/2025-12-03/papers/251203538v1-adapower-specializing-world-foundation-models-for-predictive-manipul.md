@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AdaPower: Specializing World Foundation Models for Predictive Manipulation
+title: "AdaPower: Specializing World Foundation Models for Predictive Manipulation"
 ---
 
 # AdaPower: Specializing World Foundation Models for Predictive Manipulation

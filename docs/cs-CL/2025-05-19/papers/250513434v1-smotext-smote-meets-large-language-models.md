@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SMOTExT: SMOTE meets Large Language Models
+title: "SMOTExT: SMOTE meets Large Language Models"
 ---
 
 # SMOTExT: SMOTE meets Large Language Models

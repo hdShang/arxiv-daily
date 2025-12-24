@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation
+title: "DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation"
 ---
 
 # DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation

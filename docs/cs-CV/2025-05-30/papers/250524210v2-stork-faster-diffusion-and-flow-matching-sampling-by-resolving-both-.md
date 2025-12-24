@@ -1,6 +1,6 @@
 ---
 layout: default
-title: STORK: Faster Diffusion And Flow Matching Sampling By Resolving Both Stiffness And Structure-Dependence
+title: "STORK: Faster Diffusion And Flow Matching Sampling By Resolving Both Stiffness And Structure-Dependence"
 ---
 
 # STORK: Faster Diffusion And Flow Matching Sampling By Resolving Both Stiffness And Structure-Dependence

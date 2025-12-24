@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WaTeRFlow: Watermark Temporal Robustness via Flow Consistency
+title: "WaTeRFlow: Watermark Temporal Robustness via Flow Consistency"
 ---
 
 # WaTeRFlow: Watermark Temporal Robustness via Flow Consistency

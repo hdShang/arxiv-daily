@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HardTests: Synthesizing High-Quality Test Cases for LLM Coding
+title: "HardTests: Synthesizing High-Quality Test Cases for LLM Coding"
 ---
 
 # HardTests: Synthesizing High-Quality Test Cases for LLM Coding

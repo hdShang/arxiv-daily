@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Agreement Between Large Language Models and Human Raters in Essay Scoring: A Research Synthesis
+title: "Agreement Between Large Language Models and Human Raters in Essay Scoring: A Research Synthesis"
 ---
 
 # Agreement Between Large Language Models and Human Raters in Essay Scoring: A Research Synthesis

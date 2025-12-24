@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniFD: A Unified Model for Versatile Face Forgery Detection
+title: "OmniFD: A Unified Model for Versatile Face Forgery Detection"
 ---
 
 # OmniFD: A Unified Model for Versatile Face Forgery Detection

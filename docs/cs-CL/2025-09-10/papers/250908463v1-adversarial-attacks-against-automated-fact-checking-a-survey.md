@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adversarial Attacks Against Automated Fact-Checking: A Survey
+title: "Adversarial Attacks Against Automated Fact-Checking: A Survey"
 ---
 
 # Adversarial Attacks Against Automated Fact-Checking: A Survey

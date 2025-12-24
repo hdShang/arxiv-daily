@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoMemo: LVLMs Need Image Context with Image Memory
+title: "CoMemo: LVLMs Need Image Context with Image Memory"
 ---
 
 # CoMemo: LVLMs Need Image Context with Image Memory

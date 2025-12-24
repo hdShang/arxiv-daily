@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Socratic-MCTS: Test-Time Visual Reasoning by Asking the Right Questions
+title: "Socratic-MCTS: Test-Time Visual Reasoning by Asking the Right Questions"
 ---
 
 # Socratic-MCTS: Test-Time Visual Reasoning by Asking the Right Questions

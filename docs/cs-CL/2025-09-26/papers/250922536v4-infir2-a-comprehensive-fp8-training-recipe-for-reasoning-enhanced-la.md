@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InfiR2: A Comprehensive FP8 Training Recipe for Reasoning-Enhanced Language Models
+title: "InfiR2: A Comprehensive FP8 Training Recipe for Reasoning-Enhanced Language Models"
 ---
 
 # InfiR2: A Comprehensive FP8 Training Recipe for Reasoning-Enhanced Language Models

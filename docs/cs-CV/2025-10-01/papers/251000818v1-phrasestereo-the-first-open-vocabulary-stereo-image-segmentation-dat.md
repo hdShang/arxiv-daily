@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PhraseStereo: The First Open-Vocabulary Stereo Image Segmentation Dataset
+title: "PhraseStereo: The First Open-Vocabulary Stereo Image Segmentation Dataset"
 ---
 
 # PhraseStereo: The First Open-Vocabulary Stereo Image Segmentation Dataset

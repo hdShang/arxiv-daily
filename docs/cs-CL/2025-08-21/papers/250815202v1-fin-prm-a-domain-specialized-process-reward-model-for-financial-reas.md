@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fin-PRM: A Domain-Specialized Process Reward Model for Financial Reasoning in Large Language Models
+title: "Fin-PRM: A Domain-Specialized Process Reward Model for Financial Reasoning in Large Language Models"
 ---
 
 # Fin-PRM: A Domain-Specialized Process Reward Model for Financial Reasoning in Large Language Models

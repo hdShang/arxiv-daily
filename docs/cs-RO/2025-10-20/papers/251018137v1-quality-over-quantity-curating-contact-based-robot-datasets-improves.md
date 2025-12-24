@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quality Over Quantity: Curating Contact-Based Robot Datasets Improves Learning
+title: "Quality Over Quantity: Curating Contact-Based Robot Datasets Improves Learning"
 ---
 
 # Quality Over Quantity: Curating Contact-Based Robot Datasets Improves Learning

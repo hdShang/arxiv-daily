@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Skyra: AI-Generated Video Detection via Grounded Artifact Reasoning
+title: "Skyra: AI-Generated Video Detection via Grounded Artifact Reasoning"
 ---
 
 # Skyra: AI-Generated Video Detection via Grounded Artifact Reasoning

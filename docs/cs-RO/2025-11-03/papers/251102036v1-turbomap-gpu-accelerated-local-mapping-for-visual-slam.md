@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TurboMap: GPU-Accelerated Local Mapping for Visual SLAM
+title: "TurboMap: GPU-Accelerated Local Mapping for Visual SLAM"
 ---
 
 # TurboMap: GPU-Accelerated Local Mapping for Visual SLAM

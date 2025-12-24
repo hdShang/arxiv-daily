@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gender-Neutral Rewriting in Italian: Models, Approaches, and Trade-offs
+title: "Gender-Neutral Rewriting in Italian: Models, Approaches, and Trade-offs"
 ---
 
 # Gender-Neutral Rewriting in Italian: Models, Approaches, and Trade-offs

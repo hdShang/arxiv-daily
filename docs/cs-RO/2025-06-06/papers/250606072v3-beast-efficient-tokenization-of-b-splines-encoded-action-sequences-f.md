@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BEAST: Efficient Tokenization of B-Splines Encoded Action Sequences for Imitation Learning
+title: "BEAST: Efficient Tokenization of B-Splines Encoded Action Sequences for Imitation Learning"
 ---
 
 # BEAST: Efficient Tokenization of B-Splines Encoded Action Sequences for Imitation Learning

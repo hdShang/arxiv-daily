@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LEANCODE: Understanding Models Better for Code Simplification of Pre-trained Large Language Models
+title: "LEANCODE: Understanding Models Better for Code Simplification of Pre-trained Large Language Models"
 ---
 
 # LEANCODE: Understanding Models Better for Code Simplification of Pre-trained Large Language Models

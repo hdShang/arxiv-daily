@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DentalSplat: Dental Occlusion Novel View Synthesis from Sparse Intra-Oral Photographs
+title: "DentalSplat: Dental Occlusion Novel View Synthesis from Sparse Intra-Oral Photographs"
 ---
 
 # DentalSplat: Dental Occlusion Novel View Synthesis from Sparse Intra-Oral Photographs

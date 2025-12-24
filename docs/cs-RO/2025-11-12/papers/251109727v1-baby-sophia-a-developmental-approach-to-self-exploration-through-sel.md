@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Baby Sophia: A Developmental Approach to Self-Exploration through Self-Touch and Hand Regard
+title: "Baby Sophia: A Developmental Approach to Self-Exploration through Self-Touch and Hand Regard"
 ---
 
 # Baby Sophia: A Developmental Approach to Self-Exploration through Self-Touch and Hand Regard

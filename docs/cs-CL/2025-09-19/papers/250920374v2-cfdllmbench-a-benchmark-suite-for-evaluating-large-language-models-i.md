@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CFDLLMBench: A Benchmark Suite for Evaluating Large Language Models in Computational Fluid Dynamics
+title: "CFDLLMBench: A Benchmark Suite for Evaluating Large Language Models in Computational Fluid Dynamics"
 ---
 
 # CFDLLMBench: A Benchmark Suite for Evaluating Large Language Models in Computational Fluid Dynamics

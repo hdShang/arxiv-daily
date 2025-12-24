@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WDMIR: Wavelet-Driven Multimodal Intent Recognition
+title: "WDMIR: Wavelet-Driven Multimodal Intent Recognition"
 ---
 
 # WDMIR: Wavelet-Driven Multimodal Intent Recognition

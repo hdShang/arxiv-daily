@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes
+title: "BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes"
 ---
 
 # BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes

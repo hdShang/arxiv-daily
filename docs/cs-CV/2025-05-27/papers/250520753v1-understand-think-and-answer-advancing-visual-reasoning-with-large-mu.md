@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Understand, Think, and Answer: Advancing Visual Reasoning with Large Multimodal Models
+title: "Understand, Think, and Answer: Advancing Visual Reasoning with Large Multimodal Models"
 ---
 
 # Understand, Think, and Answer: Advancing Visual Reasoning with Large Multimodal Models

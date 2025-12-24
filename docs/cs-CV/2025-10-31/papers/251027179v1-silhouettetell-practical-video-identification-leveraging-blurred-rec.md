@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SilhouetteTell: Practical Video Identification Leveraging Blurred Recordings of Video Subtitles
+title: "SilhouetteTell: Practical Video Identification Leveraging Blurred Recordings of Video Subtitles"
 ---
 
 # SilhouetteTell: Practical Video Identification Leveraging Blurred Recordings of Video Subtitles

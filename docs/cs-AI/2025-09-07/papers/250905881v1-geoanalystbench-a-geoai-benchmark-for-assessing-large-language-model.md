@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GeoAnalystBench: A GeoAI benchmark for assessing large language models for spatial analysis workflow and code generation
+title: "GeoAnalystBench: A GeoAI benchmark for assessing large language models for spatial analysis workflow and code generation"
 ---
 
 # GeoAnalystBench: A GeoAI benchmark for assessing large language models for spatial analysis workflow and code generation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Model Jailbreak: Systematic Dissection of the "Ten DeadlySins" in Embodied Intelligence
+title: "Beyond Model Jailbreak: Systematic Dissection of the \"Ten DeadlySins\" in Embodied Intelligence"
 ---
 
 # Beyond Model Jailbreak: Systematic Dissection of the "Ten DeadlySins" in Embodied Intelligence

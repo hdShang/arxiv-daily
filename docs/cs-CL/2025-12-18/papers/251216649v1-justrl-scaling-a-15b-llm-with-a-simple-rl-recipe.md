@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JustRL: Scaling a 1.5B LLM with a Simple RL Recipe
+title: "JustRL: Scaling a 1.5B LLM with a Simple RL Recipe"
 ---
 
 # JustRL: Scaling a 1.5B LLM with a Simple RL Recipe

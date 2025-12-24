@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UrbanFusion: Stochastic Multimodal Fusion for Contrastive Learning of Robust Spatial Representations
+title: "UrbanFusion: Stochastic Multimodal Fusion for Contrastive Learning of Robust Spatial Representations"
 ---
 
 # UrbanFusion: Stochastic Multimodal Fusion for Contrastive Learning of Robust Spatial Representations

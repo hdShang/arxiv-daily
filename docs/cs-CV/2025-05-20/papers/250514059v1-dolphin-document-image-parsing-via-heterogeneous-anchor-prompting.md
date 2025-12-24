@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting
+title: "Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting"
 ---
 
 # Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting

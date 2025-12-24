@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PERSONA: Personalized Whole-Body 3D Avatar with Pose-Driven Deformations from a Single Image
+title: "PERSONA: Personalized Whole-Body 3D Avatar with Pose-Driven Deformations from a Single Image"
 ---
 
 # PERSONA: Personalized Whole-Body 3D Avatar with Pose-Driven Deformations from a Single Image

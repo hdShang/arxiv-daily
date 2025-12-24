@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HanDyVQA: A Video QA Benchmark for Fine-Grained Hand-Object Interaction Dynamics
+title: "HanDyVQA: A Video QA Benchmark for Fine-Grained Hand-Object Interaction Dynamics"
 ---
 
 # HanDyVQA: A Video QA Benchmark for Fine-Grained Hand-Object Interaction Dynamics

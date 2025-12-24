@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Don't Take the Premise for Granted: Evaluating the Premise Critique Ability of Large Language Models
+title: "Don't Take the Premise for Granted: Evaluating the Premise Critique Ability of Large Language Models"
 ---
 
 # Don't Take the Premise for Granted: Evaluating the Premise Critique Ability of Large Language Models

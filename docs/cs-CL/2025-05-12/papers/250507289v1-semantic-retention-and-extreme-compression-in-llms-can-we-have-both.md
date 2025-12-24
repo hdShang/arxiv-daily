@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Semantic Retention and Extreme Compression in LLMs: Can We Have Both?
+title: "Semantic Retention and Extreme Compression in LLMs: Can We Have Both?"
 ---
 
 # Semantic Retention and Extreme Compression in LLMs: Can We Have Both?

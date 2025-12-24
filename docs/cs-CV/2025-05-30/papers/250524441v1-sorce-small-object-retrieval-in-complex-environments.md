@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SORCE: Small Object Retrieval in Complex Environments
+title: "SORCE: Small Object Retrieval in Complex Environments"
 ---
 
 # SORCE: Small Object Retrieval in Complex Environments

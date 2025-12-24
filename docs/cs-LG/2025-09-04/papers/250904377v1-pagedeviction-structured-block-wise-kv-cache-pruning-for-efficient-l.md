@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PagedEviction: Structured Block-wise KV Cache Pruning for Efficient Large Language Model Inference
+title: "PagedEviction: Structured Block-wise KV Cache Pruning for Efficient Large Language Model Inference"
 ---
 
 # PagedEviction: Structured Block-wise KV Cache Pruning for Efficient Large Language Model Inference

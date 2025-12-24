@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Table-r1: Self-supervised and Reinforcement Learning for Program-based Table Reasoning in Small Language Models
+title: "Table-r1: Self-supervised and Reinforcement Learning for Program-based Table Reasoning in Small Language Models"
 ---
 
 # Table-r1: Self-supervised and Reinforcement Learning for Program-based Table Reasoning in Small Language Models

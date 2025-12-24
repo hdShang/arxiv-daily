@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PRISM: Precision-Recall Informed Data-Free Knowledge Distillation via Generative Diffusion
+title: "PRISM: Precision-Recall Informed Data-Free Knowledge Distillation via Generative Diffusion"
 ---
 
 # PRISM: Precision-Recall Informed Data-Free Knowledge Distillation via Generative Diffusion

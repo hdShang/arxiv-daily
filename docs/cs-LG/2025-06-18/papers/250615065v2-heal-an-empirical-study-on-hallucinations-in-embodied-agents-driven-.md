@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HEAL: An Empirical Study on Hallucinations in Embodied Agents Driven by Large Language Models
+title: "HEAL: An Empirical Study on Hallucinations in Embodied Agents Driven by Large Language Models"
 ---
 
 # HEAL: An Empirical Study on Hallucinations in Embodied Agents Driven by Large Language Models

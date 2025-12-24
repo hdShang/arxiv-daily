@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CLaSp: In-Context Layer Skip for Self-Speculative Decoding
+title: "CLaSp: In-Context Layer Skip for Self-Speculative Decoding"
 ---
 
 # CLaSp: In-Context Layer Skip for Self-Speculative Decoding

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Digging Into the Internal: Causality-Based Analysis of LLM Function Calling
+title: "Digging Into the Internal: Causality-Based Analysis of LLM Function Calling"
 ---
 
 # Digging Into the Internal: Causality-Based Analysis of LLM Function Calling

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Semantic Similarity: Reducing Unnecessary API Calls via Behavior-Aligned Retriever
+title: "Beyond Semantic Similarity: Reducing Unnecessary API Calls via Behavior-Aligned Retriever"
 ---
 
 # Beyond Semantic Similarity: Reducing Unnecessary API Calls via Behavior-Aligned Retriever

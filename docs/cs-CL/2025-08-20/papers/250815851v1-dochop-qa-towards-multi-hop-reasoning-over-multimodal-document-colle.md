@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DocHop-QA: Towards Multi-Hop Reasoning over Multimodal Document Collections
+title: "DocHop-QA: Towards Multi-Hop Reasoning over Multimodal Document Collections"
 ---
 
 # DocHop-QA: Towards Multi-Hop Reasoning over Multimodal Document Collections

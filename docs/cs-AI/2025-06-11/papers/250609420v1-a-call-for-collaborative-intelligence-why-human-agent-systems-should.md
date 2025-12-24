@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy
+title: "A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy"
 ---
 
 # A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy

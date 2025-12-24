@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When Alignment Fails: Multimodal Adversarial Attacks on Vision-Language-Action Models
+title: "When Alignment Fails: Multimodal Adversarial Attacks on Vision-Language-Action Models"
 ---
 
 # When Alignment Fails: Multimodal Adversarial Attacks on Vision-Language-Action Models

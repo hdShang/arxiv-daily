@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Injection to Defense: Constructing Edit-Based Fingerprints for Large Language Models
+title: "From Injection to Defense: Constructing Edit-Based Fingerprints for Large Language Models"
 ---
 
 # From Injection to Defense: Constructing Edit-Based Fingerprints for Large Language Models

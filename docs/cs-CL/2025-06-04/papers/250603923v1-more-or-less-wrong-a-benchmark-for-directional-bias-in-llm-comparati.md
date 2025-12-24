@@ -1,6 +1,6 @@
 ---
 layout: default
-title: More or Less Wrong: A Benchmark for Directional Bias in LLM Comparative Reasoning
+title: "More or Less Wrong: A Benchmark for Directional Bias in LLM Comparative Reasoning"
 ---
 
 # More or Less Wrong: A Benchmark for Directional Bias in LLM Comparative Reasoning

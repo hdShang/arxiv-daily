@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TRAVL: A Recipe for Making Video-Language Models Better Judges of Physics Implausibility
+title: "TRAVL: A Recipe for Making Video-Language Models Better Judges of Physics Implausibility"
 ---
 
 # TRAVL: A Recipe for Making Video-Language Models Better Judges of Physics Implausibility

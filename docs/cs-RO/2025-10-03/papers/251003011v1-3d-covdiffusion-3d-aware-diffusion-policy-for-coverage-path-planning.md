@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3D-CovDiffusion: 3D-Aware Diffusion Policy for Coverage Path Planning
+title: "3D-CovDiffusion: 3D-Aware Diffusion Policy for Coverage Path Planning"
 ---
 
 # 3D-CovDiffusion: 3D-Aware Diffusion Policy for Coverage Path Planning

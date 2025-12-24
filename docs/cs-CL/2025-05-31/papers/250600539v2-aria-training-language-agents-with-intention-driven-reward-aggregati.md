@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ARIA: Training Language Agents with Intention-Driven Reward Aggregation
+title: "ARIA: Training Language Agents with Intention-Driven Reward Aggregation"
 ---
 
 # ARIA: Training Language Agents with Intention-Driven Reward Aggregation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TD-GRPC: Temporal Difference Learning with Group Relative Policy Constraint for Humanoid Locomotion
+title: "TD-GRPC: Temporal Difference Learning with Group Relative Policy Constraint for Humanoid Locomotion"
 ---
 
 # TD-GRPC: Temporal Difference Learning with Group Relative Policy Constraint for Humanoid Locomotion

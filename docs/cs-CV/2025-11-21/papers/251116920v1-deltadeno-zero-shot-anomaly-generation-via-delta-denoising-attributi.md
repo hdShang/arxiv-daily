@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeltaDeno: Zero-Shot Anomaly Generation via Delta-Denoising Attribution
+title: "DeltaDeno: Zero-Shot Anomaly Generation via Delta-Denoising Attribution"
 ---
 
 # DeltaDeno: Zero-Shot Anomaly Generation via Delta-Denoising Attribution

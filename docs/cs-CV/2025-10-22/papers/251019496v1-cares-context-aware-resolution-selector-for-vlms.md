@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CARES: Context-Aware Resolution Selector for VLMs
+title: "CARES: Context-Aware Resolution Selector for VLMs"
 ---
 
 # CARES: Context-Aware Resolution Selector for VLMs

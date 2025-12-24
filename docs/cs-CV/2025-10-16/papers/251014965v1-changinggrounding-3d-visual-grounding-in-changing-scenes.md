@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ChangingGrounding: 3D Visual Grounding in Changing Scenes
+title: "ChangingGrounding: 3D Visual Grounding in Changing Scenes"
 ---
 
 # ChangingGrounding: 3D Visual Grounding in Changing Scenes

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Causal Policy Learning in Reinforcement Learning: Backdoor-Adjusted Soft Actor-Critic
+title: "Causal Policy Learning in Reinforcement Learning: Backdoor-Adjusted Soft Actor-Critic"
 ---
 
 # Causal Policy Learning in Reinforcement Learning: Backdoor-Adjusted Soft Actor-Critic

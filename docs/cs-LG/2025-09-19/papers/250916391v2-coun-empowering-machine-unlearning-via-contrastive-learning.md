@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoUn: Empowering Machine Unlearning via Contrastive Learning
+title: "CoUn: Empowering Machine Unlearning via Contrastive Learning"
 ---
 
 # CoUn: Empowering Machine Unlearning via Contrastive Learning

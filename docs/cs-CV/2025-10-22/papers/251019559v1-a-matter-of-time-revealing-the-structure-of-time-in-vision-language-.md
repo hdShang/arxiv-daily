@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Matter of Time: Revealing the Structure of Time in Vision-Language Models
+title: "A Matter of Time: Revealing the Structure of Time in Vision-Language Models"
 ---
 
 # A Matter of Time: Revealing the Structure of Time in Vision-Language Models

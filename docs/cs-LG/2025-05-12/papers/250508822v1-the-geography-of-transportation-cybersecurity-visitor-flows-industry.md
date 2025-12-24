@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Geography of Transportation Cybersecurity: Visitor Flows, Industry Clusters, and Spatial Dynamics
+title: "The Geography of Transportation Cybersecurity: Visitor Flows, Industry Clusters, and Spatial Dynamics"
 ---
 
 # The Geography of Transportation Cybersecurity: Visitor Flows, Industry Clusters, and Spatial Dynamics

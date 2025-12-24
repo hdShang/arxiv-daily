@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations
+title: "R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations"
 ---
 
 # R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations

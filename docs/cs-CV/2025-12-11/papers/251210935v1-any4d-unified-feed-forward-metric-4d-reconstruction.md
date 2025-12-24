@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Any4D: Unified Feed-Forward Metric 4D Reconstruction
+title: "Any4D: Unified Feed-Forward Metric 4D Reconstruction"
 ---
 
 # Any4D: Unified Feed-Forward Metric 4D Reconstruction

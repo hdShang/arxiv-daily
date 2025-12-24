@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SlotVLA: Towards Modeling of Object-Relation Representations in Robotic Manipulation
+title: "SlotVLA: Towards Modeling of Object-Relation Representations in Robotic Manipulation"
 ---
 
 # SlotVLA: Towards Modeling of Object-Relation Representations in Robotic Manipulation

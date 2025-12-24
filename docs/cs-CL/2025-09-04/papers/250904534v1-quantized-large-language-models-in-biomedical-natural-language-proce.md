@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quantized Large Language Models in Biomedical Natural Language Processing: Evaluation and Recommendation
+title: "Quantized Large Language Models in Biomedical Natural Language Processing: Evaluation and Recommendation"
 ---
 
 # Quantized Large Language Models in Biomedical Natural Language Processing: Evaluation and Recommendation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Balancing Signal and Variance: Adaptive Offline RL Post-Training for VLA Flow Models
+title: "Balancing Signal and Variance: Adaptive Offline RL Post-Training for VLA Flow Models"
 ---
 
 # Balancing Signal and Variance: Adaptive Offline RL Post-Training for VLA Flow Models

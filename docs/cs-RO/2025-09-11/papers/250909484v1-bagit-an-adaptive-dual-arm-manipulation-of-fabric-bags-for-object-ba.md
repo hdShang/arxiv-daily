@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BagIt! An Adaptive Dual-Arm Manipulation of Fabric Bags for Object Bagging
+title: "BagIt! An Adaptive Dual-Arm Manipulation of Fabric Bags for Object Bagging"
 ---
 
 # BagIt! An Adaptive Dual-Arm Manipulation of Fabric Bags for Object Bagging

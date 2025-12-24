@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Do Retrieval Augmented Language Models Know When They Don't Know?
+title: "Do Retrieval Augmented Language Models Know When They Don't Know?"
 ---
 
 # Do Retrieval Augmented Language Models Know When They Don't Know?

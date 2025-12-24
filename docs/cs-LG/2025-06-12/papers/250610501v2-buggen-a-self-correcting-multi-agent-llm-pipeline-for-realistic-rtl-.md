@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BugGen: A Self-Correcting Multi-Agent LLM Pipeline for Realistic RTL Bug Synthesis
+title: "BugGen: A Self-Correcting Multi-Agent LLM Pipeline for Realistic RTL Bug Synthesis"
 ---
 
 # BugGen: A Self-Correcting Multi-Agent LLM Pipeline for Realistic RTL Bug Synthesis

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoKD: Multi-Task Optimization for Knowledge Distillation
+title: "MoKD: Multi-Task Optimization for Knowledge Distillation"
 ---
 
 # MoKD: Multi-Task Optimization for Knowledge Distillation

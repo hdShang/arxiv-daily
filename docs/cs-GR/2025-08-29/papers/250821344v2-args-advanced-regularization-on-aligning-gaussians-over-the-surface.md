@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ARGS: Advanced Regularization on Aligning Gaussians over the Surface
+title: "ARGS: Advanced Regularization on Aligning Gaussians over the Surface"
 ---
 
 # ARGS: Advanced Regularization on Aligning Gaussians over the Surface

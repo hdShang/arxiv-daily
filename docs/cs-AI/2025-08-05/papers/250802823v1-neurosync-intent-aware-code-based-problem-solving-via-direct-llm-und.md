@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NeuroSync: Intent-Aware Code-Based Problem Solving via Direct LLM Understanding Modification
+title: "NeuroSync: Intent-Aware Code-Based Problem Solving via Direct LLM Understanding Modification"
 ---
 
 # NeuroSync: Intent-Aware Code-Based Problem Solving via Direct LLM Understanding Modification

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: INF-3DP: Implicit Neural Fields for Collision-Free Multi-Axis 3D Printing
+title: "INF-3DP: Implicit Neural Fields for Collision-Free Multi-Axis 3D Printing"
 ---
 
 # INF-3DP: Implicit Neural Fields for Collision-Free Multi-Axis 3D Printing

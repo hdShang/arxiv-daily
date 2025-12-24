@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BadPromptFL: A Novel Backdoor Threat to Prompt-based Federated Learning in Multimodal Models
+title: "BadPromptFL: A Novel Backdoor Threat to Prompt-based Federated Learning in Multimodal Models"
 ---
 
 # BadPromptFL: A Novel Backdoor Threat to Prompt-based Federated Learning in Multimodal Models

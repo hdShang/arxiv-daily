@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IPA: An Information-Reconstructive Input Projection Framework for Efficient Foundation Model Adaptation
+title: "IPA: An Information-Reconstructive Input Projection Framework for Efficient Foundation Model Adaptation"
 ---
 
 # IPA: An Information-Reconstructive Input Projection Framework for Efficient Foundation Model Adaptation

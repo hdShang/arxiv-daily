@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CLEAR: A Comprehensive Linguistic Evaluation of Argument Rewriting by Large Language Models
+title: "CLEAR: A Comprehensive Linguistic Evaluation of Argument Rewriting by Large Language Models"
 ---
 
 # CLEAR: A Comprehensive Linguistic Evaluation of Argument Rewriting by Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLMSynthor: Macro-Aligned Micro-Records Synthesis with Large Language Models
+title: "LLMSynthor: Macro-Aligned Micro-Records Synthesis with Large Language Models"
 ---
 
 # LLMSynthor: Macro-Aligned Micro-Records Synthesis with Large Language Models

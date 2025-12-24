@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Data to Modeling: Fully Open-vocabulary Scene Graph Generation
+title: "From Data to Modeling: Fully Open-vocabulary Scene Graph Generation"
 ---
 
 # From Data to Modeling: Fully Open-vocabulary Scene Graph Generation

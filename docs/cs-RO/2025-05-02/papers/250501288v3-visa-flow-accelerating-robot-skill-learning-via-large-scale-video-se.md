@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ViSA-Flow: Accelerating Robot Skill Learning via Large-Scale Video Semantic Action Flow
+title: "ViSA-Flow: Accelerating Robot Skill Learning via Large-Scale Video Semantic Action Flow"
 ---
 
 # ViSA-Flow: Accelerating Robot Skill Learning via Large-Scale Video Semantic Action Flow

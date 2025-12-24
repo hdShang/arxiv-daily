@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GS-Share: Enabling High-fidelity Map Sharing with Incremental Gaussian Splatting
+title: "GS-Share: Enabling High-fidelity Map Sharing with Incremental Gaussian Splatting"
 ---
 
 # GS-Share: Enabling High-fidelity Map Sharing with Incremental Gaussian Splatting

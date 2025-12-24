@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AvatarTex: High-Fidelity Facial Texture Reconstruction from Single-Image Stylized Avatars
+title: "AvatarTex: High-Fidelity Facial Texture Reconstruction from Single-Image Stylized Avatars"
 ---
 
 # AvatarTex: High-Fidelity Facial Texture Reconstruction from Single-Image Stylized Avatars

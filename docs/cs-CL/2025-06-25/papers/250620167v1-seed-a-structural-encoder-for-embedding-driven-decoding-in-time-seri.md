@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SEED: A Structural Encoder for Embedding-Driven Decoding in Time Series Prediction with LLMs
+title: "SEED: A Structural Encoder for Embedding-Driven Decoding in Time Series Prediction with LLMs"
 ---
 
 # SEED: A Structural Encoder for Embedding-Driven Decoding in Time Series Prediction with LLMs

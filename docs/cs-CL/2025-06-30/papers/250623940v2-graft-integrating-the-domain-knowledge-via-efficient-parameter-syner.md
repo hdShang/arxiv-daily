@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Graft: Integrating the Domain Knowledge via Efficient Parameter Synergy for MLLMs
+title: "Graft: Integrating the Domain Knowledge via Efficient Parameter Synergy for MLLMs"
 ---
 
 # Graft: Integrating the Domain Knowledge via Efficient Parameter Synergy for MLLMs

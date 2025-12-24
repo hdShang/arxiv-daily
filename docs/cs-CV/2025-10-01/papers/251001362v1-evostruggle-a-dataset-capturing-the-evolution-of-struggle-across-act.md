@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EvoStruggle: A Dataset Capturing the Evolution of Struggle across Activities and Skill Levels
+title: "EvoStruggle: A Dataset Capturing the Evolution of Struggle across Activities and Skill Levels"
 ---
 
 # EvoStruggle: A Dataset Capturing the Evolution of Struggle across Activities and Skill Levels

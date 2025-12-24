@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GeoERM: Geometry-Aware Multi-Task Representation Learning on Riemannian Manifolds
+title: "GeoERM: Geometry-Aware Multi-Task Representation Learning on Riemannian Manifolds"
 ---
 
 # GeoERM: Geometry-Aware Multi-Task Representation Learning on Riemannian Manifolds

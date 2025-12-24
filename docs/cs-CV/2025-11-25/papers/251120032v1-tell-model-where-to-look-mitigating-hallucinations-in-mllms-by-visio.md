@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tell Model Where to Look: Mitigating Hallucinations in MLLMs by Vision-Guided Attention
+title: "Tell Model Where to Look: Mitigating Hallucinations in MLLMs by Vision-Guided Attention"
 ---
 
 # Tell Model Where to Look: Mitigating Hallucinations in MLLMs by Vision-Guided Attention

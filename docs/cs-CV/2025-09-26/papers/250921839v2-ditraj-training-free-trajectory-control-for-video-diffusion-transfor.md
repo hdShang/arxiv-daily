@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DiTraj: training-free trajectory control for video diffusion transformer
+title: "DiTraj: training-free trajectory control for video diffusion transformer"
 ---
 
 # DiTraj: training-free trajectory control for video diffusion transformer

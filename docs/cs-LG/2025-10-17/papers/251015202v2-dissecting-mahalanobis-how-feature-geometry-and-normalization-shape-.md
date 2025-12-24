@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dissecting Mahalanobis: How Feature Geometry and Normalization Shape OOD Detection
+title: "Dissecting Mahalanobis: How Feature Geometry and Normalization Shape OOD Detection"
 ---
 
 # Dissecting Mahalanobis: How Feature Geometry and Normalization Shape OOD Detection

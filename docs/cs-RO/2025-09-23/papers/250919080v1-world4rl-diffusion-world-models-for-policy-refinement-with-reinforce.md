@@ -1,6 +1,6 @@
 ---
 layout: default
-title: World4RL: Diffusion World Models for Policy Refinement with Reinforcement Learning for Robotic Manipulation
+title: "World4RL: Diffusion World Models for Policy Refinement with Reinforcement Learning for Robotic Manipulation"
 ---
 
 # World4RL: Diffusion World Models for Policy Refinement with Reinforcement Learning for Robotic Manipulation

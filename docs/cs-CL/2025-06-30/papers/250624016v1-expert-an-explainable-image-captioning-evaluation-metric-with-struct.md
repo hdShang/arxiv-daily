@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EXPERT: An Explainable Image Captioning Evaluation Metric with Structured Explanations
+title: "EXPERT: An Explainable Image Captioning Evaluation Metric with Structured Explanations"
 ---
 
 # EXPERT: An Explainable Image Captioning Evaluation Metric with Structured Explanations

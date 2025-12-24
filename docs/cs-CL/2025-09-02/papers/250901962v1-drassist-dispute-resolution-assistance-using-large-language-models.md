@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DRAssist: Dispute Resolution Assistance using Large Language Models
+title: "DRAssist: Dispute Resolution Assistance using Large Language Models"
 ---
 
 # DRAssist: Dispute Resolution Assistance using Large Language Models

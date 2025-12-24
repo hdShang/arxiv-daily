@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks
+title: "NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks"
 ---
 
 # NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks

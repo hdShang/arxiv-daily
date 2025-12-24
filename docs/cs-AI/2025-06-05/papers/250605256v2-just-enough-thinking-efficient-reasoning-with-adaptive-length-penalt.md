@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Just Enough Thinking: Efficient Reasoning with Adaptive Length Penalties Reinforcement Learning
+title: "Just Enough Thinking: Efficient Reasoning with Adaptive Length Penalties Reinforcement Learning"
 ---
 
 # Just Enough Thinking: Efficient Reasoning with Adaptive Length Penalties Reinforcement Learning

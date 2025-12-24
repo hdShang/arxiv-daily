@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeHate: A Stable Diffusion-based Multimodal Approach to Mitigate Hate Speech in Images
+title: "DeHate: A Stable Diffusion-based Multimodal Approach to Mitigate Hate Speech in Images"
 ---
 
 # DeHate: A Stable Diffusion-based Multimodal Approach to Mitigate Hate Speech in Images

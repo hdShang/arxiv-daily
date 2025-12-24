@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Boundary on the Table: Efficient Black-Box Decision-Based Attacks for Structured Data
+title: "Boundary on the Table: Efficient Black-Box Decision-Based Attacks for Structured Data"
 ---
 
 # Boundary on the Table: Efficient Black-Box Decision-Based Attacks for Structured Data

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Helping Large Language Models Protect Themselves: An Enhanced Filtering and Summarization System
+title: "Helping Large Language Models Protect Themselves: An Enhanced Filtering and Summarization System"
 ---
 
 # Helping Large Language Models Protect Themselves: An Enhanced Filtering and Summarization System

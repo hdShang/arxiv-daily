@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMAR: A Challenging Benchmark for Deep Reasoning in Speech, Audio, Music, and Their Mix
+title: "MMAR: A Challenging Benchmark for Deep Reasoning in Speech, Audio, Music, and Their Mix"
 ---
 
 # MMAR: A Challenging Benchmark for Deep Reasoning in Speech, Audio, Music, and Their Mix

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TabVLA: Targeted Backdoor Attacks on Vision-Language-Action Models
+title: "TabVLA: Targeted Backdoor Attacks on Vision-Language-Action Models"
 ---
 
 # TabVLA: Targeted Backdoor Attacks on Vision-Language-Action Models

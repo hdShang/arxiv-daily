@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adapt Your Body: Mitigating Proprioception Shifts in Imitation Learning
+title: "Adapt Your Body: Mitigating Proprioception Shifts in Imitation Learning"
 ---
 
 # Adapt Your Body: Mitigating Proprioception Shifts in Imitation Learning

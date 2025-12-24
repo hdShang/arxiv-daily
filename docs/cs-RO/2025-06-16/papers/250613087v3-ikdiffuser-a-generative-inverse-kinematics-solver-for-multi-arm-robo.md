@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IKDiffuser: A Generative Inverse Kinematics Solver for Multi-arm Robots via Diffusion Model
+title: "IKDiffuser: A Generative Inverse Kinematics Solver for Multi-arm Robots via Diffusion Model"
 ---
 
 # IKDiffuser: A Generative Inverse Kinematics Solver for Multi-arm Robots via Diffusion Model

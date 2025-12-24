@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StableDreamer: Taming Noisy Score Distillation Sampling for Text-to-3D
+title: "StableDreamer: Taming Noisy Score Distillation Sampling for Text-to-3D"
 ---
 
 # StableDreamer: Taming Noisy Score Distillation Sampling for Text-to-3D

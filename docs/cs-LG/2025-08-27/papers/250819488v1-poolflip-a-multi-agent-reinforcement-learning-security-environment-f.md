@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PoolFlip: A Multi-Agent Reinforcement Learning Security Environment for Cyber Defense
+title: "PoolFlip: A Multi-Agent Reinforcement Learning Security Environment for Cyber Defense"
 ---
 
 # PoolFlip: A Multi-Agent Reinforcement Learning Security Environment for Cyber Defense

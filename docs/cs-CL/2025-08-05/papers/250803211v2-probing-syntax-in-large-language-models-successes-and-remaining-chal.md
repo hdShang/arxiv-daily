@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Probing Syntax in Large Language Models: Successes and Remaining Challenges
+title: "Probing Syntax in Large Language Models: Successes and Remaining Challenges"
 ---
 
 # Probing Syntax in Large Language Models: Successes and Remaining Challenges

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Analytic Task Scheduler: Recursive Least Squares Based Method for Continual Learning in Embodied Foundation Models
+title: "Analytic Task Scheduler: Recursive Least Squares Based Method for Continual Learning in Embodied Foundation Models"
 ---
 
 # Analytic Task Scheduler: Recursive Least Squares Based Method for Continual Learning in Embodied Foundation Models

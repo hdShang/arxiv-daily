@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ShoppingBench: A Real-World Intent-Grounded Shopping Benchmark for LLM-based Agents
+title: "ShoppingBench: A Real-World Intent-Grounded Shopping Benchmark for LLM-based Agents"
 ---
 
 # ShoppingBench: A Real-World Intent-Grounded Shopping Benchmark for LLM-based Agents

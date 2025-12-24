@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bridging Perspectives: Foundation Model Guided BEV Maps for 3D Object Detection and Tracking
+title: "Bridging Perspectives: Foundation Model Guided BEV Maps for 3D Object Detection and Tracking"
 ---
 
 # Bridging Perspectives: Foundation Model Guided BEV Maps for 3D Object Detection and Tracking

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FSFSplatter: Build Surface and Novel Views with Sparse-Views within 2min
+title: "FSFSplatter: Build Surface and Novel Views with Sparse-Views within 2min"
 ---
 
 # FSFSplatter: Build Surface and Novel Views with Sparse-Views within 2min

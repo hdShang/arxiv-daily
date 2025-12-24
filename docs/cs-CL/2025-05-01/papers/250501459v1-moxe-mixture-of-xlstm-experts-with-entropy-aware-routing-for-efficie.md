@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoxE: Mixture of xLSTM Experts with Entropy-Aware Routing for Efficient Language Modeling
+title: "MoxE: Mixture of xLSTM Experts with Entropy-Aware Routing for Efficient Language Modeling"
 ---
 
 # MoxE: Mixture of xLSTM Experts with Entropy-Aware Routing for Efficient Language Modeling

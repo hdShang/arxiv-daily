@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection
+title: "PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection"
 ---
 
 # PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Implicit Reasoning in Large Language Models: A Comprehensive Survey
+title: "Implicit Reasoning in Large Language Models: A Comprehensive Survey"
 ---
 
 # Implicit Reasoning in Large Language Models: A Comprehensive Survey

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GRPO-MA: Multi-Answer Generation in GRPO for Stable and Efficient Chain-of-Thought Training
+title: "GRPO-MA: Multi-Answer Generation in GRPO for Stable and Efficient Chain-of-Thought Training"
 ---
 
 # GRPO-MA: Multi-Answer Generation in GRPO for Stable and Efficient Chain-of-Thought Training

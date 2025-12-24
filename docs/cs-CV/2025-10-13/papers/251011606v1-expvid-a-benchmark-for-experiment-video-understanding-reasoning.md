@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ExpVid: A Benchmark for Experiment Video Understanding & Reasoning
+title: "ExpVid: A Benchmark for Experiment Video Understanding & Reasoning"
 ---
 
 # ExpVid: A Benchmark for Experiment Video Understanding & Reasoning

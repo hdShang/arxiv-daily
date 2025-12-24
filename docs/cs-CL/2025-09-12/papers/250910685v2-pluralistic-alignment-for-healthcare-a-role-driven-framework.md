@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pluralistic Alignment for Healthcare: A Role-Driven Framework
+title: "Pluralistic Alignment for Healthcare: A Role-Driven Framework"
 ---
 
 # Pluralistic Alignment for Healthcare: A Role-Driven Framework

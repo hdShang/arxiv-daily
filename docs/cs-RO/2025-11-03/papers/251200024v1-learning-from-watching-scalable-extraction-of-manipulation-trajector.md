@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning from Watching: Scalable Extraction of Manipulation Trajectories from Human Videos
+title: "Learning from Watching: Scalable Extraction of Manipulation Trajectories from Human Videos"
 ---
 
 # Learning from Watching: Scalable Extraction of Manipulation Trajectories from Human Videos

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Self-Consistency as a Free Lunch: Reducing Hallucinations in Vision-Language Models via Self-Reflection
+title: "Self-Consistency as a Free Lunch: Reducing Hallucinations in Vision-Language Models via Self-Reflection"
 ---
 
 # Self-Consistency as a Free Lunch: Reducing Hallucinations in Vision-Language Models via Self-Reflection

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DHQA-4D: Perceptual Quality Assessment of Dynamic 4D Digital Human
+title: "DHQA-4D: Perceptual Quality Assessment of Dynamic 4D Digital Human"
 ---
 
 # DHQA-4D: Perceptual Quality Assessment of Dynamic 4D Digital Human

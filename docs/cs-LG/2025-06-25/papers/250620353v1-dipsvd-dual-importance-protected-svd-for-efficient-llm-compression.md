@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DipSVD: Dual-importance Protected SVD for Efficient LLM Compression
+title: "DipSVD: Dual-importance Protected SVD for Efficient LLM Compression"
 ---
 
 # DipSVD: Dual-importance Protected SVD for Efficient LLM Compression

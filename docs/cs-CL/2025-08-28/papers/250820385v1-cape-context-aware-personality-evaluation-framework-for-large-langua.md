@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CAPE: Context-Aware Personality Evaluation Framework for Large Language Models
+title: "CAPE: Context-Aware Personality Evaluation Framework for Large Language Models"
 ---
 
 # CAPE: Context-Aware Personality Evaluation Framework for Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BaroPoser: Real-time Human Motion Tracking from IMUs and Barometers in Everyday Devices
+title: "BaroPoser: Real-time Human Motion Tracking from IMUs and Barometers in Everyday Devices"
 ---
 
 # BaroPoser: Real-time Human Motion Tracking from IMUs and Barometers in Everyday Devices

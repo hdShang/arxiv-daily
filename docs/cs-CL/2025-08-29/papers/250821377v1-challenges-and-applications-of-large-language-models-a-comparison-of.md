@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Challenges and Applications of Large Language Models: A Comparison of GPT and DeepSeek family of models
+title: "Challenges and Applications of Large Language Models: A Comparison of GPT and DeepSeek family of models"
 ---
 
 # Challenges and Applications of Large Language Models: A Comparison of GPT and DeepSeek family of models

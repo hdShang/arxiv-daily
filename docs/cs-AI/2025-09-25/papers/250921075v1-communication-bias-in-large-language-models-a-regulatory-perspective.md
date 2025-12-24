@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Communication Bias in Large Language Models: A Regulatory Perspective
+title: "Communication Bias in Large Language Models: A Regulatory Perspective"
 ---
 
 # Communication Bias in Large Language Models: A Regulatory Perspective

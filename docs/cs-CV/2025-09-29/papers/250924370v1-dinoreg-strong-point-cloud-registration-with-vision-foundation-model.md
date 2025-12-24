@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DINOReg: Strong Point Cloud Registration with Vision Foundation Model
+title: "DINOReg: Strong Point Cloud Registration with Vision Foundation Model"
 ---
 
 # DINOReg: Strong Point Cloud Registration with Vision Foundation Model

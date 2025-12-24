@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering
+title: "ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering"
 ---
 
 # ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering

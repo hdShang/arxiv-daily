@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PAC Bench: Do Foundation Models Understand Prerequisites for Executing Manipulation Policies?
+title: "PAC Bench: Do Foundation Models Understand Prerequisites for Executing Manipulation Policies?"
 ---
 
 # PAC Bench: Do Foundation Models Understand Prerequisites for Executing Manipulation Policies?

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EdgeProfiler: A Fast Profiling Framework for Lightweight LLMs on Edge Using Analytical Model
+title: "EdgeProfiler: A Fast Profiling Framework for Lightweight LLMs on Edge Using Analytical Model"
 ---
 
 # EdgeProfiler: A Fast Profiling Framework for Lightweight LLMs on Edge Using Analytical Model

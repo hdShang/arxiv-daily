@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design
+title: "CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design"
 ---
 
 # CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design

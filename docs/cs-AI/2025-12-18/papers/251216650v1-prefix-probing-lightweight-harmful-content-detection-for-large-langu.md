@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prefix Probing: Lightweight Harmful Content Detection for Large Language Models
+title: "Prefix Probing: Lightweight Harmful Content Detection for Large Language Models"
 ---
 
 # Prefix Probing: Lightweight Harmful Content Detection for Large Language Models

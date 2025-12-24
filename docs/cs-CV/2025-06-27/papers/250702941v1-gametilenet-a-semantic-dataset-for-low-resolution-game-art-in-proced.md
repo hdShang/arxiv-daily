@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GameTileNet: A Semantic Dataset for Low-Resolution Game Art in Procedural Content Generation
+title: "GameTileNet: A Semantic Dataset for Low-Resolution Game Art in Procedural Content Generation"
 ---
 
 # GameTileNet: A Semantic Dataset for Low-Resolution Game Art in Procedural Content Generation

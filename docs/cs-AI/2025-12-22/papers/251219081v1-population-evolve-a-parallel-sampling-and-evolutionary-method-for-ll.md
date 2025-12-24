@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Population-Evolve: a Parallel Sampling and Evolutionary Method for LLM Math Reasoning
+title: "Population-Evolve: a Parallel Sampling and Evolutionary Method for LLM Math Reasoning"
 ---
 
 # Population-Evolve: a Parallel Sampling and Evolutionary Method for LLM Math Reasoning

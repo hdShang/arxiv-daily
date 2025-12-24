@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMSD3.0: A Multi-Image Benchmark for Real-World Multimodal Sarcasm Detection
+title: "MMSD3.0: A Multi-Image Benchmark for Real-World Multimodal Sarcasm Detection"
 ---
 
 # MMSD3.0: A Multi-Image Benchmark for Real-World Multimodal Sarcasm Detection

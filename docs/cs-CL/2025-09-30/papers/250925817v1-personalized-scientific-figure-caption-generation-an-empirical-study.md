@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Personalized Scientific Figure Caption Generation: An Empirical Study on Author-Specific Writing Style Transfer
+title: "Personalized Scientific Figure Caption Generation: An Empirical Study on Author-Specific Writing Style Transfer"
 ---
 
 # Personalized Scientific Figure Caption Generation: An Empirical Study on Author-Specific Writing Style Transfer

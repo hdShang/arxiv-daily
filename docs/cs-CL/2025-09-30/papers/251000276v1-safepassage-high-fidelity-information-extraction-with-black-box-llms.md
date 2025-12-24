@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SafePassage: High-Fidelity Information Extraction with Black Box LLMs
+title: "SafePassage: High-Fidelity Information Extraction with Black Box LLMs"
 ---
 
 # SafePassage: High-Fidelity Information Extraction with Black Box LLMs

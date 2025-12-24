@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models
+title: "FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models"
 ---
 
 # FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models

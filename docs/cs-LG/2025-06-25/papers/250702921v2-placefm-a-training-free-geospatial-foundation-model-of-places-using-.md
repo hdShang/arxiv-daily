@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PlaceFM: A Training-free Geospatial Foundation Model of Places using Large-Scale Point of Interest Data
+title: "PlaceFM: A Training-free Geospatial Foundation Model of Places using Large-Scale Point of Interest Data"
 ---
 
 # PlaceFM: A Training-free Geospatial Foundation Model of Places using Large-Scale Point of Interest Data

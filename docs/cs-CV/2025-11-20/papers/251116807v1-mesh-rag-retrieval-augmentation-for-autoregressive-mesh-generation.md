@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mesh RAG: Retrieval Augmentation for Autoregressive Mesh Generation
+title: "Mesh RAG: Retrieval Augmentation for Autoregressive Mesh Generation"
 ---
 
 # Mesh RAG: Retrieval Augmentation for Autoregressive Mesh Generation

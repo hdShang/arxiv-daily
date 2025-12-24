@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WaveMind: Towards a Conversational EEG Foundation Model Aligned to Textual and Visual Modalities
+title: "WaveMind: Towards a Conversational EEG Foundation Model Aligned to Textual and Visual Modalities"
 ---
 
 # WaveMind: Towards a Conversational EEG Foundation Model Aligned to Textual and Visual Modalities

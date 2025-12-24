@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SLR: Automated Synthesis for Scalable Logical Reasoning
+title: "SLR: Automated Synthesis for Scalable Logical Reasoning"
 ---
 
 # SLR: Automated Synthesis for Scalable Logical Reasoning

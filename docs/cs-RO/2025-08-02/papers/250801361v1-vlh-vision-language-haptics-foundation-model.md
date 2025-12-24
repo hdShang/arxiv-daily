@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VLH: Vision-Language-Haptics Foundation Model
+title: "VLH: Vision-Language-Haptics Foundation Model"
 ---
 
 # VLH: Vision-Language-Haptics Foundation Model

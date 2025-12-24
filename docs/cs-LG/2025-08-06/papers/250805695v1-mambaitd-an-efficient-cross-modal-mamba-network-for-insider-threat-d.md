@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MambaITD: An Efficient Cross-Modal Mamba Network for Insider Threat Detection
+title: "MambaITD: An Efficient Cross-Modal Mamba Network for Insider Threat Detection"
 ---
 
 # MambaITD: An Efficient Cross-Modal Mamba Network for Insider Threat Detection

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DEPTHOR++: Robust Depth Enhancement from a Real-World Lightweight dToF and RGB Guidance
+title: "DEPTHOR++: Robust Depth Enhancement from a Real-World Lightweight dToF and RGB Guidance"
 ---
 
 # DEPTHOR++: Robust Depth Enhancement from a Real-World Lightweight dToF and RGB Guidance

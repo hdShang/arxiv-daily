@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PlayerOne: Egocentric World Simulator
+title: "PlayerOne: Egocentric World Simulator"
 ---
 
 # PlayerOne: Egocentric World Simulator

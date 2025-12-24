@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DPad: Efficient Diffusion Language Models with Suffix Dropout
+title: "DPad: Efficient Diffusion Language Models with Suffix Dropout"
 ---
 
 # DPad: Efficient Diffusion Language Models with Suffix Dropout

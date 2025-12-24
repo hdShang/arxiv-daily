@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards
+title: "Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards"
 ---
 
 # Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards

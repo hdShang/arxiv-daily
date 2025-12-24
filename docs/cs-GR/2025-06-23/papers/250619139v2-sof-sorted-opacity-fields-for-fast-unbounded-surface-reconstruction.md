@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SOF: Sorted Opacity Fields for Fast Unbounded Surface Reconstruction
+title: "SOF: Sorted Opacity Fields for Fast Unbounded Surface Reconstruction"
 ---
 
 # SOF: Sorted Opacity Fields for Fast Unbounded Surface Reconstruction

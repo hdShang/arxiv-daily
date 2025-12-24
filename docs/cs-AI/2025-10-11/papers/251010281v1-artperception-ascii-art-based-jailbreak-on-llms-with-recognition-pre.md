@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ArtPerception: ASCII Art-based Jailbreak on LLMs with Recognition Pre-test
+title: "ArtPerception: ASCII Art-based Jailbreak on LLMs with Recognition Pre-test"
 ---
 
 # ArtPerception: ASCII Art-based Jailbreak on LLMs with Recognition Pre-test

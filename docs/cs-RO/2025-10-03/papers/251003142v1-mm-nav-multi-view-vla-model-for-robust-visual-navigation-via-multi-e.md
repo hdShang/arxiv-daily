@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MM-Nav: Multi-View VLA Model for Robust Visual Navigation via Multi-Expert Learning
+title: "MM-Nav: Multi-View VLA Model for Robust Visual Navigation via Multi-Expert Learning"
 ---
 
 # MM-Nav: Multi-View VLA Model for Robust Visual Navigation via Multi-Expert Learning

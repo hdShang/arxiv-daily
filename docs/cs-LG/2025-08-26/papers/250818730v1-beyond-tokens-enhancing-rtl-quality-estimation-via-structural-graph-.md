@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Tokens: Enhancing RTL Quality Estimation via Structural Graph Learning
+title: "Beyond Tokens: Enhancing RTL Quality Estimation via Structural Graph Learning"
 ---
 
 # Beyond Tokens: Enhancing RTL Quality Estimation via Structural Graph Learning

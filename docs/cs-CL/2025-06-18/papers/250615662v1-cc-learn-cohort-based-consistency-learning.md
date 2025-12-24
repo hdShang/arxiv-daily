@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CC-LEARN: Cohort-based Consistency Learning
+title: "CC-LEARN: Cohort-based Consistency Learning"
 ---
 
 # CC-LEARN: Cohort-based Consistency Learning

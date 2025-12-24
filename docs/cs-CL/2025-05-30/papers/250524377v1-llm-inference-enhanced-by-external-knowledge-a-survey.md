@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM Inference Enhanced by External Knowledge: A Survey
+title: "LLM Inference Enhanced by External Knowledge: A Survey"
 ---
 
 # LLM Inference Enhanced by External Knowledge: A Survey

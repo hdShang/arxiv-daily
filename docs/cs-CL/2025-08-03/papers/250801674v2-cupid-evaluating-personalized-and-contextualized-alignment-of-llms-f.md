@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CUPID: Evaluating Personalized and Contextualized Alignment of LLMs from Interactions
+title: "CUPID: Evaluating Personalized and Contextualized Alignment of LLMs from Interactions"
 ---
 
 # CUPID: Evaluating Personalized and Contextualized Alignment of LLMs from Interactions

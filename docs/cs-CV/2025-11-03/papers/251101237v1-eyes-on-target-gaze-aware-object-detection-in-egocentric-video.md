@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Eyes on Target: Gaze-Aware Object Detection in Egocentric Video
+title: "Eyes on Target: Gaze-Aware Object Detection in Egocentric Video"
 ---
 
 # Eyes on Target: Gaze-Aware Object Detection in Egocentric Video

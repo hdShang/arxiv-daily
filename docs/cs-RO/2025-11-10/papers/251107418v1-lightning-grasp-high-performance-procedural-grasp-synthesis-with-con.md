@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lightning Grasp: High Performance Procedural Grasp Synthesis with Contact Fields
+title: "Lightning Grasp: High Performance Procedural Grasp Synthesis with Contact Fields"
 ---
 
 # Lightning Grasp: High Performance Procedural Grasp Synthesis with Contact Fields

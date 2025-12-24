@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CausalMamba: Scalable Conditional State Space Models for Neural Causal Inference
+title: "CausalMamba: Scalable Conditional State Space Models for Neural Causal Inference"
 ---
 
 # CausalMamba: Scalable Conditional State Space Models for Neural Causal Inference

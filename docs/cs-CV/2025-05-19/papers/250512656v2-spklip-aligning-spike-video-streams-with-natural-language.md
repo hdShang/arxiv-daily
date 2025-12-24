@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SPKLIP: Aligning Spike Video Streams with Natural Language
+title: "SPKLIP: Aligning Spike Video Streams with Natural Language"
 ---
 
 # SPKLIP: Aligning Spike Video Streams with Natural Language

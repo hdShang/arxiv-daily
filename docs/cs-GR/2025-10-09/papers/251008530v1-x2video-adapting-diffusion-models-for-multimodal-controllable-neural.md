@@ -1,6 +1,6 @@
 ---
 layout: default
-title: X2Video: Adapting Diffusion Models for Multimodal Controllable Neural Video Rendering
+title: "X2Video: Adapting Diffusion Models for Multimodal Controllable Neural Video Rendering"
 ---
 
 # X2Video: Adapting Diffusion Models for Multimodal Controllable Neural Video Rendering

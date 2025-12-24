@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HuMam: Humanoid Motion Control via End-to-End Deep Reinforcement Learning with Mamba
+title: "HuMam: Humanoid Motion Control via End-to-End Deep Reinforcement Learning with Mamba"
 ---
 
 # HuMam: Humanoid Motion Control via End-to-End Deep Reinforcement Learning with Mamba

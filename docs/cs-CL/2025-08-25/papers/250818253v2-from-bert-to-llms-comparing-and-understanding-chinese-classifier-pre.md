@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From BERT to LLMs: Comparing and Understanding Chinese Classifier Prediction in Language Models
+title: "From BERT to LLMs: Comparing and Understanding Chinese Classifier Prediction in Language Models"
 ---
 
 # From BERT to LLMs: Comparing and Understanding Chinese Classifier Prediction in Language Models

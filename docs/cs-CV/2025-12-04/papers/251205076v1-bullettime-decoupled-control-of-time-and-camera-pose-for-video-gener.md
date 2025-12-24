@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BulletTime: Decoupled Control of Time and Camera Pose for Video Generation
+title: "BulletTime: Decoupled Control of Time and Camera Pose for Video Generation"
 ---
 
 # BulletTime: Decoupled Control of Time and Camera Pose for Video Generation

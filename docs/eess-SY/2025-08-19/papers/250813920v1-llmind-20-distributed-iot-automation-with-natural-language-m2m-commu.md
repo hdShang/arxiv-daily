@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLMind 2.0: Distributed IoT Automation with Natural Language M2M Communication and Lightweight LLM Agents
+title: "LLMind 2.0: Distributed IoT Automation with Natural Language M2M Communication and Lightweight LLM Agents"
 ---
 
 # LLMind 2.0: Distributed IoT Automation with Natural Language M2M Communication and Lightweight LLM Agents

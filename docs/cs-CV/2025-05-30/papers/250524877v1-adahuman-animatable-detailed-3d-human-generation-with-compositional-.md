@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion
+title: "AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion"
 ---
 
 # AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks
+title: "Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks"
 ---
 
 # Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks

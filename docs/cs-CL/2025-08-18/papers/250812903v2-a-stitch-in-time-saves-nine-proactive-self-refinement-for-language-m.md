@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Stitch in Time Saves Nine: Proactive Self-Refinement for Language Models
+title: "A Stitch in Time Saves Nine: Proactive Self-Refinement for Language Models"
 ---
 
 # A Stitch in Time Saves Nine: Proactive Self-Refinement for Language Models

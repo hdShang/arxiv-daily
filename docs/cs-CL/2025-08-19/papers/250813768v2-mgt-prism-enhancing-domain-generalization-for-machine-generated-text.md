@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MGT-Prism: Enhancing Domain Generalization for Machine-Generated Text Detection via Spectral Alignment
+title: "MGT-Prism: Enhancing Domain Generalization for Machine-Generated Text Detection via Spectral Alignment"
 ---
 
 # MGT-Prism: Enhancing Domain Generalization for Machine-Generated Text Detection via Spectral Alignment

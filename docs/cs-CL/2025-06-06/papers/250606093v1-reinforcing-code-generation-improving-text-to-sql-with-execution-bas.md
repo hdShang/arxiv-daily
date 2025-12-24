@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reinforcing Code Generation: Improving Text-to-SQL with Execution-Based Learning
+title: "Reinforcing Code Generation: Improving Text-to-SQL with Execution-Based Learning"
 ---
 
 # Reinforcing Code Generation: Improving Text-to-SQL with Execution-Based Learning

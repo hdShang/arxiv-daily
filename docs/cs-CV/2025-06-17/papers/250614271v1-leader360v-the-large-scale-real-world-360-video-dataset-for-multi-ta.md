@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Leader360V: The Large-scale, Real-world 360 Video Dataset for Multi-task Learning in Diverse Environment
+title: "Leader360V: The Large-scale, Real-world 360 Video Dataset for Multi-task Learning in Diverse Environment"
 ---
 
 # Leader360V: The Large-scale, Real-world 360 Video Dataset for Multi-task Learning in Diverse Environment

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "DIVE" into Hydrogen Storage Materials Discovery with AI Agents
+title: "\"DIVE\" into Hydrogen Storage Materials Discovery with AI Agents"
 ---
 
 # "DIVE" into Hydrogen Storage Materials Discovery with AI Agents

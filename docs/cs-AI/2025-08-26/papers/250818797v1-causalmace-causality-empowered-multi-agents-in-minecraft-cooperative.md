@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CausalMACE: Causality Empowered Multi-Agents in Minecraft Cooperative Tasks
+title: "CausalMACE: Causality Empowered Multi-Agents in Minecraft Cooperative Tasks"
 ---
 
 # CausalMACE: Causality Empowered Multi-Agents in Minecraft Cooperative Tasks

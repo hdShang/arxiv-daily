@@ -1,6 +1,6 @@
 ---
 layout: default
-title: POLAR: A Benchmark for Multilingual, Multicultural, and Multi-Event Online Polarization
+title: "POLAR: A Benchmark for Multilingual, Multicultural, and Multi-Event Online Polarization"
 ---
 
 # POLAR: A Benchmark for Multilingual, Multicultural, and Multi-Event Online Polarization

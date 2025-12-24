@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Re-Depth Anything: Test-Time Depth Refinement via Self-Supervised Re-lighting
+title: "Re-Depth Anything: Test-Time Depth Refinement via Self-Supervised Re-lighting"
 ---
 
 # Re-Depth Anything: Test-Time Depth Refinement via Self-Supervised Re-lighting

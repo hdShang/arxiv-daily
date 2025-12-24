@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bridge the Gap: Enhancing Quadruped Locomotion with Vertical Ground Perturbations
+title: "Bridge the Gap: Enhancing Quadruped Locomotion with Vertical Ground Perturbations"
 ---
 
 # Bridge the Gap: Enhancing Quadruped Locomotion with Vertical Ground Perturbations

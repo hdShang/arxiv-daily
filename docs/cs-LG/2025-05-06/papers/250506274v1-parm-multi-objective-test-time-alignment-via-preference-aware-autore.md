@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PARM: Multi-Objective Test-Time Alignment via Preference-Aware Autoregressive Reward Model
+title: "PARM: Multi-Objective Test-Time Alignment via Preference-Aware Autoregressive Reward Model"
 ---
 
 # PARM: Multi-Objective Test-Time Alignment via Preference-Aware Autoregressive Reward Model

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SBFA: Single Sneaky Bit Flip Attack to Break Large Language Models
+title: "SBFA: Single Sneaky Bit Flip Attack to Break Large Language Models"
 ---
 
 # SBFA: Single Sneaky Bit Flip Attack to Break Large Language Models

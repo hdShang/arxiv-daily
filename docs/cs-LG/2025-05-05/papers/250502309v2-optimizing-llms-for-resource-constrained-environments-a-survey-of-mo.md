@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Optimizing LLMs for Resource-Constrained Environments: A Survey of Model Compression Techniques
+title: "Optimizing LLMs for Resource-Constrained Environments: A Survey of Model Compression Techniques"
 ---
 
 # Optimizing LLMs for Resource-Constrained Environments: A Survey of Model Compression Techniques

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InterPose: Learning to Generate Human-Object Interactions from Large-Scale Web Videos
+title: "InterPose: Learning to Generate Human-Object Interactions from Large-Scale Web Videos"
 ---
 
 # InterPose: Learning to Generate Human-Object Interactions from Large-Scale Web Videos

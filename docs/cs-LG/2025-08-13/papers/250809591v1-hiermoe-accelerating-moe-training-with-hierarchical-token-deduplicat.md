@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HierMoE: Accelerating MoE Training with Hierarchical Token Deduplication and Expert Swap
+title: "HierMoE: Accelerating MoE Training with Hierarchical Token Deduplication and Expert Swap"
 ---
 
 # HierMoE: Accelerating MoE Training with Hierarchical Token Deduplication and Expert Swap

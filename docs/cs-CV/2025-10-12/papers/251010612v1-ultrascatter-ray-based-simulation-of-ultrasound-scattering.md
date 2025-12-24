@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UltraScatter: Ray-Based Simulation of Ultrasound Scattering
+title: "UltraScatter: Ray-Based Simulation of Ultrasound Scattering"
 ---
 
 # UltraScatter: Ray-Based Simulation of Ultrasound Scattering

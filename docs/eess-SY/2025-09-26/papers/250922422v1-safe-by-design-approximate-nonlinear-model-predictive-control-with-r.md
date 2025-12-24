@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Safe-by-Design: Approximate Nonlinear Model Predictive Control with Real Time Feasibility
+title: "Safe-by-Design: Approximate Nonlinear Model Predictive Control with Real Time Feasibility"
 ---
 
 # Safe-by-Design: Approximate Nonlinear Model Predictive Control with Real Time Feasibility

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SparseLoRA: Accelerating LLM Fine-Tuning with Contextual Sparsity
+title: "SparseLoRA: Accelerating LLM Fine-Tuning with Contextual Sparsity"
 ---
 
 # SparseLoRA: Accelerating LLM Fine-Tuning with Contextual Sparsity

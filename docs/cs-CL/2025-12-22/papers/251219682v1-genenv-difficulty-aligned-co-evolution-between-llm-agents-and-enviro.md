@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators
+title: "GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators"
 ---
 
 # GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assessing Large Language Models on Islamic Legal Reasoning: Evidence from Inheritance Law Evaluation
+title: "Assessing Large Language Models on Islamic Legal Reasoning: Evidence from Inheritance Law Evaluation"
 ---
 
 # Assessing Large Language Models on Islamic Legal Reasoning: Evidence from Inheritance Law Evaluation

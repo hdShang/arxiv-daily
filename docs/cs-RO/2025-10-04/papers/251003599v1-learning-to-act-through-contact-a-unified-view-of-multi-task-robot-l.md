@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning to Act Through Contact: A Unified View of Multi-Task Robot Learning
+title: "Learning to Act Through Contact: A Unified View of Multi-Task Robot Learning"
 ---
 
 # Learning to Act Through Contact: A Unified View of Multi-Task Robot Learning

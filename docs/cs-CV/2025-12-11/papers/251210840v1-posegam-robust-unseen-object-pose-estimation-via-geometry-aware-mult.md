@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PoseGAM: Robust Unseen Object Pose Estimation via Geometry-Aware Multi-View Reasoning
+title: "PoseGAM: Robust Unseen Object Pose Estimation via Geometry-Aware Multi-View Reasoning"
 ---
 
 # PoseGAM: Robust Unseen Object Pose Estimation via Geometry-Aware Multi-View Reasoning

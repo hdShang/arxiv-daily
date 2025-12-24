@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ARMimic: Learning Robotic Manipulation from Passive Human Demonstrations in Augmented Reality
+title: "ARMimic: Learning Robotic Manipulation from Passive Human Demonstrations in Augmented Reality"
 ---
 
 # ARMimic: Learning Robotic Manipulation from Passive Human Demonstrations in Augmented Reality

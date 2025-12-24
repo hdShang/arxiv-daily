@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VAEmo: Efficient Representation Learning for Visual-Audio Emotion with Knowledge Injection
+title: "VAEmo: Efficient Representation Learning for Visual-Audio Emotion with Knowledge Injection"
 ---
 
 # VAEmo: Efficient Representation Learning for Visual-Audio Emotion with Knowledge Injection

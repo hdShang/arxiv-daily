@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ControlTac: Force- and Position-Controlled Tactile Data Augmentation with a Single Reference Image
+title: "ControlTac: Force- and Position-Controlled Tactile Data Augmentation with a Single Reference Image"
 ---
 
 # ControlTac: Force- and Position-Controlled Tactile Data Augmentation with a Single Reference Image

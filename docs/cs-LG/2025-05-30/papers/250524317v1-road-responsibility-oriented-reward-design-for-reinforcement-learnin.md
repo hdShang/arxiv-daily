@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ROAD: Responsibility-Oriented Reward Design for Reinforcement Learning in Autonomous Driving
+title: "ROAD: Responsibility-Oriented Reward Design for Reinforcement Learning in Autonomous Driving"
 ---
 
 # ROAD: Responsibility-Oriented Reward Design for Reinforcement Learning in Autonomous Driving

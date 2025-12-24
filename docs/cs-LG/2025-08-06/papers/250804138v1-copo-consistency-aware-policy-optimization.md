@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COPO: Consistency-Aware Policy Optimization
+title: "COPO: Consistency-Aware Policy Optimization"
 ---
 
 # COPO: Consistency-Aware Policy Optimization

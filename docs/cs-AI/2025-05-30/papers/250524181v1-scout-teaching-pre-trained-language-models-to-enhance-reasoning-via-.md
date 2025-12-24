@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SCOUT: Teaching Pre-trained Language Models to Enhance Reasoning via Flow Chain-of-Thought
+title: "SCOUT: Teaching Pre-trained Language Models to Enhance Reasoning via Flow Chain-of-Thought"
 ---
 
 # SCOUT: Teaching Pre-trained Language Models to Enhance Reasoning via Flow Chain-of-Thought

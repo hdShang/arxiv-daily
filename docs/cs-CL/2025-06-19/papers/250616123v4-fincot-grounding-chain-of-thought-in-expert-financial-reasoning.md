@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FinCoT: Grounding Chain-of-Thought in Expert Financial Reasoning
+title: "FinCoT: Grounding Chain-of-Thought in Expert Financial Reasoning"
 ---
 
 # FinCoT: Grounding Chain-of-Thought in Expert Financial Reasoning

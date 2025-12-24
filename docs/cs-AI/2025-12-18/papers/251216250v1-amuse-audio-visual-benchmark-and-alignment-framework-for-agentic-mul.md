@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AMUSE: Audio-Visual Benchmark and Alignment Framework for Agentic Multi-Speaker Understanding
+title: "AMUSE: Audio-Visual Benchmark and Alignment Framework for Agentic Multi-Speaker Understanding"
 ---
 
 # AMUSE: Audio-Visual Benchmark and Alignment Framework for Agentic Multi-Speaker Understanding

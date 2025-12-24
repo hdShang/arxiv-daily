@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Compression then Matching: An Efficient Pre-training Paradigm for Multimodal Embedding
+title: "Compression then Matching: An Efficient Pre-training Paradigm for Multimodal Embedding"
 ---
 
 # Compression then Matching: An Efficient Pre-training Paradigm for Multimodal Embedding

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning
+title: "MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning"
 ---
 
 # MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Herd Behavior: Investigating Peer Influence in LLM-based Multi-Agent Systems
+title: "Herd Behavior: Investigating Peer Influence in LLM-based Multi-Agent Systems"
 ---
 
 # Herd Behavior: Investigating Peer Influence in LLM-based Multi-Agent Systems

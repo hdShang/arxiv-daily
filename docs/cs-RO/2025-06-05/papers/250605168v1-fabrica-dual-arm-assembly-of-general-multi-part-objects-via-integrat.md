@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning and Learning
+title: "Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning and Learning"
 ---
 
 # Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning and Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Surg-InvNeRF: Invertible NeRF for 3D tracking and reconstruction in surgical vision
+title: "Surg-InvNeRF: Invertible NeRF for 3D tracking and reconstruction in surgical vision"
 ---
 
 # Surg-InvNeRF: Invertible NeRF for 3D tracking and reconstruction in surgical vision

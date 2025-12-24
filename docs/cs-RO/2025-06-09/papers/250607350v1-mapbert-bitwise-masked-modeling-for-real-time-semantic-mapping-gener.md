@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MapBERT: Bitwise Masked Modeling for Real-Time Semantic Mapping Generation
+title: "MapBERT: Bitwise Masked Modeling for Real-Time Semantic Mapping Generation"
 ---
 
 # MapBERT: Bitwise Masked Modeling for Real-Time Semantic Mapping Generation

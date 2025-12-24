@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HoMeR: Learning In-the-Wild Mobile Manipulation via Hybrid Imitation and Whole-Body Control
+title: "HoMeR: Learning In-the-Wild Mobile Manipulation via Hybrid Imitation and Whole-Body Control"
 ---
 
 # HoMeR: Learning In-the-Wild Mobile Manipulation via Hybrid Imitation and Whole-Body Control

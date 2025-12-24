@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InstructX: Towards Unified Visual Editing with MLLM Guidance
+title: "InstructX: Towards Unified Visual Editing with MLLM Guidance"
 ---
 
 # InstructX: Towards Unified Visual Editing with MLLM Guidance

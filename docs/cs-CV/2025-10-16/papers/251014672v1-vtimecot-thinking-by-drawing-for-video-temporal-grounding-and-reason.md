@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VTimeCoT: Thinking by Drawing for Video Temporal Grounding and Reasoning
+title: "VTimeCoT: Thinking by Drawing for Video Temporal Grounding and Reasoning"
 ---
 
 # VTimeCoT: Thinking by Drawing for Video Temporal Grounding and Reasoning

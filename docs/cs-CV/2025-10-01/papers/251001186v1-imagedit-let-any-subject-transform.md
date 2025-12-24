@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IMAGEdit: Let Any Subject Transform
+title: "IMAGEdit: Let Any Subject Transform"
 ---
 
 # IMAGEdit: Let Any Subject Transform

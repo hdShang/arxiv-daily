@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning
+title: "DeepEyes: Incentivizing \"Thinking with Images\" via Reinforcement Learning"
 ---
 
 # DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning

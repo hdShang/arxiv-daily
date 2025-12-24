@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Alignment-Centric Paradigm: A Survey of Instruction Tuning in Large Language Models
+title: "Towards Alignment-Centric Paradigm: A Survey of Instruction Tuning in Large Language Models"
 ---
 
 # Towards Alignment-Centric Paradigm: A Survey of Instruction Tuning in Large Language Models

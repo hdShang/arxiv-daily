@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TelePlanNet: An AI-Driven Framework for Efficient Telecom Network Planning
+title: "TelePlanNet: An AI-Driven Framework for Efficient Telecom Network Planning"
 ---
 
 # TelePlanNet: An AI-Driven Framework for Efficient Telecom Network Planning

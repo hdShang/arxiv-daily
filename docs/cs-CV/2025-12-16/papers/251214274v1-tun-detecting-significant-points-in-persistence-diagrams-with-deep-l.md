@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TUN: Detecting Significant Points in Persistence Diagrams with Deep Learning
+title: "TUN: Detecting Significant Points in Persistence Diagrams with Deep Learning"
 ---
 
 # TUN: Detecting Significant Points in Persistence Diagrams with Deep Learning

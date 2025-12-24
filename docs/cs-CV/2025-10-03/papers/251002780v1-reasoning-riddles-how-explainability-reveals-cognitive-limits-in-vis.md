@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reasoning Riddles: How Explainability Reveals Cognitive Limits in Vision-Language Models
+title: "Reasoning Riddles: How Explainability Reveals Cognitive Limits in Vision-Language Models"
 ---
 
 # Reasoning Riddles: How Explainability Reveals Cognitive Limits in Vision-Language Models

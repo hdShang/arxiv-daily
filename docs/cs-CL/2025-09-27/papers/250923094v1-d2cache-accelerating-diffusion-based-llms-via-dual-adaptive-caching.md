@@ -1,6 +1,6 @@
 ---
 layout: default
-title: d$^2$Cache: Accelerating Diffusion-Based LLMs via Dual Adaptive Caching
+title: "d$^2$Cache: Accelerating Diffusion-Based LLMs via Dual Adaptive Caching"
 ---
 
 # d$^2$Cache: Accelerating Diffusion-Based LLMs via Dual Adaptive Caching

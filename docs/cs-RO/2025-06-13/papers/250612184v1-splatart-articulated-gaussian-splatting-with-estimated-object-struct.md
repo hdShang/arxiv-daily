@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SPLATART: Articulated Gaussian Splatting with Estimated Object Structure
+title: "SPLATART: Articulated Gaussian Splatting with Estimated Object Structure"
 ---
 
 # SPLATART: Articulated Gaussian Splatting with Estimated Object Structure

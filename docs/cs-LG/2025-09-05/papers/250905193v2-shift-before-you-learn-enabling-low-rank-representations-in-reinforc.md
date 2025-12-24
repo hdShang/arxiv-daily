@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Shift Before You Learn: Enabling Low-Rank Representations in Reinforcement Learning
+title: "Shift Before You Learn: Enabling Low-Rank Representations in Reinforcement Learning"
 ---
 
 # Shift Before You Learn: Enabling Low-Rank Representations in Reinforcement Learning

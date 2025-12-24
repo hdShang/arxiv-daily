@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ConnectomeBench: Can LLMs Proofread the Connectome?
+title: "ConnectomeBench: Can LLMs Proofread the Connectome?"
 ---
 
 # ConnectomeBench: Can LLMs Proofread the Connectome?

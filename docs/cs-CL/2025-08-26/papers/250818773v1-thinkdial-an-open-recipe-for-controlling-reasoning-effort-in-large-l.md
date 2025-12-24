@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ThinkDial: An Open Recipe for Controlling Reasoning Effort in Large Language Models
+title: "ThinkDial: An Open Recipe for Controlling Reasoning Effort in Large Language Models"
 ---
 
 # ThinkDial: An Open Recipe for Controlling Reasoning Effort in Large Language Models

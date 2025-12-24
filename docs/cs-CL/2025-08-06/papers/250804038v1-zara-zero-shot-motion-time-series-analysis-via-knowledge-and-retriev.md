@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval Driven LLM Agents
+title: "ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval Driven LLM Agents"
 ---
 
 # ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval Driven LLM Agents

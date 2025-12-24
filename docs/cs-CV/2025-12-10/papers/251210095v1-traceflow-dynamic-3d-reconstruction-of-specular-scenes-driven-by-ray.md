@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TraceFlow: Dynamic 3D Reconstruction of Specular Scenes Driven by Ray Tracing
+title: "TraceFlow: Dynamic 3D Reconstruction of Specular Scenes Driven by Ray Tracing"
 ---
 
 # TraceFlow: Dynamic 3D Reconstruction of Specular Scenes Driven by Ray Tracing

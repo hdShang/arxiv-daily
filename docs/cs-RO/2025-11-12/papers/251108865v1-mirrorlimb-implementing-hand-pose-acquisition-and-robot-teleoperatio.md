@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MirrorLimb: Implementing hand pose acquisition and robot teleoperation based on RealMirror
+title: "MirrorLimb: Implementing hand pose acquisition and robot teleoperation based on RealMirror"
 ---
 
 # MirrorLimb: Implementing hand pose acquisition and robot teleoperation based on RealMirror

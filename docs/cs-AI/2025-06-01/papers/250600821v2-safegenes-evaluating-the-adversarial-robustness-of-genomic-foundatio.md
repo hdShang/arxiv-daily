@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SafeGenes: Evaluating the Adversarial Robustness of Genomic Foundation Models
+title: "SafeGenes: Evaluating the Adversarial Robustness of Genomic Foundation Models"
 ---
 
 # SafeGenes: Evaluating the Adversarial Robustness of Genomic Foundation Models

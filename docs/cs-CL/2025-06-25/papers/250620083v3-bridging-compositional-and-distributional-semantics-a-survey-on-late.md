@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bridging Compositional and Distributional Semantics: A Survey on Latent Semantic Geometry via AutoEncoder
+title: "Bridging Compositional and Distributional Semantics: A Survey on Latent Semantic Geometry via AutoEncoder"
 ---
 
 # Bridging Compositional and Distributional Semantics: A Survey on Latent Semantic Geometry via AutoEncoder

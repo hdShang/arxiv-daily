@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LAPSO: A Unified Optimization View for Learning-Augmented Power System Operations
+title: "LAPSO: A Unified Optimization View for Learning-Augmented Power System Operations"
 ---
 
 # LAPSO: A Unified Optimization View for Learning-Augmented Power System Operations

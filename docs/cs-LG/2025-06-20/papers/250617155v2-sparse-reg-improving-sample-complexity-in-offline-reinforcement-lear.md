@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sparse-Reg: Improving Sample Complexity in Offline Reinforcement Learning using Sparsity
+title: "Sparse-Reg: Improving Sample Complexity in Offline Reinforcement Learning using Sparsity"
 ---
 
 # Sparse-Reg: Improving Sample Complexity in Offline Reinforcement Learning using Sparsity

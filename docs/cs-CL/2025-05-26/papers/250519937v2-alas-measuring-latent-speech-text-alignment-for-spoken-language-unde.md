@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ALAS: Measuring Latent Speech-Text Alignment For Spoken Language Understanding In Multimodal LLMs
+title: "ALAS: Measuring Latent Speech-Text Alignment For Spoken Language Understanding In Multimodal LLMs"
 ---
 
 # ALAS: Measuring Latent Speech-Text Alignment For Spoken Language Understanding In Multimodal LLMs

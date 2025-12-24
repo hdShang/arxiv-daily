@@ -1,6 +1,6 @@
 ---
 layout: default
-title: General-Reasoner: Advancing LLM Reasoning Across All Domains
+title: "General-Reasoner: Advancing LLM Reasoning Across All Domains"
 ---
 
 # General-Reasoner: Advancing LLM Reasoning Across All Domains

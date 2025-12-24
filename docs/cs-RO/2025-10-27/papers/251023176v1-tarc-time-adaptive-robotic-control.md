@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TARC: Time-Adaptive Robotic Control
+title: "TARC: Time-Adaptive Robotic Control"
 ---
 
 # TARC: Time-Adaptive Robotic Control

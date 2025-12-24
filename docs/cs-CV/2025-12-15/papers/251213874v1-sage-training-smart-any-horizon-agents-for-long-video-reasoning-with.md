@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SAGE: Training Smart Any-Horizon Agents for Long Video Reasoning with Reinforcement Learning
+title: "SAGE: Training Smart Any-Horizon Agents for Long Video Reasoning with Reinforcement Learning"
 ---
 
 # SAGE: Training Smart Any-Horizon Agents for Long Video Reasoning with Reinforcement Learning

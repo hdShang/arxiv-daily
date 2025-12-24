@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hallucination reduction with CASAL: Contrastive Activation Steering For Amortized Learning
+title: "Hallucination reduction with CASAL: Contrastive Activation Steering For Amortized Learning"
 ---
 
 # Hallucination reduction with CASAL: Contrastive Activation Steering For Amortized Learning

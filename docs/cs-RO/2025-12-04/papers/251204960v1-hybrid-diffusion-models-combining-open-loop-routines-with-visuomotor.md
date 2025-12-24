@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hybrid-Diffusion Models: Combining Open-loop Routines with Visuomotor Diffusion Policies
+title: "Hybrid-Diffusion Models: Combining Open-loop Routines with Visuomotor Diffusion Policies"
 ---
 
 # Hybrid-Diffusion Models: Combining Open-loop Routines with Visuomotor Diffusion Policies

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PathCoT: Chain-of-Thought Prompting for Zero-shot Pathology Visual Reasoning
+title: "PathCoT: Chain-of-Thought Prompting for Zero-shot Pathology Visual Reasoning"
 ---
 
 # PathCoT: Chain-of-Thought Prompting for Zero-shot Pathology Visual Reasoning

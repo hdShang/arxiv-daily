@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Enhancing the Learning Experience: Using Vision-Language Models to Generate Questions for Educational Videos
+title: "Enhancing the Learning Experience: Using Vision-Language Models to Generate Questions for Educational Videos"
 ---
 
 # Enhancing the Learning Experience: Using Vision-Language Models to Generate Questions for Educational Videos

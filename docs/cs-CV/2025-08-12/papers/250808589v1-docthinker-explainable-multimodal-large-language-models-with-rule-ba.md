@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DocThinker: Explainable Multimodal Large Language Models with Rule-based Reinforcement Learning for Document Understanding
+title: "DocThinker: Explainable Multimodal Large Language Models with Rule-based Reinforcement Learning for Document Understanding"
 ---
 
 # DocThinker: Explainable Multimodal Large Language Models with Rule-based Reinforcement Learning for Document Understanding

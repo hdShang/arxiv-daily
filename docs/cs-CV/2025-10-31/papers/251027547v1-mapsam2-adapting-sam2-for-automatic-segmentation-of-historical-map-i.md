@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MapSAM2: Adapting SAM2 for Automatic Segmentation of Historical Map Images and Time Series
+title: "MapSAM2: Adapting SAM2 for Automatic Segmentation of Historical Map Images and Time Series"
 ---
 
 # MapSAM2: Adapting SAM2 for Automatic Segmentation of Historical Map Images and Time Series

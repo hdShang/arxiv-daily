@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SecureAgentBench: Benchmarking Secure Code Generation under Realistic Vulnerability Scenarios
+title: "SecureAgentBench: Benchmarking Secure Code Generation under Realistic Vulnerability Scenarios"
 ---
 
 # SecureAgentBench: Benchmarking Secure Code Generation under Realistic Vulnerability Scenarios

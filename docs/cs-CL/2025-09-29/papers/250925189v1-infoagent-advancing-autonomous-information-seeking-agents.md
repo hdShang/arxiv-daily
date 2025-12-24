@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InfoAgent: Advancing Autonomous Information-Seeking Agents
+title: "InfoAgent: Advancing Autonomous Information-Seeking Agents"
 ---
 
 # InfoAgent: Advancing Autonomous Information-Seeking Agents

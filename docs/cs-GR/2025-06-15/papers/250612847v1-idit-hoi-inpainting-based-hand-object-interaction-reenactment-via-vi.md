@@ -1,6 +1,6 @@
 ---
 layout: default
-title: iDiT-HOI: Inpainting-based Hand Object Interaction Reenactment via Video Diffusion Transformer
+title: "iDiT-HOI: Inpainting-based Hand Object Interaction Reenactment via Video Diffusion Transformer"
 ---
 
 # iDiT-HOI: Inpainting-based Hand Object Interaction Reenactment via Video Diffusion Transformer

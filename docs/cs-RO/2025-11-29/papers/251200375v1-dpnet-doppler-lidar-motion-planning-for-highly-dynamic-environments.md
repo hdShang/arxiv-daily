@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DPNet: Doppler LiDAR Motion Planning for Highly-Dynamic Environments
+title: "DPNet: Doppler LiDAR Motion Planning for Highly-Dynamic Environments"
 ---
 
 # DPNet: Doppler LiDAR Motion Planning for Highly-Dynamic Environments

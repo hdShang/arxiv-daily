@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TeViR: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning
+title: "TeViR: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning"
 ---
 
 # TeViR: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning

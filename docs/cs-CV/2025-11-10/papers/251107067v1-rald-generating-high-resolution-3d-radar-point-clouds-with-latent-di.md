@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RaLD: Generating High-Resolution 3D Radar Point Clouds with Latent Diffusion
+title: "RaLD: Generating High-Resolution 3D Radar Point Clouds with Latent Diffusion"
 ---
 
 # RaLD: Generating High-Resolution 3D Radar Point Clouds with Latent Diffusion

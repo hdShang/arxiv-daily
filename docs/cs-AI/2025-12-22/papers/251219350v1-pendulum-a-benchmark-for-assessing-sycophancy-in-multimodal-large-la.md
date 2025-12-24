@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PENDULUM: A Benchmark for Assessing Sycophancy in Multimodal Large Language Models
+title: "PENDULUM: A Benchmark for Assessing Sycophancy in Multimodal Large Language Models"
 ---
 
 # PENDULUM: A Benchmark for Assessing Sycophancy in Multimodal Large Language Models

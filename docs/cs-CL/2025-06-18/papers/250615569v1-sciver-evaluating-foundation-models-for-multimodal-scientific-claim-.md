@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SciVer: Evaluating Foundation Models for Multimodal Scientific Claim Verification
+title: "SciVer: Evaluating Foundation Models for Multimodal Scientific Claim Verification"
 ---
 
 # SciVer: Evaluating Foundation Models for Multimodal Scientific Claim Verification

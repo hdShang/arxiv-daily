@@ -1,6 +1,6 @@
 ---
 layout: default
-title: L3M+P: Lifelong Planning with Large Language Models
+title: "L3M+P: Lifelong Planning with Large Language Models"
 ---
 
 # L3M+P: Lifelong Planning with Large Language Models

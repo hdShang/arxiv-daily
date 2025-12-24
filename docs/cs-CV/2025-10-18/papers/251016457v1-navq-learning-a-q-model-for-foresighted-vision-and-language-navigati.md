@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NavQ: Learning a Q-Model for Foresighted Vision-and-Language Navigation
+title: "NavQ: Learning a Q-Model for Foresighted Vision-and-Language Navigation"
 ---
 
 # NavQ: Learning a Q-Model for Foresighted Vision-and-Language Navigation

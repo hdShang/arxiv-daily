@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniPilot: Enabling GPS-Denied Autonomy Across Embodiments
+title: "UniPilot: Enabling GPS-Denied Autonomy Across Embodiments"
 ---
 
 # UniPilot: Enabling GPS-Denied Autonomy Across Embodiments

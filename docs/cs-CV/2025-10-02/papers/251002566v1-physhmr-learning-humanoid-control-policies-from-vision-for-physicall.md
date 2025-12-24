@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PhysHMR: Learning Humanoid Control Policies from Vision for Physically Plausible Human Motion Reconstruction
+title: "PhysHMR: Learning Humanoid Control Policies from Vision for Physically Plausible Human Motion Reconstruction"
 ---
 
 # PhysHMR: Learning Humanoid Control Policies from Vision for Physically Plausible Human Motion Reconstruction

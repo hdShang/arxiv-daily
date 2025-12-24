@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TopoCut: Learning Multi-Step Cutting with Spectral Rewards and Discrete Diffusion Policies
+title: "TopoCut: Learning Multi-Step Cutting with Spectral Rewards and Discrete Diffusion Policies"
 ---
 
 # TopoCut: Learning Multi-Step Cutting with Spectral Rewards and Discrete Diffusion Policies

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout
+title: "N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout"
 ---
 
 # N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout

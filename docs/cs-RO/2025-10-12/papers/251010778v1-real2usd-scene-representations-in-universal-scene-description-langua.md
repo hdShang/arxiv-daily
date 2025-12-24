@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Real2USD: Scene Representations in Universal Scene Description Language
+title: "Real2USD: Scene Representations in Universal Scene Description Language"
 ---
 
 # Real2USD: Scene Representations in Universal Scene Description Language

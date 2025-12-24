@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RLSR: Reinforcement Learning from Self Reward
+title: "RLSR: Reinforcement Learning from Self Reward"
 ---
 
 # RLSR: Reinforcement Learning from Self Reward

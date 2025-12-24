@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Democratizing Diplomacy: A Harness for Evaluating Any Large Language Model on Full-Press Diplomacy
+title: "Democratizing Diplomacy: A Harness for Evaluating Any Large Language Model on Full-Press Diplomacy"
 ---
 
 # Democratizing Diplomacy: A Harness for Evaluating Any Large Language Model on Full-Press Diplomacy

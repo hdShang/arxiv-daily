@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ODI-Bench: Can MLLMs Understand Immersive Omnidirectional Environments?
+title: "ODI-Bench: Can MLLMs Understand Immersive Omnidirectional Environments?"
 ---
 
 # ODI-Bench: Can MLLMs Understand Immersive Omnidirectional Environments?

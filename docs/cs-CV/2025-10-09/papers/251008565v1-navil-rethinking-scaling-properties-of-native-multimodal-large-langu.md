@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NaViL: Rethinking Scaling Properties of Native Multimodal Large Language Models under Data Constraints
+title: "NaViL: Rethinking Scaling Properties of Native Multimodal Large Language Models under Data Constraints"
 ---
 
 # NaViL: Rethinking Scaling Properties of Native Multimodal Large Language Models under Data Constraints

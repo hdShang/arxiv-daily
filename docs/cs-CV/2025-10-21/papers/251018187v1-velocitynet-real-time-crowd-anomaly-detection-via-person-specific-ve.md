@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VelocityNet: Real-Time Crowd Anomaly Detection via Person-Specific Velocity Analysis
+title: "VelocityNet: Real-Time Crowd Anomaly Detection via Person-Specific Velocity Analysis"
 ---
 
 # VelocityNet: Real-Time Crowd Anomaly Detection via Person-Specific Velocity Analysis

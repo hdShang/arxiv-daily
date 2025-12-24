@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Monitoring Horses in Stalls: From Object to Event Detection
+title: "Monitoring Horses in Stalls: From Object to Event Detection"
 ---
 
 # Monitoring Horses in Stalls: From Object to Event Detection

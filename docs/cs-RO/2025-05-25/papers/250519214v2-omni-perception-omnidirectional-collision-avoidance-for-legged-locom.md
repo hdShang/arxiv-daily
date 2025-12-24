@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments
+title: "Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments"
 ---
 
 # Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CREFT: Sequential Multi-Agent LLM for Character Relation Extraction
+title: "CREFT: Sequential Multi-Agent LLM for Character Relation Extraction"
 ---
 
 # CREFT: Sequential Multi-Agent LLM for Character Relation Extraction

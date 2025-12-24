@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration
+title: "RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration"
 ---
 
 # RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration

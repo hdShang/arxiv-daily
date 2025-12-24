@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chameleon: A Flexible Data-mixing Framework for Language Model Pretraining and Finetuning
+title: "Chameleon: A Flexible Data-mixing Framework for Language Model Pretraining and Finetuning"
 ---
 
 # Chameleon: A Flexible Data-mixing Framework for Language Model Pretraining and Finetuning

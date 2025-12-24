@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EasyV2V: A High-quality Instruction-based Video Editing Framework
+title: "EasyV2V: A High-quality Instruction-based Video Editing Framework"
 ---
 
 # EasyV2V: A High-quality Instruction-based Video Editing Framework

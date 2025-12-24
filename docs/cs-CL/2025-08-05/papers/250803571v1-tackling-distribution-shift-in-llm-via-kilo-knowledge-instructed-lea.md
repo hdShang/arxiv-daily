@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tackling Distribution Shift in LLM via KILO: Knowledge-Instructed Learning for Continual Adaptation
+title: "Tackling Distribution Shift in LLM via KILO: Knowledge-Instructed Learning for Continual Adaptation"
 ---
 
 # Tackling Distribution Shift in LLM via KILO: Knowledge-Instructed Learning for Continual Adaptation

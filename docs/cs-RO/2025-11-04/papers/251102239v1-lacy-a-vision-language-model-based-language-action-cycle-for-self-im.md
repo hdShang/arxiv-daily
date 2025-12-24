@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LACY: A Vision-Language Model-based Language-Action Cycle for Self-Improving Robotic Manipulation
+title: "LACY: A Vision-Language Model-based Language-Action Cycle for Self-Improving Robotic Manipulation"
 ---
 
 # LACY: A Vision-Language Model-based Language-Action Cycle for Self-Improving Robotic Manipulation

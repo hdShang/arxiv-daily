@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language Model
+title: "Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language Model"
 ---
 
 # Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language Model

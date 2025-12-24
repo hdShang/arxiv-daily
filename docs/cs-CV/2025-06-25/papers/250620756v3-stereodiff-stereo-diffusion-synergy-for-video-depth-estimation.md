@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StereoDiff: Stereo-Diffusion Synergy for Video Depth Estimation
+title: "StereoDiff: Stereo-Diffusion Synergy for Video Depth Estimation"
 ---
 
 # StereoDiff: Stereo-Diffusion Synergy for Video Depth Estimation

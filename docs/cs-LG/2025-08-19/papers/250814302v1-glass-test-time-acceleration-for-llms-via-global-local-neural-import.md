@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GLASS: Test-Time Acceleration for LLMs via Global-Local Neural Importance Aggregation
+title: "GLASS: Test-Time Acceleration for LLMs via Global-Local Neural Importance Aggregation"
 ---
 
 # GLASS: Test-Time Acceleration for LLMs via Global-Local Neural Importance Aggregation

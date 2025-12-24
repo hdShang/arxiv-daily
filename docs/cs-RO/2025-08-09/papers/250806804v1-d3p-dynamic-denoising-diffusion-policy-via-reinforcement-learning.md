@@ -1,6 +1,6 @@
 ---
 layout: default
-title: D3P: Dynamic Denoising Diffusion Policy via Reinforcement Learning
+title: "D3P: Dynamic Denoising Diffusion Policy via Reinforcement Learning"
 ---
 
 # D3P: Dynamic Denoising Diffusion Policy via Reinforcement Learning

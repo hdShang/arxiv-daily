@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Clip Your Sequences Fairly: Enforcing Length Fairness for Sequence-Level RL
+title: "Clip Your Sequences Fairly: Enforcing Length Fairness for Sequence-Level RL"
 ---
 
 # Clip Your Sequences Fairly: Enforcing Length Fairness for Sequence-Level RL

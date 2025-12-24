@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models
+title: "GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models"
 ---
 
 # GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models

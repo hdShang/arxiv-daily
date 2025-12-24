@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CCNeXt: An Effective Self-Supervised Stereo Depth Estimation Approach
+title: "CCNeXt: An Effective Self-Supervised Stereo Depth Estimation Approach"
 ---
 
 # CCNeXt: An Effective Self-Supervised Stereo Depth Estimation Approach

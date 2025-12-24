@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ImagineNav++: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination
+title: "ImagineNav++: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination"
 ---
 
 # ImagineNav++: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination

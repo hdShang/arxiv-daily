@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Perfecting Depth: Uncertainty-Aware Enhancement of Metric Depth
+title: "Perfecting Depth: Uncertainty-Aware Enhancement of Metric Depth"
 ---
 
 # Perfecting Depth: Uncertainty-Aware Enhancement of Metric Depth

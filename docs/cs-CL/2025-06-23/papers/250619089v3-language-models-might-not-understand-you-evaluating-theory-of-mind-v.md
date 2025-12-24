@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Language Models Might Not Understand You: Evaluating Theory of Mind via Story Prompting
+title: "Language Models Might Not Understand You: Evaluating Theory of Mind via Story Prompting"
 ---
 
 # Language Models Might Not Understand You: Evaluating Theory of Mind via Story Prompting

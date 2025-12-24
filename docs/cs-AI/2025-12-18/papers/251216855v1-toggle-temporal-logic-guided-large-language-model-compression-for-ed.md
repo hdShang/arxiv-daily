@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TOGGLE: Temporal Logic-Guided Large Language Model Compression for Edge
+title: "TOGGLE: Temporal Logic-Guided Large Language Model Compression for Edge"
 ---
 
 # TOGGLE: Temporal Logic-Guided Large Language Model Compression for Edge

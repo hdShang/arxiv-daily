@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long Video Understanding
+title: "ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long Video Understanding"
 ---
 
 # ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long Video Understanding

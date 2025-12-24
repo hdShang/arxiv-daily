@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nexels: Neurally-Textured Surfels for Real-Time Novel View Synthesis with Sparse Geometries
+title: "Nexels: Neurally-Textured Surfels for Real-Time Novel View Synthesis with Sparse Geometries"
 ---
 
 # Nexels: Neurally-Textured Surfels for Real-Time Novel View Synthesis with Sparse Geometries

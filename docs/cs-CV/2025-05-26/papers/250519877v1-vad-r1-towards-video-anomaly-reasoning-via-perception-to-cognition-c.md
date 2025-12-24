@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vad-R1: Towards Video Anomaly Reasoning via Perception-to-Cognition Chain-of-Thought
+title: "Vad-R1: Towards Video Anomaly Reasoning via Perception-to-Cognition Chain-of-Thought"
 ---
 
 # Vad-R1: Towards Video Anomaly Reasoning via Perception-to-Cognition Chain-of-Thought

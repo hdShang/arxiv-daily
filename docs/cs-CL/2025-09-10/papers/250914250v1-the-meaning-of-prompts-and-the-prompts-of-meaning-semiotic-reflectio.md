@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The meaning of prompts and the prompts of meaning: Semiotic reflections and modelling
+title: "The meaning of prompts and the prompts of meaning: Semiotic reflections and modelling"
 ---
 
 # The meaning of prompts and the prompts of meaning: Semiotic reflections and modelling

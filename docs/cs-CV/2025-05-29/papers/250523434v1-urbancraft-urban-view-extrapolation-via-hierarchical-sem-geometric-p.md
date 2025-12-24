@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UrbanCraft: Urban View Extrapolation via Hierarchical Sem-Geometric Priors
+title: "UrbanCraft: Urban View Extrapolation via Hierarchical Sem-Geometric Priors"
 ---
 
 # UrbanCraft: Urban View Extrapolation via Hierarchical Sem-Geometric Priors

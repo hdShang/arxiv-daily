@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Two Birds with One Stone: Multi-Task Detection and Attribution of LLM-Generated Text
+title: "Two Birds with One Stone: Multi-Task Detection and Attribution of LLM-Generated Text"
 ---
 
 # Two Birds with One Stone: Multi-Task Detection and Attribution of LLM-Generated Text

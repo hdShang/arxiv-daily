@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Language Models
+title: "UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Language Models"
 ---
 
 # UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Language Models

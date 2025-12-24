@@ -1,6 +1,6 @@
 ---
 layout: default
-title: B2F: End-to-End Body-to-Face Motion Generation with Style Reference
+title: "B2F: End-to-End Body-to-Face Motion Generation with Style Reference"
 ---
 
 # B2F: End-to-End Body-to-Face Motion Generation with Style Reference

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VAP-Diffusion: Enriching Descriptions with MLLMs for Enhanced Medical Image Generation
+title: "VAP-Diffusion: Enriching Descriptions with MLLMs for Enhanced Medical Image Generation"
 ---
 
 # VAP-Diffusion: Enriching Descriptions with MLLMs for Enhanced Medical Image Generation

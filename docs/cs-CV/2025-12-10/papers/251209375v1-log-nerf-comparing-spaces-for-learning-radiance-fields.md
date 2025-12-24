@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Log NeRF: Comparing Spaces for Learning Radiance Fields
+title: "Log NeRF: Comparing Spaces for Learning Radiance Fields"
 ---
 
 # Log NeRF: Comparing Spaces for Learning Radiance Fields

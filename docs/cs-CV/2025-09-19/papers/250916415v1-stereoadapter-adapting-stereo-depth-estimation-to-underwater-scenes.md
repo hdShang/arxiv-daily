@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StereoAdapter: Adapting Stereo Depth Estimation to Underwater Scenes
+title: "StereoAdapter: Adapting Stereo Depth Estimation to Underwater Scenes"
 ---
 
 # StereoAdapter: Adapting Stereo Depth Estimation to Underwater Scenes

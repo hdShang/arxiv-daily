@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Logo-VGR: Visual Grounded Reasoning for Open-world Logo Recognition
+title: "Logo-VGR: Visual Grounded Reasoning for Open-world Logo Recognition"
 ---
 
 # Logo-VGR: Visual Grounded Reasoning for Open-world Logo Recognition

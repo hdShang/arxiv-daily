@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond the Seen: Bounded Distribution Estimation for Open-Vocabulary Learning
+title: "Beyond the Seen: Bounded Distribution Estimation for Open-Vocabulary Learning"
 ---
 
 # Beyond the Seen: Bounded Distribution Estimation for Open-Vocabulary Learning

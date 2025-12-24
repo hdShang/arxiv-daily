@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VisualSphinx: Large-Scale Synthetic Vision Logic Puzzles for RL
+title: "VisualSphinx: Large-Scale Synthetic Vision Logic Puzzles for RL"
 ---
 
 # VisualSphinx: Large-Scale Synthetic Vision Logic Puzzles for RL

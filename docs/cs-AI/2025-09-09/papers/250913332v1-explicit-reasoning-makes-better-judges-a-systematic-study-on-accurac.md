@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Explicit Reasoning Makes Better Judges: A Systematic Study on Accuracy, Efficiency, and Robustness
+title: "Explicit Reasoning Makes Better Judges: A Systematic Study on Accuracy, Efficiency, and Robustness"
 ---
 
 # Explicit Reasoning Makes Better Judges: A Systematic Study on Accuracy, Efficiency, and Robustness

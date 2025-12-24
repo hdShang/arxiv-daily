@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills
+title: "KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills"
 ---
 
 # KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills

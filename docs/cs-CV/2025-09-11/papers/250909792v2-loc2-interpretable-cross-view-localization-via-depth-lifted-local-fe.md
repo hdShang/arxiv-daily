@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Loc$^2$: Interpretable Cross-View Localization via Depth-Lifted Local Feature Matching
+title: "Loc$^2$: Interpretable Cross-View Localization via Depth-Lifted Local Feature Matching"
 ---
 
 # Loc$^2$: Interpretable Cross-View Localization via Depth-Lifted Local Feature Matching

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QueryCraft: Transformer-Guided Query Initialization for Enhanced Human-Object Interaction Detection
+title: "QueryCraft: Transformer-Guided Query Initialization for Enhanced Human-Object Interaction Detection"
 ---
 
 # QueryCraft: Transformer-Guided Query Initialization for Enhanced Human-Object Interaction Detection

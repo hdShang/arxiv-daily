@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MOBODY: Model Based Off-Dynamics Offline Reinforcement Learning
+title: "MOBODY: Model Based Off-Dynamics Offline Reinforcement Learning"
 ---
 
 # MOBODY: Model Based Off-Dynamics Offline Reinforcement Learning

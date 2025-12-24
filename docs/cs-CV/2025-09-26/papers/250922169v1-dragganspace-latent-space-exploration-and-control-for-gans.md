@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DragGANSpace: Latent Space Exploration and Control for GANs
+title: "DragGANSpace: Latent Space Exploration and Control for GANs"
 ---
 
 # DragGANSpace: Latent Space Exploration and Control for GANs

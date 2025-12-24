@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ODE-GS: Latent ODEs for Dynamic Scene Extrapolation with 3D Gaussian Splatting
+title: "ODE-GS: Latent ODEs for Dynamic Scene Extrapolation with 3D Gaussian Splatting"
 ---
 
 # ODE-GS: Latent ODEs for Dynamic Scene Extrapolation with 3D Gaussian Splatting

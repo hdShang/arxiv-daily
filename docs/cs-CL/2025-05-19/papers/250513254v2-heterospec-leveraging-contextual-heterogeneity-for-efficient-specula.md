@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HeteroSpec: Leveraging Contextual Heterogeneity for Efficient Speculative Decoding
+title: "HeteroSpec: Leveraging Contextual Heterogeneity for Efficient Speculative Decoding"
 ---
 
 # HeteroSpec: Leveraging Contextual Heterogeneity for Efficient Speculative Decoding

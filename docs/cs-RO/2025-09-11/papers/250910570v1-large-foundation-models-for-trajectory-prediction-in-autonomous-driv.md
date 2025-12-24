@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Large Foundation Models for Trajectory Prediction in Autonomous Driving: A Comprehensive Survey
+title: "Large Foundation Models for Trajectory Prediction in Autonomous Driving: A Comprehensive Survey"
 ---
 
 # Large Foundation Models for Trajectory Prediction in Autonomous Driving: A Comprehensive Survey

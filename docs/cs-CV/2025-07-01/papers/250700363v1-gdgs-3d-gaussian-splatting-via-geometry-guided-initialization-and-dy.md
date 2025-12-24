@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GDGS: 3D Gaussian Splatting Via Geometry-Guided Initialization And Dynamic Density Control
+title: "GDGS: 3D Gaussian Splatting Via Geometry-Guided Initialization And Dynamic Density Control"
 ---
 
 # GDGS: 3D Gaussian Splatting Via Geometry-Guided Initialization And Dynamic Density Control

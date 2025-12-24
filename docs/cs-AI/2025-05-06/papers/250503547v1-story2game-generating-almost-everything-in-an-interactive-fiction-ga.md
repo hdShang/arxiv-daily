@@ -1,6 +1,6 @@
 ---
 layout: default
-title: STORY2GAME: Generating (Almost) Everything in an Interactive Fiction Game
+title: "STORY2GAME: Generating (Almost) Everything in an Interactive Fiction Game"
 ---
 
 # STORY2GAME: Generating (Almost) Everything in an Interactive Fiction Game

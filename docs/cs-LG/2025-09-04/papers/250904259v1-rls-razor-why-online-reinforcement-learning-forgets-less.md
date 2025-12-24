@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RL's Razor: Why Online Reinforcement Learning Forgets Less
+title: "RL's Razor: Why Online Reinforcement Learning Forgets Less"
 ---
 
 # RL's Razor: Why Online Reinforcement Learning Forgets Less

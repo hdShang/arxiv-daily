@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Concept Incongruence: An Exploration of Time and Death in Role Playing
+title: "Concept Incongruence: An Exploration of Time and Death in Role Playing"
 ---
 
 # Concept Incongruence: An Exploration of Time and Death in Role Playing

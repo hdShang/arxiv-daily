@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VERA: Variational Inference Framework for Jailbreaking Large Language Models
+title: "VERA: Variational Inference Framework for Jailbreaking Large Language Models"
 ---
 
 # VERA: Variational Inference Framework for Jailbreaking Large Language Models

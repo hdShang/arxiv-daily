@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size
+title: "AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size"
 ---
 
 # AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size

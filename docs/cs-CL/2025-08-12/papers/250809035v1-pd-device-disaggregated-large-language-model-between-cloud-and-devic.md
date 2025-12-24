@@ -1,6 +1,6 @@
 ---
 layout: default
-title: P/D-Device: Disaggregated Large Language Model between Cloud and Devices
+title: "P/D-Device: Disaggregated Large Language Model between Cloud and Devices"
 ---
 
 # P/D-Device: Disaggregated Large Language Model between Cloud and Devices

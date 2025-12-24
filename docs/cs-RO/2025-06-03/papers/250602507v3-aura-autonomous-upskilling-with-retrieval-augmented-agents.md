@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AURA: Autonomous Upskilling with Retrieval-Augmented Agents
+title: "AURA: Autonomous Upskilling with Retrieval-Augmented Agents"
 ---
 
 # AURA: Autonomous Upskilling with Retrieval-Augmented Agents

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Chemical QA: Evaluating LLM's Chemical Reasoning with Modular Chemical Operations
+title: "Beyond Chemical QA: Evaluating LLM's Chemical Reasoning with Modular Chemical Operations"
 ---
 
 # Beyond Chemical QA: Evaluating LLM's Chemical Reasoning with Modular Chemical Operations

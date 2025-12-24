@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AD-SAM: Fine-Tuning the Segment Anything Vision Foundation Model for Autonomous Driving Perception
+title: "AD-SAM: Fine-Tuning the Segment Anything Vision Foundation Model for Autonomous Driving Perception"
 ---
 
 # AD-SAM: Fine-Tuning the Segment Anything Vision Foundation Model for Autonomous Driving Perception

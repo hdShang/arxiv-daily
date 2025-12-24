@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HuPrior3R: Incorporating Human Priors for Better 3D Dynamic Reconstruction from Monocular Videos
+title: "HuPrior3R: Incorporating Human Priors for Better 3D Dynamic Reconstruction from Monocular Videos"
 ---
 
 # HuPrior3R: Incorporating Human Priors for Better 3D Dynamic Reconstruction from Monocular Videos

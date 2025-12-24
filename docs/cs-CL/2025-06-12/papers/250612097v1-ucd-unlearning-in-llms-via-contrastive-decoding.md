@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UCD: Unlearning in LLMs via Contrastive Decoding
+title: "UCD: Unlearning in LLMs via Contrastive Decoding"
 ---
 
 # UCD: Unlearning in LLMs via Contrastive Decoding

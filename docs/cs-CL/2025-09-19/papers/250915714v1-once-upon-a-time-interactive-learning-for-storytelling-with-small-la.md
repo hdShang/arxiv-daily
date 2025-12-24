@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Once Upon a Time: Interactive Learning for Storytelling with Small Language Models
+title: "Once Upon a Time: Interactive Learning for Storytelling with Small Language Models"
 ---
 
 # Once Upon a Time: Interactive Learning for Storytelling with Small Language Models

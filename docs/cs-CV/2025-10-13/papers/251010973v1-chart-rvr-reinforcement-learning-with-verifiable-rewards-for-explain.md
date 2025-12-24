@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chart-RVR: Reinforcement Learning with Verifiable Rewards for Explainable Chart Reasoning
+title: "Chart-RVR: Reinforcement Learning with Verifiable Rewards for Explainable Chart Reasoning"
 ---
 
 # Chart-RVR: Reinforcement Learning with Verifiable Rewards for Explainable Chart Reasoning

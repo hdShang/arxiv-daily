@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Understanding Behavioral Metric Learning: A Large-Scale Study on Distracting Reinforcement Learning Environments
+title: "Understanding Behavioral Metric Learning: A Large-Scale Study on Distracting Reinforcement Learning Environments"
 ---
 
 # Understanding Behavioral Metric Learning: A Large-Scale Study on Distracting Reinforcement Learning Environments

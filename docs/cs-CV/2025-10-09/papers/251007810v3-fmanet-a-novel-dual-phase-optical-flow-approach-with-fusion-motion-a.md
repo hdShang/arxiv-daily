@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FMANet: A Novel Dual-Phase Optical Flow Approach with Fusion Motion Attention Network for Robust Micro-expression Recognition
+title: "FMANet: A Novel Dual-Phase Optical Flow Approach with Fusion Motion Attention Network for Robust Micro-expression Recognition"
 ---
 
 # FMANet: A Novel Dual-Phase Optical Flow Approach with Fusion Motion Attention Network for Robust Micro-expression Recognition

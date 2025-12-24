@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PartDexTOG: Generating Dexterous Task-Oriented Grasping via Language-driven Part Analysis
+title: "PartDexTOG: Generating Dexterous Task-Oriented Grasping via Language-driven Part Analysis"
 ---
 
 # PartDexTOG: Generating Dexterous Task-Oriented Grasping via Language-driven Part Analysis

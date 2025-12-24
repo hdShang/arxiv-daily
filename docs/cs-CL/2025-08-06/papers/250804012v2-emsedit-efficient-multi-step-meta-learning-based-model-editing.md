@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EMSEdit: Efficient Multi-Step Meta-Learning-based Model Editing
+title: "EMSEdit: Efficient Multi-Step Meta-Learning-based Model Editing"
 ---
 
 # EMSEdit: Efficient Multi-Step Meta-Learning-based Model Editing

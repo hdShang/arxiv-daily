@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DevNous: An LLM-Based Multi-Agent System for Grounding IT Project Management in Unstructured Conversation
+title: "DevNous: An LLM-Based Multi-Agent System for Grounding IT Project Management in Unstructured Conversation"
 ---
 
 # DevNous: An LLM-Based Multi-Agent System for Grounding IT Project Management in Unstructured Conversation

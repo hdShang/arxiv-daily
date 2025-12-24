@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Streaming Drag-Oriented Interactive Video Manipulation: Drag Anything, Anytime!
+title: "Streaming Drag-Oriented Interactive Video Manipulation: Drag Anything, Anytime!"
 ---
 
 # Streaming Drag-Oriented Interactive Video Manipulation: Drag Anything, Anytime!

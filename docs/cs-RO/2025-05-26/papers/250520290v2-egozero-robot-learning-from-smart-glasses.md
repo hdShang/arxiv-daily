@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EgoZero: Robot Learning from Smart Glasses
+title: "EgoZero: Robot Learning from Smart Glasses"
 ---
 
 # EgoZero: Robot Learning from Smart Glasses

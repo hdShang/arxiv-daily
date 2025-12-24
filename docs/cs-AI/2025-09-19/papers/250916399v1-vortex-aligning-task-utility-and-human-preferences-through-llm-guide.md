@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VORTEX: Aligning Task Utility and Human Preferences through LLM-Guided Reward Shaping
+title: "VORTEX: Aligning Task Utility and Human Preferences through LLM-Guided Reward Shaping"
 ---
 
 # VORTEX: Aligning Task Utility and Human Preferences through LLM-Guided Reward Shaping

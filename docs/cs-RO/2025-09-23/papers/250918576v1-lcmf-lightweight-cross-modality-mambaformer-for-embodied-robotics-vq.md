@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LCMF: Lightweight Cross-Modality Mambaformer for Embodied Robotics VQA
+title: "LCMF: Lightweight Cross-Modality Mambaformer for Embodied Robotics VQA"
 ---
 
 # LCMF: Lightweight Cross-Modality Mambaformer for Embodied Robotics VQA

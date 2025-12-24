@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMEdge: Accelerating On-device Multimodal Inference via Pipelined Sensing and Encoding
+title: "MMEdge: Accelerating On-device Multimodal Inference via Pipelined Sensing and Encoding"
 ---
 
 # MMEdge: Accelerating On-device Multimodal Inference via Pipelined Sensing and Encoding

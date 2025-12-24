@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CAP-LLM: Context-Augmented Personalized Large Language Models for News Headline Generation
+title: "CAP-LLM: Context-Augmented Personalized Large Language Models for News Headline Generation"
 ---
 
 # CAP-LLM: Context-Augmented Personalized Large Language Models for News Headline Generation

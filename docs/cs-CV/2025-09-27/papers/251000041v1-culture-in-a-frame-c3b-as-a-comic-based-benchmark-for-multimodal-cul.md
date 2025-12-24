@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Culture In a Frame: C$^3$B as a Comic-Based Benchmark for Multimodal Culturally Awareness
+title: "Culture In a Frame: C$^3$B as a Comic-Based Benchmark for Multimodal Culturally Awareness"
 ---
 
 # Culture In a Frame: C$^3$B as a Comic-Based Benchmark for Multimodal Culturally Awareness

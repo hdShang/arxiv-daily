@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Improving Q-Learning for Real-World Control: A Case Study in Series Hybrid Agricultural Tractors
+title: "Improving Q-Learning for Real-World Control: A Case Study in Series Hybrid Agricultural Tractors"
 ---
 
 # Improving Q-Learning for Real-World Control: A Case Study in Series Hybrid Agricultural Tractors

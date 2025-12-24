@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DATE: Dynamic Absolute Time Enhancement for Long Video Understanding
+title: "DATE: Dynamic Absolute Time Enhancement for Long Video Understanding"
 ---
 
 # DATE: Dynamic Absolute Time Enhancement for Long Video Understanding

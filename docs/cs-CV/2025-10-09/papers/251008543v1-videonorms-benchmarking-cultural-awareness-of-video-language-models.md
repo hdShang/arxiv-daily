@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VideoNorms: Benchmarking Cultural Awareness of Video Language Models
+title: "VideoNorms: Benchmarking Cultural Awareness of Video Language Models"
 ---
 
 # VideoNorms: Benchmarking Cultural Awareness of Video Language Models

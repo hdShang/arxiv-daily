@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control
+title: "RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control"
 ---
 
 # RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control

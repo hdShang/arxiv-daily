@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TextEditBench: Evaluating Reasoning-aware Text Editing Beyond Rendering
+title: "TextEditBench: Evaluating Reasoning-aware Text Editing Beyond Rendering"
 ---
 
 # TextEditBench: Evaluating Reasoning-aware Text Editing Beyond Rendering

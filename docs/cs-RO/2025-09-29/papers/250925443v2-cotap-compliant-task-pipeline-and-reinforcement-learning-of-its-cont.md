@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoTaP: Compliant Task Pipeline and Reinforcement Learning of Its Controller with Compliance Modulation
+title: "CoTaP: Compliant Task Pipeline and Reinforcement Learning of Its Controller with Compliance Modulation"
 ---
 
 # CoTaP: Compliant Task Pipeline and Reinforcement Learning of Its Controller with Compliance Modulation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LAURON VI: A Six-Legged Robot for Dynamic Walking
+title: "LAURON VI: A Six-Legged Robot for Dynamic Walking"
 ---
 
 # LAURON VI: A Six-Legged Robot for Dynamic Walking

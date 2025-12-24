@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MaskSQL: Safeguarding Privacy for LLM-Based Text-to-SQL via Abstraction
+title: "MaskSQL: Safeguarding Privacy for LLM-Based Text-to-SQL via Abstraction"
 ---
 
 # MaskSQL: Safeguarding Privacy for LLM-Based Text-to-SQL via Abstraction

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BASIL: Best-Action Symbolic Interpretable Learning for Evolving Compact RL Policies
+title: "BASIL: Best-Action Symbolic Interpretable Learning for Evolving Compact RL Policies"
 ---
 
 # BASIL: Best-Action Symbolic Interpretable Learning for Evolving Compact RL Policies

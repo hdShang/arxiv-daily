@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeCAF: Decentralized Consensus-And-Factorization for Low-Rank Adaptation of Foundation Models
+title: "DeCAF: Decentralized Consensus-And-Factorization for Low-Rank Adaptation of Foundation Models"
 ---
 
 # DeCAF: Decentralized Consensus-And-Factorization for Low-Rank Adaptation of Foundation Models

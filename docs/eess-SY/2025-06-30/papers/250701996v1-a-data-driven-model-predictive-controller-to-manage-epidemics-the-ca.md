@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Data-Driven Model Predictive Controller to manage epidemics: The case of SARS-CoV-2 in Mauritius
+title: "A Data-Driven Model Predictive Controller to manage epidemics: The case of SARS-CoV-2 in Mauritius"
 ---
 
 # A Data-Driven Model Predictive Controller to manage epidemics: The case of SARS-CoV-2 in Mauritius

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contrastive Analysis of Constituent Order Preferences Within Adverbial Roles in English and Chinese News: A Large-Language-Model-Driven Approach
+title: "Contrastive Analysis of Constituent Order Preferences Within Adverbial Roles in English and Chinese News: A Large-Language-Model-Driven Approach"
 ---
 
 # Contrastive Analysis of Constituent Order Preferences Within Adverbial Roles in English and Chinese News: A Large-Language-Model-Driven Approach

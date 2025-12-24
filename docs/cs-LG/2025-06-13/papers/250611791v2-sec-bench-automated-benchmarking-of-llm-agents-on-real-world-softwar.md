@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks
+title: "SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks"
 ---
 
 # SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks

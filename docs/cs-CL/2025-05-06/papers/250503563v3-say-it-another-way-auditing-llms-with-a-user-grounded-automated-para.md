@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Say It Another Way: Auditing LLMs with a User-Grounded Automated Paraphrasing Framework
+title: "Say It Another Way: Auditing LLMs with a User-Grounded Automated Paraphrasing Framework"
 ---
 
 # Say It Another Way: Auditing LLMs with a User-Grounded Automated Paraphrasing Framework

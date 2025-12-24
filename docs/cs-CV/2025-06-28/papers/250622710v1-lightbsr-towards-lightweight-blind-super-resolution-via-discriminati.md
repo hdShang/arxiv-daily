@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LightBSR: Towards Lightweight Blind Super-Resolution via Discriminative Implicit Degradation Representation Learning
+title: "LightBSR: Towards Lightweight Blind Super-Resolution via Discriminative Implicit Degradation Representation Learning"
 ---
 
 # LightBSR: Towards Lightweight Blind Super-Resolution via Discriminative Implicit Degradation Representation Learning

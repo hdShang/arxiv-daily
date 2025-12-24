@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FACET: Force-Adaptive Control via Impedance Reference Tracking for Legged Robots
+title: "FACET: Force-Adaptive Control via Impedance Reference Tracking for Legged Robots"
 ---
 
 # FACET: Force-Adaptive Control via Impedance Reference Tracking for Legged Robots

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VaseVQA-3D: Benchmarking 3D VLMs on Ancient Greek Pottery
+title: "VaseVQA-3D: Benchmarking 3D VLMs on Ancient Greek Pottery"
 ---
 
 # VaseVQA-3D: Benchmarking 3D VLMs on Ancient Greek Pottery

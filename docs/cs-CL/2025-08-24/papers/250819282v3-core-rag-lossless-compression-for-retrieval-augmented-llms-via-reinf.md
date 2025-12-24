@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CORE-RAG: Lossless Compression for Retrieval-Augmented LLMs via Reinforcement Learning
+title: "CORE-RAG: Lossless Compression for Retrieval-Augmented LLMs via Reinforcement Learning"
 ---
 
 # CORE-RAG: Lossless Compression for Retrieval-Augmented LLMs via Reinforcement Learning

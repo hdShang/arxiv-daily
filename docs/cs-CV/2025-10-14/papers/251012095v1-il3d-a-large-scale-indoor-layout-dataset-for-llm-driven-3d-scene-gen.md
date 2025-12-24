@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IL3D: A Large-Scale Indoor Layout Dataset for LLM-Driven 3D Scene Generation
+title: "IL3D: A Large-Scale Indoor Layout Dataset for LLM-Driven 3D Scene Generation"
 ---
 
 # IL3D: A Large-Scale Indoor Layout Dataset for LLM-Driven 3D Scene Generation

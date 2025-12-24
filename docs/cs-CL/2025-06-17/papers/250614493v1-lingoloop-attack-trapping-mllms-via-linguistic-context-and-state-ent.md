@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LingoLoop Attack: Trapping MLLMs via Linguistic Context and State Entrapment into Endless Loops
+title: "LingoLoop Attack: Trapping MLLMs via Linguistic Context and State Entrapment into Endless Loops"
 ---
 
 # LingoLoop Attack: Trapping MLLMs via Linguistic Context and State Entrapment into Endless Loops

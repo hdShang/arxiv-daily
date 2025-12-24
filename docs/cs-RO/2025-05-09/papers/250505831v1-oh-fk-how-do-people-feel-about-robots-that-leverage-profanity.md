@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Oh F**k! How Do People Feel about Robots that Leverage Profanity?
+title: "Oh F**k! How Do People Feel about Robots that Leverage Profanity?"
 ---
 
 # Oh F**k! How Do People Feel about Robots that Leverage Profanity?

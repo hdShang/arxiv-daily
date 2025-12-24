@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Probabilistic operator learning: generative modeling and uncertainty quantification for foundation models of differential equations
+title: "Probabilistic operator learning: generative modeling and uncertainty quantification for foundation models of differential equations"
 ---
 
 # Probabilistic operator learning: generative modeling and uncertainty quantification for foundation models of differential equations

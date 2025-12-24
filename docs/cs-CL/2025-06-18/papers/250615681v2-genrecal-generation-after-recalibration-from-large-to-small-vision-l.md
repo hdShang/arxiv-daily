@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GenRecal: Generation after Recalibration from Large to Small Vision-Language Models
+title: "GenRecal: Generation after Recalibration from Large to Small Vision-Language Models"
 ---
 
 # GenRecal: Generation after Recalibration from Large to Small Vision-Language Models

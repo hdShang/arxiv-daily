@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Prompts to Constructs: A Dual-Validity Framework for LLM Research in Psychology
+title: "From Prompts to Constructs: A Dual-Validity Framework for LLM Research in Psychology"
 ---
 
 # From Prompts to Constructs: A Dual-Validity Framework for LLM Research in Psychology

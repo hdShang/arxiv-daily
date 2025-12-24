@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Look before Transcription: End-to-End SlideASR with Visually-Anchored Policy Optimization
+title: "Look before Transcription: End-to-End SlideASR with Visually-Anchored Policy Optimization"
 ---
 
 # Look before Transcription: End-to-End SlideASR with Visually-Anchored Policy Optimization

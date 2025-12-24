@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aurora: Towards Universal Generative Multimodal Time Series Forecasting
+title: "Aurora: Towards Universal Generative Multimodal Time Series Forecasting"
 ---
 
 # Aurora: Towards Universal Generative Multimodal Time Series Forecasting

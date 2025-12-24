@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeepDiver: Adaptive Search Intensity Scaling via Open-Web Reinforcement Learning
+title: "DeepDiver: Adaptive Search Intensity Scaling via Open-Web Reinforcement Learning"
 ---
 
 # DeepDiver: Adaptive Search Intensity Scaling via Open-Web Reinforcement Learning

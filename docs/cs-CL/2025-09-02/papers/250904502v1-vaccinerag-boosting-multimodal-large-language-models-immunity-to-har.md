@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VaccineRAG: Boosting Multimodal Large Language Models' Immunity to Harmful RAG Samples
+title: "VaccineRAG: Boosting Multimodal Large Language Models' Immunity to Harmful RAG Samples"
 ---
 
 # VaccineRAG: Boosting Multimodal Large Language Models' Immunity to Harmful RAG Samples

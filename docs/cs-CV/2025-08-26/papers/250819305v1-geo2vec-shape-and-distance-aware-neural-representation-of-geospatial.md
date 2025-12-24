@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Geo2Vec: Shape- and Distance-Aware Neural Representation of Geospatial Entities
+title: "Geo2Vec: Shape- and Distance-Aware Neural Representation of Geospatial Entities"
 ---
 
 # Geo2Vec: Shape- and Distance-Aware Neural Representation of Geospatial Entities

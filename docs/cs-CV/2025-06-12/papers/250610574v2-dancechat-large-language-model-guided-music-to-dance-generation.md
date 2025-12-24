@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DanceChat: Large Language Model-Guided Music-to-Dance Generation
+title: "DanceChat: Large Language Model-Guided Music-to-Dance Generation"
 ---
 
 # DanceChat: Large Language Model-Guided Music-to-Dance Generation

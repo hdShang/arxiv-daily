@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoomCraft: Controllable and Complete 3D Indoor Scene Generation
+title: "RoomCraft: Controllable and Complete 3D Indoor Scene Generation"
 ---
 
 # RoomCraft: Controllable and Complete 3D Indoor Scene Generation

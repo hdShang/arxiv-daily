@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SEMMA: A Semantic Aware Knowledge Graph Foundation Model
+title: "SEMMA: A Semantic Aware Knowledge Graph Foundation Model"
 ---
 
 # SEMMA: A Semantic Aware Knowledge Graph Foundation Model

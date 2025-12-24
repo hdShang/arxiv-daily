@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Step2Motion: Locomotion Reconstruction from Pressure Sensing Insoles
+title: "Step2Motion: Locomotion Reconstruction from Pressure Sensing Insoles"
 ---
 
 # Step2Motion: Locomotion Reconstruction from Pressure Sensing Insoles

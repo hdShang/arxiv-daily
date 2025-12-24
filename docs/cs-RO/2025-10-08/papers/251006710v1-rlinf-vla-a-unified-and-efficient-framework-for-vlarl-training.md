@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training
+title: "RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training"
 ---
 
 # RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CSFMamba: Cross State Fusion Mamba Operator for Multimodal Remote Sensing Image Classification
+title: "CSFMamba: Cross State Fusion Mamba Operator for Multimodal Remote Sensing Image Classification"
 ---
 
 # CSFMamba: Cross State Fusion Mamba Operator for Multimodal Remote Sensing Image Classification

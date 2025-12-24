@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UNIDOC-BENCH: A Unified Benchmark for Document-Centric Multimodal RAG
+title: "UNIDOC-BENCH: A Unified Benchmark for Document-Centric Multimodal RAG"
 ---
 
 # UNIDOC-BENCH: A Unified Benchmark for Document-Centric Multimodal RAG

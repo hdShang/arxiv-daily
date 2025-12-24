@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Foundation Models in Dermatopathology: Skin Tissue Classification
+title: "Foundation Models in Dermatopathology: Skin Tissue Classification"
 ---
 
 # Foundation Models in Dermatopathology: Skin Tissue Classification

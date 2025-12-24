@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation
+title: "Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation"
 ---
 
 # Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation

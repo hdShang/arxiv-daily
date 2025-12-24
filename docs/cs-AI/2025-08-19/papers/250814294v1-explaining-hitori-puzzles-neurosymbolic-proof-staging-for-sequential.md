@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Explaining Hitori Puzzles: Neurosymbolic Proof Staging for Sequential Decisions
+title: "Explaining Hitori Puzzles: Neurosymbolic Proof Staging for Sequential Decisions"
 ---
 
 # Explaining Hitori Puzzles: Neurosymbolic Proof Staging for Sequential Decisions

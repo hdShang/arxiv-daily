@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Uncertainty Under the Curve: A Sequence-Level Entropy Area Metric for Reasoning LLM
+title: "Uncertainty Under the Curve: A Sequence-Level Entropy Area Metric for Reasoning LLM"
 ---
 
 # Uncertainty Under the Curve: A Sequence-Level Entropy Area Metric for Reasoning LLM

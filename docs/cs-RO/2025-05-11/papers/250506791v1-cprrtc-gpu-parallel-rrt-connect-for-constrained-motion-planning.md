@@ -1,6 +1,6 @@
 ---
 layout: default
-title: cpRRTC: GPU-Parallel RRT-Connect for Constrained Motion Planning
+title: "cpRRTC: GPU-Parallel RRT-Connect for Constrained Motion Planning"
 ---
 
 # cpRRTC: GPU-Parallel RRT-Connect for Constrained Motion Planning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Text-to-CadQuery: A New Paradigm for CAD Generation with Scalable Large Model Capabilities
+title: "Text-to-CadQuery: A New Paradigm for CAD Generation with Scalable Large Model Capabilities"
 ---
 
 # Text-to-CadQuery: A New Paradigm for CAD Generation with Scalable Large Model Capabilities

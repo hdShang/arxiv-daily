@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mechanical Automation with Vision: A Design for Rubik's Cube Solver
+title: "Mechanical Automation with Vision: A Design for Rubik's Cube Solver"
 ---
 
 # Mechanical Automation with Vision: A Design for Rubik's Cube Solver

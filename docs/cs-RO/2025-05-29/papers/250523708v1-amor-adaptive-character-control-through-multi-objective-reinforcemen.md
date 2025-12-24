@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AMOR: Adaptive Character Control through Multi-Objective Reinforcement Learning
+title: "AMOR: Adaptive Character Control through Multi-Objective Reinforcement Learning"
 ---
 
 # AMOR: Adaptive Character Control through Multi-Objective Reinforcement Learning

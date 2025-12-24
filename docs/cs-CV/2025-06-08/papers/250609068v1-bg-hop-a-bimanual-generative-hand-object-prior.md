@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BG-HOP: A Bimanual Generative Hand-Object Prior
+title: "BG-HOP: A Bimanual Generative Hand-Object Prior"
 ---
 
 # BG-HOP: A Bimanual Generative Hand-Object Prior

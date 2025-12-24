@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SIRI-Bench: Challenging VLMs' Spatial Intelligence through Complex Reasoning Tasks
+title: "SIRI-Bench: Challenging VLMs' Spatial Intelligence through Complex Reasoning Tasks"
 ---
 
 # SIRI-Bench: Challenging VLMs' Spatial Intelligence through Complex Reasoning Tasks

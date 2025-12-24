@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Increasing Interaction Fidelity: Training Routines for Biomechanical Models in HCI
+title: "Increasing Interaction Fidelity: Training Routines for Biomechanical Models in HCI"
 ---
 
 # Increasing Interaction Fidelity: Training Routines for Biomechanical Models in HCI

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AgentCompass: Towards Reliable Evaluation of Agentic Workflows in Production
+title: "AgentCompass: Towards Reliable Evaluation of Agentic Workflows in Production"
 ---
 
 # AgentCompass: Towards Reliable Evaluation of Agentic Workflows in Production

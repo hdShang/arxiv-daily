@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Accelerating Evolution: Integrating PSO Principles into Real-Coded Genetic Algorithm Crossover
+title: "Accelerating Evolution: Integrating PSO Principles into Real-Coded Genetic Algorithm Crossover"
 ---
 
 # Accelerating Evolution: Integrating PSO Principles into Real-Coded Genetic Algorithm Crossover

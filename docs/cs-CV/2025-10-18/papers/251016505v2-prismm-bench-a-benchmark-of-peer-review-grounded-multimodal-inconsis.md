@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PRISMM-Bench: A Benchmark of Peer-Review Grounded Multimodal Inconsistencies
+title: "PRISMM-Bench: A Benchmark of Peer-Review Grounded Multimodal Inconsistencies"
 ---
 
 # PRISMM-Bench: A Benchmark of Peer-Review Grounded Multimodal Inconsistencies

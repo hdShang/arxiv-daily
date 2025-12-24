@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Drive Fast, Learn Faster: On-Board RL for High Performance Autonomous Racing
+title: "Drive Fast, Learn Faster: On-Board RL for High Performance Autonomous Racing"
 ---
 
 # Drive Fast, Learn Faster: On-Board RL for High Performance Autonomous Racing

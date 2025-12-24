@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Diagnosing Visual Reasoning: Challenges, Insights, and a Path Forward
+title: "Diagnosing Visual Reasoning: Challenges, Insights, and a Path Forward"
 ---
 
 # Diagnosing Visual Reasoning: Challenges, Insights, and a Path Forward

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Morality of Probability: How Implicit Moral Biases in LLMs May Shape the Future of Human-AI Symbiosis
+title: "The Morality of Probability: How Implicit Moral Biases in LLMs May Shape the Future of Human-AI Symbiosis"
 ---
 
 # The Morality of Probability: How Implicit Moral Biases in LLMs May Shape the Future of Human-AI Symbiosis

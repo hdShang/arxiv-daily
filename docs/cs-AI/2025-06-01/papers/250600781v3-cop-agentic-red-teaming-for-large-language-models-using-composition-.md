@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoP: Agentic Red-teaming for Large Language Models using Composition of Principles
+title: "CoP: Agentic Red-teaming for Large Language Models using Composition of Principles"
 ---
 
 # CoP: Agentic Red-teaming for Large Language Models using Composition of Principles

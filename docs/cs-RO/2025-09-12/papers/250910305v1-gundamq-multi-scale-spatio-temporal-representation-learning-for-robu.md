@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GundamQ: Multi-Scale Spatio-Temporal Representation Learning for Robust Robot Path Planning
+title: "GundamQ: Multi-Scale Spatio-Temporal Representation Learning for Robust Robot Path Planning"
 ---
 
 # GundamQ: Multi-Scale Spatio-Temporal Representation Learning for Robust Robot Path Planning

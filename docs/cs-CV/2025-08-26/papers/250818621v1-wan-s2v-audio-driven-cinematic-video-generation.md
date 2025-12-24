@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wan-S2V: Audio-Driven Cinematic Video Generation
+title: "Wan-S2V: Audio-Driven Cinematic Video Generation"
 ---
 
 # Wan-S2V: Audio-Driven Cinematic Video Generation

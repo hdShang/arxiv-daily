@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seed3D 1.0: From Images to High-Fidelity Simulation-Ready 3D Assets
+title: "Seed3D 1.0: From Images to High-Fidelity Simulation-Ready 3D Assets"
 ---
 
 # Seed3D 1.0: From Images to High-Fidelity Simulation-Ready 3D Assets

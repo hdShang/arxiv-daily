@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Datarus-R1: An Adaptive Multi-Step Reasoning LLM for Automated Data Analysis
+title: "Datarus-R1: An Adaptive Multi-Step Reasoning LLM for Automated Data Analysis"
 ---
 
 # Datarus-R1: An Adaptive Multi-Step Reasoning LLM for Automated Data Analysis

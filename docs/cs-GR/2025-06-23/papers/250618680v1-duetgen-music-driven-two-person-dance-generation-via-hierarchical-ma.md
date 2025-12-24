@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DuetGen: Music Driven Two-Person Dance Generation via Hierarchical Masked Modeling
+title: "DuetGen: Music Driven Two-Person Dance Generation via Hierarchical Masked Modeling"
 ---
 
 # DuetGen: Music Driven Two-Person Dance Generation via Hierarchical Masked Modeling

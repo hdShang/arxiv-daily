@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AG-Fusion: adaptive gated multimodal fusion for 3d object detection in complex scenes
+title: "AG-Fusion: adaptive gated multimodal fusion for 3d object detection in complex scenes"
 ---
 
 # AG-Fusion: adaptive gated multimodal fusion for 3d object detection in complex scenes

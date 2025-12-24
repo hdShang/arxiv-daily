@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AnimaMimic: Imitating 3D Animation from Video Priors
+title: "AnimaMimic: Imitating 3D Animation from Video Priors"
 ---
 
 # AnimaMimic: Imitating 3D Animation from Video Priors

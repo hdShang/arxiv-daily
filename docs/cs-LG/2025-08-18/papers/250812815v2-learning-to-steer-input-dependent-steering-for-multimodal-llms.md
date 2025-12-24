@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning to Steer: Input-dependent Steering for Multimodal LLMs
+title: "Learning to Steer: Input-dependent Steering for Multimodal LLMs"
 ---
 
 # Learning to Steer: Input-dependent Steering for Multimodal LLMs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DR. Nav: Semantic-Geometric Representations for Proactive Dead-End Recovery and Navigation
+title: "DR. Nav: Semantic-Geometric Representations for Proactive Dead-End Recovery and Navigation"
 ---
 
 # DR. Nav: Semantic-Geometric Representations for Proactive Dead-End Recovery and Navigation

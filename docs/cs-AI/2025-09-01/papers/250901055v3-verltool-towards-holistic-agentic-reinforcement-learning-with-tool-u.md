@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VerlTool: Towards Holistic Agentic Reinforcement Learning with Tool Use
+title: "VerlTool: Towards Holistic Agentic Reinforcement Learning with Tool Use"
 ---
 
 # VerlTool: Towards Holistic Agentic Reinforcement Learning with Tool Use

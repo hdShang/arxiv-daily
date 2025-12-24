@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Human-Centered Evaluation of RAG outputs: a framework and questionnaire for human-AI collaboration
+title: "Human-Centered Evaluation of RAG outputs: a framework and questionnaire for human-AI collaboration"
 ---
 
 # Human-Centered Evaluation of RAG outputs: a framework and questionnaire for human-AI collaboration

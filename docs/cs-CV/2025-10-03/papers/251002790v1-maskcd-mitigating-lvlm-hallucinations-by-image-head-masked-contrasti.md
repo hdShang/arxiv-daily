@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MaskCD: Mitigating LVLM Hallucinations by Image Head Masked Contrastive Decoding
+title: "MaskCD: Mitigating LVLM Hallucinations by Image Head Masked Contrastive Decoding"
 ---
 
 # MaskCD: Mitigating LVLM Hallucinations by Image Head Masked Contrastive Decoding

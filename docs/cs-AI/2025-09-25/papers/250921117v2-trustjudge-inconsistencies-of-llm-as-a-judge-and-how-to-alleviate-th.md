@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TrustJudge: Inconsistencies of LLM-as-a-Judge and How to Alleviate Them
+title: "TrustJudge: Inconsistencies of LLM-as-a-Judge and How to Alleviate Them"
 ---
 
 # TrustJudge: Inconsistencies of LLM-as-a-Judge and How to Alleviate Them

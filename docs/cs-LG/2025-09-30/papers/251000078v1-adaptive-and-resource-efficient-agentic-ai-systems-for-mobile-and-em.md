@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adaptive and Resource-efficient Agentic AI Systems for Mobile and Embedded Devices: A Survey
+title: "Adaptive and Resource-efficient Agentic AI Systems for Mobile and Embedded Devices: A Survey"
 ---
 
 # Adaptive and Resource-efficient Agentic AI Systems for Mobile and Embedded Devices: A Survey

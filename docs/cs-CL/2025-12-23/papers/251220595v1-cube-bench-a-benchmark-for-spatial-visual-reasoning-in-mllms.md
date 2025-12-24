@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cube Bench: A Benchmark for Spatial Visual Reasoning in MLLMs
+title: "Cube Bench: A Benchmark for Spatial Visual Reasoning in MLLMs"
 ---
 
 # Cube Bench: A Benchmark for Spatial Visual Reasoning in MLLMs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The LLM as a Network Operator: A Vision for Generative AI in the 6G Radio Access Network
+title: "The LLM as a Network Operator: A Vision for Generative AI in the 6G Radio Access Network"
 ---
 
 # The LLM as a Network Operator: A Vision for Generative AI in the 6G Radio Access Network

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FlowCut: Unsupervised Video Instance Segmentation via Temporal Mask Matching
+title: "FlowCut: Unsupervised Video Instance Segmentation via Temporal Mask Matching"
 ---
 
 # FlowCut: Unsupervised Video Instance Segmentation via Temporal Mask Matching

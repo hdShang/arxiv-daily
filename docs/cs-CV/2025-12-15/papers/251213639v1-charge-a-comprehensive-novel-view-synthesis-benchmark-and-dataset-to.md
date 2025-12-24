@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Charge: A Comprehensive Novel View Synthesis Benchmark and Dataset to Bind Them All
+title: "Charge: A Comprehensive Novel View Synthesis Benchmark and Dataset to Bind Them All"
 ---
 
 # Charge: A Comprehensive Novel View Synthesis Benchmark and Dataset to Bind Them All

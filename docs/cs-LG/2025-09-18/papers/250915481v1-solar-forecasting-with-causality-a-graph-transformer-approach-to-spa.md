@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Solar Forecasting with Causality: A Graph-Transformer Approach to Spatiotemporal Dependencies
+title: "Solar Forecasting with Causality: A Graph-Transformer Approach to Spatiotemporal Dependencies"
 ---
 
 # Solar Forecasting with Causality: A Graph-Transformer Approach to Spatiotemporal Dependencies

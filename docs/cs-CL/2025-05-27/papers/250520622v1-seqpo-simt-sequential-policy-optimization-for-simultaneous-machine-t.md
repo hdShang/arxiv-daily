@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SeqPO-SiMT: Sequential Policy Optimization for Simultaneous Machine Translation
+title: "SeqPO-SiMT: Sequential Policy Optimization for Simultaneous Machine Translation"
 ---
 
 # SeqPO-SiMT: Sequential Policy Optimization for Simultaneous Machine Translation

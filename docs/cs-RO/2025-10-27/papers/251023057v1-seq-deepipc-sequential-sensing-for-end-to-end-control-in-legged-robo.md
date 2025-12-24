@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seq-DeepIPC: Sequential Sensing for End-to-End Control in Legged Robot Navigation
+title: "Seq-DeepIPC: Sequential Sensing for End-to-End Control in Legged Robot Navigation"
 ---
 
 # Seq-DeepIPC: Sequential Sensing for End-to-End Control in Legged Robot Navigation

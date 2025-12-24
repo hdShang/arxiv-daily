@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Splatting Physical Scenes: End-to-End Real-to-Sim from Imperfect Robot Data
+title: "Splatting Physical Scenes: End-to-End Real-to-Sim from Imperfect Robot Data"
 ---
 
 # Splatting Physical Scenes: End-to-End Real-to-Sim from Imperfect Robot Data

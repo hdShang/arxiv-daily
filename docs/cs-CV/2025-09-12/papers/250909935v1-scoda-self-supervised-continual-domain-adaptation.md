@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SCoDA: Self-supervised Continual Domain Adaptation
+title: "SCoDA: Self-supervised Continual Domain Adaptation"
 ---
 
 # SCoDA: Self-supervised Continual Domain Adaptation

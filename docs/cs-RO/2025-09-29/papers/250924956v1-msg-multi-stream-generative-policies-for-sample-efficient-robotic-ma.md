@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MSG: Multi-Stream Generative Policies for Sample-Efficient Robotic Manipulation
+title: "MSG: Multi-Stream Generative Policies for Sample-Efficient Robotic Manipulation"
 ---
 
 # MSG: Multi-Stream Generative Policies for Sample-Efficient Robotic Manipulation

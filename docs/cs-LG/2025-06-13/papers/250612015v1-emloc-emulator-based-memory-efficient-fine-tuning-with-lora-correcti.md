@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction
+title: "EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction"
 ---
 
 # EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction

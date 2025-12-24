@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AutoPBO: LLM-powered Optimization for Local Search PBO Solvers
+title: "AutoPBO: LLM-powered Optimization for Local Search PBO Solvers"
 ---
 
 # AutoPBO: LLM-powered Optimization for Local Search PBO Solvers

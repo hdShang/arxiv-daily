@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TaoCache: Structure-Maintained Video Generation Acceleration
+title: "TaoCache: Structure-Maintained Video Generation Acceleration"
 ---
 
 # TaoCache: Structure-Maintained Video Generation Acceleration

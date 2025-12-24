@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chain-of-Frames: Advancing Video Understanding in Multimodal LLMs via Frame-Aware Reasoning
+title: "Chain-of-Frames: Advancing Video Understanding in Multimodal LLMs via Frame-Aware Reasoning"
 ---
 
 # Chain-of-Frames: Advancing Video Understanding in Multimodal LLMs via Frame-Aware Reasoning

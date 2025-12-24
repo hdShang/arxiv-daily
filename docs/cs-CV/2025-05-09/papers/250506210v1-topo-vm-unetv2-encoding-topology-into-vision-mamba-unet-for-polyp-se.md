@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Topo-VM-UNetV2: Encoding Topology into Vision Mamba UNet for Polyp Segmentation
+title: "Topo-VM-UNetV2: Encoding Topology into Vision Mamba UNet for Polyp Segmentation"
 ---
 
 # Topo-VM-UNetV2: Encoding Topology into Vision Mamba UNet for Polyp Segmentation

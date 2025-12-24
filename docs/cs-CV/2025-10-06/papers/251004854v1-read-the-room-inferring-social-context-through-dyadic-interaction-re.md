@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Read the Room: Inferring Social Context Through Dyadic Interaction Recognition in Cyber-physical-social Infrastructure Systems
+title: "Read the Room: Inferring Social Context Through Dyadic Interaction Recognition in Cyber-physical-social Infrastructure Systems"
 ---
 
 # Read the Room: Inferring Social Context Through Dyadic Interaction Recognition in Cyber-physical-social Infrastructure Systems

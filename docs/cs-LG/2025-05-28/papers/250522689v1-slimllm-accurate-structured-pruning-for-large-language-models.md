@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SlimLLM: Accurate Structured Pruning for Large Language Models
+title: "SlimLLM: Accurate Structured Pruning for Large Language Models"
 ---
 
 # SlimLLM: Accurate Structured Pruning for Large Language Models

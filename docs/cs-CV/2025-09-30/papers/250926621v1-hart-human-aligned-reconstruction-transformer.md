@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HART: Human Aligned Reconstruction Transformer
+title: "HART: Human Aligned Reconstruction Transformer"
 ---
 
 # HART: Human Aligned Reconstruction Transformer

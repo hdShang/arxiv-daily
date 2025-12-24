@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ProRefine: Inference-Time Prompt Refinement with Textual Feedback
+title: "ProRefine: Inference-Time Prompt Refinement with Textual Feedback"
 ---
 
 # ProRefine: Inference-Time Prompt Refinement with Textual Feedback

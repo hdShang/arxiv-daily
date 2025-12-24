@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Era of Real-World Human Interaction: RL from User Conversations
+title: "The Era of Real-World Human Interaction: RL from User Conversations"
 ---
 
 # The Era of Real-World Human Interaction: RL from User Conversations

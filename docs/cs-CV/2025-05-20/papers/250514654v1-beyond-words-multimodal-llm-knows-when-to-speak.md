@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Words: Multimodal LLM Knows When to Speak
+title: "Beyond Words: Multimodal LLM Knows When to Speak"
 ---
 
 # Beyond Words: Multimodal LLM Knows When to Speak

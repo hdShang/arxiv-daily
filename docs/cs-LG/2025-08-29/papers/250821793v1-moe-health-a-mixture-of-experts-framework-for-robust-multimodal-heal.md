@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoE-Health: A Mixture of Experts Framework for Robust Multimodal Healthcare Prediction
+title: "MoE-Health: A Mixture of Experts Framework for Robust Multimodal Healthcare Prediction"
 ---
 
 # MoE-Health: A Mixture of Experts Framework for Robust Multimodal Healthcare Prediction

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HEAPr: Hessian-based Efficient Atomic Expert Pruning in Output Space
+title: "HEAPr: Hessian-based Efficient Atomic Expert Pruning in Output Space"
 ---
 
 # HEAPr: Hessian-based Efficient Atomic Expert Pruning in Output Space

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Soft Reasoning: Navigating Solution Spaces in Large Language Models through Controlled Embedding Exploration
+title: "Soft Reasoning: Navigating Solution Spaces in Large Language Models through Controlled Embedding Exploration"
 ---
 
 # Soft Reasoning: Navigating Solution Spaces in Large Language Models through Controlled Embedding Exploration

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: One Head, Many Models: Cross-Attention Routing for Cost-Aware LLM Selection
+title: "One Head, Many Models: Cross-Attention Routing for Cost-Aware LLM Selection"
 ---
 
 # One Head, Many Models: Cross-Attention Routing for Cost-Aware LLM Selection

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: XxaCT-NN: Structure Agnostic Multimodal Learning for Materials Science
+title: "XxaCT-NN: Structure Agnostic Multimodal Learning for Materials Science"
 ---
 
 # XxaCT-NN: Structure Agnostic Multimodal Learning for Materials Science

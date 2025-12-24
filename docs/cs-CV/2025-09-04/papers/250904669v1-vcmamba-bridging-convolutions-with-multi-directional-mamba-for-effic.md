@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VCMamba: Bridging Convolutions with Multi-Directional Mamba for Efficient Visual Representation
+title: "VCMamba: Bridging Convolutions with Multi-Directional Mamba for Efficient Visual Representation"
 ---
 
 # VCMamba: Bridging Convolutions with Multi-Directional Mamba for Efficient Visual Representation

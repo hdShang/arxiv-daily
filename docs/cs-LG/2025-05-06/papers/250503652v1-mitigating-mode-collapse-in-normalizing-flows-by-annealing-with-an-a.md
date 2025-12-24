@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mitigating mode collapse in normalizing flows by annealing with an adaptive schedule: Application to parameter estimation
+title: "Mitigating mode collapse in normalizing flows by annealing with an adaptive schedule: Application to parameter estimation"
 ---
 
 # Mitigating mode collapse in normalizing flows by annealing with an adaptive schedule: Application to parameter estimation

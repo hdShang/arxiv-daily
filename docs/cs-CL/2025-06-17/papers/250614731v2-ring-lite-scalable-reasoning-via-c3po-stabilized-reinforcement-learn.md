@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs
+title: "Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs"
 ---
 
 # Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs

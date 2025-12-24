@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HyPlaneHead: Rethinking Tri-plane-like Representations in Full-Head Image Synthesis
+title: "HyPlaneHead: Rethinking Tri-plane-like Representations in Full-Head Image Synthesis"
 ---
 
 # HyPlaneHead: Rethinking Tri-plane-like Representations in Full-Head Image Synthesis

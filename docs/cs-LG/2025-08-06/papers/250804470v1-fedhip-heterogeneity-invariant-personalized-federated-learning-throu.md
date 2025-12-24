@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FedHiP: Heterogeneity-Invariant Personalized Federated Learning Through Closed-Form Solutions
+title: "FedHiP: Heterogeneity-Invariant Personalized Federated Learning Through Closed-Form Solutions"
 ---
 
 # FedHiP: Heterogeneity-Invariant Personalized Federated Learning Through Closed-Form Solutions

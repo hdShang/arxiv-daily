@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CustomIR: Unsupervised Fine-Tuning of Dense Embeddings for Known Document Corpora
+title: "CustomIR: Unsupervised Fine-Tuning of Dense Embeddings for Known Document Corpora"
 ---
 
 # CustomIR: Unsupervised Fine-Tuning of Dense Embeddings for Known Document Corpora

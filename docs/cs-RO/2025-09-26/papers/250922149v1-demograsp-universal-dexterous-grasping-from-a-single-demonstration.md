@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DemoGrasp: Universal Dexterous Grasping from a Single Demonstration
+title: "DemoGrasp: Universal Dexterous Grasping from a Single Demonstration"
 ---
 
 # DemoGrasp: Universal Dexterous Grasping from a Single Demonstration

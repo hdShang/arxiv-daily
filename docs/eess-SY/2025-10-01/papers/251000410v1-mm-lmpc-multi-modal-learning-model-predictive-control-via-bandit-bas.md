@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MM-LMPC: Multi-Modal Learning Model Predictive Control via Bandit-Based Mode Selection
+title: "MM-LMPC: Multi-Modal Learning Model Predictive Control via Bandit-Based Mode Selection"
 ---
 
 # MM-LMPC: Multi-Modal Learning Model Predictive Control via Bandit-Based Mode Selection

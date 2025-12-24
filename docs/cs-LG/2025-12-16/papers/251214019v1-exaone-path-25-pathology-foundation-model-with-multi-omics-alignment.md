@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EXAONE Path 2.5: Pathology Foundation Model with Multi-Omics Alignment
+title: "EXAONE Path 2.5: Pathology Foundation Model with Multi-Omics Alignment"
 ---
 
 # EXAONE Path 2.5: Pathology Foundation Model with Multi-Omics Alignment

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TACOS: Temporally-aligned Audio CaptiOnS for Language-Audio Pretraining
+title: "TACOS: Temporally-aligned Audio CaptiOnS for Language-Audio Pretraining"
 ---
 
 # TACOS: Temporally-aligned Audio CaptiOnS for Language-Audio Pretraining

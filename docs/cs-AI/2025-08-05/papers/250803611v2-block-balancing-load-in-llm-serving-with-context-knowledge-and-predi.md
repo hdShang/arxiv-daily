@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Block: Balancing Load in LLM Serving with Context, Knowledge and Predictive Scheduling
+title: "Block: Balancing Load in LLM Serving with Context, Knowledge and Predictive Scheduling"
 ---
 
 # Block: Balancing Load in LLM Serving with Context, Knowledge and Predictive Scheduling

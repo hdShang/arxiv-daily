@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GBC: Generalized Behavior-Cloning Framework for Whole-Body Humanoid Imitation
+title: "GBC: Generalized Behavior-Cloning Framework for Whole-Body Humanoid Imitation"
 ---
 
 # GBC: Generalized Behavior-Cloning Framework for Whole-Body Humanoid Imitation

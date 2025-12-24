@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CLONE: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks
+title: "CLONE: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks"
 ---
 
 # CLONE: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks

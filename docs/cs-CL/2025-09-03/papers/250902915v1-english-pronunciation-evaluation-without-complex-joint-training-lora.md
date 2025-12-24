@@ -1,6 +1,6 @@
 ---
 layout: default
-title: English Pronunciation Evaluation without Complex Joint Training: LoRA Fine-tuned Speech Multimodal LLM
+title: "English Pronunciation Evaluation without Complex Joint Training: LoRA Fine-tuned Speech Multimodal LLM"
 ---
 
 # English Pronunciation Evaluation without Complex Joint Training: LoRA Fine-tuned Speech Multimodal LLM

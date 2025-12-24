@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Good Deep Features to Track: Self-Supervised Feature Extraction and Tracking in Visual Odometry
+title: "Good Deep Features to Track: Self-Supervised Feature Extraction and Tracking in Visual Odometry"
 ---
 
 # Good Deep Features to Track: Self-Supervised Feature Extraction and Tracking in Visual Odometry

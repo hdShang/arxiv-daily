@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BenchHub: A Unified Benchmark Suite for Holistic and Customizable LLM Evaluation
+title: "BenchHub: A Unified Benchmark Suite for Holistic and Customizable LLM Evaluation"
 ---
 
 # BenchHub: A Unified Benchmark Suite for Holistic and Customizable LLM Evaluation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: No Loss, No Gain: Gated Refinement and Adaptive Compression for Prompt Optimization
+title: "No Loss, No Gain: Gated Refinement and Adaptive Compression for Prompt Optimization"
 ---
 
 # No Loss, No Gain: Gated Refinement and Adaptive Compression for Prompt Optimization

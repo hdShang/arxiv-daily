@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SceneGram: Conceptualizing and Describing Tangrams in Scene Context
+title: "SceneGram: Conceptualizing and Describing Tangrams in Scene Context"
 ---
 
 # SceneGram: Conceptualizing and Describing Tangrams in Scene Context

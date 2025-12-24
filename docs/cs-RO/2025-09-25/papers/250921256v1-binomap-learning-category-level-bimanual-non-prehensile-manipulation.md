@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BiNoMaP: Learning Category-Level Bimanual Non-Prehensile Manipulation Primitives
+title: "BiNoMaP: Learning Category-Level Bimanual Non-Prehensile Manipulation Primitives"
 ---
 
 # BiNoMaP: Learning Category-Level Bimanual Non-Prehensile Manipulation Primitives

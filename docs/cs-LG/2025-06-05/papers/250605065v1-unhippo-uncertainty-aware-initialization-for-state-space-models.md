@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UnHiPPO: Uncertainty-aware Initialization for State Space Models
+title: "UnHiPPO: Uncertainty-aware Initialization for State Space Models"
 ---
 
 # UnHiPPO: Uncertainty-aware Initialization for State Space Models

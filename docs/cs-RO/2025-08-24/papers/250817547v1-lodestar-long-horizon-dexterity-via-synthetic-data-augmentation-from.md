@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LodeStar: Long-horizon Dexterity via Synthetic Data Augmentation from Human Demonstrations
+title: "LodeStar: Long-horizon Dexterity via Synthetic Data Augmentation from Human Demonstrations"
 ---
 
 # LodeStar: Long-horizon Dexterity via Synthetic Data Augmentation from Human Demonstrations

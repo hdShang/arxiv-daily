@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReMoSPLAT: Reactive Mobile Manipulation Control on a Gaussian Splat
+title: "ReMoSPLAT: Reactive Mobile Manipulation Control on a Gaussian Splat"
 ---
 
 # ReMoSPLAT: Reactive Mobile Manipulation Control on a Gaussian Splat

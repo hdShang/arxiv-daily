@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PhotonSplat: 3D Scene Reconstruction and Colorization from SPAD Sensors
+title: "PhotonSplat: 3D Scene Reconstruction and Colorization from SPAD Sensors"
 ---
 
 # PhotonSplat: 3D Scene Reconstruction and Colorization from SPAD Sensors

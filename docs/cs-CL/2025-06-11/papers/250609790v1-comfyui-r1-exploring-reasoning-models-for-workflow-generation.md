@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ComfyUI-R1: Exploring Reasoning Models for Workflow Generation
+title: "ComfyUI-R1: Exploring Reasoning Models for Workflow Generation"
 ---
 
 # ComfyUI-R1: Exploring Reasoning Models for Workflow Generation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OUGS: Active View Selection via Object-aware Uncertainty Estimation in 3DGS
+title: "OUGS: Active View Selection via Object-aware Uncertainty Estimation in 3DGS"
 ---
 
 # OUGS: Active View Selection via Object-aware Uncertainty Estimation in 3DGS

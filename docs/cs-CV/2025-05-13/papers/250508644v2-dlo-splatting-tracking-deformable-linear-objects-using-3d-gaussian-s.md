@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DLO-Splatting: Tracking Deformable Linear Objects Using 3D Gaussian Splatting
+title: "DLO-Splatting: Tracking Deformable Linear Objects Using 3D Gaussian Splatting"
 ---
 
 # DLO-Splatting: Tracking Deformable Linear Objects Using 3D Gaussian Splatting

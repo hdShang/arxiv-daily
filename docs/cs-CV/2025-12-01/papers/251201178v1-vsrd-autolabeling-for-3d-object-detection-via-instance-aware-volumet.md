@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VSRD++: Autolabeling for 3D Object Detection via Instance-Aware Volumetric Silhouette Rendering
+title: "VSRD++: Autolabeling for 3D Object Detection via Instance-Aware Volumetric Silhouette Rendering"
 ---
 
 # VSRD++: Autolabeling for 3D Object Detection via Instance-Aware Volumetric Silhouette Rendering

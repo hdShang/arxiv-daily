@@ -1,6 +1,6 @@
 ---
 layout: default
-title: THiNK: Can Large Language Models Think-aloud?
+title: "THiNK: Can Large Language Models Think-aloud?"
 ---
 
 # THiNK: Can Large Language Models Think-aloud?

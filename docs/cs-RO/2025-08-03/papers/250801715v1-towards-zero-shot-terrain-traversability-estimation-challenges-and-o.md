@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Zero-Shot Terrain Traversability Estimation: Challenges and Opportunities
+title: "Towards Zero-Shot Terrain Traversability Estimation: Challenges and Opportunities"
 ---
 
 # Towards Zero-Shot Terrain Traversability Estimation: Challenges and Opportunities

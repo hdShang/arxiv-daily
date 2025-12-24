@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CVBench: Evaluating Cross-Video Synergies for Complex Multimodal Understanding and Reasoning
+title: "CVBench: Evaluating Cross-Video Synergies for Complex Multimodal Understanding and Reasoning"
 ---
 
 # CVBench: Evaluating Cross-Video Synergies for Complex Multimodal Understanding and Reasoning

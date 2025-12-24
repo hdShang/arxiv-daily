@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Safety filtering of robotic manipulation under environment uncertainty: a computational approach
+title: "Safety filtering of robotic manipulation under environment uncertainty: a computational approach"
 ---
 
 # Safety filtering of robotic manipulation under environment uncertainty: a computational approach

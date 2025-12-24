@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When Thinking LLMs Lie: Unveiling the Strategic Deception in Representations of Reasoning Models
+title: "When Thinking LLMs Lie: Unveiling the Strategic Deception in Representations of Reasoning Models"
 ---
 
 # When Thinking LLMs Lie: Unveiling the Strategic Deception in Representations of Reasoning Models

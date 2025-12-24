@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kinematify: Open-Vocabulary Synthesis of High-DoF Articulated Objects
+title: "Kinematify: Open-Vocabulary Synthesis of High-DoF Articulated Objects"
 ---
 
 # Kinematify: Open-Vocabulary Synthesis of High-DoF Articulated Objects

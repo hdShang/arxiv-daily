@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SPiDR: A Simple Approach for Zero-Shot Safety in Sim-to-Real Transfer
+title: "SPiDR: A Simple Approach for Zero-Shot Safety in Sim-to-Real Transfer"
 ---
 
 # SPiDR: A Simple Approach for Zero-Shot Safety in Sim-to-Real Transfer

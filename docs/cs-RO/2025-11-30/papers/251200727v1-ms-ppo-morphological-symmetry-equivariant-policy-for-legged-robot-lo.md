@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MS-PPO: Morphological-Symmetry-Equivariant Policy for Legged Robot Locomotion
+title: "MS-PPO: Morphological-Symmetry-Equivariant Policy for Legged Robot Locomotion"
 ---
 
 # MS-PPO: Morphological-Symmetry-Equivariant Policy for Legged Robot Locomotion

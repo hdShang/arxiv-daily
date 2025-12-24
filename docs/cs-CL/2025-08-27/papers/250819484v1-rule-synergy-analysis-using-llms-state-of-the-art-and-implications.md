@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rule Synergy Analysis using LLMs: State of the Art and Implications
+title: "Rule Synergy Analysis using LLMs: State of the Art and Implications"
 ---
 
 # Rule Synergy Analysis using LLMs: State of the Art and Implications

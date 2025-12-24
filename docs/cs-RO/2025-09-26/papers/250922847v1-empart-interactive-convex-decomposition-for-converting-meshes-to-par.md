@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Empart: Interactive Convex Decomposition for Converting Meshes to Parts
+title: "Empart: Interactive Convex Decomposition for Converting Meshes to Parts"
 ---
 
 # Empart: Interactive Convex Decomposition for Converting Meshes to Parts

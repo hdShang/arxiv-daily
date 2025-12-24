@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence
+title: "LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence"
 ---
 
 # LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence

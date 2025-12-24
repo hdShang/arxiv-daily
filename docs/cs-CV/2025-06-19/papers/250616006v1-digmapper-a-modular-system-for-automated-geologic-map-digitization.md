@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DIGMAPPER: A Modular System for Automated Geologic Map Digitization
+title: "DIGMAPPER: A Modular System for Automated Geologic Map Digitization"
 ---
 
 # DIGMAPPER: A Modular System for Automated Geologic Map Digitization

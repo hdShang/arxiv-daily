@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HOIDiNi: Human-Object Interaction through Diffusion Noise Optimization
+title: "HOIDiNi: Human-Object Interaction through Diffusion Noise Optimization"
 ---
 
 # HOIDiNi: Human-Object Interaction through Diffusion Noise Optimization

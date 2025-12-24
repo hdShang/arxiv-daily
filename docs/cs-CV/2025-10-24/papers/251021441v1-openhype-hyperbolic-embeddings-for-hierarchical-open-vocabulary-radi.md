@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OpenHype: Hyperbolic Embeddings for Hierarchical Open-Vocabulary Radiance Fields
+title: "OpenHype: Hyperbolic Embeddings for Hierarchical Open-Vocabulary Radiance Fields"
 ---
 
 # OpenHype: Hyperbolic Embeddings for Hierarchical Open-Vocabulary Radiance Fields

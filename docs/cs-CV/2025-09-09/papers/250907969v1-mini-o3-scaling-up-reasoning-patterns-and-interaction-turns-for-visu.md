@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search
+title: "Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search"
 ---
 
 # Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search

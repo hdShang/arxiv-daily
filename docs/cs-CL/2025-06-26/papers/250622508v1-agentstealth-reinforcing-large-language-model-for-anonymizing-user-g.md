@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AgentStealth: Reinforcing Large Language Model for Anonymizing User-generated Text
+title: "AgentStealth: Reinforcing Large Language Model for Anonymizing User-generated Text"
 ---
 
 # AgentStealth: Reinforcing Large Language Model for Anonymizing User-generated Text

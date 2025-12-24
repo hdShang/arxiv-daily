@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LightFusion: A Light-weighted, Double Fusion Framework for Unified Multimodal Understanding and Generation
+title: "LightFusion: A Light-weighted, Double Fusion Framework for Unified Multimodal Understanding and Generation"
 ---
 
 # LightFusion: A Light-weighted, Double Fusion Framework for Unified Multimodal Understanding and Generation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Uni-LoRA: One Vector is All You Need
+title: "Uni-LoRA: One Vector is All You Need"
 ---
 
 # Uni-LoRA: One Vector is All You Need

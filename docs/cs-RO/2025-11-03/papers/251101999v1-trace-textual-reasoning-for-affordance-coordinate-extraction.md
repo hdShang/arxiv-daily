@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TRACE: Textual Reasoning for Affordance Coordinate Extraction
+title: "TRACE: Textual Reasoning for Affordance Coordinate Extraction"
 ---
 
 # TRACE: Textual Reasoning for Affordance Coordinate Extraction

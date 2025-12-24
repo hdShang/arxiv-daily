@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Position: Thematic Analysis of Unstructured Clinical Transcripts with Large Language Models
+title: "Position: Thematic Analysis of Unstructured Clinical Transcripts with Large Language Models"
 ---
 
 # Position: Thematic Analysis of Unstructured Clinical Transcripts with Large Language Models

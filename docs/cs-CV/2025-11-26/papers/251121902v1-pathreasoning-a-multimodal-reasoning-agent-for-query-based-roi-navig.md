@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PathReasoning: A multimodal reasoning agent for query-based ROI navigation on whole-slide images
+title: "PathReasoning: A multimodal reasoning agent for query-based ROI navigation on whole-slide images"
 ---
 
 # PathReasoning: A multimodal reasoning agent for query-based ROI navigation on whole-slide images

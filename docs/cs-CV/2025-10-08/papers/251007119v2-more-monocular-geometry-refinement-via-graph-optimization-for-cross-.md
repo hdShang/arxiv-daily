@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoRe: Monocular Geometry Refinement via Graph Optimization for Cross-View Consistency
+title: "MoRe: Monocular Geometry Refinement via Graph Optimization for Cross-View Consistency"
 ---
 
 # MoRe: Monocular Geometry Refinement via Graph Optimization for Cross-View Consistency

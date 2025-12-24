@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VDRive: Leveraging Reinforced VLA and Diffusion Policy for End-to-end Autonomous Driving
+title: "VDRive: Leveraging Reinforced VLA and Diffusion Policy for End-to-end Autonomous Driving"
 ---
 
 # VDRive: Leveraging Reinforced VLA and Diffusion Policy for End-to-end Autonomous Driving

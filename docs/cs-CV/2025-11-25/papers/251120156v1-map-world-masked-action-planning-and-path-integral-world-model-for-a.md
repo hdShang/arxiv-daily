@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Map-World: Masked Action planning and Path-Integral World Model for Autonomous Driving
+title: "Map-World: Masked Action planning and Path-Integral World Model for Autonomous Driving"
 ---
 
 # Map-World: Masked Action planning and Path-Integral World Model for Autonomous Driving

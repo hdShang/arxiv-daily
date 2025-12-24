@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sign Language: Towards Sign Understanding for Robot Autonomy
+title: "Sign Language: Towards Sign Understanding for Robot Autonomy"
 ---
 
 # Sign Language: Towards Sign Understanding for Robot Autonomy

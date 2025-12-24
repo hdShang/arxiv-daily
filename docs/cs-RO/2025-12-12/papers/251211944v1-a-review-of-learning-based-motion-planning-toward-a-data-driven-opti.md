@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Review of Learning-Based Motion Planning: Toward a Data-Driven Optimal Control Approach
+title: "A Review of Learning-Based Motion Planning: Toward a Data-Driven Optimal Control Approach"
 ---
 
 # A Review of Learning-Based Motion Planning: Toward a Data-Driven Optimal Control Approach

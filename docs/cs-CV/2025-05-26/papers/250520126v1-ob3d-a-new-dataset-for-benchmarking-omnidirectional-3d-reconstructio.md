@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender
+title: "OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender"
 ---
 
 # OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender

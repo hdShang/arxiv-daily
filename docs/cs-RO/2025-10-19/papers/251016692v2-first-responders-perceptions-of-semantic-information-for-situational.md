@@ -1,6 +1,6 @@
 ---
 layout: default
-title: First Responders' Perceptions of Semantic Information for Situational Awareness in Robot-Assisted Emergency Response
+title: "First Responders' Perceptions of Semantic Information for Situational Awareness in Robot-Assisted Emergency Response"
 ---
 
 # First Responders' Perceptions of Semantic Information for Situational Awareness in Robot-Assisted Emergency Response

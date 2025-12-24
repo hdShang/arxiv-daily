@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Connections between reinforcement learning with feedback,test-time scaling, and diffusion guidance: An anthology
+title: "Connections between reinforcement learning with feedback,test-time scaling, and diffusion guidance: An anthology"
 ---
 
 # Connections between reinforcement learning with feedback,test-time scaling, and diffusion guidance: An anthology

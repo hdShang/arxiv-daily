@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fisher Random Walk: Automatic Debiasing Contextual Preference Inference for Large Language Model Evaluation
+title: "Fisher Random Walk: Automatic Debiasing Contextual Preference Inference for Large Language Model Evaluation"
 ---
 
 # Fisher Random Walk: Automatic Debiasing Contextual Preference Inference for Large Language Model Evaluation

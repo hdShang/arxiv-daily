@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PixelCraft: A Multi-Agent System for High-Fidelity Visual Reasoning on Structured Images
+title: "PixelCraft: A Multi-Agent System for High-Fidelity Visual Reasoning on Structured Images"
 ---
 
 # PixelCraft: A Multi-Agent System for High-Fidelity Visual Reasoning on Structured Images

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Decoupled Proxy Alignment: Mitigating Language Prior Conflict for Multimodal Alignment in MLLM
+title: "Decoupled Proxy Alignment: Mitigating Language Prior Conflict for Multimodal Alignment in MLLM"
 ---
 
 # Decoupled Proxy Alignment: Mitigating Language Prior Conflict for Multimodal Alignment in MLLM

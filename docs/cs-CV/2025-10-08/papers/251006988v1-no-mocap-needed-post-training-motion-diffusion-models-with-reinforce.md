@@ -1,6 +1,6 @@
 ---
 layout: default
-title: No MoCap Needed: Post-Training Motion Diffusion Models with Reinforcement Learning using Only Textual Prompts
+title: "No MoCap Needed: Post-Training Motion Diffusion Models with Reinforcement Learning using Only Textual Prompts"
 ---
 
 # No MoCap Needed: Post-Training Motion Diffusion Models with Reinforcement Learning using Only Textual Prompts

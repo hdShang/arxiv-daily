@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LangVision-LoRA-NAS: Neural Architecture Search for Variable LoRA Rank in Vision Language Models
+title: "LangVision-LoRA-NAS: Neural Architecture Search for Variable LoRA Rank in Vision Language Models"
 ---
 
 # LangVision-LoRA-NAS: Neural Architecture Search for Variable LoRA Rank in Vision Language Models

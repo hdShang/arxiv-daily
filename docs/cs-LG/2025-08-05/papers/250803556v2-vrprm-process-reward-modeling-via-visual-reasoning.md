@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VRPRM: Process Reward Modeling via Visual Reasoning
+title: "VRPRM: Process Reward Modeling via Visual Reasoning"
 ---
 
 # VRPRM: Process Reward Modeling via Visual Reasoning

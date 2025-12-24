@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MateICL: Mitigating Attention Dispersion in Large-Scale In-Context Learning
+title: "MateICL: Mitigating Attention Dispersion in Large-Scale In-Context Learning"
 ---
 
 # MateICL: Mitigating Attention Dispersion in Large-Scale In-Context Learning

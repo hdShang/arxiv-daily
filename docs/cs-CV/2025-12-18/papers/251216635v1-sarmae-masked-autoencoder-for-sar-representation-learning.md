@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SARMAE: Masked Autoencoder for SAR Representation Learning
+title: "SARMAE: Masked Autoencoder for SAR Representation Learning"
 ---
 
 # SARMAE: Masked Autoencoder for SAR Representation Learning

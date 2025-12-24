@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields
+title: "SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields"
 ---
 
 # SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields

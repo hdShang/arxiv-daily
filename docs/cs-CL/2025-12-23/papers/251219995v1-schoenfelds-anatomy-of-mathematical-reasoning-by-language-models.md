@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Schoenfeld's Anatomy of Mathematical Reasoning by Language Models
+title: "Schoenfeld's Anatomy of Mathematical Reasoning by Language Models"
 ---
 
 # Schoenfeld's Anatomy of Mathematical Reasoning by Language Models

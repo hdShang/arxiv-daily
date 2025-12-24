@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scaling DRL for Decision Making: A Survey on Data, Network, and Training Budget Strategies
+title: "Scaling DRL for Decision Making: A Survey on Data, Network, and Training Budget Strategies"
 ---
 
 # Scaling DRL for Decision Making: A Survey on Data, Network, and Training Budget Strategies

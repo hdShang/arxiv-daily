@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning
+title: "A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning"
 ---
 
 # A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning

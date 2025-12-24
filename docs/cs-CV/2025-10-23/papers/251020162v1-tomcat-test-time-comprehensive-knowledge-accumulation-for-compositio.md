@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TOMCAT: Test-time Comprehensive Knowledge Accumulation for Compositional Zero-Shot Learning
+title: "TOMCAT: Test-time Comprehensive Knowledge Accumulation for Compositional Zero-Shot Learning"
 ---
 
 # TOMCAT: Test-time Comprehensive Knowledge Accumulation for Compositional Zero-Shot Learning

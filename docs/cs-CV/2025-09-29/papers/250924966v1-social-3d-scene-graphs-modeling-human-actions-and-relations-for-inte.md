@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Social 3D Scene Graphs: Modeling Human Actions and Relations for Interactive Service Robots
+title: "Social 3D Scene Graphs: Modeling Human Actions and Relations for Interactive Service Robots"
 ---
 
 # Social 3D Scene Graphs: Modeling Human Actions and Relations for Interactive Service Robots

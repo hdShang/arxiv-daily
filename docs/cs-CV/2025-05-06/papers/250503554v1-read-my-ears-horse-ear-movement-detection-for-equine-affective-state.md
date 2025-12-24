@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Read My Ears! Horse Ear Movement Detection for Equine Affective State Assessment
+title: "Read My Ears! Horse Ear Movement Detection for Equine Affective State Assessment"
 ---
 
 # Read My Ears! Horse Ear Movement Detection for Equine Affective State Assessment

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SPAP: Structured Pruning via Alternating Optimization and Penalty Methods
+title: "SPAP: Structured Pruning via Alternating Optimization and Penalty Methods"
 ---
 
 # SPAP: Structured Pruning via Alternating Optimization and Penalty Methods

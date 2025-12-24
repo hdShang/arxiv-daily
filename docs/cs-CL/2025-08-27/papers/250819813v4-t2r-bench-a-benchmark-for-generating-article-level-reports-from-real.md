@@ -1,6 +1,6 @@
 ---
 layout: default
-title: T2R-bench: A Benchmark for Generating Article-Level Reports from Real World Industrial Tables
+title: "T2R-bench: A Benchmark for Generating Article-Level Reports from Real World Industrial Tables"
 ---
 
 # T2R-bench: A Benchmark for Generating Article-Level Reports from Real World Industrial Tables

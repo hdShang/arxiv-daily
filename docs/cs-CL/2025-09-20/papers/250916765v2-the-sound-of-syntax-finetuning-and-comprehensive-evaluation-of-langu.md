@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Sound of Syntax: Finetuning and Comprehensive Evaluation of Language Models for Speech Pathology
+title: "The Sound of Syntax: Finetuning and Comprehensive Evaluation of Language Models for Speech Pathology"
 ---
 
 # The Sound of Syntax: Finetuning and Comprehensive Evaluation of Language Models for Speech Pathology

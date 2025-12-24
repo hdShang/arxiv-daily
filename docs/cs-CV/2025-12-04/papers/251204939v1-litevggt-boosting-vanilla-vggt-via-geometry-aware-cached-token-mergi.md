@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging
+title: "LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging"
 ---
 
 # LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging

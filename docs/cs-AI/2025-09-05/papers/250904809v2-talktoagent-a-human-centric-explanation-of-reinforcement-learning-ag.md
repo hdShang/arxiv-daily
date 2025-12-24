@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TalkToAgent: A Human-centric Explanation of Reinforcement Learning Agents with Large Language Models
+title: "TalkToAgent: A Human-centric Explanation of Reinforcement Learning Agents with Large Language Models"
 ---
 
 # TalkToAgent: A Human-centric Explanation of Reinforcement Learning Agents with Large Language Models

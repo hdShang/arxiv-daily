@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AXIOM: Learning to Play Games in Minutes with Expanding Object-Centric Models
+title: "AXIOM: Learning to Play Games in Minutes with Expanding Object-Centric Models"
 ---
 
 # AXIOM: Learning to Play Games in Minutes with Expanding Object-Centric Models

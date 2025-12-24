@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BoxingVI: A Multi-Modal Benchmark for Boxing Action Recognition and Localization
+title: "BoxingVI: A Multi-Modal Benchmark for Boxing Action Recognition and Localization"
 ---
 
 # BoxingVI: A Multi-Modal Benchmark for Boxing Action Recognition and Localization

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PGOV3D: Open-Vocabulary 3D Semantic Segmentation with Partial-to-Global Curriculum
+title: "PGOV3D: Open-Vocabulary 3D Semantic Segmentation with Partial-to-Global Curriculum"
 ---
 
 # PGOV3D: Open-Vocabulary 3D Semantic Segmentation with Partial-to-Global Curriculum

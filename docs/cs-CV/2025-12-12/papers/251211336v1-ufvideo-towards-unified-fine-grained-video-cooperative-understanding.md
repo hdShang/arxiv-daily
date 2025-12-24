@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UFVideo: Towards Unified Fine-Grained Video Cooperative Understanding with Large Language Models
+title: "UFVideo: Towards Unified Fine-Grained Video Cooperative Understanding with Large Language Models"
 ---
 
 # UFVideo: Towards Unified Fine-Grained Video Cooperative Understanding with Large Language Models

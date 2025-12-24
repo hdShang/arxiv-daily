@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DexFruit: Dexterous Manipulation and Gaussian Splatting Inspection of Fruit
+title: "DexFruit: Dexterous Manipulation and Gaussian Splatting Inspection of Fruit"
 ---
 
 # DexFruit: Dexterous Manipulation and Gaussian Splatting Inspection of Fruit

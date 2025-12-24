@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Explainable AI for Radar Resource Management: Modified LIME in Deep Reinforcement Learning
+title: "Explainable AI for Radar Resource Management: Modified LIME in Deep Reinforcement Learning"
 ---
 
 # Explainable AI for Radar Resource Management: Modified LIME in Deep Reinforcement Learning

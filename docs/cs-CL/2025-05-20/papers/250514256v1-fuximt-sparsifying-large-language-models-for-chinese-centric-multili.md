@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FuxiMT: Sparsifying Large Language Models for Chinese-Centric Multilingual Machine Translation
+title: "FuxiMT: Sparsifying Large Language Models for Chinese-Centric Multilingual Machine Translation"
 ---
 
 # FuxiMT: Sparsifying Large Language Models for Chinese-Centric Multilingual Machine Translation

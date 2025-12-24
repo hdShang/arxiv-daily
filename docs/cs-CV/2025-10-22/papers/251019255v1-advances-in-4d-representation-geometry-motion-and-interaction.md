@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Advances in 4D Representation: Geometry, Motion, and Interaction
+title: "Advances in 4D Representation: Geometry, Motion, and Interaction"
 ---
 
 # Advances in 4D Representation: Geometry, Motion, and Interaction

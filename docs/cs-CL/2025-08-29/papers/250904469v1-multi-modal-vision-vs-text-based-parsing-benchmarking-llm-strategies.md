@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multi-Modal Vision vs. Text-Based Parsing: Benchmarking LLM Strategies for Invoice Processing
+title: "Multi-Modal Vision vs. Text-Based Parsing: Benchmarking LLM Strategies for Invoice Processing"
 ---
 
 # Multi-Modal Vision vs. Text-Based Parsing: Benchmarking LLM Strategies for Invoice Processing

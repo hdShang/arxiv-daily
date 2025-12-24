@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic Thought Reward
+title: "Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic Thought Reward"
 ---
 
 # Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic Thought Reward

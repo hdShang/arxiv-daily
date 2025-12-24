@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SurgViVQA: Temporally-Grounded Video Question Answering for Surgical Scene Understanding
+title: "SurgViVQA: Temporally-Grounded Video Question Answering for Surgical Scene Understanding"
 ---
 
 # SurgViVQA: Temporally-Grounded Video Question Answering for Surgical Scene Understanding

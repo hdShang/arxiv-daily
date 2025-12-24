@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TransMPC: Transformer-based Explicit MPC with Variable Prediction Horizon
+title: "TransMPC: Transformer-based Explicit MPC with Variable Prediction Horizon"
 ---
 
 # TransMPC: Transformer-based Explicit MPC with Variable Prediction Horizon

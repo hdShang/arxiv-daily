@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NurseSchedRL: Attention-Guided Reinforcement Learning for Nurse-Patient Assignment
+title: "NurseSchedRL: Attention-Guided Reinforcement Learning for Nurse-Patient Assignment"
 ---
 
 # NurseSchedRL: Attention-Guided Reinforcement Learning for Nurse-Patient Assignment

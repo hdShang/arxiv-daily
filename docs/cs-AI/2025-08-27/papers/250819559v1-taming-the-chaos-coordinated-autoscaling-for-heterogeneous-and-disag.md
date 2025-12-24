@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Taming the Chaos: Coordinated Autoscaling for Heterogeneous and Disaggregated LLM Inference
+title: "Taming the Chaos: Coordinated Autoscaling for Heterogeneous and Disaggregated LLM Inference"
 ---
 
 # Taming the Chaos: Coordinated Autoscaling for Heterogeneous and Disaggregated LLM Inference

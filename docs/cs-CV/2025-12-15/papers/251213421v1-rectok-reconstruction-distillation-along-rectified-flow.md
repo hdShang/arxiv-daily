@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RecTok: Reconstruction Distillation along Rectified Flow
+title: "RecTok: Reconstruction Distillation along Rectified Flow"
 ---
 
 # RecTok: Reconstruction Distillation along Rectified Flow

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OpenAg: Democratizing Agricultural Intelligence
+title: "OpenAg: Democratizing Agricultural Intelligence"
 ---
 
 # OpenAg: Democratizing Agricultural Intelligence

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WildScore: Benchmarking MLLMs in-the-Wild Symbolic Music Reasoning
+title: "WildScore: Benchmarking MLLMs in-the-Wild Symbolic Music Reasoning"
 ---
 
 # WildScore: Benchmarking MLLMs in-the-Wild Symbolic Music Reasoning

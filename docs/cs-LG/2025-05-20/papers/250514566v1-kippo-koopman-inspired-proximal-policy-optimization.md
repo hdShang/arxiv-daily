@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KIPPO: Koopman-Inspired Proximal Policy Optimization
+title: "KIPPO: Koopman-Inspired Proximal Policy Optimization"
 ---
 
 # KIPPO: Koopman-Inspired Proximal Policy Optimization

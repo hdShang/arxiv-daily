@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ActivePusher: Active Learning and Planning with Residual Physics for Nonprehensile Manipulation
+title: "ActivePusher: Active Learning and Planning with Residual Physics for Nonprehensile Manipulation"
 ---
 
 # ActivePusher: Active Learning and Planning with Residual Physics for Nonprehensile Manipulation

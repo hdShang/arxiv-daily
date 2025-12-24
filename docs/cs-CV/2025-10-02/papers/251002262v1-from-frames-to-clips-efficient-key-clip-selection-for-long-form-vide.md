@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Frames to Clips: Efficient Key Clip Selection for Long-Form Video Understanding
+title: "From Frames to Clips: Efficient Key Clip Selection for Long-Form Video Understanding"
 ---
 
 # From Frames to Clips: Efficient Key Clip Selection for Long-Form Video Understanding

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy
+title: "InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy"
 ---
 
 # InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HCR-Reasoner: Synergizing Large Language Models and Theory for Human-like Causal Reasoning
+title: "HCR-Reasoner: Synergizing Large Language Models and Theory for Human-like Causal Reasoning"
 ---
 
 # HCR-Reasoner: Synergizing Large Language Models and Theory for Human-like Causal Reasoning

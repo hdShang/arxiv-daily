@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MIRROR: Multi-agent Intra- and Inter-Reflection for Optimized Reasoning in Tool Learning
+title: "MIRROR: Multi-agent Intra- and Inter-Reflection for Optimized Reasoning in Tool Learning"
 ---
 
 # MIRROR: Multi-agent Intra- and Inter-Reflection for Optimized Reasoning in Tool Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AdaToken-3D: Dynamic Spatial Gating for Efficient 3D Large Multimodal-Models Reasoning
+title: "AdaToken-3D: Dynamic Spatial Gating for Efficient 3D Large Multimodal-Models Reasoning"
 ---
 
 # AdaToken-3D: Dynamic Spatial Gating for Efficient 3D Large Multimodal-Models Reasoning

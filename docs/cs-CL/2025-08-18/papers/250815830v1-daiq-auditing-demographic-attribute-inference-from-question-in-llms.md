@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DAIQ: Auditing Demographic Attribute Inference from Question in LLMs
+title: "DAIQ: Auditing Demographic Attribute Inference from Question in LLMs"
 ---
 
 # DAIQ: Auditing Demographic Attribute Inference from Question in LLMs

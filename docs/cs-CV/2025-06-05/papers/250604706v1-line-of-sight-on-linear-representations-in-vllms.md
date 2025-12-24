@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Line of Sight: On Linear Representations in VLLMs
+title: "Line of Sight: On Linear Representations in VLLMs"
 ---
 
 # Line of Sight: On Linear Representations in VLLMs

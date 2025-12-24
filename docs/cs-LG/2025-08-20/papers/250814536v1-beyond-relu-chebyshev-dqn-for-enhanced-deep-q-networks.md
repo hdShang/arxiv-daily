@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond ReLU: Chebyshev-DQN for Enhanced Deep Q-Networks
+title: "Beyond ReLU: Chebyshev-DQN for Enhanced Deep Q-Networks"
 ---
 
 # Beyond ReLU: Chebyshev-DQN for Enhanced Deep Q-Networks

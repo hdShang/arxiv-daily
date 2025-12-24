@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SANSKRITI: A Comprehensive Benchmark for Evaluating Language Models' Knowledge of Indian Culture
+title: "SANSKRITI: A Comprehensive Benchmark for Evaluating Language Models' Knowledge of Indian Culture"
 ---
 
 # SANSKRITI: A Comprehensive Benchmark for Evaluating Language Models' Knowledge of Indian Culture

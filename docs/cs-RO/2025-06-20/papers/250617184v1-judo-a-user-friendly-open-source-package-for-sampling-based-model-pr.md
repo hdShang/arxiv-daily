@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Judo: A User-Friendly Open-Source Package for Sampling-Based Model Predictive Control
+title: "Judo: A User-Friendly Open-Source Package for Sampling-Based Model Predictive Control"
 ---
 
 # Judo: A User-Friendly Open-Source Package for Sampling-Based Model Predictive Control

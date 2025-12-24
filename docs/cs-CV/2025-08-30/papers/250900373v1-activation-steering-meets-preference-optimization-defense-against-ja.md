@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Activation Steering Meets Preference Optimization: Defense Against Jailbreaks in Vision Language Models
+title: "Activation Steering Meets Preference Optimization: Defense Against Jailbreaks in Vision Language Models"
 ---
 
 # Activation Steering Meets Preference Optimization: Defense Against Jailbreaks in Vision Language Models

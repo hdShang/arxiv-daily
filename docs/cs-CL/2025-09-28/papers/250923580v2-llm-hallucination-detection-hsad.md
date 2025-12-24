@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM Hallucination Detection: HSAD
+title: "LLM Hallucination Detection: HSAD"
 ---
 
 # LLM Hallucination Detection: HSAD

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TOUCH: Text-guided Controllable Generation of Free-Form Hand-Object Interactions
+title: "TOUCH: Text-guided Controllable Generation of Free-Form Hand-Object Interactions"
 ---
 
 # TOUCH: Text-guided Controllable Generation of Free-Form Hand-Object Interactions

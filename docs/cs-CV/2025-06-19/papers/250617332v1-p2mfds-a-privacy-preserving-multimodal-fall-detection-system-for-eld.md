@@ -1,6 +1,6 @@
 ---
 layout: default
-title: P2MFDS: A Privacy-Preserving Multimodal Fall Detection System for Elderly People in Bathroom Environments
+title: "P2MFDS: A Privacy-Preserving Multimodal Fall Detection System for Elderly People in Bathroom Environments"
 ---
 
 # P2MFDS: A Privacy-Preserving Multimodal Fall Detection System for Elderly People in Bathroom Environments

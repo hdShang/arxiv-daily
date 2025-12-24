@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Long Context Scaling: Divide and Conquer via Multi-Agent Question-driven Collaboration
+title: "Long Context Scaling: Divide and Conquer via Multi-Agent Question-driven Collaboration"
 ---
 
 # Long Context Scaling: Divide and Conquer via Multi-Agent Question-driven Collaboration

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Embodied AI: From LLMs to World Models
+title: "Embodied AI: From LLMs to World Models"
 ---
 
 # Embodied AI: From LLMs to World Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HAMburger: Accelerating LLM Inference via Token Smashing
+title: "HAMburger: Accelerating LLM Inference via Token Smashing"
 ---
 
 # HAMburger: Accelerating LLM Inference via Token Smashing

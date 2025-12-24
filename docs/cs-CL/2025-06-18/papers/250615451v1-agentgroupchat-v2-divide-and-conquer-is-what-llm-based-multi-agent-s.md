@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AgentGroupChat-V2: Divide-and-Conquer Is What LLM-Based Multi-Agent System Need
+title: "AgentGroupChat-V2: Divide-and-Conquer Is What LLM-Based Multi-Agent System Need"
 ---
 
 # AgentGroupChat-V2: Divide-and-Conquer Is What LLM-Based Multi-Agent System Need

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cyber Racing Coach: A Haptic Shared Control Framework for Teaching Advanced Driving Skills
+title: "Cyber Racing Coach: A Haptic Shared Control Framework for Teaching Advanced Driving Skills"
 ---
 
 # Cyber Racing Coach: A Haptic Shared Control Framework for Teaching Advanced Driving Skills

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CheckManual: A New Challenge and Benchmark for Manual-based Appliance Manipulation
+title: "CheckManual: A New Challenge and Benchmark for Manual-based Appliance Manipulation"
 ---
 
 # CheckManual: A New Challenge and Benchmark for Manual-based Appliance Manipulation

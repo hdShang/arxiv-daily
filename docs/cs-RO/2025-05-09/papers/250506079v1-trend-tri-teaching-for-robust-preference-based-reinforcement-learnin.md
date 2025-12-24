@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TREND: Tri-teaching for Robust Preference-based Reinforcement Learning with Demonstrations
+title: "TREND: Tri-teaching for Robust Preference-based Reinforcement Learning with Demonstrations"
 ---
 
 # TREND: Tri-teaching for Robust Preference-based Reinforcement Learning with Demonstrations

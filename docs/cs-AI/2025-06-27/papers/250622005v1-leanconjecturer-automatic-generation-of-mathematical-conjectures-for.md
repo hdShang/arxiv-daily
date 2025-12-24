@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LeanConjecturer: Automatic Generation of Mathematical Conjectures for Theorem Proving
+title: "LeanConjecturer: Automatic Generation of Mathematical Conjectures for Theorem Proving"
 ---
 
 # LeanConjecturer: Automatic Generation of Mathematical Conjectures for Theorem Proving

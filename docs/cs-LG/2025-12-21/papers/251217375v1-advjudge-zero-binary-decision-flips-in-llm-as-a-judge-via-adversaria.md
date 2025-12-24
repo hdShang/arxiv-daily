@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AdvJudge-Zero: Binary Decision Flips in LLM-as-a-Judge via Adversarial Control Tokens
+title: "AdvJudge-Zero: Binary Decision Flips in LLM-as-a-Judge via Adversarial Control Tokens"
 ---
 
 # AdvJudge-Zero: Binary Decision Flips in LLM-as-a-Judge via Adversarial Control Tokens

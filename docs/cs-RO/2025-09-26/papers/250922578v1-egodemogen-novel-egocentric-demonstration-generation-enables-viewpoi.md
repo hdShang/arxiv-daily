@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EgoDemoGen: Novel Egocentric Demonstration Generation Enables Viewpoint-Robust Manipulation
+title: "EgoDemoGen: Novel Egocentric Demonstration Generation Enables Viewpoint-Robust Manipulation"
 ---
 
 # EgoDemoGen: Novel Egocentric Demonstration Generation Enables Viewpoint-Robust Manipulation

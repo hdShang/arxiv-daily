@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Seamless Interaction: Causal Turn-Level Modeling of Interactive 3D Conversational Head Dynamics
+title: "Towards Seamless Interaction: Causal Turn-Level Modeling of Interactive 3D Conversational Head Dynamics"
 ---
 
 # Towards Seamless Interaction: Causal Turn-Level Modeling of Interactive 3D Conversational Head Dynamics

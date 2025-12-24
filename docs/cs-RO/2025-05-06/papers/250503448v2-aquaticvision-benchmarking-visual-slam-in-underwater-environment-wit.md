@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AquaticVision: Benchmarking Visual SLAM in Underwater Environment with Events and Frames
+title: "AquaticVision: Benchmarking Visual SLAM in Underwater Environment with Events and Frames"
 ---
 
 # AquaticVision: Benchmarking Visual SLAM in Underwater Environment with Events and Frames

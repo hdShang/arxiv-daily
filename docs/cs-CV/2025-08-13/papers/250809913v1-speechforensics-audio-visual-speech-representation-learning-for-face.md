@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SpeechForensics: Audio-Visual Speech Representation Learning for Face Forgery Detection
+title: "SpeechForensics: Audio-Visual Speech Representation Learning for Face Forgery Detection"
 ---
 
 # SpeechForensics: Audio-Visual Speech Representation Learning for Face Forgery Detection

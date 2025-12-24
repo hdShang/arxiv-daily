@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ground-R1: Incentivizing Grounded Visual Reasoning via Reinforcement Learning
+title: "Ground-R1: Incentivizing Grounded Visual Reasoning via Reinforcement Learning"
 ---
 
 # Ground-R1: Incentivizing Grounded Visual Reasoning via Reinforcement Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PhysToolBench: Benchmarking Physical Tool Understanding for MLLMs
+title: "PhysToolBench: Benchmarking Physical Tool Understanding for MLLMs"
 ---
 
 # PhysToolBench: Benchmarking Physical Tool Understanding for MLLMs

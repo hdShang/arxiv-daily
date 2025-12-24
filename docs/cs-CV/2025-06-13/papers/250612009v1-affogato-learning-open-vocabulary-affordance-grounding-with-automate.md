@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Affogato: Learning Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale
+title: "Affogato: Learning Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale"
 ---
 
 # Affogato: Learning Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale

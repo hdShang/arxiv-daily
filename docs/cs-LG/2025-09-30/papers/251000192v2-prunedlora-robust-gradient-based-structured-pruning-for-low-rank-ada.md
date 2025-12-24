@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PrunedLoRA: Robust Gradient-Based structured pruning for Low-rank Adaptation in Fine-tuning
+title: "PrunedLoRA: Robust Gradient-Based structured pruning for Low-rank Adaptation in Fine-tuning"
 ---
 
 # PrunedLoRA: Robust Gradient-Based structured pruning for Low-rank Adaptation in Fine-tuning

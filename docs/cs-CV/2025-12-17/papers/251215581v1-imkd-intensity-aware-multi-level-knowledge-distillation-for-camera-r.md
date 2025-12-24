@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IMKD: Intensity-Aware Multi-Level Knowledge Distillation for Camera-Radar Fusion
+title: "IMKD: Intensity-Aware Multi-Level Knowledge Distillation for Camera-Radar Fusion"
 ---
 
 # IMKD: Intensity-Aware Multi-Level Knowledge Distillation for Camera-Radar Fusion

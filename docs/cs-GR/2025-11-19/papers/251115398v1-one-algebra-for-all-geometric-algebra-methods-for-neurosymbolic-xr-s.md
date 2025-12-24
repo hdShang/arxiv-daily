@@ -1,6 +1,6 @@
 ---
 layout: default
-title: One algebra for all : Geometric Algebra methods for neurosymbolic XR scene authoring, animation and neural rendering
+title: "One algebra for all : Geometric Algebra methods for neurosymbolic XR scene authoring, animation and neural rendering"
 ---
 
 # One algebra for all : Geometric Algebra methods for neurosymbolic XR scene authoring, animation and neural rendering

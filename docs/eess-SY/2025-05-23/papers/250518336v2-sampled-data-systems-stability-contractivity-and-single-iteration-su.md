@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sampled-data Systems: Stability, Contractivity and Single-iteration Suboptimal MPC
+title: "Sampled-data Systems: Stability, Contractivity and Single-iteration Suboptimal MPC"
 ---
 
 # Sampled-data Systems: Stability, Contractivity and Single-iteration Suboptimal MPC

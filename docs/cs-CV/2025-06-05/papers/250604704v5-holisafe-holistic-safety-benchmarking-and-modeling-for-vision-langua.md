@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HoliSafe: Holistic Safety Benchmarking and Modeling for Vision-Language Model
+title: "HoliSafe: Holistic Safety Benchmarking and Modeling for Vision-Language Model"
 ---
 
 # HoliSafe: Holistic Safety Benchmarking and Modeling for Vision-Language Model

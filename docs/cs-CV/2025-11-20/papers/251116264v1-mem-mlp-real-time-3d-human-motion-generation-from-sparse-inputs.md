@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mem-MLP: Real-Time 3D Human Motion Generation from Sparse Inputs
+title: "Mem-MLP: Real-Time 3D Human Motion Generation from Sparse Inputs"
 ---
 
 # Mem-MLP: Real-Time 3D Human Motion Generation from Sparse Inputs

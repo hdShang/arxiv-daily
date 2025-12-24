@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Improving Crash Data Quality with Large Language Models: Evidence from Secondary Crash Narratives in Kentucky
+title: "Improving Crash Data Quality with Large Language Models: Evidence from Secondary Crash Narratives in Kentucky"
 ---
 
 # Improving Crash Data Quality with Large Language Models: Evidence from Secondary Crash Narratives in Kentucky

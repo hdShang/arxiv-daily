@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DYSTIL: Dynamic Strategy Induction with Large Language Models for Reinforcement Learning
+title: "DYSTIL: Dynamic Strategy Induction with Large Language Models for Reinforcement Learning"
 ---
 
 # DYSTIL: Dynamic Strategy Induction with Large Language Models for Reinforcement Learning

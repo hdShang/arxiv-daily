@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Library Hallucinations in LLMs: Risk Analysis Grounded in Developer Queries
+title: "Library Hallucinations in LLMs: Risk Analysis Grounded in Developer Queries"
 ---
 
 # Library Hallucinations in LLMs: Risk Analysis Grounded in Developer Queries

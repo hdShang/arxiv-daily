@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LiteVoxel: Low-memory Intelligent Thresholding for Efficient Voxel Rasterization
+title: "LiteVoxel: Low-memory Intelligent Thresholding for Efficient Voxel Rasterization"
 ---
 
 # LiteVoxel: Low-memory Intelligent Thresholding for Efficient Voxel Rasterization

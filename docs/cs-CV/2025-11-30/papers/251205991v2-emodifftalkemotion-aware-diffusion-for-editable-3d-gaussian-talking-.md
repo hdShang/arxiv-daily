@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EmoDiffTalk:Emotion-aware Diffusion for Editable 3D Gaussian Talking Head
+title: "EmoDiffTalk:Emotion-aware Diffusion for Editable 3D Gaussian Talking Head"
 ---
 
 # EmoDiffTalk:Emotion-aware Diffusion for Editable 3D Gaussian Talking Head

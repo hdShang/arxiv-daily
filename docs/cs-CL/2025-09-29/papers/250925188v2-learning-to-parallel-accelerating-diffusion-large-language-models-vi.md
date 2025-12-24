@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning to Parallel: Accelerating Diffusion Large Language Models via Learnable Parallel Decoding
+title: "Learning to Parallel: Accelerating Diffusion Large Language Models via Learnable Parallel Decoding"
 ---
 
 # Learning to Parallel: Accelerating Diffusion Large Language Models via Learnable Parallel Decoding

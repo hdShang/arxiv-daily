@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation
+title: "ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation"
 ---
 
 # ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation

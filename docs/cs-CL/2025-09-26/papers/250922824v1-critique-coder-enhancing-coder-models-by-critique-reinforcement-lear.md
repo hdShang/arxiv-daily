@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Critique-Coder: Enhancing Coder Models by Critique Reinforcement Learning
+title: "Critique-Coder: Enhancing Coder Models by Critique Reinforcement Learning"
 ---
 
 # Critique-Coder: Enhancing Coder Models by Critique Reinforcement Learning

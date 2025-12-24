@@ -1,6 +1,6 @@
 ---
 layout: default
-title: C3-OWD: A Curriculum Cross-modal Contrastive Learning Framework for Open-World Detection
+title: "C3-OWD: A Curriculum Cross-modal Contrastive Learning Framework for Open-World Detection"
 ---
 
 # C3-OWD: A Curriculum Cross-modal Contrastive Learning Framework for Open-World Detection

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RAST: Reasoning Activation in LLMs via Small-model Transfer
+title: "RAST: Reasoning Activation in LLMs via Small-model Transfer"
 ---
 
 # RAST: Reasoning Activation in LLMs via Small-model Transfer

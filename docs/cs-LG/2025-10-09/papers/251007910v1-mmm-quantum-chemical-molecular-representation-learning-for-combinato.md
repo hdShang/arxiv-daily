@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMM: Quantum-Chemical Molecular Representation Learning for Combinatorial Drug Recommendation
+title: "MMM: Quantum-Chemical Molecular Representation Learning for Combinatorial Drug Recommendation"
 ---
 
 # MMM: Quantum-Chemical Molecular Representation Learning for Combinatorial Drug Recommendation

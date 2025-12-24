@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VLSU: Mapping the Limits of Joint Multimodal Understanding for AI Safety
+title: "VLSU: Mapping the Limits of Joint Multimodal Understanding for AI Safety"
 ---
 
 # VLSU: Mapping the Limits of Joint Multimodal Understanding for AI Safety

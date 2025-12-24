@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AGTCNet: A Graph-Temporal Approach for Principled Motor Imagery EEG Classification
+title: "AGTCNet: A Graph-Temporal Approach for Principled Motor Imagery EEG Classification"
 ---
 
 # AGTCNet: A Graph-Temporal Approach for Principled Motor Imagery EEG Classification

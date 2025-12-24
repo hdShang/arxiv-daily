@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Predicting Effects, Missing Distributions: Evaluating LLMs as Human Behavior Simulators in Operations Management
+title: "Predicting Effects, Missing Distributions: Evaluating LLMs as Human Behavior Simulators in Operations Management"
 ---
 
 # Predicting Effects, Missing Distributions: Evaluating LLMs as Human Behavior Simulators in Operations Management

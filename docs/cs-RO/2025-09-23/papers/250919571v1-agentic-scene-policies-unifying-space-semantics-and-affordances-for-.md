@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Agentic Scene Policies: Unifying Space, Semantics, and Affordances for Robot Action
+title: "Agentic Scene Policies: Unifying Space, Semantics, and Affordances for Robot Action"
 ---
 
 # Agentic Scene Policies: Unifying Space, Semantics, and Affordances for Robot Action

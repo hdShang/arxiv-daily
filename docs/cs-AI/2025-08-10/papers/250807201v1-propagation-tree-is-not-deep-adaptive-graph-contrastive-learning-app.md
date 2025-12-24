@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Propagation Tree Is Not Deep: Adaptive Graph Contrastive Learning Approach for Rumor Detection
+title: "Propagation Tree Is Not Deep: Adaptive Graph Contrastive Learning Approach for Rumor Detection"
 ---
 
 # Propagation Tree Is Not Deep: Adaptive Graph Contrastive Learning Approach for Rumor Detection

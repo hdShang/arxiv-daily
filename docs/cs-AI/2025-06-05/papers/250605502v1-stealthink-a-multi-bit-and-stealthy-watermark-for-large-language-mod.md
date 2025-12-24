@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StealthInk: A Multi-bit and Stealthy Watermark for Large Language Models
+title: "StealthInk: A Multi-bit and Stealthy Watermark for Large Language Models"
 ---
 
 # StealthInk: A Multi-bit and Stealthy Watermark for Large Language Models

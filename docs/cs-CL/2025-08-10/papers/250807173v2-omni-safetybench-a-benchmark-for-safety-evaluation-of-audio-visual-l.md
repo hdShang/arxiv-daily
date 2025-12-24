@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Omni-SafetyBench: A Benchmark for Safety Evaluation of Audio-Visual Large Language Models
+title: "Omni-SafetyBench: A Benchmark for Safety Evaluation of Audio-Visual Large Language Models"
 ---
 
 # Omni-SafetyBench: A Benchmark for Safety Evaluation of Audio-Visual Large Language Models

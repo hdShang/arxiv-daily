@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Observer Actor: Active Vision Imitation Learning with Sparse View Gaussian Splatting
+title: "Observer Actor: Active Vision Imitation Learning with Sparse View Gaussian Splatting"
 ---
 
 # Observer Actor: Active Vision Imitation Learning with Sparse View Gaussian Splatting

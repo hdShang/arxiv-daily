@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ViExam: Are Vision Language Models Better than Humans on Vietnamese Multimodal Exam Questions?
+title: "ViExam: Are Vision Language Models Better than Humans on Vietnamese Multimodal Exam Questions?"
 ---
 
 # ViExam: Are Vision Language Models Better than Humans on Vietnamese Multimodal Exam Questions?

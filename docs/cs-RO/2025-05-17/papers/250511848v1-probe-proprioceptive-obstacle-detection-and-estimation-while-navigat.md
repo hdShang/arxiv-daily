@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PROBE: Proprioceptive Obstacle Detection and Estimation while Navigating in Clutter
+title: "PROBE: Proprioceptive Obstacle Detection and Estimation while Navigating in Clutter"
 ---
 
 # PROBE: Proprioceptive Obstacle Detection and Estimation while Navigating in Clutter

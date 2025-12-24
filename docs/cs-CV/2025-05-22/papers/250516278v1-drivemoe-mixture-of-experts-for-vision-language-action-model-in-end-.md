@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving
+title: "DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving"
 ---
 
 # DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving

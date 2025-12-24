@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning
+title: "MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning"
 ---
 
 # MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning

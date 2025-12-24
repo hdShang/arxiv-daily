@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Evetac: An Event-based Optical Tactile Sensor for Robotic Manipulation
+title: "Evetac: An Event-based Optical Tactile Sensor for Robotic Manipulation"
 ---
 
 # Evetac: An Event-based Optical Tactile Sensor for Robotic Manipulation

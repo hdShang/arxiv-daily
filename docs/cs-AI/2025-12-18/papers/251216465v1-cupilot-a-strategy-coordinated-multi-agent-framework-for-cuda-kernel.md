@@ -1,6 +1,6 @@
 ---
 layout: default
-title: cuPilot: A Strategy-Coordinated Multi-agent Framework for CUDA Kernel Evolution
+title: "cuPilot: A Strategy-Coordinated Multi-agent Framework for CUDA Kernel Evolution"
 ---
 
 # cuPilot: A Strategy-Coordinated Multi-agent Framework for CUDA Kernel Evolution

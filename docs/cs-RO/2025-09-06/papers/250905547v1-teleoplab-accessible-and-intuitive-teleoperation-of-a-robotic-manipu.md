@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TeleopLab: Accessible and Intuitive Teleoperation of a Robotic Manipulator for Remote Labs
+title: "TeleopLab: Accessible and Intuitive Teleoperation of a Robotic Manipulator for Remote Labs"
 ---
 
 # TeleopLab: Accessible and Intuitive Teleoperation of a Robotic Manipulator for Remote Labs

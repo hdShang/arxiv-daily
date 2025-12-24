@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MM-SeR: Multimodal Self-Refinement for Lightweight Image Captioning
+title: "MM-SeR: Multimodal Self-Refinement for Lightweight Image Captioning"
 ---
 
 # MM-SeR: Multimodal Self-Refinement for Lightweight Image Captioning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PhysWorld: From Real Videos to World Models of Deformable Objects via Physics-Aware Demonstration Synthesis
+title: "PhysWorld: From Real Videos to World Models of Deformable Objects via Physics-Aware Demonstration Synthesis"
 ---
 
 # PhysWorld: From Real Videos to World Models of Deformable Objects via Physics-Aware Demonstration Synthesis

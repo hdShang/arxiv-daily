@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ISS Policy : Scalable Diffusion Policy with Implicit Scene Supervision
+title: "ISS Policy : Scalable Diffusion Policy with Implicit Scene Supervision"
 ---
 
 # ISS Policy : Scalable Diffusion Policy with Implicit Scene Supervision

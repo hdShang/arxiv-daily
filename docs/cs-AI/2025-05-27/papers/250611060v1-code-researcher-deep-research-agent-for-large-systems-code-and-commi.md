@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Code Researcher: Deep Research Agent for Large Systems Code and Commit History
+title: "Code Researcher: Deep Research Agent for Large Systems Code and Commit History"
 ---
 
 # Code Researcher: Deep Research Agent for Large Systems Code and Commit History

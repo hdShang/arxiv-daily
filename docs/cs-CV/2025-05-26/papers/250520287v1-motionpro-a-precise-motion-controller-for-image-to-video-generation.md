@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MotionPro: A Precise Motion Controller for Image-to-Video Generation
+title: "MotionPro: A Precise Motion Controller for Image-to-Video Generation"
 ---
 
 # MotionPro: A Precise Motion Controller for Image-to-Video Generation

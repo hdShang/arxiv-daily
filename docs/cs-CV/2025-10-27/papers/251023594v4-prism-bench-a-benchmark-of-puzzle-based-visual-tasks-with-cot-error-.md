@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PRISM-Bench: A Benchmark of Puzzle-Based Visual Tasks with CoT Error Detection
+title: "PRISM-Bench: A Benchmark of Puzzle-Based Visual Tasks with CoT Error Detection"
 ---
 
 # PRISM-Bench: A Benchmark of Puzzle-Based Visual Tasks with CoT Error Detection

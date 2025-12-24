@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SIGMUS: Semantic Integration for Knowledge Graphs in Multimodal Urban Spaces
+title: "SIGMUS: Semantic Integration for Knowledge Graphs in Multimodal Urban Spaces"
 ---
 
 # SIGMUS: Semantic Integration for Knowledge Graphs in Multimodal Urban Spaces

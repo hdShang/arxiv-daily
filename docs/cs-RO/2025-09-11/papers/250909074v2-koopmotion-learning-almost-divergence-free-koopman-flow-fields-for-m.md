@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KoopMotion: Learning Almost Divergence Free Koopman Flow Fields for Motion Planning
+title: "KoopMotion: Learning Almost Divergence Free Koopman Flow Fields for Motion Planning"
 ---
 
 # KoopMotion: Learning Almost Divergence Free Koopman Flow Fields for Motion Planning

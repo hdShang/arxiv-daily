@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Observation to Action: Latent Action-based Primitive Segmentation for VLA Pre-training in Industrial Settings
+title: "From Observation to Action: Latent Action-based Primitive Segmentation for VLA Pre-training in Industrial Settings"
 ---
 
 # From Observation to Action: Latent Action-based Primitive Segmentation for VLA Pre-training in Industrial Settings

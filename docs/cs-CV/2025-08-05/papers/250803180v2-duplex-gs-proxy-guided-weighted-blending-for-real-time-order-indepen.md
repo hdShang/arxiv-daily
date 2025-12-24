@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Duplex-GS: Proxy-Guided Weighted Blending for Real-Time Order-Independent Gaussian Splatting
+title: "Duplex-GS: Proxy-Guided Weighted Blending for Real-Time Order-Independent Gaussian Splatting"
 ---
 
 # Duplex-GS: Proxy-Guided Weighted Blending for Real-Time Order-Independent Gaussian Splatting

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Programming by Backprop: LLMs Acquire Reusable Algorithmic Abstractions During Code Training
+title: "Programming by Backprop: LLMs Acquire Reusable Algorithmic Abstractions During Code Training"
 ---
 
 # Programming by Backprop: LLMs Acquire Reusable Algorithmic Abstractions During Code Training

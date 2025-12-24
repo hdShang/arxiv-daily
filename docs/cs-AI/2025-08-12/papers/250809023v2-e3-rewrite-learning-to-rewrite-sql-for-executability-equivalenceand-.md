@@ -1,6 +1,6 @@
 ---
 layout: default
-title: E3-Rewrite: Learning to Rewrite SQL for Executability, Equivalence,and Efficiency
+title: "E3-Rewrite: Learning to Rewrite SQL for Executability, Equivalence,and Efficiency"
 ---
 
 # E3-Rewrite: Learning to Rewrite SQL for Executability, Equivalence,and Efficiency

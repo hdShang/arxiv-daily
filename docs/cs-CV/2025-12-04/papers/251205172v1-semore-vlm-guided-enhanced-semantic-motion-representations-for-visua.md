@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Semore: VLM-guided Enhanced Semantic Motion Representations for Visual Reinforcement Learning
+title: "Semore: VLM-guided Enhanced Semantic Motion Representations for Visual Reinforcement Learning"
 ---
 
 # Semore: VLM-guided Enhanced Semantic Motion Representations for Visual Reinforcement Learning

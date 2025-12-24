@@ -1,6 +1,6 @@
 ---
 layout: default
-title: L0: Reinforcement Learning to Become General Agents
+title: "L0: Reinforcement Learning to Become General Agents"
 ---
 
 # L0: Reinforcement Learning to Become General Agents

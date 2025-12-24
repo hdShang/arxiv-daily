@@ -1,6 +1,6 @@
 ---
 layout: default
-title: This Time is Different: An Observability Perspective on Time Series Foundation Models
+title: "This Time is Different: An Observability Perspective on Time Series Foundation Models"
 ---
 
 # This Time is Different: An Observability Perspective on Time Series Foundation Models

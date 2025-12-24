@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Basic Affordances to Symbolic Thought: A Computational Phylogenesis of Biological Intelligence
+title: "From Basic Affordances to Symbolic Thought: A Computational Phylogenesis of Biological Intelligence"
 ---
 
 # From Basic Affordances to Symbolic Thought: A Computational Phylogenesis of Biological Intelligence

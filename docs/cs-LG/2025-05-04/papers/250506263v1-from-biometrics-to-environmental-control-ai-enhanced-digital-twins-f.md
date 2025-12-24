@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Biometrics to Environmental Control: AI-Enhanced Digital Twins for Personalized Health Interventions in Healing Landscapes
+title: "From Biometrics to Environmental Control: AI-Enhanced Digital Twins for Personalized Health Interventions in Healing Landscapes"
 ---
 
 # From Biometrics to Environmental Control: AI-Enhanced Digital Twins for Personalized Health Interventions in Healing Landscapes

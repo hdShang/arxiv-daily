@@ -1,6 +1,6 @@
 ---
 layout: default
-title: REX-RAG: Reasoning Exploration with Policy Correction in Retrieval-Augmented Generation
+title: "REX-RAG: Reasoning Exploration with Policy Correction in Retrieval-Augmented Generation"
 ---
 
 # REX-RAG: Reasoning Exploration with Policy Correction in Retrieval-Augmented Generation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Optimal Transport: Model-Aligned Coupling for Flow Matching
+title: "Beyond Optimal Transport: Model-Aligned Coupling for Flow Matching"
 ---
 
 # Beyond Optimal Transport: Model-Aligned Coupling for Flow Matching

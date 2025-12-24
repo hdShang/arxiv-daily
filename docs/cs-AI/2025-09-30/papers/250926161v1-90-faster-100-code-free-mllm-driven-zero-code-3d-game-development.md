@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 90% Faster, 100% Code-Free: MLLM-Driven Zero-Code 3D Game Development
+title: "90% Faster, 100% Code-Free: MLLM-Driven Zero-Code 3D Game Development"
 ---
 
 # 90% Faster, 100% Code-Free: MLLM-Driven Zero-Code 3D Game Development

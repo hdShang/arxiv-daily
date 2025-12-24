@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SpinBench: Perspective and Rotation as a Lens on Spatial Reasoning in VLMs
+title: "SpinBench: Perspective and Rotation as a Lens on Spatial Reasoning in VLMs"
 ---
 
 # SpinBench: Perspective and Rotation as a Lens on Spatial Reasoning in VLMs

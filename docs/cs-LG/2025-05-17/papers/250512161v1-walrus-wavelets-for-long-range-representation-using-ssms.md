@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WaLRUS: Wavelets for Long-range Representation Using SSMs
+title: "WaLRUS: Wavelets for Long-range Representation Using SSMs"
 ---
 
 # WaLRUS: Wavelets for Long-range Representation Using SSMs

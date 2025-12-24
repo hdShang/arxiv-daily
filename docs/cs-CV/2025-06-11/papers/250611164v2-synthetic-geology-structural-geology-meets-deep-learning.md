@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Synthetic Geology: Structural Geology Meets Deep Learning
+title: "Synthetic Geology: Structural Geology Meets Deep Learning"
 ---
 
 # Synthetic Geology: Structural Geology Meets Deep Learning

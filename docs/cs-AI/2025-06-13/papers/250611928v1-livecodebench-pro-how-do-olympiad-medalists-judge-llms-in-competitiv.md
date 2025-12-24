@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?
+title: "LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?"
 ---
 
 # LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?

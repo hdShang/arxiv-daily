@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Information Structure in Mappings: An Approach to Learning, Representation, and Generalisation
+title: "Information Structure in Mappings: An Approach to Learning, Representation, and Generalisation"
 ---
 
 # Information Structure in Mappings: An Approach to Learning, Representation, and Generalisation

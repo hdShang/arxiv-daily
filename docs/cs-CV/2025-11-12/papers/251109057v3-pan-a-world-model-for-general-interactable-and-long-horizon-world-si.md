@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PAN: A World Model for General, Interactable, and Long-Horizon World Simulation
+title: "PAN: A World Model for General, Interactable, and Long-Horizon World Simulation"
 ---
 
 # PAN: A World Model for General, Interactable, and Long-Horizon World Simulation

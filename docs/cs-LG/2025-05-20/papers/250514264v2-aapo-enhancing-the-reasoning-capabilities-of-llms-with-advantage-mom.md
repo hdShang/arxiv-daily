@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AAPO: Enhancing the Reasoning Capabilities of LLMs with Advantage Momentum
+title: "AAPO: Enhancing the Reasoning Capabilities of LLMs with Advantage Momentum"
 ---
 
 # AAPO: Enhancing the Reasoning Capabilities of LLMs with Advantage Momentum

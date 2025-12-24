@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Search Arena: Analyzing Search-Augmented LLMs
+title: "Search Arena: Analyzing Search-Augmented LLMs"
 ---
 
 # Search Arena: Analyzing Search-Augmented LLMs

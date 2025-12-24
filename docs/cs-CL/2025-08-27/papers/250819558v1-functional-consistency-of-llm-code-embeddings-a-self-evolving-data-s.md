@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Functional Consistency of LLM Code Embeddings: A Self-Evolving Data Synthesis Framework for Benchmarking
+title: "Functional Consistency of LLM Code Embeddings: A Self-Evolving Data Synthesis Framework for Benchmarking"
 ---
 
 # Functional Consistency of LLM Code Embeddings: A Self-Evolving Data Synthesis Framework for Benchmarking

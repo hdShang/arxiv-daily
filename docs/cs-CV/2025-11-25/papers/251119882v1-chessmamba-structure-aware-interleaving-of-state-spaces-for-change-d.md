@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ChessMamba: Structure-Aware Interleaving of State Spaces for Change Detection in Remote Sensing Images
+title: "ChessMamba: Structure-Aware Interleaving of State Spaces for Change Detection in Remote Sensing Images"
 ---
 
 # ChessMamba: Structure-Aware Interleaving of State Spaces for Change Detection in Remote Sensing Images

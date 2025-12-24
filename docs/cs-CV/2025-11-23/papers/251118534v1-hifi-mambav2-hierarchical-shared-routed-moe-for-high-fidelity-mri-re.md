@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HiFi-MambaV2: Hierarchical Shared-Routed MoE for High-Fidelity MRI Reconstruction
+title: "HiFi-MambaV2: Hierarchical Shared-Routed MoE for High-Fidelity MRI Reconstruction"
 ---
 
 # HiFi-MambaV2: Hierarchical Shared-Routed MoE for High-Fidelity MRI Reconstruction

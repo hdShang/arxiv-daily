@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoAngelo: Motion-Aware Neural Surface Reconstruction for Dynamic Scenes
+title: "MoAngelo: Motion-Aware Neural Surface Reconstruction for Dynamic Scenes"
 ---
 
 # MoAngelo: Motion-Aware Neural Surface Reconstruction for Dynamic Scenes

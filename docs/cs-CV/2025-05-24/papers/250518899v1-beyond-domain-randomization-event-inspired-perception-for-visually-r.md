@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Domain Randomization: Event-Inspired Perception for Visually Robust Adversarial Imitation from Videos
+title: "Beyond Domain Randomization: Event-Inspired Perception for Visually Robust Adversarial Imitation from Videos"
 ---
 
 # Beyond Domain Randomization: Event-Inspired Perception for Visually Robust Adversarial Imitation from Videos

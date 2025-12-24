@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BOE-XSUM: Extreme Summarization in Clear Language of Spanish Legal Decrees and Notifications
+title: "BOE-XSUM: Extreme Summarization in Clear Language of Spanish Legal Decrees and Notifications"
 ---
 
 # BOE-XSUM: Extreme Summarization in Clear Language of Spanish Legal Decrees and Notifications

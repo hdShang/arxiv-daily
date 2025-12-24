@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spatiotemporal Transformer for Imputing Sparse Data: A Deep Learning Approach
+title: "Spatiotemporal Transformer for Imputing Sparse Data: A Deep Learning Approach"
 ---
 
 # Spatiotemporal Transformer for Imputing Sparse Data: A Deep Learning Approach

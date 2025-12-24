@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AgentArch: A Comprehensive Benchmark to Evaluate Agent Architectures in Enterprise
+title: "AgentArch: A Comprehensive Benchmark to Evaluate Agent Architectures in Enterprise"
 ---
 
 # AgentArch: A Comprehensive Benchmark to Evaluate Agent Architectures in Enterprise

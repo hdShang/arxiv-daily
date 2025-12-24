@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SynCraft: Guiding Large Language Models to Predict Edit Sequences for Molecular Synthesizability Optimization
+title: "SynCraft: Guiding Large Language Models to Predict Edit Sequences for Molecular Synthesizability Optimization"
 ---
 
 # SynCraft: Guiding Large Language Models to Predict Edit Sequences for Molecular Synthesizability Optimization

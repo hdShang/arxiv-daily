@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DRTA: Dynamic Reward Scaling for Reinforcement Learning in Time Series Anomaly Detection
+title: "DRTA: Dynamic Reward Scaling for Reinforcement Learning in Time Series Anomaly Detection"
 ---
 
 # DRTA: Dynamic Reward Scaling for Reinforcement Learning in Time Series Anomaly Detection

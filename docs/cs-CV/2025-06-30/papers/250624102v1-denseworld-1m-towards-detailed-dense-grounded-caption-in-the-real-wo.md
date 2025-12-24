@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DenseWorld-1M: Towards Detailed Dense Grounded Caption in the Real World
+title: "DenseWorld-1M: Towards Detailed Dense Grounded Caption in the Real World"
 ---
 
 # DenseWorld-1M: Towards Detailed Dense Grounded Caption in the Real World

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking
+title: "Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking"
 ---
 
 # Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SparSplat: Fast Multi-View Reconstruction with Generalizable 2D Gaussian Splatting
+title: "SparSplat: Fast Multi-View Reconstruction with Generalizable 2D Gaussian Splatting"
 ---
 
 # SparSplat: Fast Multi-View Reconstruction with Generalizable 2D Gaussian Splatting

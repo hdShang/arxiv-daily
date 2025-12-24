@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CEHR-XGPT: A Scalable Multi-Task Foundation Model for Electronic Health Records
+title: "CEHR-XGPT: A Scalable Multi-Task Foundation Model for Electronic Health Records"
 ---
 
 # CEHR-XGPT: A Scalable Multi-Task Foundation Model for Electronic Health Records

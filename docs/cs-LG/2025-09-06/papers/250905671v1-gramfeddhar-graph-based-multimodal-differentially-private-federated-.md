@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GraMFedDHAR: Graph Based Multimodal Differentially Private Federated HAR
+title: "GraMFedDHAR: Graph Based Multimodal Differentially Private Federated HAR"
 ---
 
 # GraMFedDHAR: Graph Based Multimodal Differentially Private Federated HAR

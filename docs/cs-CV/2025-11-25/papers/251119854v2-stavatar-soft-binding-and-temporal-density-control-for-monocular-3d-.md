@@ -1,6 +1,6 @@
 ---
 layout: default
-title: STAvatar: Soft Binding and Temporal Density Control for Monocular 3D Head Avatars Reconstruction
+title: "STAvatar: Soft Binding and Temporal Density Control for Monocular 3D Head Avatars Reconstruction"
 ---
 
 # STAvatar: Soft Binding and Temporal Density Control for Monocular 3D Head Avatars Reconstruction

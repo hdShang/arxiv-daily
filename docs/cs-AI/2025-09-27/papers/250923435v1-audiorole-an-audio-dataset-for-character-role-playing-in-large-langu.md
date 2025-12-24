@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AudioRole: An Audio Dataset for Character Role-Playing in Large Language Models
+title: "AudioRole: An Audio Dataset for Character Role-Playing in Large Language Models"
 ---
 
 # AudioRole: An Audio Dataset for Character Role-Playing in Large Language Models

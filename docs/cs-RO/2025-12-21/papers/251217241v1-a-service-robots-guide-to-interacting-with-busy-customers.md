@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Service Robot's Guide to Interacting with Busy Customers
+title: "A Service Robot's Guide to Interacting with Busy Customers"
 ---
 
 # A Service Robot's Guide to Interacting with Busy Customers

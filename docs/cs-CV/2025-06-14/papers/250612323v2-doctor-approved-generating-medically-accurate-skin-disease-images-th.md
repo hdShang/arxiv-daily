@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Doctor Approved: Generating Medically Accurate Skin Disease Images through AI-Expert Feedback
+title: "Doctor Approved: Generating Medically Accurate Skin Disease Images through AI-Expert Feedback"
 ---
 
 # Doctor Approved: Generating Medically Accurate Skin Disease Images through AI-Expert Feedback

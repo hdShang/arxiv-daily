@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RewardDance: Reward Scaling in Visual Generation
+title: "RewardDance: Reward Scaling in Visual Generation"
 ---
 
 # RewardDance: Reward Scaling in Visual Generation

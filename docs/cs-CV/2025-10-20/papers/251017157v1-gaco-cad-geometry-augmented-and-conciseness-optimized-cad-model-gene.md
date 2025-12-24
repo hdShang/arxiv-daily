@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GACO-CAD: Geometry-Augmented and Conciseness-Optimized CAD Model Generation from Single Image
+title: "GACO-CAD: Geometry-Augmented and Conciseness-Optimized CAD Model Generation from Single Image"
 ---
 
 # GACO-CAD: Geometry-Augmented and Conciseness-Optimized CAD Model Generation from Single Image

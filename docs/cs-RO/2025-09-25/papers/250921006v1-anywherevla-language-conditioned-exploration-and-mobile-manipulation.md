@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AnywhereVLA: Language-Conditioned Exploration and Mobile Manipulation
+title: "AnywhereVLA: Language-Conditioned Exploration and Mobile Manipulation"
 ---
 
 # AnywhereVLA: Language-Conditioned Exploration and Mobile Manipulation

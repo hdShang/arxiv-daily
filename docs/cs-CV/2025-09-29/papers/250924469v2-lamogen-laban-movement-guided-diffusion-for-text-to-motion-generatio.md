@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LaMoGen: Laban Movement-Guided Diffusion for Text-to-Motion Generation
+title: "LaMoGen: Laban Movement-Guided Diffusion for Text-to-Motion Generation"
 ---
 
 # LaMoGen: Laban Movement-Guided Diffusion for Text-to-Motion Generation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dynamic Safety in Complex Environments: Synthesizing Safety Filters with Poisson's Equation
+title: "Dynamic Safety in Complex Environments: Synthesizing Safety Filters with Poisson's Equation"
 ---
 
 # Dynamic Safety in Complex Environments: Synthesizing Safety Filters with Poisson's Equation

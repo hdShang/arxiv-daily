@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMFformer: Multimodal Fusion Transformer Network for Depression Detection
+title: "MMFformer: Multimodal Fusion Transformer Network for Depression Detection"
 ---
 
 # MMFformer: Multimodal Fusion Transformer Network for Depression Detection

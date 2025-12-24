@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ClusterUCB: Efficient Gradient-Based Data Selection for Targeted Fine-Tuning of LLMs
+title: "ClusterUCB: Efficient Gradient-Based Data Selection for Targeted Fine-Tuning of LLMs"
 ---
 
 # ClusterUCB: Efficient Gradient-Based Data Selection for Targeted Fine-Tuning of LLMs

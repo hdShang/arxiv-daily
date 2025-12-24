@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MLLM-CL: Continual Learning for Multimodal Large Language Models
+title: "MLLM-CL: Continual Learning for Multimodal Large Language Models"
 ---
 
 # MLLM-CL: Continual Learning for Multimodal Large Language Models

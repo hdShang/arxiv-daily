@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LKD-KGC: Domain-Specific KG Construction via LLM-driven Knowledge Dependency Parsing
+title: "LKD-KGC: Domain-Specific KG Construction via LLM-driven Knowledge Dependency Parsing"
 ---
 
 # LKD-KGC: Domain-Specific KG Construction via LLM-driven Knowledge Dependency Parsing

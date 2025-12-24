@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CCFC: Core & Core-Full-Core Dual-Track Defense for LLM Jailbreak Protection
+title: "CCFC: Core & Core-Full-Core Dual-Track Defense for LLM Jailbreak Protection"
 ---
 
 # CCFC: Core & Core-Full-Core Dual-Track Defense for LLM Jailbreak Protection

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GuirlVG: Incentivize GUI Visual Grounding via Empirical Exploration on Reinforcement Learning
+title: "GuirlVG: Incentivize GUI Visual Grounding via Empirical Exploration on Reinforcement Learning"
 ---
 
 # GuirlVG: Incentivize GUI Visual Grounding via Empirical Exploration on Reinforcement Learning

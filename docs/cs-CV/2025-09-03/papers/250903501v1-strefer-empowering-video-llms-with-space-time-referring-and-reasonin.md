@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Strefer: Empowering Video LLMs with Space-Time Referring and Reasoning via Synthetic Instruction Data
+title: "Strefer: Empowering Video LLMs with Space-Time Referring and Reasoning via Synthetic Instruction Data"
 ---
 
 # Strefer: Empowering Video LLMs with Space-Time Referring and Reasoning via Synthetic Instruction Data

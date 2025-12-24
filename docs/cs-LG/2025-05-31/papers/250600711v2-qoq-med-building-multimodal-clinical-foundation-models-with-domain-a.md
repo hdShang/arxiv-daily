@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training
+title: "QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training"
 ---
 
 # QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training

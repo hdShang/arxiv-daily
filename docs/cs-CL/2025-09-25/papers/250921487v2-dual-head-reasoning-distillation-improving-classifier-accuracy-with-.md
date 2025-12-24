@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dual-Head Reasoning Distillation: Improving Classifier Accuracy with Train-Time-Only Reasoning
+title: "Dual-Head Reasoning Distillation: Improving Classifier Accuracy with Train-Time-Only Reasoning"
 ---
 
 # Dual-Head Reasoning Distillation: Improving Classifier Accuracy with Train-Time-Only Reasoning

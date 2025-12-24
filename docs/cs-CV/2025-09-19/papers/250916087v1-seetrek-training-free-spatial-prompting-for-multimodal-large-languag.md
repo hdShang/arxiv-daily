@@ -1,6 +1,6 @@
 ---
 layout: default
-title: See&Trek: Training-Free Spatial Prompting for Multimodal Large Language Model
+title: "See&Trek: Training-Free Spatial Prompting for Multimodal Large Language Model"
 ---
 
 # See&Trek: Training-Free Spatial Prompting for Multimodal Large Language Model

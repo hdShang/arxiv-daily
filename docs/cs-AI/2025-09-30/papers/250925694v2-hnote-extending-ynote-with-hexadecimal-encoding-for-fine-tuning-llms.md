@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HNote: Extending YNote with Hexadecimal Encoding for Fine-Tuning LLMs in Music Modeling
+title: "HNote: Extending YNote with Hexadecimal Encoding for Fine-Tuning LLMs in Music Modeling"
 ---
 
 # HNote: Extending YNote with Hexadecimal Encoding for Fine-Tuning LLMs in Music Modeling

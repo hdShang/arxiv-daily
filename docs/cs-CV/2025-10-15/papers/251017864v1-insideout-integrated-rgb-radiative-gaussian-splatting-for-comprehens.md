@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InsideOut: Integrated RGB-Radiative Gaussian Splatting for Comprehensive 3D Object Representation
+title: "InsideOut: Integrated RGB-Radiative Gaussian Splatting for Comprehensive 3D Object Representation"
 ---
 
 # InsideOut: Integrated RGB-Radiative Gaussian Splatting for Comprehensive 3D Object Representation

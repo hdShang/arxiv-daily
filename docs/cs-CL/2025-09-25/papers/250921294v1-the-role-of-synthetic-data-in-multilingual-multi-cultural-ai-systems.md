@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The role of synthetic data in Multilingual, Multi-cultural AI systems: Lessons from Indic Languages
+title: "The role of synthetic data in Multilingual, Multi-cultural AI systems: Lessons from Indic Languages"
 ---
 
 # The role of synthetic data in Multilingual, Multi-cultural AI systems: Lessons from Indic Languages

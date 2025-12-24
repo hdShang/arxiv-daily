@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BcQLM: Efficient Vision-Language Understanding with Distilled Q-Gated Cross-Modal Fusion
+title: "BcQLM: Efficient Vision-Language Understanding with Distilled Q-Gated Cross-Modal Fusion"
 ---
 
 # BcQLM: Efficient Vision-Language Understanding with Distilled Q-Gated Cross-Modal Fusion

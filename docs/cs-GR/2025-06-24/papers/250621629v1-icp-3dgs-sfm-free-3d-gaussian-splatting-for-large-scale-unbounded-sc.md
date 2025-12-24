@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ICP-3DGS: SfM-free 3D Gaussian Splatting for Large-scale Unbounded Scenes
+title: "ICP-3DGS: SfM-free 3D Gaussian Splatting for Large-scale Unbounded Scenes"
 ---
 
 # ICP-3DGS: SfM-free 3D Gaussian Splatting for Large-scale Unbounded Scenes

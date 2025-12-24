@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering
+title: "GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering"
 ---
 
 # GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering

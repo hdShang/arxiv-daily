@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BridgeShape: Latent Diffusion Schrödinger Bridge for 3D Shape Completion
+title: "BridgeShape: Latent Diffusion Schrödinger Bridge for 3D Shape Completion"
 ---
 
 # BridgeShape: Latent Diffusion Schrödinger Bridge for 3D Shape Completion

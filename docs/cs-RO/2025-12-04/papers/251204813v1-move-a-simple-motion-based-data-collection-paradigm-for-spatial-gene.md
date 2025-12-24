@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MOVE: A Simple Motion-Based Data Collection Paradigm for Spatial Generalization in Robotic Manipulation
+title: "MOVE: A Simple Motion-Based Data Collection Paradigm for Spatial Generalization in Robotic Manipulation"
 ---
 
 # MOVE: A Simple Motion-Based Data Collection Paradigm for Spatial Generalization in Robotic Manipulation

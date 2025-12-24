@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark
+title: "ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark"
 ---
 
 # ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark

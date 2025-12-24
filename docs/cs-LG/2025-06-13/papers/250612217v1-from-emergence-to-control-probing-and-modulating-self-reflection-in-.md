@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Emergence to Control: Probing and Modulating Self-Reflection in Language Models
+title: "From Emergence to Control: Probing and Modulating Self-Reflection in Language Models"
 ---
 
 # From Emergence to Control: Probing and Modulating Self-Reflection in Language Models

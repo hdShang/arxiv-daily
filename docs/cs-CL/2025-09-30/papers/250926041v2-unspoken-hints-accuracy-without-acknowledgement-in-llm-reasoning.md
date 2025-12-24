@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unspoken Hints: Accuracy Without Acknowledgement in LLM Reasoning
+title: "Unspoken Hints: Accuracy Without Acknowledgement in LLM Reasoning"
 ---
 
 # Unspoken Hints: Accuracy Without Acknowledgement in LLM Reasoning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PREMISE: Scalable and Strategic Prompt Optimization for Efficient Mathematical Reasoning in Large Models
+title: "PREMISE: Scalable and Strategic Prompt Optimization for Efficient Mathematical Reasoning in Large Models"
 ---
 
 # PREMISE: Scalable and Strategic Prompt Optimization for Efficient Mathematical Reasoning in Large Models

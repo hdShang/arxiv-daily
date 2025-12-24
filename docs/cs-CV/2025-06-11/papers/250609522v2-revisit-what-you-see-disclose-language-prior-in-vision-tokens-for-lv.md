@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Revisit What You See: Disclose Language Prior in Vision Tokens for LVLM Decoding
+title: "Revisit What You See: Disclose Language Prior in Vision Tokens for LVLM Decoding"
 ---
 
 # Revisit What You See: Disclose Language Prior in Vision Tokens for LVLM Decoding

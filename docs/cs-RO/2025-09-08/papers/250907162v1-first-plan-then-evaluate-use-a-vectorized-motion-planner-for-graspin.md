@@ -1,6 +1,6 @@
 ---
 layout: default
-title: First Plan Then Evaluate: Use a Vectorized Motion Planner for Grasping
+title: "First Plan Then Evaluate: Use a Vectorized Motion Planner for Grasping"
 ---
 
 # First Plan Then Evaluate: Use a Vectorized Motion Planner for Grasping

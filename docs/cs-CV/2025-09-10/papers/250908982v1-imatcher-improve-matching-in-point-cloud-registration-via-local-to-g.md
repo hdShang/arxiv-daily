@@ -1,6 +1,6 @@
 ---
 layout: default
-title: iMatcher: Improve matching in point cloud registration via local-to-global geometric consistency learning
+title: "iMatcher: Improve matching in point cloud registration via local-to-global geometric consistency learning"
 ---
 
 # iMatcher: Improve matching in point cloud registration via local-to-global geometric consistency learning

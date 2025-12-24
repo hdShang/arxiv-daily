@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MVRoom: Controllable 3D Indoor Scene Generation with Multi-View Diffusion Models
+title: "MVRoom: Controllable 3D Indoor Scene Generation with Multi-View Diffusion Models"
 ---
 
 # MVRoom: Controllable 3D Indoor Scene Generation with Multi-View Diffusion Models

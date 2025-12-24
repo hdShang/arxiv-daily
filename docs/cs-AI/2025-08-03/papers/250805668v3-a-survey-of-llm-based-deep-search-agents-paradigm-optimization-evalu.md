@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges
+title: "A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges"
 ---
 
 # A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges

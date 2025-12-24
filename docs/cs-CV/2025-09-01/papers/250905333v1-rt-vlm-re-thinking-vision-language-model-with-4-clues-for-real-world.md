@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RT-VLM: Re-Thinking Vision Language Model with 4-Clues for Real-World Object Recognition Robustness
+title: "RT-VLM: Re-Thinking Vision Language Model with 4-Clues for Real-World Object Recognition Robustness"
 ---
 
 # RT-VLM: Re-Thinking Vision Language Model with 4-Clues for Real-World Object Recognition Robustness

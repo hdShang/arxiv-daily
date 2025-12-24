@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BestServe: Serving Strategies with Optimal Goodput in Collocation and Disaggregation Architectures
+title: "BestServe: Serving Strategies with Optimal Goodput in Collocation and Disaggregation Architectures"
 ---
 
 # BestServe: Serving Strategies with Optimal Goodput in Collocation and Disaggregation Architectures

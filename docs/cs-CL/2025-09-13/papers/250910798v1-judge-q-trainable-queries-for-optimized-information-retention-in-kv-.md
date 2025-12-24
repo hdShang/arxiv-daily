@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Judge Q: Trainable Queries for Optimized Information Retention in KV Cache Eviction
+title: "Judge Q: Trainable Queries for Optimized Information Retention in KV Cache Eviction"
 ---
 
 # Judge Q: Trainable Queries for Optimized Information Retention in KV Cache Eviction

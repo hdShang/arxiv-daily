@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Plug-and-Play AMC: Context Is King in Training-Free, Open-Set Modulation with LLMs
+title: "Plug-and-Play AMC: Context Is King in Training-Free, Open-Set Modulation with LLMs"
 ---
 
 # Plug-and-Play AMC: Context Is King in Training-Free, Open-Set Modulation with LLMs

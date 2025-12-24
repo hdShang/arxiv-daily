@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PanoWorld-X: Generating Explorable Panoramic Worlds via Sphere-Aware Video Diffusion
+title: "PanoWorld-X: Generating Explorable Panoramic Worlds via Sphere-Aware Video Diffusion"
 ---
 
 # PanoWorld-X: Generating Explorable Panoramic Worlds via Sphere-Aware Video Diffusion

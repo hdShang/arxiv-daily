@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ProMind-LLM: Proactive Mental Health Care via Causal Reasoning with Sensor Data
+title: "ProMind-LLM: Proactive Mental Health Care via Causal Reasoning with Sensor Data"
 ---
 
 # ProMind-LLM: Proactive Mental Health Care via Causal Reasoning with Sensor Data

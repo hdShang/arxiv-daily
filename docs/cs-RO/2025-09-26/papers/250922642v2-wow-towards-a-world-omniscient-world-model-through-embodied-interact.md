@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WoW: Towards a World omniscient World model Through Embodied Interaction
+title: "WoW: Towards a World omniscient World model Through Embodied Interaction"
 ---
 
 # WoW: Towards a World omniscient World model Through Embodied Interaction

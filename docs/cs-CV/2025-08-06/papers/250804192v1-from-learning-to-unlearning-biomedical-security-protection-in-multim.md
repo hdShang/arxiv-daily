@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Learning to Unlearning: Biomedical Security Protection in Multimodal Large Language Models
+title: "From Learning to Unlearning: Biomedical Security Protection in Multimodal Large Language Models"
 ---
 
 # From Learning to Unlearning: Biomedical Security Protection in Multimodal Large Language Models

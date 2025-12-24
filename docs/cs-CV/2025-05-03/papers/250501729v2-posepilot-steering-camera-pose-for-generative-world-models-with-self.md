@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth
+title: "PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth"
 ---
 
 # PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth

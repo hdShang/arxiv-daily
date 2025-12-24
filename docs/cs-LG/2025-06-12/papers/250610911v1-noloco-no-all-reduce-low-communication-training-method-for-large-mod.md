@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NoLoCo: No-all-reduce Low Communication Training Method for Large Models
+title: "NoLoCo: No-all-reduce Low Communication Training Method for Large Models"
 ---
 
 # NoLoCo: No-all-reduce Low Communication Training Method for Large Models

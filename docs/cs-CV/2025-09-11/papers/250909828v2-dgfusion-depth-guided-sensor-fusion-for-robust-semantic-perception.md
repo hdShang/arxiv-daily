@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DGFusion: Depth-Guided Sensor Fusion for Robust Semantic Perception
+title: "DGFusion: Depth-Guided Sensor Fusion for Robust Semantic Perception"
 ---
 
 # DGFusion: Depth-Guided Sensor Fusion for Robust Semantic Perception

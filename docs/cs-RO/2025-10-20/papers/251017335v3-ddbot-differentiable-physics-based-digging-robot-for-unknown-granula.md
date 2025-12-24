@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DDBot: Differentiable Physics-based Digging Robot for Unknown Granular Materials
+title: "DDBot: Differentiable Physics-based Digging Robot for Unknown Granular Materials"
 ---
 
 # DDBot: Differentiable Physics-based Digging Robot for Unknown Granular Materials

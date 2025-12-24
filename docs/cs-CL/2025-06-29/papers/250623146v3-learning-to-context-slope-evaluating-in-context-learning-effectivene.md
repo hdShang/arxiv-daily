@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning-to-Context Slope: Evaluating In-Context Learning Effectiveness Beyond Performance Illusions
+title: "Learning-to-Context Slope: Evaluating In-Context Learning Effectiveness Beyond Performance Illusions"
 ---
 
 # Learning-to-Context Slope: Evaluating In-Context Learning Effectiveness Beyond Performance Illusions

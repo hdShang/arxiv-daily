@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoRT: Code-integrated Reasoning within Thinking
+title: "CoRT: Code-integrated Reasoning within Thinking"
 ---
 
 # CoRT: Code-integrated Reasoning within Thinking

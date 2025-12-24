@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoMa v2: Harder Better Faster Denser Feature Matching
+title: "RoMa v2: Harder Better Faster Denser Feature Matching"
 ---
 
 # RoMa v2: Harder Better Faster Denser Feature Matching

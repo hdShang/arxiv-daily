@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoreThink: A Symbolic Reasoning Layer to reason over Long Horizon Tasks with LLMs
+title: "CoreThink: A Symbolic Reasoning Layer to reason over Long Horizon Tasks with LLMs"
 ---
 
 # CoreThink: A Symbolic Reasoning Layer to reason over Long Horizon Tasks with LLMs

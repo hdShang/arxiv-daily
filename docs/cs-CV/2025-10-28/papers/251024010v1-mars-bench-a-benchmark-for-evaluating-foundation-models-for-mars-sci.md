@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mars-Bench: A Benchmark for Evaluating Foundation Models for Mars Science Tasks
+title: "Mars-Bench: A Benchmark for Evaluating Foundation Models for Mars Science Tasks"
 ---
 
 # Mars-Bench: A Benchmark for Evaluating Foundation Models for Mars Science Tasks

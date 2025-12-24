@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset
+title: "TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset"
 ---
 
 # TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset

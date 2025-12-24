@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GHOST: Hallucination-Inducing Image Generation for Multimodal LLMs
+title: "GHOST: Hallucination-Inducing Image Generation for Multimodal LLMs"
 ---
 
 # GHOST: Hallucination-Inducing Image Generation for Multimodal LLMs

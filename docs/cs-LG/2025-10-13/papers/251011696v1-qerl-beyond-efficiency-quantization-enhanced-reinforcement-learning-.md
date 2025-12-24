@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning for LLMs
+title: "QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning for LLMs"
 ---
 
 # QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning for LLMs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation
+title: "Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation"
 ---
 
 # Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation

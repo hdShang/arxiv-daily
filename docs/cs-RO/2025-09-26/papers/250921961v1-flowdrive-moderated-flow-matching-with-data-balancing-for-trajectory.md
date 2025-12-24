@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FlowDrive: moderated flow matching with data balancing for trajectory planning
+title: "FlowDrive: moderated flow matching with data balancing for trajectory planning"
 ---
 
 # FlowDrive: moderated flow matching with data balancing for trajectory planning

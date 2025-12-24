@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AgriFM: A Multi-source Temporal Remote Sensing Foundation Model for Crop Mapping
+title: "AgriFM: A Multi-source Temporal Remote Sensing Foundation Model for Crop Mapping"
 ---
 
 # AgriFM: A Multi-source Temporal Remote Sensing Foundation Model for Crop Mapping

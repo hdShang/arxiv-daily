@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Understanding the Performance Gap in Preference Learning: A Dichotomy of RLHF and DPO
+title: "Understanding the Performance Gap in Preference Learning: A Dichotomy of RLHF and DPO"
 ---
 
 # Understanding the Performance Gap in Preference Learning: A Dichotomy of RLHF and DPO

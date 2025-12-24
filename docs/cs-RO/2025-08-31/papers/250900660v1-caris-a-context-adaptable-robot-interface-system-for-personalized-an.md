@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CARIS: A Context-Adaptable Robot Interface System for Personalized and Scalable Human-Robot Interaction
+title: "CARIS: A Context-Adaptable Robot Interface System for Personalized and Scalable Human-Robot Interaction"
 ---
 
 # CARIS: A Context-Adaptable Robot Interface System for Personalized and Scalable Human-Robot Interaction

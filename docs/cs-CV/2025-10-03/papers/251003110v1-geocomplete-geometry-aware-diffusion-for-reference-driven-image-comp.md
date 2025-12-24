@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GeoComplete: Geometry-Aware Diffusion for Reference-Driven Image Completion
+title: "GeoComplete: Geometry-Aware Diffusion for Reference-Driven Image Completion"
 ---
 
 # GeoComplete: Geometry-Aware Diffusion for Reference-Driven Image Completion

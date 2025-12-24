@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adaptive Token Boundaries: Integrating Human Chunking Mechanisms into Multimodal LLMs
+title: "Adaptive Token Boundaries: Integrating Human Chunking Mechanisms into Multimodal LLMs"
 ---
 
 # Adaptive Token Boundaries: Integrating Human Chunking Mechanisms into Multimodal LLMs

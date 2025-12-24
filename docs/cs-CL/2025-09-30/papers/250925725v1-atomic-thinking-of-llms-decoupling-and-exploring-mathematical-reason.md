@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Atomic Thinking of LLMs: Decoupling and Exploring Mathematical Reasoning Abilities
+title: "Atomic Thinking of LLMs: Decoupling and Exploring Mathematical Reasoning Abilities"
 ---
 
 # Atomic Thinking of LLMs: Decoupling and Exploring Mathematical Reasoning Abilities

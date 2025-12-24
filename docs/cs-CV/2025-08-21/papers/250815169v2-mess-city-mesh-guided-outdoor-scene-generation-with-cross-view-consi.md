@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MeSS: City Mesh-Guided Outdoor Scene Generation with Cross-View Consistent Diffusion
+title: "MeSS: City Mesh-Guided Outdoor Scene Generation with Cross-View Consistent Diffusion"
 ---
 
 # MeSS: City Mesh-Guided Outdoor Scene Generation with Cross-View Consistent Diffusion

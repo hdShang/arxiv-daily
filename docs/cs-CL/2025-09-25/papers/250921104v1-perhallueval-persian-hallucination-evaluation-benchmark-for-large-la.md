@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PerHalluEval: Persian Hallucination Evaluation Benchmark for Large Language Models
+title: "PerHalluEval: Persian Hallucination Evaluation Benchmark for Large Language Models"
 ---
 
 # PerHalluEval: Persian Hallucination Evaluation Benchmark for Large Language Models

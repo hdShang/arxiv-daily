@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GEM: 3D Gaussian Splatting for Efficient and Accurate Cryo-EM Reconstruction
+title: "GEM: 3D Gaussian Splatting for Efficient and Accurate Cryo-EM Reconstruction"
 ---
 
 # GEM: 3D Gaussian Splatting for Efficient and Accurate Cryo-EM Reconstruction

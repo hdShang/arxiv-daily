@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Decoupled Action Head: Confining Task Knowledge to Conditioning Layers
+title: "Decoupled Action Head: Confining Task Knowledge to Conditioning Layers"
 ---
 
 # Decoupled Action Head: Confining Task Knowledge to Conditioning Layers

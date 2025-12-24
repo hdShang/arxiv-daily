@@ -1,6 +1,6 @@
 ---
 layout: default
-title: No More Marching: Learning Humanoid Locomotion for Short-Range SE(2) Targets
+title: "No More Marching: Learning Humanoid Locomotion for Short-Range SE(2) Targets"
 ---
 
 # No More Marching: Learning Humanoid Locomotion for Short-Range SE(2) Targets

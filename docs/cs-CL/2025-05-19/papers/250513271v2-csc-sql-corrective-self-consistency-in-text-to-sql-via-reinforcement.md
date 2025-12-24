@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CSC-SQL: Corrective Self-Consistency in Text-to-SQL via Reinforcement Learning
+title: "CSC-SQL: Corrective Self-Consistency in Text-to-SQL via Reinforcement Learning"
 ---
 
 # CSC-SQL: Corrective Self-Consistency in Text-to-SQL via Reinforcement Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CARE: Enhancing Safety of Visual Navigation through Collision Avoidance via Repulsive Estimation
+title: "CARE: Enhancing Safety of Visual Navigation through Collision Avoidance via Repulsive Estimation"
 ---
 
 # CARE: Enhancing Safety of Visual Navigation through Collision Avoidance via Repulsive Estimation

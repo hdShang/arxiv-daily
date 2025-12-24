@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Instant4D: 4D Gaussian Splatting in Minutes
+title: "Instant4D: 4D Gaussian Splatting in Minutes"
 ---
 
 # Instant4D: 4D Gaussian Splatting in Minutes

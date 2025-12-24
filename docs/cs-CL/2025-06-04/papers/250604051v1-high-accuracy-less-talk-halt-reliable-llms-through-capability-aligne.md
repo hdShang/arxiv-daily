@@ -1,6 +1,6 @@
 ---
 layout: default
-title: High Accuracy, Less Talk (HALT): Reliable LLMs through Capability-Aligned Finetuning
+title: "High Accuracy, Less Talk (HALT): Reliable LLMs through Capability-Aligned Finetuning"
 ---
 
 # High Accuracy, Less Talk (HALT): Reliable LLMs through Capability-Aligned Finetuning

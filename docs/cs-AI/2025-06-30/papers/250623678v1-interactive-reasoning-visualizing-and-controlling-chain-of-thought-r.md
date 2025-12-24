@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Interactive Reasoning: Visualizing and Controlling Chain-of-Thought Reasoning in Large Language Models
+title: "Interactive Reasoning: Visualizing and Controlling Chain-of-Thought Reasoning in Large Language Models"
 ---
 
 # Interactive Reasoning: Visualizing and Controlling Chain-of-Thought Reasoning in Large Language Models

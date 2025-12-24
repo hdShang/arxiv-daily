@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gen4D: Synthesizing Humans and Scenes in the Wild
+title: "Gen4D: Synthesizing Humans and Scenes in the Wild"
 ---
 
 # Gen4D: Synthesizing Humans and Scenes in the Wild

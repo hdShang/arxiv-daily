@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM-HBT: Dynamic Behavior Tree Construction for Adaptive Coordination in Heterogeneous Robots
+title: "LLM-HBT: Dynamic Behavior Tree Construction for Adaptive Coordination in Heterogeneous Robots"
 ---
 
 # LLM-HBT: Dynamic Behavior Tree Construction for Adaptive Coordination in Heterogeneous Robots

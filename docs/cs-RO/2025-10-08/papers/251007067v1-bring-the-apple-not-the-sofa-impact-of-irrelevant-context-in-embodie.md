@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bring the Apple, Not the Sofa: Impact of Irrelevant Context in Embodied AI Commands on VLA Models
+title: "Bring the Apple, Not the Sofa: Impact of Irrelevant Context in Embodied AI Commands on VLA Models"
 ---
 
 # Bring the Apple, Not the Sofa: Impact of Irrelevant Context in Embodied AI Commands on VLA Models

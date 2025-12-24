@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Conan: Progressive Learning to Reason Like a Detective over Multi-Scale Visual Evidence
+title: "Conan: Progressive Learning to Reason Like a Detective over Multi-Scale Visual Evidence"
 ---
 
 # Conan: Progressive Learning to Reason Like a Detective over Multi-Scale Visual Evidence

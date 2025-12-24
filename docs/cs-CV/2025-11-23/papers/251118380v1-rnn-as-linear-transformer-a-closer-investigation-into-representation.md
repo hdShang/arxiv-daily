@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RNN as Linear Transformer: A Closer Investigation into Representational Potentials of Visual Mamba Models
+title: "RNN as Linear Transformer: A Closer Investigation into Representational Potentials of Visual Mamba Models"
 ---
 
 # RNN as Linear Transformer: A Closer Investigation into Representational Potentials of Visual Mamba Models

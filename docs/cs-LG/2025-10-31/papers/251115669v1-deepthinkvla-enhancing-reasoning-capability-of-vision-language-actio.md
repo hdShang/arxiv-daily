@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeepThinkVLA: Enhancing Reasoning Capability of Vision-Language-Action Models
+title: "DeepThinkVLA: Enhancing Reasoning Capability of Vision-Language-Action Models"
 ---
 
 # DeepThinkVLA: Enhancing Reasoning Capability of Vision-Language-Action Models

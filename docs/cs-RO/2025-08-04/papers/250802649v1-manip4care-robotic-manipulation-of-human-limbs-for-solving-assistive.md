@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Manip4Care: Robotic Manipulation of Human Limbs for Solving Assistive Tasks
+title: "Manip4Care: Robotic Manipulation of Human Limbs for Solving Assistive Tasks"
 ---
 
 # Manip4Care: Robotic Manipulation of Human Limbs for Solving Assistive Tasks

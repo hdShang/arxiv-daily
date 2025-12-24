@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Synthetic Adaptive Guided Embeddings (SAGE): A Novel Knowledge Distillation Method
+title: "Synthetic Adaptive Guided Embeddings (SAGE): A Novel Knowledge Distillation Method"
 ---
 
 # Synthetic Adaptive Guided Embeddings (SAGE): A Novel Knowledge Distillation Method

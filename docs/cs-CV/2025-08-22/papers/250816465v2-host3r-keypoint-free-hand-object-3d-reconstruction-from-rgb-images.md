@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HOSt3R: Keypoint-free Hand-Object 3D Reconstruction from RGB images
+title: "HOSt3R: Keypoint-free Hand-Object 3D Reconstruction from RGB images"
 ---
 
 # HOSt3R: Keypoint-free Hand-Object 3D Reconstruction from RGB images

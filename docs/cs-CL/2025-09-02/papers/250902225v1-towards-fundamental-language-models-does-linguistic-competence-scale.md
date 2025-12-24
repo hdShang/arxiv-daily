@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Fundamental Language Models: Does Linguistic Competence Scale with Model Size?
+title: "Towards Fundamental Language Models: Does Linguistic Competence Scale with Model Size?"
 ---
 
 # Towards Fundamental Language Models: Does Linguistic Competence Scale with Model Size?

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PyRoki: A Modular Toolkit for Robot Kinematic Optimization
+title: "PyRoki: A Modular Toolkit for Robot Kinematic Optimization"
 ---
 
 # PyRoki: A Modular Toolkit for Robot Kinematic Optimization

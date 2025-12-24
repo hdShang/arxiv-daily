@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rolling Forcing: Autoregressive Long Video Diffusion in Real Time
+title: "Rolling Forcing: Autoregressive Long Video Diffusion in Real Time"
 ---
 
 # Rolling Forcing: Autoregressive Long Video Diffusion in Real Time

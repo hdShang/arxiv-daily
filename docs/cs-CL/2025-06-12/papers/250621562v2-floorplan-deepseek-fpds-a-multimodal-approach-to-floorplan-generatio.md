@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FloorPlan-DeepSeek (FPDS): A multimodal approach to floorplan generation using vector-based next room prediction
+title: "FloorPlan-DeepSeek (FPDS): A multimodal approach to floorplan generation using vector-based next room prediction"
 ---
 
 # FloorPlan-DeepSeek (FPDS): A multimodal approach to floorplan generation using vector-based next room prediction

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QuadKAN: KAN-Enhanced Quadruped Motion Control via End-to-End Reinforcement Learning
+title: "QuadKAN: KAN-Enhanced Quadruped Motion Control via End-to-End Reinforcement Learning"
 ---
 
 # QuadKAN: KAN-Enhanced Quadruped Motion Control via End-to-End Reinforcement Learning

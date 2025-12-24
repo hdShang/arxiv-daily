@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning Along the Arrow of Time: Hyperbolic Geometry for Backward-Compatible Representation Learning
+title: "Learning Along the Arrow of Time: Hyperbolic Geometry for Backward-Compatible Representation Learning"
 ---
 
 # Learning Along the Arrow of Time: Hyperbolic Geometry for Backward-Compatible Representation Learning

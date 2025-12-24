@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Atomic Geometry Representations in Materials Science: A Human-in-the-Loop Multimodal Framework
+title: "Beyond Atomic Geometry Representations in Materials Science: A Human-in-the-Loop Multimodal Framework"
 ---
 
 # Beyond Atomic Geometry Representations in Materials Science: A Human-in-the-Loop Multimodal Framework

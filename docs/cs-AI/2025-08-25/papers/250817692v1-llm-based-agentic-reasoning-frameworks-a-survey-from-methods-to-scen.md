@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM-based Agentic Reasoning Frameworks: A Survey from Methods to Scenarios
+title: "LLM-based Agentic Reasoning Frameworks: A Survey from Methods to Scenarios"
 ---
 
 # LLM-based Agentic Reasoning Frameworks: A Survey from Methods to Scenarios

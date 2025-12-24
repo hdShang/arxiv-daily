@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dynamic Hybrid Modeling: Incremental Identification and Model Predictive Control
+title: "Dynamic Hybrid Modeling: Incremental Identification and Model Predictive Control"
 ---
 
 # Dynamic Hybrid Modeling: Incremental Identification and Model Predictive Control

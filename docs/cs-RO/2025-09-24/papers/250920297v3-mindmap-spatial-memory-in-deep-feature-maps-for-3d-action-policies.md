@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mindmap: Spatial Memory in Deep Feature Maps for 3D Action Policies
+title: "mindmap: Spatial Memory in Deep Feature Maps for 3D Action Policies"
 ---
 
 # mindmap: Spatial Memory in Deep Feature Maps for 3D Action Policies

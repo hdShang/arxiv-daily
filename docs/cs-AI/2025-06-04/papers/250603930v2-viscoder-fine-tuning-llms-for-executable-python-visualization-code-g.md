@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VisCoder: Fine-Tuning LLMs for Executable Python Visualization Code Generation
+title: "VisCoder: Fine-Tuning LLMs for Executable Python Visualization Code Generation"
 ---
 
 # VisCoder: Fine-Tuning LLMs for Executable Python Visualization Code Generation

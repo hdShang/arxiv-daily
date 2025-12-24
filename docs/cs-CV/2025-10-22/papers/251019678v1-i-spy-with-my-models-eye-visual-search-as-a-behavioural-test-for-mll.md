@@ -1,6 +1,6 @@
 ---
 layout: default
-title: I Spy With My Model's Eye: Visual Search as a Behavioural Test for MLLMs
+title: "I Spy With My Model's Eye: Visual Search as a Behavioural Test for MLLMs"
 ---
 
 # I Spy With My Model's Eye: Visual Search as a Behavioural Test for MLLMs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lita: Light Agent Uncovers the Agentic Coding Capabilities of LLMs
+title: "Lita: Light Agent Uncovers the Agentic Coding Capabilities of LLMs"
 ---
 
 # Lita: Light Agent Uncovers the Agentic Coding Capabilities of LLMs

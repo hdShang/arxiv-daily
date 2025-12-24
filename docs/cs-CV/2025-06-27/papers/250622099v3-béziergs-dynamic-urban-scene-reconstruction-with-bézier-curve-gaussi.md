@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting
+title: "BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting"
 ---
 
 # BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboSVG: A Unified Framework for Interactive SVG Generation with Multi-modal Guidance
+title: "RoboSVG: A Unified Framework for Interactive SVG Generation with Multi-modal Guidance"
 ---
 
 # RoboSVG: A Unified Framework for Interactive SVG Generation with Multi-modal Guidance

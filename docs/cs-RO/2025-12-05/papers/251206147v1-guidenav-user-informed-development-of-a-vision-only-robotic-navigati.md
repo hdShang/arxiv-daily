@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GuideNav: User-Informed Development of a Vision-Only Robotic Navigation Assistant For Blind Travelers
+title: "GuideNav: User-Informed Development of a Vision-Only Robotic Navigation Assistant For Blind Travelers"
 ---
 
 # GuideNav: User-Informed Development of a Vision-Only Robotic Navigation Assistant For Blind Travelers

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TAT-R1: Terminology-Aware Translation with Reinforcement Learning and Word Alignment
+title: "TAT-R1: Terminology-Aware Translation with Reinforcement Learning and Word Alignment"
 ---
 
 # TAT-R1: Terminology-Aware Translation with Reinforcement Learning and Word Alignment

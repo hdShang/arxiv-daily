@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models
+title: "TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models"
 ---
 
 # TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models

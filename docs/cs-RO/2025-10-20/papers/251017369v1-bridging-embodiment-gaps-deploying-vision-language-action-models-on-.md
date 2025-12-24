@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bridging Embodiment Gaps: Deploying Vision-Language-Action Models on Soft Robots
+title: "Bridging Embodiment Gaps: Deploying Vision-Language-Action Models on Soft Robots"
 ---
 
 # Bridging Embodiment Gaps: Deploying Vision-Language-Action Models on Soft Robots

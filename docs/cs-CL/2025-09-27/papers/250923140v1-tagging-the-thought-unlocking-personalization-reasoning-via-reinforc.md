@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tagging the Thought: Unlocking Personalization Reasoning via Reinforcement Learning
+title: "Tagging the Thought: Unlocking Personalization Reasoning via Reinforcement Learning"
 ---
 
 # Tagging the Thought: Unlocking Personalization Reasoning via Reinforcement Learning

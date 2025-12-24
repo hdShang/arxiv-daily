@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Discrete Audio Tokens: More Than a Survey!
+title: "Discrete Audio Tokens: More Than a Survey!"
 ---
 
 # Discrete Audio Tokens: More Than a Survey!

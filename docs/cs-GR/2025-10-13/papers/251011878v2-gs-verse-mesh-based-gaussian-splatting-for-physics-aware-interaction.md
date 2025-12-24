@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GS-Verse: Mesh-based Gaussian Splatting for Physics-aware Interaction in Virtual Reality
+title: "GS-Verse: Mesh-based Gaussian Splatting for Physics-aware Interaction in Virtual Reality"
 ---
 
 # GS-Verse: Mesh-based Gaussian Splatting for Physics-aware Interaction in Virtual Reality

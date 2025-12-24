@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Clink! Chop! Thud! -- Learning Object Sounds from Real-World Interactions
+title: "Clink! Chop! Thud! -- Learning Object Sounds from Real-World Interactions"
 ---
 
 # Clink! Chop! Thud! -- Learning Object Sounds from Real-World Interactions

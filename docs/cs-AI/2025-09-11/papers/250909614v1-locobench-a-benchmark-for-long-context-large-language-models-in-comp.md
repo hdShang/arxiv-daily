@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LoCoBench: A Benchmark for Long-Context Large Language Models in Complex Software Engineering
+title: "LoCoBench: A Benchmark for Long-Context Large Language Models in Complex Software Engineering"
 ---
 
 # LoCoBench: A Benchmark for Long-Context Large Language Models in Complex Software Engineering

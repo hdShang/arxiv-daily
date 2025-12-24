@@ -1,6 +1,6 @@
 ---
 layout: default
-title: H2-COMPACT: Human-Humanoid Co-Manipulation via Adaptive Contact Trajectory Policies
+title: "H2-COMPACT: Human-Humanoid Co-Manipulation via Adaptive Contact Trajectory Policies"
 ---
 
 # H2-COMPACT: Human-Humanoid Co-Manipulation via Adaptive Contact Trajectory Policies

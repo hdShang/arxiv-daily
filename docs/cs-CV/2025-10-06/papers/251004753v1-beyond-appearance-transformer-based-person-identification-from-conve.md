@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Appearance: Transformer-based Person Identification from Conversational Dynamics
+title: "Beyond Appearance: Transformer-based Person Identification from Conversational Dynamics"
 ---
 
 # Beyond Appearance: Transformer-based Person Identification from Conversational Dynamics

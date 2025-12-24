@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GRILE: A Benchmark for Grammar Reasoning and Explanation in Romanian LLMs
+title: "GRILE: A Benchmark for Grammar Reasoning and Explanation in Romanian LLMs"
 ---
 
 # GRILE: A Benchmark for Grammar Reasoning and Explanation in Romanian LLMs

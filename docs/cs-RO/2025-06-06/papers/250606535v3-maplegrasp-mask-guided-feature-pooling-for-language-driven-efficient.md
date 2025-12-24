@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MapleGrasp: Mask-guided Feature Pooling for Language-driven Efficient Robotic Grasping
+title: "MapleGrasp: Mask-guided Feature Pooling for Language-driven Efficient Robotic Grasping"
 ---
 
 # MapleGrasp: Mask-guided Feature Pooling for Language-driven Efficient Robotic Grasping

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PandaGuard: Systematic Evaluation of LLM Safety against Jailbreaking Attacks
+title: "PandaGuard: Systematic Evaluation of LLM Safety against Jailbreaking Attacks"
 ---
 
 # PandaGuard: Systematic Evaluation of LLM Safety against Jailbreaking Attacks

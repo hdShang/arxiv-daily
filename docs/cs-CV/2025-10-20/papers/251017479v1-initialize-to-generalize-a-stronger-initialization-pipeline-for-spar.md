@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Initialize to Generalize: A Stronger Initialization Pipeline for Sparse-View 3DGS
+title: "Initialize to Generalize: A Stronger Initialization Pipeline for Sparse-View 3DGS"
 ---
 
 # Initialize to Generalize: A Stronger Initialization Pipeline for Sparse-View 3DGS

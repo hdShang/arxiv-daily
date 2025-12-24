@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HESEIA: A community-based dataset for evaluating social biases in large language models, co-designed in real school settings in Latin America
+title: "HESEIA: A community-based dataset for evaluating social biases in large language models, co-designed in real school settings in Latin America"
 ---
 
 # HESEIA: A community-based dataset for evaluating social biases in large language models, co-designed in real school settings in Latin America

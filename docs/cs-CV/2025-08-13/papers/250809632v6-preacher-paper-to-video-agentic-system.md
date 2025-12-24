@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Preacher: Paper-to-Video Agentic System
+title: "Preacher: Paper-to-Video Agentic System"
 ---
 
 # Preacher: Paper-to-Video Agentic System

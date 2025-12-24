@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities
+title: "FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities"
 ---
 
 # FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities

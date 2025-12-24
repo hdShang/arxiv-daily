@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CTkvr: KV Cache Retrieval for Long-Context LLMs via Centroid then Token Indexing
+title: "CTkvr: KV Cache Retrieval for Long-Context LLMs via Centroid then Token Indexing"
 ---
 
 # CTkvr: KV Cache Retrieval for Long-Context LLMs via Centroid then Token Indexing

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Just Dance with $π$! A Poly-modal Inductor for Weakly-supervised Video Anomaly Detection
+title: "Just Dance with $π$! A Poly-modal Inductor for Weakly-supervised Video Anomaly Detection"
 ---
 
 # Just Dance with $π$! A Poly-modal Inductor for Weakly-supervised Video Anomaly Detection

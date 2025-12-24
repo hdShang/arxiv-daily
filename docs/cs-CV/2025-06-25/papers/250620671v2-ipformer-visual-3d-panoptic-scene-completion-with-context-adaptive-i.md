@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IPFormer: Visual 3D Panoptic Scene Completion with Context-Adaptive Instance Proposals
+title: "IPFormer: Visual 3D Panoptic Scene Completion with Context-Adaptive Instance Proposals"
 ---
 
 # IPFormer: Visual 3D Panoptic Scene Completion with Context-Adaptive Instance Proposals

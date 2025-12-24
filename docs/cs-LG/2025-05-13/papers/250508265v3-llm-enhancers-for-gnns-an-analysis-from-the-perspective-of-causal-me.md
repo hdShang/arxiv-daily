@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM Enhancers for GNNs: An Analysis from the Perspective of Causal Mechanism Identification
+title: "LLM Enhancers for GNNs: An Analysis from the Perspective of Causal Mechanism Identification"
 ---
 
 # LLM Enhancers for GNNs: An Analysis from the Perspective of Causal Mechanism Identification

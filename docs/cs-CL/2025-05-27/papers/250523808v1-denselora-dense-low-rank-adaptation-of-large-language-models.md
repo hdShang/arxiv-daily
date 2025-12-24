@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DenseLoRA: Dense Low-Rank Adaptation of Large Language Models
+title: "DenseLoRA: Dense Low-Rank Adaptation of Large Language Models"
 ---
 
 # DenseLoRA: Dense Low-Rank Adaptation of Large Language Models

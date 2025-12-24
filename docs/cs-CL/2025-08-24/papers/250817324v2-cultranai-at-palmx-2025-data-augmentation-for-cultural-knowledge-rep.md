@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CultranAI at PalmX 2025: Data Augmentation for Cultural Knowledge Representation
+title: "CultranAI at PalmX 2025: Data Augmentation for Cultural Knowledge Representation"
 ---
 
 # CultranAI at PalmX 2025: Data Augmentation for Cultural Knowledge Representation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HyperAgent: Leveraging Hypergraphs for Topology Optimization in Multi-Agent Communication
+title: "HyperAgent: Leveraging Hypergraphs for Topology Optimization in Multi-Agent Communication"
 ---
 
 # HyperAgent: Leveraging Hypergraphs for Topology Optimization in Multi-Agent Communication

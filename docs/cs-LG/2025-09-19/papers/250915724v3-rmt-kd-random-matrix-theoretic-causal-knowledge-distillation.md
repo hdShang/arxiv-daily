@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RMT-KD: Random Matrix Theoretic Causal Knowledge Distillation
+title: "RMT-KD: Random Matrix Theoretic Causal Knowledge Distillation"
 ---
 
 # RMT-KD: Random Matrix Theoretic Causal Knowledge Distillation

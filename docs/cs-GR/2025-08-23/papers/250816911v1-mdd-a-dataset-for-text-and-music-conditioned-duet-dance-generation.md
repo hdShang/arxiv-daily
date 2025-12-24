@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MDD: A Dataset for Text-and-Music Conditioned Duet Dance Generation
+title: "MDD: A Dataset for Text-and-Music Conditioned Duet Dance Generation"
 ---
 
 # MDD: A Dataset for Text-and-Music Conditioned Duet Dance Generation

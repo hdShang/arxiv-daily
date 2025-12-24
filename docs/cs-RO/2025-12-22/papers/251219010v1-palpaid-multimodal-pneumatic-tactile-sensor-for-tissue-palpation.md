@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PalpAid: Multimodal Pneumatic Tactile Sensor for Tissue Palpation
+title: "PalpAid: Multimodal Pneumatic Tactile Sensor for Tissue Palpation"
 ---
 
 # PalpAid: Multimodal Pneumatic Tactile Sensor for Tissue Palpation

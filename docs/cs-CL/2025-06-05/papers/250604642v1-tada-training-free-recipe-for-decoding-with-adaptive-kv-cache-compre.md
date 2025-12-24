@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TaDA: Training-free recipe for Decoding with Adaptive KV Cache Compression and Mean-centering
+title: "TaDA: Training-free recipe for Decoding with Adaptive KV Cache Compression and Mean-centering"
 ---
 
 # TaDA: Training-free recipe for Decoding with Adaptive KV Cache Compression and Mean-centering

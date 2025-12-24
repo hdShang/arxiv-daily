@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OVITA: Open-Vocabulary Interpretable Trajectory Adaptations
+title: "OVITA: Open-Vocabulary Interpretable Trajectory Adaptations"
 ---
 
 # OVITA: Open-Vocabulary Interpretable Trajectory Adaptations

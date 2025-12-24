@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DistillMatch: Leveraging Knowledge Distillation from Vision Foundation Model for Multimodal Image Matching
+title: "DistillMatch: Leveraging Knowledge Distillation from Vision Foundation Model for Multimodal Image Matching"
 ---
 
 # DistillMatch: Leveraging Knowledge Distillation from Vision Foundation Model for Multimodal Image Matching

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models
+title: "Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models"
 ---
 
 # Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models

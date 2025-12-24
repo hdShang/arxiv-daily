@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PRO-V-R1: Reasoning Enhanced Programming Agent for RTL Verification
+title: "PRO-V-R1: Reasoning Enhanced Programming Agent for RTL Verification"
 ---
 
 # PRO-V-R1: Reasoning Enhanced Programming Agent for RTL Verification

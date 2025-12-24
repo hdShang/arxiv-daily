@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LaMPE: Length-aware Multi-grained Positional Encoding for Adaptive Long-context Scaling Without Training
+title: "LaMPE: Length-aware Multi-grained Positional Encoding for Adaptive Long-context Scaling Without Training"
 ---
 
 # LaMPE: Length-aware Multi-grained Positional Encoding for Adaptive Long-context Scaling Without Training

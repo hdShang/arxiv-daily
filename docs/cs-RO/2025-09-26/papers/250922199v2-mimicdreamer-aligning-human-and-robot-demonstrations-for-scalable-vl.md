@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MimicDreamer: Aligning Human and Robot Demonstrations for Scalable VLA Training
+title: "MimicDreamer: Aligning Human and Robot Demonstrations for Scalable VLA Training"
 ---
 
 # MimicDreamer: Aligning Human and Robot Demonstrations for Scalable VLA Training

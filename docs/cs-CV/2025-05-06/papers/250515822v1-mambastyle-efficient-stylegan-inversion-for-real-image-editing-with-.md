@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MambaStyle: Efficient StyleGAN Inversion for Real Image Editing with State-Space Models
+title: "MambaStyle: Efficient StyleGAN Inversion for Real Image Editing with State-Space Models"
 ---
 
 # MambaStyle: Efficient StyleGAN Inversion for Real Image Editing with State-Space Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance
+title: "From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance"
 ---
 
 # From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance

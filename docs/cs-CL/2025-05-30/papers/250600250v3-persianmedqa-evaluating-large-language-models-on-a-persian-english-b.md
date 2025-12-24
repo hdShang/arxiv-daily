@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PersianMedQA: Evaluating Large Language Models on a Persian-English Bilingual Medical Question Answering Benchmark
+title: "PersianMedQA: Evaluating Large Language Models on a Persian-English Bilingual Medical Question Answering Benchmark"
 ---
 
 # PersianMedQA: Evaluating Large Language Models on a Persian-English Bilingual Medical Question Answering Benchmark

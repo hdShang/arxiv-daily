@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dyna-Think: Synergizing Reasoning, Acting, and World Model Simulation in AI Agents
+title: "Dyna-Think: Synergizing Reasoning, Acting, and World Model Simulation in AI Agents"
 ---
 
 # Dyna-Think: Synergizing Reasoning, Acting, and World Model Simulation in AI Agents

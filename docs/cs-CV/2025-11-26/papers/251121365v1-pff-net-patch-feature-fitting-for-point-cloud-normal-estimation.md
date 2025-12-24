@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PFF-Net: Patch Feature Fitting for Point Cloud Normal Estimation
+title: "PFF-Net: Patch Feature Fitting for Point Cloud Normal Estimation"
 ---
 
 # PFF-Net: Patch Feature Fitting for Point Cloud Normal Estimation

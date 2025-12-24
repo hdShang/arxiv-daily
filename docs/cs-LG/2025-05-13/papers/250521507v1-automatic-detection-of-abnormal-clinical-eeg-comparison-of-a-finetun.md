@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Automatic detection of abnormal clinical EEG: comparison of a finetuned foundation model with two deep learning models
+title: "Automatic detection of abnormal clinical EEG: comparison of a finetuned foundation model with two deep learning models"
 ---
 
 # Automatic detection of abnormal clinical EEG: comparison of a finetuned foundation model with two deep learning models

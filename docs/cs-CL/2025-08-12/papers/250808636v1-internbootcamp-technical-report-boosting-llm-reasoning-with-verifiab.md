@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InternBootcamp Technical Report: Boosting LLM Reasoning with Verifiable Task Scaling
+title: "InternBootcamp Technical Report: Boosting LLM Reasoning with Verifiable Task Scaling"
 ---
 
 # InternBootcamp Technical Report: Boosting LLM Reasoning with Verifiable Task Scaling

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ConceptScope: Characterizing Dataset Bias via Disentangled Visual Concepts
+title: "ConceptScope: Characterizing Dataset Bias via Disentangled Visual Concepts"
 ---
 
 # ConceptScope: Characterizing Dataset Bias via Disentangled Visual Concepts

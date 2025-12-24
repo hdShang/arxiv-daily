@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Clarification as Supervision: Reinforcement Learning for Vision-Language Interfaces
+title: "Clarification as Supervision: Reinforcement Learning for Vision-Language Interfaces"
 ---
 
 # Clarification as Supervision: Reinforcement Learning for Vision-Language Interfaces

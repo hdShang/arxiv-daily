@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PrLM: Learning Explicit Reasoning for Personalized RAG via Contrastive Reward Optimization
+title: "PrLM: Learning Explicit Reasoning for Personalized RAG via Contrastive Reward Optimization"
 ---
 
 # PrLM: Learning Explicit Reasoning for Personalized RAG via Contrastive Reward Optimization

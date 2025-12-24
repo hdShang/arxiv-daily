@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Closing the Loop Inside Neural Networks: Causality-Guided Layer Adaptation for Fault Recovery Control
+title: "Closing the Loop Inside Neural Networks: Causality-Guided Layer Adaptation for Fault Recovery Control"
 ---
 
 # Closing the Loop Inside Neural Networks: Causality-Guided Layer Adaptation for Fault Recovery Control

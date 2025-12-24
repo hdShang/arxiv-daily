@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dexbotic: Open-Source Vision-Language-Action Toolbox
+title: "Dexbotic: Open-Source Vision-Language-Action Toolbox"
 ---
 
 # Dexbotic: Open-Source Vision-Language-Action Toolbox

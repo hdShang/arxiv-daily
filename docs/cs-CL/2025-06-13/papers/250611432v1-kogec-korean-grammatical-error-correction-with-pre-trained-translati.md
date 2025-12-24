@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KoGEC : Korean Grammatical Error Correction with Pre-trained Translation Models
+title: "KoGEC : Korean Grammatical Error Correction with Pre-trained Translation Models"
 ---
 
 # KoGEC : Korean Grammatical Error Correction with Pre-trained Translation Models

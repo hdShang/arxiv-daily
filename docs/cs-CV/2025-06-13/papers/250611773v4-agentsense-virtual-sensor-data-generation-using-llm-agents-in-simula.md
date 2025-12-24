@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AgentSense: Virtual Sensor Data Generation Using LLM Agents in Simulated Home Environments
+title: "AgentSense: Virtual Sensor Data Generation Using LLM Agents in Simulated Home Environments"
 ---
 
 # AgentSense: Virtual Sensor Data Generation Using LLM Agents in Simulated Home Environments

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gen-n-Val: Agentic Image Data Generation and Validation
+title: "Gen-n-Val: Agentic Image Data Generation and Validation"
 ---
 
 # Gen-n-Val: Agentic Image Data Generation and Validation

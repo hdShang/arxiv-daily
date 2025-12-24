@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PreGenie: An Agentic Framework for High-quality Visual Presentation Generation
+title: "PreGenie: An Agentic Framework for High-quality Visual Presentation Generation"
 ---
 
 # PreGenie: An Agentic Framework for High-quality Visual Presentation Generation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Convergence Theory for Diffusion Language Models: An Information-Theoretic Perspective
+title: "A Convergence Theory for Diffusion Language Models: An Information-Theoretic Perspective"
 ---
 
 # A Convergence Theory for Diffusion Language Models: An Information-Theoretic Perspective

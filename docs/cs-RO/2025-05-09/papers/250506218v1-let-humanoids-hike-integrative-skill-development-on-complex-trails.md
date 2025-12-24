@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Let Humanoids Hike! Integrative Skill Development on Complex Trails
+title: "Let Humanoids Hike! Integrative Skill Development on Complex Trails"
 ---
 
 # Let Humanoids Hike! Integrative Skill Development on Complex Trails

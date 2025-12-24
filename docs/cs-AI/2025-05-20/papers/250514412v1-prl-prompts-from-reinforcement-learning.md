@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PRL: Prompts from Reinforcement Learning
+title: "PRL: Prompts from Reinforcement Learning"
 ---
 
 # PRL: Prompts from Reinforcement Learning

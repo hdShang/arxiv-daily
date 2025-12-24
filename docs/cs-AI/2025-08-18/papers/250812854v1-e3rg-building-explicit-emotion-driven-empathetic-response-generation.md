@@ -1,6 +1,6 @@
 ---
 layout: default
-title: E3RG: Building Explicit Emotion-driven Empathetic Response Generation System with Multimodal Large Language Model
+title: "E3RG: Building Explicit Emotion-driven Empathetic Response Generation System with Multimodal Large Language Model"
 ---
 
 # E3RG: Building Explicit Emotion-driven Empathetic Response Generation System with Multimodal Large Language Model

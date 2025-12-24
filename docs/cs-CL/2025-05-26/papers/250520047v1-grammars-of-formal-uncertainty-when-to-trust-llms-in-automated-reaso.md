@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Grammars of Formal Uncertainty: When to Trust LLMs in Automated Reasoning Tasks
+title: "Grammars of Formal Uncertainty: When to Trust LLMs in Automated Reasoning Tasks"
 ---
 
 # Grammars of Formal Uncertainty: When to Trust LLMs in Automated Reasoning Tasks

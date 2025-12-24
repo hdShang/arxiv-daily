@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MAC: A Live Benchmark for Multimodal Large Language Models in Scientific Understanding
+title: "MAC: A Live Benchmark for Multimodal Large Language Models in Scientific Understanding"
 ---
 
 # MAC: A Live Benchmark for Multimodal Large Language Models in Scientific Understanding

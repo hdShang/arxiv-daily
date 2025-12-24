@@ -1,6 +1,6 @@
 ---
 layout: default
-title: D$^2$GS: Dense Depth Regularization for LiDAR-free Urban Scene Reconstruction
+title: "D$^2$GS: Dense Depth Regularization for LiDAR-free Urban Scene Reconstruction"
 ---
 
 # D$^2$GS: Dense Depth Regularization for LiDAR-free Urban Scene Reconstruction

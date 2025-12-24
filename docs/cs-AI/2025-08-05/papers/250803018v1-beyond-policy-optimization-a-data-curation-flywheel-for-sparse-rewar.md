@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Policy Optimization: A Data Curation Flywheel for Sparse-Reward Long-Horizon Planning
+title: "Beyond Policy Optimization: A Data Curation Flywheel for Sparse-Reward Long-Horizon Planning"
 ---
 
 # Beyond Policy Optimization: A Data Curation Flywheel for Sparse-Reward Long-Horizon Planning

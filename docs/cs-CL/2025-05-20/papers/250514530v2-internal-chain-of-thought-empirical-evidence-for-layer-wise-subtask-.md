@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Internal Chain-of-Thought: Empirical Evidence for Layer-wise Subtask Scheduling in LLMs
+title: "Internal Chain-of-Thought: Empirical Evidence for Layer-wise Subtask Scheduling in LLMs"
 ---
 
 # Internal Chain-of-Thought: Empirical Evidence for Layer-wise Subtask Scheduling in LLMs

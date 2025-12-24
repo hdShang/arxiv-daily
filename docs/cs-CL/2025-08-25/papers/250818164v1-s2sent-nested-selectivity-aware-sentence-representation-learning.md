@@ -1,6 +1,6 @@
 ---
 layout: default
-title: S2Sent: Nested Selectivity Aware Sentence Representation Learning
+title: "S2Sent: Nested Selectivity Aware Sentence Representation Learning"
 ---
 
 # S2Sent: Nested Selectivity Aware Sentence Representation Learning

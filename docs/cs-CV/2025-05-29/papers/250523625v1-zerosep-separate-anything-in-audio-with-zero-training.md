@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ZeroSep: Separate Anything in Audio with Zero Training
+title: "ZeroSep: Separate Anything in Audio with Zero Training"
 ---
 
 # ZeroSep: Separate Anything in Audio with Zero Training

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Faster and Better: Reinforced Collaborative Distillation and Self-Learning for Infrared-Visible Image Fusion
+title: "Faster and Better: Reinforced Collaborative Distillation and Self-Learning for Infrared-Visible Image Fusion"
 ---
 
 # Faster and Better: Reinforced Collaborative Distillation and Self-Learning for Infrared-Visible Image Fusion

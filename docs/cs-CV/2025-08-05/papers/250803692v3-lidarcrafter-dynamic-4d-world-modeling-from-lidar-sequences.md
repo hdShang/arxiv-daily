@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences
+title: "LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences"
 ---
 
 # LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences

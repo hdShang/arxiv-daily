@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MRT: Learning Compact Representations with Mixed RWKV-Transformer for Extreme Image Compression
+title: "MRT: Learning Compact Representations with Mixed RWKV-Transformer for Extreme Image Compression"
 ---
 
 # MRT: Learning Compact Representations with Mixed RWKV-Transformer for Extreme Image Compression

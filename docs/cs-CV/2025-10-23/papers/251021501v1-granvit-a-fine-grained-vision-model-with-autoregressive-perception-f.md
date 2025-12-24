@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GranViT: A Fine-Grained Vision Model With Autoregressive Perception For MLLMs
+title: "GranViT: A Fine-Grained Vision Model With Autoregressive Perception For MLLMs"
 ---
 
 # GranViT: A Fine-Grained Vision Model With Autoregressive Perception For MLLMs

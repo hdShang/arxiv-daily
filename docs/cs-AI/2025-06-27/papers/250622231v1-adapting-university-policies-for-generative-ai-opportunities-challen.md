@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adapting University Policies for Generative AI: Opportunities, Challenges, and Policy Solutions in Higher Education
+title: "Adapting University Policies for Generative AI: Opportunities, Challenges, and Policy Solutions in Higher Education"
 ---
 
 # Adapting University Policies for Generative AI: Opportunities, Challenges, and Policy Solutions in Higher Education

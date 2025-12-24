@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RaRa Clipper: A Clipper for Gaussian Splatting Based on Ray Tracer and Rasterizer
+title: "RaRa Clipper: A Clipper for Gaussian Splatting Based on Ray Tracer and Rasterizer"
 ---
 
 # RaRa Clipper: A Clipper for Gaussian Splatting Based on Ray Tracer and Rasterizer

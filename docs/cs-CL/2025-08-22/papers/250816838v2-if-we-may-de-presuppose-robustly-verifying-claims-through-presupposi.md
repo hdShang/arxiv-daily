@@ -1,6 +1,6 @@
 ---
 layout: default
-title: If We May De-Presuppose: Robustly Verifying Claims through Presupposition-Free Question Decomposition
+title: "If We May De-Presuppose: Robustly Verifying Claims through Presupposition-Free Question Decomposition"
 ---
 
 # If We May De-Presuppose: Robustly Verifying Claims through Presupposition-Free Question Decomposition

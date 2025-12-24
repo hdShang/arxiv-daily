@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Express4D: Expressive, Friendly, and Extensible 4D Facial Motion Generation Benchmark
+title: "Express4D: Expressive, Friendly, and Extensible 4D Facial Motion Generation Benchmark"
 ---
 
 # Express4D: Expressive, Friendly, and Extensible 4D Facial Motion Generation Benchmark

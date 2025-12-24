@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BBoE: Leveraging Bundle of Edges for Kinodynamic Bidirectional Motion Planning
+title: "BBoE: Leveraging Bundle of Edges for Kinodynamic Bidirectional Motion Planning"
 ---
 
 # BBoE: Leveraging Bundle of Edges for Kinodynamic Bidirectional Motion Planning

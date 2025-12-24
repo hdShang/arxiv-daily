@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NepaliGPT: A Generative Language Model for the Nepali Language
+title: "NepaliGPT: A Generative Language Model for the Nepali Language"
 ---
 
 # NepaliGPT: A Generative Language Model for the Nepali Language

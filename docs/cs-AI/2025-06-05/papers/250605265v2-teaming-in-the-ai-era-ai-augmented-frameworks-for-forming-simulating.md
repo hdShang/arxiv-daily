@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaming in the AI Era: AI-Augmented Frameworks for Forming, Simulating, and Optimizing Human Teams
+title: "Teaming in the AI Era: AI-Augmented Frameworks for Forming, Simulating, and Optimizing Human Teams"
 ---
 
 # Teaming in the AI Era: AI-Augmented Frameworks for Forming, Simulating, and Optimizing Human Teams

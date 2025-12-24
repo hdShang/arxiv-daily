@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Feel the Force: Contact-Driven Learning from Humans
+title: "Feel the Force: Contact-Driven Learning from Humans"
 ---
 
 # Feel the Force: Contact-Driven Learning from Humans

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SVC 2025: the First Multimodal Deception Detection Challenge
+title: "SVC 2025: the First Multimodal Deception Detection Challenge"
 ---
 
 # SVC 2025: the First Multimodal Deception Detection Challenge

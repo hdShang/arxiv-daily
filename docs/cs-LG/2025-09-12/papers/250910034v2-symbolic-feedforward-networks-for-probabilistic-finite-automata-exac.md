@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Symbolic Feedforward Networks for Probabilistic Finite Automata: Exact Simulation and Learnability
+title: "Symbolic Feedforward Networks for Probabilistic Finite Automata: Exact Simulation and Learnability"
 ---
 
 # Symbolic Feedforward Networks for Probabilistic Finite Automata: Exact Simulation and Learnability

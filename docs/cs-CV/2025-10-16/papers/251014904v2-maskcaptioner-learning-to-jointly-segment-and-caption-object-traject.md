@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MaskCaptioner: Learning to Jointly Segment and Caption Object Trajectories in Videos
+title: "MaskCaptioner: Learning to Jointly Segment and Caption Object Trajectories in Videos"
 ---
 
 # MaskCaptioner: Learning to Jointly Segment and Caption Object Trajectories in Videos

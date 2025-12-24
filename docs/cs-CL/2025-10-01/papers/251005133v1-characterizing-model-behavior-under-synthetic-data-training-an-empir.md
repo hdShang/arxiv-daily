@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Characterizing Model Behavior Under Synthetic Data Training: An Empirical Study Across Scales and Mixing Ratios
+title: "Characterizing Model Behavior Under Synthetic Data Training: An Empirical Study Across Scales and Mixing Ratios"
 ---
 
 # Characterizing Model Behavior Under Synthetic Data Training: An Empirical Study Across Scales and Mixing Ratios

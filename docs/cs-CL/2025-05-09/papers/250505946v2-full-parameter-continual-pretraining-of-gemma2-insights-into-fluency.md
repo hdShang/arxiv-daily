@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Full-Parameter Continual Pretraining of Gemma2: Insights into Fluency and Domain Knowledge
+title: "Full-Parameter Continual Pretraining of Gemma2: Insights into Fluency and Domain Knowledge"
 ---
 
 # Full-Parameter Continual Pretraining of Gemma2: Insights into Fluency and Domain Knowledge

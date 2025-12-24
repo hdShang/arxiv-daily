@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Re:Verse -- Can Your VLM Read a Manga?
+title: "Re:Verse -- Can Your VLM Read a Manga?"
 ---
 
 # Re:Verse -- Can Your VLM Read a Manga?

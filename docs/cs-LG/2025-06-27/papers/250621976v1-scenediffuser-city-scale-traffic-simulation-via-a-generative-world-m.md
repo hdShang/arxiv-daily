@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SceneDiffuser++: City-Scale Traffic Simulation via a Generative World Model
+title: "SceneDiffuser++: City-Scale Traffic Simulation via a Generative World Model"
 ---
 
 # SceneDiffuser++: City-Scale Traffic Simulation via a Generative World Model

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Audio-JEPA: Joint-Embedding Predictive Architecture for Audio Representation Learning
+title: "Audio-JEPA: Joint-Embedding Predictive Architecture for Audio Representation Learning"
 ---
 
 # Audio-JEPA: Joint-Embedding Predictive Architecture for Audio Representation Learning

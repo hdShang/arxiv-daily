@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Automatic Curriculum Learning for Driving Scenarios: Towards Robust and Efficient Reinforcement Learning
+title: "Automatic Curriculum Learning for Driving Scenarios: Towards Robust and Efficient Reinforcement Learning"
 ---
 
 # Automatic Curriculum Learning for Driving Scenarios: Towards Robust and Efficient Reinforcement Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Plenodium: UnderWater 3D Scene Reconstruction with Plenoptic Medium Representation
+title: "Plenodium: UnderWater 3D Scene Reconstruction with Plenoptic Medium Representation"
 ---
 
 # Plenodium: UnderWater 3D Scene Reconstruction with Plenoptic Medium Representation

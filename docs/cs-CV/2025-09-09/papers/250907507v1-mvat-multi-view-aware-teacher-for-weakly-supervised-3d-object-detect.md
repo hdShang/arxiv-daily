@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MVAT: Multi-View Aware Teacher for Weakly Supervised 3D Object Detection
+title: "MVAT: Multi-View Aware Teacher for Weakly Supervised 3D Object Detection"
 ---
 
 # MVAT: Multi-View Aware Teacher for Weakly Supervised 3D Object Detection

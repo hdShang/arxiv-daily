@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DANCE: Density-agnostic and Class-aware Network for Point Cloud Completion
+title: "DANCE: Density-agnostic and Class-aware Network for Point Cloud Completion"
 ---
 
 # DANCE: Density-agnostic and Class-aware Network for Point Cloud Completion

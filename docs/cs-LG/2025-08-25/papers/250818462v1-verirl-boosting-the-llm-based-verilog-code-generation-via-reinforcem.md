@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VERIRL: Boosting the LLM-based Verilog Code Generation via Reinforcement Learning
+title: "VERIRL: Boosting the LLM-based Verilog Code Generation via Reinforcement Learning"
 ---
 
 # VERIRL: Boosting the LLM-based Verilog Code Generation via Reinforcement Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GreenTEA: Gradient Descent with Topic-modeling and Evolutionary Auto-prompting
+title: "GreenTEA: Gradient Descent with Topic-modeling and Evolutionary Auto-prompting"
 ---
 
 # GreenTEA: Gradient Descent with Topic-modeling and Evolutionary Auto-prompting

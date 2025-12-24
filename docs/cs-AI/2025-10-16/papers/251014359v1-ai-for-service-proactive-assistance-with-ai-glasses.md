@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI for Service: Proactive Assistance with AI Glasses
+title: "AI for Service: Proactive Assistance with AI Glasses"
 ---
 
 # AI for Service: Proactive Assistance with AI Glasses

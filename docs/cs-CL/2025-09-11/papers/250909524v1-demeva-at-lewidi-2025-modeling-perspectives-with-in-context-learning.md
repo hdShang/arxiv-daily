@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeMeVa at LeWiDi-2025: Modeling Perspectives with In-Context Learning and Label Distribution Learning
+title: "DeMeVa at LeWiDi-2025: Modeling Perspectives with In-Context Learning and Label Distribution Learning"
 ---
 
 # DeMeVa at LeWiDi-2025: Modeling Perspectives with In-Context Learning and Label Distribution Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SharedRep-RLHF: A Shared Representation Approach to RLHF with Diverse Preferences
+title: "SharedRep-RLHF: A Shared Representation Approach to RLHF with Diverse Preferences"
 ---
 
 # SharedRep-RLHF: A Shared Representation Approach to RLHF with Diverse Preferences

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SmartSplat: Feature-Smart Gaussians for Scalable Compression of Ultra-High-Resolution Images
+title: "SmartSplat: Feature-Smart Gaussians for Scalable Compression of Ultra-High-Resolution Images"
 ---
 
 # SmartSplat: Feature-Smart Gaussians for Scalable Compression of Ultra-High-Resolution Images

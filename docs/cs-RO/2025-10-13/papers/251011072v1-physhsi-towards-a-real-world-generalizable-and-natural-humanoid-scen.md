@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PhysHSI: Towards a Real-World Generalizable and Natural Humanoid-Scene Interaction System
+title: "PhysHSI: Towards a Real-World Generalizable and Natural Humanoid-Scene Interaction System"
 ---
 
 # PhysHSI: Towards a Real-World Generalizable and Natural Humanoid-Scene Interaction System

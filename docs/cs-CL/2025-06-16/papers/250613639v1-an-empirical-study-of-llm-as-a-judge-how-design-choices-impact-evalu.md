@@ -1,6 +1,6 @@
 ---
 layout: default
-title: An Empirical Study of LLM-as-a-Judge: How Design Choices Impact Evaluation Reliability
+title: "An Empirical Study of LLM-as-a-Judge: How Design Choices Impact Evaluation Reliability"
 ---
 
 # An Empirical Study of LLM-as-a-Judge: How Design Choices Impact Evaluation Reliability

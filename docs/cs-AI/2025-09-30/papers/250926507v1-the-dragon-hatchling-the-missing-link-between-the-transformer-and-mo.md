@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Dragon Hatchling: The Missing Link between the Transformer and Models of the Brain
+title: "The Dragon Hatchling: The Missing Link between the Transformer and Models of the Brain"
 ---
 
 # The Dragon Hatchling: The Missing Link between the Transformer and Models of the Brain

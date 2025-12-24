@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Using LLMs to create analytical datasets: A case study of reconstructing the historical memory of Colombia
+title: "Using LLMs to create analytical datasets: A case study of reconstructing the historical memory of Colombia"
 ---
 
 # Using LLMs to create analytical datasets: A case study of reconstructing the historical memory of Colombia

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniCode$^2$: Cascaded Large-scale Codebooks for Unified Multimodal Understanding and Generation
+title: "UniCode$^2$: Cascaded Large-scale Codebooks for Unified Multimodal Understanding and Generation"
 ---
 
 # UniCode$^2$: Cascaded Large-scale Codebooks for Unified Multimodal Understanding and Generation

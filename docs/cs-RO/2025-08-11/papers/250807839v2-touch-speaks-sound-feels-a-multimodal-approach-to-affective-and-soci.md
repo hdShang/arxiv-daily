@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Touch Speaks, Sound Feels: A Multimodal Approach to Affective and Social Touch from Robots to Humans
+title: "Touch Speaks, Sound Feels: A Multimodal Approach to Affective and Social Touch from Robots to Humans"
 ---
 
 # Touch Speaks, Sound Feels: A Multimodal Approach to Affective and Social Touch from Robots to Humans

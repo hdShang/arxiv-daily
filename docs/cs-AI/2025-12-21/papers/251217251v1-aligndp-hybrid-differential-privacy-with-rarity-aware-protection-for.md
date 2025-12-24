@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AlignDP: Hybrid Differential Privacy with Rarity-Aware Protection for LLMs
+title: "AlignDP: Hybrid Differential Privacy with Rarity-Aware Protection for LLMs"
 ---
 
 # AlignDP: Hybrid Differential Privacy with Rarity-Aware Protection for LLMs

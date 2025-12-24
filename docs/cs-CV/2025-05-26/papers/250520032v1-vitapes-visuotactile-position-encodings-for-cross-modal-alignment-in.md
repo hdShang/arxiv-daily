@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers
+title: "ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers"
 ---
 
 # ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers

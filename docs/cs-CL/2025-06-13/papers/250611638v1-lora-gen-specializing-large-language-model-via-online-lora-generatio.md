@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LoRA-Gen: Specializing Large Language Model via Online LoRA Generation
+title: "LoRA-Gen: Specializing Large Language Model via Online LoRA Generation"
 ---
 
 # LoRA-Gen: Specializing Large Language Model via Online LoRA Generation

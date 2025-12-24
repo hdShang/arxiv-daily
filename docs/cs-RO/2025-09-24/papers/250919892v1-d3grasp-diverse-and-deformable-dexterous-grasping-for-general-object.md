@@ -1,6 +1,6 @@
 ---
 layout: default
-title: D3Grasp: Diverse and Deformable Dexterous Grasping for General Objects
+title: "D3Grasp: Diverse and Deformable Dexterous Grasping for General Objects"
 ---
 
 # D3Grasp: Diverse and Deformable Dexterous Grasping for General Objects

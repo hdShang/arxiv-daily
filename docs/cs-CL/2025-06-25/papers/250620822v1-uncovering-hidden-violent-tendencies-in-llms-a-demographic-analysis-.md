@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Uncovering Hidden Violent Tendencies in LLMs: A Demographic Analysis via Behavioral Vignettes
+title: "Uncovering Hidden Violent Tendencies in LLMs: A Demographic Analysis via Behavioral Vignettes"
 ---
 
 # Uncovering Hidden Violent Tendencies in LLMs: A Demographic Analysis via Behavioral Vignettes

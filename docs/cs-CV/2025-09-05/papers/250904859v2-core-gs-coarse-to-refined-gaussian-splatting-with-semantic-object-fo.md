@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoRe-GS: Coarse-to-Refined Gaussian Splatting with Semantic Object Focus
+title: "CoRe-GS: Coarse-to-Refined Gaussian Splatting with Semantic Object Focus"
 ---
 
 # CoRe-GS: Coarse-to-Refined Gaussian Splatting with Semantic Object Focus

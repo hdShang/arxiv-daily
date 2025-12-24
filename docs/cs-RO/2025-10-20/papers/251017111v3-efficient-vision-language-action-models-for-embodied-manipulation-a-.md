@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey
+title: "Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey"
 ---
 
 # Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AgentMisalignment: Measuring the Propensity for Misaligned Behaviour in LLM-Based Agents
+title: "AgentMisalignment: Measuring the Propensity for Misaligned Behaviour in LLM-Based Agents"
 ---
 
 # AgentMisalignment: Measuring the Propensity for Misaligned Behaviour in LLM-Based Agents

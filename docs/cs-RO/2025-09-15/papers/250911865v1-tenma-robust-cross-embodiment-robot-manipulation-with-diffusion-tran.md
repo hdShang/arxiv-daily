@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tenma: Robust Cross-Embodiment Robot Manipulation with Diffusion Transformer
+title: "Tenma: Robust Cross-Embodiment Robot Manipulation with Diffusion Transformer"
 ---
 
 # Tenma: Robust Cross-Embodiment Robot Manipulation with Diffusion Transformer

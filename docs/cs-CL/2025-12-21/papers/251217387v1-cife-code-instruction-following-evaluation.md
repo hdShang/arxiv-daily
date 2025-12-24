@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CIFE: Code Instruction-Following Evaluation
+title: "CIFE: Code Instruction-Following Evaluation"
 ---
 
 # CIFE: Code Instruction-Following Evaluation

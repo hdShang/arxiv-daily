@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VGGTFace: Topologically Consistent Facial Geometry Reconstruction in the Wild
+title: "VGGTFace: Topologically Consistent Facial Geometry Reconstruction in the Wild"
 ---
 
 # VGGTFace: Topologically Consistent Facial Geometry Reconstruction in the Wild

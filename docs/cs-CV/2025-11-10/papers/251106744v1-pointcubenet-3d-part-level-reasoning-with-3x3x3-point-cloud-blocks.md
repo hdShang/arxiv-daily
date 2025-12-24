@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PointCubeNet: 3D Part-level Reasoning with 3x3x3 Point Cloud Blocks
+title: "PointCubeNet: 3D Part-level Reasoning with 3x3x3 Point Cloud Blocks"
 ---
 
 # PointCubeNet: 3D Part-level Reasoning with 3x3x3 Point Cloud Blocks

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Translate With Care: Addressing Gender Bias, Neutrality, and Reasoning in Large Language Model Translations
+title: "Translate With Care: Addressing Gender Bias, Neutrality, and Reasoning in Large Language Model Translations"
 ---
 
 # Translate With Care: Addressing Gender Bias, Neutrality, and Reasoning in Large Language Model Translations

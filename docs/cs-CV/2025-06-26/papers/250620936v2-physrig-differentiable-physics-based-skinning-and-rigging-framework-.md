@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PhysRig: Differentiable Physics-Based Skinning and Rigging Framework for Realistic Articulated Object Modeling
+title: "PhysRig: Differentiable Physics-Based Skinning and Rigging Framework for Realistic Articulated Object Modeling"
 ---
 
 # PhysRig: Differentiable Physics-Based Skinning and Rigging Framework for Realistic Articulated Object Modeling

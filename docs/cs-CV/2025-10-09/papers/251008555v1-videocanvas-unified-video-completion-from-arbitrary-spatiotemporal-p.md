@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VideoCanvas: Unified Video Completion from Arbitrary Spatiotemporal Patches via In-Context Conditioning
+title: "VideoCanvas: Unified Video Completion from Arbitrary Spatiotemporal Patches via In-Context Conditioning"
 ---
 
 # VideoCanvas: Unified Video Completion from Arbitrary Spatiotemporal Patches via In-Context Conditioning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Motus: A Unified Latent Action World Model
+title: "Motus: A Unified Latent Action World Model"
 ---
 
 # Motus: A Unified Latent Action World Model

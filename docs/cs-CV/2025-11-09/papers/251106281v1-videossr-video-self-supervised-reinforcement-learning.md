@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VideoSSR: Video Self-Supervised Reinforcement Learning
+title: "VideoSSR: Video Self-Supervised Reinforcement Learning"
 ---
 
 # VideoSSR: Video Self-Supervised Reinforcement Learning

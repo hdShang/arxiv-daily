@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension
+title: "FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension"
 ---
 
 # FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension

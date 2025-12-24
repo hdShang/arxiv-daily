@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UFM: A Simple Path towards Unified Dense Correspondence with Flow
+title: "UFM: A Simple Path towards Unified Dense Correspondence with Flow"
 ---
 
 # UFM: A Simple Path towards Unified Dense Correspondence with Flow

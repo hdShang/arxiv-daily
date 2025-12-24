@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LaajMeter: A Framework for LaaJ Evaluation
+title: "LaajMeter: A Framework for LaaJ Evaluation"
 ---
 
 # LaajMeter: A Framework for LaaJ Evaluation

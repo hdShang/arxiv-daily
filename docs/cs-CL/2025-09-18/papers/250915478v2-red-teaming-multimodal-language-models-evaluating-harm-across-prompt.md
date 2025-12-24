@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Red Teaming Multimodal Language Models: Evaluating Harm Across Prompt Modalities and Models
+title: "Red Teaming Multimodal Language Models: Evaluating Harm Across Prompt Modalities and Models"
 ---
 
 # Red Teaming Multimodal Language Models: Evaluating Harm Across Prompt Modalities and Models

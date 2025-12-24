@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MESTI-MEGANet: Micro-expression Spatio-Temporal Image and Micro-expression Gradient Attention Networks for Micro-expression Recognition
+title: "MESTI-MEGANet: Micro-expression Spatio-Temporal Image and Micro-expression Gradient Attention Networks for Micro-expression Recognition"
 ---
 
 # MESTI-MEGANet: Micro-expression Spatio-Temporal Image and Micro-expression Gradient Attention Networks for Micro-expression Recognition

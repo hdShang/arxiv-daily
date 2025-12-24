@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MLE-Dojo: Interactive Environments for Empowering LLM Agents in Machine Learning Engineering
+title: "MLE-Dojo: Interactive Environments for Empowering LLM Agents in Machine Learning Engineering"
 ---
 
 # MLE-Dojo: Interactive Environments for Empowering LLM Agents in Machine Learning Engineering

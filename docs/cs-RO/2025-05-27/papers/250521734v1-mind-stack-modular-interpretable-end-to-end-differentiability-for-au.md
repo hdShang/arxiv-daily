@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MIND-Stack: Modular, Interpretable, End-to-End Differentiability for Autonomous Navigation
+title: "MIND-Stack: Modular, Interpretable, End-to-End Differentiability for Autonomous Navigation"
 ---
 
 # MIND-Stack: Modular, Interpretable, End-to-End Differentiability for Autonomous Navigation

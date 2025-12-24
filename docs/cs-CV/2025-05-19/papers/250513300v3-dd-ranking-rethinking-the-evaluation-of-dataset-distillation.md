@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DD-Ranking: Rethinking the Evaluation of Dataset Distillation
+title: "DD-Ranking: Rethinking the Evaluation of Dataset Distillation"
 ---
 
 # DD-Ranking: Rethinking the Evaluation of Dataset Distillation

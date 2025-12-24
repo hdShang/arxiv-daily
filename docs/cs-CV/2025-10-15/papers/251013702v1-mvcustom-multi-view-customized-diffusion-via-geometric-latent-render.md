@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MVCustom: Multi-View Customized Diffusion via Geometric Latent Rendering and Completion
+title: "MVCustom: Multi-View Customized Diffusion via Geometric Latent Rendering and Completion"
 ---
 
 # MVCustom: Multi-View Customized Diffusion via Geometric Latent Rendering and Completion

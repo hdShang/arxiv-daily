@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The SMeL Test: A simple benchmark for media literacy in language models
+title: "The SMeL Test: A simple benchmark for media literacy in language models"
 ---
 
 # The SMeL Test: A simple benchmark for media literacy in language models

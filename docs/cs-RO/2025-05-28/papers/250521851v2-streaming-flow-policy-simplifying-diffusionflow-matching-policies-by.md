@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Streaming Flow Policy: Simplifying diffusion/flow-matching policies by treating action trajectories as flow trajectories
+title: "Streaming Flow Policy: Simplifying diffusion/flow-matching policies by treating action trajectories as flow trajectories"
 ---
 
 # Streaming Flow Policy: Simplifying diffusion/flow-matching policies by treating action trajectories as flow trajectories

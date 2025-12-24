@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UItron: Foundational GUI Agent with Advanced Perception and Planning
+title: "UItron: Foundational GUI Agent with Advanced Perception and Planning"
 ---
 
 # UItron: Foundational GUI Agent with Advanced Perception and Planning

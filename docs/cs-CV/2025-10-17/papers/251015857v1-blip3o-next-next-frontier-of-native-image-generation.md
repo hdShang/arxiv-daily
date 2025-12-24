@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BLIP3o-NEXT: Next Frontier of Native Image Generation
+title: "BLIP3o-NEXT: Next Frontier of Native Image Generation"
 ---
 
 # BLIP3o-NEXT: Next Frontier of Native Image Generation

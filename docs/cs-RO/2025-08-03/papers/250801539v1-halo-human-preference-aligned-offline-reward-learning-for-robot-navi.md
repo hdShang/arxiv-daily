@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HALO: Human Preference Aligned Offline Reward Learning for Robot Navigation
+title: "HALO: Human Preference Aligned Offline Reward Learning for Robot Navigation"
 ---
 
 # HALO: Human Preference Aligned Offline Reward Learning for Robot Navigation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TimeScope: Towards Task-Oriented Temporal Grounding In Long Videos
+title: "TimeScope: Towards Task-Oriented Temporal Grounding In Long Videos"
 ---
 
 # TimeScope: Towards Task-Oriented Temporal Grounding In Long Videos

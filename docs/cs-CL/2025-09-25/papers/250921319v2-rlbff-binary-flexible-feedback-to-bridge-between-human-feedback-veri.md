@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RLBFF: Binary Flexible Feedback to bridge between Human Feedback & Verifiable Rewards
+title: "RLBFF: Binary Flexible Feedback to bridge between Human Feedback & Verifiable Rewards"
 ---
 
 # RLBFF: Binary Flexible Feedback to bridge between Human Feedback & Verifiable Rewards

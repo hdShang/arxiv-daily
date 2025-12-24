@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Simple Fusion: Adaptive Gated Fusion for Robust Multimodal Sentiment Analysis
+title: "Beyond Simple Fusion: Adaptive Gated Fusion for Robust Multimodal Sentiment Analysis"
 ---
 
 # Beyond Simple Fusion: Adaptive Gated Fusion for Robust Multimodal Sentiment Analysis

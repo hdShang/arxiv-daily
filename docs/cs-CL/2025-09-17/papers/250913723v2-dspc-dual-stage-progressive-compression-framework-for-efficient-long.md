@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DSPC: Dual-Stage Progressive Compression Framework for Efficient Long-Context Reasoning
+title: "DSPC: Dual-Stage Progressive Compression Framework for Efficient Long-Context Reasoning"
 ---
 
 # DSPC: Dual-Stage Progressive Compression Framework for Efficient Long-Context Reasoning

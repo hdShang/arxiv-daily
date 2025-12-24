@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FastHMR: Accelerating Human Mesh Recovery via Token and Layer Merging with Diffusion Decoding
+title: "FastHMR: Accelerating Human Mesh Recovery via Token and Layer Merging with Diffusion Decoding"
 ---
 
 # FastHMR: Accelerating Human Mesh Recovery via Token and Layer Merging with Diffusion Decoding

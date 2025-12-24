@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FNODE: Flow-Matching for data-driven simulation of constrained multibody systems
+title: "FNODE: Flow-Matching for data-driven simulation of constrained multibody systems"
 ---
 
 # FNODE: Flow-Matching for data-driven simulation of constrained multibody systems

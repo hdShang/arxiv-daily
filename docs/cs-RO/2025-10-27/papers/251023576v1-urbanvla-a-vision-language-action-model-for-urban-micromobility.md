@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UrbanVLA: A Vision-Language-Action Model for Urban Micromobility
+title: "UrbanVLA: A Vision-Language-Action Model for Urban Micromobility"
 ---
 
 # UrbanVLA: A Vision-Language-Action Model for Urban Micromobility

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ASP2LJ : An Adversarial Self-Play Laywer Augmented Legal Judgment Framework
+title: "ASP2LJ : An Adversarial Self-Play Laywer Augmented Legal Judgment Framework"
 ---
 
 # ASP2LJ : An Adversarial Self-Play Laywer Augmented Legal Judgment Framework

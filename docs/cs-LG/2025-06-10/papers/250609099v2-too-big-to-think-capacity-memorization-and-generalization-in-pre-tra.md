@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Too Big to Think: Capacity, Memorization, and Generalization in Pre-Trained Transformers
+title: "Too Big to Think: Capacity, Memorization, and Generalization in Pre-Trained Transformers"
 ---
 
 # Too Big to Think: Capacity, Memorization, and Generalization in Pre-Trained Transformers

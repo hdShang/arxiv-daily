@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Power to Precision: Learning Fine-grained Dexterity for Multi-fingered Robotic Hands
+title: "From Power to Precision: Learning Fine-grained Dexterity for Multi-fingered Robotic Hands"
 ---
 
 # From Power to Precision: Learning Fine-grained Dexterity for Multi-fingered Robotic Hands

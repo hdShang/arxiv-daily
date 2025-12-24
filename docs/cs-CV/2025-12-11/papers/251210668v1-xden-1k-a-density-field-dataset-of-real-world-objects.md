@@ -1,6 +1,6 @@
 ---
 layout: default
-title: XDen-1K: A Density Field Dataset of Real-World Objects
+title: "XDen-1K: A Density Field Dataset of Real-World Objects"
 ---
 
 # XDen-1K: A Density Field Dataset of Real-World Objects

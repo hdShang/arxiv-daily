@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs
+title: "AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs"
 ---
 
 # AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs

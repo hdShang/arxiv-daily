@@ -1,6 +1,6 @@
 ---
 layout: default
-title: M3DMap: Object-aware Multimodal 3D Mapping for Dynamic Environments
+title: "M3DMap: Object-aware Multimodal 3D Mapping for Dynamic Environments"
 ---
 
 # M3DMap: Object-aware Multimodal 3D Mapping for Dynamic Environments

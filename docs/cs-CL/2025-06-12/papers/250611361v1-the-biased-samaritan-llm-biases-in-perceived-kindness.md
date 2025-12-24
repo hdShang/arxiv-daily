@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Biased Samaritan: LLM biases in Perceived Kindness
+title: "The Biased Samaritan: LLM biases in Perceived Kindness"
 ---
 
 # The Biased Samaritan: LLM biases in Perceived Kindness

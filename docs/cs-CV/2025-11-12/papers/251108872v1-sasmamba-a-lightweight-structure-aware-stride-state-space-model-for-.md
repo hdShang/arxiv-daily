@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SasMamba: A Lightweight Structure-Aware Stride State Space Model for 3D Human Pose Estimation
+title: "SasMamba: A Lightweight Structure-Aware Stride State Space Model for 3D Human Pose Estimation"
 ---
 
 # SasMamba: A Lightweight Structure-Aware Stride State Space Model for 3D Human Pose Estimation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LongVie: Multimodal-Guided Controllable Ultra-Long Video Generation
+title: "LongVie: Multimodal-Guided Controllable Ultra-Long Video Generation"
 ---
 
 # LongVie: Multimodal-Guided Controllable Ultra-Long Video Generation

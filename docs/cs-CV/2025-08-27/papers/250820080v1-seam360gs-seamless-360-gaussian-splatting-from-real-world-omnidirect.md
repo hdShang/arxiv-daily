@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seam360GS: Seamless 360° Gaussian Splatting from Real-World Omnidirectional Images
+title: "Seam360GS: Seamless 360° Gaussian Splatting from Real-World Omnidirectional Images"
 ---
 
 # Seam360GS: Seamless 360° Gaussian Splatting from Real-World Omnidirectional Images

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: S2AM3D: Scale-controllable Part Segmentation of 3D Point Cloud
+title: "S2AM3D: Scale-controllable Part Segmentation of 3D Point Cloud"
 ---
 
 # S2AM3D: Scale-controllable Part Segmentation of 3D Point Cloud

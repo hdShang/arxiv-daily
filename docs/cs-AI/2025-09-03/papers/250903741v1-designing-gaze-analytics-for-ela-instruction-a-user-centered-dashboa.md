@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Designing Gaze Analytics for ELA Instruction: A User-Centered Dashboard with Conversational AI Support
+title: "Designing Gaze Analytics for ELA Instruction: A User-Centered Dashboard with Conversational AI Support"
 ---
 
 # Designing Gaze Analytics for ELA Instruction: A User-Centered Dashboard with Conversational AI Support

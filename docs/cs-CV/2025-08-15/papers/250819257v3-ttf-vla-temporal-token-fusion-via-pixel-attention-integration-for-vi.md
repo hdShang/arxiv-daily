@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TTF-VLA: Temporal Token Fusion via Pixel-Attention Integration for Vision-Language-Action Models
+title: "TTF-VLA: Temporal Token Fusion via Pixel-Attention Integration for Vision-Language-Action Models"
 ---
 
 # TTF-VLA: Temporal Token Fusion via Pixel-Attention Integration for Vision-Language-Action Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PartDiffuser: Part-wise 3D Mesh Generation via Discrete Diffusion
+title: "PartDiffuser: Part-wise 3D Mesh Generation via Discrete Diffusion"
 ---
 
 # PartDiffuser: Part-wise 3D Mesh Generation via Discrete Diffusion

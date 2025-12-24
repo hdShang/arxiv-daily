@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PneuGelSight: Soft Robotic Vision-Based Proprioception and Tactile Sensing
+title: "PneuGelSight: Soft Robotic Vision-Based Proprioception and Tactile Sensing"
 ---
 
 # PneuGelSight: Soft Robotic Vision-Based Proprioception and Tactile Sensing

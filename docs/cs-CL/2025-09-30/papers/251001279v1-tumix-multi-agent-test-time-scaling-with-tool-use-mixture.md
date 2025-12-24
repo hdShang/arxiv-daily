@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TUMIX: Multi-Agent Test-Time Scaling with Tool-Use Mixture
+title: "TUMIX: Multi-Agent Test-Time Scaling with Tool-Use Mixture"
 ---
 
 # TUMIX: Multi-Agent Test-Time Scaling with Tool-Use Mixture

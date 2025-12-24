@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ZING-3D: Zero-shot Incremental 3D Scene Graphs via Vision-Language Models
+title: "ZING-3D: Zero-shot Incremental 3D Scene Graphs via Vision-Language Models"
 ---
 
 # ZING-3D: Zero-shot Incremental 3D Scene Graphs via Vision-Language Models

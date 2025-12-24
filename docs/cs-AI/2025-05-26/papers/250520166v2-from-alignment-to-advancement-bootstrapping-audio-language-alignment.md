@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Alignment to Advancement: Bootstrapping Audio-Language Alignment with Synthetic Data
+title: "From Alignment to Advancement: Bootstrapping Audio-Language Alignment with Synthetic Data"
 ---
 
 # From Alignment to Advancement: Bootstrapping Audio-Language Alignment with Synthetic Data

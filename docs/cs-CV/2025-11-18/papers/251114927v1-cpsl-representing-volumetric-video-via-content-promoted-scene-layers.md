@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CPSL: Representing Volumetric Video via Content-Promoted Scene Layers
+title: "CPSL: Representing Volumetric Video via Content-Promoted Scene Layers"
 ---
 
 # CPSL: Representing Volumetric Video via Content-Promoted Scene Layers

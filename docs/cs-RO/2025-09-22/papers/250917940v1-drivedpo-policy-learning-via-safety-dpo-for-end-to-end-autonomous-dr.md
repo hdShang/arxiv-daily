@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DriveDPO: Policy Learning via Safety DPO For End-to-End Autonomous Driving
+title: "DriveDPO: Policy Learning via Safety DPO For End-to-End Autonomous Driving"
 ---
 
 # DriveDPO: Policy Learning via Safety DPO For End-to-End Autonomous Driving

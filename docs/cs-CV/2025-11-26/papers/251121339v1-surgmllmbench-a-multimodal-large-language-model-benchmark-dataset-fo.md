@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SurgMLLMBench: A Multimodal Large Language Model Benchmark Dataset for Surgical Scene Understanding
+title: "SurgMLLMBench: A Multimodal Large Language Model Benchmark Dataset for Surgical Scene Understanding"
 ---
 
 # SurgMLLMBench: A Multimodal Large Language Model Benchmark Dataset for Surgical Scene Understanding

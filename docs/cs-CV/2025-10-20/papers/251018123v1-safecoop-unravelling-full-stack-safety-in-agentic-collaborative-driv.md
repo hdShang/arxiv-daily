@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SafeCoop: Unravelling Full Stack Safety in Agentic Collaborative Driving
+title: "SafeCoop: Unravelling Full Stack Safety in Agentic Collaborative Driving"
 ---
 
 # SafeCoop: Unravelling Full Stack Safety in Agentic Collaborative Driving

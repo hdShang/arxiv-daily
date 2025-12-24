@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Meme Templates: Limitations of Visual Similarity Measures in Meme Matching
+title: "Beyond Meme Templates: Limitations of Visual Similarity Measures in Meme Matching"
 ---
 
 # Beyond Meme Templates: Limitations of Visual Similarity Measures in Meme Matching

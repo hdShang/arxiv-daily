@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MinionsLLM: a Task-adaptive Framework For The Training and Control of Multi-Agent Systems Through Natural Language
+title: "MinionsLLM: a Task-adaptive Framework For The Training and Control of Multi-Agent Systems Through Natural Language"
 ---
 
 # MinionsLLM: a Task-adaptive Framework For The Training and Control of Multi-Agent Systems Through Natural Language

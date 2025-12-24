@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RobustSplat++: Decoupling Densification, Dynamics, and Illumination for In-the-Wild 3DGS
+title: "RobustSplat++: Decoupling Densification, Dynamics, and Illumination for In-the-Wild 3DGS"
 ---
 
 # RobustSplat++: Decoupling Densification, Dynamics, and Illumination for In-the-Wild 3DGS

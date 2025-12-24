@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InfoSAM: Fine-Tuning the Segment Anything Model from An Information-Theoretic Perspective
+title: "InfoSAM: Fine-Tuning the Segment Anything Model from An Information-Theoretic Perspective"
 ---
 
 # InfoSAM: Fine-Tuning the Segment Anything Model from An Information-Theoretic Perspective

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Embodied AI Agents: Modeling the World
+title: "Embodied AI Agents: Modeling the World"
 ---
 
 # Embodied AI Agents: Modeling the World

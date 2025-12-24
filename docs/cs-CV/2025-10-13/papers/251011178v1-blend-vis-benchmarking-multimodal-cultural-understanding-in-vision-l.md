@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BLEnD-Vis: Benchmarking Multimodal Cultural Understanding in Vision Language Models
+title: "BLEnD-Vis: Benchmarking Multimodal Cultural Understanding in Vision Language Models"
 ---
 
 # BLEnD-Vis: Benchmarking Multimodal Cultural Understanding in Vision Language Models

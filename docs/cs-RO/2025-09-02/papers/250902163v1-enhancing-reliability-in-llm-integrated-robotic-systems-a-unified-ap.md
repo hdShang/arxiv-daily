@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Enhancing Reliability in LLM-Integrated Robotic Systems: A Unified Approach to Security and Safety
+title: "Enhancing Reliability in LLM-Integrated Robotic Systems: A Unified Approach to Security and Safety"
 ---
 
 # Enhancing Reliability in LLM-Integrated Robotic Systems: A Unified Approach to Security and Safety

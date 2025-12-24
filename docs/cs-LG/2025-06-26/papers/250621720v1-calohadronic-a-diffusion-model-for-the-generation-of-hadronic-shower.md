@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CaloHadronic: a diffusion model for the generation of hadronic showers
+title: "CaloHadronic: a diffusion model for the generation of hadronic showers"
 ---
 
 # CaloHadronic: a diffusion model for the generation of hadronic showers

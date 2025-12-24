@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LeCoT: revisiting network architecture for two-view correspondence pruning
+title: "LeCoT: revisiting network architecture for two-view correspondence pruning"
 ---
 
 # LeCoT: revisiting network architecture for two-view correspondence pruning

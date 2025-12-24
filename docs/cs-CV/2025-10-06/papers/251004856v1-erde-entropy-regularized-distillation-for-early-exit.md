@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ERDE: Entropy-Regularized Distillation for Early-exit
+title: "ERDE: Entropy-Regularized Distillation for Early-exit"
 ---
 
 # ERDE: Entropy-Regularized Distillation for Early-exit

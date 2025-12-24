@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Safety Compliance: Rethinking LLM Safety Reasoning through the Lens of Compliance
+title: "Safety Compliance: Rethinking LLM Safety Reasoning through the Lens of Compliance"
 ---
 
 # Safety Compliance: Rethinking LLM Safety Reasoning through the Lens of Compliance

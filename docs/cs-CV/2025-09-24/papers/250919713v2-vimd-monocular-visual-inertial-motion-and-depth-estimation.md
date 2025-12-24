@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VIMD: Monocular Visual-Inertial Motion and Depth Estimation
+title: "VIMD: Monocular Visual-Inertial Motion and Depth Estimation"
 ---
 
 # VIMD: Monocular Visual-Inertial Motion and Depth Estimation

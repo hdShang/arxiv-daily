@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hybrid EEG--Driven Brain--Computer Interface: A Large Language Model Framework for Personalized Language Rehabilitation
+title: "Hybrid EEG--Driven Brain--Computer Interface: A Large Language Model Framework for Personalized Language Rehabilitation"
 ---
 
 # Hybrid EEG--Driven Brain--Computer Interface: A Large Language Model Framework for Personalized Language Rehabilitation

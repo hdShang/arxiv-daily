@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3D-ANC: Adaptive Neural Collapse for Robust 3D Point Cloud Recognition
+title: "3D-ANC: Adaptive Neural Collapse for Robust 3D Point Cloud Recognition"
 ---
 
 # 3D-ANC: Adaptive Neural Collapse for Robust 3D Point Cloud Recognition

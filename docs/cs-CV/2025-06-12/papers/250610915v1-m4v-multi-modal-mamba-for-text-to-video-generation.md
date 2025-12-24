@@ -1,6 +1,6 @@
 ---
 layout: default
-title: M4V: Multi-Modal Mamba for Text-to-Video Generation
+title: "M4V: Multi-Modal Mamba for Text-to-Video Generation"
 ---
 
 # M4V: Multi-Modal Mamba for Text-to-Video Generation

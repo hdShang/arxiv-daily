@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sample More to Think Less: Group Filtered Policy Optimization for Concise Reasoning
+title: "Sample More to Think Less: Group Filtered Policy Optimization for Concise Reasoning"
 ---
 
 # Sample More to Think Less: Group Filtered Policy Optimization for Concise Reasoning

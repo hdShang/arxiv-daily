@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Leveraging AI for Productive and Trustworthy HPC Software: Challenges and Research Directions
+title: "Leveraging AI for Productive and Trustworthy HPC Software: Challenges and Research Directions"
 ---
 
 # Leveraging AI for Productive and Trustworthy HPC Software: Challenges and Research Directions

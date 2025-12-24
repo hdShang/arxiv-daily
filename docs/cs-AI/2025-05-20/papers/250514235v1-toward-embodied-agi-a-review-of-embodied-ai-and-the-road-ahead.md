@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Toward Embodied AGI: A Review of Embodied AI and the Road Ahead
+title: "Toward Embodied AGI: A Review of Embodied AI and the Road Ahead"
 ---
 
 # Toward Embodied AGI: A Review of Embodied AI and the Road Ahead

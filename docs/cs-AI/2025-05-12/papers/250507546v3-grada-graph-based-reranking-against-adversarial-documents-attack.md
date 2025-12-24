@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GRADA: Graph-based Reranking against Adversarial Documents Attack
+title: "GRADA: Graph-based Reranking against Adversarial Documents Attack"
 ---
 
 # GRADA: Graph-based Reranking against Adversarial Documents Attack

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: One Demo Is All It Takes: Planning Domain Derivation with LLMs from A Single Demonstration
+title: "One Demo Is All It Takes: Planning Domain Derivation with LLMs from A Single Demonstration"
 ---
 
 # One Demo Is All It Takes: Planning Domain Derivation with LLMs from A Single Demonstration

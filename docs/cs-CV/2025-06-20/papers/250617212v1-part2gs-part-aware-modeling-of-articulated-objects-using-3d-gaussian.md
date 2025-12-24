@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Part$^{2}$GS: Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting
+title: "Part$^{2}$GS: Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting"
 ---
 
 # Part$^{2}$GS: Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting

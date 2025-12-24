@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Semantics: The Unreasonable Effectiveness of Reasonless Intermediate Tokens
+title: "Beyond Semantics: The Unreasonable Effectiveness of Reasonless Intermediate Tokens"
 ---
 
 # Beyond Semantics: The Unreasonable Effectiveness of Reasonless Intermediate Tokens

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LatinX: Aligning a Multilingual TTS Model with Direct Preference Optimization
+title: "LatinX: Aligning a Multilingual TTS Model with Direct Preference Optimization"
 ---
 
 # LatinX: Aligning a Multilingual TTS Model with Direct Preference Optimization

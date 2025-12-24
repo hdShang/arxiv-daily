@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Decoding Memes: Benchmarking Narrative Role Classification across Multilingual and Multimodal Models
+title: "Decoding Memes: Benchmarking Narrative Role Classification across Multilingual and Multimodal Models"
 ---
 
 # Decoding Memes: Benchmarking Narrative Role Classification across Multilingual and Multimodal Models

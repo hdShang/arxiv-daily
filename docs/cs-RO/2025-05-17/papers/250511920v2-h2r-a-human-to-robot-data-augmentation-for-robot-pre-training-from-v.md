@@ -1,6 +1,6 @@
 ---
 layout: default
-title: H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos
+title: "H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos"
 ---
 
 # H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos

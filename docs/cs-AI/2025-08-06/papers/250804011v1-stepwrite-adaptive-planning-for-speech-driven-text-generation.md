@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StepWrite: Adaptive Planning for Speech-Driven Text Generation
+title: "StepWrite: Adaptive Planning for Speech-Driven Text Generation"
 ---
 
 # StepWrite: Adaptive Planning for Speech-Driven Text Generation

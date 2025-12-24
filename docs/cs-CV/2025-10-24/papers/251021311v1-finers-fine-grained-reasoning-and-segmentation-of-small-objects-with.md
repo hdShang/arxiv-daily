@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FineRS: Fine-grained Reasoning and Segmentation of Small Objects with Reinforcement Learning
+title: "FineRS: Fine-grained Reasoning and Segmentation of Small Objects with Reinforcement Learning"
 ---
 
 # FineRS: Fine-grained Reasoning and Segmentation of Small Objects with Reinforcement Learning

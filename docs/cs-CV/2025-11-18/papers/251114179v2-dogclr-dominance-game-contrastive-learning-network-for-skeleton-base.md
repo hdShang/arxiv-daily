@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DoGCLR: Dominance-Game Contrastive Learning Network for Skeleton-Based Action Recognition
+title: "DoGCLR: Dominance-Game Contrastive Learning Network for Skeleton-Based Action Recognition"
 ---
 
 # DoGCLR: Dominance-Game Contrastive Learning Network for Skeleton-Based Action Recognition

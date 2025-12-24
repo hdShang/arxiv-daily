@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Don't Do That!": Guiding Embodied Systems through Large Language Model-based Constraint Generation
+title: "\"Don't Do That!\": Guiding Embodied Systems through Large Language Model-based Constraint Generation"
 ---
 
 # "Don't Do That!": Guiding Embodied Systems through Large Language Model-based Constraint Generation

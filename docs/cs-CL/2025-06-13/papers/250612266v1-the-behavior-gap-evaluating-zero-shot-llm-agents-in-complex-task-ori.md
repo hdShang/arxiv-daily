@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Behavior Gap: Evaluating Zero-shot LLM Agents in Complex Task-Oriented Dialogs
+title: "The Behavior Gap: Evaluating Zero-shot LLM Agents in Complex Task-Oriented Dialogs"
 ---
 
 # The Behavior Gap: Evaluating Zero-shot LLM Agents in Complex Task-Oriented Dialogs

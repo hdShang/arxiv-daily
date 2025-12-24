@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LAHNet: Local Attentive Hashing Network for Point Cloud Registration
+title: "LAHNet: Local Attentive Hashing Network for Point Cloud Registration"
 ---
 
 # LAHNet: Local Attentive Hashing Network for Point Cloud Registration

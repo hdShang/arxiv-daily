@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BeliefMapNav: 3D Voxel-Based Belief Map for Zero-Shot Object Navigation
+title: "BeliefMapNav: 3D Voxel-Based Belief Map for Zero-Shot Object Navigation"
 ---
 
 # BeliefMapNav: 3D Voxel-Based Belief Map for Zero-Shot Object Navigation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation
+title: "Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation"
 ---
 
 # Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation

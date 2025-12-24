@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EL-AGHF: Extended Lagrangian Affine Geometric Heat Flow
+title: "EL-AGHF: Extended Lagrangian Affine Geometric Heat Flow"
 ---
 
 # EL-AGHF: Extended Lagrangian Affine Geometric Heat Flow

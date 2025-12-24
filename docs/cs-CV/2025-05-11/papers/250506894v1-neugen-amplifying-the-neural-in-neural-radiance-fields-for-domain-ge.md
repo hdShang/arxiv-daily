@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NeuGen: Amplifying the 'Neural' in Neural Radiance Fields for Domain Generalization
+title: "NeuGen: Amplifying the 'Neural' in Neural Radiance Fields for Domain Generalization"
 ---
 
 # NeuGen: Amplifying the 'Neural' in Neural Radiance Fields for Domain Generalization

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: YOPOv2-Tracker: An End-to-End Agile Tracking and Navigation Framework from Perception to Action
+title: "YOPOv2-Tracker: An End-to-End Agile Tracking and Navigation Framework from Perception to Action"
 ---
 
 # YOPOv2-Tracker: An End-to-End Agile Tracking and Navigation Framework from Perception to Action

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Evaluating Style-Personalized Text Generation: Challenges and Directions
+title: "Evaluating Style-Personalized Text Generation: Challenges and Directions"
 ---
 
 # Evaluating Style-Personalized Text Generation: Challenges and Directions

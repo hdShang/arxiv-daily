@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Safe Reinforcement Learning-Based Vibration Control: Overcoming Training Risks with LQR Guidance
+title: "Safe Reinforcement Learning-Based Vibration Control: Overcoming Training Risks with LQR Guidance"
 ---
 
 # Safe Reinforcement Learning-Based Vibration Control: Overcoming Training Risks with LQR Guidance

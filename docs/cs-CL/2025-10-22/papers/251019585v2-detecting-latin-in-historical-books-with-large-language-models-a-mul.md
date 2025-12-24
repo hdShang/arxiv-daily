@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Detecting Latin in Historical Books with Large Language Models: A Multimodal Benchmark
+title: "Detecting Latin in Historical Books with Large Language Models: A Multimodal Benchmark"
 ---
 
 # Detecting Latin in Historical Books with Large Language Models: A Multimodal Benchmark

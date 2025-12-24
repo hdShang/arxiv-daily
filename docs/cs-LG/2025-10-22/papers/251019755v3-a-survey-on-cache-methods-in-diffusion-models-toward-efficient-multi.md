@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Survey on Cache Methods in Diffusion Models: Toward Efficient Multi-Modal Generation
+title: "A Survey on Cache Methods in Diffusion Models: Toward Efficient Multi-Modal Generation"
 ---
 
 # A Survey on Cache Methods in Diffusion Models: Toward Efficient Multi-Modal Generation

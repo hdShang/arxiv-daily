@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings
+title: "Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings"
 ---
 
 # Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings

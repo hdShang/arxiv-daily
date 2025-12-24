@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Check My Work?": Measuring Sycophancy in a Simulated Educational Context
+title: "\"Check My Work?\": Measuring Sycophancy in a Simulated Educational Context"
 ---
 
 # "Check My Work?": Measuring Sycophancy in a Simulated Educational Context

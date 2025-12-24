@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DISTWAR: Fast Differentiable Rendering on Raster-based Rendering Pipelines
+title: "DISTWAR: Fast Differentiable Rendering on Raster-based Rendering Pipelines"
 ---
 
 # DISTWAR: Fast Differentiable Rendering on Raster-based Rendering Pipelines

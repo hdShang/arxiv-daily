@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sarc7: Evaluating Sarcasm Detection and Generation with Seven Types and Emotion-Informed Techniques
+title: "Sarc7: Evaluating Sarcasm Detection and Generation with Seven Types and Emotion-Informed Techniques"
 ---
 
 # Sarc7: Evaluating Sarcasm Detection and Generation with Seven Types and Emotion-Informed Techniques

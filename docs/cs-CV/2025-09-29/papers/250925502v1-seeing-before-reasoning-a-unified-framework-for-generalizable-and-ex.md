@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seeing Before Reasoning: A Unified Framework for Generalizable and Explainable Fake Image Detection
+title: "Seeing Before Reasoning: A Unified Framework for Generalizable and Explainable Fake Image Detection"
 ---
 
 # Seeing Before Reasoning: A Unified Framework for Generalizable and Explainable Fake Image Detection

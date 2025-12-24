@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards the "Digital Me": A vision of authentic Conversational Agents powered by personal Human Digital Twins
+title: "Towards the \"Digital Me\": A vision of authentic Conversational Agents powered by personal Human Digital Twins"
 ---
 
 # Towards the "Digital Me": A vision of authentic Conversational Agents powered by personal Human Digital Twins

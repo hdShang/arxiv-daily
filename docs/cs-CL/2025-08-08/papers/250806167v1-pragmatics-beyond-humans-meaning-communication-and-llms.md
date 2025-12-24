@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pragmatics beyond humans: meaning, communication, and LLMs
+title: "Pragmatics beyond humans: meaning, communication, and LLMs"
 ---
 
 # Pragmatics beyond humans: meaning, communication, and LLMs

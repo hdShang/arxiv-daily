@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OptScale: Probabilistic Optimality for Inference-time Scaling
+title: "OptScale: Probabilistic Optimality for Inference-time Scaling"
 ---
 
 # OptScale: Probabilistic Optimality for Inference-time Scaling

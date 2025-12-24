@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Propose and Rectify: A Forensics-Driven MLLM Framework for Image Manipulation Localization
+title: "Propose and Rectify: A Forensics-Driven MLLM Framework for Image Manipulation Localization"
 ---
 
 # Propose and Rectify: A Forensics-Driven MLLM Framework for Image Manipulation Localization

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CollaBot: Vision-Language Guided Simultaneous Collaborative Manipulation
+title: "CollaBot: Vision-Language Guided Simultaneous Collaborative Manipulation"
 ---
 
 # CollaBot: Vision-Language Guided Simultaneous Collaborative Manipulation

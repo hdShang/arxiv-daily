@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Latent Prototype Routing: Achieving Near-Perfect Load Balancing in Mixture-of-Experts
+title: "Latent Prototype Routing: Achieving Near-Perfect Load Balancing in Mixture-of-Experts"
 ---
 
 # Latent Prototype Routing: Achieving Near-Perfect Load Balancing in Mixture-of-Experts

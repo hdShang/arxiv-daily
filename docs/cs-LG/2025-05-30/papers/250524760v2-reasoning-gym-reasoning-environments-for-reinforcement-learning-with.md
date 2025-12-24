@@ -1,6 +1,6 @@
 ---
 layout: default
-title: REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards
+title: "REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards"
 ---
 
 # REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards

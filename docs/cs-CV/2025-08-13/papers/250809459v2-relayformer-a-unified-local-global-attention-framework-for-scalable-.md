@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RelayFormer: A Unified Local-Global Attention Framework for Scalable Image and Video Manipulation Localization
+title: "RelayFormer: A Unified Local-Global Attention Framework for Scalable Image and Video Manipulation Localization"
 ---
 
 # RelayFormer: A Unified Local-Global Attention Framework for Scalable Image and Video Manipulation Localization

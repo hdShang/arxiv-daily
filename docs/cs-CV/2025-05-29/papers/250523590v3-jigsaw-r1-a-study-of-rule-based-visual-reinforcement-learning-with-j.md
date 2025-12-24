@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jigsaw-R1: A Study of Rule-based Visual Reinforcement Learning with Jigsaw Puzzles
+title: "Jigsaw-R1: A Study of Rule-based Visual Reinforcement Learning with Jigsaw Puzzles"
 ---
 
 # Jigsaw-R1: A Study of Rule-based Visual Reinforcement Learning with Jigsaw Puzzles

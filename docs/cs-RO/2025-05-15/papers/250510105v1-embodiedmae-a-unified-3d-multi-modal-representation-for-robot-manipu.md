@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EmbodiedMAE: A Unified 3D Multi-Modal Representation for Robot Manipulation
+title: "EmbodiedMAE: A Unified 3D Multi-Modal Representation for Robot Manipulation"
 ---
 
 # EmbodiedMAE: A Unified 3D Multi-Modal Representation for Robot Manipulation

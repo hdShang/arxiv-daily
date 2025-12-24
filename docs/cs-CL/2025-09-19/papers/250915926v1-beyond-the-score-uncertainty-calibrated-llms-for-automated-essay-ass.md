@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond the Score: Uncertainty-Calibrated LLMs for Automated Essay Assessment
+title: "Beyond the Score: Uncertainty-Calibrated LLMs for Automated Essay Assessment"
 ---
 
 # Beyond the Score: Uncertainty-Calibrated LLMs for Automated Essay Assessment

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bracing for Impact: Robust Humanoid Push Recovery and Locomotion with Reduced Order Models
+title: "Bracing for Impact: Robust Humanoid Push Recovery and Locomotion with Reduced Order Models"
 ---
 
 # Bracing for Impact: Robust Humanoid Push Recovery and Locomotion with Reduced Order Models

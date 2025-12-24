@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ChemOrch: Empowering LLMs with Chemical Intelligence via Synthetic Instructions
+title: "ChemOrch: Empowering LLMs with Chemical Intelligence via Synthetic Instructions"
 ---
 
 # ChemOrch: Empowering LLMs with Chemical Intelligence via Synthetic Instructions

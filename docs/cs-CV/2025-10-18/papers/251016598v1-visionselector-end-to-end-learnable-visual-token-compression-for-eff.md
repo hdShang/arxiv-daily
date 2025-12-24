@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs
+title: "VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs"
 ---
 
 # VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs

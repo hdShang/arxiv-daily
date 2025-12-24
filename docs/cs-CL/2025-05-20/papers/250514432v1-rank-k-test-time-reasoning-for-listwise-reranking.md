@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rank-K: Test-Time Reasoning for Listwise Reranking
+title: "Rank-K: Test-Time Reasoning for Listwise Reranking"
 ---
 
 # Rank-K: Test-Time Reasoning for Listwise Reranking

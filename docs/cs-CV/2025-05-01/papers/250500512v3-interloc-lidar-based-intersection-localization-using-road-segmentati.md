@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InterLoc: LiDAR-based Intersection Localization using Road Segmentation with Automated Evaluation Method
+title: "InterLoc: LiDAR-based Intersection Localization using Road Segmentation with Automated Evaluation Method"
 ---
 
 # InterLoc: LiDAR-based Intersection Localization using Road Segmentation with Automated Evaluation Method

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UCorr: Wire Detection and Depth Estimation for Autonomous Drones
+title: "UCorr: Wire Detection and Depth Estimation for Autonomous Drones"
 ---
 
 # UCorr: Wire Detection and Depth Estimation for Autonomous Drones

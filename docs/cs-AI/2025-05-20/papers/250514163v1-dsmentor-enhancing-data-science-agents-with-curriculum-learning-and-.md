@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DSMentor: Enhancing Data Science Agents with Curriculum Learning and Online Knowledge Accumulation
+title: "DSMentor: Enhancing Data Science Agents with Curriculum Learning and Online Knowledge Accumulation"
 ---
 
 # DSMentor: Enhancing Data Science Agents with Curriculum Learning and Online Knowledge Accumulation

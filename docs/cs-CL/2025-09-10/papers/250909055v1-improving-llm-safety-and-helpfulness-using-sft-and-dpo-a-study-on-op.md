@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Improving LLM Safety and Helpfulness using SFT and DPO: A Study on OPT-350M
+title: "Improving LLM Safety and Helpfulness using SFT and DPO: A Study on OPT-350M"
 ---
 
 # Improving LLM Safety and Helpfulness using SFT and DPO: A Study on OPT-350M

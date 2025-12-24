@@ -1,6 +1,6 @@
 ---
 layout: default
-title: User Privacy and Large Language Models: An Analysis of Frontier Developers' Privacy Policies
+title: "User Privacy and Large Language Models: An Analysis of Frontier Developers' Privacy Policies"
 ---
 
 # User Privacy and Large Language Models: An Analysis of Frontier Developers' Privacy Policies

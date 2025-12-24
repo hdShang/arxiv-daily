@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FLOWER: Democratizing Generalist Robot Policies with Efficient Vision-Language-Action Flow Policies
+title: "FLOWER: Democratizing Generalist Robot Policies with Efficient Vision-Language-Action Flow Policies"
 ---
 
 # FLOWER: Democratizing Generalist Robot Policies with Efficient Vision-Language-Action Flow Policies

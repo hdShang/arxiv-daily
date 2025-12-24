@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reasoning Steps as Curriculum: Using Depth of Thought as a Difficulty Signal for Tuning LLMs
+title: "Reasoning Steps as Curriculum: Using Depth of Thought as a Difficulty Signal for Tuning LLMs"
 ---
 
 # Reasoning Steps as Curriculum: Using Depth of Thought as a Difficulty Signal for Tuning LLMs

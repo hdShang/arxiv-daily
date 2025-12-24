@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Probability Consistency in Large Language Models: Theoretical Foundations Meet Empirical Discrepancies
+title: "Probability Consistency in Large Language Models: Theoretical Foundations Meet Empirical Discrepancies"
 ---
 
 # Probability Consistency in Large Language Models: Theoretical Foundations Meet Empirical Discrepancies

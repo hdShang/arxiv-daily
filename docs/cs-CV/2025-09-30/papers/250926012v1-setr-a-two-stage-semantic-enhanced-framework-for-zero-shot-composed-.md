@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SETR: A Two-Stage Semantic-Enhanced Framework for Zero-Shot Composed Image Retrieval
+title: "SETR: A Two-Stage Semantic-Enhanced Framework for Zero-Shot Composed Image Retrieval"
 ---
 
 # SETR: A Two-Stage Semantic-Enhanced Framework for Zero-Shot Composed Image Retrieval

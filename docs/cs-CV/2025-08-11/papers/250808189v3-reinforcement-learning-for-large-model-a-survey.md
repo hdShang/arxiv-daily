@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reinforcement Learning for Large Model: A Survey
+title: "Reinforcement Learning for Large Model: A Survey"
 ---
 
 # Reinforcement Learning for Large Model: A Survey

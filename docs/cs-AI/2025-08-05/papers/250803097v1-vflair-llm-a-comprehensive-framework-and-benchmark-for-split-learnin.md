@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VFLAIR-LLM: A Comprehensive Framework and Benchmark for Split Learning of LLMs
+title: "VFLAIR-LLM: A Comprehensive Framework and Benchmark for Split Learning of LLMs"
 ---
 
 # VFLAIR-LLM: A Comprehensive Framework and Benchmark for Split Learning of LLMs

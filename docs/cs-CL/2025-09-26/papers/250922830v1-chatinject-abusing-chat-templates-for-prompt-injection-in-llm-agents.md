@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ChatInject: Abusing Chat Templates for Prompt Injection in LLM Agents
+title: "ChatInject: Abusing Chat Templates for Prompt Injection in LLM Agents"
 ---
 
 # ChatInject: Abusing Chat Templates for Prompt Injection in LLM Agents

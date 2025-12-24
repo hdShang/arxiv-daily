@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EgoExo-Con: Exploring View-Invariant Video Temporal Understanding
+title: "EgoExo-Con: Exploring View-Invariant Video Temporal Understanding"
 ---
 
 # EgoExo-Con: Exploring View-Invariant Video Temporal Understanding

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BiasFreeBench: a Benchmark for Mitigating Bias in Large Language Model Responses
+title: "BiasFreeBench: a Benchmark for Mitigating Bias in Large Language Model Responses"
 ---
 
 # BiasFreeBench: a Benchmark for Mitigating Bias in Large Language Model Responses

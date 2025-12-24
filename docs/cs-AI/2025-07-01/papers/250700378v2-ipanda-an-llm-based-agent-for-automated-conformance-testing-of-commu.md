@@ -1,6 +1,6 @@
 ---
 layout: default
-title: iPanda: An LLM-based Agent for Automated Conformance Testing of Communication Protocols
+title: "iPanda: An LLM-based Agent for Automated Conformance Testing of Communication Protocols"
 ---
 
 # iPanda: An LLM-based Agent for Automated Conformance Testing of Communication Protocols

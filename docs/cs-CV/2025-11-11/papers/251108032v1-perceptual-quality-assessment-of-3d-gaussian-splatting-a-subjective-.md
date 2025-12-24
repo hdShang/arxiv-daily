@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Perceptual Quality Assessment of 3D Gaussian Splatting: A Subjective Dataset and Prediction Metric
+title: "Perceptual Quality Assessment of 3D Gaussian Splatting: A Subjective Dataset and Prediction Metric"
 ---
 
 # Perceptual Quality Assessment of 3D Gaussian Splatting: A Subjective Dataset and Prediction Metric

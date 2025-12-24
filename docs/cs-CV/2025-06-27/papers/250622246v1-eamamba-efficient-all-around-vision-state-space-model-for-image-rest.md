@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EAMamba: Efficient All-Around Vision State Space Model for Image Restoration
+title: "EAMamba: Efficient All-Around Vision State Space Model for Image Restoration"
 ---
 
 # EAMamba: Efficient All-Around Vision State Space Model for Image Restoration

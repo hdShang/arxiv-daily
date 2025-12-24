@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fleming-R1: Toward Expert-Level Medical Reasoning via Reinforcement Learning
+title: "Fleming-R1: Toward Expert-Level Medical Reasoning via Reinforcement Learning"
 ---
 
 # Fleming-R1: Toward Expert-Level Medical Reasoning via Reinforcement Learning

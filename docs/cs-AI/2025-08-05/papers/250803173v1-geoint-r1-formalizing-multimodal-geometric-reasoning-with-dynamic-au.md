@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Geoint-R1: Formalizing Multimodal Geometric Reasoning with Dynamic Auxiliary Constructions
+title: "Geoint-R1: Formalizing Multimodal Geometric Reasoning with Dynamic Auxiliary Constructions"
 ---
 
 # Geoint-R1: Formalizing Multimodal Geometric Reasoning with Dynamic Auxiliary Constructions

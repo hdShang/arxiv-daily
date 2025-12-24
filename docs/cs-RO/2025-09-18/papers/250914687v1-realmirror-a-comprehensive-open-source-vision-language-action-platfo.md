@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RealMirror: A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI
+title: "RealMirror: A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI"
 ---
 
 # RealMirror: A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Memory Tokens: Large Language Models Can Generate Reversible Sentence Embeddings
+title: "Memory Tokens: Large Language Models Can Generate Reversible Sentence Embeddings"
 ---
 
 # Memory Tokens: Large Language Models Can Generate Reversible Sentence Embeddings

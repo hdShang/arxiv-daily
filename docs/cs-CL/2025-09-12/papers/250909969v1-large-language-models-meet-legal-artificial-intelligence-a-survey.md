@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Large Language Models Meet Legal Artificial Intelligence: A Survey
+title: "Large Language Models Meet Legal Artificial Intelligence: A Survey"
 ---
 
 # Large Language Models Meet Legal Artificial Intelligence: A Survey

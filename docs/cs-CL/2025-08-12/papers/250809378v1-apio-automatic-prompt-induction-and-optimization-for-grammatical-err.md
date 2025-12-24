@@ -1,6 +1,6 @@
 ---
 layout: default
-title: APIO: Automatic Prompt Induction and Optimization for Grammatical Error Correction and Text Simplification
+title: "APIO: Automatic Prompt Induction and Optimization for Grammatical Error Correction and Text Simplification"
 ---
 
 # APIO: Automatic Prompt Induction and Optimization for Grammatical Error Correction and Text Simplification

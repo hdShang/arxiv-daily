@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MR-UIE: Multi-Perspective Reasoning with Reinforcement Learning for Universal Information Extraction
+title: "MR-UIE: Multi-Perspective Reasoning with Reinforcement Learning for Universal Information Extraction"
 ---
 
 # MR-UIE: Multi-Perspective Reasoning with Reinforcement Learning for Universal Information Extraction

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CollabVLA: Self-Reflective Vision-Language-Action Model Dreaming Together with Human
+title: "CollabVLA: Self-Reflective Vision-Language-Action Model Dreaming Together with Human"
 ---
 
 # CollabVLA: Self-Reflective Vision-Language-Action Model Dreaming Together with Human

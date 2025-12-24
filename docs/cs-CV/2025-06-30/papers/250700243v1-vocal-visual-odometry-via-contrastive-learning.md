@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VOCAL: Visual Odometry via ContrAstive Learning
+title: "VOCAL: Visual Odometry via ContrAstive Learning"
 ---
 
 # VOCAL: Visual Odometry via ContrAstive Learning

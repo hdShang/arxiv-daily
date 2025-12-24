@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EmoCaliber: Advancing Reliable Visual Emotion Comprehension via Confidence Verbalization and Calibration
+title: "EmoCaliber: Advancing Reliable Visual Emotion Comprehension via Confidence Verbalization and Calibration"
 ---
 
 # EmoCaliber: Advancing Reliable Visual Emotion Comprehension via Confidence Verbalization and Calibration

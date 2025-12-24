@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Domain Generalization for Semantic Segmentation: A Survey
+title: "Domain Generalization for Semantic Segmentation: A Survey"
 ---
 
 # Domain Generalization for Semantic Segmentation: A Survey

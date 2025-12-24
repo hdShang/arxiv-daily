@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LIA-X: Interpretable Latent Portrait Animator
+title: "LIA-X: Interpretable Latent Portrait Animator"
 ---
 
 # LIA-X: Interpretable Latent Portrait Animator

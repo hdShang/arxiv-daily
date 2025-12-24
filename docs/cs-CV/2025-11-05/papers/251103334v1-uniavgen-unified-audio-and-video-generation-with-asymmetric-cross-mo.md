@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions
+title: "UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions"
 ---
 
 # UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions

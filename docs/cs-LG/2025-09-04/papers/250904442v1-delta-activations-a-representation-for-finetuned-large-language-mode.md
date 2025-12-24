@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Delta Activations: A Representation for Finetuned Large Language Models
+title: "Delta Activations: A Representation for Finetuned Large Language Models"
 ---
 
 # Delta Activations: A Representation for Finetuned Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMSearch-R1: Incentivizing LMMs to Search
+title: "MMSearch-R1: Incentivizing LMMs to Search"
 ---
 
 # MMSearch-R1: Incentivizing LMMs to Search

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COMPASS: A Multi-Dimensional Benchmark for Evaluating Code Generation in Large Language Models
+title: "COMPASS: A Multi-Dimensional Benchmark for Evaluating Code Generation in Large Language Models"
 ---
 
 # COMPASS: A Multi-Dimensional Benchmark for Evaluating Code Generation in Large Language Models

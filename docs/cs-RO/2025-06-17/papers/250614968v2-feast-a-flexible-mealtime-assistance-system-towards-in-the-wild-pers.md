@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FEAST: A Flexible Mealtime-Assistance System Towards In-the-Wild Personalization
+title: "FEAST: A Flexible Mealtime-Assistance System Towards In-the-Wild Personalization"
 ---
 
 # FEAST: A Flexible Mealtime-Assistance System Towards In-the-Wild Personalization

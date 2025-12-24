@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VISOR: Visual Input-based Steering for Output Redirection in Vision-Language Models
+title: "VISOR: Visual Input-based Steering for Output Redirection in Vision-Language Models"
 ---
 
 # VISOR: Visual Input-based Steering for Output Redirection in Vision-Language Models

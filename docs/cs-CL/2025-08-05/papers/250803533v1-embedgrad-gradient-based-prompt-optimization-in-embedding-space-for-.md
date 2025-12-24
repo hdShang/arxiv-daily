@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EmbedGrad: Gradient-Based Prompt Optimization in Embedding Space for Large Language Models
+title: "EmbedGrad: Gradient-Based Prompt Optimization in Embedding Space for Large Language Models"
 ---
 
 # EmbedGrad: Gradient-Based Prompt Optimization in Embedding Space for Large Language Models

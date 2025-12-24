@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Skill-Nav: Enhanced Navigation with Versatile Quadrupedal Locomotion via Waypoint Interface
+title: "Skill-Nav: Enhanced Navigation with Versatile Quadrupedal Locomotion via Waypoint Interface"
 ---
 
 # Skill-Nav: Enhanced Navigation with Versatile Quadrupedal Locomotion via Waypoint Interface

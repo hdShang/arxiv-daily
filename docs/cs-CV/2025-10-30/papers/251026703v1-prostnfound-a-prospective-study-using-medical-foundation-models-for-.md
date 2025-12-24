@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ProstNFound+: A Prospective Study using Medical Foundation Models for Prostate Cancer Detection
+title: "ProstNFound+: A Prospective Study using Medical Foundation Models for Prostate Cancer Detection"
 ---
 
 # ProstNFound+: A Prospective Study using Medical Foundation Models for Prostate Cancer Detection

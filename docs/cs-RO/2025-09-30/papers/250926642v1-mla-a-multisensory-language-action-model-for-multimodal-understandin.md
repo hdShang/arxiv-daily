@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation
+title: "MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation"
 ---
 
 # MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation

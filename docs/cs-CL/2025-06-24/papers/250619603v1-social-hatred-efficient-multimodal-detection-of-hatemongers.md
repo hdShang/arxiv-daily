@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Social Hatred: Efficient Multimodal Detection of Hatemongers
+title: "Social Hatred: Efficient Multimodal Detection of Hatemongers"
 ---
 
 # Social Hatred: Efficient Multimodal Detection of Hatemongers

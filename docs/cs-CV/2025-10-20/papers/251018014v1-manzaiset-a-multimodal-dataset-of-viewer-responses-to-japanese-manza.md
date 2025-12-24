@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ManzaiSet: A Multimodal Dataset of Viewer Responses to Japanese Manzai Comedy
+title: "ManzaiSet: A Multimodal Dataset of Viewer Responses to Japanese Manzai Comedy"
 ---
 
 # ManzaiSet: A Multimodal Dataset of Viewer Responses to Japanese Manzai Comedy

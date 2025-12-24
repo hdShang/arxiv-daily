@@ -1,6 +1,6 @@
 ---
 layout: default
-title: False Sense of Security: Why Probing-based Malicious Input Detection Fails to Generalize
+title: "False Sense of Security: Why Probing-based Malicious Input Detection Fails to Generalize"
 ---
 
 # False Sense of Security: Why Probing-based Malicious Input Detection Fails to Generalize

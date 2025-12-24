@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMRQA: Signal-Enhanced Multimodal Large Language Models for MRI Quality Assessment
+title: "MMRQA: Signal-Enhanced Multimodal Large Language Models for MRI Quality Assessment"
 ---
 
 # MMRQA: Signal-Enhanced Multimodal Large Language Models for MRI Quality Assessment

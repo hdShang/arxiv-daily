@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cerberus: Real-Time Video Anomaly Detection via Cascaded Vision-Language Models
+title: "Cerberus: Real-Time Video Anomaly Detection via Cascaded Vision-Language Models"
 ---
 
 # Cerberus: Real-Time Video Anomaly Detection via Cascaded Vision-Language Models

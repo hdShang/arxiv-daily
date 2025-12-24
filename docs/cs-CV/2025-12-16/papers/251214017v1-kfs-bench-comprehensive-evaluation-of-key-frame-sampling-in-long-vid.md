@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KFS-Bench: Comprehensive Evaluation of Key Frame Sampling in Long Video Understanding
+title: "KFS-Bench: Comprehensive Evaluation of Key Frame Sampling in Long Video Understanding"
 ---
 
 # KFS-Bench: Comprehensive Evaluation of Key Frame Sampling in Long Video Understanding

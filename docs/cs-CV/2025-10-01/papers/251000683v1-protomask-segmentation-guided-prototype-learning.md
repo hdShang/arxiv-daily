@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ProtoMask: Segmentation-Guided Prototype Learning
+title: "ProtoMask: Segmentation-Guided Prototype Learning"
 ---
 
 # ProtoMask: Segmentation-Guided Prototype Learning

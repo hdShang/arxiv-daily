@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ros2 fanuc interface: Design and Evaluation of a Fanuc CRX Hardware Interface in ROS2
+title: "ros2 fanuc interface: Design and Evaluation of a Fanuc CRX Hardware Interface in ROS2"
 ---
 
 # ros2 fanuc interface: Design and Evaluation of a Fanuc CRX Hardware Interface in ROS2

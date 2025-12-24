@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3DFroMLLM: 3D Prototype Generation only from Pretrained Multimodal LLMs
+title: "3DFroMLLM: 3D Prototype Generation only from Pretrained Multimodal LLMs"
 ---
 
 # 3DFroMLLM: 3D Prototype Generation only from Pretrained Multimodal LLMs

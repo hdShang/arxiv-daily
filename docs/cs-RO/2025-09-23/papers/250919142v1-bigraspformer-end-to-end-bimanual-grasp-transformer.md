@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BiGraspFormer: End-to-End Bimanual Grasp Transformer
+title: "BiGraspFormer: End-to-End Bimanual Grasp Transformer"
 ---
 
 # BiGraspFormer: End-to-End Bimanual Grasp Transformer

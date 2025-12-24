@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OGGSplat: Open Gaussian Growing for Generalizable Reconstruction with Expanded Field-of-View
+title: "OGGSplat: Open Gaussian Growing for Generalizable Reconstruction with Expanded Field-of-View"
 ---
 
 # OGGSplat: Open Gaussian Growing for Generalizable Reconstruction with Expanded Field-of-View

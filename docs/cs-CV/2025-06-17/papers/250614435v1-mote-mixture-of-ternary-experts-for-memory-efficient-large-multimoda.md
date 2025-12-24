@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models
+title: "MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models"
 ---
 
 # MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models

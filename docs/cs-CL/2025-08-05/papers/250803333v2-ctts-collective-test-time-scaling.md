@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CTTS: Collective Test-Time Scaling
+title: "CTTS: Collective Test-Time Scaling"
 ---
 
 # CTTS: Collective Test-Time Scaling

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multi-TW: Benchmarking Multimodal Models on Traditional Chinese Question Answering in Taiwan
+title: "Multi-TW: Benchmarking Multimodal Models on Traditional Chinese Question Answering in Taiwan"
 ---
 
 # Multi-TW: Benchmarking Multimodal Models on Traditional Chinese Question Answering in Taiwan

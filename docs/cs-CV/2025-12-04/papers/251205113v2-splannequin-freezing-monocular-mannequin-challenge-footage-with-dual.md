@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Splannequin: Freezing Monocular Mannequin-Challenge Footage with Dual-Detection Splatting
+title: "Splannequin: Freezing Monocular Mannequin-Challenge Footage with Dual-Detection Splatting"
 ---
 
 # Splannequin: Freezing Monocular Mannequin-Challenge Footage with Dual-Detection Splatting

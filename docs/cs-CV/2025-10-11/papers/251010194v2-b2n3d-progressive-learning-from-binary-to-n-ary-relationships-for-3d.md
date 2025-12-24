@@ -1,6 +1,6 @@
 ---
 layout: default
-title: B2N3D: Progressive Learning from Binary to N-ary Relationships for 3D Object Grounding
+title: "B2N3D: Progressive Learning from Binary to N-ary Relationships for 3D Object Grounding"
 ---
 
 # B2N3D: Progressive Learning from Binary to N-ary Relationships for 3D Object Grounding

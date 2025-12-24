@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reasoning over Boundaries: Enhancing Specification Alignment via Test-time Deliberation
+title: "Reasoning over Boundaries: Enhancing Specification Alignment via Test-time Deliberation"
 ---
 
 # Reasoning over Boundaries: Enhancing Specification Alignment via Test-time Deliberation

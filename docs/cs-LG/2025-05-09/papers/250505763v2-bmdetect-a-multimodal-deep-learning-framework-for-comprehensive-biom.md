@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BMDetect: A Multimodal Deep Learning Framework for Comprehensive Biomedical Misconduct Detection
+title: "BMDetect: A Multimodal Deep Learning Framework for Comprehensive Biomedical Misconduct Detection"
 ---
 
 # BMDetect: A Multimodal Deep Learning Framework for Comprehensive Biomedical Misconduct Detection

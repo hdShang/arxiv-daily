@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SNAP: Towards Segmenting Anything in Any Point Cloud
+title: "SNAP: Towards Segmenting Anything in Any Point Cloud"
 ---
 
 # SNAP: Towards Segmenting Anything in Any Point Cloud

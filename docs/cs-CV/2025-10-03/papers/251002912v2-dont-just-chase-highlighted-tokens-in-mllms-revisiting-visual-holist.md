@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Don't Just Chase "Highlighted Tokens" in MLLMs: Revisiting Visual Holistic Context Retention
+title: "Don't Just Chase \"Highlighted Tokens\" in MLLMs: Revisiting Visual Holistic Context Retention"
 ---
 
 # Don't Just Chase "Highlighted Tokens" in MLLMs: Revisiting Visual Holistic Context Retention

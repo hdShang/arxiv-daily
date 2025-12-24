@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FlowTSE: Target Speaker Extraction with Flow Matching
+title: "FlowTSE: Target Speaker Extraction with Flow Matching"
 ---
 
 # FlowTSE: Target Speaker Extraction with Flow Matching

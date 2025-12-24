@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Shadow in the Cache: Unveiling and Mitigating Privacy Risks of KV-cache in LLM Inference
+title: "Shadow in the Cache: Unveiling and Mitigating Privacy Risks of KV-cache in LLM Inference"
 ---
 
 # Shadow in the Cache: Unveiling and Mitigating Privacy Risks of KV-cache in LLM Inference

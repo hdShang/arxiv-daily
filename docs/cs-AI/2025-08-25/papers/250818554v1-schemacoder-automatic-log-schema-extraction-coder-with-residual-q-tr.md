@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SchemaCoder: Automatic Log Schema Extraction Coder with Residual Q-Tree Boosting
+title: "SchemaCoder: Automatic Log Schema Extraction Coder with Residual Q-Tree Boosting"
 ---
 
 # SchemaCoder: Automatic Log Schema Extraction Coder with Residual Q-Tree Boosting

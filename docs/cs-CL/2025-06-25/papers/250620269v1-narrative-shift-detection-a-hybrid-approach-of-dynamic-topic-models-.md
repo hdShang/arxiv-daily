@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Narrative Shift Detection: A Hybrid Approach of Dynamic Topic Models and Large Language Models
+title: "Narrative Shift Detection: A Hybrid Approach of Dynamic Topic Models and Large Language Models"
 ---
 
 # Narrative Shift Detection: A Hybrid Approach of Dynamic Topic Models and Large Language Models

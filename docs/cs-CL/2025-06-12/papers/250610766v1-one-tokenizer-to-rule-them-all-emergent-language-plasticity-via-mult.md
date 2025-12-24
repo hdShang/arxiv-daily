@@ -1,6 +1,6 @@
 ---
 layout: default
-title: One Tokenizer To Rule Them All: Emergent Language Plasticity via Multilingual Tokenizers
+title: "One Tokenizer To Rule Them All: Emergent Language Plasticity via Multilingual Tokenizers"
 ---
 
 # One Tokenizer To Rule Them All: Emergent Language Plasticity via Multilingual Tokenizers

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Spoken Mathematical Reasoning: Benchmarking Speech-based Models over Multi-faceted Math Problems
+title: "Towards Spoken Mathematical Reasoning: Benchmarking Speech-based Models over Multi-faceted Math Problems"
 ---
 
 # Towards Spoken Mathematical Reasoning: Benchmarking Speech-based Models over Multi-faceted Math Problems

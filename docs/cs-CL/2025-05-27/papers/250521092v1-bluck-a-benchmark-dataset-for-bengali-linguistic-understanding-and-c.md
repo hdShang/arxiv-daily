@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BLUCK: A Benchmark Dataset for Bengali Linguistic Understanding and Cultural Knowledge
+title: "BLUCK: A Benchmark Dataset for Bengali Linguistic Understanding and Cultural Knowledge"
 ---
 
 # BLUCK: A Benchmark Dataset for Bengali Linguistic Understanding and Cultural Knowledge

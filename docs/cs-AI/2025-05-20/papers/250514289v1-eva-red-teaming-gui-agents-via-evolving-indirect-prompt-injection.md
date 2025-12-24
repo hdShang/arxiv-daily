@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EVA: Red-Teaming GUI Agents via Evolving Indirect Prompt Injection
+title: "EVA: Red-Teaming GUI Agents via Evolving Indirect Prompt Injection"
 ---
 
 # EVA: Red-Teaming GUI Agents via Evolving Indirect Prompt Injection

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sym2Real: Symbolic Dynamics with Residual Learning for Data-Efficient Adaptive Control
+title: "Sym2Real: Symbolic Dynamics with Residual Learning for Data-Efficient Adaptive Control"
 ---
 
 # Sym2Real: Symbolic Dynamics with Residual Learning for Data-Efficient Adaptive Control

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: APULSE: A Scalable Hybrid Algorithm for the RCSPP on Large-Scale Dense Graphs
+title: "APULSE: A Scalable Hybrid Algorithm for the RCSPP on Large-Scale Dense Graphs"
 ---
 
 # APULSE: A Scalable Hybrid Algorithm for the RCSPP on Large-Scale Dense Graphs

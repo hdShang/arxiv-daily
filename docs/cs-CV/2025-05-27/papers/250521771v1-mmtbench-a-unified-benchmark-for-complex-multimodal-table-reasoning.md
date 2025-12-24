@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMTBENCH: A Unified Benchmark for Complex Multimodal Table Reasoning
+title: "MMTBENCH: A Unified Benchmark for Complex Multimodal Table Reasoning"
 ---
 
 # MMTBENCH: A Unified Benchmark for Complex Multimodal Table Reasoning

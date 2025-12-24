@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CrayonRobo: Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation
+title: "CrayonRobo: Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation"
 ---
 
 # CrayonRobo: Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation

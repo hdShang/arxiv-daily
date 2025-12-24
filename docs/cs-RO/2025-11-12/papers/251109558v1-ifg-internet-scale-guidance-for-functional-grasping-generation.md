@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IFG: Internet-Scale Guidance for Functional Grasping Generation
+title: "IFG: Internet-Scale Guidance for Functional Grasping Generation"
 ---
 
 # IFG: Internet-Scale Guidance for Functional Grasping Generation

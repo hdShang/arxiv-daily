@@ -1,6 +1,6 @@
 ---
 layout: default
-title: All for law and law for all: Adaptive RAG Pipeline for Legal Research
+title: "All for law and law for all: Adaptive RAG Pipeline for Legal Research"
 ---
 
 # All for law and law for all: Adaptive RAG Pipeline for Legal Research

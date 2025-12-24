@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Curious Case of Visual Grounding: Different Effects for Speech- and Text-based Language Encoders
+title: "The Curious Case of Visual Grounding: Different Effects for Speech- and Text-based Language Encoders"
 ---
 
 # The Curious Case of Visual Grounding: Different Effects for Speech- and Text-based Language Encoders

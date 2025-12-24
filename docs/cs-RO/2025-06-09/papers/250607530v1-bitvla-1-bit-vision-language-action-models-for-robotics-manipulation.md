@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation
+title: "BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation"
 ---
 
 # BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation

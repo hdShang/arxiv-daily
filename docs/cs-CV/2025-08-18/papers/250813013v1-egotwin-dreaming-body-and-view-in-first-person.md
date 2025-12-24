@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EgoTwin: Dreaming Body and View in First Person
+title: "EgoTwin: Dreaming Body and View in First Person"
 ---
 
 # EgoTwin: Dreaming Body and View in First Person

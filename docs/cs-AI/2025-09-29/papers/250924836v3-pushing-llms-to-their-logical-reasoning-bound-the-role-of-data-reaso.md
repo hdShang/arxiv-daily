@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pushing LLMs to Their Logical Reasoning Bound: The Role of Data Reasoning Intensity
+title: "Pushing LLMs to Their Logical Reasoning Bound: The Role of Data Reasoning Intensity"
 ---
 
 # Pushing LLMs to Their Logical Reasoning Bound: The Role of Data Reasoning Intensity

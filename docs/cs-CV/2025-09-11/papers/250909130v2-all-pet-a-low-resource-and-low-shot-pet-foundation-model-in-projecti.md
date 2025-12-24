@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ALL-PET: A Low-resource and Low-shot PET Foundation Model in Projection Domain
+title: "ALL-PET: A Low-resource and Low-shot PET Foundation Model in Projection Domain"
 ---
 
 # ALL-PET: A Low-resource and Low-shot PET Foundation Model in Projection Domain

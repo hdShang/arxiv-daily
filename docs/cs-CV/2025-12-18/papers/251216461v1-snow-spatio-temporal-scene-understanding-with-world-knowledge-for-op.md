@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning
+title: "SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning"
 ---
 
 # SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning

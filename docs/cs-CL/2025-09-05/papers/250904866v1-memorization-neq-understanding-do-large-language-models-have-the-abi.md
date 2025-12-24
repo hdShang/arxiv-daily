@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Memorization $\neq$ Understanding: Do Large Language Models Have the Ability of Scenario Cognition?
+title: "Memorization $\\neq$ Understanding: Do Large Language Models Have the Ability of Scenario Cognition?"
 ---
 
 # Memorization $\neq$ Understanding: Do Large Language Models Have the Ability of Scenario Cognition?

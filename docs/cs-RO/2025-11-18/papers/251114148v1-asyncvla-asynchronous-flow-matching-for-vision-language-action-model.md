@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AsyncVLA: Asynchronous Flow Matching for Vision-Language-Action Models
+title: "AsyncVLA: Asynchronous Flow Matching for Vision-Language-Action Models"
 ---
 
 # AsyncVLA: Asynchronous Flow Matching for Vision-Language-Action Models

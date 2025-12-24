@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PaveSync: A Unified and Comprehensive Dataset for Pavement Distress Analysis and Classification
+title: "PaveSync: A Unified and Comprehensive Dataset for Pavement Distress Analysis and Classification"
 ---
 
 # PaveSync: A Unified and Comprehensive Dataset for Pavement Distress Analysis and Classification

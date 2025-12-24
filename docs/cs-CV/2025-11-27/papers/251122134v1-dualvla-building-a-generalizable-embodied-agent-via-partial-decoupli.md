@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DualVLA: Building a Generalizable Embodied Agent via Partial Decoupling of Reasoning and Action
+title: "DualVLA: Building a Generalizable Embodied Agent via Partial Decoupling of Reasoning and Action"
 ---
 
 # DualVLA: Building a Generalizable Embodied Agent via Partial Decoupling of Reasoning and Action

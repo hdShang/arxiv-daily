@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics
+title: "RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics"
 ---
 
 # RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics

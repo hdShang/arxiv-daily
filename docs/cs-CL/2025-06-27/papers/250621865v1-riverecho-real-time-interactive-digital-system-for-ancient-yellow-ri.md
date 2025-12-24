@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RiverEcho: Real-Time Interactive Digital System for Ancient Yellow River Culture
+title: "RiverEcho: Real-Time Interactive Digital System for Ancient Yellow River Culture"
 ---
 
 # RiverEcho: Real-Time Interactive Digital System for Ancient Yellow River Culture

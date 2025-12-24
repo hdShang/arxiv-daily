@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Optimizing MoE Routers: Design, Implementation, and Evaluation in Transformer Models
+title: "Optimizing MoE Routers: Design, Implementation, and Evaluation in Transformer Models"
 ---
 
 # Optimizing MoE Routers: Design, Implementation, and Evaluation in Transformer Models

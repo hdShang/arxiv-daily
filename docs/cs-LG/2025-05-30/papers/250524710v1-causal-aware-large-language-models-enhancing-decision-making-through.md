@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Causal-aware Large Language Models: Enhancing Decision-Making Through Learning, Adapting and Acting
+title: "Causal-aware Large Language Models: Enhancing Decision-Making Through Learning, Adapting and Acting"
 ---
 
 # Causal-aware Large Language Models: Enhancing Decision-Making Through Learning, Adapting and Acting

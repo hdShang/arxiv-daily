@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DOS: Distilling Observable Softmaps of Zipfian Prototypes for Self-Supervised Point Representation
+title: "DOS: Distilling Observable Softmaps of Zipfian Prototypes for Self-Supervised Point Representation"
 ---
 
 # DOS: Distilling Observable Softmaps of Zipfian Prototypes for Self-Supervised Point Representation

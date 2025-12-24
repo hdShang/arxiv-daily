@@ -1,6 +1,6 @@
 ---
 layout: default
-title: One Patch is All You Need: Joint Surface Material Reconstruction and Classification from Minimal Visual Cues
+title: "One Patch is All You Need: Joint Surface Material Reconstruction and Classification from Minimal Visual Cues"
 ---
 
 # One Patch is All You Need: Joint Surface Material Reconstruction and Classification from Minimal Visual Cues

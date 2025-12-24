@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Q2E: Query-to-Event Decomposition for Zero-Shot Multilingual Text-to-Video Retrieval
+title: "Q2E: Query-to-Event Decomposition for Zero-Shot Multilingual Text-to-Video Retrieval"
 ---
 
 # Q2E: Query-to-Event Decomposition for Zero-Shot Multilingual Text-to-Video Retrieval

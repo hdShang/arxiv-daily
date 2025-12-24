@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FlowLUT: Efficient Image Enhancement via Differentiable LUTs and Iterative Flow Matching
+title: "FlowLUT: Efficient Image Enhancement via Differentiable LUTs and Iterative Flow Matching"
 ---
 
 # FlowLUT: Efficient Image Enhancement via Differentiable LUTs and Iterative Flow Matching

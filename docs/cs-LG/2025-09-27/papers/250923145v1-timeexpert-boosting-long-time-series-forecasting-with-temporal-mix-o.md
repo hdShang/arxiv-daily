@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TimeExpert: Boosting Long Time Series Forecasting with Temporal Mix of Experts
+title: "TimeExpert: Boosting Long Time Series Forecasting with Temporal Mix of Experts"
 ---
 
 # TimeExpert: Boosting Long Time Series Forecasting with Temporal Mix of Experts

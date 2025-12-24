@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GUI-Rise: Structured Reasoning and History Summarization for GUI Navigation
+title: "GUI-Rise: Structured Reasoning and History Summarization for GUI Navigation"
 ---
 
 # GUI-Rise: Structured Reasoning and History Summarization for GUI Navigation

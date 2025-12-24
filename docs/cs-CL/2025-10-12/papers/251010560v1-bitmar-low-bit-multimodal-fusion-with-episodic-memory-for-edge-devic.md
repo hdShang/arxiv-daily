@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BitMar: Low-Bit Multimodal Fusion with Episodic Memory for Edge Devices
+title: "BitMar: Low-Bit Multimodal Fusion with Episodic Memory for Edge Devices"
 ---
 
 # BitMar: Low-Bit Multimodal Fusion with Episodic Memory for Edge Devices

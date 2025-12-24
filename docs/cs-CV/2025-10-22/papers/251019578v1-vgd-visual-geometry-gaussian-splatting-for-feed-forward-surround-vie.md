@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VGD: Visual Geometry Gaussian Splatting for Feed-Forward Surround-view Driving Reconstruction
+title: "VGD: Visual Geometry Gaussian Splatting for Feed-Forward Surround-view Driving Reconstruction"
 ---
 
 # VGD: Visual Geometry Gaussian Splatting for Feed-Forward Surround-view Driving Reconstruction

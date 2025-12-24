@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FinMME: Benchmark Dataset for Financial Multi-Modal Reasoning Evaluation
+title: "FinMME: Benchmark Dataset for Financial Multi-Modal Reasoning Evaluation"
 ---
 
 # FinMME: Benchmark Dataset for Financial Multi-Modal Reasoning Evaluation

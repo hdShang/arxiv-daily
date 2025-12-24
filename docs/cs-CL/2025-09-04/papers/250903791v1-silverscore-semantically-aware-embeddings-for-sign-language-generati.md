@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SiLVERScore: Semantically-Aware Embeddings for Sign Language Generation Evaluation
+title: "SiLVERScore: Semantically-Aware Embeddings for Sign Language Generation Evaluation"
 ---
 
 # SiLVERScore: Semantically-Aware Embeddings for Sign Language Generation Evaluation

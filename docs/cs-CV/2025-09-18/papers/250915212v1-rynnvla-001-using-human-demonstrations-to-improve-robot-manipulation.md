@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation
+title: "RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation"
 ---
 
 # RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation

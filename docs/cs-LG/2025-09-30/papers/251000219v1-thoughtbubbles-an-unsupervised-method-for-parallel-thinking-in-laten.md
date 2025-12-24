@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space
+title: "Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space"
 ---
 
 # Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space

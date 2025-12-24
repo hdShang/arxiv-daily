@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Booster Gym: An End-to-End Reinforcement Learning Framework for Humanoid Robot Locomotion
+title: "Booster Gym: An End-to-End Reinforcement Learning Framework for Humanoid Robot Locomotion"
 ---
 
 # Booster Gym: An End-to-End Reinforcement Learning Framework for Humanoid Robot Locomotion

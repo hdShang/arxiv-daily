@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AURA: A Diagnostic Framework for Tracking User Satisfaction of Interactive Planning Agents
+title: "AURA: A Diagnostic Framework for Tracking User Satisfaction of Interactive Planning Agents"
 ---
 
 # AURA: A Diagnostic Framework for Tracking User Satisfaction of Interactive Planning Agents

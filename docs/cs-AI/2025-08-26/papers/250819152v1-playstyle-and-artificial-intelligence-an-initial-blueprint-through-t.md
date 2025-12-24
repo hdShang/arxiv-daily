@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Playstyle and Artificial Intelligence: An Initial Blueprint Through the Lens of Video Games
+title: "Playstyle and Artificial Intelligence: An Initial Blueprint Through the Lens of Video Games"
 ---
 
 # Playstyle and Artificial Intelligence: An Initial Blueprint Through the Lens of Video Games

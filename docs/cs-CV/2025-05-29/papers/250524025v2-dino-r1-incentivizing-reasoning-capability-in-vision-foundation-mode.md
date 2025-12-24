@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DINO-R1: Incentivizing Reasoning Capability in Vision Foundation Models
+title: "DINO-R1: Incentivizing Reasoning Capability in Vision Foundation Models"
 ---
 
 # DINO-R1: Incentivizing Reasoning Capability in Vision Foundation Models

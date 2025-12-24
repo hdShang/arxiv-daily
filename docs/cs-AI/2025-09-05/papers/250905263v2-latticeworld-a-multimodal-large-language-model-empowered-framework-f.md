@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation
+title: "LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation"
 ---
 
 # LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation

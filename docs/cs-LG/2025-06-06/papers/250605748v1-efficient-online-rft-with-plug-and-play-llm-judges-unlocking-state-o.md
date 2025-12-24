@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Efficient Online RFT with Plug-and-Play LLM Judges: Unlocking State-of-the-Art Performance
+title: "Efficient Online RFT with Plug-and-Play LLM Judges: Unlocking State-of-the-Art Performance"
 ---
 
 # Efficient Online RFT with Plug-and-Play LLM Judges: Unlocking State-of-the-Art Performance

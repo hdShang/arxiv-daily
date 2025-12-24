@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EndoUFM: Utilizing Foundation Models for Monocular depth estimation of endoscopic images
+title: "EndoUFM: Utilizing Foundation Models for Monocular depth estimation of endoscopic images"
 ---
 
 # EndoUFM: Utilizing Foundation Models for Monocular depth estimation of endoscopic images

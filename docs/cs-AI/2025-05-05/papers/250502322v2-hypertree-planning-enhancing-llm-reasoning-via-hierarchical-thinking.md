@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HyperTree Planning: Enhancing LLM Reasoning via Hierarchical Thinking
+title: "HyperTree Planning: Enhancing LLM Reasoning via Hierarchical Thinking"
 ---
 
 # HyperTree Planning: Enhancing LLM Reasoning via Hierarchical Thinking

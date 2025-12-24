@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Knowledge-Driven Imitation Learning: Enabling Generalization Across Diverse Conditions
+title: "Knowledge-Driven Imitation Learning: Enabling Generalization Across Diverse Conditions"
 ---
 
 # Knowledge-Driven Imitation Learning: Enabling Generalization Across Diverse Conditions

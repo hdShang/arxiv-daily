@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Watch to Imagine: Steering Long-horizon Manipulation via Human Demonstration and Future Envisionment
+title: "From Watch to Imagine: Steering Long-horizon Manipulation via Human Demonstration and Future Envisionment"
 ---
 
 # From Watch to Imagine: Steering Long-horizon Manipulation via Human Demonstration and Future Envisionment

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TECP: Token-Entropy Conformal Prediction for LLMs
+title: "TECP: Token-Entropy Conformal Prediction for LLMs"
 ---
 
 # TECP: Token-Entropy Conformal Prediction for LLMs

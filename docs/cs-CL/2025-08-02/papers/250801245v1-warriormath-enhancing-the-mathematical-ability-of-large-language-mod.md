@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WarriorMath: Enhancing the Mathematical Ability of Large Language Models with a Defect-aware Framework
+title: "WarriorMath: Enhancing the Mathematical Ability of Large Language Models with a Defect-aware Framework"
 ---
 
 # WarriorMath: Enhancing the Mathematical Ability of Large Language Models with a Defect-aware Framework

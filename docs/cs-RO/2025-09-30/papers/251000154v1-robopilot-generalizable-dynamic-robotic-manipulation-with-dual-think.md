@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboPilot: Generalizable Dynamic Robotic Manipulation with Dual-thinking Modes
+title: "RoboPilot: Generalizable Dynamic Robotic Manipulation with Dual-thinking Modes"
 ---
 
 # RoboPilot: Generalizable Dynamic Robotic Manipulation with Dual-thinking Modes

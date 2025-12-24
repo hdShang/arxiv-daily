@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VideoConviction: A Multimodal Benchmark for Human Conviction and Stock Market Recommendations
+title: "VideoConviction: A Multimodal Benchmark for Human Conviction and Stock Market Recommendations"
 ---
 
 # VideoConviction: A Multimodal Benchmark for Human Conviction and Stock Market Recommendations

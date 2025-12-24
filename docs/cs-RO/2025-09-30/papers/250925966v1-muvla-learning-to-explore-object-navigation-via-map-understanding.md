@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MUVLA: Learning to Explore Object Navigation via Map Understanding
+title: "MUVLA: Learning to Explore Object Navigation via Map Understanding"
 ---
 
 # MUVLA: Learning to Explore Object Navigation via Map Understanding

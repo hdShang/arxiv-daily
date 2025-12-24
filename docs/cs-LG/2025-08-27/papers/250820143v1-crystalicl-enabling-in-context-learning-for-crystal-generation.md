@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CrystalICL: Enabling In-Context Learning for Crystal Generation
+title: "CrystalICL: Enabling In-Context Learning for Crystal Generation"
 ---
 
 # CrystalICL: Enabling In-Context Learning for Crystal Generation

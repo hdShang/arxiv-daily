@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GRITS: A Spillage-Aware Guided Diffusion Policy for Robot Food Scooping Tasks
+title: "GRITS: A Spillage-Aware Guided Diffusion Policy for Robot Food Scooping Tasks"
 ---
 
 # GRITS: A Spillage-Aware Guided Diffusion Policy for Robot Food Scooping Tasks

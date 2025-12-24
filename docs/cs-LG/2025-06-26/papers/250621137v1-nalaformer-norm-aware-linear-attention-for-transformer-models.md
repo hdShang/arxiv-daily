@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NaLaFormer: Norm-Aware Linear Attention for Transformer Models
+title: "NaLaFormer: Norm-Aware Linear Attention for Transformer Models"
 ---
 
 # NaLaFormer: Norm-Aware Linear Attention for Transformer Models

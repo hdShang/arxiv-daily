@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RiOSWorld: Benchmarking the Risk of Multimodal Computer-Use Agents
+title: "RiOSWorld: Benchmarking the Risk of Multimodal Computer-Use Agents"
 ---
 
 # RiOSWorld: Benchmarking the Risk of Multimodal Computer-Use Agents

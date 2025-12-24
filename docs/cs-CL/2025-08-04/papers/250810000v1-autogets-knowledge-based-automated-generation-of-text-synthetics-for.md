@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AutoGeTS: Knowledge-based Automated Generation of Text Synthetics for Improving Text Classification
+title: "AutoGeTS: Knowledge-based Automated Generation of Text Synthetics for Improving Text Classification"
 ---
 
 # AutoGeTS: Knowledge-based Automated Generation of Text Synthetics for Improving Text Classification

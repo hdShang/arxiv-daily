@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QPoser: Quantized Explicit Pose Prior Modeling for Controllable Pose Generation
+title: "QPoser: Quantized Explicit Pose Prior Modeling for Controllable Pose Generation"
 ---
 
 # QPoser: Quantized Explicit Pose Prior Modeling for Controllable Pose Generation

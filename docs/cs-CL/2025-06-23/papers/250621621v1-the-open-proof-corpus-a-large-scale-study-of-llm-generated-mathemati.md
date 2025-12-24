@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Open Proof Corpus: A Large-Scale Study of LLM-Generated Mathematical Proofs
+title: "The Open Proof Corpus: A Large-Scale Study of LLM-Generated Mathematical Proofs"
 ---
 
 # The Open Proof Corpus: A Large-Scale Study of LLM-Generated Mathematical Proofs

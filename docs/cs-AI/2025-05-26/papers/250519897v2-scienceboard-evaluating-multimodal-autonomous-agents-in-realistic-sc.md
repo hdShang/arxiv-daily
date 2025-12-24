@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows
+title: "ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows"
 ---
 
 # ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows

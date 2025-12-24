@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FixCLR: Negative-Class Contrastive Learning for Semi-Supervised Domain Generalization
+title: "FixCLR: Negative-Class Contrastive Learning for Semi-Supervised Domain Generalization"
 ---
 
 # FixCLR: Negative-Class Contrastive Learning for Semi-Supervised Domain Generalization

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Toward Socially Aware Vision-Language Models: Evaluating Cultural Competence Through Multimodal Story Generation
+title: "Toward Socially Aware Vision-Language Models: Evaluating Cultural Competence Through Multimodal Story Generation"
 ---
 
 # Toward Socially Aware Vision-Language Models: Evaluating Cultural Competence Through Multimodal Story Generation

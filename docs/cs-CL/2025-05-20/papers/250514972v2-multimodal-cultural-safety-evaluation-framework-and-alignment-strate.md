@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multimodal Cultural Safety: Evaluation Framework and Alignment Strategies
+title: "Multimodal Cultural Safety: Evaluation Framework and Alignment Strategies"
 ---
 
 # Multimodal Cultural Safety: Evaluation Framework and Alignment Strategies

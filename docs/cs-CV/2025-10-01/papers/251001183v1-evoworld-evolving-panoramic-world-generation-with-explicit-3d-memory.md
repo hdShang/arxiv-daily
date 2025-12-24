@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EvoWorld: Evolving Panoramic World Generation with Explicit 3D Memory
+title: "EvoWorld: Evolving Panoramic World Generation with Explicit 3D Memory"
 ---
 
 # EvoWorld: Evolving Panoramic World Generation with Explicit 3D Memory

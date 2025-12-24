@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Common Pile v0.1: An 8TB Dataset of Public Domain and Openly Licensed Text
+title: "The Common Pile v0.1: An 8TB Dataset of Public Domain and Openly Licensed Text"
 ---
 
 # The Common Pile v0.1: An 8TB Dataset of Public Domain and Openly Licensed Text

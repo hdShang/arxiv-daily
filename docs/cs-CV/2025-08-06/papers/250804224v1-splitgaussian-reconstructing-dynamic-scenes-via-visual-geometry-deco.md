@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SplitGaussian: Reconstructing Dynamic Scenes via Visual Geometry Decomposition
+title: "SplitGaussian: Reconstructing Dynamic Scenes via Visual Geometry Decomposition"
 ---
 
 # SplitGaussian: Reconstructing Dynamic Scenes via Visual Geometry Decomposition

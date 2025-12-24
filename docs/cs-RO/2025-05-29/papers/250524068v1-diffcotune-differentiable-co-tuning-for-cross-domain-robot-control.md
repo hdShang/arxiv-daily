@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DiffCoTune: Differentiable Co-Tuning for Cross-domain Robot Control
+title: "DiffCoTune: Differentiable Co-Tuning for Cross-domain Robot Control"
 ---
 
 # DiffCoTune: Differentiable Co-Tuning for Cross-domain Robot Control

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reliable Reasoning Path: Distilling Effective Guidance for LLM Reasoning with Knowledge Graphs
+title: "Reliable Reasoning Path: Distilling Effective Guidance for LLM Reasoning with Knowledge Graphs"
 ---
 
 # Reliable Reasoning Path: Distilling Effective Guidance for LLM Reasoning with Knowledge Graphs

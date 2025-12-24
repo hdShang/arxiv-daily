@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Staff Messages to Actionable Insights: A Multi-Stage LLM Classification Framework for Healthcare Analytics
+title: "From Staff Messages to Actionable Insights: A Multi-Stage LLM Classification Framework for Healthcare Analytics"
 ---
 
 # From Staff Messages to Actionable Insights: A Multi-Stage LLM Classification Framework for Healthcare Analytics

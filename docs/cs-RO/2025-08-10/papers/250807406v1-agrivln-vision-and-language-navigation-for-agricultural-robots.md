@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AgriVLN: Vision-and-Language Navigation for Agricultural Robots
+title: "AgriVLN: Vision-and-Language Navigation for Agricultural Robots"
 ---
 
 # AgriVLN: Vision-and-Language Navigation for Agricultural Robots

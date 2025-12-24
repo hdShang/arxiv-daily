@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Divide-Then-Align: Honest Alignment based on the Knowledge Boundary of RAG
+title: "Divide-Then-Align: Honest Alignment based on the Knowledge Boundary of RAG"
 ---
 
 # Divide-Then-Align: Honest Alignment based on the Knowledge Boundary of RAG

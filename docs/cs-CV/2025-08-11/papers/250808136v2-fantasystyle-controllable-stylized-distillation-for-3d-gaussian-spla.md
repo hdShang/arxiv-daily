@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FantasyStyle: Controllable Stylized Distillation for 3D Gaussian Splatting
+title: "FantasyStyle: Controllable Stylized Distillation for 3D Gaussian Splatting"
 ---
 
 # FantasyStyle: Controllable Stylized Distillation for 3D Gaussian Splatting

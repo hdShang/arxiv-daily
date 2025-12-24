@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3D and 4D World Modeling: A Survey
+title: "3D and 4D World Modeling: A Survey"
 ---
 
 # 3D and 4D World Modeling: A Survey

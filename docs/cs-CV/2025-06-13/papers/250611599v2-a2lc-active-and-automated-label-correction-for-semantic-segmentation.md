@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A$^2$LC: Active and Automated Label Correction for Semantic Segmentation
+title: "A$^2$LC: Active and Automated Label Correction for Semantic Segmentation"
 ---
 
 # A$^2$LC: Active and Automated Label Correction for Semantic Segmentation

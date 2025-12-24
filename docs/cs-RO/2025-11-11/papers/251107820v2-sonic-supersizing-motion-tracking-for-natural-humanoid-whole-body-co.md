@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control
+title: "SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control"
 ---
 
 # SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control

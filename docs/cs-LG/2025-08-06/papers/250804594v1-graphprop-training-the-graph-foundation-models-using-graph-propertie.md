@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GraphProp: Training the Graph Foundation Models using Graph Properties
+title: "GraphProp: Training the Graph Foundation Models using Graph Properties"
 ---
 
 # GraphProp: Training the Graph Foundation Models using Graph Properties

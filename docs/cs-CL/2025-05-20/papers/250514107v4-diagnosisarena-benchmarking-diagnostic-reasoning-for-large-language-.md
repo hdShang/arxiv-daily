@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DiagnosisArena: Benchmarking Diagnostic Reasoning for Large Language Models
+title: "DiagnosisArena: Benchmarking Diagnostic Reasoning for Large Language Models"
 ---
 
 # DiagnosisArena: Benchmarking Diagnostic Reasoning for Large Language Models

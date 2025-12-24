@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deciphering Trajectory-Aided LLM Reasoning: An Optimization Perspective
+title: "Deciphering Trajectory-Aided LLM Reasoning: An Optimization Perspective"
 ---
 
 # Deciphering Trajectory-Aided LLM Reasoning: An Optimization Perspective

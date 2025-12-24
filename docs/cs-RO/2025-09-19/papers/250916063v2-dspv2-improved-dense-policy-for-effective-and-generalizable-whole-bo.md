@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DSPv2: Improved Dense Policy for Effective and Generalizable Whole-body Mobile Manipulation
+title: "DSPv2: Improved Dense Policy for Effective and Generalizable Whole-body Mobile Manipulation"
 ---
 
 # DSPv2: Improved Dense Policy for Effective and Generalizable Whole-body Mobile Manipulation

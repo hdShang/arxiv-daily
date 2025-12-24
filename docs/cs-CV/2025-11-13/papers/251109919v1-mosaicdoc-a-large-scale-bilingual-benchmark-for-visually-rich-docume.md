@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MosaicDoc: A Large-Scale Bilingual Benchmark for Visually Rich Document Understanding
+title: "MosaicDoc: A Large-Scale Bilingual Benchmark for Visually Rich Document Understanding"
 ---
 
 # MosaicDoc: A Large-Scale Bilingual Benchmark for Visually Rich Document Understanding

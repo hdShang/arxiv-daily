@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Edge General Intelligence Through World Models and Agentic AI: Fundamentals, Solutions, and Challenges
+title: "Edge General Intelligence Through World Models and Agentic AI: Fundamentals, Solutions, and Challenges"
 ---
 
 # Edge General Intelligence Through World Models and Agentic AI: Fundamentals, Solutions, and Challenges

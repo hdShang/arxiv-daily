@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReCAD: Reinforcement Learning Enhanced Parametric CAD Model Generation with Vision-Language Models
+title: "ReCAD: Reinforcement Learning Enhanced Parametric CAD Model Generation with Vision-Language Models"
 ---
 
 # ReCAD: Reinforcement Learning Enhanced Parametric CAD Model Generation with Vision-Language Models

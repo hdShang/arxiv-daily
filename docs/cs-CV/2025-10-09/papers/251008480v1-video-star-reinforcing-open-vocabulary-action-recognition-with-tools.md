@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Video-STAR: Reinforcing Open-Vocabulary Action Recognition with Tools
+title: "Video-STAR: Reinforcing Open-Vocabulary Action Recognition with Tools"
 ---
 
 # Video-STAR: Reinforcing Open-Vocabulary Action Recognition with Tools

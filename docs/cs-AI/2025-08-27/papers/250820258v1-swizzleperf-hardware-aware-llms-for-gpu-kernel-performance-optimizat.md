@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SwizzlePerf: Hardware-Aware LLMs for GPU Kernel Performance Optimization
+title: "SwizzlePerf: Hardware-Aware LLMs for GPU Kernel Performance Optimization"
 ---
 
 # SwizzlePerf: Hardware-Aware LLMs for GPU Kernel Performance Optimization

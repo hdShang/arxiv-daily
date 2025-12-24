@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FedPromo: Federated Lightweight Proxy Models at the Edge Bring New Domains to Foundation Models
+title: "FedPromo: Federated Lightweight Proxy Models at the Edge Bring New Domains to Foundation Models"
 ---
 
 # FedPromo: Federated Lightweight Proxy Models at the Edge Bring New Domains to Foundation Models

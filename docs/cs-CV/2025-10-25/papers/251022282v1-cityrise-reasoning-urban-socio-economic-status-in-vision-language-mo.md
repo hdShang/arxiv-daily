@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CityRiSE: Reasoning Urban Socio-Economic Status in Vision-Language Models via Reinforcement Learning
+title: "CityRiSE: Reasoning Urban Socio-Economic Status in Vision-Language Models via Reinforcement Learning"
 ---
 
 # CityRiSE: Reasoning Urban Socio-Economic Status in Vision-Language Models via Reinforcement Learning

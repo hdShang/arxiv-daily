@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RADAR: Enhancing Radiology Report Generation with Supplementary Knowledge Injection
+title: "RADAR: Enhancing Radiology Report Generation with Supplementary Knowledge Injection"
 ---
 
 # RADAR: Enhancing Radiology Report Generation with Supplementary Knowledge Injection

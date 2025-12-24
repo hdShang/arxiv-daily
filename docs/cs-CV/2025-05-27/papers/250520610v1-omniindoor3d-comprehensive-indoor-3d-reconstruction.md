@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniIndoor3D: Comprehensive Indoor 3D Reconstruction
+title: "OmniIndoor3D: Comprehensive Indoor 3D Reconstruction"
 ---
 
 # OmniIndoor3D: Comprehensive Indoor 3D Reconstruction

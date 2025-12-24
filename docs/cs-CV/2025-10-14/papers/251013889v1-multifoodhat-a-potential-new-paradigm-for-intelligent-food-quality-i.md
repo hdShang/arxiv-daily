@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MultiFoodhat: A potential new paradigm for intelligent food quality inspection
+title: "MultiFoodhat: A potential new paradigm for intelligent food quality inspection"
 ---
 
 # MultiFoodhat: A potential new paradigm for intelligent food quality inspection

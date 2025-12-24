@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EEGDM: EEG Representation Learning via Generative Diffusion Model
+title: "EEGDM: EEG Representation Learning via Generative Diffusion Model"
 ---
 
 # EEGDM: EEG Representation Learning via Generative Diffusion Model

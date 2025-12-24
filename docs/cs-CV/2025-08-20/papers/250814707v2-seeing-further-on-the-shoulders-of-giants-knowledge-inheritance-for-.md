@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seeing Further on the Shoulders of Giants: Knowledge Inheritance for Vision Foundation Models
+title: "Seeing Further on the Shoulders of Giants: Knowledge Inheritance for Vision Foundation Models"
 ---
 
 # Seeing Further on the Shoulders of Giants: Knowledge Inheritance for Vision Foundation Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation
+title: "OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation"
 ---
 
 # OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation

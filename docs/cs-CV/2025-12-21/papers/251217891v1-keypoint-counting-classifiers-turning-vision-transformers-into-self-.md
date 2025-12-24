@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Keypoint Counting Classifiers: Turning Vision Transformers into Self-Explainable Models Without Training
+title: "Keypoint Counting Classifiers: Turning Vision Transformers into Self-Explainable Models Without Training"
 ---
 
 # Keypoint Counting Classifiers: Turning Vision Transformers into Self-Explainable Models Without Training

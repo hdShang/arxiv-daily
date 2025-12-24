@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CapeNext: Rethinking and Refining Dynamic Support Information for Category-Agnostic Pose Estimation
+title: "CapeNext: Rethinking and Refining Dynamic Support Information for Category-Agnostic Pose Estimation"
 ---
 
 # CapeNext: Rethinking and Refining Dynamic Support Information for Category-Agnostic Pose Estimation

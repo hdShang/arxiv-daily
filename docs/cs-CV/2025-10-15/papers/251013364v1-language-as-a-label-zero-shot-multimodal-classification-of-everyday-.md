@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Language as a Label: Zero-Shot Multimodal Classification of Everyday Postures under Data Scarcity
+title: "Language as a Label: Zero-Shot Multimodal Classification of Everyday Postures under Data Scarcity"
 ---
 
 # Language as a Label: Zero-Shot Multimodal Classification of Everyday Postures under Data Scarcity

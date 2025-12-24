@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TreeRPO: Tree Relative Policy Optimization
+title: "TreeRPO: Tree Relative Policy Optimization"
 ---
 
 # TreeRPO: Tree Relative Policy Optimization

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: iMoWM: Taming Interactive Multi-Modal World Model for Robotic Manipulation
+title: "iMoWM: Taming Interactive Multi-Modal World Model for Robotic Manipulation"
 ---
 
 # iMoWM: Taming Interactive Multi-Modal World Model for Robotic Manipulation

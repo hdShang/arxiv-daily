@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TRUST-VL: An Explainable News Assistant for General Multimodal Misinformation Detection
+title: "TRUST-VL: An Explainable News Assistant for General Multimodal Misinformation Detection"
 ---
 
 # TRUST-VL: An Explainable News Assistant for General Multimodal Misinformation Detection

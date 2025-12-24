@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Causal Cartographer: From Mapping to Reasoning Over Counterfactual Worlds
+title: "Causal Cartographer: From Mapping to Reasoning Over Counterfactual Worlds"
 ---
 
 # Causal Cartographer: From Mapping to Reasoning Over Counterfactual Worlds

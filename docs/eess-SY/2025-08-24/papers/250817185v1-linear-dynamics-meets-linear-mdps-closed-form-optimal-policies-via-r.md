@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Linear Dynamics meets Linear MDPs: Closed-Form Optimal Policies via Reinforcement Learning
+title: "Linear Dynamics meets Linear MDPs: Closed-Form Optimal Policies via Reinforcement Learning"
 ---
 
 # Linear Dynamics meets Linear MDPs: Closed-Form Optimal Policies via Reinforcement Learning

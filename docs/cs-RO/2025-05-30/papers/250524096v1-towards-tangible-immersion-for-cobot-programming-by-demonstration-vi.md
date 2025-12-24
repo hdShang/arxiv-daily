@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Tangible Immersion for Cobot Programming-by-Demonstration: Visual, Tactile and Haptic Interfaces for Mixed-Reality Cobot Automation in Semiconductor Manufacturing
+title: "Towards Tangible Immersion for Cobot Programming-by-Demonstration: Visual, Tactile and Haptic Interfaces for Mixed-Reality Cobot Automation in Semiconductor Manufacturing"
 ---
 
 # Towards Tangible Immersion for Cobot Programming-by-Demonstration: Visual, Tactile and Haptic Interfaces for Mixed-Reality Cobot Automation in Semiconductor Manufacturing

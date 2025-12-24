@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HKT: A Biologically Inspired Framework for Modular Hereditary Knowledge Transfer in Neural Networks
+title: "HKT: A Biologically Inspired Framework for Modular Hereditary Knowledge Transfer in Neural Networks"
 ---
 
 # HKT: A Biologically Inspired Framework for Modular Hereditary Knowledge Transfer in Neural Networks

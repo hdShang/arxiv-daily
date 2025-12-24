@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Benefits and Pitfalls of Reinforcement Learning for Language Model Planning: A Theoretical Perspective
+title: "Benefits and Pitfalls of Reinforcement Learning for Language Model Planning: A Theoretical Perspective"
 ---
 
 # Benefits and Pitfalls of Reinforcement Learning for Language Model Planning: A Theoretical Perspective

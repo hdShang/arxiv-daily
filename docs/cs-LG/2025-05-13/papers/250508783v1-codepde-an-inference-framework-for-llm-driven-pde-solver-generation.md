@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CodePDE: An Inference Framework for LLM-driven PDE Solver Generation
+title: "CodePDE: An Inference Framework for LLM-driven PDE Solver Generation"
 ---
 
 # CodePDE: An Inference Framework for LLM-driven PDE Solver Generation

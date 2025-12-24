@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When Alignment Hurts: Decoupling Representational Spaces in Multilingual Models
+title: "When Alignment Hurts: Decoupling Representational Spaces in Multilingual Models"
 ---
 
 # When Alignment Hurts: Decoupling Representational Spaces in Multilingual Models

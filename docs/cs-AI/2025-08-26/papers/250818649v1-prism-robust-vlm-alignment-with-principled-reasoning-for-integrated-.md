@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PRISM: Robust VLM Alignment with Principled Reasoning for Integrated Safety in Multimodality
+title: "PRISM: Robust VLM Alignment with Principled Reasoning for Integrated Safety in Multimodality"
 ---
 
 # PRISM: Robust VLM Alignment with Principled Reasoning for Integrated Safety in Multimodality

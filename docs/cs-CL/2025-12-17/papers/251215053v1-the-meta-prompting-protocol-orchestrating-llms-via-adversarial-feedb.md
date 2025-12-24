@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Meta-Prompting Protocol: Orchestrating LLMs via Adversarial Feedback Loops
+title: "The Meta-Prompting Protocol: Orchestrating LLMs via Adversarial Feedback Loops"
 ---
 
 # The Meta-Prompting Protocol: Orchestrating LLMs via Adversarial Feedback Loops

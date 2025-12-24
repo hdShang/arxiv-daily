@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TROFI: Trajectory-Ranked Offline Inverse Reinforcement Learning
+title: "TROFI: Trajectory-Ranked Offline Inverse Reinforcement Learning"
 ---
 
 # TROFI: Trajectory-Ranked Offline Inverse Reinforcement Learning

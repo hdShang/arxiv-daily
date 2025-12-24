@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Embracing Imperfection: Simulating Students with Diverse Cognitive Levels Using LLM-based Agents
+title: "Embracing Imperfection: Simulating Students with Diverse Cognitive Levels Using LLM-based Agents"
 ---
 
 # Embracing Imperfection: Simulating Students with Diverse Cognitive Levels Using LLM-based Agents

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: World Models for Cognitive Agents: Transforming Edge Intelligence in Future Networks
+title: "World Models for Cognitive Agents: Transforming Edge Intelligence in Future Networks"
 ---
 
 # World Models for Cognitive Agents: Transforming Edge Intelligence in Future Networks

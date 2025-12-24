@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SwiftVGGT: A Scalable Visual Geometry Grounded Transformer for Large-Scale Scenes
+title: "SwiftVGGT: A Scalable Visual Geometry Grounded Transformer for Large-Scale Scenes"
 ---
 
 # SwiftVGGT: A Scalable Visual Geometry Grounded Transformer for Large-Scale Scenes

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multimodal LLMs for Historical Dataset Construction from Archival Image Scans: German Patents (1877-1918)
+title: "Multimodal LLMs for Historical Dataset Construction from Archival Image Scans: German Patents (1877-1918)"
 ---
 
 # Multimodal LLMs for Historical Dataset Construction from Archival Image Scans: German Patents (1877-1918)

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Reliable Code-as-Policies: A Neuro-Symbolic Framework for Embodied Task Planning
+title: "Towards Reliable Code-as-Policies: A Neuro-Symbolic Framework for Embodied Task Planning"
 ---
 
 # Towards Reliable Code-as-Policies: A Neuro-Symbolic Framework for Embodied Task Planning

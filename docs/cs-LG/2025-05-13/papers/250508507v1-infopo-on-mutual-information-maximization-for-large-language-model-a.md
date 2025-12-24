@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InfoPO: On Mutual Information Maximization for Large Language Model Alignment
+title: "InfoPO: On Mutual Information Maximization for Large Language Model Alignment"
 ---
 
 # InfoPO: On Mutual Information Maximization for Large Language Model Alignment

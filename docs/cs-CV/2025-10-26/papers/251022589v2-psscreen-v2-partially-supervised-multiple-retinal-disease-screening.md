@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PSScreen V2: Partially Supervised Multiple Retinal Disease Screening
+title: "PSScreen V2: Partially Supervised Multiple Retinal Disease Screening"
 ---
 
 # PSScreen V2: Partially Supervised Multiple Retinal Disease Screening

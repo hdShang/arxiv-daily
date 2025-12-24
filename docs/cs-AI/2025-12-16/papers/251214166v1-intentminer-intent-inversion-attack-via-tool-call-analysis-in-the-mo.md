@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IntentMiner: Intent Inversion Attack via Tool Call Analysis in the Model Context Protocol
+title: "IntentMiner: Intent Inversion Attack via Tool Call Analysis in the Model Context Protocol"
 ---
 
 # IntentMiner: Intent Inversion Attack via Tool Call Analysis in the Model Context Protocol

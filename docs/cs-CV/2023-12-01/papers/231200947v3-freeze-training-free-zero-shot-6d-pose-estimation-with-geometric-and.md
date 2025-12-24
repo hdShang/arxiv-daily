@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FreeZe: Training-free zero-shot 6D pose estimation with geometric and vision foundation models
+title: "FreeZe: Training-free zero-shot 6D pose estimation with geometric and vision foundation models"
 ---
 
 # FreeZe: Training-free zero-shot 6D pose estimation with geometric and vision foundation models

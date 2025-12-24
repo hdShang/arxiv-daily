@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Knot So Simple: A Minimalistic Environment for Spatial Reasoning
+title: "Knot So Simple: A Minimalistic Environment for Spatial Reasoning"
 ---
 
 # Knot So Simple: A Minimalistic Environment for Spatial Reasoning

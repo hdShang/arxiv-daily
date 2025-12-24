@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SEA: Semantic Map Prediction for Active Exploration of Uncertain Areas
+title: "SEA: Semantic Map Prediction for Active Exploration of Uncertain Areas"
 ---
 
 # SEA: Semantic Map Prediction for Active Exploration of Uncertain Areas

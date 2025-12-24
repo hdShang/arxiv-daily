@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OccVLA: Vision-Language-Action Model with Implicit 3D Occupancy Supervision
+title: "OccVLA: Vision-Language-Action Model with Implicit 3D Occupancy Supervision"
 ---
 
 # OccVLA: Vision-Language-Action Model with Implicit 3D Occupancy Supervision

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EgoEdit: Dataset, Real-Time Streaming Model, and Benchmark for Egocentric Video Editing
+title: "EgoEdit: Dataset, Real-Time Streaming Model, and Benchmark for Egocentric Video Editing"
 ---
 
 # EgoEdit: Dataset, Real-Time Streaming Model, and Benchmark for Egocentric Video Editing

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MotionFlux: Efficient Text-Guided Motion Generation through Rectified Flow Matching and Preference Alignment
+title: "MotionFlux: Efficient Text-Guided Motion Generation through Rectified Flow Matching and Preference Alignment"
 ---
 
 # MotionFlux: Efficient Text-Guided Motion Generation through Rectified Flow Matching and Preference Alignment

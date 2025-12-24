@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning
+title: "Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning"
 ---
 
 # Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning

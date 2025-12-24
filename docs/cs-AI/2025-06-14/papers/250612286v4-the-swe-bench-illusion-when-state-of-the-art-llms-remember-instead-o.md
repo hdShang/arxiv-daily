@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason
+title: "The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason"
 ---
 
 # The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason

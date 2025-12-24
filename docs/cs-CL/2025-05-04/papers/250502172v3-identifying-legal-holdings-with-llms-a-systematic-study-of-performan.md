@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Identifying Legal Holdings with LLMs: A Systematic Study of Performance, Scale, and Memorization
+title: "Identifying Legal Holdings with LLMs: A Systematic Study of Performance, Scale, and Memorization"
 ---
 
 # Identifying Legal Holdings with LLMs: A Systematic Study of Performance, Scale, and Memorization

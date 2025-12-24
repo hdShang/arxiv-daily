@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Corrupted by Reasoning: Reasoning Language Models Become Free-Riders in Public Goods Games
+title: "Corrupted by Reasoning: Reasoning Language Models Become Free-Riders in Public Goods Games"
 ---
 
 # Corrupted by Reasoning: Reasoning Language Models Become Free-Riders in Public Goods Games

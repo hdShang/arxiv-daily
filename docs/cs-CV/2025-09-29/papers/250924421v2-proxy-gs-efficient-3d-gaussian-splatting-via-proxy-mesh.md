@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Proxy-GS: Efficient 3D Gaussian Splatting via Proxy Mesh
+title: "Proxy-GS: Efficient 3D Gaussian Splatting via Proxy Mesh"
 ---
 
 # Proxy-GS: Efficient 3D Gaussian Splatting via Proxy Mesh

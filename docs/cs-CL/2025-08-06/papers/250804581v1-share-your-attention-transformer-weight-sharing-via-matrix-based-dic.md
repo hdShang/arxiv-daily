@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Share Your Attention: Transformer Weight Sharing via Matrix-based Dictionary Learning
+title: "Share Your Attention: Transformer Weight Sharing via Matrix-based Dictionary Learning"
 ---
 
 # Share Your Attention: Transformer Weight Sharing via Matrix-based Dictionary Learning

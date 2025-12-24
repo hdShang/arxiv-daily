@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DreamGen: Unlocking Generalization in Robot Learning through Video World Models
+title: "DreamGen: Unlocking Generalization in Robot Learning through Video World Models"
 ---
 
 # DreamGen: Unlocking Generalization in Robot Learning through Video World Models

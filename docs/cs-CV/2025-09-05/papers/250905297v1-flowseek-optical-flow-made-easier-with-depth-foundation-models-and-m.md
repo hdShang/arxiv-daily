@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FlowSeek: Optical Flow Made Easier with Depth Foundation Models and Motion Bases
+title: "FlowSeek: Optical Flow Made Easier with Depth Foundation Models and Motion Bases"
 ---
 
 # FlowSeek: Optical Flow Made Easier with Depth Foundation Models and Motion Bases

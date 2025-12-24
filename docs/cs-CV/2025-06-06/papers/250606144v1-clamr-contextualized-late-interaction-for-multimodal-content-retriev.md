@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CLaMR: Contextualized Late-Interaction for Multimodal Content Retrieval
+title: "CLaMR: Contextualized Late-Interaction for Multimodal Content Retrieval"
 ---
 
 # CLaMR: Contextualized Late-Interaction for Multimodal Content Retrieval

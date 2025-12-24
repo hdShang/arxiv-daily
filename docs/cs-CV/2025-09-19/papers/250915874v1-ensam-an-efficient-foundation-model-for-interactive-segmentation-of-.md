@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ENSAM: an efficient foundation model for interactive segmentation of 3D medical images
+title: "ENSAM: an efficient foundation model for interactive segmentation of 3D medical images"
 ---
 
 # ENSAM: an efficient foundation model for interactive segmentation of 3D medical images

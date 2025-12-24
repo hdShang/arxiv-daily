@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Manuals and Tasks: Instance-Level Context Learning for LLM Agents
+title: "Beyond Manuals and Tasks: Instance-Level Context Learning for LLM Agents"
 ---
 
 # Beyond Manuals and Tasks: Instance-Level Context Learning for LLM Agents

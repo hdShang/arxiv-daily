@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models
+title: "Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models"
 ---
 
 # Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models

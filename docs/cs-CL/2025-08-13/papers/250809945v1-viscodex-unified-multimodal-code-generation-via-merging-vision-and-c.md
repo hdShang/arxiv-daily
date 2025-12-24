@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VisCodex: Unified Multimodal Code Generation via Merging Vision and Coding Models
+title: "VisCodex: Unified Multimodal Code Generation via Merging Vision and Coding Models"
 ---
 
 # VisCodex: Unified Multimodal Code Generation via Merging Vision and Coding Models

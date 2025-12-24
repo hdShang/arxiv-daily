@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning When to Look: A Disentangled Curriculum for Strategic Perception in Multimodal Reasoning
+title: "Learning When to Look: A Disentangled Curriculum for Strategic Perception in Multimodal Reasoning"
 ---
 
 # Learning When to Look: A Disentangled Curriculum for Strategic Perception in Multimodal Reasoning

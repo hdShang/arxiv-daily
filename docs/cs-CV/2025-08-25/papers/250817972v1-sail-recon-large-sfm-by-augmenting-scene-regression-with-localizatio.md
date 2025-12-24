@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SAIL-Recon: Large SfM by Augmenting Scene Regression with Localization
+title: "SAIL-Recon: Large SfM by Augmenting Scene Regression with Localization"
 ---
 
 # SAIL-Recon: Large SfM by Augmenting Scene Regression with Localization

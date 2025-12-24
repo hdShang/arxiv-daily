@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VISOR++: Universal Visual Inputs based Steering for Large Vision Language Models
+title: "VISOR++: Universal Visual Inputs based Steering for Large Vision Language Models"
 ---
 
 # VISOR++: Universal Visual Inputs based Steering for Large Vision Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OutDreamer: Video Outpainting with a Diffusion Transformer
+title: "OutDreamer: Video Outpainting with a Diffusion Transformer"
 ---
 
 # OutDreamer: Video Outpainting with a Diffusion Transformer

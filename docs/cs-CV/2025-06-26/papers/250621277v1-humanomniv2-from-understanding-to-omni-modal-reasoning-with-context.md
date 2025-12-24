@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HumanOmniV2: From Understanding to Omni-Modal Reasoning with Context
+title: "HumanOmniV2: From Understanding to Omni-Modal Reasoning with Context"
 ---
 
 # HumanOmniV2: From Understanding to Omni-Modal Reasoning with Context

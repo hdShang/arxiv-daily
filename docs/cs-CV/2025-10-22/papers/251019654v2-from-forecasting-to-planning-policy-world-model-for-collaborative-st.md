@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Forecasting to Planning: Policy World Model for Collaborative State-Action Prediction
+title: "From Forecasting to Planning: Policy World Model for Collaborative State-Action Prediction"
 ---
 
 # From Forecasting to Planning: Policy World Model for Collaborative State-Action Prediction

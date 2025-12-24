@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Dual-Axis Taxonomy of Knowledge Editing for LLMs: From Mechanisms to Functions
+title: "A Dual-Axis Taxonomy of Knowledge Editing for LLMs: From Mechanisms to Functions"
 ---
 
 # A Dual-Axis Taxonomy of Knowledge Editing for LLMs: From Mechanisms to Functions

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SceneCOT: Eliciting Grounded Chain-of-Thought Reasoning in 3D Scenes
+title: "SceneCOT: Eliciting Grounded Chain-of-Thought Reasoning in 3D Scenes"
 ---
 
 # SceneCOT: Eliciting Grounded Chain-of-Thought Reasoning in 3D Scenes

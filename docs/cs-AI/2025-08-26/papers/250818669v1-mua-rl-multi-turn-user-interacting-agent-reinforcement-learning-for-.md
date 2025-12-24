@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MUA-RL: Multi-turn User-interacting Agent Reinforcement Learning for agentic tool use
+title: "MUA-RL: Multi-turn User-interacting Agent Reinforcement Learning for agentic tool use"
 ---
 
 # MUA-RL: Multi-turn User-interacting Agent Reinforcement Learning for agentic tool use

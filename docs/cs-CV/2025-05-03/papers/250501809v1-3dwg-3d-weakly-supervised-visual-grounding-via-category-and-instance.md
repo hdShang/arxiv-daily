@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3DWG: 3D Weakly Supervised Visual Grounding via Category and Instance-Level Alignment
+title: "3DWG: 3D Weakly Supervised Visual Grounding via Category and Instance-Level Alignment"
 ---
 
 # 3DWG: 3D Weakly Supervised Visual Grounding via Category and Instance-Level Alignment

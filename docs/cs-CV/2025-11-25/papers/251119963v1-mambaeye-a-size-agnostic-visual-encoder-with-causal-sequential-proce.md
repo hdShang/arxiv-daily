@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MambaEye: A Size-Agnostic Visual Encoder with Causal Sequential Processing
+title: "MambaEye: A Size-Agnostic Visual Encoder with Causal Sequential Processing"
 ---
 
 # MambaEye: A Size-Agnostic Visual Encoder with Causal Sequential Processing

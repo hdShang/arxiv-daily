@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MAVIS: Multi-Objective Alignment via Value-Guided Inference-Time Search
+title: "MAVIS: Multi-Objective Alignment via Value-Guided Inference-Time Search"
 ---
 
 # MAVIS: Multi-Objective Alignment via Value-Guided Inference-Time Search

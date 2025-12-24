@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AgentIAD: Tool-Augmented Single-Agent for Industrial Anomaly Detection
+title: "AgentIAD: Tool-Augmented Single-Agent for Industrial Anomaly Detection"
 ---
 
 # AgentIAD: Tool-Augmented Single-Agent for Industrial Anomaly Detection

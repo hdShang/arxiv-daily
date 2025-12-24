@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Robot Control Stack: A Lean Ecosystem for Robot Learning at Scale
+title: "Robot Control Stack: A Lean Ecosystem for Robot Learning at Scale"
 ---
 
 # Robot Control Stack: A Lean Ecosystem for Robot Learning at Scale

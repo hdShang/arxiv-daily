@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WXImpactBench: A Disruptive Weather Impact Understanding Benchmark for Evaluating Large Language Models
+title: "WXImpactBench: A Disruptive Weather Impact Understanding Benchmark for Evaluating Large Language Models"
 ---
 
 # WXImpactBench: A Disruptive Weather Impact Understanding Benchmark for Evaluating Large Language Models

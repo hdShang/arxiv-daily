@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TransLocNet: Cross-Modal Attention for Aerial-Ground Vehicle Localization with Contrastive Learning
+title: "TransLocNet: Cross-Modal Attention for Aerial-Ground Vehicle Localization with Contrastive Learning"
 ---
 
 # TransLocNet: Cross-Modal Attention for Aerial-Ground Vehicle Localization with Contrastive Learning

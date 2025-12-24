@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NEURAL: Attention-Guided Pruning for Unified Multimodal Resource-Constrained Clinical Evaluation
+title: "NEURAL: Attention-Guided Pruning for Unified Multimodal Resource-Constrained Clinical Evaluation"
 ---
 
 # NEURAL: Attention-Guided Pruning for Unified Multimodal Resource-Constrained Clinical Evaluation

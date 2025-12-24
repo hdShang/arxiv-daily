@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multi-level Collaborative Distillation Meets Global Workspace Model: A Unified Framework for OCIL
+title: "Multi-level Collaborative Distillation Meets Global Workspace Model: A Unified Framework for OCIL"
 ---
 
 # Multi-level Collaborative Distillation Meets Global Workspace Model: A Unified Framework for OCIL

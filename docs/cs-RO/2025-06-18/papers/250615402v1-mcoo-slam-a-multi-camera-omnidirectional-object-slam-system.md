@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MCOO-SLAM: A Multi-Camera Omnidirectional Object SLAM System
+title: "MCOO-SLAM: A Multi-Camera Omnidirectional Object SLAM System"
 ---
 
 # MCOO-SLAM: A Multi-Camera Omnidirectional Object SLAM System

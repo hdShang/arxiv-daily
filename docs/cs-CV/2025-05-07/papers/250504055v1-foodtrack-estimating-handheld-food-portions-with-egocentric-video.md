@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FoodTrack: Estimating Handheld Food Portions with Egocentric Video
+title: "FoodTrack: Estimating Handheld Food Portions with Egocentric Video"
 ---
 
 # FoodTrack: Estimating Handheld Food Portions with Egocentric Video

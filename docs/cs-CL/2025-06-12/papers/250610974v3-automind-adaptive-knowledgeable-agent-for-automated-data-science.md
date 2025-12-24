@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AutoMind: Adaptive Knowledgeable Agent for Automated Data Science
+title: "AutoMind: Adaptive Knowledgeable Agent for Automated Data Science"
 ---
 
 # AutoMind: Adaptive Knowledgeable Agent for Automated Data Science

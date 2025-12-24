@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SIV-Bench: A Video Benchmark for Social Interaction Understanding and Reasoning
+title: "SIV-Bench: A Video Benchmark for Social Interaction Understanding and Reasoning"
 ---
 
 # SIV-Bench: A Video Benchmark for Social Interaction Understanding and Reasoning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: One2Any: One-Reference 6D Pose Estimation for Any Object
+title: "One2Any: One-Reference 6D Pose Estimation for Any Object"
 ---
 
 # One2Any: One-Reference 6D Pose Estimation for Any Object

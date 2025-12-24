@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SDPO: Importance-Sampled Direct Preference Optimization for Stable Diffusion Training
+title: "SDPO: Importance-Sampled Direct Preference Optimization for Stable Diffusion Training"
 ---
 
 # SDPO: Importance-Sampled Direct Preference Optimization for Stable Diffusion Training

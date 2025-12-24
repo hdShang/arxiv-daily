@@ -1,6 +1,6 @@
 ---
 layout: default
-title: P4OMP: Retrieval-Augmented Prompting for OpenMP Parallelism in Serial Code
+title: "P4OMP: Retrieval-Augmented Prompting for OpenMP Parallelism in Serial Code"
 ---
 
 # P4OMP: Retrieval-Augmented Prompting for OpenMP Parallelism in Serial Code

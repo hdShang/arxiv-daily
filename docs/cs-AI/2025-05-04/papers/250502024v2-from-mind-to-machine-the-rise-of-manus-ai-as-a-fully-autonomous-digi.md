@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Mind to Machine: The Rise of Manus AI as a Fully Autonomous Digital Agent
+title: "From Mind to Machine: The Rise of Manus AI as a Fully Autonomous Digital Agent"
 ---
 
 # From Mind to Machine: The Rise of Manus AI as a Fully Autonomous Digital Agent

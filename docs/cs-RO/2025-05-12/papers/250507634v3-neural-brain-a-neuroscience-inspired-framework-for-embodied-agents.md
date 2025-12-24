@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Neural Brain: A Neuroscience-inspired Framework for Embodied Agents
+title: "Neural Brain: A Neuroscience-inspired Framework for Embodied Agents"
 ---
 
 # Neural Brain: A Neuroscience-inspired Framework for Embodied Agents

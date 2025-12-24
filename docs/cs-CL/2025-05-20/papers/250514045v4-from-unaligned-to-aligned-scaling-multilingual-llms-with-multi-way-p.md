@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Unaligned to Aligned: Scaling Multilingual LLMs with Multi-Way Parallel Corpora
+title: "From Unaligned to Aligned: Scaling Multilingual LLMs with Multi-Way Parallel Corpora"
 ---
 
 # From Unaligned to Aligned: Scaling Multilingual LLMs with Multi-Way Parallel Corpora

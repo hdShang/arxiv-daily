@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UGround: Towards Unified Visual Grounding with Unrolled Transformers
+title: "UGround: Towards Unified Visual Grounding with Unrolled Transformers"
 ---
 
 # UGround: Towards Unified Visual Grounding with Unrolled Transformers

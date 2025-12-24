@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Echo State Transformer: Attention Over Finite Memories
+title: "Echo State Transformer: Attention Over Finite Memories"
 ---
 
 # Echo State Transformer: Attention Over Finite Memories

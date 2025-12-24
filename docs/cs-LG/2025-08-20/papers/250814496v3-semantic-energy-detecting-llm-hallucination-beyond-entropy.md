@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Semantic Energy: Detecting LLM Hallucination Beyond Entropy
+title: "Semantic Energy: Detecting LLM Hallucination Beyond Entropy"
 ---
 
 # Semantic Energy: Detecting LLM Hallucination Beyond Entropy

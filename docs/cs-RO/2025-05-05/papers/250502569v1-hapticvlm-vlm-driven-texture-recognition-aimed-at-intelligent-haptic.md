@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HapticVLM: VLM-Driven Texture Recognition Aimed at Intelligent Haptic Interaction
+title: "HapticVLM: VLM-Driven Texture Recognition Aimed at Intelligent Haptic Interaction"
 ---
 
 # HapticVLM: VLM-Driven Texture Recognition Aimed at Intelligent Haptic Interaction

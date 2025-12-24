@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Photons to Physics: Autonomous Indoor Drones and the Future of Objective Property Assessment
+title: "From Photons to Physics: Autonomous Indoor Drones and the Future of Objective Property Assessment"
 ---
 
 # From Photons to Physics: Autonomous Indoor Drones and the Future of Objective Property Assessment

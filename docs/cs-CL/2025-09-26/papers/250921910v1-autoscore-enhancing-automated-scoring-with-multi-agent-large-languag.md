@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AutoSCORE: Enhancing Automated Scoring with Multi-Agent Large Language Models via Structured Component Recognition
+title: "AutoSCORE: Enhancing Automated Scoring with Multi-Agent Large Language Models via Structured Component Recognition"
 ---
 
 # AutoSCORE: Enhancing Automated Scoring with Multi-Agent Large Language Models via Structured Component Recognition

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HiVA: Self-organized Hierarchical Variable Agent via Goal-driven Semantic-Topological Evolution
+title: "HiVA: Self-organized Hierarchical Variable Agent via Goal-driven Semantic-Topological Evolution"
 ---
 
 # HiVA: Self-organized Hierarchical Variable Agent via Goal-driven Semantic-Topological Evolution

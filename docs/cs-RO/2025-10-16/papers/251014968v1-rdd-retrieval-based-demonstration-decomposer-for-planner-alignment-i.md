@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RDD: Retrieval-Based Demonstration Decomposer for Planner Alignment in Long-Horizon Tasks
+title: "RDD: Retrieval-Based Demonstration Decomposer for Planner Alignment in Long-Horizon Tasks"
 ---
 
 # RDD: Retrieval-Based Demonstration Decomposer for Planner Alignment in Long-Horizon Tasks

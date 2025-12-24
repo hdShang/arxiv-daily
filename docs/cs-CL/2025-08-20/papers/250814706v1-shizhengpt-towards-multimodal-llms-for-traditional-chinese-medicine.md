@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ShizhenGPT: Towards Multimodal LLMs for Traditional Chinese Medicine
+title: "ShizhenGPT: Towards Multimodal LLMs for Traditional Chinese Medicine"
 ---
 
 # ShizhenGPT: Towards Multimodal LLMs for Traditional Chinese Medicine

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DialectGen: Benchmarking and Improving Dialect Robustness in Multimodal Generation
+title: "DialectGen: Benchmarking and Improving Dialect Robustness in Multimodal Generation"
 ---
 
 # DialectGen: Benchmarking and Improving Dialect Robustness in Multimodal Generation

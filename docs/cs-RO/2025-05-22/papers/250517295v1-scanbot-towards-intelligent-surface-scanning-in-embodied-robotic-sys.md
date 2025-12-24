@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ScanBot: Towards Intelligent Surface Scanning in Embodied Robotic Systems
+title: "ScanBot: Towards Intelligent Surface Scanning in Embodied Robotic Systems"
 ---
 
 # ScanBot: Towards Intelligent Surface Scanning in Embodied Robotic Systems

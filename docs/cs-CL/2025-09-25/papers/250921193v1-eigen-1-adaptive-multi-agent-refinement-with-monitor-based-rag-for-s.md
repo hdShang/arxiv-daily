@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Eigen-1: Adaptive Multi-Agent Refinement with Monitor-Based RAG for Scientific Reasoning
+title: "Eigen-1: Adaptive Multi-Agent Refinement with Monitor-Based RAG for Scientific Reasoning"
 ---
 
 # Eigen-1: Adaptive Multi-Agent Refinement with Monitor-Based RAG for Scientific Reasoning

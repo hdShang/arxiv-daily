@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning
+title: "SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning"
 ---
 
 # SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning

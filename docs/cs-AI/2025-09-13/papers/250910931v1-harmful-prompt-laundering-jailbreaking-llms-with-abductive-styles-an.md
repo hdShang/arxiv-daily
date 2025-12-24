@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Harmful Prompt Laundering: Jailbreaking LLMs with Abductive Styles and Symbolic Encoding
+title: "Harmful Prompt Laundering: Jailbreaking LLMs with Abductive Styles and Symbolic Encoding"
 ---
 
 # Harmful Prompt Laundering: Jailbreaking LLMs with Abductive Styles and Symbolic Encoding

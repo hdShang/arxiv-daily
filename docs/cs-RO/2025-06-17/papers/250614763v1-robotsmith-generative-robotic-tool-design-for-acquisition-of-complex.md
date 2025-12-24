@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills
+title: "RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills"
 ---
 
 # RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills

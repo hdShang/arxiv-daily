@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ImplicitRDP: An End-to-End Visual-Force Diffusion Policy with Structural Slow-Fast Learning
+title: "ImplicitRDP: An End-to-End Visual-Force Diffusion Policy with Structural Slow-Fast Learning"
 ---
 
 # ImplicitRDP: An End-to-End Visual-Force Diffusion Policy with Structural Slow-Fast Learning

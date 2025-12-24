@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BAgger: Backwards Aggregation for Mitigating Drift in Autoregressive Video Diffusion Models
+title: "BAgger: Backwards Aggregation for Mitigating Drift in Autoregressive Video Diffusion Models"
 ---
 
 # BAgger: Backwards Aggregation for Mitigating Drift in Autoregressive Video Diffusion Models

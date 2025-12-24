@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MedSeg-R: Reasoning Segmentation in Medical Images with Multimodal Large Language Models
+title: "MedSeg-R: Reasoning Segmentation in Medical Images with Multimodal Large Language Models"
 ---
 
 # MedSeg-R: Reasoning Segmentation in Medical Images with Multimodal Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EDEN: Entorhinal Driven Egocentric Navigation Toward Robotic Deployment
+title: "EDEN: Entorhinal Driven Egocentric Navigation Toward Robotic Deployment"
 ---
 
 # EDEN: Entorhinal Driven Egocentric Navigation Toward Robotic Deployment

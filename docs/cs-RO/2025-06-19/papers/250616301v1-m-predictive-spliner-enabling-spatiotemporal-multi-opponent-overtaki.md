@@ -1,6 +1,6 @@
 ---
 layout: default
-title: M-Predictive Spliner: Enabling Spatiotemporal Multi-Opponent Overtaking for Autonomous Racing
+title: "M-Predictive Spliner: Enabling Spatiotemporal Multi-Opponent Overtaking for Autonomous Racing"
 ---
 
 # M-Predictive Spliner: Enabling Spatiotemporal Multi-Opponent Overtaking for Autonomous Racing

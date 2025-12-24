@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DocSpiral: A Platform for Integrated Assistive Document Annotation through Human-in-the-Spiral
+title: "DocSpiral: A Platform for Integrated Assistive Document Annotation through Human-in-the-Spiral"
 ---
 
 # DocSpiral: A Platform for Integrated Assistive Document Annotation through Human-in-the-Spiral

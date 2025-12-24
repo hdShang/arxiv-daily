@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ASAP-MO:Advanced Situational Awareness and Perception for Mission-critical Operations
+title: "ASAP-MO:Advanced Situational Awareness and Perception for Mission-critical Operations"
 ---
 
 # ASAP-MO:Advanced Situational Awareness and Perception for Mission-critical Operations

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vision-Aided Online A* Path Planning for Efficient and Safe Navigation of Service Robots
+title: "Vision-Aided Online A* Path Planning for Efficient and Safe Navigation of Service Robots"
 ---
 
 # Vision-Aided Online A* Path Planning for Efficient and Safe Navigation of Service Robots

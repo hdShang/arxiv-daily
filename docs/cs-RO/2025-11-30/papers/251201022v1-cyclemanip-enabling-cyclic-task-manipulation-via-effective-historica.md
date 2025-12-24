@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CycleManip: Enabling Cyclic Task Manipulation via Effective Historical Perception and Understanding
+title: "CycleManip: Enabling Cyclic Task Manipulation via Effective Historical Perception and Understanding"
 ---
 
 # CycleManip: Enabling Cyclic Task Manipulation via Effective Historical Perception and Understanding

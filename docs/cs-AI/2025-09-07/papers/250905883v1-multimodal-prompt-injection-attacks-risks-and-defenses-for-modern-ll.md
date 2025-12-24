@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multimodal Prompt Injection Attacks: Risks and Defenses for Modern LLMs
+title: "Multimodal Prompt Injection Attacks: Risks and Defenses for Modern LLMs"
 ---
 
 # Multimodal Prompt Injection Attacks: Risks and Defenses for Modern LLMs

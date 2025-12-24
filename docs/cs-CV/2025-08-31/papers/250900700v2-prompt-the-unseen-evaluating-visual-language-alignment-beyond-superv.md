@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prompt the Unseen: Evaluating Visual-Language Alignment Beyond Supervision
+title: "Prompt the Unseen: Evaluating Visual-Language Alignment Beyond Supervision"
 ---
 
 # Prompt the Unseen: Evaluating Visual-Language Alignment Beyond Supervision

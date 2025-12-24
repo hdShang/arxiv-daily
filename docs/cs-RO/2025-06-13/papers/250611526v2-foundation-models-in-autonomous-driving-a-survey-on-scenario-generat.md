@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis
+title: "Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis"
 ---
 
 # Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: G3Splat: Geometrically Consistent Generalizable Gaussian Splatting
+title: "G3Splat: Geometrically Consistent Generalizable Gaussian Splatting"
 ---
 
 # G3Splat: Geometrically Consistent Generalizable Gaussian Splatting

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AMoE: Agglomerative Mixture-of-Experts Vision Foundation Model
+title: "AMoE: Agglomerative Mixture-of-Experts Vision Foundation Model"
 ---
 
 # AMoE: Agglomerative Mixture-of-Experts Vision Foundation Model

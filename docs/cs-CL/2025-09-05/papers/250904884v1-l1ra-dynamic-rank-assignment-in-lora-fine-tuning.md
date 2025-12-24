@@ -1,6 +1,6 @@
 ---
 layout: default
-title: L1RA: Dynamic Rank Assignment in LoRA Fine-Tuning
+title: "L1RA: Dynamic Rank Assignment in LoRA Fine-Tuning"
 ---
 
 # L1RA: Dynamic Rank Assignment in LoRA Fine-Tuning

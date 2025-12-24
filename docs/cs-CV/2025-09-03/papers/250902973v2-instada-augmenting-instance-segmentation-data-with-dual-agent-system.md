@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InstaDA: Augmenting Instance Segmentation Data with Dual-Agent System
+title: "InstaDA: Augmenting Instance Segmentation Data with Dual-Agent System"
 ---
 
 # InstaDA: Augmenting Instance Segmentation Data with Dual-Agent System

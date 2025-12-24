@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ODYSSEY: Open-World Quadrupeds Exploration and Manipulation for Long-Horizon Tasks
+title: "ODYSSEY: Open-World Quadrupeds Exploration and Manipulation for Long-Horizon Tasks"
 ---
 
 # ODYSSEY: Open-World Quadrupeds Exploration and Manipulation for Long-Horizon Tasks

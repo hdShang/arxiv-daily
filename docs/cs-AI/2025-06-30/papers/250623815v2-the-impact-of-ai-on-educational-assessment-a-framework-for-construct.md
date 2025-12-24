@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Impact of AI on Educational Assessment: A Framework for Constructive Alignment
+title: "The Impact of AI on Educational Assessment: A Framework for Constructive Alignment"
 ---
 
 # The Impact of AI on Educational Assessment: A Framework for Constructive Alignment

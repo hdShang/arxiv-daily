@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection
+title: "Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection"
 ---
 
 # Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection

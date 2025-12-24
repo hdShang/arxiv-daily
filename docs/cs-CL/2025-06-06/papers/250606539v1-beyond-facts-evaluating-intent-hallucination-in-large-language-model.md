@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Facts: Evaluating Intent Hallucination in Large Language Models
+title: "Beyond Facts: Evaluating Intent Hallucination in Large Language Models"
 ---
 
 # Beyond Facts: Evaluating Intent Hallucination in Large Language Models

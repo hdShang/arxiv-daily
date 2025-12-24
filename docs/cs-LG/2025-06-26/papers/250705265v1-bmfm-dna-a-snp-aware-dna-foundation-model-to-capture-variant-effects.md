@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BMFM-DNA: A SNP-aware DNA foundation model to capture variant effects
+title: "BMFM-DNA: A SNP-aware DNA foundation model to capture variant effects"
 ---
 
 # BMFM-DNA: A SNP-aware DNA foundation model to capture variant effects

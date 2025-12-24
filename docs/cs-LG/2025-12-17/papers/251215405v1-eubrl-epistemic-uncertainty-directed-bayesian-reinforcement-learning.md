@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EUBRL: Epistemic Uncertainty Directed Bayesian Reinforcement Learning
+title: "EUBRL: Epistemic Uncertainty Directed Bayesian Reinforcement Learning"
 ---
 
 # EUBRL: Epistemic Uncertainty Directed Bayesian Reinforcement Learning

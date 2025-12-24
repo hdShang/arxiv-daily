@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Language to Action: A Review of Large Language Models as Autonomous Agents and Tool Users
+title: "From Language to Action: A Review of Large Language Models as Autonomous Agents and Tool Users"
 ---
 
 # From Language to Action: A Review of Large Language Models as Autonomous Agents and Tool Users

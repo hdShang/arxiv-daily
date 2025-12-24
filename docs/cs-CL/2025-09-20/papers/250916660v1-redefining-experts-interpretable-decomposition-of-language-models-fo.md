@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Redefining Experts: Interpretable Decomposition of Language Models for Toxicity Mitigation
+title: "Redefining Experts: Interpretable Decomposition of Language Models for Toxicity Mitigation"
 ---
 
 # Redefining Experts: Interpretable Decomposition of Language Models for Toxicity Mitigation

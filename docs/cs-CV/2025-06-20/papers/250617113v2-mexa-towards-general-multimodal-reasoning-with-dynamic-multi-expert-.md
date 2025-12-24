@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MEXA: Towards General Multimodal Reasoning with Dynamic Multi-Expert Aggregation
+title: "MEXA: Towards General Multimodal Reasoning with Dynamic Multi-Expert Aggregation"
 ---
 
 # MEXA: Towards General Multimodal Reasoning with Dynamic Multi-Expert Aggregation

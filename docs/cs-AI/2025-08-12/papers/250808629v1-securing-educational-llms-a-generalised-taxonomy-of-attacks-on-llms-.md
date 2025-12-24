@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Securing Educational LLMs: A Generalised Taxonomy of Attacks on LLMs and DREAD Risk Assessment
+title: "Securing Educational LLMs: A Generalised Taxonomy of Attacks on LLMs and DREAD Risk Assessment"
 ---
 
 # Securing Educational LLMs: A Generalised Taxonomy of Attacks on LLMs and DREAD Risk Assessment

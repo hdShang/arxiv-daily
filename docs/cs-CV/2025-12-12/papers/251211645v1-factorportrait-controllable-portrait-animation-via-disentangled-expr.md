@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FactorPortrait: Controllable Portrait Animation via Disentangled Expression, Pose, and Viewpoint
+title: "FactorPortrait: Controllable Portrait Animation via Disentangled Expression, Pose, and Viewpoint"
 ---
 
 # FactorPortrait: Controllable Portrait Animation via Disentangled Expression, Pose, and Viewpoint

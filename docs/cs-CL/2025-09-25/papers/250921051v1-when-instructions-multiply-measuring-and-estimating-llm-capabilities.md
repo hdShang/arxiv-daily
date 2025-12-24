@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When Instructions Multiply: Measuring and Estimating LLM Capabilities of Multiple Instructions Following
+title: "When Instructions Multiply: Measuring and Estimating LLM Capabilities of Multiple Instructions Following"
 ---
 
 # When Instructions Multiply: Measuring and Estimating LLM Capabilities of Multiple Instructions Following

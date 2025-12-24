@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ConfTuner: Training Large Language Models to Express Their Confidence Verbally
+title: "ConfTuner: Training Large Language Models to Express Their Confidence Verbally"
 ---
 
 # ConfTuner: Training Large Language Models to Express Their Confidence Verbally

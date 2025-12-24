@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Loop closure grasping: Topological transformations enable strong, gentle, and versatile grasps
+title: "Loop closure grasping: Topological transformations enable strong, gentle, and versatile grasps"
 ---
 
 # Loop closure grasping: Topological transformations enable strong, gentle, and versatile grasps

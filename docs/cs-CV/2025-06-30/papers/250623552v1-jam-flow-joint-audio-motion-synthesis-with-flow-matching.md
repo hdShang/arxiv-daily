@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JAM-Flow: Joint Audio-Motion Synthesis with Flow Matching
+title: "JAM-Flow: Joint Audio-Motion Synthesis with Flow Matching"
 ---
 
 # JAM-Flow: Joint Audio-Motion Synthesis with Flow Matching

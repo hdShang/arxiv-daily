@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Survey: Multi-Armed Bandits Meet Large Language Models
+title: "Survey: Multi-Armed Bandits Meet Large Language Models"
 ---
 
 # Survey: Multi-Armed Bandits Meet Large Language Models

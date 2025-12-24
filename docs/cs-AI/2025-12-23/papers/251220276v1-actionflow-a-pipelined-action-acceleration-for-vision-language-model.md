@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ActionFlow: A Pipelined Action Acceleration for Vision Language Models on Edge
+title: "ActionFlow: A Pipelined Action Acceleration for Vision Language Models on Edge"
 ---
 
 # ActionFlow: A Pipelined Action Acceleration for Vision Language Models on Edge

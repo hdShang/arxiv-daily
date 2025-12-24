@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Color Me Correctly: Bridging Perceptual Color Spaces and Text Embeddings for Improved Diffusion Generation
+title: "Color Me Correctly: Bridging Perceptual Color Spaces and Text Embeddings for Improved Diffusion Generation"
 ---
 
 # Color Me Correctly: Bridging Perceptual Color Spaces and Text Embeddings for Improved Diffusion Generation

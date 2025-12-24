@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RealRep: Generalized SDR-to-HDR Conversion via Attribute-Disentangled Representation Learning
+title: "RealRep: Generalized SDR-to-HDR Conversion via Attribute-Disentangled Representation Learning"
 ---
 
 # RealRep: Generalized SDR-to-HDR Conversion via Attribute-Disentangled Representation Learning

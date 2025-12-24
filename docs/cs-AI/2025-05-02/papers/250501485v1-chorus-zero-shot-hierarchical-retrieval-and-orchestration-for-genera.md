@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CHORUS: Zero-shot Hierarchical Retrieval and Orchestration for Generating Linear Programming Code
+title: "CHORUS: Zero-shot Hierarchical Retrieval and Orchestration for Generating Linear Programming Code"
 ---
 
 # CHORUS: Zero-shot Hierarchical Retrieval and Orchestration for Generating Linear Programming Code

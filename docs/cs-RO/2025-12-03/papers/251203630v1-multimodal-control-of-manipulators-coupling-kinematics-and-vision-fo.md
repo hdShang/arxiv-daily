@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multimodal Control of Manipulators: Coupling Kinematics and Vision for Self-Driving Laboratory Operations
+title: "Multimodal Control of Manipulators: Coupling Kinematics and Vision for Self-Driving Laboratory Operations"
 ---
 
 # Multimodal Control of Manipulators: Coupling Kinematics and Vision for Self-Driving Laboratory Operations

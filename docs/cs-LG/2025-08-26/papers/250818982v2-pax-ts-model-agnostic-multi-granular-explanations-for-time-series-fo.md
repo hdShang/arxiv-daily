@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PAX-TS: Model-agnostic multi-granular explanations for time series forecasting via localized perturbations
+title: "PAX-TS: Model-agnostic multi-granular explanations for time series forecasting via localized perturbations"
 ---
 
 # PAX-TS: Model-agnostic multi-granular explanations for time series forecasting via localized perturbations

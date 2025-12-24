@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scalability Matters: Overcoming Challenges in InstructGLM with Similarity-Degree-Based Sampling
+title: "Scalability Matters: Overcoming Challenges in InstructGLM with Similarity-Degree-Based Sampling"
 ---
 
 # Scalability Matters: Overcoming Challenges in InstructGLM with Similarity-Degree-Based Sampling

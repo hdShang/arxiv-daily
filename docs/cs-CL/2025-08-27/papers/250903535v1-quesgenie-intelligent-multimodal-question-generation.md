@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QuesGenie: Intelligent Multimodal Question Generation
+title: "QuesGenie: Intelligent Multimodal Question Generation"
 ---
 
 # QuesGenie: Intelligent Multimodal Question Generation

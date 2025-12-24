@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GTPO: Stabilizing Group Relative Policy Optimization via Gradient and Entropy Control
+title: "GTPO: Stabilizing Group Relative Policy Optimization via Gradient and Entropy Control"
 ---
 
 # GTPO: Stabilizing Group Relative Policy Optimization via Gradient and Entropy Control

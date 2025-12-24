@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SurgLaVi: Large-Scale Hierarchical Dataset for Surgical Vision-Language Representation Learning
+title: "SurgLaVi: Large-Scale Hierarchical Dataset for Surgical Vision-Language Representation Learning"
 ---
 
 # SurgLaVi: Large-Scale Hierarchical Dataset for Surgical Vision-Language Representation Learning

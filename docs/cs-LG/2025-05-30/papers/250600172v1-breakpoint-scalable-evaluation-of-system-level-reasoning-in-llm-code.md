@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Breakpoint: Scalable evaluation of system-level reasoning in LLM code agents
+title: "Breakpoint: Scalable evaluation of system-level reasoning in LLM code agents"
 ---
 
 # Breakpoint: Scalable evaluation of system-level reasoning in LLM code agents

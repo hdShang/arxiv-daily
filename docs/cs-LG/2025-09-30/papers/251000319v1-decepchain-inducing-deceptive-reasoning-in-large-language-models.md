@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DecepChain: Inducing Deceptive Reasoning in Large Language Models
+title: "DecepChain: Inducing Deceptive Reasoning in Large Language Models"
 ---
 
 # DecepChain: Inducing Deceptive Reasoning in Large Language Models

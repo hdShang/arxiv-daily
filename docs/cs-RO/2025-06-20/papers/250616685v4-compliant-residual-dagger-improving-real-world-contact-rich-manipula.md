@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections
+title: "Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections"
 ---
 
 # Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Faithful Contouring: Near-Lossless 3D Voxel Representation Free from Iso-surface
+title: "Faithful Contouring: Near-Lossless 3D Voxel Representation Free from Iso-surface"
 ---
 
 # Faithful Contouring: Near-Lossless 3D Voxel Representation Free from Iso-surface

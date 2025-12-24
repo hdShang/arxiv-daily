@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PruneCD: Contrasting Pruned Self Model to Improve Decoding Factuality
+title: "PruneCD: Contrasting Pruned Self Model to Improve Decoding Factuality"
 ---
 
 # PruneCD: Contrasting Pruned Self Model to Improve Decoding Factuality

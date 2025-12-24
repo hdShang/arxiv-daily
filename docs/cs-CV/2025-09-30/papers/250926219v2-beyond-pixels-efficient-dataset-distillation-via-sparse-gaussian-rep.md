@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Pixels: Efficient Dataset Distillation via Sparse Gaussian Representation
+title: "Beyond Pixels: Efficient Dataset Distillation via Sparse Gaussian Representation"
 ---
 
 # Beyond Pixels: Efficient Dataset Distillation via Sparse Gaussian Representation

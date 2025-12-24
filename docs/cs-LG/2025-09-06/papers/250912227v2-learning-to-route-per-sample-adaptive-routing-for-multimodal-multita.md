@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning to Route: Per-Sample Adaptive Routing for Multimodal Multitask Prediction
+title: "Learning to Route: Per-Sample Adaptive Routing for Multimodal Multitask Prediction"
 ---
 
 # Learning to Route: Per-Sample Adaptive Routing for Multimodal Multitask Prediction

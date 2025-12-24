@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SPEC-RL: Accelerating On-Policy Reinforcement Learning via Speculative Rollouts
+title: "SPEC-RL: Accelerating On-Policy Reinforcement Learning via Speculative Rollouts"
 ---
 
 # SPEC-RL: Accelerating On-Policy Reinforcement Learning via Speculative Rollouts

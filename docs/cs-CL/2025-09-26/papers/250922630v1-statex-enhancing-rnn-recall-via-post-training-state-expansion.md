@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StateX: Enhancing RNN Recall via Post-training State Expansion
+title: "StateX: Enhancing RNN Recall via Post-training State Expansion"
 ---
 
 # StateX: Enhancing RNN Recall via Post-training State Expansion

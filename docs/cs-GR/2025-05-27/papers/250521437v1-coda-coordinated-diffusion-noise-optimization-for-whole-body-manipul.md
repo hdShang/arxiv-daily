@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoDA: Coordinated Diffusion Noise Optimization for Whole-Body Manipulation of Articulated Objects
+title: "CoDA: Coordinated Diffusion Noise Optimization for Whole-Body Manipulation of Articulated Objects"
 ---
 
 # CoDA: Coordinated Diffusion Noise Optimization for Whole-Body Manipulation of Articulated Objects

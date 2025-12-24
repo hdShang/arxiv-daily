@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ManiDP: Manipulability-Aware Diffusion Policy for Posture-Dependent Bimanual Manipulation
+title: "ManiDP: Manipulability-Aware Diffusion Policy for Posture-Dependent Bimanual Manipulation"
 ---
 
 # ManiDP: Manipulability-Aware Diffusion Policy for Posture-Dependent Bimanual Manipulation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thinking Before You Speak: A Proactive Test-time Scaling Approach
+title: "Thinking Before You Speak: A Proactive Test-time Scaling Approach"
 ---
 
 # Thinking Before You Speak: A Proactive Test-time Scaling Approach

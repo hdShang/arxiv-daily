@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control
+title: "WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control"
 ---
 
 # WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control

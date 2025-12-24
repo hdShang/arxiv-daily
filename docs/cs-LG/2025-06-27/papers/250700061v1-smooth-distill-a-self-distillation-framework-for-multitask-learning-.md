@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Smooth-Distill: A Self-distillation Framework for Multitask Learning with Wearable Sensor Data
+title: "Smooth-Distill: A Self-distillation Framework for Multitask Learning with Wearable Sensor Data"
 ---
 
 # Smooth-Distill: A Self-distillation Framework for Multitask Learning with Wearable Sensor Data

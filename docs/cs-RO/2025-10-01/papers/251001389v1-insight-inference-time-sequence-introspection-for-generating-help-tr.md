@@ -1,6 +1,6 @@
 ---
 layout: default
-title: INSIGHT: INference-time Sequence Introspection for Generating Help Triggers in Vision-Language-Action Models
+title: "INSIGHT: INference-time Sequence Introspection for Generating Help Triggers in Vision-Language-Action Models"
 ---
 
 # INSIGHT: INference-time Sequence Introspection for Generating Help Triggers in Vision-Language-Action Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ACCeLLiuM: Supervised Fine-Tuning for Automated OpenACC Pragma Generation
+title: "ACCeLLiuM: Supervised Fine-Tuning for Automated OpenACC Pragma Generation"
 ---
 
 # ACCeLLiuM: Supervised Fine-Tuning for Automated OpenACC Pragma Generation

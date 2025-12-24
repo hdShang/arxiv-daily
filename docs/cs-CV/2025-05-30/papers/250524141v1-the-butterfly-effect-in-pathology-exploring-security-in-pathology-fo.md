@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Butterfly Effect in Pathology: Exploring Security in Pathology Foundation Models
+title: "The Butterfly Effect in Pathology: Exploring Security in Pathology Foundation Models"
 ---
 
 # The Butterfly Effect in Pathology: Exploring Security in Pathology Foundation Models

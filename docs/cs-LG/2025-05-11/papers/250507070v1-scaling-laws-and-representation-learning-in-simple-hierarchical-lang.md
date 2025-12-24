@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scaling Laws and Representation Learning in Simple Hierarchical Languages: Transformers vs. Convolutional Architectures
+title: "Scaling Laws and Representation Learning in Simple Hierarchical Languages: Transformers vs. Convolutional Architectures"
 ---
 
 # Scaling Laws and Representation Learning in Simple Hierarchical Languages: Transformers vs. Convolutional Architectures

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers
+title: "PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers"
 ---
 
 # PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PSTTS: A Plug-and-Play Token Selector for Efficient Event-based Spatio-temporal Representation Learning
+title: "PSTTS: A Plug-and-Play Token Selector for Efficient Event-based Spatio-temporal Representation Learning"
 ---
 
 # PSTTS: A Plug-and-Play Token Selector for Efficient Event-based Spatio-temporal Representation Learning

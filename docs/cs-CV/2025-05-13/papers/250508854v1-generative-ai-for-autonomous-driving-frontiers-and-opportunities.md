@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Generative AI for Autonomous Driving: Frontiers and Opportunities
+title: "Generative AI for Autonomous Driving: Frontiers and Opportunities"
 ---
 
 # Generative AI for Autonomous Driving: Frontiers and Opportunities

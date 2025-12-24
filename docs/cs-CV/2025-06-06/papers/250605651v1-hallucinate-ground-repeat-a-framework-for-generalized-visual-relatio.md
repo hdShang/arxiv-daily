@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hallucinate, Ground, Repeat: A Framework for Generalized Visual Relationship Detection
+title: "Hallucinate, Ground, Repeat: A Framework for Generalized Visual Relationship Detection"
 ---
 
 # Hallucinate, Ground, Repeat: A Framework for Generalized Visual Relationship Detection

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: YOPO-Nav: Visual Navigation using 3DGS Graphs from One-Pass Videos
+title: "YOPO-Nav: Visual Navigation using 3DGS Graphs from One-Pass Videos"
 ---
 
 # YOPO-Nav: Visual Navigation using 3DGS Graphs from One-Pass Videos

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Behavior Trees vs Executable Ontologies: a Comparative Analysis of Robot Control Paradigms
+title: "Behavior Trees vs Executable Ontologies: a Comparative Analysis of Robot Control Paradigms"
 ---
 
 # Behavior Trees vs Executable Ontologies: a Comparative Analysis of Robot Control Paradigms

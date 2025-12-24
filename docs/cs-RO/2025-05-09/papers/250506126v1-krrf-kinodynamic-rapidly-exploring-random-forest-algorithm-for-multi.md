@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KRRF: Kinodynamic Rapidly-exploring Random Forest algorithm for multi-goal motion planning
+title: "KRRF: Kinodynamic Rapidly-exploring Random Forest algorithm for multi-goal motion planning"
 ---
 
 # KRRF: Kinodynamic Rapidly-exploring Random Forest algorithm for multi-goal motion planning

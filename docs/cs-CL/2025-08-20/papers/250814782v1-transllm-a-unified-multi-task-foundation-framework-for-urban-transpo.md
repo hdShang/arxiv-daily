@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TransLLM: A Unified Multi-Task Foundation Framework for Urban Transportation via Learnable Prompting
+title: "TransLLM: A Unified Multi-Task Foundation Framework for Urban Transportation via Learnable Prompting"
 ---
 
 # TransLLM: A Unified Multi-Task Foundation Framework for Urban Transportation via Learnable Prompting

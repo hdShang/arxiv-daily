@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FreqPolicy: Efficient Flow-based Visuomotor Policy via Frequency Consistency
+title: "FreqPolicy: Efficient Flow-based Visuomotor Policy via Frequency Consistency"
 ---
 
 # FreqPolicy: Efficient Flow-based Visuomotor Policy via Frequency Consistency

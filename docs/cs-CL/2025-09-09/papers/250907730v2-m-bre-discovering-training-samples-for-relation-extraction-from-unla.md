@@ -1,6 +1,6 @@
 ---
 layout: default
-title: M-BRe: Discovering Training Samples for Relation Extraction from Unlabeled Texts with Large Language Models
+title: "M-BRe: Discovering Training Samples for Relation Extraction from Unlabeled Texts with Large Language Models"
 ---
 
 # M-BRe: Discovering Training Samples for Relation Extraction from Unlabeled Texts with Large Language Models

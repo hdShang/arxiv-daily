@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Non-Euclidean Foundation Models: Advancing AI Beyond Euclidean Frameworks
+title: "Towards Non-Euclidean Foundation Models: Advancing AI Beyond Euclidean Frameworks"
 ---
 
 # Towards Non-Euclidean Foundation Models: Advancing AI Beyond Euclidean Frameworks

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VHOI: Controllable Video Generation of Human-Object Interactions from Sparse Trajectories via Motion Densification
+title: "VHOI: Controllable Video Generation of Human-Object Interactions from Sparse Trajectories via Motion Densification"
 ---
 
 # VHOI: Controllable Video Generation of Human-Object Interactions from Sparse Trajectories via Motion Densification

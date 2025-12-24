@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FlowRL: Matching Reward Distributions for LLM Reasoning
+title: "FlowRL: Matching Reward Distributions for LLM Reasoning"
 ---
 
 # FlowRL: Matching Reward Distributions for LLM Reasoning

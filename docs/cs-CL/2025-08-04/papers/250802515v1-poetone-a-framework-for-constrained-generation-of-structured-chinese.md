@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PoeTone: A Framework for Constrained Generation of Structured Chinese Songci with LLMs
+title: "PoeTone: A Framework for Constrained Generation of Structured Chinese Songci with LLMs"
 ---
 
 # PoeTone: A Framework for Constrained Generation of Structured Chinese Songci with LLMs

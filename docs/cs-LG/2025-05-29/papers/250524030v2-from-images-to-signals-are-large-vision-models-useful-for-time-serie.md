@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Images to Signals: Are Large Vision Models Useful for Time Series Analysis?
+title: "From Images to Signals: Are Large Vision Models Useful for Time Series Analysis?"
 ---
 
 # From Images to Signals: Are Large Vision Models Useful for Time Series Analysis?

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PolBiX: Detecting LLMs' Political Bias in Fact-Checking through X-phemisms
+title: "PolBiX: Detecting LLMs' Political Bias in Fact-Checking through X-phemisms"
 ---
 
 # PolBiX: Detecting LLMs' Political Bias in Fact-Checking through X-phemisms

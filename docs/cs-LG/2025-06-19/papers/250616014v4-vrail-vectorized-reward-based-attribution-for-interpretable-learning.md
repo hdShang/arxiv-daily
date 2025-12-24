@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VRAIL: Vectorized Reward-based Attribution for Interpretable Learning
+title: "VRAIL: Vectorized Reward-based Attribution for Interpretable Learning"
 ---
 
 # VRAIL: Vectorized Reward-based Attribution for Interpretable Learning

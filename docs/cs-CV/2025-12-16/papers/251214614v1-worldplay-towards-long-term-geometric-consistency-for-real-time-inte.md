@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling
+title: "WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling"
 ---
 
 # WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling

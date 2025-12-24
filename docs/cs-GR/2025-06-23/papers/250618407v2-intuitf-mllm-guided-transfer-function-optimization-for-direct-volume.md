@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IntuiTF: MLLM-Guided Transfer Function Optimization for Direct Volume Rendering
+title: "IntuiTF: MLLM-Guided Transfer Function Optimization for Direct Volume Rendering"
 ---
 
 # IntuiTF: MLLM-Guided Transfer Function Optimization for Direct Volume Rendering

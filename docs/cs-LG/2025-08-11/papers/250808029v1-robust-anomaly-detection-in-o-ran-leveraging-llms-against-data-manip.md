@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Robust Anomaly Detection in O-RAN: Leveraging LLMs against Data Manipulation Attacks
+title: "Robust Anomaly Detection in O-RAN: Leveraging LLMs against Data Manipulation Attacks"
 ---
 
 # Robust Anomaly Detection in O-RAN: Leveraging LLMs against Data Manipulation Attacks

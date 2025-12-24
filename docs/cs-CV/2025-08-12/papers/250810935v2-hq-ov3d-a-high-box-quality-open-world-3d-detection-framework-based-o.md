@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HQ-OV3D: A High Box Quality Open-World 3D Detection Framework based on Diffision Model
+title: "HQ-OV3D: A High Box Quality Open-World 3D Detection Framework based on Diffision Model"
 ---
 
 # HQ-OV3D: A High Box Quality Open-World 3D Detection Framework based on Diffision Model

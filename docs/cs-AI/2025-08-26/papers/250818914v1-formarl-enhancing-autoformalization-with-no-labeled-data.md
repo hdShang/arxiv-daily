@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FormaRL: Enhancing Autoformalization with no Labeled Data
+title: "FormaRL: Enhancing Autoformalization with no Labeled Data"
 ---
 
 # FormaRL: Enhancing Autoformalization with no Labeled Data

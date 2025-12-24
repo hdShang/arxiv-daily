@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance
+title: "NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance"
 ---
 
 # NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance

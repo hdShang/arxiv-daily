@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Hello, World!': Making GNNs Talk with LLMs
+title: "'Hello, World!': Making GNNs Talk with LLMs"
 ---
 
 # 'Hello, World!': Making GNNs Talk with LLMs

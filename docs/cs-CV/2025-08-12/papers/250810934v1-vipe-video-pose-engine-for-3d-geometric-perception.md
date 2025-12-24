@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ViPE: Video Pose Engine for 3D Geometric Perception
+title: "ViPE: Video Pose Engine for 3D Geometric Perception"
 ---
 
 # ViPE: Video Pose Engine for 3D Geometric Perception

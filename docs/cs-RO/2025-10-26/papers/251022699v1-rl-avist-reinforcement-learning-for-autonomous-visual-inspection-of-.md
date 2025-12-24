@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RL-AVIST: Reinforcement Learning for Autonomous Visual Inspection of Space Targets
+title: "RL-AVIST: Reinforcement Learning for Autonomous Visual Inspection of Space Targets"
 ---
 
 # RL-AVIST: Reinforcement Learning for Autonomous Visual Inspection of Space Targets

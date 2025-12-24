@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Refusal Steering: Fine-grained Control over LLM Refusal Behaviour for Sensitive Topics
+title: "Refusal Steering: Fine-grained Control over LLM Refusal Behaviour for Sensitive Topics"
 ---
 
 # Refusal Steering: Fine-grained Control over LLM Refusal Behaviour for Sensitive Topics

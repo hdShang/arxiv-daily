@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Decipher-MR: A Vision-Language Foundation Model for 3D MRI Representations
+title: "Decipher-MR: A Vision-Language Foundation Model for 3D MRI Representations"
 ---
 
 # Decipher-MR: A Vision-Language Foundation Model for 3D MRI Representations

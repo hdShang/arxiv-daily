@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Structural Sources of Verb Meaning Revisited: Large Language Models Display Syntactic Bootstrapping
+title: "The Structural Sources of Verb Meaning Revisited: Large Language Models Display Syntactic Bootstrapping"
 ---
 
 # The Structural Sources of Verb Meaning Revisited: Large Language Models Display Syntactic Bootstrapping

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wavelet Fourier Diffuser: Frequency-Aware Diffusion Model for Reinforcement Learning
+title: "Wavelet Fourier Diffuser: Frequency-Aware Diffusion Model for Reinforcement Learning"
 ---
 
 # Wavelet Fourier Diffuser: Frequency-Aware Diffusion Model for Reinforcement Learning

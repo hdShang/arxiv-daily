@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NegoCollab: A Common Representation Negotiation Approach for Heterogeneous Collaborative Perception
+title: "NegoCollab: A Common Representation Negotiation Approach for Heterogeneous Collaborative Perception"
 ---
 
 # NegoCollab: A Common Representation Negotiation Approach for Heterogeneous Collaborative Perception

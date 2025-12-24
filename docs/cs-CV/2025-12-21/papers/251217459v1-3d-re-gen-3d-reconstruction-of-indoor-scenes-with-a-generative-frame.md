@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3D-RE-GEN: 3D Reconstruction of Indoor Scenes with a Generative Framework
+title: "3D-RE-GEN: 3D Reconstruction of Indoor Scenes with a Generative Framework"
 ---
 
 # 3D-RE-GEN: 3D Reconstruction of Indoor Scenes with a Generative Framework

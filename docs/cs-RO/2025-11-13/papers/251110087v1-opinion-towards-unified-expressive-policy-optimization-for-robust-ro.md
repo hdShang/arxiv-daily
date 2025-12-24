@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Opinion: Towards Unified Expressive Policy Optimization for Robust Robot Learning
+title: "Opinion: Towards Unified Expressive Policy Optimization for Robust Robot Learning"
 ---
 
 # Opinion: Towards Unified Expressive Policy Optimization for Robust Robot Learning

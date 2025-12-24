@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cloud Investigation Automation Framework (CIAF): An AI-Driven Approach to Cloud Forensics
+title: "Cloud Investigation Automation Framework (CIAF): An AI-Driven Approach to Cloud Forensics"
 ---
 
 # Cloud Investigation Automation Framework (CIAF): An AI-Driven Approach to Cloud Forensics

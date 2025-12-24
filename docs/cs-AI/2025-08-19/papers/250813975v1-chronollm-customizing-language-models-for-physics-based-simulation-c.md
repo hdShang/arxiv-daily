@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ChronoLLM: Customizing Language Models for Physics-Based Simulation Code Generation
+title: "ChronoLLM: Customizing Language Models for Physics-Based Simulation Code Generation"
 ---
 
 # ChronoLLM: Customizing Language Models for Physics-Based Simulation Code Generation

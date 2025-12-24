@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CrunchLLM: Multitask LLMs for Structured Business Reasoning and Outcome Prediction
+title: "CrunchLLM: Multitask LLMs for Structured Business Reasoning and Outcome Prediction"
 ---
 
 # CrunchLLM: Multitask LLMs for Structured Business Reasoning and Outcome Prediction

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Co-VisiON: Co-Visibility ReasONing on Sparse Image Sets of Indoor Scenes
+title: "Co-VisiON: Co-Visibility ReasONing on Sparse Image Sets of Indoor Scenes"
 ---
 
 # Co-VisiON: Co-Visibility ReasONing on Sparse Image Sets of Indoor Scenes

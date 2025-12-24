@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM-BI: Towards Fully Automated Bayesian Inference with Large Language Models
+title: "LLM-BI: Towards Fully Automated Bayesian Inference with Large Language Models"
 ---
 
 # LLM-BI: Towards Fully Automated Bayesian Inference with Large Language Models

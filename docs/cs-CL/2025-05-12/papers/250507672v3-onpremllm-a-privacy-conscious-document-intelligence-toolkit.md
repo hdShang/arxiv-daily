@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OnPrem.LLM: A Privacy-Conscious Document Intelligence Toolkit
+title: "OnPrem.LLM: A Privacy-Conscious Document Intelligence Toolkit"
 ---
 
 # OnPrem.LLM: A Privacy-Conscious Document Intelligence Toolkit

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EPT Benchmark: Evaluation of Persian Trustworthiness in Large Language Models
+title: "EPT Benchmark: Evaluation of Persian Trustworthiness in Large Language Models"
 ---
 
 # EPT Benchmark: Evaluation of Persian Trustworthiness in Large Language Models

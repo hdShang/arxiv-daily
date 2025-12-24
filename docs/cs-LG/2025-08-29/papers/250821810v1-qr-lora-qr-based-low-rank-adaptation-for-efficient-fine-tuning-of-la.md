@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QR-LoRA: QR-Based Low-Rank Adaptation for Efficient Fine-Tuning of Large Language Models
+title: "QR-LoRA: QR-Based Low-Rank Adaptation for Efficient Fine-Tuning of Large Language Models"
 ---
 
 # QR-LoRA: QR-Based Low-Rank Adaptation for Efficient Fine-Tuning of Large Language Models

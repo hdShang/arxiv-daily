@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Odyssey: An Automotive Lidar-Inertial Odometry Dataset for GNSS-denied situations
+title: "Odyssey: An Automotive Lidar-Inertial Odometry Dataset for GNSS-denied situations"
 ---
 
 # Odyssey: An Automotive Lidar-Inertial Odometry Dataset for GNSS-denied situations

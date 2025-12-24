@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Product of Experts with LLMs: Boosting Performance on ARC Is a Matter of Perspective
+title: "Product of Experts with LLMs: Boosting Performance on ARC Is a Matter of Perspective"
 ---
 
 # Product of Experts with LLMs: Boosting Performance on ARC Is a Matter of Perspective

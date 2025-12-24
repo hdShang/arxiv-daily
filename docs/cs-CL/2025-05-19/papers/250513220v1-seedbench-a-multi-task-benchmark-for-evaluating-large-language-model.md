@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SeedBench: A Multi-task Benchmark for Evaluating Large Language Models in Seed Science
+title: "SeedBench: A Multi-task Benchmark for Evaluating Large Language Models in Seed Science"
 ---
 
 # SeedBench: A Multi-task Benchmark for Evaluating Large Language Models in Seed Science

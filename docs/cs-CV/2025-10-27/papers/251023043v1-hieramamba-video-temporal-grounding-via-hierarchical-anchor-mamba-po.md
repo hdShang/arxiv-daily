@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HieraMamba: Video Temporal Grounding via Hierarchical Anchor-Mamba Pooling
+title: "HieraMamba: Video Temporal Grounding via Hierarchical Anchor-Mamba Pooling"
 ---
 
 # HieraMamba: Video Temporal Grounding via Hierarchical Anchor-Mamba Pooling

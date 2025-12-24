@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RMMSS: Towards Advanced Robust Multi-Modal Semantic Segmentation with Hybrid Prototype Distillation and Feature Selection
+title: "RMMSS: Towards Advanced Robust Multi-Modal Semantic Segmentation with Hybrid Prototype Distillation and Feature Selection"
 ---
 
 # RMMSS: Towards Advanced Robust Multi-Modal Semantic Segmentation with Hybrid Prototype Distillation and Feature Selection

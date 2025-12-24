@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AD-NODE: Adaptive Dynamics Learning with Neural ODEs for Mobile Robots Control
+title: "AD-NODE: Adaptive Dynamics Learning with Neural ODEs for Mobile Robots Control"
 ---
 
 # AD-NODE: Adaptive Dynamics Learning with Neural ODEs for Mobile Robots Control

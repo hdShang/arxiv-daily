@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SPLICE: Part-Level 3D Shape Editing from Local Semantic Extraction to Global Neural Mixing
+title: "SPLICE: Part-Level 3D Shape Editing from Local Semantic Extraction to Global Neural Mixing"
 ---
 
 # SPLICE: Part-Level 3D Shape Editing from Local Semantic Extraction to Global Neural Mixing

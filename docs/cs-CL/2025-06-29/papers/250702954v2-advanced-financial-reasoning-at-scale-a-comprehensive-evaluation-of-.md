@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Advanced Financial Reasoning at Scale: A Comprehensive Evaluation of Large Language Models on CFA Level III
+title: "Advanced Financial Reasoning at Scale: A Comprehensive Evaluation of Large Language Models on CFA Level III"
 ---
 
 # Advanced Financial Reasoning at Scale: A Comprehensive Evaluation of Large Language Models on CFA Level III

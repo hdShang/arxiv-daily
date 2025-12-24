@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DiscussLLM: Teaching Large Language Models When to Speak
+title: "DiscussLLM: Teaching Large Language Models When to Speak"
 ---
 
 # DiscussLLM: Teaching Large Language Models When to Speak

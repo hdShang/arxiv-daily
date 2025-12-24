@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DiffVLA++: Bridging Cognitive Reasoning and End-to-End Driving through Metric-Guided Alignment
+title: "DiffVLA++: Bridging Cognitive Reasoning and End-to-End Driving through Metric-Guided Alignment"
 ---
 
 # DiffVLA++: Bridging Cognitive Reasoning and End-to-End Driving through Metric-Guided Alignment

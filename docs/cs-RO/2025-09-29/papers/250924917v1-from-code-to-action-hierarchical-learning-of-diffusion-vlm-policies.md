@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Code to Action: Hierarchical Learning of Diffusion-VLM Policies
+title: "From Code to Action: Hierarchical Learning of Diffusion-VLM Policies"
 ---
 
 # From Code to Action: Hierarchical Learning of Diffusion-VLM Policies

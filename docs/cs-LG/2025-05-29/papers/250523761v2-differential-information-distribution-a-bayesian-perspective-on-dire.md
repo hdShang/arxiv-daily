@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Differential Information Distribution: A Bayesian Perspective on Direct Preference Optimization
+title: "Differential Information Distribution: A Bayesian Perspective on Direct Preference Optimization"
 ---
 
 # Differential Information Distribution: A Bayesian Perspective on Direct Preference Optimization

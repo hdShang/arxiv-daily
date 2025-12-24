@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HTTM: Head-wise Temporal Token Merging for Faster VGGT
+title: "HTTM: Head-wise Temporal Token Merging for Faster VGGT"
 ---
 
 # HTTM: Head-wise Temporal Token Merging for Faster VGGT

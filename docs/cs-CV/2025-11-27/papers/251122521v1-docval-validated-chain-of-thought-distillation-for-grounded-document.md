@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DocVAL: Validated Chain-of-Thought Distillation for Grounded Document VQA
+title: "DocVAL: Validated Chain-of-Thought Distillation for Grounded Document VQA"
 ---
 
 # DocVAL: Validated Chain-of-Thought Distillation for Grounded Document VQA

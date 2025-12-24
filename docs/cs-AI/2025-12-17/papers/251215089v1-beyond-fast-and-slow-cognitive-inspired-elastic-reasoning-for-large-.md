@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Fast and Slow: Cognitive-Inspired Elastic Reasoning for Large Language Models
+title: "Beyond Fast and Slow: Cognitive-Inspired Elastic Reasoning for Large Language Models"
 ---
 
 # Beyond Fast and Slow: Cognitive-Inspired Elastic Reasoning for Large Language Models

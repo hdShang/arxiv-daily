@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Going Places: Place Recognition in Artificial and Natural Systems
+title: "Going Places: Place Recognition in Artificial and Natural Systems"
 ---
 
 # Going Places: Place Recognition in Artificial and Natural Systems

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Context Engineering for Trustworthiness: Rescorla Wagner Steering Under Mixed and Inappropriate Contexts
+title: "Context Engineering for Trustworthiness: Rescorla Wagner Steering Under Mixed and Inappropriate Contexts"
 ---
 
 # Context Engineering for Trustworthiness: Rescorla Wagner Steering Under Mixed and Inappropriate Contexts

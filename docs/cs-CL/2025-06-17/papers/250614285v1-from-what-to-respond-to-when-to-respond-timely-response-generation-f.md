@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From What to Respond to When to Respond: Timely Response Generation for Open-domain Dialogue Agents
+title: "From What to Respond to When to Respond: Timely Response Generation for Open-domain Dialogue Agents"
 ---
 
 # From What to Respond to When to Respond: Timely Response Generation for Open-domain Dialogue Agents

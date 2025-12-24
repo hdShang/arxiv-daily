@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Legal Texts to Defeasible Deontic Logic via LLMs: A Study in Automated Semantic Analysis
+title: "From Legal Texts to Defeasible Deontic Logic via LLMs: A Study in Automated Semantic Analysis"
 ---
 
 # From Legal Texts to Defeasible Deontic Logic via LLMs: A Study in Automated Semantic Analysis

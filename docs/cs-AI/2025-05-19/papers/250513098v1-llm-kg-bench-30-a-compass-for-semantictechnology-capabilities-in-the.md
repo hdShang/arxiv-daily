@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM-KG-Bench 3.0: A Compass for SemanticTechnology Capabilities in the Ocean of LLMs
+title: "LLM-KG-Bench 3.0: A Compass for SemanticTechnology Capabilities in the Ocean of LLMs"
 ---
 
 # LLM-KG-Bench 3.0: A Compass for SemanticTechnology Capabilities in the Ocean of LLMs

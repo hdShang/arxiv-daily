@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MambaLite-Micro: Memory-Optimized Mamba Inference on MCUs
+title: "MambaLite-Micro: Memory-Optimized Mamba Inference on MCUs"
 ---
 
 # MambaLite-Micro: Memory-Optimized Mamba Inference on MCUs

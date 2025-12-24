@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EventDiff: A Unified and Efficient Diffusion Model Framework for Event-based Video Frame Interpolation
+title: "EventDiff: A Unified and Efficient Diffusion Model Framework for Event-based Video Frame Interpolation"
 ---
 
 # EventDiff: A Unified and Efficient Diffusion Model Framework for Event-based Video Frame Interpolation

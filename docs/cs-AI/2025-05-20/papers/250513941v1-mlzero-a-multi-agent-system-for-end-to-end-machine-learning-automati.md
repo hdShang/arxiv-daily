@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MLZero: A Multi-Agent System for End-to-end Machine Learning Automation
+title: "MLZero: A Multi-Agent System for End-to-end Machine Learning Automation"
 ---
 
 # MLZero: A Multi-Agent System for End-to-end Machine Learning Automation

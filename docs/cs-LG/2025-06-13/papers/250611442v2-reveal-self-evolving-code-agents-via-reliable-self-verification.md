@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReVeal: Self-Evolving Code Agents via Reliable Self-Verification
+title: "ReVeal: Self-Evolving Code Agents via Reliable Self-Verification"
 ---
 
 # ReVeal: Self-Evolving Code Agents via Reliable Self-Verification

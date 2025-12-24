@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation
+title: "RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation"
 ---
 
 # RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation

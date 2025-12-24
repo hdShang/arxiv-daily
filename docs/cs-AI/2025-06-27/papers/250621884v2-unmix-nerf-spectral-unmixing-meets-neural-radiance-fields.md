@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UnMix-NeRF: Spectral Unmixing Meets Neural Radiance Fields
+title: "UnMix-NeRF: Spectral Unmixing Meets Neural Radiance Fields"
 ---
 
 # UnMix-NeRF: Spectral Unmixing Meets Neural Radiance Fields

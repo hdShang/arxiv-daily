@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TGPO: Temporal Grounded Policy Optimization for Signal Temporal Logic Tasks
+title: "TGPO: Temporal Grounded Policy Optimization for Signal Temporal Logic Tasks"
 ---
 
 # TGPO: Temporal Grounded Policy Optimization for Signal Temporal Logic Tasks

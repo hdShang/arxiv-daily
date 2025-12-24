@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning with pyCub: A New Simulation and Exercise Framework for Humanoid Robotics
+title: "Learning with pyCub: A New Simulation and Exercise Framework for Humanoid Robotics"
 ---
 
 # Learning with pyCub: A New Simulation and Exercise Framework for Humanoid Robotics

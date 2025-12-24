@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Templates to Natural Language: Generalization Challenges in Instruction-Tuned LLMs for Spatial Reasoning
+title: "From Templates to Natural Language: Generalization Challenges in Instruction-Tuned LLMs for Spatial Reasoning"
 ---
 
 # From Templates to Natural Language: Generalization Challenges in Instruction-Tuned LLMs for Spatial Reasoning

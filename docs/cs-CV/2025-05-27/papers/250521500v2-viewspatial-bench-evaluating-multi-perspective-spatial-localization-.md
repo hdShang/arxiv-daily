@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models
+title: "ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models"
 ---
 
 # ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models

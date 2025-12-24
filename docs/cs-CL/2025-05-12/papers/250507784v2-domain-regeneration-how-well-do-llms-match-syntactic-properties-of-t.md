@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Domain Regeneration: How well do LLMs match syntactic properties of text domains?
+title: "Domain Regeneration: How well do LLMs match syntactic properties of text domains?"
 ---
 
 # Domain Regeneration: How well do LLMs match syntactic properties of text domains?

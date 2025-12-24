@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stop Spinning Wheels: Mitigating LLM Overthinking via Mining Patterns for Early Reasoning Exit
+title: "Stop Spinning Wheels: Mitigating LLM Overthinking via Mining Patterns for Early Reasoning Exit"
 ---
 
 # Stop Spinning Wheels: Mitigating LLM Overthinking via Mining Patterns for Early Reasoning Exit

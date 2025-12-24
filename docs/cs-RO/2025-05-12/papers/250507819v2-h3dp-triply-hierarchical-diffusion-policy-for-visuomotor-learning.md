@@ -1,6 +1,6 @@
 ---
 layout: default
-title: H$^3$DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning
+title: "H$^3$DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning"
 ---
 
 # H$^3$DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning

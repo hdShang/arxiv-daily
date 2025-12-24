@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AgentAuditor: Human-Level Safety and Security Evaluation for LLM Agents
+title: "AgentAuditor: Human-Level Safety and Security Evaluation for LLM Agents"
 ---
 
 # AgentAuditor: Human-Level Safety and Security Evaluation for LLM Agents

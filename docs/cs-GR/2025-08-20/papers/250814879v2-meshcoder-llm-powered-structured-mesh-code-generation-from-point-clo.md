@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds
+title: "MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds"
 ---
 
 # MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds

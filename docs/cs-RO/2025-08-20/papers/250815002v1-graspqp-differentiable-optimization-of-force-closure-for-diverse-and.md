@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GraspQP: Differentiable Optimization of Force Closure for Diverse and Robust Dexterous Grasping
+title: "GraspQP: Differentiable Optimization of Force Closure for Diverse and Robust Dexterous Grasping"
 ---
 
 # GraspQP: Differentiable Optimization of Force Closure for Diverse and Robust Dexterous Grasping

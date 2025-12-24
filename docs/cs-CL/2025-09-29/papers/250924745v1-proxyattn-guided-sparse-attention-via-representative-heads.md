@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ProxyAttn: Guided Sparse Attention via Representative Heads
+title: "ProxyAttn: Guided Sparse Attention via Representative Heads"
 ---
 
 # ProxyAttn: Guided Sparse Attention via Representative Heads

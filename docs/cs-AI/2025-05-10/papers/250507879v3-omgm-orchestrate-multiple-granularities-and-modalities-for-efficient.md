@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OMGM: Orchestrate Multiple Granularities and Modalities for Efficient Multimodal Retrieval
+title: "OMGM: Orchestrate Multiple Granularities and Modalities for Efficient Multimodal Retrieval"
 ---
 
 # OMGM: Orchestrate Multiple Granularities and Modalities for Efficient Multimodal Retrieval

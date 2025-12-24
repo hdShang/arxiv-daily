@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction
+title: "VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction"
 ---
 
 # VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction

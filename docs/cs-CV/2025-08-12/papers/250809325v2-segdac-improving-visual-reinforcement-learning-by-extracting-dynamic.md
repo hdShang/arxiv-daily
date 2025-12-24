@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SegDAC: Improving Visual Reinforcement Learning by Extracting Dynamic Objectc-Centric Representations from Pretrained Vision Models
+title: "SegDAC: Improving Visual Reinforcement Learning by Extracting Dynamic Objectc-Centric Representations from Pretrained Vision Models"
 ---
 
 # SegDAC: Improving Visual Reinforcement Learning by Extracting Dynamic Objectc-Centric Representations from Pretrained Vision Models

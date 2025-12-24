@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MILES: Modality-Informed Learning Rate Scheduler for Balancing Multimodal Learning
+title: "MILES: Modality-Informed Learning Rate Scheduler for Balancing Multimodal Learning"
 ---
 
 # MILES: Modality-Informed Learning Rate Scheduler for Balancing Multimodal Learning

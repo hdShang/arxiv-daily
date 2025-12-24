@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MPMAvatar: Learning 3D Gaussian Avatars with Accurate and Robust Physics-Based Dynamics
+title: "MPMAvatar: Learning 3D Gaussian Avatars with Accurate and Robust Physics-Based Dynamics"
 ---
 
 # MPMAvatar: Learning 3D Gaussian Avatars with Accurate and Robust Physics-Based Dynamics

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SplArt: Articulation Estimation and Part-Level Reconstruction with 3D Gaussian Splatting
+title: "SplArt: Articulation Estimation and Part-Level Reconstruction with 3D Gaussian Splatting"
 ---
 
 # SplArt: Articulation Estimation and Part-Level Reconstruction with 3D Gaussian Splatting

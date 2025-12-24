@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeVisE: Behavioral Testing of Medical Large Language Models
+title: "DeVisE: Behavioral Testing of Medical Large Language Models"
 ---
 
 # DeVisE: Behavioral Testing of Medical Large Language Models

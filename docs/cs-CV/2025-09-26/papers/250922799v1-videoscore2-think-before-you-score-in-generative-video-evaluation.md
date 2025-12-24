@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VideoScore2: Think before You Score in Generative Video Evaluation
+title: "VideoScore2: Think before You Score in Generative Video Evaluation"
 ---
 
 # VideoScore2: Think before You Score in Generative Video Evaluation

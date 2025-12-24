@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SDQ-LLM: Sigma-Delta Quantization for 1-bit LLMs of any size
+title: "SDQ-LLM: Sigma-Delta Quantization for 1-bit LLMs of any size"
 ---
 
 # SDQ-LLM: Sigma-Delta Quantization for 1-bit LLMs of any size

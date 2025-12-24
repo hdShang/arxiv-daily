@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Choosing a Model, Shaping a Future: Comparing LLM Perspectives on Sustainability and its Relationship with AI
+title: "Choosing a Model, Shaping a Future: Comparing LLM Perspectives on Sustainability and its Relationship with AI"
 ---
 
 # Choosing a Model, Shaping a Future: Comparing LLM Perspectives on Sustainability and its Relationship with AI

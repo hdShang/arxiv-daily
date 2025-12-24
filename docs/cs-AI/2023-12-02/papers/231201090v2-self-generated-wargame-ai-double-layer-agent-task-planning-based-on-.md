@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Self Generated Wargame AI: Double Layer Agent Task Planning Based on Large Language Model
+title: "Self Generated Wargame AI: Double Layer Agent Task Planning Based on Large Language Model"
 ---
 
 # Self Generated Wargame AI: Double Layer Agent Task Planning Based on Large Language Model

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Online Anti-sexist Speech: Identifying Resistance to Gender Bias in Political Discourse
+title: "Online Anti-sexist Speech: Identifying Resistance to Gender Bias in Political Discourse"
 ---
 
 # Online Anti-sexist Speech: Identifying Resistance to Gender Bias in Political Discourse

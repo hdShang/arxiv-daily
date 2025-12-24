@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Microsaccade-Inspired Probing: Positional Encoding Perturbations Reveal LLM Misbehaviours
+title: "Microsaccade-Inspired Probing: Positional Encoding Perturbations Reveal LLM Misbehaviours"
 ---
 
 # Microsaccade-Inspired Probing: Positional Encoding Perturbations Reveal LLM Misbehaviours

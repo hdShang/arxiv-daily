@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning
+title: "R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning"
 ---
 
 # R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning

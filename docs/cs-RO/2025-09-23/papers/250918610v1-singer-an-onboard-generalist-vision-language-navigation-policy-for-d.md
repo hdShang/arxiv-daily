@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SINGER: An Onboard Generalist Vision-Language Navigation Policy for Drones
+title: "SINGER: An Onboard Generalist Vision-Language Navigation Policy for Drones"
 ---
 
 # SINGER: An Onboard Generalist Vision-Language Navigation Policy for Drones

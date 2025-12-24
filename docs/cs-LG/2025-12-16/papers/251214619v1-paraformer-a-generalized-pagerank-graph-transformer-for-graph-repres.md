@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ParaFormer: A Generalized PageRank Graph Transformer for Graph Representation Learning
+title: "ParaFormer: A Generalized PageRank Graph Transformer for Graph Representation Learning"
 ---
 
 # ParaFormer: A Generalized PageRank Graph Transformer for Graph Representation Learning

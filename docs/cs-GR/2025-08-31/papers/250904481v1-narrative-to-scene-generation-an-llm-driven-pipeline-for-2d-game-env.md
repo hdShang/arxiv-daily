@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Narrative-to-Scene Generation: An LLM-Driven Pipeline for 2D Game Environments
+title: "Narrative-to-Scene Generation: An LLM-Driven Pipeline for 2D Game Environments"
 ---
 
 # Narrative-to-Scene Generation: An LLM-Driven Pipeline for 2D Game Environments

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations
+title: "ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations"
 ---
 
 # ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations

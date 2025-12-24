@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ExploreGS: a vision-based low overhead framework for 3D scene reconstruction
+title: "ExploreGS: a vision-based low overhead framework for 3D scene reconstruction"
 ---
 
 # ExploreGS: a vision-based low overhead framework for 3D scene reconstruction

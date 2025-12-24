@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models
+title: "HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models"
 ---
 
 # HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models

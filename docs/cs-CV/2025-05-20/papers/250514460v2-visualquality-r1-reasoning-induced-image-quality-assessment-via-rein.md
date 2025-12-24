@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank
+title: "VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank"
 ---
 
 # VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank

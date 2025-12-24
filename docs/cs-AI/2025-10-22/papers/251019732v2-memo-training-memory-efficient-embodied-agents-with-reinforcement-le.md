@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Memo: Training Memory-Efficient Embodied Agents with Reinforcement Learning
+title: "Memo: Training Memory-Efficient Embodied Agents with Reinforcement Learning"
 ---
 
 # Memo: Training Memory-Efficient Embodied Agents with Reinforcement Learning

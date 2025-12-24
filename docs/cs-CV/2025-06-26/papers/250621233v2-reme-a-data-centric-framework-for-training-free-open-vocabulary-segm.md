@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation
+title: "ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation"
 ---
 
 # ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation

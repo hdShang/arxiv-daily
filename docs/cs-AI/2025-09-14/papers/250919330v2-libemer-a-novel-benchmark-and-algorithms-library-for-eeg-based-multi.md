@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LibEMER: A novel benchmark and algorithms library for EEG-based Multimodal Emotion Recognition
+title: "LibEMER: A novel benchmark and algorithms library for EEG-based Multimodal Emotion Recognition"
 ---
 
 # LibEMER: A novel benchmark and algorithms library for EEG-based Multimodal Emotion Recognition

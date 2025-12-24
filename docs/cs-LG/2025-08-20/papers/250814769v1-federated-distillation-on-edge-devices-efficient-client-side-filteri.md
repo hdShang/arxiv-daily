@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Federated Distillation on Edge Devices: Efficient Client-Side Filtering for Non-IID Data
+title: "Federated Distillation on Edge Devices: Efficient Client-Side Filtering for Non-IID Data"
 ---
 
 # Federated Distillation on Edge Devices: Efficient Client-Side Filtering for Non-IID Data

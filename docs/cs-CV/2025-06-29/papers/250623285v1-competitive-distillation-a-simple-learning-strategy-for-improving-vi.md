@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Competitive Distillation: A Simple Learning Strategy for Improving Visual Classification
+title: "Competitive Distillation: A Simple Learning Strategy for Improving Visual Classification"
 ---
 
 # Competitive Distillation: A Simple Learning Strategy for Improving Visual Classification

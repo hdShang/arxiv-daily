@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Graph Drawing for LLMs: An Empirical Evaluation
+title: "Graph Drawing for LLMs: An Empirical Evaluation"
 ---
 
 # Graph Drawing for LLMs: An Empirical Evaluation

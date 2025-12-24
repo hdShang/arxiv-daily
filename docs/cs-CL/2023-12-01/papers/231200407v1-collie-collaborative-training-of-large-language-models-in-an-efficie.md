@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoLLiE: Collaborative Training of Large Language Models in an Efficient Way
+title: "CoLLiE: Collaborative Training of Large Language Models in an Efficient Way"
 ---
 
 # CoLLiE: Collaborative Training of Large Language Models in an Efficient Way

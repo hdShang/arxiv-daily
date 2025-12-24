@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ComfyUI-Copilot: An Intelligent Assistant for Automated Workflow Development
+title: "ComfyUI-Copilot: An Intelligent Assistant for Automated Workflow Development"
 ---
 
 # ComfyUI-Copilot: An Intelligent Assistant for Automated Workflow Development

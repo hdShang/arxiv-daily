@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision-Language Reasoning
+title: "PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision-Language Reasoning"
 ---
 
 # PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision-Language Reasoning

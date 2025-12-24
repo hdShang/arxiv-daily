@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Flipping Against All Odds: Reducing LLM Coin Flip Bias via Verbalized Rejection Sampling
+title: "Flipping Against All Odds: Reducing LLM Coin Flip Bias via Verbalized Rejection Sampling"
 ---
 
 # Flipping Against All Odds: Reducing LLM Coin Flip Bias via Verbalized Rejection Sampling

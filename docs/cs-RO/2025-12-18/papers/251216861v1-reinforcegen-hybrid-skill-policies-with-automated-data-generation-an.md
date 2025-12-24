@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReinforceGen: Hybrid Skill Policies with Automated Data Generation and Reinforcement Learning
+title: "ReinforceGen: Hybrid Skill Policies with Automated Data Generation and Reinforcement Learning"
 ---
 
 # ReinforceGen: Hybrid Skill Policies with Automated Data Generation and Reinforcement Learning

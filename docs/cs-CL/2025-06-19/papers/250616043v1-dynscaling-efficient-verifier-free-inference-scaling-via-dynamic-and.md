@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DynScaling: Efficient Verifier-free Inference Scaling via Dynamic and Integrated Sampling
+title: "DynScaling: Efficient Verifier-free Inference Scaling via Dynamic and Integrated Sampling"
 ---
 
 # DynScaling: Efficient Verifier-free Inference Scaling via Dynamic and Integrated Sampling

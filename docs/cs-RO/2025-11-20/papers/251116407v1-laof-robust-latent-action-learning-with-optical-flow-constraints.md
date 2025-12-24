@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LAOF: Robust Latent Action Learning with Optical Flow Constraints
+title: "LAOF: Robust Latent Action Learning with Optical Flow Constraints"
 ---
 
 # LAOF: Robust Latent Action Learning with Optical Flow Constraints

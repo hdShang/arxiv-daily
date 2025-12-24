@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Completion: A Foundation Model for General Knowledge Graph Reasoning
+title: "Beyond Completion: A Foundation Model for General Knowledge Graph Reasoning"
 ---
 
 # Beyond Completion: A Foundation Model for General Knowledge Graph Reasoning

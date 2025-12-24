@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Loki's Dance of Illusions: A Comprehensive Survey of Hallucination in Large Language Models
+title: "Loki's Dance of Illusions: A Comprehensive Survey of Hallucination in Large Language Models"
 ---
 
 # Loki's Dance of Illusions: A Comprehensive Survey of Hallucination in Large Language Models

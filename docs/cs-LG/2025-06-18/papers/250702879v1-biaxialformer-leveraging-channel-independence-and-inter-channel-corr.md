@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Biaxialformer: Leveraging Channel Independence and Inter-Channel Correlations in EEG Signal Decoding for Predicting Neurological Outcomes
+title: "Biaxialformer: Leveraging Channel Independence and Inter-Channel Correlations in EEG Signal Decoding for Predicting Neurological Outcomes"
 ---
 
 # Biaxialformer: Leveraging Channel Independence and Inter-Channel Correlations in EEG Signal Decoding for Predicting Neurological Outcomes

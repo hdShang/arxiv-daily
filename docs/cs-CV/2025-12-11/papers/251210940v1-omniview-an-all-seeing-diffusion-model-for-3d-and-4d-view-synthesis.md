@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniView: An All-Seeing Diffusion Model for 3D and 4D View Synthesis
+title: "OmniView: An All-Seeing Diffusion Model for 3D and 4D View Synthesis"
 ---
 
 # OmniView: An All-Seeing Diffusion Model for 3D and 4D View Synthesis

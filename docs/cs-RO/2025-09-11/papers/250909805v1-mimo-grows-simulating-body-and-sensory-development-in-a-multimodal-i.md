@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MIMo grows! Simulating body and sensory development in a multimodal infant model
+title: "MIMo grows! Simulating body and sensory development in a multimodal infant model"
 ---
 
 # MIMo grows! Simulating body and sensory development in a multimodal infant model

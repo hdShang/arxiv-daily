@@ -1,6 +1,6 @@
 ---
 layout: default
-title: I'll believe it when I see it: Images increase misinformation sharing in Vision-Language Models
+title: "I'll believe it when I see it: Images increase misinformation sharing in Vision-Language Models"
 ---
 
 # I'll believe it when I see it: Images increase misinformation sharing in Vision-Language Models

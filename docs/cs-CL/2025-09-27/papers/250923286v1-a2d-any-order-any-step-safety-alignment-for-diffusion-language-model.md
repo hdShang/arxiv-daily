@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A2D: Any-Order, Any-Step Safety Alignment for Diffusion Language Models
+title: "A2D: Any-Order, Any-Step Safety Alignment for Diffusion Language Models"
 ---
 
 # A2D: Any-Order, Any-Step Safety Alignment for Diffusion Language Models

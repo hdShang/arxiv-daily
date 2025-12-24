@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Semantic-Preserving Adversarial Attacks on LLMs: An Adaptive Greedy Binary Search Approach
+title: "Semantic-Preserving Adversarial Attacks on LLMs: An Adaptive Greedy Binary Search Approach"
 ---
 
 # Semantic-Preserving Adversarial Attacks on LLMs: An Adaptive Greedy Binary Search Approach

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R&B: Domain Regrouping and Data Mixture Balancing for Efficient Foundation Model Training
+title: "R&B: Domain Regrouping and Data Mixture Balancing for Efficient Foundation Model Training"
 ---
 
 # R&B: Domain Regrouping and Data Mixture Balancing for Efficient Foundation Model Training

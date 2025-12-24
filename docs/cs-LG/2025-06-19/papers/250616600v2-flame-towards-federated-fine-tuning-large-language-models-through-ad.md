@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FLAME: Towards Federated Fine-Tuning Large Language Models Through Adaptive SMoE
+title: "FLAME: Towards Federated Fine-Tuning Large Language Models Through Adaptive SMoE"
 ---
 
 # FLAME: Towards Federated Fine-Tuning Large Language Models Through Adaptive SMoE

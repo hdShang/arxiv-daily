@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Breaking the MoE LLM Trilemma: Dynamic Expert Clustering with Structured Compression
+title: "Breaking the MoE LLM Trilemma: Dynamic Expert Clustering with Structured Compression"
 ---
 
 # Breaking the MoE LLM Trilemma: Dynamic Expert Clustering with Structured Compression

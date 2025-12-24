@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NovaFlow: Zero-Shot Manipulation via Actionable Flow from Generated Videos
+title: "NovaFlow: Zero-Shot Manipulation via Actionable Flow from Generated Videos"
 ---
 
 # NovaFlow: Zero-Shot Manipulation via Actionable Flow from Generated Videos

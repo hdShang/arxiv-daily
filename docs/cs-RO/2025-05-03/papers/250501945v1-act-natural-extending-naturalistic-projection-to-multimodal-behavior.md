@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Act Natural! Extending Naturalistic Projection to Multimodal Behavior Scenarios
+title: "Act Natural! Extending Naturalistic Projection to Multimodal Behavior Scenarios"
 ---
 
 # Act Natural! Extending Naturalistic Projection to Multimodal Behavior Scenarios

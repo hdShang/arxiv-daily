@@ -1,6 +1,6 @@
 ---
 layout: default
-title: REFER: Mitigating Bias in Opinion Summarisation via Frequency Framed Prompting
+title: "REFER: Mitigating Bias in Opinion Summarisation via Frequency Framed Prompting"
 ---
 
 # REFER: Mitigating Bias in Opinion Summarisation via Frequency Framed Prompting

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PoseMaster: Generating 3D Characters in Arbitrary Poses from a Single Image
+title: "PoseMaster: Generating 3D Characters in Arbitrary Poses from a Single Image"
 ---
 
 # PoseMaster: Generating 3D Characters in Arbitrary Poses from a Single Image

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LikePhys: Evaluating Intuitive Physics Understanding in Video Diffusion Models via Likelihood Preference
+title: "LikePhys: Evaluating Intuitive Physics Understanding in Video Diffusion Models via Likelihood Preference"
 ---
 
 # LikePhys: Evaluating Intuitive Physics Understanding in Video Diffusion Models via Likelihood Preference

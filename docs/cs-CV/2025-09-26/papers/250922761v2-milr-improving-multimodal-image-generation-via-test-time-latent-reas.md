@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MILR: Improving Multimodal Image Generation via Test-Time Latent Reasoning
+title: "MILR: Improving Multimodal Image Generation via Test-Time Latent Reasoning"
 ---
 
 # MILR: Improving Multimodal Image Generation via Test-Time Latent Reasoning

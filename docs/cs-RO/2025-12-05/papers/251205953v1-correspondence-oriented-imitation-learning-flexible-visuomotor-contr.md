@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Correspondence-Oriented Imitation Learning: Flexible Visuomotor Control with 3D Conditioning
+title: "Correspondence-Oriented Imitation Learning: Flexible Visuomotor Control with 3D Conditioning"
 ---
 
 # Correspondence-Oriented Imitation Learning: Flexible Visuomotor Control with 3D Conditioning

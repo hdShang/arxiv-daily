@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VeriOS: Query-Driven Proactive Human-Agent-GUI Interaction for Trustworthy OS Agents
+title: "VeriOS: Query-Driven Proactive Human-Agent-GUI Interaction for Trustworthy OS Agents"
 ---
 
 # VeriOS: Query-Driven Proactive Human-Agent-GUI Interaction for Trustworthy OS Agents

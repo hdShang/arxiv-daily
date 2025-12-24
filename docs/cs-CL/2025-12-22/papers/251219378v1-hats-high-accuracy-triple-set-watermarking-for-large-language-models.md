@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HATS: High-Accuracy Triple-Set Watermarking for Large Language Models
+title: "HATS: High-Accuracy Triple-Set Watermarking for Large Language Models"
 ---
 
 # HATS: High-Accuracy Triple-Set Watermarking for Large Language Models

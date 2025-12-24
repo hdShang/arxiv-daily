@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EGM: Efficiently Learning General Motion Tracking Policy for High Dynamic Humanoid Whole-Body Control
+title: "EGM: Efficiently Learning General Motion Tracking Policy for High Dynamic Humanoid Whole-Body Control"
 ---
 
 # EGM: Efficiently Learning General Motion Tracking Policy for High Dynamic Humanoid Whole-Body Control

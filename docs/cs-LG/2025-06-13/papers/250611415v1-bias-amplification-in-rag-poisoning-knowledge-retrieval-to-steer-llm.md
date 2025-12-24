@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bias Amplification in RAG: Poisoning Knowledge Retrieval to Steer LLMs
+title: "Bias Amplification in RAG: Poisoning Knowledge Retrieval to Steer LLMs"
 ---
 
 # Bias Amplification in RAG: Poisoning Knowledge Retrieval to Steer LLMs

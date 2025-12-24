@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sycophancy Is Not One Thing: Causal Separation of Sycophantic Behaviors in LLMs
+title: "Sycophancy Is Not One Thing: Causal Separation of Sycophantic Behaviors in LLMs"
 ---
 
 # Sycophancy Is Not One Thing: Causal Separation of Sycophantic Behaviors in LLMs

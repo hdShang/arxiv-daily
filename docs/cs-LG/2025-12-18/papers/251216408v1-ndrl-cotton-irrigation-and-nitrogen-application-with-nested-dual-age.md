@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NDRL: Cotton Irrigation and Nitrogen Application with Nested Dual-Agent Reinforcement Learning
+title: "NDRL: Cotton Irrigation and Nitrogen Application with Nested Dual-Agent Reinforcement Learning"
 ---
 
 # NDRL: Cotton Irrigation and Nitrogen Application with Nested Dual-Agent Reinforcement Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RemedyGS: Defend 3D Gaussian Splatting against Computation Cost Attacks
+title: "RemedyGS: Defend 3D Gaussian Splatting against Computation Cost Attacks"
 ---
 
 # RemedyGS: Defend 3D Gaussian Splatting against Computation Cost Attacks

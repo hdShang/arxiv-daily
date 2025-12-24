@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DEER: A Comprehensive and Reliable Benchmark for Deep-Research Expert Reports
+title: "DEER: A Comprehensive and Reliable Benchmark for Deep-Research Expert Reports"
 ---
 
 # DEER: A Comprehensive and Reliable Benchmark for Deep-Research Expert Reports

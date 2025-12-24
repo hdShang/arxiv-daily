@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GEX: Democratizing Dexterity with Fully-Actuated Dexterous Hand and Exoskeleton Glove
+title: "GEX: Democratizing Dexterity with Fully-Actuated Dexterous Hand and Exoskeleton Glove"
 ---
 
 # GEX: Democratizing Dexterity with Fully-Actuated Dexterous Hand and Exoskeleton Glove

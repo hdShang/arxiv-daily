@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PAD-TRO: Projection-Augmented Diffusion for Direct Trajectory Optimization
+title: "PAD-TRO: Projection-Augmented Diffusion for Direct Trajectory Optimization"
 ---
 
 # PAD-TRO: Projection-Augmented Diffusion for Direct Trajectory Optimization

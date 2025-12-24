@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The NTNU System at the S&I Challenge 2025 SLA Open Track
+title: "The NTNU System at the S&I Challenge 2025 SLA Open Track"
 ---
 
 # The NTNU System at the S&I Challenge 2025 SLA Open Track

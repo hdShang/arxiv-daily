@@ -1,6 +1,6 @@
 ---
 layout: default
-title: No Answer Needed: Predicting LLM Answer Accuracy from Question-Only Linear Probes
+title: "No Answer Needed: Predicting LLM Answer Accuracy from Question-Only Linear Probes"
 ---
 
 # No Answer Needed: Predicting LLM Answer Accuracy from Question-Only Linear Probes

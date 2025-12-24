@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Game-Time: Evaluating Temporal Dynamics in Spoken Language Models
+title: "Game-Time: Evaluating Temporal Dynamics in Spoken Language Models"
 ---
 
 # Game-Time: Evaluating Temporal Dynamics in Spoken Language Models

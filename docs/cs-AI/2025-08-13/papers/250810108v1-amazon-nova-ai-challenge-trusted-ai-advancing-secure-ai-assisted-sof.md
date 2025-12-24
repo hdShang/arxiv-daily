@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Amazon Nova AI Challenge -- Trusted AI: Advancing secure, AI-assisted software development
+title: "Amazon Nova AI Challenge -- Trusted AI: Advancing secure, AI-assisted software development"
 ---
 
 # Amazon Nova AI Challenge -- Trusted AI: Advancing secure, AI-assisted software development

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VChain: Chain-of-Visual-Thought for Reasoning in Video Generation
+title: "VChain: Chain-of-Visual-Thought for Reasoning in Video Generation"
 ---
 
 # VChain: Chain-of-Visual-Thought for Reasoning in Video Generation

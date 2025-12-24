@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Epistemological Consequences of Large Language Models: Rethinking collective intelligence and institutional knowledge
+title: "The Epistemological Consequences of Large Language Models: Rethinking collective intelligence and institutional knowledge"
 ---
 
 # The Epistemological Consequences of Large Language Models: Rethinking collective intelligence and institutional knowledge

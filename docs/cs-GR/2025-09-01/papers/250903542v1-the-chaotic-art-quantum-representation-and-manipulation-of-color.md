@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Chaotic Art: Quantum Representation and Manipulation of Color
+title: "The Chaotic Art: Quantum Representation and Manipulation of Color"
 ---
 
 # The Chaotic Art: Quantum Representation and Manipulation of Color

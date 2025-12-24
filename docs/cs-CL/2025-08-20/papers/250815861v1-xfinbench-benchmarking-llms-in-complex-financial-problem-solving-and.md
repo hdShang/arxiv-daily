@@ -1,6 +1,6 @@
 ---
 layout: default
-title: XFinBench: Benchmarking LLMs in Complex Financial Problem Solving and Reasoning
+title: "XFinBench: Benchmarking LLMs in Complex Financial Problem Solving and Reasoning"
 ---
 
 # XFinBench: Benchmarking LLMs in Complex Financial Problem Solving and Reasoning

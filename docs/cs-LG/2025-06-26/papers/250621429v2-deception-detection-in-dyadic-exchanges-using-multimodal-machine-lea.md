@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deception Detection in Dyadic Exchanges Using Multimodal Machine Learning: A Study on a Swedish Cohort
+title: "Deception Detection in Dyadic Exchanges Using Multimodal Machine Learning: A Study on a Swedish Cohort"
 ---
 
 # Deception Detection in Dyadic Exchanges Using Multimodal Machine Learning: A Study on a Swedish Cohort

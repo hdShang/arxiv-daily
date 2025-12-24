@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Interactive Imitation Learning for Dexterous Robotic Manipulation: Challenges and Perspectives -- A Survey
+title: "Interactive Imitation Learning for Dexterous Robotic Manipulation: Challenges and Perspectives -- A Survey"
 ---
 
 # Interactive Imitation Learning for Dexterous Robotic Manipulation: Challenges and Perspectives -- A Survey

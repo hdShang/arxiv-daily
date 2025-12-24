@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GraphRAG-Causal: A novel graph-augmented framework for causal reasoning and annotation in news
+title: "GraphRAG-Causal: A novel graph-augmented framework for causal reasoning and annotation in news"
 ---
 
 # GraphRAG-Causal: A novel graph-augmented framework for causal reasoning and annotation in news

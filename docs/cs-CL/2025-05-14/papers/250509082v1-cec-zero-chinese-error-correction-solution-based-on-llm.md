@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CEC-Zero: Chinese Error Correction Solution Based on LLM
+title: "CEC-Zero: Chinese Error Correction Solution Based on LLM"
 ---
 
 # CEC-Zero: Chinese Error Correction Solution Based on LLM

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Embodied Intelligence for Advanced Bioinspired Microrobotics: Examples and Insights
+title: "Embodied Intelligence for Advanced Bioinspired Microrobotics: Examples and Insights"
 ---
 
 # Embodied Intelligence for Advanced Bioinspired Microrobotics: Examples and Insights

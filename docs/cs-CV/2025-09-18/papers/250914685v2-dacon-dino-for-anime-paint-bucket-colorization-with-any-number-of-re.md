@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DACoN: DINO for Anime Paint Bucket Colorization with Any Number of Reference Images
+title: "DACoN: DINO for Anime Paint Bucket Colorization with Any Number of Reference Images"
 ---
 
 # DACoN: DINO for Anime Paint Bucket Colorization with Any Number of Reference Images

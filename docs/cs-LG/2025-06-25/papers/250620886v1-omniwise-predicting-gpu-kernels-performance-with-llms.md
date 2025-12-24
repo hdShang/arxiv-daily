@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Omniwise: Predicting GPU Kernels Performance with LLMs
+title: "Omniwise: Predicting GPU Kernels Performance with LLMs"
 ---
 
 # Omniwise: Predicting GPU Kernels Performance with LLMs

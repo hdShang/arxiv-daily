@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning
+title: "InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning"
 ---
 
 # InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning

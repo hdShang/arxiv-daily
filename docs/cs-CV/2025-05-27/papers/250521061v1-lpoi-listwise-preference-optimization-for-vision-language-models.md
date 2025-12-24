@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LPOI: Listwise Preference Optimization for Vision Language Models
+title: "LPOI: Listwise Preference Optimization for Vision Language Models"
 ---
 
 # LPOI: Listwise Preference Optimization for Vision Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Legacy to Standard: LLM-Assisted Transformation of Cybersecurity Playbooks into CACAO Format
+title: "From Legacy to Standard: LLM-Assisted Transformation of Cybersecurity Playbooks into CACAO Format"
 ---
 
 # From Legacy to Standard: LLM-Assisted Transformation of Cybersecurity Playbooks into CACAO Format

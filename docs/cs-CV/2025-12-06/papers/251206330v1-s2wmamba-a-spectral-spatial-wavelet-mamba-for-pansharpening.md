@@ -1,6 +1,6 @@
 ---
 layout: default
-title: S2WMamba: A Spectral-Spatial Wavelet Mamba for Pansharpening
+title: "S2WMamba: A Spectral-Spatial Wavelet Mamba for Pansharpening"
 ---
 
 # S2WMamba: A Spectral-Spatial Wavelet Mamba for Pansharpening

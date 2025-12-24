@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents
+title: "Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents"
 ---
 
 # Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents

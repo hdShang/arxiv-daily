@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CLARGA: Multimodal Graph Representation Learning over Arbitrary Sets of Modalities
+title: "CLARGA: Multimodal Graph Representation Learning over Arbitrary Sets of Modalities"
 ---
 
 # CLARGA: Multimodal Graph Representation Learning over Arbitrary Sets of Modalities

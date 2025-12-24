@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Characterizing the Efficiency of Distributed Training: A Power, Performance, and Thermal Perspective
+title: "Characterizing the Efficiency of Distributed Training: A Power, Performance, and Thermal Perspective"
 ---
 
 # Characterizing the Efficiency of Distributed Training: A Power, Performance, and Thermal Perspective

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians
+title: "CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians"
 ---
 
 # CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians

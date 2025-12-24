@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction
+title: "Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction"
 ---
 
 # Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction

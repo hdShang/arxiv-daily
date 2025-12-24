@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Surformer v2: A Multimodal Classifier for Surface Understanding from Touch and Vision
+title: "Surformer v2: A Multimodal Classifier for Surface Understanding from Touch and Vision"
 ---
 
 # Surformer v2: A Multimodal Classifier for Surface Understanding from Touch and Vision

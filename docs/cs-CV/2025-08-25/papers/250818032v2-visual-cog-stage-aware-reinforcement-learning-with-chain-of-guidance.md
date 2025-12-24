@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visual-CoG: Stage-Aware Reinforcement Learning with Chain of Guidance for Text-to-Image Generation
+title: "Visual-CoG: Stage-Aware Reinforcement Learning with Chain of Guidance for Text-to-Image Generation"
 ---
 
 # Visual-CoG: Stage-Aware Reinforcement Learning with Chain of Guidance for Text-to-Image Generation

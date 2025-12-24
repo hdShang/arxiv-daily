@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IROTE: Human-like Traits Elicitation of Large Language Model via In-Context Self-Reflective Optimization
+title: "IROTE: Human-like Traits Elicitation of Large Language Model via In-Context Self-Reflective Optimization"
 ---
 
 # IROTE: Human-like Traits Elicitation of Large Language Model via In-Context Self-Reflective Optimization

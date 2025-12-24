@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Knowledge capture, adaptation and composition (KCAC): A framework for cross-task curriculum learning in robotic manipulation
+title: "Knowledge capture, adaptation and composition (KCAC): A framework for cross-task curriculum learning in robotic manipulation"
 ---
 
 # Knowledge capture, adaptation and composition (KCAC): A framework for cross-task curriculum learning in robotic manipulation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mind the Gap: Data Rewriting for Stable Off-Policy Supervised Fine-Tuning
+title: "Mind the Gap: Data Rewriting for Stable Off-Policy Supervised Fine-Tuning"
 ---
 
 # Mind the Gap: Data Rewriting for Stable Off-Policy Supervised Fine-Tuning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MELLM: A Flow-Guided Large Language Model for Micro-Expression Understanding
+title: "MELLM: A Flow-Guided Large Language Model for Micro-Expression Understanding"
 ---
 
 # MELLM: A Flow-Guided Large Language Model for Micro-Expression Understanding

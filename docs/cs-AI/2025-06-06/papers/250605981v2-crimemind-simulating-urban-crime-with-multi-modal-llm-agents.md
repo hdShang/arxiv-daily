@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CrimeMind: Simulating Urban Crime with Multi-Modal LLM Agents
+title: "CrimeMind: Simulating Urban Crime with Multi-Modal LLM Agents"
 ---
 
 # CrimeMind: Simulating Urban Crime with Multi-Modal LLM Agents

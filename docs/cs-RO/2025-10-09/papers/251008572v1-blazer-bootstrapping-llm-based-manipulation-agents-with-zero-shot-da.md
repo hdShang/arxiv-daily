@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BLAZER: Bootstrapping LLM-based Manipulation Agents with Zero-Shot Data Generation
+title: "BLAZER: Bootstrapping LLM-based Manipulation Agents with Zero-Shot Data Generation"
 ---
 
 # BLAZER: Bootstrapping LLM-based Manipulation Agents with Zero-Shot Data Generation

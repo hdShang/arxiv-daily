@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ACE-F: A Cross Embodiment Foldable System with Force Feedback for Dexterous Teleoperation
+title: "ACE-F: A Cross Embodiment Foldable System with Force Feedback for Dexterous Teleoperation"
 ---
 
 # ACE-F: A Cross Embodiment Foldable System with Force Feedback for Dexterous Teleoperation

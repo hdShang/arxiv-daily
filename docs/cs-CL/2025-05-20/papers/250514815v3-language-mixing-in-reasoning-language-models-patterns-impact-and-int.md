@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Language Mixing in Reasoning Language Models: Patterns, Impact, and Internal Causes
+title: "Language Mixing in Reasoning Language Models: Patterns, Impact, and Internal Causes"
 ---
 
 # Language Mixing in Reasoning Language Models: Patterns, Impact, and Internal Causes

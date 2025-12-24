@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Splat and Replace: 3D Reconstruction with Repetitive Elements
+title: "Splat and Replace: 3D Reconstruction with Repetitive Elements"
 ---
 
 # Splat and Replace: 3D Reconstruction with Repetitive Elements

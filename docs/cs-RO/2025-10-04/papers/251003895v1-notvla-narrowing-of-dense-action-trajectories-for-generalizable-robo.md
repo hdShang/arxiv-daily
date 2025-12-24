@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NoTVLA: Narrowing of Dense Action Trajectories for Generalizable Robot Manipulation
+title: "NoTVLA: Narrowing of Dense Action Trajectories for Generalizable Robot Manipulation"
 ---
 
 # NoTVLA: Narrowing of Dense Action Trajectories for Generalizable Robot Manipulation

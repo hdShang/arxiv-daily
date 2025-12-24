@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AgentPack: A Dataset of Code Changes, Co-Authored by Agents and Humans
+title: "AgentPack: A Dataset of Code Changes, Co-Authored by Agents and Humans"
 ---
 
 # AgentPack: A Dataset of Code Changes, Co-Authored by Agents and Humans

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Simple Yet Effective: Extracting Private Data Across Clients in Federated Fine-Tuning of Large Language Models
+title: "Simple Yet Effective: Extracting Private Data Across Clients in Federated Fine-Tuning of Large Language Models"
 ---
 
 # Simple Yet Effective: Extracting Private Data Across Clients in Federated Fine-Tuning of Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BrepGPT: Autoregressive B-rep Generation with Voronoi Half-Patch
+title: "BrepGPT: Autoregressive B-rep Generation with Voronoi Half-Patch"
 ---
 
 # BrepGPT: Autoregressive B-rep Generation with Voronoi Half-Patch

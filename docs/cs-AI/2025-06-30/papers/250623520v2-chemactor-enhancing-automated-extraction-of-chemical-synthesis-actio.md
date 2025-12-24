@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ChemActor: Enhancing Automated Extraction of Chemical Synthesis Actions with LLM-Generated Data
+title: "ChemActor: Enhancing Automated Extraction of Chemical Synthesis Actions with LLM-Generated Data"
 ---
 
 # ChemActor: Enhancing Automated Extraction of Chemical Synthesis Actions with LLM-Generated Data

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Time to Play: Simulating Early-Life Animal Dynamics Enhances Robotics Locomotion Discovery
+title: "Time to Play: Simulating Early-Life Animal Dynamics Enhances Robotics Locomotion Discovery"
 ---
 
 # Time to Play: Simulating Early-Life Animal Dynamics Enhances Robotics Locomotion Discovery

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PersONAL: Towards a Comprehensive Benchmark for Personalized Embodied Agents
+title: "PersONAL: Towards a Comprehensive Benchmark for Personalized Embodied Agents"
 ---
 
 # PersONAL: Towards a Comprehensive Benchmark for Personalized Embodied Agents

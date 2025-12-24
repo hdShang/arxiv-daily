@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PHUMA: Physically-Grounded Humanoid Locomotion Dataset
+title: "PHUMA: Physically-Grounded Humanoid Locomotion Dataset"
 ---
 
 # PHUMA: Physically-Grounded Humanoid Locomotion Dataset

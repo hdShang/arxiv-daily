@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HyPerNav: Hybrid Perception for Object-Oriented Navigation in Unknown Environment
+title: "HyPerNav: Hybrid Perception for Object-Oriented Navigation in Unknown Environment"
 ---
 
 # HyPerNav: Hybrid Perception for Object-Oriented Navigation in Unknown Environment

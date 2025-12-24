@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GeoVLA: Empowering 3D Representations in Vision-Language-Action Models
+title: "GeoVLA: Empowering 3D Representations in Vision-Language-Action Models"
 ---
 
 # GeoVLA: Empowering 3D Representations in Vision-Language-Action Models

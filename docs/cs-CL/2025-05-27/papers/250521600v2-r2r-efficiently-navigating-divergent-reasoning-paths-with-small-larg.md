@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large Model Token Routing
+title: "R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large Model Token Routing"
 ---
 
 # R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large Model Token Routing

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GeoRanker: Distance-Aware Ranking for Worldwide Image Geolocalization
+title: "GeoRanker: Distance-Aware Ranking for Worldwide Image Geolocalization"
 ---
 
 # GeoRanker: Distance-Aware Ranking for Worldwide Image Geolocalization

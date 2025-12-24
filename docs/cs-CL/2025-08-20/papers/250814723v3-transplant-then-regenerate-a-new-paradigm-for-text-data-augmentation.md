@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Transplant Then Regenerate: A New Paradigm for Text Data Augmentation
+title: "Transplant Then Regenerate: A New Paradigm for Text Data Augmentation"
 ---
 
 # Transplant Then Regenerate: A New Paradigm for Text Data Augmentation

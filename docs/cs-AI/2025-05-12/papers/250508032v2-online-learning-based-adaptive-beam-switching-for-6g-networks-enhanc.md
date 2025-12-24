@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Online Learning-based Adaptive Beam Switching for 6G Networks: Enhancing Efficiency and Resilience
+title: "Online Learning-based Adaptive Beam Switching for 6G Networks: Enhancing Efficiency and Resilience"
 ---
 
 # Online Learning-based Adaptive Beam Switching for 6G Networks: Enhancing Efficiency and Resilience

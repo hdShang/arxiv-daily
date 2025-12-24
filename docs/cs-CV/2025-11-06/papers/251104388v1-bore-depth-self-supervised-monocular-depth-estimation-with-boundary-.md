@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BoRe-Depth: Self-supervised Monocular Depth Estimation with Boundary Refinement for Embedded Systems
+title: "BoRe-Depth: Self-supervised Monocular Depth Estimation with Boundary Refinement for Embedded Systems"
 ---
 
 # BoRe-Depth: Self-supervised Monocular Depth Estimation with Boundary Refinement for Embedded Systems

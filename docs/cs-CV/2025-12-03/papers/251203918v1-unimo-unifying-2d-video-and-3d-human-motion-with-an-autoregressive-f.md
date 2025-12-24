@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniMo: Unifying 2D Video and 3D Human Motion with an Autoregressive Framework
+title: "UniMo: Unifying 2D Video and 3D Human Motion with an Autoregressive Framework"
 ---
 
 # UniMo: Unifying 2D Video and 3D Human Motion with an Autoregressive Framework

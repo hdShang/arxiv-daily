@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Long-LRM++: Preserving Fine Details in Feed-Forward Wide-Coverage Reconstruction
+title: "Long-LRM++: Preserving Fine Details in Feed-Forward Wide-Coverage Reconstruction"
 ---
 
 # Long-LRM++: Preserving Fine Details in Feed-Forward Wide-Coverage Reconstruction

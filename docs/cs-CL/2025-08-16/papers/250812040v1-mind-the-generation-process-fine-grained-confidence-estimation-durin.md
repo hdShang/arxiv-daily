@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mind the Generation Process: Fine-Grained Confidence Estimation During LLM Generation
+title: "Mind the Generation Process: Fine-Grained Confidence Estimation During LLM Generation"
 ---
 
 # Mind the Generation Process: Fine-Grained Confidence Estimation During LLM Generation

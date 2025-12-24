@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech
+title: "MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech"
 ---
 
 # MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech

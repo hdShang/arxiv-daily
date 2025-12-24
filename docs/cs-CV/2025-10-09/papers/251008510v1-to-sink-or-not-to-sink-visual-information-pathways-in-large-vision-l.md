@@ -1,6 +1,6 @@
 ---
 layout: default
-title: To Sink or Not to Sink: Visual Information Pathways in Large Vision-Language Models
+title: "To Sink or Not to Sink: Visual Information Pathways in Large Vision-Language Models"
 ---
 
 # To Sink or Not to Sink: Visual Information Pathways in Large Vision-Language Models

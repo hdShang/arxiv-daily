@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DATR: Diffusion-based 3D Apple Tree Reconstruction Framework with Sparse-View
+title: "DATR: Diffusion-based 3D Apple Tree Reconstruction Framework with Sparse-View"
 ---
 
 # DATR: Diffusion-based 3D Apple Tree Reconstruction Framework with Sparse-View

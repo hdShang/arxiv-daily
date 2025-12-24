@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QuASH: Using Natural-Language Heuristics to Query Visual-Language Robotic Maps
+title: "QuASH: Using Natural-Language Heuristics to Query Visual-Language Robotic Maps"
 ---
 
 # QuASH: Using Natural-Language Heuristics to Query Visual-Language Robotic Maps

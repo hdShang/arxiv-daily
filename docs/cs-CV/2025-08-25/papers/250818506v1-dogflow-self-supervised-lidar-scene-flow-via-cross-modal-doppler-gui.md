@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DoGFlow: Self-Supervised LiDAR Scene Flow via Cross-Modal Doppler Guidance
+title: "DoGFlow: Self-Supervised LiDAR Scene Flow via Cross-Modal Doppler Guidance"
 ---
 
 # DoGFlow: Self-Supervised LiDAR Scene Flow via Cross-Modal Doppler Guidance

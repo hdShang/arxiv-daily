@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Can Video Large Multimodal Models Think Like Doubters-or Double-Down: A Study on Defeasible Video Entailment
+title: "Can Video Large Multimodal Models Think Like Doubters-or Double-Down: A Study on Defeasible Video Entailment"
 ---
 
 # Can Video Large Multimodal Models Think Like Doubters-or Double-Down: A Study on Defeasible Video Entailment

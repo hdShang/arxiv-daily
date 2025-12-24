@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CanvasMAR: Improving Masked Autoregressive Video Generation With Canvas
+title: "CanvasMAR: Improving Masked Autoregressive Video Generation With Canvas"
 ---
 
 # CanvasMAR: Improving Masked Autoregressive Video Generation With Canvas

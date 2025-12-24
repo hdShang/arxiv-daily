@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FreeTacMan: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation
+title: "FreeTacMan: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation"
 ---
 
 # FreeTacMan: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation

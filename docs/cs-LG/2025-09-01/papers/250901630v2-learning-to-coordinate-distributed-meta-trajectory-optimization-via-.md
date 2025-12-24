@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning to Coordinate: Distributed Meta-Trajectory Optimization Via Differentiable ADMM-DDP
+title: "Learning to Coordinate: Distributed Meta-Trajectory Optimization Via Differentiable ADMM-DDP"
 ---
 
 # Learning to Coordinate: Distributed Meta-Trajectory Optimization Via Differentiable ADMM-DDP

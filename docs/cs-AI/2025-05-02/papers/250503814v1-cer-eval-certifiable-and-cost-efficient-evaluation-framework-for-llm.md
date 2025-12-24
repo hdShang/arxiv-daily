@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cer-Eval: Certifiable and Cost-Efficient Evaluation Framework for LLMs
+title: "Cer-Eval: Certifiable and Cost-Efficient Evaluation Framework for LLMs"
 ---
 
 # Cer-Eval: Certifiable and Cost-Efficient Evaluation Framework for LLMs

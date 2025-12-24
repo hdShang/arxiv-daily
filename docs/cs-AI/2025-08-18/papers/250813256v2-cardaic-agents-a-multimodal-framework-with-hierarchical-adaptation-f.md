@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CardAIc-Agents: A Multimodal Framework with Hierarchical Adaptation for Cardiac Care Support
+title: "CardAIc-Agents: A Multimodal Framework with Hierarchical Adaptation for Cardiac Care Support"
 ---
 
 # CardAIc-Agents: A Multimodal Framework with Hierarchical Adaptation for Cardiac Care Support

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MedFoundationHub: A Lightweight and Secure Toolkit for Deploying Medical Vision Language Foundation Models
+title: "MedFoundationHub: A Lightweight and Secure Toolkit for Deploying Medical Vision Language Foundation Models"
 ---
 
 # MedFoundationHub: A Lightweight and Secure Toolkit for Deploying Medical Vision Language Foundation Models

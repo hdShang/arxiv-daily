@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning MLLMs and RL
+title: "VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning MLLMs and RL"
 ---
 
 # VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning MLLMs and RL

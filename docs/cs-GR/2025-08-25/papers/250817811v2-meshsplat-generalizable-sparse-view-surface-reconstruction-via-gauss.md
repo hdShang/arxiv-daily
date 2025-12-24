@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MeshSplat: Generalizable Sparse-View Surface Reconstruction via Gaussian Splatting
+title: "MeshSplat: Generalizable Sparse-View Surface Reconstruction via Gaussian Splatting"
 ---
 
 # MeshSplat: Generalizable Sparse-View Surface Reconstruction via Gaussian Splatting

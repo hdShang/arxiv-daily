@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FPC-VLA: A Vision-Language-Action Framework with a Supervisor for Failure Prediction and Correction
+title: "FPC-VLA: A Vision-Language-Action Framework with a Supervisor for Failure Prediction and Correction"
 ---
 
 # FPC-VLA: A Vision-Language-Action Framework with a Supervisor for Failure Prediction and Correction

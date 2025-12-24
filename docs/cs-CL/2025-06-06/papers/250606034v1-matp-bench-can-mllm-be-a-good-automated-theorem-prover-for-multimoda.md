@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MATP-BENCH: Can MLLM Be a Good Automated Theorem Prover for Multimodal Problems?
+title: "MATP-BENCH: Can MLLM Be a Good Automated Theorem Prover for Multimodal Problems?"
 ---
 
 # MATP-BENCH: Can MLLM Be a Good Automated Theorem Prover for Multimodal Problems?

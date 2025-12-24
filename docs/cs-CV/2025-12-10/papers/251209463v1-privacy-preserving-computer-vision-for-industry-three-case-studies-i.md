@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Privacy-Preserving Computer Vision for Industry: Three Case Studies in Human-Centric Manufacturing
+title: "Privacy-Preserving Computer Vision for Industry: Three Case Studies in Human-Centric Manufacturing"
 ---
 
 # Privacy-Preserving Computer Vision for Industry: Three Case Studies in Human-Centric Manufacturing

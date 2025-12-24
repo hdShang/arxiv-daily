@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoCA: Identity-Preserving Text-to-Video Generation via Mixture of Cross Attention
+title: "MoCA: Identity-Preserving Text-to-Video Generation via Mixture of Cross Attention"
 ---
 
 # MoCA: Identity-Preserving Text-to-Video Generation via Mixture of Cross Attention

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BeetleFlow: An Integrative Deep Learning Pipeline for Beetle Image Processing
+title: "BeetleFlow: An Integrative Deep Learning Pipeline for Beetle Image Processing"
 ---
 
 # BeetleFlow: An Integrative Deep Learning Pipeline for Beetle Image Processing

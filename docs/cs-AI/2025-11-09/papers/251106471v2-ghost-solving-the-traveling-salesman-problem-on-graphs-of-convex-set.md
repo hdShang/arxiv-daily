@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GHOST: Solving the Traveling Salesman Problem on Graphs of Convex Sets
+title: "GHOST: Solving the Traveling Salesman Problem on Graphs of Convex Sets"
 ---
 
 # GHOST: Solving the Traveling Salesman Problem on Graphs of Convex Sets

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: One-Token Rollout: Guiding Supervised Fine-Tuning of LLMs with Policy Gradient
+title: "One-Token Rollout: Guiding Supervised Fine-Tuning of LLMs with Policy Gradient"
 ---
 
 # One-Token Rollout: Guiding Supervised Fine-Tuning of LLMs with Policy Gradient

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DexFlow: A Unified Approach for Dexterous Hand Pose Retargeting and Interaction
+title: "DexFlow: A Unified Approach for Dexterous Hand Pose Retargeting and Interaction"
 ---
 
 # DexFlow: A Unified Approach for Dexterous Hand Pose Retargeting and Interaction

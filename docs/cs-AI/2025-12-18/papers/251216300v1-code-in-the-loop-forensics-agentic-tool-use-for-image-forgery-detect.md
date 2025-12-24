@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Code-in-the-Loop Forensics: Agentic Tool Use for Image Forgery Detection
+title: "Code-in-the-Loop Forensics: Agentic Tool Use for Image Forgery Detection"
 ---
 
 # Code-in-the-Loop Forensics: Agentic Tool Use for Image Forgery Detection

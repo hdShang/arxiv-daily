@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Debating for Better Reasoning: An Unsupervised Multimodal Approach
+title: "Debating for Better Reasoning: An Unsupervised Multimodal Approach"
 ---
 
 # Debating for Better Reasoning: An Unsupervised Multimodal Approach

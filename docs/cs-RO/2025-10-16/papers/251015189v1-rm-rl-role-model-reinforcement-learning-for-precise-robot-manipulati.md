@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RM-RL: Role-Model Reinforcement Learning for Precise Robot Manipulation
+title: "RM-RL: Role-Model Reinforcement Learning for Precise Robot Manipulation"
 ---
 
 # RM-RL: Role-Model Reinforcement Learning for Precise Robot Manipulation

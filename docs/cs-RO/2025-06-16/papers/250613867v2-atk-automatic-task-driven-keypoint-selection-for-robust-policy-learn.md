@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ATK: Automatic Task-driven Keypoint Selection for Robust Policy Learning
+title: "ATK: Automatic Task-driven Keypoint Selection for Robust Policy Learning"
 ---
 
 # ATK: Automatic Task-driven Keypoint Selection for Robust Policy Learning

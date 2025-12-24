@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COPO: Causal-Oriented Policy Optimization for Hallucinations of MLLMs
+title: "COPO: Causal-Oriented Policy Optimization for Hallucinations of MLLMs"
 ---
 
 # COPO: Causal-Oriented Policy Optimization for Hallucinations of MLLMs

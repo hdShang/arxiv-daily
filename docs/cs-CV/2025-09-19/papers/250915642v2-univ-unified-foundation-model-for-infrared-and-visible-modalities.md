@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UNIV: Unified Foundation Model for Infrared and Visible Modalities
+title: "UNIV: Unified Foundation Model for Infrared and Visible Modalities"
 ---
 
 # UNIV: Unified Foundation Model for Infrared and Visible Modalities

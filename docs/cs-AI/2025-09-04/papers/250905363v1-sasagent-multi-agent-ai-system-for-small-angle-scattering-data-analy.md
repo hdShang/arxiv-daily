@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SasAgent: Multi-Agent AI System for Small-Angle Scattering Data Analysis
+title: "SasAgent: Multi-Agent AI System for Small-Angle Scattering Data Analysis"
 ---
 
 # SasAgent: Multi-Agent AI System for Small-Angle Scattering Data Analysis

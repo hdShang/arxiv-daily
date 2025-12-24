@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project Riley: Multimodal Multi-Agent LLM Collaboration with Emotional Reasoning and Voting
+title: "Project Riley: Multimodal Multi-Agent LLM Collaboration with Emotional Reasoning and Voting"
 ---
 
 # Project Riley: Multimodal Multi-Agent LLM Collaboration with Emotional Reasoning and Voting

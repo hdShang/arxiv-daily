@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mistake Attribution: Fine-Grained Mistake Understanding in Egocentric Videos
+title: "Mistake Attribution: Fine-Grained Mistake Understanding in Egocentric Videos"
 ---
 
 # Mistake Attribution: Fine-Grained Mistake Understanding in Egocentric Videos

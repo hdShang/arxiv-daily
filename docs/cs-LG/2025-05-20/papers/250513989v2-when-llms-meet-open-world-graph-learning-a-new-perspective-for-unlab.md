@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When LLMs meet open-world graph learning: a new perspective for unlabeled data uncertainty
+title: "When LLMs meet open-world graph learning: a new perspective for unlabeled data uncertainty"
 ---
 
 # When LLMs meet open-world graph learning: a new perspective for unlabeled data uncertainty

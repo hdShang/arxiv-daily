@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation
+title: "Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation"
 ---
 
 # Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation

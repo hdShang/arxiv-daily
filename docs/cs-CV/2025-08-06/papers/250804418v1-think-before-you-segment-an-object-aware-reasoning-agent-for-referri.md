@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Think Before You Segment: An Object-aware Reasoning Agent for Referring Audio-Visual Segmentation
+title: "Think Before You Segment: An Object-aware Reasoning Agent for Referring Audio-Visual Segmentation"
 ---
 
 # Think Before You Segment: An Object-aware Reasoning Agent for Referring Audio-Visual Segmentation

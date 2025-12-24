@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learn from the Past: Fast Sparse Indexing for Large Language Model Decoding
+title: "Learn from the Past: Fast Sparse Indexing for Large Language Model Decoding"
 ---
 
 # Learn from the Past: Fast Sparse Indexing for Large Language Model Decoding

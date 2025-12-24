@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Using AI for User Representation: An Analysis of 83 Persona Prompts
+title: "Using AI for User Representation: An Analysis of 83 Persona Prompts"
 ---
 
 # Using AI for User Representation: An Analysis of 83 Persona Prompts

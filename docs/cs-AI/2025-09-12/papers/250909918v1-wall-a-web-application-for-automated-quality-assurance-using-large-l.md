@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WALL: A Web Application for Automated Quality Assurance using Large Language Models
+title: "WALL: A Web Application for Automated Quality Assurance using Large Language Models"
 ---
 
 # WALL: A Web Application for Automated Quality Assurance using Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FlexiCup: Wireless Multimodal Suction Cup with Dual-Zone Vision-Tactile Sensing
+title: "FlexiCup: Wireless Multimodal Suction Cup with Dual-Zone Vision-Tactile Sensing"
 ---
 
 # FlexiCup: Wireless Multimodal Suction Cup with Dual-Zone Vision-Tactile Sensing

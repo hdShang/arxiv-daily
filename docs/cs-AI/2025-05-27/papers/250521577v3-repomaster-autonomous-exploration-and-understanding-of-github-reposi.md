@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RepoMaster: Autonomous Exploration and Understanding of GitHub Repositories for Complex Task Solving
+title: "RepoMaster: Autonomous Exploration and Understanding of GitHub Repositories for Complex Task Solving"
 ---
 
 # RepoMaster: Autonomous Exploration and Understanding of GitHub Repositories for Complex Task Solving

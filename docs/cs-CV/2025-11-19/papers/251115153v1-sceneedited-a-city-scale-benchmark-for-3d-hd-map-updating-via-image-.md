@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SceneEdited: A City-Scale Benchmark for 3D HD Map Updating via Image-Guided Change Detection
+title: "SceneEdited: A City-Scale Benchmark for 3D HD Map Updating via Image-Guided Change Detection"
 ---
 
 # SceneEdited: A City-Scale Benchmark for 3D HD Map Updating via Image-Guided Change Detection

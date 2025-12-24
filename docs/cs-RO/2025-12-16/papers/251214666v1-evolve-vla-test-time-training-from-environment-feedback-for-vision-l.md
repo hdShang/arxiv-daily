@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EVOLVE-VLA: Test-Time Training from Environment Feedback for Vision-Language-Action Models
+title: "EVOLVE-VLA: Test-Time Training from Environment Feedback for Vision-Language-Action Models"
 ---
 
 # EVOLVE-VLA: Test-Time Training from Environment Feedback for Vision-Language-Action Models

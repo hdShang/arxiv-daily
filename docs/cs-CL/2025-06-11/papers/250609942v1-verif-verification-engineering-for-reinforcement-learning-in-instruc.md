@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VerIF: Verification Engineering for Reinforcement Learning in Instruction Following
+title: "VerIF: Verification Engineering for Reinforcement Learning in Instruction Following"
 ---
 
 # VerIF: Verification Engineering for Reinforcement Learning in Instruction Following

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GaussianMorphing: Mesh-Guided 3D Gaussians for Semantic-Aware Object Morphing
+title: "GaussianMorphing: Mesh-Guided 3D Gaussians for Semantic-Aware Object Morphing"
 ---
 
 # GaussianMorphing: Mesh-Guided 3D Gaussians for Semantic-Aware Object Morphing

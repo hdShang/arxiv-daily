@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chain-of-Thought for Autonomous Driving: A Comprehensive Survey and Future Prospects
+title: "Chain-of-Thought for Autonomous Driving: A Comprehensive Survey and Future Prospects"
 ---
 
 # Chain-of-Thought for Autonomous Driving: A Comprehensive Survey and Future Prospects

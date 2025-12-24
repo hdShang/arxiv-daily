@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GFN-SR: Symbolic Regression with Generative Flow Networks
+title: "GFN-SR: Symbolic Regression with Generative Flow Networks"
 ---
 
 # GFN-SR: Symbolic Regression with Generative Flow Networks

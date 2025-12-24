@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SCOPE: Speech-guided COllaborative PErception Framework for Surgical Scene Segmentation
+title: "SCOPE: Speech-guided COllaborative PErception Framework for Surgical Scene Segmentation"
 ---
 
 # SCOPE: Speech-guided COllaborative PErception Framework for Surgical Scene Segmentation

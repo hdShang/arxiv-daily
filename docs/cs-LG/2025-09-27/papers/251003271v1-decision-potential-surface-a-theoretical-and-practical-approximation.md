@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Decision Potential Surface: A Theoretical and Practical Approximation of LLM's Decision Boundary
+title: "Decision Potential Surface: A Theoretical and Practical Approximation of LLM's Decision Boundary"
 ---
 
 # Decision Potential Surface: A Theoretical and Practical Approximation of LLM's Decision Boundary

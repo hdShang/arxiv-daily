@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Gold Standards: Epistemic Ensemble of LLM Judges for Formal Mathematical Reasoning
+title: "Beyond Gold Standards: Epistemic Ensemble of LLM Judges for Formal Mathematical Reasoning"
 ---
 
 # Beyond Gold Standards: Epistemic Ensemble of LLM Judges for Formal Mathematical Reasoning

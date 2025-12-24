@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SentinelAgent: Graph-based Anomaly Detection in Multi-Agent Systems
+title: "SentinelAgent: Graph-based Anomaly Detection in Multi-Agent Systems"
 ---
 
 # SentinelAgent: Graph-based Anomaly Detection in Multi-Agent Systems

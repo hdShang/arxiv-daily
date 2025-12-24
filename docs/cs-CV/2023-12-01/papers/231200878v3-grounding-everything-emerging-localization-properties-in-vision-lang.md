@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Grounding Everything: Emerging Localization Properties in Vision-Language Transformers
+title: "Grounding Everything: Emerging Localization Properties in Vision-Language Transformers"
 ---
 
 # Grounding Everything: Emerging Localization Properties in Vision-Language Transformers

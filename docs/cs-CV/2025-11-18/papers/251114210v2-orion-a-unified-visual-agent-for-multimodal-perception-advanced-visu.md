@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Orion: A Unified Visual Agent for Multimodal Perception, Advanced Visual Reasoning and Execution
+title: "Orion: A Unified Visual Agent for Multimodal Perception, Advanced Visual Reasoning and Execution"
 ---
 
 # Orion: A Unified Visual Agent for Multimodal Perception, Advanced Visual Reasoning and Execution

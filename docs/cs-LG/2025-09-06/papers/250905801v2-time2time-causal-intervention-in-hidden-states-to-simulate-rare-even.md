@@ -1,6 +1,6 @@
 ---
 layout: default
-title: time2time: Causal Intervention in Hidden States to Simulate Rare Events in Time Series Foundation Models
+title: "time2time: Causal Intervention in Hidden States to Simulate Rare Events in Time Series Foundation Models"
 ---
 
 # time2time: Causal Intervention in Hidden States to Simulate Rare Events in Time Series Foundation Models

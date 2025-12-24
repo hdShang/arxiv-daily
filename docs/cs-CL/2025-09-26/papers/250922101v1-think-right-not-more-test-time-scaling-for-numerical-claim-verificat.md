@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Think Right, Not More: Test-Time Scaling for Numerical Claim Verification
+title: "Think Right, Not More: Test-Time Scaling for Numerical Claim Verification"
 ---
 
 # Think Right, Not More: Test-Time Scaling for Numerical Claim Verification

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3D4D: An Interactive, Editable, 4D World Model via 3D Video Generation
+title: "3D4D: An Interactive, Editable, 4D World Model via 3D Video Generation"
 ---
 
 # 3D4D: An Interactive, Editable, 4D World Model via 3D Video Generation

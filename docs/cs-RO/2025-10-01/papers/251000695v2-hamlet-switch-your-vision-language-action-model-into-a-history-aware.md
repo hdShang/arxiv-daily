@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HAMLET: Switch your Vision-Language-Action Model into a History-Aware Policy
+title: "HAMLET: Switch your Vision-Language-Action Model into a History-Aware Policy"
 ---
 
 # HAMLET: Switch your Vision-Language-Action Model into a History-Aware Policy

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: More Than a Score: Probing the Impact of Prompt Specificity on LLM Code Generation
+title: "More Than a Score: Probing the Impact of Prompt Specificity on LLM Code Generation"
 ---
 
 # More Than a Score: Probing the Impact of Prompt Specificity on LLM Code Generation

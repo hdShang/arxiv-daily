@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spiking control systems for soft robotics: a rhythmic case study in a soft robotic crawler
+title: "Spiking control systems for soft robotics: a rhythmic case study in a soft robotic crawler"
 ---
 
 # Spiking control systems for soft robotics: a rhythmic case study in a soft robotic crawler

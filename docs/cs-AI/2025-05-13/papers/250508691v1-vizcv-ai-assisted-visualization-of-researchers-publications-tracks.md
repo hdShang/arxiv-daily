@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VizCV: AI-assisted visualization of researchers' publications tracks
+title: "VizCV: AI-assisted visualization of researchers' publications tracks"
 ---
 
 # VizCV: AI-assisted visualization of researchers' publications tracks

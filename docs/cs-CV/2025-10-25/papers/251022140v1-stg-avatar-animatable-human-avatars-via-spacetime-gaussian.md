@@ -1,6 +1,6 @@
 ---
 layout: default
-title: STG-Avatar: Animatable Human Avatars via Spacetime Gaussian
+title: "STG-Avatar: Animatable Human Avatars via Spacetime Gaussian"
 ---
 
 # STG-Avatar: Animatable Human Avatars via Spacetime Gaussian

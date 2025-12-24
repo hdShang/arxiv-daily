@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold
+title: "VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold"
 ---
 
 # VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold

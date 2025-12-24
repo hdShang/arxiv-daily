@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Challenging the Evaluator: LLM Sycophancy Under User Rebuttal
+title: "Challenging the Evaluator: LLM Sycophancy Under User Rebuttal"
 ---
 
 # Challenging the Evaluator: LLM Sycophancy Under User Rebuttal

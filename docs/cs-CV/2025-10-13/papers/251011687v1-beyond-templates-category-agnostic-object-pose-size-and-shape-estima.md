@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond 'Templates': Category-Agnostic Object Pose, Size, and Shape Estimation from a Single View
+title: "Beyond 'Templates': Category-Agnostic Object Pose, Size, and Shape Estimation from a Single View"
 ---
 
 # Beyond 'Templates': Category-Agnostic Object Pose, Size, and Shape Estimation from a Single View

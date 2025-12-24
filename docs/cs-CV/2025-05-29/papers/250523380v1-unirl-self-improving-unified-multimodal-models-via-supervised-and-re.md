@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning
+title: "UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning"
 ---
 
 # UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning

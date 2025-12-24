@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Let's Roleplay: Examining LLM Alignment in Collaborative Dialogues
+title: "Let's Roleplay: Examining LLM Alignment in Collaborative Dialogues"
 ---
 
 # Let's Roleplay: Examining LLM Alignment in Collaborative Dialogues

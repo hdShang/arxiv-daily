@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ArgRAG: Explainable Retrieval Augmented Generation using Quantitative Bipolar Argumentation
+title: "ArgRAG: Explainable Retrieval Augmented Generation using Quantitative Bipolar Argumentation"
 ---
 
 # ArgRAG: Explainable Retrieval Augmented Generation using Quantitative Bipolar Argumentation

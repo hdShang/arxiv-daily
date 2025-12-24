@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Total-Editing: Head Avatar with Editable Appearance, Motion, and Lighting
+title: "Total-Editing: Head Avatar with Editable Appearance, Motion, and Lighting"
 ---
 
 # Total-Editing: Head Avatar with Editable Appearance, Motion, and Lighting

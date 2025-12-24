@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Temporal Prompting Matters: Rethinking Referring Video Object Segmentation
+title: "Temporal Prompting Matters: Rethinking Referring Video Object Segmentation"
 ---
 
 # Temporal Prompting Matters: Rethinking Referring Video Object Segmentation

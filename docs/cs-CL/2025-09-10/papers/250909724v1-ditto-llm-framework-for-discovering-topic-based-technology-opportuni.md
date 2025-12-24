@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DiTTO-LLM: Framework for Discovering Topic-based Technology Opportunities via Large Language Model
+title: "DiTTO-LLM: Framework for Discovering Topic-based Technology Opportunities via Large Language Model"
 ---
 
 # DiTTO-LLM: Framework for Discovering Topic-based Technology Opportunities via Large Language Model

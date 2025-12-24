@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Automated Journalistic Questions: A New Method for Extracting 5W1H in French
+title: "Automated Journalistic Questions: A New Method for Extracting 5W1H in French"
 ---
 
 # Automated Journalistic Questions: A New Method for Extracting 5W1H in French

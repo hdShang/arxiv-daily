@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ELMUR: External Layer Memory with Update/Rewrite for Long-Horizon RL
+title: "ELMUR: External Layer Memory with Update/Rewrite for Long-Horizon RL"
 ---
 
 # ELMUR: External Layer Memory with Update/Rewrite for Long-Horizon RL

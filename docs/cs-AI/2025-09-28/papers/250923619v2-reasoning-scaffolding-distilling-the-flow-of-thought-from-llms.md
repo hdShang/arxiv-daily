@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reasoning Scaffolding: Distilling the Flow of Thought from LLMs
+title: "Reasoning Scaffolding: Distilling the Flow of Thought from LLMs"
 ---
 
 # Reasoning Scaffolding: Distilling the Flow of Thought from LLMs

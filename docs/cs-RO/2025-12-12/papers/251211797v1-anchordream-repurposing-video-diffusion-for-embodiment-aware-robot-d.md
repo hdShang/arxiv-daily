@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AnchorDream: Repurposing Video Diffusion for Embodiment-Aware Robot Data Synthesis
+title: "AnchorDream: Repurposing Video Diffusion for Embodiment-Aware Robot Data Synthesis"
 ---
 
 # AnchorDream: Repurposing Video Diffusion for Embodiment-Aware Robot Data Synthesis

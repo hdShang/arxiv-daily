@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboTron-Sim: Improving Real-World Driving via Simulated Hard-Case
+title: "RoboTron-Sim: Improving Real-World Driving via Simulated Hard-Case"
 ---
 
 # RoboTron-Sim: Improving Real-World Driving via Simulated Hard-Case

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InstructPart: Task-Oriented Part Segmentation with Instruction Reasoning
+title: "InstructPart: Task-Oriented Part Segmentation with Instruction Reasoning"
 ---
 
 # InstructPart: Task-Oriented Part Segmentation with Instruction Reasoning

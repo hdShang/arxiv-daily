@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Appreciate the View: A Task-Aware Evaluation Framework for Novel View Synthesis
+title: "Appreciate the View: A Task-Aware Evaluation Framework for Novel View Synthesis"
 ---
 
 # Appreciate the View: A Task-Aware Evaluation Framework for Novel View Synthesis

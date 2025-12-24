@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AVO: Amortized Value Optimization for Contact Mode Switching in Multi-Finger Manipulation
+title: "AVO: Amortized Value Optimization for Contact Mode Switching in Multi-Finger Manipulation"
 ---
 
 # AVO: Amortized Value Optimization for Contact Mode Switching in Multi-Finger Manipulation

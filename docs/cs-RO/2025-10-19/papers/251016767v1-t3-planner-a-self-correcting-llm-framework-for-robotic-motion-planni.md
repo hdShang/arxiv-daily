@@ -1,6 +1,6 @@
 ---
 layout: default
-title: T3 Planner: A Self-Correcting LLM Framework for Robotic Motion Planning with Temporal Logic
+title: "T3 Planner: A Self-Correcting LLM Framework for Robotic Motion Planning with Temporal Logic"
 ---
 
 # T3 Planner: A Self-Correcting LLM Framework for Robotic Motion Planning with Temporal Logic

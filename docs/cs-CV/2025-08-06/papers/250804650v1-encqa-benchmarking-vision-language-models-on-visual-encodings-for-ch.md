@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EncQA: Benchmarking Vision-Language Models on Visual Encodings for Charts
+title: "EncQA: Benchmarking Vision-Language Models on Visual Encodings for Charts"
 ---
 
 # EncQA: Benchmarking Vision-Language Models on Visual Encodings for Charts

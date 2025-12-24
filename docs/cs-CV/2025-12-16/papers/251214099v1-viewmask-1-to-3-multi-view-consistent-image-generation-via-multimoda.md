@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ViewMask-1-to-3: Multi-View Consistent Image Generation via Multimodal Diffusion Models
+title: "ViewMask-1-to-3: Multi-View Consistent Image Generation via Multimodal Diffusion Models"
 ---
 
 # ViewMask-1-to-3: Multi-View Consistent Image Generation via Multimodal Diffusion Models

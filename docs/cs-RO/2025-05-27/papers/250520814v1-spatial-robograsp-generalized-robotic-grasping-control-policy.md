@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spatial RoboGrasp: Generalized Robotic Grasping Control Policy
+title: "Spatial RoboGrasp: Generalized Robotic Grasping Control Policy"
 ---
 
 # Spatial RoboGrasp: Generalized Robotic Grasping Control Policy

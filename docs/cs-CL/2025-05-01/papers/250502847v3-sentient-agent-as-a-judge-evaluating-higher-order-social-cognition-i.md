@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sentient Agent as a Judge: Evaluating Higher-Order Social Cognition in Large Language Models
+title: "Sentient Agent as a Judge: Evaluating Higher-Order Social Cognition in Large Language Models"
 ---
 
 # Sentient Agent as a Judge: Evaluating Higher-Order Social Cognition in Large Language Models

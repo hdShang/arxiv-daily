@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM-to-Phy3D: Physically Conform Online 3D Object Generation with LLMs
+title: "LLM-to-Phy3D: Physically Conform Online 3D Object Generation with LLMs"
 ---
 
 # LLM-to-Phy3D: Physically Conform Online 3D Object Generation with LLMs

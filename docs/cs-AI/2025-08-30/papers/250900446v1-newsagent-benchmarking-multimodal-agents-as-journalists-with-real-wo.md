@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NEWSAGENT: Benchmarking Multimodal Agents as Journalists with Real-World Newswriting Tasks
+title: "NEWSAGENT: Benchmarking Multimodal Agents as Journalists with Real-World Newswriting Tasks"
 ---
 
 # NEWSAGENT: Benchmarking Multimodal Agents as Journalists with Real-World Newswriting Tasks

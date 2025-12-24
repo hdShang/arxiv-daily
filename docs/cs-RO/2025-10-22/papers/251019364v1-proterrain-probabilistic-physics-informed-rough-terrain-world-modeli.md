@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ProTerrain: Probabilistic Physics-Informed Rough Terrain World Modeling
+title: "ProTerrain: Probabilistic Physics-Informed Rough Terrain World Modeling"
 ---
 
 # ProTerrain: Probabilistic Physics-Informed Rough Terrain World Modeling

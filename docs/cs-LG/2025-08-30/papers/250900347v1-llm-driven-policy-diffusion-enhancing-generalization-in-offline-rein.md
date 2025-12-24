@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM-Driven Policy Diffusion: Enhancing Generalization in Offline Reinforcement Learning
+title: "LLM-Driven Policy Diffusion: Enhancing Generalization in Offline Reinforcement Learning"
 ---
 
 # LLM-Driven Policy Diffusion: Enhancing Generalization in Offline Reinforcement Learning

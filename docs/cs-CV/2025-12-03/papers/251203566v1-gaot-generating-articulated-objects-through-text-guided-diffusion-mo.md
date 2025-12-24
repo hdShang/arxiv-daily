@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GAOT: Generating Articulated Objects Through Text-Guided Diffusion Models
+title: "GAOT: Generating Articulated Objects Through Text-Guided Diffusion Models"
 ---
 
 # GAOT: Generating Articulated Objects Through Text-Guided Diffusion Models

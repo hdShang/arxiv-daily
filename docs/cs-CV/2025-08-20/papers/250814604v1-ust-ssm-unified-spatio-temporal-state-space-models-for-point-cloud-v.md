@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UST-SSM: Unified Spatio-Temporal State Space Models for Point Cloud Video Modeling
+title: "UST-SSM: Unified Spatio-Temporal State Space Models for Point Cloud Video Modeling"
 ---
 
 # UST-SSM: Unified Spatio-Temporal State Space Models for Point Cloud Video Modeling

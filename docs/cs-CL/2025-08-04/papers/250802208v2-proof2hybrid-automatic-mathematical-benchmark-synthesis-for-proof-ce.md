@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Proof2Hybrid: Automatic Mathematical Benchmark Synthesis for Proof-Centric Problems
+title: "Proof2Hybrid: Automatic Mathematical Benchmark Synthesis for Proof-Centric Problems"
 ---
 
 # Proof2Hybrid: Automatic Mathematical Benchmark Synthesis for Proof-Centric Problems

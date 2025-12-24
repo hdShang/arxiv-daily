@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Policy-labeled Preference Learning: Is Preference Enough for RLHF?
+title: "Policy-labeled Preference Learning: Is Preference Enough for RLHF?"
 ---
 
 # Policy-labeled Preference Learning: Is Preference Enough for RLHF?

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ChemBOMAS: Accelerated BO in Chemistry with LLM-Enhanced Multi-Agent System
+title: "ChemBOMAS: Accelerated BO in Chemistry with LLM-Enhanced Multi-Agent System"
 ---
 
 # ChemBOMAS: Accelerated BO in Chemistry with LLM-Enhanced Multi-Agent System

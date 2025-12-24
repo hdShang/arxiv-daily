@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Detect, Classify, Act: Categorizing Industrial Anomalies with Multi-Modal Large Language Models
+title: "Detect, Classify, Act: Categorizing Industrial Anomalies with Multi-Modal Large Language Models"
 ---
 
 # Detect, Classify, Act: Categorizing Industrial Anomalies with Multi-Modal Large Language Models

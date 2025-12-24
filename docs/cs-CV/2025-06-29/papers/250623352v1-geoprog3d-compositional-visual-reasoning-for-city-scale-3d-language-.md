@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GeoProg3D: Compositional Visual Reasoning for City-Scale 3D Language Fields
+title: "GeoProg3D: Compositional Visual Reasoning for City-Scale 3D Language Fields"
 ---
 
 # GeoProg3D: Compositional Visual Reasoning for City-Scale 3D Language Fields

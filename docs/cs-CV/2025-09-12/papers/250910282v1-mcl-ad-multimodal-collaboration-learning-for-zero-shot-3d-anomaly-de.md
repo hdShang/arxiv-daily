@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MCL-AD: Multimodal Collaboration Learning for Zero-Shot 3D Anomaly Detection
+title: "MCL-AD: Multimodal Collaboration Learning for Zero-Shot 3D Anomaly Detection"
 ---
 
 # MCL-AD: Multimodal Collaboration Learning for Zero-Shot 3D Anomaly Detection

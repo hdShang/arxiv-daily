@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Textual CoT: Interleaved Text-Image Chains with Deep Confidence Reasoning for Image Editing
+title: "Beyond Textual CoT: Interleaved Text-Image Chains with Deep Confidence Reasoning for Image Editing"
 ---
 
 # Beyond Textual CoT: Interleaved Text-Image Chains with Deep Confidence Reasoning for Image Editing

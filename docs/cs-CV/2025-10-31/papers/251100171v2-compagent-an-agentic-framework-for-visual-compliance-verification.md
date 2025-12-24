@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CompAgent: An Agentic Framework for Visual Compliance Verification
+title: "CompAgent: An Agentic Framework for Visual Compliance Verification"
 ---
 
 # CompAgent: An Agentic Framework for Visual Compliance Verification

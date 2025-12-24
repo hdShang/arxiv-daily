@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Optimizing Agricultural Research: A RAG-Based Approach to Mycorrhizal Fungi Information
+title: "Optimizing Agricultural Research: A RAG-Based Approach to Mycorrhizal Fungi Information"
 ---
 
 # Optimizing Agricultural Research: A RAG-Based Approach to Mycorrhizal Fungi Information

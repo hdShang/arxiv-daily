@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RTQA : Recursive Thinking for Complex Temporal Knowledge Graph Question Answering with Large Language Models
+title: "RTQA : Recursive Thinking for Complex Temporal Knowledge Graph Question Answering with Large Language Models"
 ---
 
 # RTQA : Recursive Thinking for Complex Temporal Knowledge Graph Question Answering with Large Language Models

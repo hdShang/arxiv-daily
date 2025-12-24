@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PIRF: Physics-Informed Reward Fine-Tuning for Diffusion Models
+title: "PIRF: Physics-Informed Reward Fine-Tuning for Diffusion Models"
 ---
 
 # PIRF: Physics-Informed Reward Fine-Tuning for Diffusion Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniMRI: A Unified Vision--Language Foundation Model for Generalist MRI Interpretation
+title: "OmniMRI: A Unified Vision--Language Foundation Model for Generalist MRI Interpretation"
 ---
 
 # OmniMRI: A Unified Vision--Language Foundation Model for Generalist MRI Interpretation

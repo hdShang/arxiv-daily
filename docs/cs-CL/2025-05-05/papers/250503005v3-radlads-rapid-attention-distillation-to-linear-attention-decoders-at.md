@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RADLADS: Rapid Attention Distillation to Linear Attention Decoders at Scale
+title: "RADLADS: Rapid Attention Distillation to Linear Attention Decoders at Scale"
 ---
 
 # RADLADS: Rapid Attention Distillation to Linear Attention Decoders at Scale

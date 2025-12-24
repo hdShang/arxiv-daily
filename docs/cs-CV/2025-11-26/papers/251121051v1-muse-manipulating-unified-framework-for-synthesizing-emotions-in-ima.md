@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MUSE: Manipulating Unified Framework for Synthesizing Emotions in Images via Test-Time Optimization
+title: "MUSE: Manipulating Unified Framework for Synthesizing Emotions in Images via Test-Time Optimization"
 ---
 
 # MUSE: Manipulating Unified Framework for Synthesizing Emotions in Images via Test-Time Optimization

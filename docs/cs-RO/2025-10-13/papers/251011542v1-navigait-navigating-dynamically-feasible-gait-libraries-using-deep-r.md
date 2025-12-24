@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NaviGait: Navigating Dynamically Feasible Gait Libraries using Deep Reinforcement Learning
+title: "NaviGait: Navigating Dynamically Feasible Gait Libraries using Deep Reinforcement Learning"
 ---
 
 # NaviGait: Navigating Dynamically Feasible Gait Libraries using Deep Reinforcement Learning

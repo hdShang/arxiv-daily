@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Semantic Anchoring in Agentic Memory: Leveraging Linguistic Structures for Persistent Conversational Context
+title: "Semantic Anchoring in Agentic Memory: Leveraging Linguistic Structures for Persistent Conversational Context"
 ---
 
 # Semantic Anchoring in Agentic Memory: Leveraging Linguistic Structures for Persistent Conversational Context

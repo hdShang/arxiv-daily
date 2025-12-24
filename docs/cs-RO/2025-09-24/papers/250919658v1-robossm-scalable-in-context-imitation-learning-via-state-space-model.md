@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboSSM: Scalable In-context Imitation Learning via State-Space Models
+title: "RoboSSM: Scalable In-context Imitation Learning via State-Space Models"
 ---
 
 # RoboSSM: Scalable In-context Imitation Learning via State-Space Models

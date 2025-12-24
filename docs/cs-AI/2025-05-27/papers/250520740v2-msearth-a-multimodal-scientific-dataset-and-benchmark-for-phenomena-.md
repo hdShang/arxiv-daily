@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MSEarth: A Multimodal Scientific Dataset and Benchmark for Phenomena Uncovering in Earth Science
+title: "MSEarth: A Multimodal Scientific Dataset and Benchmark for Phenomena Uncovering in Earth Science"
 ---
 
 # MSEarth: A Multimodal Scientific Dataset and Benchmark for Phenomena Uncovering in Earth Science

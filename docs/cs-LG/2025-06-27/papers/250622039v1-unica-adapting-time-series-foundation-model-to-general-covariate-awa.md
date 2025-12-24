@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniCA: Adapting Time Series Foundation Model to General Covariate-Aware Forecasting
+title: "UniCA: Adapting Time Series Foundation Model to General Covariate-Aware Forecasting"
 ---
 
 # UniCA: Adapting Time Series Foundation Model to General Covariate-Aware Forecasting

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Reasoning to Code: GRPO Optimization for Underrepresented Languages
+title: "From Reasoning to Code: GRPO Optimization for Underrepresented Languages"
 ---
 
 # From Reasoning to Code: GRPO Optimization for Underrepresented Languages

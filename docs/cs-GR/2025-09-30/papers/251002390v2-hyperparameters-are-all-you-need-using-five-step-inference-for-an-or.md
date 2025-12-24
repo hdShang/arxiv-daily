@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hyperparameters are all you need: Using five-step inference for an original diffusion model to generate images comparable to the latest distillation model
+title: "Hyperparameters are all you need: Using five-step inference for an original diffusion model to generate images comparable to the latest distillation model"
 ---
 
 # Hyperparameters are all you need: Using five-step inference for an original diffusion model to generate images comparable to the latest distillation model

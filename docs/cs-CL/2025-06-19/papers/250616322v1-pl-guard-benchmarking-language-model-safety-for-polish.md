@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PL-Guard: Benchmarking Language Model Safety for Polish
+title: "PL-Guard: Benchmarking Language Model Safety for Polish"
 ---
 
 # PL-Guard: Benchmarking Language Model Safety for Polish

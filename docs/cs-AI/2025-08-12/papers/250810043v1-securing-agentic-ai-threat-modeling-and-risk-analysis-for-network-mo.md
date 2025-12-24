@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Securing Agentic AI: Threat Modeling and Risk Analysis for Network Monitoring Agentic AI System
+title: "Securing Agentic AI: Threat Modeling and Risk Analysis for Network Monitoring Agentic AI System"
 ---
 
 # Securing Agentic AI: Threat Modeling and Risk Analysis for Network Monitoring Agentic AI System

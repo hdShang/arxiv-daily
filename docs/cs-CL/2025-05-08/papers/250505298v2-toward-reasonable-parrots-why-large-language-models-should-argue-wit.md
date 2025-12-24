@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Toward Reasonable Parrots: Why Large Language Models Should Argue with Us by Design
+title: "Toward Reasonable Parrots: Why Large Language Models Should Argue with Us by Design"
 ---
 
 # Toward Reasonable Parrots: Why Large Language Models Should Argue with Us by Design

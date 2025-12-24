@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tactile Beyond Pixels: Multisensory Touch Representations for Robot Manipulation
+title: "Tactile Beyond Pixels: Multisensory Touch Representations for Robot Manipulation"
 ---
 
 # Tactile Beyond Pixels: Multisensory Touch Representations for Robot Manipulation

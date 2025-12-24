@@ -1,6 +1,6 @@
 ---
 layout: default
-title: cuVSLAM: CUDA accelerated visual odometry and mapping
+title: "cuVSLAM: CUDA accelerated visual odometry and mapping"
 ---
 
 # cuVSLAM: CUDA accelerated visual odometry and mapping

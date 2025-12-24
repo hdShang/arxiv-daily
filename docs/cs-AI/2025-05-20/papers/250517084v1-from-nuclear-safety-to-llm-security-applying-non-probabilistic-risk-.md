@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From nuclear safety to LLM security: Applying non-probabilistic risk management strategies to build safe and secure LLM-powered systems
+title: "From nuclear safety to LLM security: Applying non-probabilistic risk management strategies to build safe and secure LLM-powered systems"
 ---
 
 # From nuclear safety to LLM security: Applying non-probabilistic risk management strategies to build safe and secure LLM-powered systems

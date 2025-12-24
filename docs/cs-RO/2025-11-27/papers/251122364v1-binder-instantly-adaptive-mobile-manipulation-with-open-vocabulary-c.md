@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BINDER: Instantly Adaptive Mobile Manipulation with Open-Vocabulary Commands
+title: "BINDER: Instantly Adaptive Mobile Manipulation with Open-Vocabulary Commands"
 ---
 
 # BINDER: Instantly Adaptive Mobile Manipulation with Open-Vocabulary Commands

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EcoLANG: Efficient and Effective Agent Communication Language Induction for Social Simulation
+title: "EcoLANG: Efficient and Effective Agent Communication Language Induction for Social Simulation"
 ---
 
 # EcoLANG: Efficient and Effective Agent Communication Language Induction for Social Simulation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReLI: A Language-Agnostic Approach to Human-Robot Interaction
+title: "ReLI: A Language-Agnostic Approach to Human-Robot Interaction"
 ---
 
 # ReLI: A Language-Agnostic Approach to Human-Robot Interaction

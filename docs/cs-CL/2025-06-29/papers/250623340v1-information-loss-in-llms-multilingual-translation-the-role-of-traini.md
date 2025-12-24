@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Information Loss in LLMs' Multilingual Translation: The Role of Training Data, Language Proximity, and Language Family
+title: "Information Loss in LLMs' Multilingual Translation: The Role of Training Data, Language Proximity, and Language Family"
 ---
 
 # Information Loss in LLMs' Multilingual Translation: The Role of Training Data, Language Proximity, and Language Family

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MVSMamba: Multi-View Stereo with State Space Model
+title: "MVSMamba: Multi-View Stereo with State Space Model"
 ---
 
 # MVSMamba: Multi-View Stereo with State Space Model

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introducing OmniGEC: A Silver Multilingual Dataset for Grammatical Error Correction
+title: "Introducing OmniGEC: A Silver Multilingual Dataset for Grammatical Error Correction"
 ---
 
 # Introducing OmniGEC: A Silver Multilingual Dataset for Grammatical Error Correction

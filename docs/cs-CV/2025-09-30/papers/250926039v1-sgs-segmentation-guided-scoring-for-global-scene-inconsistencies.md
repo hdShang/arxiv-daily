@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SGS: Segmentation-Guided Scoring for Global Scene Inconsistencies
+title: "SGS: Segmentation-Guided Scoring for Global Scene Inconsistencies"
 ---
 
 # SGS: Segmentation-Guided Scoring for Global Scene Inconsistencies

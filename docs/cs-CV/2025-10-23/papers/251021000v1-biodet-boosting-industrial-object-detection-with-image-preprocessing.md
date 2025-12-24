@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BioDet: Boosting Industrial Object Detection with Image Preprocessing Strategies
+title: "BioDet: Boosting Industrial Object Detection with Image Preprocessing Strategies"
 ---
 
 # BioDet: Boosting Industrial Object Detection with Image Preprocessing Strategies

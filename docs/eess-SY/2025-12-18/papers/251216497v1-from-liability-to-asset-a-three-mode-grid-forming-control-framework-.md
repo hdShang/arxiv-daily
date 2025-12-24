@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Liability to Asset: A Three-Mode Grid-Forming Control Framework for Centralized Data Center UPS Systems
+title: "From Liability to Asset: A Three-Mode Grid-Forming Control Framework for Centralized Data Center UPS Systems"
 ---
 
 # From Liability to Asset: A Three-Mode Grid-Forming Control Framework for Centralized Data Center UPS Systems

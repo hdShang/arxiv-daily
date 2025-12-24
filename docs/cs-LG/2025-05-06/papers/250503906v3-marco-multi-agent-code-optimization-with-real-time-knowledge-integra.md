@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MARCO: Multi-Agent Code Optimization with Real-Time Knowledge Integration for High-Performance Computing
+title: "MARCO: Multi-Agent Code Optimization with Real-Time Knowledge Integration for High-Performance Computing"
 ---
 
 # MARCO: Multi-Agent Code Optimization with Real-Time Knowledge Integration for High-Performance Computing

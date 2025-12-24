@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models
+title: "ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models"
 ---
 
 # ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EgoMI: Learning Active Vision and Whole-Body Manipulation from Egocentric Human Demonstrations
+title: "EgoMI: Learning Active Vision and Whole-Body Manipulation from Egocentric Human Demonstrations"
 ---
 
 # EgoMI: Learning Active Vision and Whole-Body Manipulation from Egocentric Human Demonstrations

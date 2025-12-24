@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning
+title: "VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning"
 ---
 
 # VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning

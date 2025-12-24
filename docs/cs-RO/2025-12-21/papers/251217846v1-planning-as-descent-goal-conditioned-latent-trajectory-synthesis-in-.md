@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Planning as Descent: Goal-Conditioned Latent Trajectory Synthesis in Learned Energy Landscapes
+title: "Planning as Descent: Goal-Conditioned Latent Trajectory Synthesis in Learned Energy Landscapes"
 ---
 
 # Planning as Descent: Goal-Conditioned Latent Trajectory Synthesis in Learned Energy Landscapes

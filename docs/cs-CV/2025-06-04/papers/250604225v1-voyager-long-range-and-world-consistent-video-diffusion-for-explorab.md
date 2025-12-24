@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation
+title: "Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation"
 ---
 
 # Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation

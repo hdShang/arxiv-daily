@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Supernova Event Dataset: Interpreting Large Language Models' Personality through Critical Event Analysis
+title: "Supernova Event Dataset: Interpreting Large Language Models' Personality through Critical Event Analysis"
 ---
 
 # Supernova Event Dataset: Interpreting Large Language Models' Personality through Critical Event Analysis

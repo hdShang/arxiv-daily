@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ConspEmoLLM-v2: A robust and stable model to detect sentiment-transformed conspiracy theories
+title: "ConspEmoLLM-v2: A robust and stable model to detect sentiment-transformed conspiracy theories"
 ---
 
 # ConspEmoLLM-v2: A robust and stable model to detect sentiment-transformed conspiracy theories

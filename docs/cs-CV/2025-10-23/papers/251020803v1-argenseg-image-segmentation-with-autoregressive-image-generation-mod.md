@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ARGenSeg: Image Segmentation with Autoregressive Image Generation Model
+title: "ARGenSeg: Image Segmentation with Autoregressive Image Generation Model"
 ---
 
 # ARGenSeg: Image Segmentation with Autoregressive Image Generation Model

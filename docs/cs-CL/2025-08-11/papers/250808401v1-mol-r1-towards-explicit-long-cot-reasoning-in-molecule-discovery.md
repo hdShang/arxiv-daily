@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery
+title: "Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery"
 ---
 
 # Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery

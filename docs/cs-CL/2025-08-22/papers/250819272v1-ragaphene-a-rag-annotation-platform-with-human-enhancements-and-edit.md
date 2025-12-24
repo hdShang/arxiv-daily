@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RAGAPHENE: A RAG Annotation Platform with Human Enhancements and Edits
+title: "RAGAPHENE: A RAG Annotation Platform with Human Enhancements and Edits"
 ---
 
 # RAGAPHENE: A RAG Annotation Platform with Human Enhancements and Edits

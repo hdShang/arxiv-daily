@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Split-Layer: Enhancing Implicit Neural Representation by Maximizing the Dimensionality of Feature Space
+title: "Split-Layer: Enhancing Implicit Neural Representation by Maximizing the Dimensionality of Feature Space"
 ---
 
 # Split-Layer: Enhancing Implicit Neural Representation by Maximizing the Dimensionality of Feature Space

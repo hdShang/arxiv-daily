@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DepthVanish: Optimizing Adversarial Interval Structures for Stereo-Depth-Invisible Patches
+title: "DepthVanish: Optimizing Adversarial Interval Structures for Stereo-Depth-Invisible Patches"
 ---
 
 # DepthVanish: Optimizing Adversarial Interval Structures for Stereo-Depth-Invisible Patches

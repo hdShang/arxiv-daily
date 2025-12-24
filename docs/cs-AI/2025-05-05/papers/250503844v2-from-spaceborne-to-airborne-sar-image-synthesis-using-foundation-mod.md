@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Spaceborne to Airborne: SAR Image Synthesis Using Foundation Models for Multi-Scale Adaptation
+title: "From Spaceborne to Airborne: SAR Image Synthesis Using Foundation Models for Multi-Scale Adaptation"
 ---
 
 # From Spaceborne to Airborne: SAR Image Synthesis Using Foundation Models for Multi-Scale Adaptation

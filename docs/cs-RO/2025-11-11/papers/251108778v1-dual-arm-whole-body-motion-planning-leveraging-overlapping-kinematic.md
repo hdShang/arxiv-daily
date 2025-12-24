@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dual-Arm Whole-Body Motion Planning: Leveraging Overlapping Kinematic Chains
+title: "Dual-Arm Whole-Body Motion Planning: Leveraging Overlapping Kinematic Chains"
 ---
 
 # Dual-Arm Whole-Body Motion Planning: Leveraging Overlapping Kinematic Chains

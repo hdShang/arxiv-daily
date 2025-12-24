@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI's Euclid's Elements Moment: From Language Models to Computable Thought
+title: "AI's Euclid's Elements Moment: From Language Models to Computable Thought"
 ---
 
 # AI's Euclid's Elements Moment: From Language Models to Computable Thought

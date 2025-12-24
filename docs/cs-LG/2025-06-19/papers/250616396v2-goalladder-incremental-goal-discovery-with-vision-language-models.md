@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GoalLadder: Incremental Goal Discovery with Vision-Language Models
+title: "GoalLadder: Incremental Goal Discovery with Vision-Language Models"
 ---
 
 # GoalLadder: Incremental Goal Discovery with Vision-Language Models

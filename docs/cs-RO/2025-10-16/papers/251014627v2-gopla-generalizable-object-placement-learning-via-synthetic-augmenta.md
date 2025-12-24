@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GOPLA: Generalizable Object Placement Learning via Synthetic Augmentation of Human Arrangement
+title: "GOPLA: Generalizable Object Placement Learning via Synthetic Augmentation of Human Arrangement"
 ---
 
 # GOPLA: Generalizable Object Placement Learning via Synthetic Augmentation of Human Arrangement

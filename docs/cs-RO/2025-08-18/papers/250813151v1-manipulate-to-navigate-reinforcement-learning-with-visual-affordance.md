@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Manipulate-to-Navigate: Reinforcement Learning with Visual Affordances and Manipulability Priors
+title: "Manipulate-to-Navigate: Reinforcement Learning with Visual Affordances and Manipulability Priors"
 ---
 
 # Manipulate-to-Navigate: Reinforcement Learning with Visual Affordances and Manipulability Priors

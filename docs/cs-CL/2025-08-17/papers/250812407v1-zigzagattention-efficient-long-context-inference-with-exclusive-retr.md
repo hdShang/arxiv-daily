@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ZigzagAttention: Efficient Long-Context Inference with Exclusive Retrieval and Streaming Heads
+title: "ZigzagAttention: Efficient Long-Context Inference with Exclusive Retrieval and Streaming Heads"
 ---
 
 # ZigzagAttention: Efficient Long-Context Inference with Exclusive Retrieval and Streaming Heads

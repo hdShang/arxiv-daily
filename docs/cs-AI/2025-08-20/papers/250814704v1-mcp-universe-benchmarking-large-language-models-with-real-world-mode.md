@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers
+title: "MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers"
 ---
 
 # MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers

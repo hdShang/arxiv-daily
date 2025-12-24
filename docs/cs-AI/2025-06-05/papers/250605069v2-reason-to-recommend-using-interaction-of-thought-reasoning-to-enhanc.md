@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reason-to-Recommend: Using Interaction-of-Thought Reasoning to Enhance LLM Recommendation
+title: "Reason-to-Recommend: Using Interaction-of-Thought Reasoning to Enhance LLM Recommendation"
 ---
 
 # Reason-to-Recommend: Using Interaction-of-Thought Reasoning to Enhance LLM Recommendation

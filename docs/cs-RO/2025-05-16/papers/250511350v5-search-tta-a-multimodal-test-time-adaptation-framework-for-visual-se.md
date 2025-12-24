@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild
+title: "Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild"
 ---
 
 # Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estimating LLM Consistency: A User Baseline vs Surrogate Metrics
+title: "Estimating LLM Consistency: A User Baseline vs Surrogate Metrics"
 ---
 
 # Estimating LLM Consistency: A User Baseline vs Surrogate Metrics

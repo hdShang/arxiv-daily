@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SceneCompleter: Dense 3D Scene Completion for Generative Novel View Synthesis
+title: "SceneCompleter: Dense 3D Scene Completion for Generative Novel View Synthesis"
 ---
 
 # SceneCompleter: Dense 3D Scene Completion for Generative Novel View Synthesis

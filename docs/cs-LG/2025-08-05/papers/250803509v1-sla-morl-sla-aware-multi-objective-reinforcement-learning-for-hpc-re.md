@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SLA-MORL: SLA-Aware Multi-Objective Reinforcement Learning for HPC Resource Optimization
+title: "SLA-MORL: SLA-Aware Multi-Objective Reinforcement Learning for HPC Resource Optimization"
 ---
 
 # SLA-MORL: SLA-Aware Multi-Objective Reinforcement Learning for HPC Resource Optimization

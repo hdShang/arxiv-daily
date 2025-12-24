@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL
+title: "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"
 ---
 
 # Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL

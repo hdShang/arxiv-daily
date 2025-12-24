@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning
+title: "R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning"
 ---
 
 # R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning

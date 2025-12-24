@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VinciCoder: Unifying Multimodal Code Generation via Coarse-to-fine Visual Reinforcement Learning
+title: "VinciCoder: Unifying Multimodal Code Generation via Coarse-to-fine Visual Reinforcement Learning"
 ---
 
 # VinciCoder: Unifying Multimodal Code Generation via Coarse-to-fine Visual Reinforcement Learning

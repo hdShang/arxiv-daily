@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Q-Adapter: Visual Query Adapter for Extracting Textually-related Features in Video Captioning
+title: "Q-Adapter: Visual Query Adapter for Extracting Textually-related Features in Video Captioning"
 ---
 
 # Q-Adapter: Visual Query Adapter for Extracting Textually-related Features in Video Captioning

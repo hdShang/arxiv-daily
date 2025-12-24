@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark
+title: "Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark"
 ---
 
 # Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark

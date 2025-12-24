@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ViDA-UGC: Detailed Image Quality Analysis via Visual Distortion Assessment for UGC Images
+title: "ViDA-UGC: Detailed Image Quality Analysis via Visual Distortion Assessment for UGC Images"
 ---
 
 # ViDA-UGC: Detailed Image Quality Analysis via Visual Distortion Assessment for UGC Images

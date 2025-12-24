@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Named Entity Recognition in Historical Italian: The Case of Giacomo Leopardi's Zibaldone
+title: "Named Entity Recognition in Historical Italian: The Case of Giacomo Leopardi's Zibaldone"
 ---
 
 # Named Entity Recognition in Historical Italian: The Case of Giacomo Leopardi's Zibaldone

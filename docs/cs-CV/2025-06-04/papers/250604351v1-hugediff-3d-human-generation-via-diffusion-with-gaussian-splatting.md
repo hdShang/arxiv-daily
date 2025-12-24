@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HuGeDiff: 3D Human Generation via Diffusion with Gaussian Splatting
+title: "HuGeDiff: 3D Human Generation via Diffusion with Gaussian Splatting"
 ---
 
 # HuGeDiff: 3D Human Generation via Diffusion with Gaussian Splatting

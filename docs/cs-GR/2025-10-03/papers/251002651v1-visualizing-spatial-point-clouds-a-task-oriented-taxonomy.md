@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visualizing Spatial Point Clouds: A Task-Oriented Taxonomy
+title: "Visualizing Spatial Point Clouds: A Task-Oriented Taxonomy"
 ---
 
 # Visualizing Spatial Point Clouds: A Task-Oriented Taxonomy

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MambaTrack3D: A State Space Model Framework for LiDAR-Based Object Tracking under High Temporal Variation
+title: "MambaTrack3D: A State Space Model Framework for LiDAR-Based Object Tracking under High Temporal Variation"
 ---
 
 # MambaTrack3D: A State Space Model Framework for LiDAR-Based Object Tracking under High Temporal Variation

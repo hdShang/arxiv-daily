@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SynDoc: A Hybrid Discriminative-Generative Framework for Enhancing Synthetic Domain-Adaptive Document Key Information Extraction
+title: "SynDoc: A Hybrid Discriminative-Generative Framework for Enhancing Synthetic Domain-Adaptive Document Key Information Extraction"
 ---
 
 # SynDoc: A Hybrid Discriminative-Generative Framework for Enhancing Synthetic Domain-Adaptive Document Key Information Extraction

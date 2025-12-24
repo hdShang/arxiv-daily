@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TransXSSM: A Hybrid Transformer State Space Model with Unified Rotary Position Embedding
+title: "TransXSSM: A Hybrid Transformer State Space Model with Unified Rotary Position Embedding"
 ---
 
 # TransXSSM: A Hybrid Transformer State Space Model with Unified Rotary Position Embedding

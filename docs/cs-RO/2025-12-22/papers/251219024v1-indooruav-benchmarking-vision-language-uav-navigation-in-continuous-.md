@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IndoorUAV: Benchmarking Vision-Language UAV Navigation in Continuous Indoor Environments
+title: "IndoorUAV: Benchmarking Vision-Language UAV Navigation in Continuous Indoor Environments"
 ---
 
 # IndoorUAV: Benchmarking Vision-Language UAV Navigation in Continuous Indoor Environments

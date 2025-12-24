@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DiffusionNFT: Online Diffusion Reinforcement with Forward Process
+title: "DiffusionNFT: Online Diffusion Reinforcement with Forward Process"
 ---
 
 # DiffusionNFT: Online Diffusion Reinforcement with Forward Process

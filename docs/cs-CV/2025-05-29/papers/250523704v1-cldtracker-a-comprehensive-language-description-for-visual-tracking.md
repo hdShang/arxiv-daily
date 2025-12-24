@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CLDTracker: A Comprehensive Language Description for Visual Tracking
+title: "CLDTracker: A Comprehensive Language Description for Visual Tracking"
 ---
 
 # CLDTracker: A Comprehensive Language Description for Visual Tracking

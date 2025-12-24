@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MangaVQA and MangaLMM: A Benchmark and Specialized Model for Multimodal Manga Understanding
+title: "MangaVQA and MangaLMM: A Benchmark and Specialized Model for Multimodal Manga Understanding"
 ---
 
 # MangaVQA and MangaLMM: A Benchmark and Specialized Model for Multimodal Manga Understanding

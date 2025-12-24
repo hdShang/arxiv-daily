@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReferSplat: Referring Segmentation in 3D Gaussian Splatting
+title: "ReferSplat: Referring Segmentation in 3D Gaussian Splatting"
 ---
 
 # ReferSplat: Referring Segmentation in 3D Gaussian Splatting

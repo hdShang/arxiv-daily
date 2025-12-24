@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Arcadia: Toward a Full-Lifecycle Framework for Embodied Lifelong Learning
+title: "Arcadia: Toward a Full-Lifecycle Framework for Embodied Lifelong Learning"
 ---
 
 # Arcadia: Toward a Full-Lifecycle Framework for Embodied Lifelong Learning

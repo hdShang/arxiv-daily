@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Who is a Better Player: LLM against LLM
+title: "Who is a Better Player: LLM against LLM"
 ---
 
 # Who is a Better Player: LLM against LLM

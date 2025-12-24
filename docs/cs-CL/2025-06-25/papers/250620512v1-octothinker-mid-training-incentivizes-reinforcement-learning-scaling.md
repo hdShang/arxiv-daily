@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling
+title: "OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling"
 ---
 
 # OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling

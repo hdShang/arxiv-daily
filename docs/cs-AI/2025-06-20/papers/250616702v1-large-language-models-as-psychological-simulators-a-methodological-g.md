@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Large Language Models as Psychological Simulators: A Methodological Guide
+title: "Large Language Models as Psychological Simulators: A Methodological Guide"
 ---
 
 # Large Language Models as Psychological Simulators: A Methodological Guide

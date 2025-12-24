@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Combo-Gait: Unified Transformer Framework for Multi-Modal Gait Recognition and Attribute Analysis
+title: "Combo-Gait: Unified Transformer Framework for Multi-Modal Gait Recognition and Attribute Analysis"
 ---
 
 # Combo-Gait: Unified Transformer Framework for Multi-Modal Gait Recognition and Attribute Analysis

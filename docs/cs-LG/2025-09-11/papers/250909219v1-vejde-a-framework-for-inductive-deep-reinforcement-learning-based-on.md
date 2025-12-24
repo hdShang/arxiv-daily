@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vejde: A Framework for Inductive Deep Reinforcement Learning Based on Factor Graph Color Refinement
+title: "Vejde: A Framework for Inductive Deep Reinforcement Learning Based on Factor Graph Color Refinement"
 ---
 
 # Vejde: A Framework for Inductive Deep Reinforcement Learning Based on Factor Graph Color Refinement

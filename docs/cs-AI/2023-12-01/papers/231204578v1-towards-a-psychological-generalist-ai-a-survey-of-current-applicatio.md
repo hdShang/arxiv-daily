@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards a Psychological Generalist AI: A Survey of Current Applications of Large Language Models and Future Prospects
+title: "Towards a Psychological Generalist AI: A Survey of Current Applications of Large Language Models and Future Prospects"
 ---
 
 # Towards a Psychological Generalist AI: A Survey of Current Applications of Large Language Models and Future Prospects

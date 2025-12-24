@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PoseCrafter: Extreme Pose Estimation with Hybrid Video Synthesis
+title: "PoseCrafter: Extreme Pose Estimation with Hybrid Video Synthesis"
 ---
 
 # PoseCrafter: Extreme Pose Estimation with Hybrid Video Synthesis

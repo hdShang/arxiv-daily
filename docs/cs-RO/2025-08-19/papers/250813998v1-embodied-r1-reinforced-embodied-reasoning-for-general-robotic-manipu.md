@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation
+title: "Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation"
 ---
 
 # Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation

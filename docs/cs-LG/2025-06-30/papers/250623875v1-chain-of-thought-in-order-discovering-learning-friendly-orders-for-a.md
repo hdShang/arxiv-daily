@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chain of Thought in Order: Discovering Learning-Friendly Orders for Arithmetic
+title: "Chain of Thought in Order: Discovering Learning-Friendly Orders for Arithmetic"
 ---
 
 # Chain of Thought in Order: Discovering Learning-Friendly Orders for Arithmetic

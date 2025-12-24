@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning
+title: "MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning"
 ---
 
 # MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning

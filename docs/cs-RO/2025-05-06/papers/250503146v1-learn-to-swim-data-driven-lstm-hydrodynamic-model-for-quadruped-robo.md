@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learn to Swim: Data-Driven LSTM Hydrodynamic Model for Quadruped Robot Gait Optimization
+title: "Learn to Swim: Data-Driven LSTM Hydrodynamic Model for Quadruped Robot Gait Optimization"
 ---
 
 # Learn to Swim: Data-Driven LSTM Hydrodynamic Model for Quadruped Robot Gait Optimization

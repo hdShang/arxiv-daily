@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PEEK: Guiding and Minimal Image Representations for Zero-Shot Generalization of Robot Manipulation Policies
+title: "PEEK: Guiding and Minimal Image Representations for Zero-Shot Generalization of Robot Manipulation Policies"
 ---
 
 # PEEK: Guiding and Minimal Image Representations for Zero-Shot Generalization of Robot Manipulation Policies

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prior Reinforce: Mastering Agile Tasks with Limited Trials
+title: "Prior Reinforce: Mastering Agile Tasks with Limited Trials"
 ---
 
 # Prior Reinforce: Mastering Agile Tasks with Limited Trials

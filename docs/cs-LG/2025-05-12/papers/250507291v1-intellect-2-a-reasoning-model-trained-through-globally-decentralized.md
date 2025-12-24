@@ -1,6 +1,6 @@
 ---
 layout: default
-title: INTELLECT-2: A Reasoning Model Trained Through Globally Decentralized Reinforcement Learning
+title: "INTELLECT-2: A Reasoning Model Trained Through Globally Decentralized Reinforcement Learning"
 ---
 
 # INTELLECT-2: A Reasoning Model Trained Through Globally Decentralized Reinforcement Learning

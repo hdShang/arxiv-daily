@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CLTP: Contrastive Language-Tactile Pre-training for 3D Contact Geometry Understanding
+title: "CLTP: Contrastive Language-Tactile Pre-training for 3D Contact Geometry Understanding"
 ---
 
 # CLTP: Contrastive Language-Tactile Pre-training for 3D Contact Geometry Understanding

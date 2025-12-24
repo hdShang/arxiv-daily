@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Physics of Language Models: Part 4.1, Architecture Design and the Magic of Canon Layers
+title: "Physics of Language Models: Part 4.1, Architecture Design and the Magic of Canon Layers"
 ---
 
 # Physics of Language Models: Part 4.1, Architecture Design and the Magic of Canon Layers

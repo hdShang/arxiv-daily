@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UrbanVerse: Scaling Urban Simulation by Watching City-Tour Videos
+title: "UrbanVerse: Scaling Urban Simulation by Watching City-Tour Videos"
 ---
 
 # UrbanVerse: Scaling Urban Simulation by Watching City-Tour Videos

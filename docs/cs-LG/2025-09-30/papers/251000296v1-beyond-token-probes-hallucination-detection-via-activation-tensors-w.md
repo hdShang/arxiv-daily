@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Token Probes: Hallucination Detection via Activation Tensors with ACT-ViT
+title: "Beyond Token Probes: Hallucination Detection via Activation Tensors with ACT-ViT"
 ---
 
 # Beyond Token Probes: Hallucination Detection via Activation Tensors with ACT-ViT

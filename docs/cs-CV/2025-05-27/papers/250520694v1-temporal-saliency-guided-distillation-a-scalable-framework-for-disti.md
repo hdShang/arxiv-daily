@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Temporal Saliency-Guided Distillation: A Scalable Framework for Distilling Video Datasets
+title: "Temporal Saliency-Guided Distillation: A Scalable Framework for Distilling Video Datasets"
 ---
 
 # Temporal Saliency-Guided Distillation: A Scalable Framework for Distilling Video Datasets

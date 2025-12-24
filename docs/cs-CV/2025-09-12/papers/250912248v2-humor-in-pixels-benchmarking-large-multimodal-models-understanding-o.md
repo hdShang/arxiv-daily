@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Humor in Pixels: Benchmarking Large Multimodal Models Understanding of Online Comics
+title: "Humor in Pixels: Benchmarking Large Multimodal Models Understanding of Online Comics"
 ---
 
 # Humor in Pixels: Benchmarking Large Multimodal Models Understanding of Online Comics

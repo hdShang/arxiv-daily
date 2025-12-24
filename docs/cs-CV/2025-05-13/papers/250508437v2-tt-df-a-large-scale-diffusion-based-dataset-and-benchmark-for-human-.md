@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TT-DF: A Large-Scale Diffusion-Based Dataset and Benchmark for Human Body Forgery Detection
+title: "TT-DF: A Large-Scale Diffusion-Based Dataset and Benchmark for Human Body Forgery Detection"
 ---
 
 # TT-DF: A Large-Scale Diffusion-Based Dataset and Benchmark for Human Body Forgery Detection

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Optimizing Prosthetic Wrist Movement: A Model Predictive Control Approach
+title: "Optimizing Prosthetic Wrist Movement: A Model Predictive Control Approach"
 ---
 
 # Optimizing Prosthetic Wrist Movement: A Model Predictive Control Approach

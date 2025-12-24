@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Diverse And Private Synthetic Datasets Generation for RAG evaluation: A multi-agent framework
+title: "Diverse And Private Synthetic Datasets Generation for RAG evaluation: A multi-agent framework"
 ---
 
 # Diverse And Private Synthetic Datasets Generation for RAG evaluation: A multi-agent framework

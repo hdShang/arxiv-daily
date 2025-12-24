@@ -1,6 +1,6 @@
 ---
 layout: default
-title: APEX: Empowering LLMs with Physics-Based Task Planning for Real-time Insight
+title: "APEX: Empowering LLMs with Physics-Based Task Planning for Real-time Insight"
 ---
 
 # APEX: Empowering LLMs with Physics-Based Task Planning for Real-time Insight

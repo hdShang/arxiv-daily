@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zoom-Zero: Reinforced Coarse-to-Fine Video Understanding via Temporal Zoom-in
+title: "Zoom-Zero: Reinforced Coarse-to-Fine Video Understanding via Temporal Zoom-in"
 ---
 
 # Zoom-Zero: Reinforced Coarse-to-Fine Video Understanding via Temporal Zoom-in

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BRIC: Bridging Kinematic Plans and Physical Control at Test Time
+title: "BRIC: Bridging Kinematic Plans and Physical Control at Test Time"
 ---
 
 # BRIC: Bridging Kinematic Plans and Physical Control at Test Time

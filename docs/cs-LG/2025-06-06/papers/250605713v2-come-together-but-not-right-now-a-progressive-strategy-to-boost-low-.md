@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Come Together, But Not Right Now: A Progressive Strategy to Boost Low-Rank Adaptation
+title: "Come Together, But Not Right Now: A Progressive Strategy to Boost Low-Rank Adaptation"
 ---
 
 # Come Together, But Not Right Now: A Progressive Strategy to Boost Low-Rank Adaptation

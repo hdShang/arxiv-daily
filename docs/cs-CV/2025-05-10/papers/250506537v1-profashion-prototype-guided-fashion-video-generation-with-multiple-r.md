@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ProFashion: Prototype-guided Fashion Video Generation with Multiple Reference Images
+title: "ProFashion: Prototype-guided Fashion Video Generation with Multiple Reference Images"
 ---
 
 # ProFashion: Prototype-guided Fashion Video Generation with Multiple Reference Images

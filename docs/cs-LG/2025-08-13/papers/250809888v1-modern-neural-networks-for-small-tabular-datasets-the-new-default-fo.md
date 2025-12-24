@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Modern Neural Networks for Small Tabular Datasets: The New Default for Field-Scale Digital Soil Mapping?
+title: "Modern Neural Networks for Small Tabular Datasets: The New Default for Field-Scale Digital Soil Mapping?"
 ---
 
 # Modern Neural Networks for Small Tabular Datasets: The New Default for Field-Scale Digital Soil Mapping?

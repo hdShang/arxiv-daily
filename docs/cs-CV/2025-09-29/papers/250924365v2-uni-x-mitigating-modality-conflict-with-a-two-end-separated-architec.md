@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Uni-X: Mitigating Modality Conflict with a Two-End-Separated Architecture for Unified Multimodal Models
+title: "Uni-X: Mitigating Modality Conflict with a Two-End-Separated Architecture for Unified Multimodal Models"
 ---
 
 # Uni-X: Mitigating Modality Conflict with a Two-End-Separated Architecture for Unified Multimodal Models

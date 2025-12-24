@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FeDaL: Federated Dataset Learning for Time Series Foundation Models
+title: "FeDaL: Federated Dataset Learning for Time Series Foundation Models"
 ---
 
 # FeDaL: Federated Dataset Learning for Time Series Foundation Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OneVAE: Joint Discrete and Continuous Optimization Helps Discrete Video VAE Train Better
+title: "OneVAE: Joint Discrete and Continuous Optimization Helps Discrete Video VAE Train Better"
 ---
 
 # OneVAE: Joint Discrete and Continuous Optimization Helps Discrete Video VAE Train Better

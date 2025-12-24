@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VectorEdits: A Dataset and Benchmark for Instruction-Based Editing of Vector Graphics
+title: "VectorEdits: A Dataset and Benchmark for Instruction-Based Editing of Vector Graphics"
 ---
 
 # VectorEdits: A Dataset and Benchmark for Instruction-Based Editing of Vector Graphics

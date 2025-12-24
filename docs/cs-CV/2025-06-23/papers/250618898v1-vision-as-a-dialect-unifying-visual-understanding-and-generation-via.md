@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations
+title: "Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations"
 ---
 
 # Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations

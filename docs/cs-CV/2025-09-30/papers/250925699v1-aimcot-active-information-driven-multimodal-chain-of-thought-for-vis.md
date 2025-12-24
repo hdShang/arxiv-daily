@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AIMCoT: Active Information-driven Multimodal Chain-of-Thought for Vision-Language Reasoning
+title: "AIMCoT: Active Information-driven Multimodal Chain-of-Thought for Vision-Language Reasoning"
 ---
 
 # AIMCoT: Active Information-driven Multimodal Chain-of-Thought for Vision-Language Reasoning

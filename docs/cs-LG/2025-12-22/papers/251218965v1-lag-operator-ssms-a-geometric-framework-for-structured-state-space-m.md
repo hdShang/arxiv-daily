@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lag Operator SSMs: A Geometric Framework for Structured State Space Modeling
+title: "Lag Operator SSMs: A Geometric Framework for Structured State Space Modeling"
 ---
 
 # Lag Operator SSMs: A Geometric Framework for Structured State Space Modeling

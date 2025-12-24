@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis
+title: "OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis"
 ---
 
 # OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis

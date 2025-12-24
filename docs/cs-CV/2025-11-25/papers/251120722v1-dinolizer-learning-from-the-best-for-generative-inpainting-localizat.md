@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DinoLizer: Learning from the Best for Generative Inpainting Localization
+title: "DinoLizer: Learning from the Best for Generative Inpainting Localization"
 ---
 
 # DinoLizer: Learning from the Best for Generative Inpainting Localization

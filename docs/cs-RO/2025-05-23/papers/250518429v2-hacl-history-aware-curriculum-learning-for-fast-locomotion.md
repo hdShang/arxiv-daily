@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HACL: History-Aware Curriculum Learning for Fast Locomotion
+title: "HACL: History-Aware Curriculum Learning for Fast Locomotion"
 ---
 
 # HACL: History-Aware Curriculum Learning for Fast Locomotion

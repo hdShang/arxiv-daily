@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DiffCamera: Arbitrary Refocusing on Images
+title: "DiffCamera: Arbitrary Refocusing on Images"
 ---
 
 # DiffCamera: Arbitrary Refocusing on Images

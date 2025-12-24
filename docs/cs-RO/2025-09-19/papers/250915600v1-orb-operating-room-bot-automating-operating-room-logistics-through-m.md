@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ORB: Operating Room Bot, Automating Operating Room Logistics through Mobile Manipulation
+title: "ORB: Operating Room Bot, Automating Operating Room Logistics through Mobile Manipulation"
 ---
 
 # ORB: Operating Room Bot, Automating Operating Room Logistics through Mobile Manipulation

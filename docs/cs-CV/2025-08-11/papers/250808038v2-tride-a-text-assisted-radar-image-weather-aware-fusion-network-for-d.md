@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TRIDE: A Text-assisted Radar-Image weather-aware fusion network for Depth Estimation
+title: "TRIDE: A Text-assisted Radar-Image weather-aware fusion network for Depth Estimation"
 ---
 
 # TRIDE: A Text-assisted Radar-Image weather-aware fusion network for Depth Estimation

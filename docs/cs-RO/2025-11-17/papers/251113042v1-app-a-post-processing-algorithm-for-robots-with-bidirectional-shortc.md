@@ -1,6 +1,6 @@
 ---
 layout: default
-title: APP: A* Post-Processing Algorithm for Robots with Bidirectional Shortcut and Path Perturbation
+title: "APP: A* Post-Processing Algorithm for Robots with Bidirectional Shortcut and Path Perturbation"
 ---
 
 # APP: A* Post-Processing Algorithm for Robots with Bidirectional Shortcut and Path Perturbation

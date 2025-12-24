@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LoG3D: Ultra-High-Resolution 3D Shape Modeling via Local-to-Global Partitioning
+title: "LoG3D: Ultra-High-Resolution 3D Shape Modeling via Local-to-Global Partitioning"
 ---
 
 # LoG3D: Ultra-High-Resolution 3D Shape Modeling via Local-to-Global Partitioning

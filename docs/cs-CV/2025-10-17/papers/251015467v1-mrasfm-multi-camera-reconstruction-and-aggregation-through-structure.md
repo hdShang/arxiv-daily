@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MRASfM: Multi-Camera Reconstruction and Aggregation through Structure-from-Motion in Driving Scenes
+title: "MRASfM: Multi-Camera Reconstruction and Aggregation through Structure-from-Motion in Driving Scenes"
 ---
 
 # MRASfM: Multi-Camera Reconstruction and Aggregation through Structure-from-Motion in Driving Scenes

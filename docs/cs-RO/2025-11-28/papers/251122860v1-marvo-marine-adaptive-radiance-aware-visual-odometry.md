@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MARVO: Marine-Adaptive Radiance-aware Visual Odometry
+title: "MARVO: Marine-Adaptive Radiance-aware Visual Odometry"
 ---
 
 # MARVO: Marine-Adaptive Radiance-aware Visual Odometry

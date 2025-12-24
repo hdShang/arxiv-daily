@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estimating Quality in Therapeutic Conversations: A Multi-Dimensional Natural Language Processing Framework
+title: "Estimating Quality in Therapeutic Conversations: A Multi-Dimensional Natural Language Processing Framework"
 ---
 
 # Estimating Quality in Therapeutic Conversations: A Multi-Dimensional Natural Language Processing Framework

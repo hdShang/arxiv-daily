@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Graph-R1: Unleashing LLM Reasoning with NP-Hard Graph Problems
+title: "Graph-R1: Unleashing LLM Reasoning with NP-Hard Graph Problems"
 ---
 
 # Graph-R1: Unleashing LLM Reasoning with NP-Hard Graph Problems

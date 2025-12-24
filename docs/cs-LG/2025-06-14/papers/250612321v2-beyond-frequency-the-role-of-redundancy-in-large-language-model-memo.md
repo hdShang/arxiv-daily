@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Frequency: The Role of Redundancy in Large Language Model Memorization
+title: "Beyond Frequency: The Role of Redundancy in Large Language Model Memorization"
 ---
 
 # Beyond Frequency: The Role of Redundancy in Large Language Model Memorization

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BPE Stays on SCRIPT: Structured Encoding for Robust Multilingual Pretokenization
+title: "BPE Stays on SCRIPT: Structured Encoding for Robust Multilingual Pretokenization"
 ---
 
 # BPE Stays on SCRIPT: Structured Encoding for Robust Multilingual Pretokenization

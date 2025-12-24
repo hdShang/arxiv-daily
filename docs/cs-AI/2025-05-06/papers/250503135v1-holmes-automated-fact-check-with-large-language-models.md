@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Holmes: Automated Fact Check with Large Language Models
+title: "Holmes: Automated Fact Check with Large Language Models"
 ---
 
 # Holmes: Automated Fact Check with Large Language Models

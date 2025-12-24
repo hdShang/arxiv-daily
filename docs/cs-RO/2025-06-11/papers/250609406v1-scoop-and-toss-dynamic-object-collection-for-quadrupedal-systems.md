@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scoop-and-Toss: Dynamic Object Collection for Quadrupedal Systems
+title: "Scoop-and-Toss: Dynamic Object Collection for Quadrupedal Systems"
 ---
 
 # Scoop-and-Toss: Dynamic Object Collection for Quadrupedal Systems

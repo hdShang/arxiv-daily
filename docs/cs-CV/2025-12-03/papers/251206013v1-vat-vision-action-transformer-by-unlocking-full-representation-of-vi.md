@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VAT: Vision Action Transformer by Unlocking Full Representation of ViT
+title: "VAT: Vision Action Transformer by Unlocking Full Representation of ViT"
 ---
 
 # VAT: Vision Action Transformer by Unlocking Full Representation of ViT

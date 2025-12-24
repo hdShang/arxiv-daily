@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniCoD: Enhancing Robot Policy via Unified Continuous and Discrete Representation Learning
+title: "UniCoD: Enhancing Robot Policy via Unified Continuous and Discrete Representation Learning"
 ---
 
 # UniCoD: Enhancing Robot Policy via Unified Continuous and Discrete Representation Learning

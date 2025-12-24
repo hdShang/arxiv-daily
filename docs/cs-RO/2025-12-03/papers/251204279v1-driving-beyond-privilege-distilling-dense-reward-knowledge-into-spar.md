@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Driving Beyond Privilege: Distilling Dense-Reward Knowledge into Sparse-Reward Policies
+title: "Driving Beyond Privilege: Distilling Dense-Reward Knowledge into Sparse-Reward Policies"
 ---
 
 # Driving Beyond Privilege: Distilling Dense-Reward Knowledge into Sparse-Reward Policies

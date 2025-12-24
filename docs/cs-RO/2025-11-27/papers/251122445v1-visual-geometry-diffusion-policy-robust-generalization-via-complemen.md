@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visual-Geometry Diffusion Policy: Robust Generalization via Complementarity-Aware Multimodal Fusion
+title: "Visual-Geometry Diffusion Policy: Robust Generalization via Complementarity-Aware Multimodal Fusion"
 ---
 
 # Visual-Geometry Diffusion Policy: Robust Generalization via Complementarity-Aware Multimodal Fusion

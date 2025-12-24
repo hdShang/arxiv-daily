@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R3-RAG: Learning Step-by-Step Reasoning and Retrieval for LLMs via Reinforcement Learning
+title: "R3-RAG: Learning Step-by-Step Reasoning and Retrieval for LLMs via Reinforcement Learning"
 ---
 
 # R3-RAG: Learning Step-by-Step Reasoning and Retrieval for LLMs via Reinforcement Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dy3DGS-SLAM: Monocular 3D Gaussian Splatting SLAM for Dynamic Environments
+title: "Dy3DGS-SLAM: Monocular 3D Gaussian Splatting SLAM for Dynamic Environments"
 ---
 
 # Dy3DGS-SLAM: Monocular 3D Gaussian Splatting SLAM for Dynamic Environments

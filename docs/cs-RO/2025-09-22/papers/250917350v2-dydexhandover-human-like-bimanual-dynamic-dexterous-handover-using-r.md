@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DyDexHandover: Human-like Bimanual Dynamic Dexterous Handover using RGB-only Perception
+title: "DyDexHandover: Human-like Bimanual Dynamic Dexterous Handover using RGB-only Perception"
 ---
 
 # DyDexHandover: Human-like Bimanual Dynamic Dexterous Handover using RGB-only Perception

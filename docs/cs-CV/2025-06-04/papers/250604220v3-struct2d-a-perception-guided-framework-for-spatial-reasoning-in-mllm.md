@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Struct2D: A Perception-Guided Framework for Spatial Reasoning in MLLMs
+title: "Struct2D: A Perception-Guided Framework for Spatial Reasoning in MLLMs"
 ---
 
 # Struct2D: A Perception-Guided Framework for Spatial Reasoning in MLLMs

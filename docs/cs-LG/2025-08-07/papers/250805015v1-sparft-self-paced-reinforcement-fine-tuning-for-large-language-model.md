@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SPaRFT: Self-Paced Reinforcement Fine-Tuning for Large Language Models
+title: "SPaRFT: Self-Paced Reinforcement Fine-Tuning for Large Language Models"
 ---
 
 # SPaRFT: Self-Paced Reinforcement Fine-Tuning for Large Language Models

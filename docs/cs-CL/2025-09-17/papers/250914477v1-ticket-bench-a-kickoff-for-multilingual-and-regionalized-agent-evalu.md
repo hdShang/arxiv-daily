@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ticket-Bench: A Kickoff for Multilingual and Regionalized Agent Evaluation
+title: "Ticket-Bench: A Kickoff for Multilingual and Regionalized Agent Evaluation"
 ---
 
 # Ticket-Bench: A Kickoff for Multilingual and Regionalized Agent Evaluation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DISCODE: Distribution-Aware Score Decoder for Robust Automatic Evaluation of Image Captioning
+title: "DISCODE: Distribution-Aware Score Decoder for Robust Automatic Evaluation of Image Captioning"
 ---
 
 # DISCODE: Distribution-Aware Score Decoder for Robust Automatic Evaluation of Image Captioning

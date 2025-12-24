@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Conversational Search: From Fundamentals to Frontiers in the LLM Era
+title: "Conversational Search: From Fundamentals to Frontiers in the LLM Era"
 ---
 
 # Conversational Search: From Fundamentals to Frontiers in the LLM Era

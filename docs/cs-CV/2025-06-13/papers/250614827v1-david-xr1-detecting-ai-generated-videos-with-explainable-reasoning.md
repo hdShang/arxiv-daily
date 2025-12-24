@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DAVID-XR1: Detecting AI-Generated Videos with Explainable Reasoning
+title: "DAVID-XR1: Detecting AI-Generated Videos with Explainable Reasoning"
 ---
 
 # DAVID-XR1: Detecting AI-Generated Videos with Explainable Reasoning

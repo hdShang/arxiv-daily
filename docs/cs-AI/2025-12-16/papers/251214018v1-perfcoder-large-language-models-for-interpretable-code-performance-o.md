@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PerfCoder: Large Language Models for Interpretable Code Performance Optimization
+title: "PerfCoder: Large Language Models for Interpretable Code Performance Optimization"
 ---
 
 # PerfCoder: Large Language Models for Interpretable Code Performance Optimization

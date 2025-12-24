@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Diffusion As Self-Distillation: End-to-End Latent Diffusion In One Model
+title: "Diffusion As Self-Distillation: End-to-End Latent Diffusion In One Model"
 ---
 
 # Diffusion As Self-Distillation: End-to-End Latent Diffusion In One Model

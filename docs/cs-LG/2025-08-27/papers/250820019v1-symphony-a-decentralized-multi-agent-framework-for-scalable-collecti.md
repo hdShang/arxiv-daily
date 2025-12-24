@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Symphony: A Decentralized Multi-Agent Framework for Scalable Collective Intelligence
+title: "Symphony: A Decentralized Multi-Agent Framework for Scalable Collective Intelligence"
 ---
 
 # Symphony: A Decentralized Multi-Agent Framework for Scalable Collective Intelligence

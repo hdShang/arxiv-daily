@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times
+title: "TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times"
 ---
 
 # TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times

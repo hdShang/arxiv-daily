@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GFT: Graph Feature Tuning for Efficient Point Cloud Analysis
+title: "GFT: Graph Feature Tuning for Efficient Point Cloud Analysis"
 ---
 
 # GFT: Graph Feature Tuning for Efficient Point Cloud Analysis

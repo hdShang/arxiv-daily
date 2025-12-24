@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend
+title: "AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend"
 ---
 
 # AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend

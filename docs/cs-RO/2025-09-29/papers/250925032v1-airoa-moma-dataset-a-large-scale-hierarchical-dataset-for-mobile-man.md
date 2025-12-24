@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AIRoA MoMa Dataset: A Large-Scale Hierarchical Dataset for Mobile Manipulation
+title: "AIRoA MoMa Dataset: A Large-Scale Hierarchical Dataset for Mobile Manipulation"
 ---
 
 # AIRoA MoMa Dataset: A Large-Scale Hierarchical Dataset for Mobile Manipulation

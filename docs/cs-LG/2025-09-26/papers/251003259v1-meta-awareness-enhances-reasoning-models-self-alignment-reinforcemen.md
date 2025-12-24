@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Meta-Awareness Enhances Reasoning Models: Self-Alignment Reinforcement Learning
+title: "Meta-Awareness Enhances Reasoning Models: Self-Alignment Reinforcement Learning"
 ---
 
 # Meta-Awareness Enhances Reasoning Models: Self-Alignment Reinforcement Learning

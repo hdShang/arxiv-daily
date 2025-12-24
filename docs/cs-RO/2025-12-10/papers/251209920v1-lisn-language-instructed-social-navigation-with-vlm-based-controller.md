@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating
+title: "LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating"
 ---
 
 # LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating

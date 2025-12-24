@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SciVideoBench: Benchmarking Scientific Video Reasoning in Large Multimodal Models
+title: "SciVideoBench: Benchmarking Scientific Video Reasoning in Large Multimodal Models"
 ---
 
 # SciVideoBench: Benchmarking Scientific Video Reasoning in Large Multimodal Models

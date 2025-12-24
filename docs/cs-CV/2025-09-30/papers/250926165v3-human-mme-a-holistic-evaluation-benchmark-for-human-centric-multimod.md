@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Human-MME: A Holistic Evaluation Benchmark for Human-Centric Multimodal Large Language Models
+title: "Human-MME: A Holistic Evaluation Benchmark for Human-Centric Multimodal Large Language Models"
 ---
 
 # Human-MME: A Holistic Evaluation Benchmark for Human-Centric Multimodal Large Language Models

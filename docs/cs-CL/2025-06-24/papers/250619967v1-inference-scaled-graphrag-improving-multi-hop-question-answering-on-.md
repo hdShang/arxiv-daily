@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inference Scaled GraphRAG: Improving Multi Hop Question Answering on Knowledge Graphs
+title: "Inference Scaled GraphRAG: Improving Multi Hop Question Answering on Knowledge Graphs"
 ---
 
 # Inference Scaled GraphRAG: Improving Multi Hop Question Answering on Knowledge Graphs

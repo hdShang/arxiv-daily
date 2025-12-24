@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeepFleet: Multi-Agent Foundation Models for Mobile Robots
+title: "DeepFleet: Multi-Agent Foundation Models for Mobile Robots"
 ---
 
 # DeepFleet: Multi-Agent Foundation Models for Mobile Robots

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rethinking Caching for LLM Serving Systems: Beyond Traditional Heuristics
+title: "Rethinking Caching for LLM Serving Systems: Beyond Traditional Heuristics"
 ---
 
 # Rethinking Caching for LLM Serving Systems: Beyond Traditional Heuristics

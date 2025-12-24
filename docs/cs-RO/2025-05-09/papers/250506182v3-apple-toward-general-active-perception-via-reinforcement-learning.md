@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Apple: Toward General Active Perception via Reinforcement Learning
+title: "Apple: Toward General Active Perception via Reinforcement Learning"
 ---
 
 # Apple: Toward General Active Perception via Reinforcement Learning

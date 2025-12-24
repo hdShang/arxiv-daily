@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI-based Multimodal Biometrics for Detecting Smartphone Distractions: Application to Online Learning
+title: "AI-based Multimodal Biometrics for Detecting Smartphone Distractions: Application to Online Learning"
 ---
 
 # AI-based Multimodal Biometrics for Detecting Smartphone Distractions: Application to Online Learning

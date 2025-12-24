@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ExGS: Extreme 3D Gaussian Compression with Diffusion Priors
+title: "ExGS: Extreme 3D Gaussian Compression with Diffusion Priors"
 ---
 
 # ExGS: Extreme 3D Gaussian Compression with Diffusion Priors

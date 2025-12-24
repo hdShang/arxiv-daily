@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AGORA: Adversarial Generation Of Real-time Animatable 3D Gaussian Head Avatars
+title: "AGORA: Adversarial Generation Of Real-time Animatable 3D Gaussian Head Avatars"
 ---
 
 # AGORA: Adversarial Generation Of Real-time Animatable 3D Gaussian Head Avatars

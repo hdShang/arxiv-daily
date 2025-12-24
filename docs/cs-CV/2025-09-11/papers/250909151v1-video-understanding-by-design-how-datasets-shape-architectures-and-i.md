@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Video Understanding by Design: How Datasets Shape Architectures and Insights
+title: "Video Understanding by Design: How Datasets Shape Architectures and Insights"
 ---
 
 # Video Understanding by Design: How Datasets Shape Architectures and Insights

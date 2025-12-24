@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TernaryCLIP: Efficiently Compressing Vision-Language Models with Ternary Weights and Distilled Knowledge
+title: "TernaryCLIP: Efficiently Compressing Vision-Language Models with Ternary Weights and Distilled Knowledge"
 ---
 
 # TernaryCLIP: Efficiently Compressing Vision-Language Models with Ternary Weights and Distilled Knowledge

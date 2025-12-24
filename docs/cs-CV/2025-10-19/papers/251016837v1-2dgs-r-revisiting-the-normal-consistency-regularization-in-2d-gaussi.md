@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2DGS-R: Revisiting the Normal Consistency Regularization in 2D Gaussian Splatting
+title: "2DGS-R: Revisiting the Normal Consistency Regularization in 2D Gaussian Splatting"
 ---
 
 # 2DGS-R: Revisiting the Normal Consistency Regularization in 2D Gaussian Splatting

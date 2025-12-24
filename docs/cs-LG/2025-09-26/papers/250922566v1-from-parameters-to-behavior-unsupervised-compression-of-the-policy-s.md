@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Parameters to Behavior: Unsupervised Compression of the Policy Space
+title: "From Parameters to Behavior: Unsupervised Compression of the Policy Space"
 ---
 
 # From Parameters to Behavior: Unsupervised Compression of the Policy Space

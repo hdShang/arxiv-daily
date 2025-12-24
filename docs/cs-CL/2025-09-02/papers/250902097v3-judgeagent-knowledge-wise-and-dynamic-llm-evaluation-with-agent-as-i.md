@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JudgeAgent: Knowledge-wise and Dynamic LLM Evaluation with Agent-as-Interviewer
+title: "JudgeAgent: Knowledge-wise and Dynamic LLM Evaluation with Agent-as-Interviewer"
 ---
 
 # JudgeAgent: Knowledge-wise and Dynamic LLM Evaluation with Agent-as-Interviewer

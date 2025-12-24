@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning
+title: "Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning"
 ---
 
 # Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning

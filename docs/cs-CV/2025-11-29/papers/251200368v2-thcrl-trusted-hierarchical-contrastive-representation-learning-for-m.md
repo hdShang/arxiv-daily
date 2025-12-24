@@ -1,6 +1,6 @@
 ---
 layout: default
-title: THCRL: Trusted Hierarchical Contrastive Representation Learning for Multi-View Clustering
+title: "THCRL: Trusted Hierarchical Contrastive Representation Learning for Multi-View Clustering"
 ---
 
 # THCRL: Trusted Hierarchical Contrastive Representation Learning for Multi-View Clustering

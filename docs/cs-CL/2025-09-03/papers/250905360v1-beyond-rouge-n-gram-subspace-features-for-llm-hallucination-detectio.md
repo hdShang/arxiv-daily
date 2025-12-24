@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond ROUGE: N-Gram Subspace Features for LLM Hallucination Detection
+title: "Beyond ROUGE: N-Gram Subspace Features for LLM Hallucination Detection"
 ---
 
 # Beyond ROUGE: N-Gram Subspace Features for LLM Hallucination Detection

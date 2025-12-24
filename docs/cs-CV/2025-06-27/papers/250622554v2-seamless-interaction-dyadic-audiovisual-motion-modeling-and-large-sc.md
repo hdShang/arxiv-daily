@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seamless Interaction: Dyadic Audiovisual Motion Modeling and Large-Scale Dataset
+title: "Seamless Interaction: Dyadic Audiovisual Motion Modeling and Large-Scale Dataset"
 ---
 
 # Seamless Interaction: Dyadic Audiovisual Motion Modeling and Large-Scale Dataset

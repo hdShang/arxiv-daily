@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Drones that Think on their Feet: Sudden Landing Decisions with Embodied AI
+title: "Drones that Think on their Feet: Sudden Landing Decisions with Embodied AI"
 ---
 
 # Drones that Think on their Feet: Sudden Landing Decisions with Embodied AI

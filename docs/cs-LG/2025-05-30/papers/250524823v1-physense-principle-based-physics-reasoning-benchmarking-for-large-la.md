@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PhySense: Principle-Based Physics Reasoning Benchmarking for Large Language Models
+title: "PhySense: Principle-Based Physics Reasoning Benchmarking for Large Language Models"
 ---
 
 # PhySense: Principle-Based Physics Reasoning Benchmarking for Large Language Models

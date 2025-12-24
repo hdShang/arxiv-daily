@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation
+title: "FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation"
 ---
 
 # FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation

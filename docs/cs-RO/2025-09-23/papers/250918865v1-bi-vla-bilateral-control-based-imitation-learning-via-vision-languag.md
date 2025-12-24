@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bi-VLA: Bilateral Control-Based Imitation Learning via Vision-Language Fusion for Action Generation
+title: "Bi-VLA: Bilateral Control-Based Imitation Learning via Vision-Language Fusion for Action Generation"
 ---
 
 # Bi-VLA: Bilateral Control-Based Imitation Learning via Vision-Language Fusion for Action Generation

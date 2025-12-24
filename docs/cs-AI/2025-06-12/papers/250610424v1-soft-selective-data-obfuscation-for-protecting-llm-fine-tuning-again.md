@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SOFT: Selective Data Obfuscation for Protecting LLM Fine-tuning against Membership Inference Attacks
+title: "SOFT: Selective Data Obfuscation for Protecting LLM Fine-tuning against Membership Inference Attacks"
 ---
 
 # SOFT: Selective Data Obfuscation for Protecting LLM Fine-tuning against Membership Inference Attacks

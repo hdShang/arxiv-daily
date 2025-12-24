@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CSE-SFP: Enabling Unsupervised Sentence Representation Learning via a Single Forward Pass
+title: "CSE-SFP: Enabling Unsupervised Sentence Representation Learning via a Single Forward Pass"
 ---
 
 # CSE-SFP: Enabling Unsupervised Sentence Representation Learning via a Single Forward Pass

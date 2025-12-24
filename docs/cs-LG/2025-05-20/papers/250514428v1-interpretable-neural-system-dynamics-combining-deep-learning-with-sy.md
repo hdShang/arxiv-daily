@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Interpretable Neural System Dynamics: Combining Deep Learning with System Dynamics Modeling to Support Critical Applications
+title: "Interpretable Neural System Dynamics: Combining Deep Learning with System Dynamics Modeling to Support Critical Applications"
 ---
 
 # Interpretable Neural System Dynamics: Combining Deep Learning with System Dynamics Modeling to Support Critical Applications

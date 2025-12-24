@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TinyGiantVLM: A Lightweight Vision-Language Architecture for Spatial Reasoning under Resource Constraints
+title: "TinyGiantVLM: A Lightweight Vision-Language Architecture for Spatial Reasoning under Resource Constraints"
 ---
 
 # TinyGiantVLM: A Lightweight Vision-Language Architecture for Spatial Reasoning under Resource Constraints

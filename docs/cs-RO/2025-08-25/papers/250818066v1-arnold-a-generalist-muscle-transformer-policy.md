@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Arnold: a generalist muscle transformer policy
+title: "Arnold: a generalist muscle transformer policy"
 ---
 
 # Arnold: a generalist muscle transformer policy

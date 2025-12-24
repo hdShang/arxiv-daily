@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Train Once, Answer All: Many Pretraining Experiments for the Cost of One
+title: "Train Once, Answer All: Many Pretraining Experiments for the Cost of One"
 ---
 
 # Train Once, Answer All: Many Pretraining Experiments for the Cost of One

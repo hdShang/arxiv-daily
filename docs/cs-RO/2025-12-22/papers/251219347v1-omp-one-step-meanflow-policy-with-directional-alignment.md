@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OMP: One-step Meanflow Policy with Directional Alignment
+title: "OMP: One-step Meanflow Policy with Directional Alignment"
 ---
 
 # OMP: One-step Meanflow Policy with Directional Alignment

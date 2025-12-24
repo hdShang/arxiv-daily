@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PEDANTIC: A Dataset for the Automatic Examination of Definiteness in Patent Claims
+title: "PEDANTIC: A Dataset for the Automatic Examination of Definiteness in Patent Claims"
 ---
 
 # PEDANTIC: A Dataset for the Automatic Examination of Definiteness in Patent Claims

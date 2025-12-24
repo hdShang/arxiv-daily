@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MELT: Towards Automated Multimodal Emotion Data Annotation by Leveraging LLM Embedded Knowledge
+title: "MELT: Towards Automated Multimodal Emotion Data Annotation by Leveraging LLM Embedded Knowledge"
 ---
 
 # MELT: Towards Automated Multimodal Emotion Data Annotation by Leveraging LLM Embedded Knowledge

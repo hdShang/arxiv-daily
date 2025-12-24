@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TrimTokenator: Towards Adaptive Visual Token Pruning for Large Multimodal Models
+title: "TrimTokenator: Towards Adaptive Visual Token Pruning for Large Multimodal Models"
 ---
 
 # TrimTokenator: Towards Adaptive Visual Token Pruning for Large Multimodal Models

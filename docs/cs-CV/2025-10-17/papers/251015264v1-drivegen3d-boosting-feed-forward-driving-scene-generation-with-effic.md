@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DriveGen3D: Boosting Feed-Forward Driving Scene Generation with Efficient Video Diffusion
+title: "DriveGen3D: Boosting Feed-Forward Driving Scene Generation with Efficient Video Diffusion"
 ---
 
 # DriveGen3D: Boosting Feed-Forward Driving Scene Generation with Efficient Video Diffusion

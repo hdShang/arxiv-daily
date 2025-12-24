@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Krikri: Advancing Open Large Language Models for Greek
+title: "Krikri: Advancing Open Large Language Models for Greek"
 ---
 
 # Krikri: Advancing Open Large Language Models for Greek

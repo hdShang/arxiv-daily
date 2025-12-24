@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exploring Multimodal Challenges in Toxic Chinese Detection: Taxonomy, Benchmark, and Findings
+title: "Exploring Multimodal Challenges in Toxic Chinese Detection: Taxonomy, Benchmark, and Findings"
 ---
 
 # Exploring Multimodal Challenges in Toxic Chinese Detection: Taxonomy, Benchmark, and Findings

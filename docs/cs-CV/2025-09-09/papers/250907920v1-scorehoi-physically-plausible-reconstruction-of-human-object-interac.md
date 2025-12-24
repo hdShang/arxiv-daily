@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ScoreHOI: Physically Plausible Reconstruction of Human-Object Interaction via Score-Guided Diffusion
+title: "ScoreHOI: Physically Plausible Reconstruction of Human-Object Interaction via Score-Guided Diffusion"
 ---
 
 # ScoreHOI: Physically Plausible Reconstruction of Human-Object Interaction via Score-Guided Diffusion

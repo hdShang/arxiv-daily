@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AISTAT lab system for DCASE2025 Task6: Language-based audio retrieval
+title: "AISTAT lab system for DCASE2025 Task6: Language-based audio retrieval"
 ---
 
 # AISTAT lab system for DCASE2025 Task6: Language-based audio retrieval

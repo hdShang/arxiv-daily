@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SightSound-R1: Cross-Modal Reasoning Distillation from Vision to Audio Language Models
+title: "SightSound-R1: Cross-Modal Reasoning Distillation from Vision to Audio Language Models"
 ---
 
 # SightSound-R1: Cross-Modal Reasoning Distillation from Vision to Audio Language Models

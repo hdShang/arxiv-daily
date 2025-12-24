@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MedCLM: Learning to Localize and Reason via a CoT-Curriculum in Medical Vision-Language Models
+title: "MedCLM: Learning to Localize and Reason via a CoT-Curriculum in Medical Vision-Language Models"
 ---
 
 # MedCLM: Learning to Localize and Reason via a CoT-Curriculum in Medical Vision-Language Models

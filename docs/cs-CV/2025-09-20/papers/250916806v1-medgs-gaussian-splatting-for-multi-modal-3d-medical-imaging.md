@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MedGS: Gaussian Splatting for Multi-Modal 3D Medical Imaging
+title: "MedGS: Gaussian Splatting for Multi-Modal 3D Medical Imaging"
 ---
 
 # MedGS: Gaussian Splatting for Multi-Modal 3D Medical Imaging

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: World-in-World: World Models in a Closed-Loop World
+title: "World-in-World: World Models in a Closed-Loop World"
 ---
 
 # World-in-World: World Models in a Closed-Loop World

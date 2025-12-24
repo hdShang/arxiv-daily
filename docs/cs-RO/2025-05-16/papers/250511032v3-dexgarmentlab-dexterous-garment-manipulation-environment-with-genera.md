@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy
+title: "DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy"
 ---
 
 # DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy

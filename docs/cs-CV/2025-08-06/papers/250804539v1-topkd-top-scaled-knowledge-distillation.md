@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TopKD: Top-scaled Knowledge Distillation
+title: "TopKD: Top-scaled Knowledge Distillation"
 ---
 
 # TopKD: Top-scaled Knowledge Distillation

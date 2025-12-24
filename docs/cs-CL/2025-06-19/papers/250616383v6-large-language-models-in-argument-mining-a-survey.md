@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Large Language Models in Argument Mining: A Survey
+title: "Large Language Models in Argument Mining: A Survey"
 ---
 
 # Large Language Models in Argument Mining: A Survey

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SWAGSplatting: Semantic-guided Water-scene Augmented Gaussian Splatting
+title: "SWAGSplatting: Semantic-guided Water-scene Augmented Gaussian Splatting"
 ---
 
 # SWAGSplatting: Semantic-guided Water-scene Augmented Gaussian Splatting

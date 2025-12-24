@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DexMan: Learning Bimanual Dexterous Manipulation from Human and Generated Videos
+title: "DexMan: Learning Bimanual Dexterous Manipulation from Human and Generated Videos"
 ---
 
 # DexMan: Learning Bimanual Dexterous Manipulation from Human and Generated Videos

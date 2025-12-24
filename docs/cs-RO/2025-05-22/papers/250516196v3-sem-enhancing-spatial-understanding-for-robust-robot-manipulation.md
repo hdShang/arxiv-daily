@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SEM: Enhancing Spatial Understanding for Robust Robot Manipulation
+title: "SEM: Enhancing Spatial Understanding for Robust Robot Manipulation"
 ---
 
 # SEM: Enhancing Spatial Understanding for Robust Robot Manipulation

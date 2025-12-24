@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Steering Towards Fairness: Mitigating Political Bias in LLMs
+title: "Steering Towards Fairness: Mitigating Political Bias in LLMs"
 ---
 
 # Steering Towards Fairness: Mitigating Political Bias in LLMs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MATA (māta): Mindful Assessment of the Telugu Abilities of Large Language Models
+title: "MATA (māta): Mindful Assessment of the Telugu Abilities of Large Language Models"
 ---
 
 # MATA (māta): Mindful Assessment of the Telugu Abilities of Large Language Models

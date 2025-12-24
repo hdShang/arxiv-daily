@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EmbodiedBrain: Expanding Performance Boundaries of Task Planning for Embodied Intelligence
+title: "EmbodiedBrain: Expanding Performance Boundaries of Task Planning for Embodied Intelligence"
 ---
 
 # EmbodiedBrain: Expanding Performance Boundaries of Task Planning for Embodied Intelligence

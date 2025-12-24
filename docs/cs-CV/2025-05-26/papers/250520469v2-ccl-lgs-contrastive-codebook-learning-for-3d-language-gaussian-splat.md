@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting
+title: "CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting"
 ---
 
 # CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting

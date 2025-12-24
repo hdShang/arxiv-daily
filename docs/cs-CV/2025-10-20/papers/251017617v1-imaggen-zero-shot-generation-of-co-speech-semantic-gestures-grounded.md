@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ImaGGen: Zero-Shot Generation of Co-Speech Semantic Gestures Grounded in Language and Image Input
+title: "ImaGGen: Zero-Shot Generation of Co-Speech Semantic Gestures Grounded in Language and Image Input"
 ---
 
 # ImaGGen: Zero-Shot Generation of Co-Speech Semantic Gestures Grounded in Language and Image Input

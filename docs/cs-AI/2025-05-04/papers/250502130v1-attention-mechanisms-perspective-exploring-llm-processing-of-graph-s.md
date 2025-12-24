@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Attention Mechanisms Perspective: Exploring LLM Processing of Graph-Structured Data
+title: "Attention Mechanisms Perspective: Exploring LLM Processing of Graph-Structured Data"
 ---
 
 # Attention Mechanisms Perspective: Exploring LLM Processing of Graph-Structured Data

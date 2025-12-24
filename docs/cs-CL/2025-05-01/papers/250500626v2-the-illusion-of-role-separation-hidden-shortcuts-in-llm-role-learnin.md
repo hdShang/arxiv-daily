@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Illusion of Role Separation: Hidden Shortcuts in LLM Role Learning (and How to Fix Them)
+title: "The Illusion of Role Separation: Hidden Shortcuts in LLM Role Learning (and How to Fix Them)"
 ---
 
 # The Illusion of Role Separation: Hidden Shortcuts in LLM Role Learning (and How to Fix Them)

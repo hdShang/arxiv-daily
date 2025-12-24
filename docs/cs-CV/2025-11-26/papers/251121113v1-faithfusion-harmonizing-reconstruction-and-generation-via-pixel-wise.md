@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FaithFusion: Harmonizing Reconstruction and Generation via Pixel-wise Information Gain
+title: "FaithFusion: Harmonizing Reconstruction and Generation via Pixel-wise Information Gain"
 ---
 
 # FaithFusion: Harmonizing Reconstruction and Generation via Pixel-wise Information Gain

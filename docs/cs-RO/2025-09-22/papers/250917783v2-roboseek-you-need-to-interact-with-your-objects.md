@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboSeek: You Need to Interact with Your Objects
+title: "RoboSeek: You Need to Interact with Your Objects"
 ---
 
 # RoboSeek: You Need to Interact with Your Objects

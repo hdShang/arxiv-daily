@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bench-Push: Benchmarking Pushing-based Navigation and Manipulation Tasks for Mobile Robots
+title: "Bench-Push: Benchmarking Pushing-based Navigation and Manipulation Tasks for Mobile Robots"
 ---
 
 # Bench-Push: Benchmarking Pushing-based Navigation and Manipulation Tasks for Mobile Robots

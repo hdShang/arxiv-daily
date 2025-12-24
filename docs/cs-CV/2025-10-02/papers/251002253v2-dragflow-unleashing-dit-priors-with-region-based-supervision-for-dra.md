@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing
+title: "DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing"
 ---
 
 # DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing

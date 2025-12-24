@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Motion Planning for Autonomous Vehicles: When Model Predictive Control Meets Ensemble Kalman Smoothing
+title: "Motion Planning for Autonomous Vehicles: When Model Predictive Control Meets Ensemble Kalman Smoothing"
 ---
 
 # Motion Planning for Autonomous Vehicles: When Model Predictive Control Meets Ensemble Kalman Smoothing

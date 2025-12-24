@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Speciesism in AI: Evaluating Discrimination Against Animals in Large Language Models
+title: "Speciesism in AI: Evaluating Discrimination Against Animals in Large Language Models"
 ---
 
 # Speciesism in AI: Evaluating Discrimination Against Animals in Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ROPES: Robotic Pose Estimation via Score-Based Causal Representation Learning
+title: "ROPES: Robotic Pose Estimation via Score-Based Causal Representation Learning"
 ---
 
 # ROPES: Robotic Pose Estimation via Score-Based Causal Representation Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FALCON: An ML Framework for Fully Automated Layout-Constrained Analog Circuit Design
+title: "FALCON: An ML Framework for Fully Automated Layout-Constrained Analog Circuit Design"
 ---
 
 # FALCON: An ML Framework for Fully Automated Layout-Constrained Analog Circuit Design

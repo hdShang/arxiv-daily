@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RepIt: Steering Language Models with Concept-Specific Refusal Vectors
+title: "RepIt: Steering Language Models with Concept-Specific Refusal Vectors"
 ---
 
 # RepIt: Steering Language Models with Concept-Specific Refusal Vectors

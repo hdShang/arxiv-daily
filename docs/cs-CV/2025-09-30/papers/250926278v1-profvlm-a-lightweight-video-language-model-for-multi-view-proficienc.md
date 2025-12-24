@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ProfVLM: A Lightweight Video-Language Model for Multi-View Proficiency Estimation
+title: "ProfVLM: A Lightweight Video-Language Model for Multi-View Proficiency Estimation"
 ---
 
 # ProfVLM: A Lightweight Video-Language Model for Multi-View Proficiency Estimation

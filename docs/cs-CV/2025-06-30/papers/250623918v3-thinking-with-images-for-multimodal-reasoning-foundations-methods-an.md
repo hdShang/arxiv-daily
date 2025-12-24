@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers
+title: "Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers"
 ---
 
 # Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers

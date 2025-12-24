@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LCES: Zero-shot Automated Essay Scoring via Pairwise Comparisons Using Large Language Models
+title: "LCES: Zero-shot Automated Essay Scoring via Pairwise Comparisons Using Large Language Models"
 ---
 
 # LCES: Zero-shot Automated Essay Scoring via Pairwise Comparisons Using Large Language Models

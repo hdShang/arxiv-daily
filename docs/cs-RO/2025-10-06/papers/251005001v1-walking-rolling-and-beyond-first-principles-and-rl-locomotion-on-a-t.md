@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Walking, Rolling, and Beyond: First-Principles and RL Locomotion on a TARS-Inspired Robot
+title: "Walking, Rolling, and Beyond: First-Principles and RL Locomotion on a TARS-Inspired Robot"
 ---
 
 # Walking, Rolling, and Beyond: First-Principles and RL Locomotion on a TARS-Inspired Robot

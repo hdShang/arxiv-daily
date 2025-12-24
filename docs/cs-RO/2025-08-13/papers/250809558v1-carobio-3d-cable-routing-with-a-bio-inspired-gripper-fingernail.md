@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CaRoBio: 3D Cable Routing with a Bio-inspired Gripper Fingernail
+title: "CaRoBio: 3D Cable Routing with a Bio-inspired Gripper Fingernail"
 ---
 
 # CaRoBio: 3D Cable Routing with a Bio-inspired Gripper Fingernail

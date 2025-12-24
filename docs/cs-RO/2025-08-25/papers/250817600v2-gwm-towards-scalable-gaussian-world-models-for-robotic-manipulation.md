@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GWM: Towards Scalable Gaussian World Models for Robotic Manipulation
+title: "GWM: Towards Scalable Gaussian World Models for Robotic Manipulation"
 ---
 
 # GWM: Towards Scalable Gaussian World Models for Robotic Manipulation

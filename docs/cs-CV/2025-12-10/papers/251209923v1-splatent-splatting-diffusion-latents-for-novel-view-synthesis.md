@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Splatent: Splatting Diffusion Latents for Novel View Synthesis
+title: "Splatent: Splatting Diffusion Latents for Novel View Synthesis"
 ---
 
 # Splatent: Splatting Diffusion Latents for Novel View Synthesis

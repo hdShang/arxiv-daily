@@ -1,6 +1,6 @@
 ---
 layout: default
-title: P-4DGS: Predictive 4D Gaussian Splatting with 90$\times$ Compression
+title: "P-4DGS: Predictive 4D Gaussian Splatting with 90$\\times$ Compression"
 ---
 
 # P-4DGS: Predictive 4D Gaussian Splatting with 90$\times$ Compression

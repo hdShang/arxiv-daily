@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NeuronTune: Fine-Grained Neuron Modulation for Balanced Safety-Utility Alignment in LLMs
+title: "NeuronTune: Fine-Grained Neuron Modulation for Balanced Safety-Utility Alignment in LLMs"
 ---
 
 # NeuronTune: Fine-Grained Neuron Modulation for Balanced Safety-Utility Alignment in LLMs

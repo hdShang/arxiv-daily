@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Semantic Glitch: Agency and Artistry in an Autonomous Pixel Cloud
+title: "Semantic Glitch: Agency and Artistry in an Autonomous Pixel Cloud"
 ---
 
 # Semantic Glitch: Agency and Artistry in an Autonomous Pixel Cloud

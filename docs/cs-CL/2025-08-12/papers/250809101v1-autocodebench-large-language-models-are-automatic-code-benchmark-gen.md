@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AutoCodeBench: Large Language Models are Automatic Code Benchmark Generators
+title: "AutoCodeBench: Large Language Models are Automatic Code Benchmark Generators"
 ---
 
 # AutoCodeBench: Large Language Models are Automatic Code Benchmark Generators

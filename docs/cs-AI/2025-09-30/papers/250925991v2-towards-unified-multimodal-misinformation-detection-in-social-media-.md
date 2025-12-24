@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline
+title: "Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline"
 ---
 
 # Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Decomposing the Entropy-Performance Exchange: The Missing Keys to Unlocking Effective Reinforcement Learning
+title: "Decomposing the Entropy-Performance Exchange: The Missing Keys to Unlocking Effective Reinforcement Learning"
 ---
 
 # Decomposing the Entropy-Performance Exchange: The Missing Keys to Unlocking Effective Reinforcement Learning

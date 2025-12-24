@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SMGeo: Cross-View Object Geo-Localization with Grid-Level Mixture-of-Experts
+title: "SMGeo: Cross-View Object Geo-Localization with Grid-Level Mixture-of-Experts"
 ---
 
 # SMGeo: Cross-View Object Geo-Localization with Grid-Level Mixture-of-Experts

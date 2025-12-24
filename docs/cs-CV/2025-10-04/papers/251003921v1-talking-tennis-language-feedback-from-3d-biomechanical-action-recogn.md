@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Talking Tennis: Language Feedback from 3D Biomechanical Action Recognition
+title: "Talking Tennis: Language Feedback from 3D Biomechanical Action Recognition"
 ---
 
 # Talking Tennis: Language Feedback from 3D Biomechanical Action Recognition

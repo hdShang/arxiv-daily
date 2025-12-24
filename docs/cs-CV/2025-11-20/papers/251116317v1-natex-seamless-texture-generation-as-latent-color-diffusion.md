@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NaTex: Seamless Texture Generation as Latent Color Diffusion
+title: "NaTex: Seamless Texture Generation as Latent Color Diffusion"
 ---
 
 # NaTex: Seamless Texture Generation as Latent Color Diffusion

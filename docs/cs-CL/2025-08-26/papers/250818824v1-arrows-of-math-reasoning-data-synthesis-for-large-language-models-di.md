@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Arrows of Math Reasoning Data Synthesis for Large Language Models: Diversity, Complexity and Correctness
+title: "Arrows of Math Reasoning Data Synthesis for Large Language Models: Diversity, Complexity and Correctness"
 ---
 
 # Arrows of Math Reasoning Data Synthesis for Large Language Models: Diversity, Complexity and Correctness

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SGM: Safety Glasses for Multimodal Large Language Models via Neuron-Level Detoxification
+title: "SGM: Safety Glasses for Multimodal Large Language Models via Neuron-Level Detoxification"
 ---
 
 # SGM: Safety Glasses for Multimodal Large Language Models via Neuron-Level Detoxification

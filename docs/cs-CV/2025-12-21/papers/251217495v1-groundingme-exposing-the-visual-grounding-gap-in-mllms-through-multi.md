@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GroundingME: Exposing the Visual Grounding Gap in MLLMs through Multi-Dimensional Evaluation
+title: "GroundingME: Exposing the Visual Grounding Gap in MLLMs through Multi-Dimensional Evaluation"
 ---
 
 # GroundingME: Exposing the Visual Grounding Gap in MLLMs through Multi-Dimensional Evaluation

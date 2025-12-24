@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Simba: Towards High-Fidelity and Geometrically-Consistent Point Cloud Completion via Transformation Diffusion
+title: "Simba: Towards High-Fidelity and Geometrically-Consistent Point Cloud Completion via Transformation Diffusion"
 ---
 
 # Simba: Towards High-Fidelity and Geometrically-Consistent Point Cloud Completion via Transformation Diffusion

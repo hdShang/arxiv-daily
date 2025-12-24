@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ERGO: Efficient High-Resolution Visual Understanding for Vision-Language Models
+title: "ERGO: Efficient High-Resolution Visual Understanding for Vision-Language Models"
 ---
 
 # ERGO: Efficient High-Resolution Visual Understanding for Vision-Language Models

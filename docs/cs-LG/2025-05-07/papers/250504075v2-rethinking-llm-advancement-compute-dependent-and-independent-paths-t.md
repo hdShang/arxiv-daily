@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rethinking LLM Advancement: Compute-Dependent and Independent Paths to Progress
+title: "Rethinking LLM Advancement: Compute-Dependent and Independent Paths to Progress"
 ---
 
 # Rethinking LLM Advancement: Compute-Dependent and Independent Paths to Progress

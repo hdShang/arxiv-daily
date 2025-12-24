@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gallant: Voxel Grid-based Humanoid Locomotion and Local-navigation across 3D Constrained Terrains
+title: "Gallant: Voxel Grid-based Humanoid Locomotion and Local-navigation across 3D Constrained Terrains"
 ---
 
 # Gallant: Voxel Grid-based Humanoid Locomotion and Local-navigation across 3D Constrained Terrains

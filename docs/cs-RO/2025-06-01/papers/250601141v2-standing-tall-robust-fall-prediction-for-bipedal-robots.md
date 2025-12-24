@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Standing Tall: Robust Fall Prediction for Bipedal Robots
+title: "Standing Tall: Robust Fall Prediction for Bipedal Robots"
 ---
 
 # Standing Tall: Robust Fall Prediction for Bipedal Robots

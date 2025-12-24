@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Parameter Estimation using Reinforcement Learning Causal Curiosity: Limits and Challenges
+title: "Parameter Estimation using Reinforcement Learning Causal Curiosity: Limits and Challenges"
 ---
 
 # Parameter Estimation using Reinforcement Learning Causal Curiosity: Limits and Challenges

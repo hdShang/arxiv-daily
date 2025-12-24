@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SLIM: Subtrajectory-Level Elimination for More Effective Reasoning
+title: "SLIM: Subtrajectory-Level Elimination for More Effective Reasoning"
 ---
 
 # SLIM: Subtrajectory-Level Elimination for More Effective Reasoning

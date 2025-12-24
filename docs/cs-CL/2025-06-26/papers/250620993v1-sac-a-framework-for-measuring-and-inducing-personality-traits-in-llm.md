@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SAC: A Framework for Measuring and Inducing Personality Traits in LLMs with Dynamic Intensity Control
+title: "SAC: A Framework for Measuring and Inducing Personality Traits in LLMs with Dynamic Intensity Control"
 ---
 
 # SAC: A Framework for Measuring and Inducing Personality Traits in LLMs with Dynamic Intensity Control

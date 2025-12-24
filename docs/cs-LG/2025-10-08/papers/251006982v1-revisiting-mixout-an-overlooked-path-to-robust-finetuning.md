@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Revisiting Mixout: An Overlooked Path to Robust Finetuning
+title: "Revisiting Mixout: An Overlooked Path to Robust Finetuning"
 ---
 
 # Revisiting Mixout: An Overlooked Path to Robust Finetuning

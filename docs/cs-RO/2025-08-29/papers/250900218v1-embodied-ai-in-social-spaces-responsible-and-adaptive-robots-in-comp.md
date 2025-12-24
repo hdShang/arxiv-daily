@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Embodied AI in Social Spaces: Responsible and Adaptive Robots in Complex Setting -- UKAIRS 2025 (Copy)
+title: "Embodied AI in Social Spaces: Responsible and Adaptive Robots in Complex Setting -- UKAIRS 2025 (Copy)"
 ---
 
 # Embodied AI in Social Spaces: Responsible and Adaptive Robots in Complex Setting -- UKAIRS 2025 (Copy)

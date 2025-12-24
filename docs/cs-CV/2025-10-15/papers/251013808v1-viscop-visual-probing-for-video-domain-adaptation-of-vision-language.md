@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VisCoP: Visual Probing for Video Domain Adaptation of Vision Language Models
+title: "VisCoP: Visual Probing for Video Domain Adaptation of Vision Language Models"
 ---
 
 # VisCoP: Visual Probing for Video Domain Adaptation of Vision Language Models

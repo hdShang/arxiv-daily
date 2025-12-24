@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation
+title: "AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation"
 ---
 
 # AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation

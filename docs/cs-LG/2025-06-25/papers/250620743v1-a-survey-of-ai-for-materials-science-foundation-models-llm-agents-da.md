@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Survey of AI for Materials Science: Foundation Models, LLM Agents, Datasets, and Tools
+title: "A Survey of AI for Materials Science: Foundation Models, LLM Agents, Datasets, and Tools"
 ---
 
 # A Survey of AI for Materials Science: Foundation Models, LLM Agents, Datasets, and Tools

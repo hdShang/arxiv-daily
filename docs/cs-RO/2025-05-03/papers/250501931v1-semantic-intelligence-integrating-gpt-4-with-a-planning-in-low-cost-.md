@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Semantic Intelligence: Integrating GPT-4 with A Planning in Low-Cost Robotics
+title: "Semantic Intelligence: Integrating GPT-4 with A Planning in Low-Cost Robotics"
 ---
 
 # Semantic Intelligence: Integrating GPT-4 with A Planning in Low-Cost Robotics

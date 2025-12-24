@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RETRO: REthinking Tactile Representation Learning with Material PriOrs
+title: "RETRO: REthinking Tactile Representation Learning with Material PriOrs"
 ---
 
 # RETRO: REthinking Tactile Representation Learning with Material PriOrs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TrustGLM: Evaluating the Robustness of GraphLLMs Against Prompt, Text, and Structure Attacks
+title: "TrustGLM: Evaluating the Robustness of GraphLLMs Against Prompt, Text, and Structure Attacks"
 ---
 
 # TrustGLM: Evaluating the Robustness of GraphLLMs Against Prompt, Text, and Structure Attacks

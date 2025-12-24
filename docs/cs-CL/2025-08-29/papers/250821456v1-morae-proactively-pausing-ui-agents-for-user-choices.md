@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Morae: Proactively Pausing UI Agents for User Choices
+title: "Morae: Proactively Pausing UI Agents for User Choices"
 ---
 
 # Morae: Proactively Pausing UI Agents for User Choices

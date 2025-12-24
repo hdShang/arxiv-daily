@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Large Language Models and Emergence: A Complex Systems Perspective
+title: "Large Language Models and Emergence: A Complex Systems Perspective"
 ---
 
 # Large Language Models and Emergence: A Complex Systems Perspective

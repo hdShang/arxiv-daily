@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Integrating Large Language Models in Financial Investments and Market Analysis: A Survey
+title: "Integrating Large Language Models in Financial Investments and Market Analysis: A Survey"
 ---
 
 # Integrating Large Language Models in Financial Investments and Market Analysis: A Survey

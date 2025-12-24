@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Res-Bench: Benchmarking the Robustness of Multimodal Large Language Models to Dynamic Resolution Input
+title: "Res-Bench: Benchmarking the Robustness of Multimodal Large Language Models to Dynamic Resolution Input"
 ---
 
 # Res-Bench: Benchmarking the Robustness of Multimodal Large Language Models to Dynamic Resolution Input

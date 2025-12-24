@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion
+title: "CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion"
 ---
 
 # CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion

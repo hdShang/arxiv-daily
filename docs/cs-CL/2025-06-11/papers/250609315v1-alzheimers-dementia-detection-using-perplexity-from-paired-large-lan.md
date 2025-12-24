@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Alzheimer's Dementia Detection Using Perplexity from Paired Large Language Models
+title: "Alzheimer's Dementia Detection Using Perplexity from Paired Large Language Models"
 ---
 
 # Alzheimer's Dementia Detection Using Perplexity from Paired Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SMamDiff: Spatial Mamba for Stochastic Human Motion Prediction
+title: "SMamDiff: Spatial Mamba for Stochastic Human Motion Prediction"
 ---
 
 # SMamDiff: Spatial Mamba for Stochastic Human Motion Prediction

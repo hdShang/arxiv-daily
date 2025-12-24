@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TaoSR1: The Thinking Model for E-commerce Relevance Search
+title: "TaoSR1: The Thinking Model for E-commerce Relevance Search"
 ---
 
 # TaoSR1: The Thinking Model for E-commerce Relevance Search

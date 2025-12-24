@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Drone Imagery to Livability Mapping: AI-powered Environment Perception in Rural China
+title: "From Drone Imagery to Livability Mapping: AI-powered Environment Perception in Rural China"
 ---
 
 # From Drone Imagery to Livability Mapping: AI-powered Environment Perception in Rural China

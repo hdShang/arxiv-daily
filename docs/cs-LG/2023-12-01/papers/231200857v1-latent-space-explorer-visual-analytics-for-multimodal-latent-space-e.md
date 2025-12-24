@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Latent Space Explorer: Visual Analytics for Multimodal Latent Space Exploration
+title: "Latent Space Explorer: Visual Analytics for Multimodal Latent Space Exploration"
 ---
 
 # Latent Space Explorer: Visual Analytics for Multimodal Latent Space Exploration

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quant-dLLM: Post-Training Extreme Low-Bit Quantization for Diffusion Large Language Models
+title: "Quant-dLLM: Post-Training Extreme Low-Bit Quantization for Diffusion Large Language Models"
 ---
 
 # Quant-dLLM: Post-Training Extreme Low-Bit Quantization for Diffusion Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DP-GPT4MTS: Dual-Prompt Large Language Model for Textual-Numerical Time Series Forecasting
+title: "DP-GPT4MTS: Dual-Prompt Large Language Model for Textual-Numerical Time Series Forecasting"
 ---
 
 # DP-GPT4MTS: Dual-Prompt Large Language Model for Textual-Numerical Time Series Forecasting

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniVLA: Learning to Act Anywhere with Task-centric Latent Actions
+title: "UniVLA: Learning to Act Anywhere with Task-centric Latent Actions"
 ---
 
 # UniVLA: Learning to Act Anywhere with Task-centric Latent Actions

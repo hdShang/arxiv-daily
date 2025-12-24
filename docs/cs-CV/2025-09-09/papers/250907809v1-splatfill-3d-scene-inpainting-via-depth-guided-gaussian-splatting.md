@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SplatFill: 3D Scene Inpainting via Depth-Guided Gaussian Splatting
+title: "SplatFill: 3D Scene Inpainting via Depth-Guided Gaussian Splatting"
 ---
 
 # SplatFill: 3D Scene Inpainting via Depth-Guided Gaussian Splatting

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adversarial Score Distillation: When score distillation meets GAN
+title: "Adversarial Score Distillation: When score distillation meets GAN"
 ---
 
 # Adversarial Score Distillation: When score distillation meets GAN

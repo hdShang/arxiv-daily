@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MAS$^2$: Self-Generative, Self-Configuring, Self-Rectifying Multi-Agent Systems
+title: "MAS$^2$: Self-Generative, Self-Configuring, Self-Rectifying Multi-Agent Systems"
 ---
 
 # MAS$^2$: Self-Generative, Self-Configuring, Self-Rectifying Multi-Agent Systems

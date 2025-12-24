@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IA-MVS: Instance-Focused Adaptive Depth Sampling for Multi-View Stereo
+title: "IA-MVS: Instance-Focused Adaptive Depth Sampling for Multi-View Stereo"
 ---
 
 # IA-MVS: Instance-Focused Adaptive Depth Sampling for Multi-View Stereo

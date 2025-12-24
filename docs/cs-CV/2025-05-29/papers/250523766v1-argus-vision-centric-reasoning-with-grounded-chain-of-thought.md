@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought
+title: "Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought"
 ---
 
 # Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought

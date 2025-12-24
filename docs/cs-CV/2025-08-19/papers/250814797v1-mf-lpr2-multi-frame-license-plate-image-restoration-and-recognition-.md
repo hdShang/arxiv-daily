@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MF-LPR$^2$: Multi-Frame License Plate Image Restoration and Recognition using Optical Flow
+title: "MF-LPR$^2$: Multi-Frame License Plate Image Restoration and Recognition using Optical Flow"
 ---
 
 # MF-LPR$^2$: Multi-Frame License Plate Image Restoration and Recognition using Optical Flow

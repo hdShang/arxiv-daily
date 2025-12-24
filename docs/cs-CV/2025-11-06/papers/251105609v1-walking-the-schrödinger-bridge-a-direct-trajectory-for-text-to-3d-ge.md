@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Walking the Schrödinger Bridge: A Direct Trajectory for Text-to-3D Generation
+title: "Walking the Schrödinger Bridge: A Direct Trajectory for Text-to-3D Generation"
 ---
 
 # Walking the Schrödinger Bridge: A Direct Trajectory for Text-to-3D Generation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DMSORT: An efficient parallel maritime multi-object tracking architecture for unmanned vessel platforms
+title: "DMSORT: An efficient parallel maritime multi-object tracking architecture for unmanned vessel platforms"
 ---
 
 # DMSORT: An efficient parallel maritime multi-object tracking architecture for unmanned vessel platforms

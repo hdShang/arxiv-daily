@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Less is More: Token-Efficient Video-QA via Adaptive Frame-Pruning and Semantic Graph Integration
+title: "Less is More: Token-Efficient Video-QA via Adaptive Frame-Pruning and Semantic Graph Integration"
 ---
 
 # Less is More: Token-Efficient Video-QA via Adaptive Frame-Pruning and Semantic Graph Integration

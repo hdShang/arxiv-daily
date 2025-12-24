@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MME-SCI: A Comprehensive and Challenging Science Benchmark for Multimodal Large Language Models
+title: "MME-SCI: A Comprehensive and Challenging Science Benchmark for Multimodal Large Language Models"
 ---
 
 # MME-SCI: A Comprehensive and Challenging Science Benchmark for Multimodal Large Language Models

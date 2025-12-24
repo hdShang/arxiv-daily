@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Foundation Models for Autonomous Driving Perception: A Survey Through Core Capabilities
+title: "Foundation Models for Autonomous Driving Perception: A Survey Through Core Capabilities"
 ---
 
 # Foundation Models for Autonomous Driving Perception: A Survey Through Core Capabilities

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoLT: Mixture of Layer-Wise Tokens for Efficient Audio-Visual Learning
+title: "MoLT: Mixture of Layer-Wise Tokens for Efficient Audio-Visual Learning"
 ---
 
 # MoLT: Mixture of Layer-Wise Tokens for Efficient Audio-Visual Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PseudoMapTrainer: Learning Online Mapping without HD Maps
+title: "PseudoMapTrainer: Learning Online Mapping without HD Maps"
 ---
 
 # PseudoMapTrainer: Learning Online Mapping without HD Maps

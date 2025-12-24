@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IMG: Calibrating Diffusion Models via Implicit Multimodal Guidance
+title: "IMG: Calibrating Diffusion Models via Implicit Multimodal Guidance"
 ---
 
 # IMG: Calibrating Diffusion Models via Implicit Multimodal Guidance

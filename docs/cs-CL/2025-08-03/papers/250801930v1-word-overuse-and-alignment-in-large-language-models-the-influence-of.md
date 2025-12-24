@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Word Overuse and Alignment in Large Language Models: The Influence of Learning from Human Feedback
+title: "Word Overuse and Alignment in Large Language Models: The Influence of Learning from Human Feedback"
 ---
 
 # Word Overuse and Alignment in Large Language Models: The Influence of Learning from Human Feedback

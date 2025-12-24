@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BESPOKE: Benchmark for Search-Augmented Large Language Model Personalization via Diagnostic Feedback
+title: "BESPOKE: Benchmark for Search-Augmented Large Language Model Personalization via Diagnostic Feedback"
 ---
 
 # BESPOKE: Benchmark for Search-Augmented Large Language Model Personalization via Diagnostic Feedback

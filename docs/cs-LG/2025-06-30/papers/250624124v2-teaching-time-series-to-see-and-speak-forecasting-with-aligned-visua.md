@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives
+title: "Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives"
 ---
 
 # Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives

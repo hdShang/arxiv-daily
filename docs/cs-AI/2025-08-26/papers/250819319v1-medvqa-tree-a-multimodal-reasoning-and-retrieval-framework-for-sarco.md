@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MedVQA-TREE: A Multimodal Reasoning and Retrieval Framework for Sarcopenia Prediction
+title: "MedVQA-TREE: A Multimodal Reasoning and Retrieval Framework for Sarcopenia Prediction"
 ---
 
 # MedVQA-TREE: A Multimodal Reasoning and Retrieval Framework for Sarcopenia Prediction

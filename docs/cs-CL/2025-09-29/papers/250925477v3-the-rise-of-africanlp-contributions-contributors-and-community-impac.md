@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Rise of AfricaNLP: Contributions, Contributors, and Community Impact (2005-2025)
+title: "The Rise of AfricaNLP: Contributions, Contributors, and Community Impact (2005-2025)"
 ---
 
 # The Rise of AfricaNLP: Contributions, Contributors, and Community Impact (2005-2025)

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Map the Flow: Revealing Hidden Pathways of Information in VideoLLMs
+title: "Map the Flow: Revealing Hidden Pathways of Information in VideoLLMs"
 ---
 
 # Map the Flow: Revealing Hidden Pathways of Information in VideoLLMs

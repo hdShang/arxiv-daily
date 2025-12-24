@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Instant GaussianImage: A Generalizable and Self-Adaptive Image Representation via 2D Gaussian Splatting
+title: "Instant GaussianImage: A Generalizable and Self-Adaptive Image Representation via 2D Gaussian Splatting"
 ---
 
 # Instant GaussianImage: A Generalizable and Self-Adaptive Image Representation via 2D Gaussian Splatting

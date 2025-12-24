@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Synthesizing Procedural Memory: Challenges and Architectures in Automated Workflow Generation
+title: "Synthesizing Procedural Memory: Challenges and Architectures in Automated Workflow Generation"
 ---
 
 # Synthesizing Procedural Memory: Challenges and Architectures in Automated Workflow Generation

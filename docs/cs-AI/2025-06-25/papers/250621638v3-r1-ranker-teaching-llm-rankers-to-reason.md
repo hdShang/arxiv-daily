@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R1-Ranker: Teaching LLM Rankers to Reason
+title: "R1-Ranker: Teaching LLM Rankers to Reason"
 ---
 
 # R1-Ranker: Teaching LLM Rankers to Reason

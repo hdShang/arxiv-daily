@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ODKE+: Ontology-Guided Open-Domain Knowledge Extraction with LLMs
+title: "ODKE+: Ontology-Guided Open-Domain Knowledge Extraction with LLMs"
 ---
 
 # ODKE+: Ontology-Guided Open-Domain Knowledge Extraction with LLMs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Federated Neuroevolution O-RAN: Enhancing the Robustness of Deep Reinforcement Learning xApps
+title: "Federated Neuroevolution O-RAN: Enhancing the Robustness of Deep Reinforcement Learning xApps"
 ---
 
 # Federated Neuroevolution O-RAN: Enhancing the Robustness of Deep Reinforcement Learning xApps

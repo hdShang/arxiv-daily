@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HandOcc: NeRF-based Hand Rendering with Occupancy Networks
+title: "HandOcc: NeRF-based Hand Rendering with Occupancy Networks"
 ---
 
 # HandOcc: NeRF-based Hand Rendering with Occupancy Networks

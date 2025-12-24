@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SCOPE: Prompt Evolution for Enhancing Agent Effectiveness
+title: "SCOPE: Prompt Evolution for Enhancing Agent Effectiveness"
 ---
 
 # SCOPE: Prompt Evolution for Enhancing Agent Effectiveness

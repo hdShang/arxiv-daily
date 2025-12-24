@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Self-Aligned Reward: Towards Effective and Efficient Reasoners
+title: "Self-Aligned Reward: Towards Effective and Efficient Reasoners"
 ---
 
 # Self-Aligned Reward: Towards Effective and Efficient Reasoners

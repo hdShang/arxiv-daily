@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Characterizing Mamba's Selective Memory using Auto-Encoders
+title: "Characterizing Mamba's Selective Memory using Auto-Encoders"
 ---
 
 # Characterizing Mamba's Selective Memory using Auto-Encoders

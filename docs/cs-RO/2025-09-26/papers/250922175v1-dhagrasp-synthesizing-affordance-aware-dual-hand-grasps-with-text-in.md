@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DHAGrasp: Synthesizing Affordance-Aware Dual-Hand Grasps with Text Instructions
+title: "DHAGrasp: Synthesizing Affordance-Aware Dual-Hand Grasps with Text Instructions"
 ---
 
 # DHAGrasp: Synthesizing Affordance-Aware Dual-Hand Grasps with Text Instructions

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Text-Scene: A Scene-to-Language Parsing Framework for 3D Scene Understanding
+title: "Text-Scene: A Scene-to-Language Parsing Framework for 3D Scene Understanding"
 ---
 
 # Text-Scene: A Scene-to-Language Parsing Framework for 3D Scene Understanding

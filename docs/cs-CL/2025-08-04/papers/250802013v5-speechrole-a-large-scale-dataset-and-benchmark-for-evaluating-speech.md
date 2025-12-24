@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SpeechRole: A Large-Scale Dataset and Benchmark for Evaluating Speech Role-Playing Agents
+title: "SpeechRole: A Large-Scale Dataset and Benchmark for Evaluating Speech Role-Playing Agents"
 ---
 
 # SpeechRole: A Large-Scale Dataset and Benchmark for Evaluating Speech Role-Playing Agents

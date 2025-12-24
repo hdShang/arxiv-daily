@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors
+title: "Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors"
 ---
 
 # Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors

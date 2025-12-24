@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaching LLMs to Plan: Logical Chain-of-Thought Instruction Tuning for Symbolic Planning
+title: "Teaching LLMs to Plan: Logical Chain-of-Thought Instruction Tuning for Symbolic Planning"
 ---
 
 # Teaching LLMs to Plan: Logical Chain-of-Thought Instruction Tuning for Symbolic Planning

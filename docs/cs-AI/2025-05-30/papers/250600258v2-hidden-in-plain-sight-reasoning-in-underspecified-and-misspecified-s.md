@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hidden in Plain Sight: Reasoning in Underspecified and Misspecified Scenarios for Multimodal LLMs
+title: "Hidden in Plain Sight: Reasoning in Underspecified and Misspecified Scenarios for Multimodal LLMs"
 ---
 
 # Hidden in Plain Sight: Reasoning in Underspecified and Misspecified Scenarios for Multimodal LLMs

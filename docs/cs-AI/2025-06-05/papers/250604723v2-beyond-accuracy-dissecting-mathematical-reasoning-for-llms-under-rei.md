@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Accuracy: Dissecting Mathematical Reasoning for LLMs Under Reinforcement Learning
+title: "Beyond Accuracy: Dissecting Mathematical Reasoning for LLMs Under Reinforcement Learning"
 ---
 
 # Beyond Accuracy: Dissecting Mathematical Reasoning for LLMs Under Reinforcement Learning

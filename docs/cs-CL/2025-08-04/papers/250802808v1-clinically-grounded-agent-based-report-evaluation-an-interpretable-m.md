@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Clinically Grounded Agent-based Report Evaluation: An Interpretable Metric for Radiology Report Generation
+title: "Clinically Grounded Agent-based Report Evaluation: An Interpretable Metric for Radiology Report Generation"
 ---
 
 # Clinically Grounded Agent-based Report Evaluation: An Interpretable Metric for Radiology Report Generation

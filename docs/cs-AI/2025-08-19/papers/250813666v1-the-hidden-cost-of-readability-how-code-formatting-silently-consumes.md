@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Hidden Cost of Readability: How Code Formatting Silently Consumes Your LLM Budget
+title: "The Hidden Cost of Readability: How Code Formatting Silently Consumes Your LLM Budget"
 ---
 
 # The Hidden Cost of Readability: How Code Formatting Silently Consumes Your LLM Budget

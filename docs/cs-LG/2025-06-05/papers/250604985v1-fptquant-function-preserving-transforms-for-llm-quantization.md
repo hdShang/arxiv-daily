@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FPTQuant: Function-Preserving Transforms for LLM Quantization
+title: "FPTQuant: Function-Preserving Transforms for LLM Quantization"
 ---
 
 # FPTQuant: Function-Preserving Transforms for LLM Quantization

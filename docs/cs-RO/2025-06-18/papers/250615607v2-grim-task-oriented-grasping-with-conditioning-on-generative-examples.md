@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GRIM: Task-Oriented Grasping with Conditioning on Generative Examples
+title: "GRIM: Task-Oriented Grasping with Conditioning on Generative Examples"
 ---
 
 # GRIM: Task-Oriented Grasping with Conditioning on Generative Examples

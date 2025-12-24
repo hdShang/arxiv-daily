@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Pixels to CSI: Distilling Latent Dynamics For Efficient Wireless Resource Management
+title: "From Pixels to CSI: Distilling Latent Dynamics For Efficient Wireless Resource Management"
 ---
 
 # From Pixels to CSI: Distilling Latent Dynamics For Efficient Wireless Resource Management

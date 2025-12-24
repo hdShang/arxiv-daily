@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MV-SSM: Multi-View State Space Modeling for 3D Human Pose Estimation
+title: "MV-SSM: Multi-View State Space Modeling for 3D Human Pose Estimation"
 ---
 
 # MV-SSM: Multi-View State Space Modeling for 3D Human Pose Estimation

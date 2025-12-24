@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SkipGPT: Dynamic Layer Pruning Reinvented with Token Awareness and Module Decoupling
+title: "SkipGPT: Dynamic Layer Pruning Reinvented with Token Awareness and Module Decoupling"
 ---
 
 # SkipGPT: Dynamic Layer Pruning Reinvented with Token Awareness and Module Decoupling

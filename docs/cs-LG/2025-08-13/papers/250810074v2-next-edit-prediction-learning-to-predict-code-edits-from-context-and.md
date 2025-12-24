@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Next Edit Prediction: Learning to Predict Code Edits from Context and Interaction History
+title: "Next Edit Prediction: Learning to Predict Code Edits from Context and Interaction History"
 ---
 
 # Next Edit Prediction: Learning to Predict Code Edits from Context and Interaction History

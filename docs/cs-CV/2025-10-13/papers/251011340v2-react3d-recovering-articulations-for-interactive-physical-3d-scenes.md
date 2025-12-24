@@ -1,6 +1,6 @@
 ---
 layout: default
-title: REACT3D: Recovering Articulations for Interactive Physical 3D Scenes
+title: "REACT3D: Recovering Articulations for Interactive Physical 3D Scenes"
 ---
 
 # REACT3D: Recovering Articulations for Interactive Physical 3D Scenes

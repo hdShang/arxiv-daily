@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FlipWalker: Jacob's Ladder toy-inspired robot for locomotion across diverse, complex terrain
+title: "FlipWalker: Jacob's Ladder toy-inspired robot for locomotion across diverse, complex terrain"
 ---
 
 # FlipWalker: Jacob's Ladder toy-inspired robot for locomotion across diverse, complex terrain

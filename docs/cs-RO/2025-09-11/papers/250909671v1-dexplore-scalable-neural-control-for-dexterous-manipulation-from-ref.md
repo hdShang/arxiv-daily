@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dexplore: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration
+title: "Dexplore: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration"
 ---
 
 # Dexplore: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration

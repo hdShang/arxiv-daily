@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TotalRegistrator: Towards a Lightweight Foundation Model for CT Image Registration
+title: "TotalRegistrator: Towards a Lightweight Foundation Model for CT Image Registration"
 ---
 
 # TotalRegistrator: Towards a Lightweight Foundation Model for CT Image Registration

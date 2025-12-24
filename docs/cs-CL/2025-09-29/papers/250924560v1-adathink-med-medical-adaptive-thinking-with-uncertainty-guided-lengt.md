@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AdaThink-Med: Medical Adaptive Thinking with Uncertainty-Guided Length Calibration
+title: "AdaThink-Med: Medical Adaptive Thinking with Uncertainty-Guided Length Calibration"
 ---
 
 # AdaThink-Med: Medical Adaptive Thinking with Uncertainty-Guided Length Calibration

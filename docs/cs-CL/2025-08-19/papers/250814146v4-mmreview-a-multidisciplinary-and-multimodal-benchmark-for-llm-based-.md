@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMReview: A Multidisciplinary and Multimodal Benchmark for LLM-Based Peer Review Automation
+title: "MMReview: A Multidisciplinary and Multimodal Benchmark for LLM-Based Peer Review Automation"
 ---
 
 # MMReview: A Multidisciplinary and Multimodal Benchmark for LLM-Based Peer Review Automation

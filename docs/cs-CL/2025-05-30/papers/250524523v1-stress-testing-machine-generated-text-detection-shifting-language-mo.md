@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stress-testing Machine Generated Text Detection: Shifting Language Models Writing Style to Fool Detectors
+title: "Stress-testing Machine Generated Text Detection: Shifting Language Models Writing Style to Fool Detectors"
 ---
 
 # Stress-testing Machine Generated Text Detection: Shifting Language Models Writing Style to Fool Detectors

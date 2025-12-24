@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ORVIT: Near-Optimal Online Distributionally Robust Reinforcement Learning
+title: "ORVIT: Near-Optimal Online Distributionally Robust Reinforcement Learning"
 ---
 
 # ORVIT: Near-Optimal Online Distributionally Robust Reinforcement Learning

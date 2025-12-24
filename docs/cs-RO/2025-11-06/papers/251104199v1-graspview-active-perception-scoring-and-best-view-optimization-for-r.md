@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GraspView: Active Perception Scoring and Best-View Optimization for Robotic Grasping in Cluttered Environments
+title: "GraspView: Active Perception Scoring and Best-View Optimization for Robotic Grasping in Cluttered Environments"
 ---
 
 # GraspView: Active Perception Scoring and Best-View Optimization for Robotic Grasping in Cluttered Environments

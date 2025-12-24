@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CAFES: A Collaborative Multi-Agent Framework for Multi-Granular Multimodal Essay Scoring
+title: "CAFES: A Collaborative Multi-Agent Framework for Multi-Granular Multimodal Essay Scoring"
 ---
 
 # CAFES: A Collaborative Multi-Agent Framework for Multi-Granular Multimodal Essay Scoring

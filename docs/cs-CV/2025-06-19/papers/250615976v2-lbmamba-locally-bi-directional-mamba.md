@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LBMamba: Locally Bi-directional Mamba
+title: "LBMamba: Locally Bi-directional Mamba"
 ---
 
 # LBMamba: Locally Bi-directional Mamba

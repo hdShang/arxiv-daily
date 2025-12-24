@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A tutorial overview of model predictive control for continuous crystallization: current possibilities and future perspectives
+title: "A tutorial overview of model predictive control for continuous crystallization: current possibilities and future perspectives"
 ---
 
 # A tutorial overview of model predictive control for continuous crystallization: current possibilities and future perspectives

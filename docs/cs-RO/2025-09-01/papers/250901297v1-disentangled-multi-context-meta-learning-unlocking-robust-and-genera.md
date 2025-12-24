@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Disentangled Multi-Context Meta-Learning: Unlocking robust and Generalized Task Learning
+title: "Disentangled Multi-Context Meta-Learning: Unlocking robust and Generalized Task Learning"
 ---
 
 # Disentangled Multi-Context Meta-Learning: Unlocking robust and Generalized Task Learning

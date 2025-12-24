@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GigaBrain-0: A World Model-Powered Vision-Language-Action Model
+title: "GigaBrain-0: A World Model-Powered Vision-Language-Action Model"
 ---
 
 # GigaBrain-0: A World Model-Powered Vision-Language-Action Model

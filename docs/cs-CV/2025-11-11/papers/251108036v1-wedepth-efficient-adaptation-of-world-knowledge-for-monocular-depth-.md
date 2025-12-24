@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WEDepth: Efficient Adaptation of World Knowledge for Monocular Depth Estimation
+title: "WEDepth: Efficient Adaptation of World Knowledge for Monocular Depth Estimation"
 ---
 
 # WEDepth: Efficient Adaptation of World Knowledge for Monocular Depth Estimation

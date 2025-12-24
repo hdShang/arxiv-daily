@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GS2POSE: Marry Gaussian Splatting to 6D Object Pose Estimation
+title: "GS2POSE: Marry Gaussian Splatting to 6D Object Pose Estimation"
 ---
 
 # GS2POSE: Marry Gaussian Splatting to 6D Object Pose Estimation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RePo: Language Models with Context Re-Positioning
+title: "RePo: Language Models with Context Re-Positioning"
 ---
 
 # RePo: Language Models with Context Re-Positioning

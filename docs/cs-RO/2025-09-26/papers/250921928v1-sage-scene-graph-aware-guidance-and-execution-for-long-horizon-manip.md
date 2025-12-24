@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SAGE: Scene Graph-Aware Guidance and Execution for Long-Horizon Manipulation Tasks
+title: "SAGE: Scene Graph-Aware Guidance and Execution for Long-Horizon Manipulation Tasks"
 ---
 
 # SAGE: Scene Graph-Aware Guidance and Execution for Long-Horizon Manipulation Tasks

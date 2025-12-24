@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLMSQL: Upgrading WikiSQL for the LLM Era of Text-to-SQL
+title: "LLMSQL: Upgrading WikiSQL for the LLM Era of Text-to-SQL"
 ---
 
 # LLMSQL: Upgrading WikiSQL for the LLM Era of Text-to-SQL

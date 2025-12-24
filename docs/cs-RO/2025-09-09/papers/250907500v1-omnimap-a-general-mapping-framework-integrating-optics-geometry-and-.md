@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniMap: A General Mapping Framework Integrating Optics, Geometry, and Semantics
+title: "OmniMap: A General Mapping Framework Integrating Optics, Geometry, and Semantics"
 ---
 
 # OmniMap: A General Mapping Framework Integrating Optics, Geometry, and Semantics

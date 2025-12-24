@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R-ConstraintBench: Evaluating LLMs on NP-Complete Scheduling
+title: "R-ConstraintBench: Evaluating LLMs on NP-Complete Scheduling"
 ---
 
 # R-ConstraintBench: Evaluating LLMs on NP-Complete Scheduling

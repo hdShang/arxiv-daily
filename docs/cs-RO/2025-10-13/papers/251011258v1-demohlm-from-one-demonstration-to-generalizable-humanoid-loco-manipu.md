@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DemoHLM: From One Demonstration to Generalizable Humanoid Loco-Manipulation
+title: "DemoHLM: From One Demonstration to Generalizable Humanoid Loco-Manipulation"
 ---
 
 # DemoHLM: From One Demonstration to Generalizable Humanoid Loco-Manipulation

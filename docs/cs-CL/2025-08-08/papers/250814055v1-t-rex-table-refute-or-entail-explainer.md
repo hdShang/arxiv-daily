@@ -1,6 +1,6 @@
 ---
 layout: default
-title: T-REX: Table -- Refute or Entail eXplainer
+title: "T-REX: Table -- Refute or Entail eXplainer"
 ---
 
 # T-REX: Table -- Refute or Entail eXplainer

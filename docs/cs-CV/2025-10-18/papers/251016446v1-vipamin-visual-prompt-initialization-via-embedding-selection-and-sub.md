@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VIPAMIN: Visual Prompt Initialization via Embedding Selection and Subspace Expansion
+title: "VIPAMIN: Visual Prompt Initialization via Embedding Selection and Subspace Expansion"
 ---
 
 # VIPAMIN: Visual Prompt Initialization via Embedding Selection and Subspace Expansion

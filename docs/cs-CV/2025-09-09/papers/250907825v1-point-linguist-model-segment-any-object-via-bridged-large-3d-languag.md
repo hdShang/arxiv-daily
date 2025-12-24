@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Point Linguist Model: Segment Any Object via Bridged Large 3D-Language Model
+title: "Point Linguist Model: Segment Any Object via Bridged Large 3D-Language Model"
 ---
 
 # Point Linguist Model: Segment Any Object via Bridged Large 3D-Language Model

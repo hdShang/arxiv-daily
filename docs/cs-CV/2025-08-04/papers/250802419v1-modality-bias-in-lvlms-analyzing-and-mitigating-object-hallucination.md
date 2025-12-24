@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Modality Bias in LVLMs: Analyzing and Mitigating Object Hallucination via Attention Lens
+title: "Modality Bias in LVLMs: Analyzing and Mitigating Object Hallucination via Attention Lens"
 ---
 
 # Modality Bias in LVLMs: Analyzing and Mitigating Object Hallucination via Attention Lens

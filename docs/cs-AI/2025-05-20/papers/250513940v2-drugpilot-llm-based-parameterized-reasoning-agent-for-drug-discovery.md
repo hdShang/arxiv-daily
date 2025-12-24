@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DrugPilot: LLM-based Parameterized Reasoning Agent for Drug Discovery
+title: "DrugPilot: LLM-based Parameterized Reasoning Agent for Drug Discovery"
 ---
 
 # DrugPilot: LLM-based Parameterized Reasoning Agent for Drug Discovery

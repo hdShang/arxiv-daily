@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Amulet: Putting Complex Multi-Turn Conversations on the Stand with LLM Juries
+title: "Amulet: Putting Complex Multi-Turn Conversations on the Stand with LLM Juries"
 ---
 
 # Amulet: Putting Complex Multi-Turn Conversations on the Stand with LLM Juries

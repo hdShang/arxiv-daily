@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Poster: Enhancing GNN Robustness for Network Intrusion Detection via Agent-based Analysis
+title: "Poster: Enhancing GNN Robustness for Network Intrusion Detection via Agent-based Analysis"
 ---
 
 # Poster: Enhancing GNN Robustness for Network Intrusion Detection via Agent-based Analysis

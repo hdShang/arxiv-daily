@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pre-Forgettable Models: Prompt Learning as a Native Mechanism for Unlearning
+title: "Pre-Forgettable Models: Prompt Learning as a Native Mechanism for Unlearning"
 ---
 
 # Pre-Forgettable Models: Prompt Learning as a Native Mechanism for Unlearning

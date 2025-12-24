@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seeing but Not Believing: Probing the Disconnect Between Visual Attention and Answer Correctness in VLMs
+title: "Seeing but Not Believing: Probing the Disconnect Between Visual Attention and Answer Correctness in VLMs"
 ---
 
 # Seeing but Not Believing: Probing the Disconnect Between Visual Attention and Answer Correctness in VLMs

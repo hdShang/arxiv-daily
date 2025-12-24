@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation
+title: "When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation"
 ---
 
 # When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation

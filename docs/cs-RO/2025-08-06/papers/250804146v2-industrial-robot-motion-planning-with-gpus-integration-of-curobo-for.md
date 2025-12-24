@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Industrial Robot Motion Planning with GPUs: Integration of cuRobo for Extended DOF Systems
+title: "Industrial Robot Motion Planning with GPUs: Integration of cuRobo for Extended DOF Systems"
 ---
 
 # Industrial Robot Motion Planning with GPUs: Integration of cuRobo for Extended DOF Systems

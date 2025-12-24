@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM Encoder vs. Decoder: Robust Detection of Chinese AI-Generated Text with LoRA
+title: "LLM Encoder vs. Decoder: Robust Detection of Chinese AI-Generated Text with LoRA"
 ---
 
 # LLM Encoder vs. Decoder: Robust Detection of Chinese AI-Generated Text with LoRA

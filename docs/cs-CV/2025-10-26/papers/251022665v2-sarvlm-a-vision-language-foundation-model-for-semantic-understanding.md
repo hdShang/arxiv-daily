@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SARVLM: A Vision Language Foundation Model for Semantic Understanding and Target Recognition in SAR Imagery
+title: "SARVLM: A Vision Language Foundation Model for Semantic Understanding and Target Recognition in SAR Imagery"
 ---
 
 # SARVLM: A Vision Language Foundation Model for Semantic Understanding and Target Recognition in SAR Imagery

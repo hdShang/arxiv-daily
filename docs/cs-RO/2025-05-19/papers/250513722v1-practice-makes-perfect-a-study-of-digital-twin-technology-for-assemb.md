@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Practice Makes Perfect: A Study of Digital Twin Technology for Assembly and Problem-solving using Lunar Surface Telerobotics
+title: "Practice Makes Perfect: A Study of Digital Twin Technology for Assembly and Problem-solving using Lunar Surface Telerobotics"
 ---
 
 # Practice Makes Perfect: A Study of Digital Twin Technology for Assembly and Problem-solving using Lunar Surface Telerobotics

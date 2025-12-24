@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Language, Culture, and Ideology: Personalizing Offensiveness Detection in Political Tweets with Reasoning LLMs
+title: "Language, Culture, and Ideology: Personalizing Offensiveness Detection in Political Tweets with Reasoning LLMs"
 ---
 
 # Language, Culture, and Ideology: Personalizing Offensiveness Detection in Political Tweets with Reasoning LLMs

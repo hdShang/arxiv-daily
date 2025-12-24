@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AWPO: Enhancing Tool-Use of Large Language Models through Explicit Integration of Reasoning Rewards
+title: "AWPO: Enhancing Tool-Use of Large Language Models through Explicit Integration of Reasoning Rewards"
 ---
 
 # AWPO: Enhancing Tool-Use of Large Language Models through Explicit Integration of Reasoning Rewards

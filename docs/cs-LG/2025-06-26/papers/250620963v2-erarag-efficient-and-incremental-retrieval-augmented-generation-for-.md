@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EraRAG: Efficient and Incremental Retrieval Augmented Generation for Growing Corpora
+title: "EraRAG: Efficient and Incremental Retrieval Augmented Generation for Growing Corpora"
 ---
 
 # EraRAG: Efficient and Incremental Retrieval Augmented Generation for Growing Corpora

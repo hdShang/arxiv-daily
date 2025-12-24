@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMCD: Multi-Modal Collaborative Decision-Making for Connected Autonomy with Knowledge Distillation
+title: "MMCD: Multi-Modal Collaborative Decision-Making for Connected Autonomy with Knowledge Distillation"
 ---
 
 # MMCD: Multi-Modal Collaborative Decision-Making for Connected Autonomy with Knowledge Distillation

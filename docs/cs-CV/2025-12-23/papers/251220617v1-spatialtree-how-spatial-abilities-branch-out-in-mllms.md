@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SpatialTree: How Spatial Abilities Branch Out in MLLMs
+title: "SpatialTree: How Spatial Abilities Branch Out in MLLMs"
 ---
 
 # SpatialTree: How Spatial Abilities Branch Out in MLLMs

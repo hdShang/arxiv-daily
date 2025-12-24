@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LEGO-SLAM: Language-Embedded Gaussian Optimization SLAM
+title: "LEGO-SLAM: Language-Embedded Gaussian Optimization SLAM"
 ---
 
 # LEGO-SLAM: Language-Embedded Gaussian Optimization SLAM

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Attention as a Compass: Efficient Exploration for Process-Supervised RL in Reasoning Models
+title: "Attention as a Compass: Efficient Exploration for Process-Supervised RL in Reasoning Models"
 ---
 
 # Attention as a Compass: Efficient Exploration for Process-Supervised RL in Reasoning Models

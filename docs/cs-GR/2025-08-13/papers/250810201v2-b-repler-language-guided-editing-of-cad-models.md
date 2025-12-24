@@ -1,6 +1,6 @@
 ---
 layout: default
-title: B-repLer: Language-guided Editing of CAD Models
+title: "B-repLer: Language-guided Editing of CAD Models"
 ---
 
 # B-repLer: Language-guided Editing of CAD Models

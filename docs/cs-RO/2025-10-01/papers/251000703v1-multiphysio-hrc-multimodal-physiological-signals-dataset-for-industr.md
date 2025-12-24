@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MultiPhysio-HRC: Multimodal Physiological Signals Dataset for industrial Human-Robot Collaboration
+title: "MultiPhysio-HRC: Multimodal Physiological Signals Dataset for industrial Human-Robot Collaboration"
 ---
 
 # MultiPhysio-HRC: Multimodal Physiological Signals Dataset for industrial Human-Robot Collaboration

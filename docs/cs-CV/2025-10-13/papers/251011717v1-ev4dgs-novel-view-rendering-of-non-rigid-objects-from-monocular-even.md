@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ev4DGS: Novel-view Rendering of Non-Rigid Objects from Monocular Event Streams
+title: "Ev4DGS: Novel-view Rendering of Non-Rigid Objects from Monocular Event Streams"
 ---
 
 # Ev4DGS: Novel-view Rendering of Non-Rigid Objects from Monocular Event Streams

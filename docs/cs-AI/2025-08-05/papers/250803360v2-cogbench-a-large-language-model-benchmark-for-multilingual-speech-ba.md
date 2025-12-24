@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CogBench: A Large Language Model Benchmark for Multilingual Speech-Based Cognitive Impairment Assessment
+title: "CogBench: A Large Language Model Benchmark for Multilingual Speech-Based Cognitive Impairment Assessment"
 ---
 
 # CogBench: A Large Language Model Benchmark for Multilingual Speech-Based Cognitive Impairment Assessment

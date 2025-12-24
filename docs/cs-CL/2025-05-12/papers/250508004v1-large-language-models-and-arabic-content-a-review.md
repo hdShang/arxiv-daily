@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Large Language Models and Arabic Content: A Review
+title: "Large Language Models and Arabic Content: A Review"
 ---
 
 # Large Language Models and Arabic Content: A Review

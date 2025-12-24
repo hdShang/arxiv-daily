@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Next-Token Prediction Should be Ambiguity-Sensitive: A Meta-Learning Perspective
+title: "Next-Token Prediction Should be Ambiguity-Sensitive: A Meta-Learning Perspective"
 ---
 
 # Next-Token Prediction Should be Ambiguity-Sensitive: A Meta-Learning Perspective

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends
+title: "Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends"
 ---
 
 # Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends

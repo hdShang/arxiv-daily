@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unmasking Interstitial Lung Diseases: Leveraging Masked Autoencoders for Diagnosis
+title: "Unmasking Interstitial Lung Diseases: Leveraging Masked Autoencoders for Diagnosis"
 ---
 
 # Unmasking Interstitial Lung Diseases: Leveraging Masked Autoencoders for Diagnosis

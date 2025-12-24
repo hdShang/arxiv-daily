@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AutoCode: LLMs as Problem Setters for Competitive Programming
+title: "AutoCode: LLMs as Problem Setters for Competitive Programming"
 ---
 
 # AutoCode: LLMs as Problem Setters for Competitive Programming

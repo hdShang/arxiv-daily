@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When Truth Is Overridden: Uncovering the Internal Origins of Sycophancy in Large Language Models
+title: "When Truth Is Overridden: Uncovering the Internal Origins of Sycophancy in Large Language Models"
 ---
 
 # When Truth Is Overridden: Uncovering the Internal Origins of Sycophancy in Large Language Models

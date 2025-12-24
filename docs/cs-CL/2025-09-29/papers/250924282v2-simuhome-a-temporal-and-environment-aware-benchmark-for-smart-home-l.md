@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SimuHome: A Temporal- and Environment-Aware Benchmark for Smart Home LLM Agents
+title: "SimuHome: A Temporal- and Environment-Aware Benchmark for Smart Home LLM Agents"
 ---
 
 # SimuHome: A Temporal- and Environment-Aware Benchmark for Smart Home LLM Agents

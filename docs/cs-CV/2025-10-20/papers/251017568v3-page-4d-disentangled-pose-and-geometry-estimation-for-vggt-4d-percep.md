@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PAGE-4D: Disentangled Pose and Geometry Estimation for VGGT-4D Perception
+title: "PAGE-4D: Disentangled Pose and Geometry Estimation for VGGT-4D Perception"
 ---
 
 # PAGE-4D: Disentangled Pose and Geometry Estimation for VGGT-4D Perception

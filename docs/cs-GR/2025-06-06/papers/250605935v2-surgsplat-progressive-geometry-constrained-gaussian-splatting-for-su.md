@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SurGSplat: Progressive Geometry-Constrained Gaussian Splatting for Surgical Scene Reconstruction
+title: "SurGSplat: Progressive Geometry-Constrained Gaussian Splatting for Surgical Scene Reconstruction"
 ---
 
 # SurGSplat: Progressive Geometry-Constrained Gaussian Splatting for Surgical Scene Reconstruction

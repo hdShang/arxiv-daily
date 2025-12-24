@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniMIC: Token-Based Multimodal Interactive Coding for Human-AI Collaboration
+title: "UniMIC: Token-Based Multimodal Interactive Coding for Human-AI Collaboration"
 ---
 
 # UniMIC: Token-Based Multimodal Interactive Coding for Human-AI Collaboration

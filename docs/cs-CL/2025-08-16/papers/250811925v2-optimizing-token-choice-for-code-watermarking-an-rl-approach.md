@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Optimizing Token Choice for Code Watermarking: An RL Approach
+title: "Optimizing Token Choice for Code Watermarking: An RL Approach"
 ---
 
 # Optimizing Token Choice for Code Watermarking: An RL Approach

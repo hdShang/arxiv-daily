@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Group Fairness Meets the Black Box: Enabling Fair Algorithms on Closed LLMs via Post-Processing
+title: "Group Fairness Meets the Black Box: Enabling Fair Algorithms on Closed LLMs via Post-Processing"
 ---
 
 # Group Fairness Meets the Black Box: Enabling Fair Algorithms on Closed LLMs via Post-Processing

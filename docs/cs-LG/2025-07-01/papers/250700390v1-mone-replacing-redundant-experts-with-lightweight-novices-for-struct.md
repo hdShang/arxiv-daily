@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoNE: Replacing Redundant Experts with Lightweight Novices for Structured Pruning of MoE
+title: "MoNE: Replacing Redundant Experts with Lightweight Novices for Structured Pruning of MoE"
 ---
 
 # MoNE: Replacing Redundant Experts with Lightweight Novices for Structured Pruning of MoE

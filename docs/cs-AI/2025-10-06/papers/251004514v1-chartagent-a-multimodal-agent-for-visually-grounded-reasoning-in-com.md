@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ChartAgent: A Multimodal Agent for Visually Grounded Reasoning in Complex Chart Question Answering
+title: "ChartAgent: A Multimodal Agent for Visually Grounded Reasoning in Complex Chart Question Answering"
 ---
 
 # ChartAgent: A Multimodal Agent for Visually Grounded Reasoning in Complex Chart Question Answering

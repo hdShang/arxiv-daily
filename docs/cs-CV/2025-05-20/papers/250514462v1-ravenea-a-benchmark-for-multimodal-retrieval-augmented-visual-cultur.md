@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding
+title: "RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding"
 ---
 
 # RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding

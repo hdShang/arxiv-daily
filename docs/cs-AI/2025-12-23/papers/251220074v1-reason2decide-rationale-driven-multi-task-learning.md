@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reason2Decide: Rationale-Driven Multi-Task Learning
+title: "Reason2Decide: Rationale-Driven Multi-Task Learning"
 ---
 
 # Reason2Decide: Rationale-Driven Multi-Task Learning

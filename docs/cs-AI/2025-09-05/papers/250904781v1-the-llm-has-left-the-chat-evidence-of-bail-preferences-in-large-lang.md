@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The LLM Has Left The Chat: Evidence of Bail Preferences in Large Language Models
+title: "The LLM Has Left The Chat: Evidence of Bail Preferences in Large Language Models"
 ---
 
 # The LLM Has Left The Chat: Evidence of Bail Preferences in Large Language Models

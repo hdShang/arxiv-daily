@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AssemMate: Graph-Based LLM for Robotic Assembly Assistance
+title: "AssemMate: Graph-Based LLM for Robotic Assembly Assistance"
 ---
 
 # AssemMate: Graph-Based LLM for Robotic Assembly Assistance

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Distilled-3DGS:Distilled 3D Gaussian Splatting
+title: "Distilled-3DGS:Distilled 3D Gaussian Splatting"
 ---
 
 # Distilled-3DGS:Distilled 3D Gaussian Splatting

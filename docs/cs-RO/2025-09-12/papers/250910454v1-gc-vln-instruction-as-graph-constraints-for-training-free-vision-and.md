@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GC-VLN: Instruction as Graph Constraints for Training-free Vision-and-Language Navigation
+title: "GC-VLN: Instruction as Graph Constraints for Training-free Vision-and-Language Navigation"
 ---
 
 # GC-VLN: Instruction as Graph Constraints for Training-free Vision-and-Language Navigation

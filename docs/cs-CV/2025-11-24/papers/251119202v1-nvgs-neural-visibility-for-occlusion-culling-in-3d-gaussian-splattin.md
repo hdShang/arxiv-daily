@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NVGS: Neural Visibility for Occlusion Culling in 3D Gaussian Splatting
+title: "NVGS: Neural Visibility for Occlusion Culling in 3D Gaussian Splatting"
 ---
 
 # NVGS: Neural Visibility for Occlusion Culling in 3D Gaussian Splatting

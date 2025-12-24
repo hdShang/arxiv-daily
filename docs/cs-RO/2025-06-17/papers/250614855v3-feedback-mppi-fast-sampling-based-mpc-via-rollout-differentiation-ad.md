@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Feedback-MPPI: Fast Sampling-Based MPC via Rollout Differentiation -- Adios low-level controllers
+title: "Feedback-MPPI: Fast Sampling-Based MPC via Rollout Differentiation -- Adios low-level controllers"
 ---
 
 # Feedback-MPPI: Fast Sampling-Based MPC via Rollout Differentiation -- Adios low-level controllers

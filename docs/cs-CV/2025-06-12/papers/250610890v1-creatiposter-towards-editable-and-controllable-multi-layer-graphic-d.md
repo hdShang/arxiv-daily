@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CreatiPoster: Towards Editable and Controllable Multi-Layer Graphic Design Generation
+title: "CreatiPoster: Towards Editable and Controllable Multi-Layer Graphic Design Generation"
 ---
 
 # CreatiPoster: Towards Editable and Controllable Multi-Layer Graphic Design Generation

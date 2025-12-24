@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GALA: Guided Attention with Language Alignment for Open Vocabulary Gaussian Splatting
+title: "GALA: Guided Attention with Language Alignment for Open Vocabulary Gaussian Splatting"
 ---
 
 # GALA: Guided Attention with Language Alignment for Open Vocabulary Gaussian Splatting

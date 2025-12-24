@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FUSE: A Flow-based Mapping Between Shapes
+title: "FUSE: A Flow-based Mapping Between Shapes"
 ---
 
 # FUSE: A Flow-based Mapping Between Shapes

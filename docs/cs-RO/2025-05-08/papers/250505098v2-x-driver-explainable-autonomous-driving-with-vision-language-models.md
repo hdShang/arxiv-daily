@@ -1,6 +1,6 @@
 ---
 layout: default
-title: X-Driver: Explainable Autonomous Driving with Vision-Language Models
+title: "X-Driver: Explainable Autonomous Driving with Vision-Language Models"
 ---
 
 # X-Driver: Explainable Autonomous Driving with Vision-Language Models

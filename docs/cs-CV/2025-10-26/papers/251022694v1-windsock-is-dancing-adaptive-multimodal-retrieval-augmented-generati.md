@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Windsock is Dancing: Adaptive Multimodal Retrieval-Augmented Generation
+title: "Windsock is Dancing: Adaptive Multimodal Retrieval-Augmented Generation"
 ---
 
 # Windsock is Dancing: Adaptive Multimodal Retrieval-Augmented Generation

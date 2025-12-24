@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints
+title: "TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints"
 ---
 
 # TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints

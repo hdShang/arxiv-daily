@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLA-MPC: Fast Adaptive Control for Autonomous Racing
+title: "LLA-MPC: Fast Adaptive Control for Autonomous Racing"
 ---
 
 # LLA-MPC: Fast Adaptive Control for Autonomous Racing

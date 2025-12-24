@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach
+title: "Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach"
 ---
 
 # Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach

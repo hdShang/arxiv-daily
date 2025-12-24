@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Actial: Activate Spatial Reasoning Ability of Multimodal Large Language Models
+title: "Actial: Activate Spatial Reasoning Ability of Multimodal Large Language Models"
 ---
 
 # Actial: Activate Spatial Reasoning Ability of Multimodal Large Language Models

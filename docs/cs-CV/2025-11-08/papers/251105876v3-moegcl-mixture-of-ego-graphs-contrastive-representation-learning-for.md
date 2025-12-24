@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoEGCL: Mixture of Ego-Graphs Contrastive Representation Learning for Multi-View Clustering
+title: "MoEGCL: Mixture of Ego-Graphs Contrastive Representation Learning for Multi-View Clustering"
 ---
 
 # MoEGCL: Mixture of Ego-Graphs Contrastive Representation Learning for Multi-View Clustering

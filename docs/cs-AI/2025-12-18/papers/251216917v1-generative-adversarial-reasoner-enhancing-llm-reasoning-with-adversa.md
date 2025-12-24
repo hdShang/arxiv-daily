@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Generative Adversarial Reasoner: Enhancing LLM Reasoning with Adversarial Reinforcement Learning
+title: "Generative Adversarial Reasoner: Enhancing LLM Reasoning with Adversarial Reinforcement Learning"
 ---
 
 # Generative Adversarial Reasoner: Enhancing LLM Reasoning with Adversarial Reinforcement Learning

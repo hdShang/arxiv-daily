@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PhysBrain: Human Egocentric Data as a Bridge from Vision Language Models to Physical Intelligence
+title: "PhysBrain: Human Egocentric Data as a Bridge from Vision Language Models to Physical Intelligence"
 ---
 
 # PhysBrain: Human Egocentric Data as a Bridge from Vision Language Models to Physical Intelligence

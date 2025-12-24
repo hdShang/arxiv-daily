@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HERO-VQL: Hierarchical, Egocentric and Robust Visual Query Localization
+title: "HERO-VQL: Hierarchical, Egocentric and Robust Visual Query Localization"
 ---
 
 # HERO-VQL: Hierarchical, Egocentric and Robust Visual Query Localization

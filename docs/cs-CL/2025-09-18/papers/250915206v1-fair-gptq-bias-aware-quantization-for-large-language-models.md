@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fair-GPTQ: Bias-Aware Quantization for Large Language Models
+title: "Fair-GPTQ: Bias-Aware Quantization for Large Language Models"
 ---
 
 # Fair-GPTQ: Bias-Aware Quantization for Large Language Models

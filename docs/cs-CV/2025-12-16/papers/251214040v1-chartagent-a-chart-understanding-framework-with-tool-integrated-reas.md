@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ChartAgent: A Chart Understanding Framework with Tool Integrated Reasoning
+title: "ChartAgent: A Chart Understanding Framework with Tool Integrated Reasoning"
 ---
 
 # ChartAgent: A Chart Understanding Framework with Tool Integrated Reasoning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VRPO: Rethinking Value Modeling for Robust RL Training under Noisy Supervision
+title: "VRPO: Rethinking Value Modeling for Robust RL Training under Noisy Supervision"
 ---
 
 # VRPO: Rethinking Value Modeling for Robust RL Training under Noisy Supervision

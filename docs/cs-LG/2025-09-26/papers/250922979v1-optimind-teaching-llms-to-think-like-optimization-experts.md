@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OptiMind: Teaching LLMs to Think Like Optimization Experts
+title: "OptiMind: Teaching LLMs to Think Like Optimization Experts"
 ---
 
 # OptiMind: Teaching LLMs to Think Like Optimization Experts

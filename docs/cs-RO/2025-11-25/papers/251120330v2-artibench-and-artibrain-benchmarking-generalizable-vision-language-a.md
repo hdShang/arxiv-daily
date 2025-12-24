@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ArtiBench and ArtiBrain: Benchmarking Generalizable Vision-Language Articulated Object Manipulation
+title: "ArtiBench and ArtiBrain: Benchmarking Generalizable Vision-Language Articulated Object Manipulation"
 ---
 
 # ArtiBench and ArtiBrain: Benchmarking Generalizable Vision-Language Articulated Object Manipulation

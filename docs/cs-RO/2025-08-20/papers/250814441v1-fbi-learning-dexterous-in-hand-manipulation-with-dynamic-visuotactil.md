@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FBI: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy
+title: "FBI: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy"
 ---
 
 # FBI: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy

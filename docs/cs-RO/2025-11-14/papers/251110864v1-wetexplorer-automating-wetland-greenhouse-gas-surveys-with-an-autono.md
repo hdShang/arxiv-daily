@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WetExplorer: Automating Wetland Greenhouse-Gas Surveys with an Autonomous Mobile Robot
+title: "WetExplorer: Automating Wetland Greenhouse-Gas Surveys with an Autonomous Mobile Robot"
 ---
 
 # WetExplorer: Automating Wetland Greenhouse-Gas Surveys with an Autonomous Mobile Robot

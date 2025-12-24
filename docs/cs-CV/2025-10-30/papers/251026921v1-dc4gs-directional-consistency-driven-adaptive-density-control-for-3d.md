@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DC4GS: Directional Consistency-Driven Adaptive Density Control for 3D Gaussian Splatting
+title: "DC4GS: Directional Consistency-Driven Adaptive Density Control for 3D Gaussian Splatting"
 ---
 
 # DC4GS: Directional Consistency-Driven Adaptive Density Control for 3D Gaussian Splatting

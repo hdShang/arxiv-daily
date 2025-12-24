@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboChallenge: Large-scale Real-robot Evaluation of Embodied Policies
+title: "RoboChallenge: Large-scale Real-robot Evaluation of Embodied Policies"
 ---
 
 # RoboChallenge: Large-scale Real-robot Evaluation of Embodied Policies

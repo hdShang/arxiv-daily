@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MLLM4TS: Leveraging Vision and Multimodal Language Models for General Time-Series Analysis
+title: "MLLM4TS: Leveraging Vision and Multimodal Language Models for General Time-Series Analysis"
 ---
 
 # MLLM4TS: Leveraging Vision and Multimodal Language Models for General Time-Series Analysis

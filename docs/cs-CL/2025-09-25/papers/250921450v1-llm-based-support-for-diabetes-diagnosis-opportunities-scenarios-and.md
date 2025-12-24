@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM-Based Support for Diabetes Diagnosis: Opportunities, Scenarios, and Challenges with GPT-5
+title: "LLM-Based Support for Diabetes Diagnosis: Opportunities, Scenarios, and Challenges with GPT-5"
 ---
 
 # LLM-Based Support for Diabetes Diagnosis: Opportunities, Scenarios, and Challenges with GPT-5

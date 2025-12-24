@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LangHOPS: Language Grounded Hierarchical Open-Vocabulary Part Segmentation
+title: "LangHOPS: Language Grounded Hierarchical Open-Vocabulary Part Segmentation"
 ---
 
 # LangHOPS: Language Grounded Hierarchical Open-Vocabulary Part Segmentation

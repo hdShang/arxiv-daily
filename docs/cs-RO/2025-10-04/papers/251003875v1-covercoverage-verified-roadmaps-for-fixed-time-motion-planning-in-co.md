@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COVER:COverage-VErified Roadmaps for Fixed-time Motion Planning in Continuous Semi-Static Environments
+title: "COVER:COverage-VErified Roadmaps for Fixed-time Motion Planning in Continuous Semi-Static Environments"
 ---
 
 # COVER:COverage-VErified Roadmaps for Fixed-time Motion Planning in Continuous Semi-Static Environments

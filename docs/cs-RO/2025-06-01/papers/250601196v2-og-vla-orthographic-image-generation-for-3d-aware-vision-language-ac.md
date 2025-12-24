@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OG-VLA: Orthographic Image Generation for 3D-Aware Vision-Language Action Model
+title: "OG-VLA: Orthographic Image Generation for 3D-Aware Vision-Language Action Model"
 ---
 
 # OG-VLA: Orthographic Image Generation for 3D-Aware Vision-Language Action Model

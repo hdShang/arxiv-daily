@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When Thinking Backfires: Mechanistic Insights Into Reasoning-Induced Misalignment
+title: "When Thinking Backfires: Mechanistic Insights Into Reasoning-Induced Misalignment"
 ---
 
 # When Thinking Backfires: Mechanistic Insights Into Reasoning-Induced Misalignment

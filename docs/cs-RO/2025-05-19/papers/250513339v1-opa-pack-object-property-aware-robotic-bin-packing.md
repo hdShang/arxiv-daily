@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OPA-Pack: Object-Property-Aware Robotic Bin Packing
+title: "OPA-Pack: Object-Property-Aware Robotic Bin Packing"
 ---
 
 # OPA-Pack: Object-Property-Aware Robotic Bin Packing

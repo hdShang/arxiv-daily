@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniResponse: Online Multimodal Conversational Response Generation in Dyadic Interactions
+title: "OmniResponse: Online Multimodal Conversational Response Generation in Dyadic Interactions"
 ---
 
 # OmniResponse: Online Multimodal Conversational Response Generation in Dyadic Interactions

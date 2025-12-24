@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Foundation Models as World Models: A Foundational Study in Text-Based GridWorlds
+title: "Foundation Models as World Models: A Foundational Study in Text-Based GridWorlds"
 ---
 
 # Foundation Models as World Models: A Foundational Study in Text-Based GridWorlds

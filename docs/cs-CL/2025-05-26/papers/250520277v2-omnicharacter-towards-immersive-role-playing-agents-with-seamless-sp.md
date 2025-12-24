@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction
+title: "OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction"
 ---
 
 # OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction

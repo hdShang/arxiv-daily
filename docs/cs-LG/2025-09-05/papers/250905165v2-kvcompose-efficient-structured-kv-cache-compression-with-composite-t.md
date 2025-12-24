@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KVCompose: Efficient Structured KV Cache Compression with Composite Tokens
+title: "KVCompose: Efficient Structured KV Cache Compression with Composite Tokens"
 ---
 
 # KVCompose: Efficient Structured KV Cache Compression with Composite Tokens

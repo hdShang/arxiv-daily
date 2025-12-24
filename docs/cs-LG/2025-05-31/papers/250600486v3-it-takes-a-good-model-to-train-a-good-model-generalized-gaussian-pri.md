@@ -1,6 +1,6 @@
 ---
 layout: default
-title: It Takes a Good Model to Train a Good Model: Generalized Gaussian Priors for Optimized LLMs
+title: "It Takes a Good Model to Train a Good Model: Generalized Gaussian Priors for Optimized LLMs"
 ---
 
 # It Takes a Good Model to Train a Good Model: Generalized Gaussian Priors for Optimized LLMs

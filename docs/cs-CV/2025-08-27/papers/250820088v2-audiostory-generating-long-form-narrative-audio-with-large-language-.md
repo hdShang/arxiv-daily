@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AudioStory: Generating Long-Form Narrative Audio with Large Language Models
+title: "AudioStory: Generating Long-Form Narrative Audio with Large Language Models"
 ---
 
 # AudioStory: Generating Long-Form Narrative Audio with Large Language Models

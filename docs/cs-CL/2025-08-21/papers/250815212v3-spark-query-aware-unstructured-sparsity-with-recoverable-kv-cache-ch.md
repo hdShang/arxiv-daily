@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SparK: Query-Aware Unstructured Sparsity with Recoverable KV Cache Channel Pruning
+title: "SparK: Query-Aware Unstructured Sparsity with Recoverable KV Cache Channel Pruning"
 ---
 
 # SparK: Query-Aware Unstructured Sparsity with Recoverable KV Cache Channel Pruning

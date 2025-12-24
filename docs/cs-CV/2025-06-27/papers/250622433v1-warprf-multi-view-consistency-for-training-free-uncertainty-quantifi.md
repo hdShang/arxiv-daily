@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WarpRF: Multi-View Consistency for Training-Free Uncertainty Quantification and Applications in Radiance Fields
+title: "WarpRF: Multi-View Consistency for Training-Free Uncertainty Quantification and Applications in Radiance Fields"
 ---
 
 # WarpRF: Multi-View Consistency for Training-Free Uncertainty Quantification and Applications in Radiance Fields

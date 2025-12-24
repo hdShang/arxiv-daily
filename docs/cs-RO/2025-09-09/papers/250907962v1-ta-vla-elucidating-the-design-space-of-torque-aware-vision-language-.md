@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TA-VLA: Elucidating the Design Space of Torque-aware Vision-Language-Action Models
+title: "TA-VLA: Elucidating the Design Space of Torque-aware Vision-Language-Action Models"
 ---
 
 # TA-VLA: Elucidating the Design Space of Torque-aware Vision-Language-Action Models

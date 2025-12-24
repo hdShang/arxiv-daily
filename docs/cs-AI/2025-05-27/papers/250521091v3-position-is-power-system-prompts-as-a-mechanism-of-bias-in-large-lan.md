@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Position is Power: System Prompts as a Mechanism of Bias in Large Language Models (LLMs)
+title: "Position is Power: System Prompts as a Mechanism of Bias in Large Language Models (LLMs)"
 ---
 
 # Position is Power: System Prompts as a Mechanism of Bias in Large Language Models (LLMs)

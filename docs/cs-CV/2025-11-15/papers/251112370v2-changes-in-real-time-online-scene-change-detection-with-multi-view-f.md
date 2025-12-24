@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Changes in Real Time: Online Scene Change Detection with Multi-View Fusion
+title: "Changes in Real Time: Online Scene Change Detection with Multi-View Fusion"
 ---
 
 # Changes in Real Time: Online Scene Change Detection with Multi-View Fusion

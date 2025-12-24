@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReLAM: Learning Anticipation Model for Rewarding Visual Robotic Manipulation
+title: "ReLAM: Learning Anticipation Model for Rewarding Visual Robotic Manipulation"
 ---
 
 # ReLAM: Learning Anticipation Model for Rewarding Visual Robotic Manipulation

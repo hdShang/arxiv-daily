@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Powering Job Search at Scale: LLM-Enhanced Query Understanding in Job Matching Systems
+title: "Powering Job Search at Scale: LLM-Enhanced Query Understanding in Job Matching Systems"
 ---
 
 # Powering Job Search at Scale: LLM-Enhanced Query Understanding in Job Matching Systems

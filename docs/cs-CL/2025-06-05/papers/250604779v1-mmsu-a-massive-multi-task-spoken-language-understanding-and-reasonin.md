@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMSU: A Massive Multi-task Spoken Language Understanding and Reasoning Benchmark
+title: "MMSU: A Massive Multi-task Spoken Language Understanding and Reasoning Benchmark"
 ---
 
 # MMSU: A Massive Multi-task Spoken Language Understanding and Reasoning Benchmark

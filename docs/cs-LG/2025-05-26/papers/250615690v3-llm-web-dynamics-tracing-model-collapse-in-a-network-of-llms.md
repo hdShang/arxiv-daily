@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM Web Dynamics: Tracing Model Collapse in a Network of LLMs
+title: "LLM Web Dynamics: Tracing Model Collapse in a Network of LLMs"
 ---
 
 # LLM Web Dynamics: Tracing Model Collapse in a Network of LLMs

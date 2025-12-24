@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QiMeng: Fully Automated Hardware and Software Design for Processor Chip
+title: "QiMeng: Fully Automated Hardware and Software Design for Processor Chip"
 ---
 
 # QiMeng: Fully Automated Hardware and Software Design for Processor Chip

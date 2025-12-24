@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quartet: Native FP4 Training Can Be Optimal for Large Language Models
+title: "Quartet: Native FP4 Training Can Be Optimal for Large Language Models"
 ---
 
 # Quartet: Native FP4 Training Can Be Optimal for Large Language Models

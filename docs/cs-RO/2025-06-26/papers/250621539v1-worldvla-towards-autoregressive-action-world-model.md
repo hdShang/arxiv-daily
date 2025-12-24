@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WorldVLA: Towards Autoregressive Action World Model
+title: "WorldVLA: Towards Autoregressive Action World Model"
 ---
 
 # WorldVLA: Towards Autoregressive Action World Model

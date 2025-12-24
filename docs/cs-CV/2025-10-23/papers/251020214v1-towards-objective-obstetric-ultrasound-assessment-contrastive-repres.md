@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Objective Obstetric Ultrasound Assessment: Contrastive Representation Learning for Fetal Movement Detection
+title: "Towards Objective Obstetric Ultrasound Assessment: Contrastive Representation Learning for Fetal Movement Detection"
 ---
 
 # Towards Objective Obstetric Ultrasound Assessment: Contrastive Representation Learning for Fetal Movement Detection

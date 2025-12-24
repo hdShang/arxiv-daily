@@ -1,6 +1,6 @@
 ---
 layout: default
-title: V-SEAM: Visual Semantic Editing and Attention Modulating for Causal Interpretability of Vision-Language Models
+title: "V-SEAM: Visual Semantic Editing and Attention Modulating for Causal Interpretability of Vision-Language Models"
 ---
 
 # V-SEAM: Visual Semantic Editing and Attention Modulating for Causal Interpretability of Vision-Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SABER: Switchable and Balanced Training for Efficient LLM Reasoning
+title: "SABER: Switchable and Balanced Training for Efficient LLM Reasoning"
 ---
 
 # SABER: Switchable and Balanced Training for Efficient LLM Reasoning

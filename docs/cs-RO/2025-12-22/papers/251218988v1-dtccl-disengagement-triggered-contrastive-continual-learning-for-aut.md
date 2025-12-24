@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DTCCL: Disengagement-Triggered Contrastive Continual Learning for Autonomous Bus Planners
+title: "DTCCL: Disengagement-Triggered Contrastive Continual Learning for Autonomous Bus Planners"
 ---
 
 # DTCCL: Disengagement-Triggered Contrastive Continual Learning for Autonomous Bus Planners

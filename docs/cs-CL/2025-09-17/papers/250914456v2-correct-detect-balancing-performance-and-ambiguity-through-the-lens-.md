@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Correct-Detect: Balancing Performance and Ambiguity Through the Lens of Coreference Resolution in LLMs
+title: "Correct-Detect: Balancing Performance and Ambiguity Through the Lens of Coreference Resolution in LLMs"
 ---
 
 # Correct-Detect: Balancing Performance and Ambiguity Through the Lens of Coreference Resolution in LLMs

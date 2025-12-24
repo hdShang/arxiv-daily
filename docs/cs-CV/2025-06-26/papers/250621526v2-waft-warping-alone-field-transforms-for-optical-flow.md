@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WAFT: Warping-Alone Field Transforms for Optical Flow
+title: "WAFT: Warping-Alone Field Transforms for Optical Flow"
 ---
 
 # WAFT: Warping-Alone Field Transforms for Optical Flow

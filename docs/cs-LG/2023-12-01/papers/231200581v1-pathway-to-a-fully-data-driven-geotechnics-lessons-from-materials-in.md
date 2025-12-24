@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pathway to a fully data-driven geotechnics: lessons from materials informatics
+title: "Pathway to a fully data-driven geotechnics: lessons from materials informatics"
 ---
 
 # Pathway to a fully data-driven geotechnics: lessons from materials informatics

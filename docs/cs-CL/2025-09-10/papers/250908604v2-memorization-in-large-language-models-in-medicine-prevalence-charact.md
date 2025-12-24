@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implications
+title: "Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implications"
 ---
 
 # Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implications

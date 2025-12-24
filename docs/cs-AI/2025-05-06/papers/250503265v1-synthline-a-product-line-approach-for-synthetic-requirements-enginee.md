@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Synthline: A Product Line Approach for Synthetic Requirements Engineering Data Generation using Large Language Models
+title: "Synthline: A Product Line Approach for Synthetic Requirements Engineering Data Generation using Large Language Models"
 ---
 
 # Synthline: A Product Line Approach for Synthetic Requirements Engineering Data Generation using Large Language Models

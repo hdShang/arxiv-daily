@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Survey on 3D Gaussian Splatting Applications: Segmentation, Editing, and Generation
+title: "A Survey on 3D Gaussian Splatting Applications: Segmentation, Editing, and Generation"
 ---
 
 # A Survey on 3D Gaussian Splatting Applications: Segmentation, Editing, and Generation

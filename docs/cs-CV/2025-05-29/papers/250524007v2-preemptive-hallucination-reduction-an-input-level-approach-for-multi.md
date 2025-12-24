@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Preemptive Hallucination Reduction: An Input-Level Approach for Multimodal Language Model
+title: "Preemptive Hallucination Reduction: An Input-Level Approach for Multimodal Language Model"
 ---
 
 # Preemptive Hallucination Reduction: An Input-Level Approach for Multimodal Language Model

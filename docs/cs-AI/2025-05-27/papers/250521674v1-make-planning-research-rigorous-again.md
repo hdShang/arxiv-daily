@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Make Planning Research Rigorous Again!
+title: "Make Planning Research Rigorous Again!"
 ---
 
 # Make Planning Research Rigorous Again!

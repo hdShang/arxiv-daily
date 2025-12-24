@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AutoOdom: Learning Auto-regressive Proprioceptive Odometry for Legged Locomotion
+title: "AutoOdom: Learning Auto-regressive Proprioceptive Odometry for Legged Locomotion"
 ---
 
 # AutoOdom: Learning Auto-regressive Proprioceptive Odometry for Legged Locomotion

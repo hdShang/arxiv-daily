@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Relational Schemata in BERT Are Inducible, Not Emergent: A Study of Performance vs. Competence in Language Models
+title: "Relational Schemata in BERT Are Inducible, Not Emergent: A Study of Performance vs. Competence in Language Models"
 ---
 
 # Relational Schemata in BERT Are Inducible, Not Emergent: A Study of Performance vs. Competence in Language Models

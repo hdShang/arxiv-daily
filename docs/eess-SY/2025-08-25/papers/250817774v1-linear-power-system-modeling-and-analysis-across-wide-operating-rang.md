@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Linear Power System Modeling and Analysis Across Wide Operating Ranges: A Hierarchical Neural State-Space Equation Approach
+title: "Linear Power System Modeling and Analysis Across Wide Operating Ranges: A Hierarchical Neural State-Space Equation Approach"
 ---
 
 # Linear Power System Modeling and Analysis Across Wide Operating Ranges: A Hierarchical Neural State-Space Equation Approach

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TableMoE: Neuro-Symbolic Routing for Structured Expert Reasoning in Multimodal Table Understanding
+title: "TableMoE: Neuro-Symbolic Routing for Structured Expert Reasoning in Multimodal Table Understanding"
 ---
 
 # TableMoE: Neuro-Symbolic Routing for Structured Expert Reasoning in Multimodal Table Understanding

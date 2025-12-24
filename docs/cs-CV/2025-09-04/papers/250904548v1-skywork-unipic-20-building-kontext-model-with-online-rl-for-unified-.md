@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Skywork UniPic 2.0: Building Kontext Model with Online RL for Unified Multimodal Model
+title: "Skywork UniPic 2.0: Building Kontext Model with Online RL for Unified Multimodal Model"
 ---
 
 # Skywork UniPic 2.0: Building Kontext Model with Online RL for Unified Multimodal Model

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TCIA: A Task-Centric Instruction Augmentation Method for Instruction Finetuning
+title: "TCIA: A Task-Centric Instruction Augmentation Method for Instruction Finetuning"
 ---
 
 # TCIA: A Task-Centric Instruction Augmentation Method for Instruction Finetuning

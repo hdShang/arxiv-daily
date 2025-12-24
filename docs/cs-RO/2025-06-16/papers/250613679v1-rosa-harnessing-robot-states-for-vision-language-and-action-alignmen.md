@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ROSA: Harnessing Robot States for Vision-Language and Action Alignment
+title: "ROSA: Harnessing Robot States for Vision-Language and Action Alignment"
 ---
 
 # ROSA: Harnessing Robot States for Vision-Language and Action Alignment

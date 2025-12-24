@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EG-MLA: Embedding-Gated Multi-head Latent Attention for Scalable and Efficient LLMs
+title: "EG-MLA: Embedding-Gated Multi-head Latent Attention for Scalable and Efficient LLMs"
 ---
 
 # EG-MLA: Embedding-Gated Multi-head Latent Attention for Scalable and Efficient LLMs

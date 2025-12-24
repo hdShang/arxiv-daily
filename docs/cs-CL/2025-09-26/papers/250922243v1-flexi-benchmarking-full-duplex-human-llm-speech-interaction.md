@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FLEXI: Benchmarking Full-duplex Human-LLM Speech Interaction
+title: "FLEXI: Benchmarking Full-duplex Human-LLM Speech Interaction"
 ---
 
 # FLEXI: Benchmarking Full-duplex Human-LLM Speech Interaction

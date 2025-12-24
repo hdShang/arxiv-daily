@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OJBench: A Competition Level Code Benchmark For Large Language Models
+title: "OJBench: A Competition Level Code Benchmark For Large Language Models"
 ---
 
 # OJBench: A Competition Level Code Benchmark For Large Language Models

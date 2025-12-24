@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JETHICS: Japanese Ethics Understanding Evaluation Dataset
+title: "JETHICS: Japanese Ethics Understanding Evaluation Dataset"
 ---
 
 # JETHICS: Japanese Ethics Understanding Evaluation Dataset

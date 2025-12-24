@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Acoustic scattering AI for non-invasive object classifications: A case study on hair assessment
+title: "Acoustic scattering AI for non-invasive object classifications: A case study on hair assessment"
 ---
 
 # Acoustic scattering AI for non-invasive object classifications: A case study on hair assessment

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoLingo: Motion-Language Alignment for Text-to-Motion Generation
+title: "MoLingo: Motion-Language Alignment for Text-to-Motion Generation"
 ---
 
 # MoLingo: Motion-Language Alignment for Text-to-Motion Generation

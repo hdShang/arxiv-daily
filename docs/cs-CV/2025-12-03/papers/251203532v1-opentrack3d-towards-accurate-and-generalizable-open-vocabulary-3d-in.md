@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OpenTrack3D: Towards Accurate and Generalizable Open-Vocabulary 3D Instance Segmentation
+title: "OpenTrack3D: Towards Accurate and Generalizable Open-Vocabulary 3D Instance Segmentation"
 ---
 
 # OpenTrack3D: Towards Accurate and Generalizable Open-Vocabulary 3D Instance Segmentation

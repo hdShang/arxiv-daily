@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TimeTracker: Event-based Continuous Point Tracking for Video Frame Interpolation with Non-linear Motion
+title: "TimeTracker: Event-based Continuous Point Tracking for Video Frame Interpolation with Non-linear Motion"
 ---
 
 # TimeTracker: Event-based Continuous Point Tracking for Video Frame Interpolation with Non-linear Motion

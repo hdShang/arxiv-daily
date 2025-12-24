@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Alvorada-Bench: Can Language Models Solve Brazilian University Entrance Exams?
+title: "Alvorada-Bench: Can Language Models Solve Brazilian University Entrance Exams?"
 ---
 
 # Alvorada-Bench: Can Language Models Solve Brazilian University Entrance Exams?

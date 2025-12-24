@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DART: Distilling Autoregressive Reasoning to Silent Thought
+title: "DART: Distilling Autoregressive Reasoning to Silent Thought"
 ---
 
 # DART: Distilling Autoregressive Reasoning to Silent Thought

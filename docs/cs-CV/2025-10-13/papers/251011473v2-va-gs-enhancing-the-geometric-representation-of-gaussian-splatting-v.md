@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VA-GS: Enhancing the Geometric Representation of Gaussian Splatting via View Alignment
+title: "VA-GS: Enhancing the Geometric Representation of Gaussian Splatting via View Alignment"
 ---
 
 # VA-GS: Enhancing the Geometric Representation of Gaussian Splatting via View Alignment

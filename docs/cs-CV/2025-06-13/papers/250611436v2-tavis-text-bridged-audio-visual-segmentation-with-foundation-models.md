@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TAViS: Text-bridged Audio-Visual Segmentation with Foundation Models
+title: "TAViS: Text-bridged Audio-Visual Segmentation with Foundation Models"
 ---
 
 # TAViS: Text-bridged Audio-Visual Segmentation with Foundation Models

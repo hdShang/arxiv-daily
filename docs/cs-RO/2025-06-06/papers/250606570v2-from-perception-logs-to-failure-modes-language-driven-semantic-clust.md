@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Perception Logs to Failure Modes: Language-Driven Semantic Clustering of Failures for Robot Safety
+title: "From Perception Logs to Failure Modes: Language-Driven Semantic Clustering of Failures for Robot Safety"
 ---
 
 # From Perception Logs to Failure Modes: Language-Driven Semantic Clustering of Failures for Robot Safety

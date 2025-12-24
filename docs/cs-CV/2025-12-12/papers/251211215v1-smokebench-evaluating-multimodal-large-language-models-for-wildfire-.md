@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SmokeBench: Evaluating Multimodal Large Language Models for Wildfire Smoke Detection
+title: "SmokeBench: Evaluating Multimodal Large Language Models for Wildfire Smoke Detection"
 ---
 
 # SmokeBench: Evaluating Multimodal Large Language Models for Wildfire Smoke Detection

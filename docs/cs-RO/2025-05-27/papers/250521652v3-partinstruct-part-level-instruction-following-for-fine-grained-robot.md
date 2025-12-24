@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PartInstruct: Part-level Instruction Following for Fine-grained Robot Manipulation
+title: "PartInstruct: Part-level Instruction Following for Fine-grained Robot Manipulation"
 ---
 
 # PartInstruct: Part-level Instruction Following for Fine-grained Robot Manipulation

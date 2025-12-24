@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Actions as Language: Fine-Tuning VLMs into VLAs Without Catastrophic Forgetting
+title: "Actions as Language: Fine-Tuning VLMs into VLAs Without Catastrophic Forgetting"
 ---
 
 # Actions as Language: Fine-Tuning VLMs into VLAs Without Catastrophic Forgetting

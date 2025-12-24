@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning
+title: "LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning"
 ---
 
 # LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation
+title: "GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation"
 ---
 
 # GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation

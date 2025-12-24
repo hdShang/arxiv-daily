@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Panda: A pretrained forecast model for chaotic dynamics
+title: "Panda: A pretrained forecast model for chaotic dynamics"
 ---
 
 # Panda: A pretrained forecast model for chaotic dynamics

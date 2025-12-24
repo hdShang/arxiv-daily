@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Interleave-VLA: Enhancing Robot Manipulation with Interleaved Image-Text Instructions
+title: "Interleave-VLA: Enhancing Robot Manipulation with Interleaved Image-Text Instructions"
 ---
 
 # Interleave-VLA: Enhancing Robot Manipulation with Interleaved Image-Text Instructions

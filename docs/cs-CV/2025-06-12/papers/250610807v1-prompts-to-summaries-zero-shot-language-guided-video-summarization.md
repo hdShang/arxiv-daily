@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prompts to Summaries: Zero-Shot Language-Guided Video Summarization
+title: "Prompts to Summaries: Zero-Shot Language-Guided Video Summarization"
 ---
 
 # Prompts to Summaries: Zero-Shot Language-Guided Video Summarization

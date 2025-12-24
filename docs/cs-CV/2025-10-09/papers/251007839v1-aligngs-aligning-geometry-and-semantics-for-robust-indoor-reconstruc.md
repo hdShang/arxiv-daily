@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AlignGS: Aligning Geometry and Semantics for Robust Indoor Reconstruction from Sparse Views
+title: "AlignGS: Aligning Geometry and Semantics for Robust Indoor Reconstruction from Sparse Views"
 ---
 
 # AlignGS: Aligning Geometry and Semantics for Robust Indoor Reconstruction from Sparse Views

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: T2VPhysBench: A First-Principles Benchmark for Physical Consistency in Text-to-Video Generation
+title: "T2VPhysBench: A First-Principles Benchmark for Physical Consistency in Text-to-Video Generation"
 ---
 
 # T2VPhysBench: A First-Principles Benchmark for Physical Consistency in Text-to-Video Generation

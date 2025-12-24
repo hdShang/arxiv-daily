@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thought Anchors: Which LLM Reasoning Steps Matter?
+title: "Thought Anchors: Which LLM Reasoning Steps Matter?"
 ---
 
 # Thought Anchors: Which LLM Reasoning Steps Matter?

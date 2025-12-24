@@ -1,6 +1,6 @@
 ---
 layout: default
-title: XR Reality Check: What Commercial Devices Deliver for Spatial Tracking
+title: "XR Reality Check: What Commercial Devices Deliver for Spatial Tracking"
 ---
 
 # XR Reality Check: What Commercial Devices Deliver for Spatial Tracking

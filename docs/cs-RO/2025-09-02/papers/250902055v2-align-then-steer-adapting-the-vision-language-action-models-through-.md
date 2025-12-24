@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Align-Then-stEer: Adapting the Vision-Language Action Models through Unified Latent Guidance
+title: "Align-Then-stEer: Adapting the Vision-Language Action Models through Unified Latent Guidance"
 ---
 
 # Align-Then-stEer: Adapting the Vision-Language Action Models through Unified Latent Guidance

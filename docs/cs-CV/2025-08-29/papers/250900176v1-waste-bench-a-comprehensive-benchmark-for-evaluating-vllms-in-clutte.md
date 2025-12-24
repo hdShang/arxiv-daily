@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Waste-Bench: A Comprehensive Benchmark for Evaluating VLLMs in Cluttered Environments
+title: "Waste-Bench: A Comprehensive Benchmark for Evaluating VLLMs in Cluttered Environments"
 ---
 
 # Waste-Bench: A Comprehensive Benchmark for Evaluating VLLMs in Cluttered Environments

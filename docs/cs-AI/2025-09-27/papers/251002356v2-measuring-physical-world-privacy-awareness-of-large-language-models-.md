@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Measuring Physical-World Privacy Awareness of Large Language Models: An Evaluation Benchmark
+title: "Measuring Physical-World Privacy Awareness of Large Language Models: An Evaluation Benchmark"
 ---
 
 # Measuring Physical-World Privacy Awareness of Large Language Models: An Evaluation Benchmark

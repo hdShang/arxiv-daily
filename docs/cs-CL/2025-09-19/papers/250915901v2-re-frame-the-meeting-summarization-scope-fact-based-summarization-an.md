@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Re-FRAME the Meeting Summarization SCOPE: Fact-Based Summarization and Personalization via Questions
+title: "Re-FRAME the Meeting Summarization SCOPE: Fact-Based Summarization and Personalization via Questions"
 ---
 
 # Re-FRAME the Meeting Summarization SCOPE: Fact-Based Summarization and Personalization via Questions

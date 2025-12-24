@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DegDiT: Controllable Audio Generation with Dynamic Event Graph Guided Diffusion Transformer
+title: "DegDiT: Controllable Audio Generation with Dynamic Event Graph Guided Diffusion Transformer"
 ---
 
 # DegDiT: Controllable Audio Generation with Dynamic Event Graph Guided Diffusion Transformer

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space
+title: "Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space"
 ---
 
 # Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space

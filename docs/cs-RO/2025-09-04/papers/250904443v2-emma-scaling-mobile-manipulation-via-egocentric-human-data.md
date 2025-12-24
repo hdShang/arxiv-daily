@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EMMA: Scaling Mobile Manipulation via Egocentric Human Data
+title: "EMMA: Scaling Mobile Manipulation via Egocentric Human Data"
 ---
 
 # EMMA: Scaling Mobile Manipulation via Egocentric Human Data

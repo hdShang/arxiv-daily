@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scaling Truth: The Confidence Paradox in AI Fact-Checking
+title: "Scaling Truth: The Confidence Paradox in AI Fact-Checking"
 ---
 
 # Scaling Truth: The Confidence Paradox in AI Fact-Checking

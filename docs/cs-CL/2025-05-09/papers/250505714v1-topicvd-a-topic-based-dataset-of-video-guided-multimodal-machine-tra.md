@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TopicVD: A Topic-Based Dataset of Video-Guided Multimodal Machine Translation for Documentaries
+title: "TopicVD: A Topic-Based Dataset of Video-Guided Multimodal Machine Translation for Documentaries"
 ---
 
 # TopicVD: A Topic-Based Dataset of Video-Guided Multimodal Machine Translation for Documentaries

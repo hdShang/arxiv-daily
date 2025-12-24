@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Enhancing ML Model Interpretability: Leveraging Fine-Tuned Large Language Models for Better Understanding of AI
+title: "Enhancing ML Model Interpretability: Leveraging Fine-Tuned Large Language Models for Better Understanding of AI"
 ---
 
 # Enhancing ML Model Interpretability: Leveraging Fine-Tuned Large Language Models for Better Understanding of AI

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TerraFusion: Joint Generation of Terrain Geometry and Texture Using Latent Diffusion Models
+title: "TerraFusion: Joint Generation of Terrain Geometry and Texture Using Latent Diffusion Models"
 ---
 
 # TerraFusion: Joint Generation of Terrain Geometry and Texture Using Latent Diffusion Models

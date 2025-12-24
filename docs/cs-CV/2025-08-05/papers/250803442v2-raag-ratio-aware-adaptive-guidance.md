@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RAAG: Ratio Aware Adaptive Guidance
+title: "RAAG: Ratio Aware Adaptive Guidance"
 ---
 
 # RAAG: Ratio Aware Adaptive Guidance

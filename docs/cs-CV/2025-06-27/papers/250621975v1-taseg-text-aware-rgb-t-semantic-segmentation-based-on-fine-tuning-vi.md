@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TASeg: Text-aware RGB-T Semantic Segmentation based on Fine-tuning Vision Foundation Models
+title: "TASeg: Text-aware RGB-T Semantic Segmentation based on Fine-tuning Vision Foundation Models"
 ---
 
 # TASeg: Text-aware RGB-T Semantic Segmentation based on Fine-tuning Vision Foundation Models

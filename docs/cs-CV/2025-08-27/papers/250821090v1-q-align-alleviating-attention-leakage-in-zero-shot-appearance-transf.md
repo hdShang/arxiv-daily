@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Q-Align: Alleviating Attention Leakage in Zero-Shot Appearance Transfer via Query-Query Alignment
+title: "Q-Align: Alleviating Attention Leakage in Zero-Shot Appearance Transfer via Query-Query Alignment"
 ---
 
 # Q-Align: Alleviating Attention Leakage in Zero-Shot Appearance Transfer via Query-Query Alignment

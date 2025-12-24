@@ -1,6 +1,6 @@
 ---
 layout: default
-title: THOR: Tool-Integrated Hierarchical Optimization via RL for Mathematical Reasoning
+title: "THOR: Tool-Integrated Hierarchical Optimization via RL for Mathematical Reasoning"
 ---
 
 # THOR: Tool-Integrated Hierarchical Optimization via RL for Mathematical Reasoning

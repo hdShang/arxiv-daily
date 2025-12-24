@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bounds of Chain-of-Thought Robustness: Reasoning Steps, Embed Norms, and Beyond
+title: "Bounds of Chain-of-Thought Robustness: Reasoning Steps, Embed Norms, and Beyond"
 ---
 
 # Bounds of Chain-of-Thought Robustness: Reasoning Steps, Embed Norms, and Beyond

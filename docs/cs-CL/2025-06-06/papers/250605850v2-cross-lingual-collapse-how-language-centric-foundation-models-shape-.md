@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cross-lingual Collapse: How Language-Centric Foundation Models Shape Reasoning in Large Language Models
+title: "Cross-lingual Collapse: How Language-Centric Foundation Models Shape Reasoning in Large Language Models"
 ---
 
 # Cross-lingual Collapse: How Language-Centric Foundation Models Shape Reasoning in Large Language Models

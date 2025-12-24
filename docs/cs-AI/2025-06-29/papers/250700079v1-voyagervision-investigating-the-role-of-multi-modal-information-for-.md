@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VoyagerVision: Investigating the Role of Multi-modal Information for Open-ended Learning Systems
+title: "VoyagerVision: Investigating the Role of Multi-modal Information for Open-ended Learning Systems"
 ---
 
 # VoyagerVision: Investigating the Role of Multi-modal Information for Open-ended Learning Systems

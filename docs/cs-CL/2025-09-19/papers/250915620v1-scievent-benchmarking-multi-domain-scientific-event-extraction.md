@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SciEvent: Benchmarking Multi-domain Scientific Event Extraction
+title: "SciEvent: Benchmarking Multi-domain Scientific Event Extraction"
 ---
 
 # SciEvent: Benchmarking Multi-domain Scientific Event Extraction

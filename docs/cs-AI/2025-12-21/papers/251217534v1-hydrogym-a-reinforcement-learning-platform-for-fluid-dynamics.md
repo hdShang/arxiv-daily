@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HydroGym: A Reinforcement Learning Platform for Fluid Dynamics
+title: "HydroGym: A Reinforcement Learning Platform for Fluid Dynamics"
 ---
 
 # HydroGym: A Reinforcement Learning Platform for Fluid Dynamics

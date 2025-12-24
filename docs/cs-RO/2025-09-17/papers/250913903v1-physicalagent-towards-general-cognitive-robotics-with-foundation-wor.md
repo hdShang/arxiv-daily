@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PhysicalAgent: Towards General Cognitive Robotics with Foundation World Models
+title: "PhysicalAgent: Towards General Cognitive Robotics with Foundation World Models"
 ---
 
 # PhysicalAgent: Towards General Cognitive Robotics with Foundation World Models

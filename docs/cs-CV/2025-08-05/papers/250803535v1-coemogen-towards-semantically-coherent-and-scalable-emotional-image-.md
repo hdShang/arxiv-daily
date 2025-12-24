@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoEmoGen: Towards Semantically-Coherent and Scalable Emotional Image Content Generation
+title: "CoEmoGen: Towards Semantically-Coherent and Scalable Emotional Image Content Generation"
 ---
 
 # CoEmoGen: Towards Semantically-Coherent and Scalable Emotional Image Content Generation

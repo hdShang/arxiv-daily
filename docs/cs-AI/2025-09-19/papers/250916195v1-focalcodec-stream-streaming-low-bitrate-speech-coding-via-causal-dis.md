@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FocalCodec-Stream: Streaming Low-Bitrate Speech Coding via Causal Distillation
+title: "FocalCodec-Stream: Streaming Low-Bitrate Speech Coding via Causal Distillation"
 ---
 
 # FocalCodec-Stream: Streaming Low-Bitrate Speech Coding via Causal Distillation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GenHOI: Generalizing Text-driven 4D Human-Object Interaction Synthesis for Unseen Objects
+title: "GenHOI: Generalizing Text-driven 4D Human-Object Interaction Synthesis for Unseen Objects"
 ---
 
 # GenHOI: Generalizing Text-driven 4D Human-Object Interaction Synthesis for Unseen Objects

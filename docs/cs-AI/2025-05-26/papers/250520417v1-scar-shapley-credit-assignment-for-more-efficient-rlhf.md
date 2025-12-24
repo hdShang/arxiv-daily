@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SCAR: Shapley Credit Assignment for More Efficient RLHF
+title: "SCAR: Shapley Credit Assignment for More Efficient RLHF"
 ---
 
 # SCAR: Shapley Credit Assignment for More Efficient RLHF

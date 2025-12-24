@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VOX-KRIKRI: Unifying Speech and Language through Continuous Fusion
+title: "VOX-KRIKRI: Unifying Speech and Language through Continuous Fusion"
 ---
 
 # VOX-KRIKRI: Unifying Speech and Language through Continuous Fusion

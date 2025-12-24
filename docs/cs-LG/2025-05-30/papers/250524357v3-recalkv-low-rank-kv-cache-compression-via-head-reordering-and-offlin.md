@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration
+title: "ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration"
 ---
 
 # ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration

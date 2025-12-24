@@ -1,6 +1,6 @@
 ---
 layout: default
-title: USIM and U0: A Vision-Language-Action Dataset and Model for General Underwater Robots
+title: "USIM and U0: A Vision-Language-Action Dataset and Model for General Underwater Robots"
 ---
 
 # USIM and U0: A Vision-Language-Action Dataset and Model for General Underwater Robots

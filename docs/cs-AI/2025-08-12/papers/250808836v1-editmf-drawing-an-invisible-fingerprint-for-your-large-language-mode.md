@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EditMF: Drawing an Invisible Fingerprint for Your Large Language Models
+title: "EditMF: Drawing an Invisible Fingerprint for Your Large Language Models"
 ---
 
 # EditMF: Drawing an Invisible Fingerprint for Your Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jinx: Unlimited LLMs for Probing Alignment Failures
+title: "Jinx: Unlimited LLMs for Probing Alignment Failures"
 ---
 
 # Jinx: Unlimited LLMs for Probing Alignment Failures

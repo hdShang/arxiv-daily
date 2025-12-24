@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Emotion Knowledge Enhancement for Vision Large Language Models: A Self-Verification Approach for High-Quality Emotion Instruction Data Generation
+title: "Emotion Knowledge Enhancement for Vision Large Language Models: A Self-Verification Approach for High-Quality Emotion Instruction Data Generation"
 ---
 
 # Emotion Knowledge Enhancement for Vision Large Language Models: A Self-Verification Approach for High-Quality Emotion Instruction Data Generation

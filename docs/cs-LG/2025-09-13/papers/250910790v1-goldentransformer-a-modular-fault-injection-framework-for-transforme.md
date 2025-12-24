@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GoldenTransformer: A Modular Fault Injection Framework for Transformer Robustness Research
+title: "GoldenTransformer: A Modular Fault Injection Framework for Transformer Robustness Research"
 ---
 
 # GoldenTransformer: A Modular Fault Injection Framework for Transformer Robustness Research

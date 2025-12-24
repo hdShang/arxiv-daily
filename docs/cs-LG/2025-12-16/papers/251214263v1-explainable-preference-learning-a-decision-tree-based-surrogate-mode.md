@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Explainable Preference Learning: a Decision Tree-based Surrogate Model for Preferential Bayesian Optimization
+title: "Explainable Preference Learning: a Decision Tree-based Surrogate Model for Preferential Bayesian Optimization"
 ---
 
 # Explainable Preference Learning: a Decision Tree-based Surrogate Model for Preferential Bayesian Optimization

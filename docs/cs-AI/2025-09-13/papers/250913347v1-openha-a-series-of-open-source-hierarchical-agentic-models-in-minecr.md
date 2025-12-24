@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OpenHA: A Series of Open-Source Hierarchical Agentic Models in Minecraft
+title: "OpenHA: A Series of Open-Source Hierarchical Agentic Models in Minecraft"
 ---
 
 # OpenHA: A Series of Open-Source Hierarchical Agentic Models in Minecraft

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MuFlex: A Scalable, Physics-based Platform for Multi-Building Flexibility Analysis and Coordination
+title: "MuFlex: A Scalable, Physics-based Platform for Multi-Building Flexibility Analysis and Coordination"
 ---
 
 # MuFlex: A Scalable, Physics-based Platform for Multi-Building Flexibility Analysis and Coordination

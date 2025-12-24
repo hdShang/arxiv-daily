@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4D Primitive-Mâché: Glueing Primitives for Persistent 4D Scene Reconstruction
+title: "4D Primitive-Mâché: Glueing Primitives for Persistent 4D Scene Reconstruction"
 ---
 
 # 4D Primitive-Mâché: Glueing Primitives for Persistent 4D Scene Reconstruction

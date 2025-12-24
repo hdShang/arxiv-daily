@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GraphTracer: Graph-Guided Failure Tracing in LLM Agents for Robust Multi-Turn Deep Search
+title: "GraphTracer: Graph-Guided Failure Tracing in LLM Agents for Robust Multi-Turn Deep Search"
 ---
 
 # GraphTracer: Graph-Guided Failure Tracing in LLM Agents for Robust Multi-Turn Deep Search

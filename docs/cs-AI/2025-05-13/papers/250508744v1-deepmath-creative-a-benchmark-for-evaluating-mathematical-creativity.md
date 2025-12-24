@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeepMath-Creative: A Benchmark for Evaluating Mathematical Creativity of Large Language Models
+title: "DeepMath-Creative: A Benchmark for Evaluating Mathematical Creativity of Large Language Models"
 ---
 
 # DeepMath-Creative: A Benchmark for Evaluating Mathematical Creativity of Large Language Models

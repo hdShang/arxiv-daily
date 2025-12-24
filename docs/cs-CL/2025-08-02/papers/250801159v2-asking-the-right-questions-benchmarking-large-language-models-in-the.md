@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Asking the Right Questions: Benchmarking Large Language Models in the Development of Clinical Consultation Templates
+title: "Asking the Right Questions: Benchmarking Large Language Models in the Development of Clinical Consultation Templates"
 ---
 
 # Asking the Right Questions: Benchmarking Large Language Models in the Development of Clinical Consultation Templates

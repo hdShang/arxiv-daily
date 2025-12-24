@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
+title: "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
 ---
 
 # OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PA-RNet: Perturbation-Aware Reasoning Network for Multimodal Time Series Forecasting
+title: "PA-RNet: Perturbation-Aware Reasoning Network for Multimodal Time Series Forecasting"
 ---
 
 # PA-RNet: Perturbation-Aware Reasoning Network for Multimodal Time Series Forecasting

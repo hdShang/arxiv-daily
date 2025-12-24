@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Color3D: Controllable and Consistent 3D Colorization with Personalized Colorizer
+title: "Color3D: Controllable and Consistent 3D Colorization with Personalized Colorizer"
 ---
 
 # Color3D: Controllable and Consistent 3D Colorization with Personalized Colorizer

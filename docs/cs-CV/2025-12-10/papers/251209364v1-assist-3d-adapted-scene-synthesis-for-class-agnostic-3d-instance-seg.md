@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ASSIST-3D: Adapted Scene Synthesis for Class-Agnostic 3D Instance Segmentation
+title: "ASSIST-3D: Adapted Scene Synthesis for Class-Agnostic 3D Instance Segmentation"
 ---
 
 # ASSIST-3D: Adapted Scene Synthesis for Class-Agnostic 3D Instance Segmentation

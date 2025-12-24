@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DRtool: An Interactive Tool for Analyzing High-Dimensional Clusterings
+title: "DRtool: An Interactive Tool for Analyzing High-Dimensional Clusterings"
 ---
 
 # DRtool: An Interactive Tool for Analyzing High-Dimensional Clusterings

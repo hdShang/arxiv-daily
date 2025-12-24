@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Parallel Rescaling: Rebalancing Consistency Guidance for Personalized Diffusion Models
+title: "Parallel Rescaling: Rebalancing Consistency Guidance for Personalized Diffusion Models"
 ---
 
 # Parallel Rescaling: Rebalancing Consistency Guidance for Personalized Diffusion Models

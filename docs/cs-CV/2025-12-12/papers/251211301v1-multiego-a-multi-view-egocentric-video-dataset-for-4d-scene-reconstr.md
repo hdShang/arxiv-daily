@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MultiEgo: A Multi-View Egocentric Video Dataset for 4D Scene Reconstruction
+title: "MultiEgo: A Multi-View Egocentric Video Dataset for 4D Scene Reconstruction"
 ---
 
 # MultiEgo: A Multi-View Egocentric Video Dataset for 4D Scene Reconstruction

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Agent.xpu: Efficient Scheduling of Agentic LLM Workloads on Heterogeneous SoC
+title: "Agent.xpu: Efficient Scheduling of Agentic LLM Workloads on Heterogeneous SoC"
 ---
 
 # Agent.xpu: Efficient Scheduling of Agentic LLM Workloads on Heterogeneous SoC

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Astra: A Multi-Agent System for GPU Kernel Performance Optimization
+title: "Astra: A Multi-Agent System for GPU Kernel Performance Optimization"
 ---
 
 # Astra: A Multi-Agent System for GPU Kernel Performance Optimization

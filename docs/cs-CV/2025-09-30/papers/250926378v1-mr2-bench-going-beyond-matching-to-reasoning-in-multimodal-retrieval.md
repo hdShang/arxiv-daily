@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MR$^2$-Bench: Going Beyond Matching to Reasoning in Multimodal Retrieval
+title: "MR$^2$-Bench: Going Beyond Matching to Reasoning in Multimodal Retrieval"
 ---
 
 # MR$^2$-Bench: Going Beyond Matching to Reasoning in Multimodal Retrieval

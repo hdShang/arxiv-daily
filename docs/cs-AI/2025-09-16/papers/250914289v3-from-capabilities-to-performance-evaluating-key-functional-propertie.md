@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Capabilities to Performance: Evaluating Key Functional Properties of LLM Architectures in Penetration Testing
+title: "From Capabilities to Performance: Evaluating Key Functional Properties of LLM Architectures in Penetration Testing"
 ---
 
 # From Capabilities to Performance: Evaluating Key Functional Properties of LLM Architectures in Penetration Testing

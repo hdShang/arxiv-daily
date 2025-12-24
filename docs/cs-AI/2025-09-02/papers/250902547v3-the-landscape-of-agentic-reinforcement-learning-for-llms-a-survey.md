@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Landscape of Agentic Reinforcement Learning for LLMs: A Survey
+title: "The Landscape of Agentic Reinforcement Learning for LLMs: A Survey"
 ---
 
 # The Landscape of Agentic Reinforcement Learning for LLMs: A Survey

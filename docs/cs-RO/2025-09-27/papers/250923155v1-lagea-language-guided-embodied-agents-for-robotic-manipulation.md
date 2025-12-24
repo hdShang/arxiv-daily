@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LAGEA: Language Guided Embodied Agents for Robotic Manipulation
+title: "LAGEA: Language Guided Embodied Agents for Robotic Manipulation"
 ---
 
 # LAGEA: Language Guided Embodied Agents for Robotic Manipulation

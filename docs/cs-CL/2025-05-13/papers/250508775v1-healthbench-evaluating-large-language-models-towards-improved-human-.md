@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HealthBench: Evaluating Large Language Models Towards Improved Human Health
+title: "HealthBench: Evaluating Large Language Models Towards Improved Human Health"
 ---
 
 # HealthBench: Evaluating Large Language Models Towards Improved Human Health

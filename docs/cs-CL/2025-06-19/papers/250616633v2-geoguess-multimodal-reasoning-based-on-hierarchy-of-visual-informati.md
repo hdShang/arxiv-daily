@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GeoGuess: Multimodal Reasoning based on Hierarchy of Visual Information in Street View
+title: "GeoGuess: Multimodal Reasoning based on Hierarchy of Visual Information in Street View"
 ---
 
 # GeoGuess: Multimodal Reasoning based on Hierarchy of Visual Information in Street View

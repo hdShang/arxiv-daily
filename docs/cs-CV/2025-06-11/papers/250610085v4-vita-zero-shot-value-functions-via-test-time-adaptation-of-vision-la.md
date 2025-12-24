@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VITA: Zero-Shot Value Functions via Test-Time Adaptation of Vision-Language Models
+title: "VITA: Zero-Shot Value Functions via Test-Time Adaptation of Vision-Language Models"
 ---
 
 # VITA: Zero-Shot Value Functions via Test-Time Adaptation of Vision-Language Models

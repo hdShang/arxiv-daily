@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Casper: Inferring Diverse Intents for Assistive Teleoperation with Vision Language Models
+title: "Casper: Inferring Diverse Intents for Assistive Teleoperation with Vision Language Models"
 ---
 
 # Casper: Inferring Diverse Intents for Assistive Teleoperation with Vision Language Models

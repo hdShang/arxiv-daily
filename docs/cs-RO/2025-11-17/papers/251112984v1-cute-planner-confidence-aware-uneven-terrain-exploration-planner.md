@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CUTE-Planner: Confidence-aware Uneven Terrain Exploration Planner
+title: "CUTE-Planner: Confidence-aware Uneven Terrain Exploration Planner"
 ---
 
 # CUTE-Planner: Confidence-aware Uneven Terrain Exploration Planner

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SpectMamba: Integrating Frequency and State Space Models for Enhanced Medical Image Detection
+title: "SpectMamba: Integrating Frequency and State Space Models for Enhanced Medical Image Detection"
 ---
 
 # SpectMamba: Integrating Frequency and State Space Models for Enhanced Medical Image Detection

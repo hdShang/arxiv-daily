@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation
+title: "FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation"
 ---
 
 # FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation

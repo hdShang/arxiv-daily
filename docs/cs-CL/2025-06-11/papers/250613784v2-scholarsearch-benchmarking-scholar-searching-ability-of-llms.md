@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ScholarSearch: Benchmarking Scholar Searching Ability of LLMs
+title: "ScholarSearch: Benchmarking Scholar Searching Ability of LLMs"
 ---
 
 # ScholarSearch: Benchmarking Scholar Searching Ability of LLMs

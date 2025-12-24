@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Matrix-3D: Omnidirectional Explorable 3D World Generation
+title: "Matrix-3D: Omnidirectional Explorable 3D World Generation"
 ---
 
 # Matrix-3D: Omnidirectional Explorable 3D World Generation

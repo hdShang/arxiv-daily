@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Act to See, See to Act: Diffusion-Driven Perception-Action Interplay for Adaptive Policies
+title: "Act to See, See to Act: Diffusion-Driven Perception-Action Interplay for Adaptive Policies"
 ---
 
 # Act to See, See to Act: Diffusion-Driven Perception-Action Interplay for Adaptive Policies

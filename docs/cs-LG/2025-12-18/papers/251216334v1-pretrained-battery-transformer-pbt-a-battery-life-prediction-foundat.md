@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pretrained Battery Transformer (PBT): A battery life prediction foundation model
+title: "Pretrained Battery Transformer (PBT): A battery life prediction foundation model"
 ---
 
 # Pretrained Battery Transformer (PBT): A battery life prediction foundation model

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MobileWorldBench: Towards Semantic World Modeling For Mobile Agents
+title: "MobileWorldBench: Towards Semantic World Modeling For Mobile Agents"
 ---
 
 # MobileWorldBench: Towards Semantic World Modeling For Mobile Agents

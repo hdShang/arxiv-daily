@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FairJudge: MLLM Judging for Social Attributes and Prompt Image Alignment
+title: "FairJudge: MLLM Judging for Social Attributes and Prompt Image Alignment"
 ---
 
 # FairJudge: MLLM Judging for Social Attributes and Prompt Image Alignment

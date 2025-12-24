@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LegalEval-Q: A New Benchmark for The Quality Evaluation of LLM-Generated Legal Text
+title: "LegalEval-Q: A New Benchmark for The Quality Evaluation of LLM-Generated Legal Text"
 ---
 
 # LegalEval-Q: A New Benchmark for The Quality Evaluation of LLM-Generated Legal Text

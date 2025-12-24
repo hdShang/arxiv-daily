@@ -1,6 +1,6 @@
 ---
 layout: default
-title: seqBench: A Tunable Benchmark to Quantify Sequential Reasoning Limits of LLMs
+title: "seqBench: A Tunable Benchmark to Quantify Sequential Reasoning Limits of LLMs"
 ---
 
 # seqBench: A Tunable Benchmark to Quantify Sequential Reasoning Limits of LLMs

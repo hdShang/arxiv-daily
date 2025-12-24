@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning to Get Up Across Morphologies: Zero-Shot Recovery with a Unified Humanoid Policy
+title: "Learning to Get Up Across Morphologies: Zero-Shot Recovery with a Unified Humanoid Policy"
 ---
 
 # Learning to Get Up Across Morphologies: Zero-Shot Recovery with a Unified Humanoid Policy

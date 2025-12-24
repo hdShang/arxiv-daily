@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Modeling Others' Minds as Code
+title: "Modeling Others' Minds as Code"
 ---
 
 # Modeling Others' Minds as Code

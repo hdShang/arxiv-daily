@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From General to Targeted Rewards: Surpassing GPT-4 in Open-Ended Long-Context Generation
+title: "From General to Targeted Rewards: Surpassing GPT-4 in Open-Ended Long-Context Generation"
 ---
 
 # From General to Targeted Rewards: Surpassing GPT-4 in Open-Ended Long-Context Generation

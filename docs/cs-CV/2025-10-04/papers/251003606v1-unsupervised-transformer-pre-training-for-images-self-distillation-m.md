@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unsupervised Transformer Pre-Training for Images: Self-Distillation, Mean Teachers, and Random Crops
+title: "Unsupervised Transformer Pre-Training for Images: Self-Distillation, Mean Teachers, and Random Crops"
 ---
 
 # Unsupervised Transformer Pre-Training for Images: Self-Distillation, Mean Teachers, and Random Crops

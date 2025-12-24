@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The ProLiFIC dataset: Leveraging LLMs to Unveil the Italian Lawmaking Process
+title: "The ProLiFIC dataset: Leveraging LLMs to Unveil the Italian Lawmaking Process"
 ---
 
 # The ProLiFIC dataset: Leveraging LLMs to Unveil the Italian Lawmaking Process

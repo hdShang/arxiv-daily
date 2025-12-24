@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos
+title: "Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos"
 ---
 
 # Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos

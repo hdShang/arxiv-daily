@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TRC: Trust Region Conditional Value at Risk for Safe Reinforcement Learning
+title: "TRC: Trust Region Conditional Value at Risk for Safe Reinforcement Learning"
 ---
 
 # TRC: Trust Region Conditional Value at Risk for Safe Reinforcement Learning

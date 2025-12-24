@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ResponsibleRobotBench: Benchmarking Responsible Robot Manipulation using Multi-modal Large Language Models
+title: "ResponsibleRobotBench: Benchmarking Responsible Robot Manipulation using Multi-modal Large Language Models"
 ---
 
 # ResponsibleRobotBench: Benchmarking Responsible Robot Manipulation using Multi-modal Large Language Models

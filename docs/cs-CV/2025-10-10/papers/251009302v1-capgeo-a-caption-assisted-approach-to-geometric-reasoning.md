@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CapGeo: A Caption-Assisted Approach to Geometric Reasoning
+title: "CapGeo: A Caption-Assisted Approach to Geometric Reasoning"
 ---
 
 # CapGeo: A Caption-Assisted Approach to Geometric Reasoning

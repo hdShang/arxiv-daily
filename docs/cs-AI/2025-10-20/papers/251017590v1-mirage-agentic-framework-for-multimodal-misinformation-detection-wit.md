@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MIRAGE: Agentic Framework for Multimodal Misinformation Detection with Web-Grounded Reasoning
+title: "MIRAGE: Agentic Framework for Multimodal Misinformation Detection with Web-Grounded Reasoning"
 ---
 
 # MIRAGE: Agentic Framework for Multimodal Misinformation Detection with Web-Grounded Reasoning

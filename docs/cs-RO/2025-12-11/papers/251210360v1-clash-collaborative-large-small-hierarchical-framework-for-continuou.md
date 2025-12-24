@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CLASH: Collaborative Large-Small Hierarchical Framework for Continuous Vision-and-Language Navigation
+title: "CLASH: Collaborative Large-Small Hierarchical Framework for Continuous Vision-and-Language Navigation"
 ---
 
 # CLASH: Collaborative Large-Small Hierarchical Framework for Continuous Vision-and-Language Navigation

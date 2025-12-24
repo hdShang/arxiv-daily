@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unintended Harms of Value-Aligned LLMs: Psychological and Empirical Insights
+title: "Unintended Harms of Value-Aligned LLMs: Psychological and Empirical Insights"
 ---
 
 # Unintended Harms of Value-Aligned LLMs: Psychological and Empirical Insights

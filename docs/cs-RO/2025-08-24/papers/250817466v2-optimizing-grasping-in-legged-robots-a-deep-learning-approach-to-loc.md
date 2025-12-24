@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Optimizing Grasping in Legged Robots: A Deep Learning Approach to Loco-Manipulation
+title: "Optimizing Grasping in Legged Robots: A Deep Learning Approach to Loco-Manipulation"
 ---
 
 # Optimizing Grasping in Legged Robots: A Deep Learning Approach to Loco-Manipulation

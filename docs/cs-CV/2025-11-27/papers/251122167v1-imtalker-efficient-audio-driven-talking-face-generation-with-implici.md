@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IMTalker: Efficient Audio-driven Talking Face Generation with Implicit Motion Transfer
+title: "IMTalker: Efficient Audio-driven Talking Face Generation with Implicit Motion Transfer"
 ---
 
 # IMTalker: Efficient Audio-driven Talking Face Generation with Implicit Motion Transfer

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MedTVT-R1: A Multimodal LLM Empowering Medical Reasoning and Diagnosis
+title: "MedTVT-R1: A Multimodal LLM Empowering Medical Reasoning and Diagnosis"
 ---
 
 # MedTVT-R1: A Multimodal LLM Empowering Medical Reasoning and Diagnosis

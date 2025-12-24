@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Extracting Multimodal Learngene in CLIP: Unveiling the Multimodal Generalizable Knowledge
+title: "Extracting Multimodal Learngene in CLIP: Unveiling the Multimodal Generalizable Knowledge"
 ---
 
 # Extracting Multimodal Learngene in CLIP: Unveiling the Multimodal Generalizable Knowledge

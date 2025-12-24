@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FG-CLIP 2: A Bilingual Fine-grained Vision-Language Alignment Model
+title: "FG-CLIP 2: A Bilingual Fine-grained Vision-Language Alignment Model"
 ---
 
 # FG-CLIP 2: A Bilingual Fine-grained Vision-Language Alignment Model

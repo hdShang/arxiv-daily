@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReflexFlow: Rethinking Learning Objective for Exposure Bias Alleviation in Flow Matching
+title: "ReflexFlow: Rethinking Learning Objective for Exposure Bias Alleviation in Flow Matching"
 ---
 
 # ReflexFlow: Rethinking Learning Objective for Exposure Bias Alleviation in Flow Matching

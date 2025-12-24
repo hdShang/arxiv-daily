@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Text-to-Layout: A Generative Workflow for Drafting Architectural Floor Plans Using LLMs
+title: "Text-to-Layout: A Generative Workflow for Drafting Architectural Floor Plans Using LLMs"
 ---
 
 # Text-to-Layout: A Generative Workflow for Drafting Architectural Floor Plans Using LLMs

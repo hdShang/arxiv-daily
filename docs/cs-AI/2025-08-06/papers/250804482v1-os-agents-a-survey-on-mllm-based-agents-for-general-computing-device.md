@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use
+title: "OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use"
 ---
 
 # OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use

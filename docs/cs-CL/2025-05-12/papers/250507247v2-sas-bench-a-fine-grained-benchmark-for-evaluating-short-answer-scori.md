@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SAS-Bench: A Fine-Grained Benchmark for Evaluating Short Answer Scoring with Large Language Models
+title: "SAS-Bench: A Fine-Grained Benchmark for Evaluating Short Answer Scoring with Large Language Models"
 ---
 
 # SAS-Bench: A Fine-Grained Benchmark for Evaluating Short Answer Scoring with Large Language Models

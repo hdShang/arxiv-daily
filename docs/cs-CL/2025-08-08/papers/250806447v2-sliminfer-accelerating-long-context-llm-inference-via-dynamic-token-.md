@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SlimInfer: Accelerating Long-Context LLM Inference via Dynamic Token Pruning
+title: "SlimInfer: Accelerating Long-Context LLM Inference via Dynamic Token Pruning"
 ---
 
 # SlimInfer: Accelerating Long-Context LLM Inference via Dynamic Token Pruning

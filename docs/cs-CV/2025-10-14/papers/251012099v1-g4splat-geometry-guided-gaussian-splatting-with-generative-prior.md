@@ -1,6 +1,6 @@
 ---
 layout: default
-title: G4Splat: Geometry-Guided Gaussian Splatting with Generative Prior
+title: "G4Splat: Geometry-Guided Gaussian Splatting with Generative Prior"
 ---
 
 # G4Splat: Geometry-Guided Gaussian Splatting with Generative Prior

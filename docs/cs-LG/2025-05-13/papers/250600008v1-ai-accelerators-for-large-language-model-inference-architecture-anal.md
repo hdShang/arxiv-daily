@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI Accelerators for Large Language Model Inference: Architecture Analysis and Scaling Strategies
+title: "AI Accelerators for Large Language Model Inference: Architecture Analysis and Scaling Strategies"
 ---
 
 # AI Accelerators for Large Language Model Inference: Architecture Analysis and Scaling Strategies

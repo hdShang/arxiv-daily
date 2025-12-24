@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zoo3D: Zero-Shot 3D Object Detection at Scene Level
+title: "Zoo3D: Zero-Shot 3D Object Detection at Scene Level"
 ---
 
 # Zoo3D: Zero-Shot 3D Object Detection at Scene Level

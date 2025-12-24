@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning
+title: "Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning"
 ---
 
 # Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning

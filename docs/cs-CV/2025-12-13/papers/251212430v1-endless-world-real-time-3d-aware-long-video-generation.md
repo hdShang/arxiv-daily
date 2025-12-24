@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Endless World: Real-Time 3D-Aware Long Video Generation
+title: "Endless World: Real-Time 3D-Aware Long Video Generation"
 ---
 
 # Endless World: Real-Time 3D-Aware Long Video Generation

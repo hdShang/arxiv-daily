@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DaMO: A Data-Efficient Multimodal Orchestrator for Temporal Reasoning with Video LLMs
+title: "DaMO: A Data-Efficient Multimodal Orchestrator for Temporal Reasoning with Video LLMs"
 ---
 
 # DaMO: A Data-Efficient Multimodal Orchestrator for Temporal Reasoning with Video LLMs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Free-Form Scene Editor: Enabling Multi-Round Object Manipulation like in a 3D Engine
+title: "Free-Form Scene Editor: Enabling Multi-Round Object Manipulation like in a 3D Engine"
 ---
 
 # Free-Form Scene Editor: Enabling Multi-Round Object Manipulation like in a 3D Engine

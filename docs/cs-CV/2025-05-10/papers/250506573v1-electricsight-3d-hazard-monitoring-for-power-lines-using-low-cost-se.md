@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ElectricSight: 3D Hazard Monitoring for Power Lines Using Low-Cost Sensors
+title: "ElectricSight: 3D Hazard Monitoring for Power Lines Using Low-Cost Sensors"
 ---
 
 # ElectricSight: 3D Hazard Monitoring for Power Lines Using Low-Cost Sensors

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dual Mechanisms of Value Expression: Intrinsic vs. Prompted Values in LLMs
+title: "Dual Mechanisms of Value Expression: Intrinsic vs. Prompted Values in LLMs"
 ---
 
 # Dual Mechanisms of Value Expression: Intrinsic vs. Prompted Values in LLMs

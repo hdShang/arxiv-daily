@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching
+title: "Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching"
 ---
 
 # Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching

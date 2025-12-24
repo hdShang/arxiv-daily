@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DCPO: Dynamic Clipping Policy Optimization
+title: "DCPO: Dynamic Clipping Policy Optimization"
 ---
 
 # DCPO: Dynamic Clipping Policy Optimization

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning
+title: "R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning"
 ---
 
 # R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning

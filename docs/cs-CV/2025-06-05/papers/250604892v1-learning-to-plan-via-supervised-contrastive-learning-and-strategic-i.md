@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning to Plan via Supervised Contrastive Learning and Strategic Interpolation: A Chess Case Study
+title: "Learning to Plan via Supervised Contrastive Learning and Strategic Interpolation: A Chess Case Study"
 ---
 
 # Learning to Plan via Supervised Contrastive Learning and Strategic Interpolation: A Chess Case Study

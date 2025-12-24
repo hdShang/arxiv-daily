@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Speed Always Wins: A Survey on Efficient Architectures for Large Language Models
+title: "Speed Always Wins: A Survey on Efficient Architectures for Large Language Models"
 ---
 
 # Speed Always Wins: A Survey on Efficient Architectures for Large Language Models

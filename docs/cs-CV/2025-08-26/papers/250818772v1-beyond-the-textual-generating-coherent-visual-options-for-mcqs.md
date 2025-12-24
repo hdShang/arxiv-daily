@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond the Textual: Generating Coherent Visual Options for MCQs
+title: "Beyond the Textual: Generating Coherent Visual Options for MCQs"
 ---
 
 # Beyond the Textual: Generating Coherent Visual Options for MCQs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: X2C: A Dataset Featuring Nuanced Facial Expressions for Realistic Humanoid Imitation
+title: "X2C: A Dataset Featuring Nuanced Facial Expressions for Realistic Humanoid Imitation"
 ---
 
 # X2C: A Dataset Featuring Nuanced Facial Expressions for Realistic Humanoid Imitation

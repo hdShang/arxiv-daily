@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Rosario Dataset v2: Multimodal Dataset for Agricultural Robotics
+title: "The Rosario Dataset v2: Multimodal Dataset for Agricultural Robotics"
 ---
 
 # The Rosario Dataset v2: Multimodal Dataset for Agricultural Robotics

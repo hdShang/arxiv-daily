@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BLAB: Brutally Long Audio Bench
+title: "BLAB: Brutally Long Audio Bench"
 ---
 
 # BLAB: Brutally Long Audio Bench

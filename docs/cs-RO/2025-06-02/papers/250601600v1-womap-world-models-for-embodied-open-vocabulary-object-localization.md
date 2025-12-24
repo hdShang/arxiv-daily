@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WoMAP: World Models For Embodied Open-Vocabulary Object Localization
+title: "WoMAP: World Models For Embodied Open-Vocabulary Object Localization"
 ---
 
 # WoMAP: World Models For Embodied Open-Vocabulary Object Localization

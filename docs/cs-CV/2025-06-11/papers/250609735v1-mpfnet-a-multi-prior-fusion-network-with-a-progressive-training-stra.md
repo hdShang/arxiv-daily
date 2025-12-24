@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MPFNet: A Multi-Prior Fusion Network with a Progressive Training Strategy for Micro-Expression Recognition
+title: "MPFNet: A Multi-Prior Fusion Network with a Progressive Training Strategy for Micro-Expression Recognition"
 ---
 
 # MPFNet: A Multi-Prior Fusion Network with a Progressive Training Strategy for Micro-Expression Recognition

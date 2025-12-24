@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KERAG: Knowledge-Enhanced Retrieval-Augmented Generation for Advanced Question Answering
+title: "KERAG: Knowledge-Enhanced Retrieval-Augmented Generation for Advanced Question Answering"
 ---
 
 # KERAG: Knowledge-Enhanced Retrieval-Augmented Generation for Advanced Question Answering

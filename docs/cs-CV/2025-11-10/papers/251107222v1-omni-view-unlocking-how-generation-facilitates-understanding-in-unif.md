@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Omni-View: Unlocking How Generation Facilitates Understanding in Unified 3D Model based on Multiview images
+title: "Omni-View: Unlocking How Generation Facilitates Understanding in Unified 3D Model based on Multiview images"
 ---
 
 # Omni-View: Unlocking How Generation Facilitates Understanding in Unified 3D Model based on Multiview images

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InPars+: Supercharging Synthetic Data Generation for Information Retrieval Systems
+title: "InPars+: Supercharging Synthetic Data Generation for Information Retrieval Systems"
 ---
 
 # InPars+: Supercharging Synthetic Data Generation for Information Retrieval Systems

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SuperWriter: Reflection-Driven Long-Form Generation with Large Language Models
+title: "SuperWriter: Reflection-Driven Long-Form Generation with Large Language Models"
 ---
 
 # SuperWriter: Reflection-Driven Long-Form Generation with Large Language Models

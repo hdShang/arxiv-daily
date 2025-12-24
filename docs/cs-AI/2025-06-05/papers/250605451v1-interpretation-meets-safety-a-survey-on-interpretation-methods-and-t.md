@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Interpretation Meets Safety: A Survey on Interpretation Methods and Tools for Improving LLM Safety
+title: "Interpretation Meets Safety: A Survey on Interpretation Methods and Tools for Improving LLM Safety"
 ---
 
 # Interpretation Meets Safety: A Survey on Interpretation Methods and Tools for Improving LLM Safety

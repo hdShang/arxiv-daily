@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DiffStyle360: Diffusion-Based 360° Head Stylization via Style Fusion Attention
+title: "DiffStyle360: Diffusion-Based 360° Head Stylization via Style Fusion Attention"
 ---
 
 # DiffStyle360: Diffusion-Based 360° Head Stylization via Style Fusion Attention

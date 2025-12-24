@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Semantic BIM enrichment for firefighting assets: Fire-ART dataset and panoramic image-based 3D reconstruction
+title: "Semantic BIM enrichment for firefighting assets: Fire-ART dataset and panoramic image-based 3D reconstruction"
 ---
 
 # Semantic BIM enrichment for firefighting assets: Fire-ART dataset and panoramic image-based 3D reconstruction

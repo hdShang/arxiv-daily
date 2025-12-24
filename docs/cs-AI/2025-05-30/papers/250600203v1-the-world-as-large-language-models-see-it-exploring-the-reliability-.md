@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The World As Large Language Models See It: Exploring the reliability of LLMs in representing geographical features
+title: "The World As Large Language Models See It: Exploring the reliability of LLMs in representing geographical features"
 ---
 
 # The World As Large Language Models See It: Exploring the reliability of LLMs in representing geographical features

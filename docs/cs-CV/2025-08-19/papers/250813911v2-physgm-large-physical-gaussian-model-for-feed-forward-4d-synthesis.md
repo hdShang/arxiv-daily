@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PhysGM: Large Physical Gaussian Model for Feed-Forward 4D Synthesis
+title: "PhysGM: Large Physical Gaussian Model for Feed-Forward 4D Synthesis"
 ---
 
 # PhysGM: Large Physical Gaussian Model for Feed-Forward 4D Synthesis

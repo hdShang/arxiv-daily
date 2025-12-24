@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TabReason: A Reinforcement Learning-Enhanced Reasoning LLM for Explainable Tabular Data Prediction
+title: "TabReason: A Reinforcement Learning-Enhanced Reasoning LLM for Explainable Tabular Data Prediction"
 ---
 
 # TabReason: A Reinforcement Learning-Enhanced Reasoning LLM for Explainable Tabular Data Prediction

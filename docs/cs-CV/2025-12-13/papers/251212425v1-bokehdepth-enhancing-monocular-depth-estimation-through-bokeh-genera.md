@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BokehDepth: Enhancing Monocular Depth Estimation through Bokeh Generation
+title: "BokehDepth: Enhancing Monocular Depth Estimation through Bokeh Generation"
 ---
 
 # BokehDepth: Enhancing Monocular Depth Estimation through Bokeh Generation

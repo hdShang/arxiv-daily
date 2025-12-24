@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HAMLET: Healthcare-focused Adaptive Multilingual Learning Embedding-based Topic Modeling
+title: "HAMLET: Healthcare-focused Adaptive Multilingual Learning Embedding-based Topic Modeling"
 ---
 
 # HAMLET: Healthcare-focused Adaptive Multilingual Learning Embedding-based Topic Modeling

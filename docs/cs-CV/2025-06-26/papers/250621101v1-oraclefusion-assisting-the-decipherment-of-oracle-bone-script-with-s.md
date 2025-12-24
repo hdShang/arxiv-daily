@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OracleFusion: Assisting the Decipherment of Oracle Bone Script with Structurally Constrained Semantic Typography
+title: "OracleFusion: Assisting the Decipherment of Oracle Bone Script with Structurally Constrained Semantic Typography"
 ---
 
 # OracleFusion: Assisting the Decipherment of Oracle Bone Script with Structurally Constrained Semantic Typography

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FaMA: LLM-Empowered Agentic Assistant for Consumer-to-Consumer Marketplace
+title: "FaMA: LLM-Empowered Agentic Assistant for Consumer-to-Consumer Marketplace"
 ---
 
 # FaMA: LLM-Empowered Agentic Assistant for Consumer-to-Consumer Marketplace

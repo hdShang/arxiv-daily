@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Augmenting Moment Retrieval: Zero-Dependency Two-Stage Learning
+title: "Augmenting Moment Retrieval: Zero-Dependency Two-Stage Learning"
 ---
 
 # Augmenting Moment Retrieval: Zero-Dependency Two-Stage Learning

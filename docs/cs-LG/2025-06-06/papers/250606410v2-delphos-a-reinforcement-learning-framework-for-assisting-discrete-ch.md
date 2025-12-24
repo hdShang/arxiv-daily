@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Delphos: A reinforcement learning framework for assisting discrete choice model specification
+title: "Delphos: A reinforcement learning framework for assisting discrete choice model specification"
 ---
 
 # Delphos: A reinforcement learning framework for assisting discrete choice model specification

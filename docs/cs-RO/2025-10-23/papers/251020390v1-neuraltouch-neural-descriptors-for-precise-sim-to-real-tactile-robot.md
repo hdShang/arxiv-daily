@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NeuralTouch: Neural Descriptors for Precise Sim-to-Real Tactile Robot Control
+title: "NeuralTouch: Neural Descriptors for Precise Sim-to-Real Tactile Robot Control"
 ---
 
 # NeuralTouch: Neural Descriptors for Precise Sim-to-Real Tactile Robot Control

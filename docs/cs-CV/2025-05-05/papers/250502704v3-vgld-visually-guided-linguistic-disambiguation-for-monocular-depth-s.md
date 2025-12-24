@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery
+title: "VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery"
 ---
 
 # VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery

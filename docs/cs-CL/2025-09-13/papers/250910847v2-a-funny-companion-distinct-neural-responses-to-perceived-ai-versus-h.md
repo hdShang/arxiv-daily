@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A funny companion: Distinct neural responses to perceived AI- versus human-generated humor
+title: "A funny companion: Distinct neural responses to perceived AI- versus human-generated humor"
 ---
 
 # A funny companion: Distinct neural responses to perceived AI- versus human-generated humor

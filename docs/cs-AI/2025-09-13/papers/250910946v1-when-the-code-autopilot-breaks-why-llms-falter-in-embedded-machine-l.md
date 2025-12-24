@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When the Code Autopilot Breaks: Why LLMs Falter in Embedded Machine Learning
+title: "When the Code Autopilot Breaks: Why LLMs Falter in Embedded Machine Learning"
 ---
 
 # When the Code Autopilot Breaks: Why LLMs Falter in Embedded Machine Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TuneComp: Joint Fine-tuning and Compression for Large Foundation Models
+title: "TuneComp: Joint Fine-tuning and Compression for Large Foundation Models"
 ---
 
 # TuneComp: Joint Fine-tuning and Compression for Large Foundation Models

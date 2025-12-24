@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Time To Impeach LLM-as-a-Judge: Programs are the Future of Evaluation
+title: "Time To Impeach LLM-as-a-Judge: Programs are the Future of Evaluation"
 ---
 
 # Time To Impeach LLM-as-a-Judge: Programs are the Future of Evaluation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EASE: Embodied Active Event Perception via Self-Supervised Energy Minimization
+title: "EASE: Embodied Active Event Perception via Self-Supervised Energy Minimization"
 ---
 
 # EASE: Embodied Active Event Perception via Self-Supervised Energy Minimization

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Standalone LLMs to Integrated Intelligence: A Survey of Compound Al Systems
+title: "From Standalone LLMs to Integrated Intelligence: A Survey of Compound Al Systems"
 ---
 
 # From Standalone LLMs to Integrated Intelligence: A Survey of Compound Al Systems

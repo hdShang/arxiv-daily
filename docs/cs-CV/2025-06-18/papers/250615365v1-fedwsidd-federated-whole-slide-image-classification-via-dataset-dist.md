@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation
+title: "FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation"
 ---
 
 # FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation

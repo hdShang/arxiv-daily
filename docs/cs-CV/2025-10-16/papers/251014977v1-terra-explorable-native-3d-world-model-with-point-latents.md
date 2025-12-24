@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Terra: Explorable Native 3D World Model with Point Latents
+title: "Terra: Explorable Native 3D World Model with Point Latents"
 ---
 
 # Terra: Explorable Native 3D World Model with Point Latents

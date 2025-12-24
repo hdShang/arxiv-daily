@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Structured Knowledge: Advancing Triple Extraction from Regional Trade Agreements using Large Language Models
+title: "Towards Structured Knowledge: Advancing Triple Extraction from Regional Trade Agreements using Large Language Models"
 ---
 
 # Towards Structured Knowledge: Advancing Triple Extraction from Regional Trade Agreements using Large Language Models

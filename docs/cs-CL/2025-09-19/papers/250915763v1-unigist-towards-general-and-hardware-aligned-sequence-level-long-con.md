@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniGist: Towards General and Hardware-aligned Sequence-level Long Context Compression
+title: "UniGist: Towards General and Hardware-aligned Sequence-level Long Context Compression"
 ---
 
 # UniGist: Towards General and Hardware-aligned Sequence-level Long Context Compression

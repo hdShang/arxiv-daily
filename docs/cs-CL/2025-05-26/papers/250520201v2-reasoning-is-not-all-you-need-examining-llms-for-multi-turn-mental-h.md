@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reasoning Is Not All You Need: Examining LLMs for Multi-Turn Mental Health Conversations
+title: "Reasoning Is Not All You Need: Examining LLMs for Multi-Turn Mental Health Conversations"
 ---
 
 # Reasoning Is Not All You Need: Examining LLMs for Multi-Turn Mental Health Conversations

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: You Only Fine-tune Once: Many-Shot In-Context Fine-Tuning for Large Language Model
+title: "You Only Fine-tune Once: Many-Shot In-Context Fine-Tuning for Large Language Model"
 ---
 
 # You Only Fine-tune Once: Many-Shot In-Context Fine-Tuning for Large Language Model

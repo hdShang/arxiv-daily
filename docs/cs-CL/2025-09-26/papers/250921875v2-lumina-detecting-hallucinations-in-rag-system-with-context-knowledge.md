@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LUMINA: Detecting Hallucinations in RAG System with Context-Knowledge Signals
+title: "LUMINA: Detecting Hallucinations in RAG System with Context-Knowledge Signals"
 ---
 
 # LUMINA: Detecting Hallucinations in RAG System with Context-Knowledge Signals

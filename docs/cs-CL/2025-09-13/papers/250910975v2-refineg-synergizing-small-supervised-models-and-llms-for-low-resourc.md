@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReFineG: Synergizing Small Supervised Models and LLMs for Low-Resource Grounded Multimodal NER
+title: "ReFineG: Synergizing Small Supervised Models and LLMs for Low-Resource Grounded Multimodal NER"
 ---
 
 # ReFineG: Synergizing Small Supervised Models and LLMs for Low-Resource Grounded Multimodal NER

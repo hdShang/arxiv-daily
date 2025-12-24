@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Course Correction in Steerability Evaluation: Revealing Miscalibration and Side Effects in LLMs
+title: "A Course Correction in Steerability Evaluation: Revealing Miscalibration and Side Effects in LLMs"
 ---
 
 # A Course Correction in Steerability Evaluation: Revealing Miscalibration and Side Effects in LLMs

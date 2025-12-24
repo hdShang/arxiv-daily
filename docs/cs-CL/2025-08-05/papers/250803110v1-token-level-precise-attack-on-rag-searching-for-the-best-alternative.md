@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Token-Level Precise Attack on RAG: Searching for the Best Alternatives to Mislead Generation
+title: "Token-Level Precise Attack on RAG: Searching for the Best Alternatives to Mislead Generation"
 ---
 
 # Token-Level Precise Attack on RAG: Searching for the Best Alternatives to Mislead Generation

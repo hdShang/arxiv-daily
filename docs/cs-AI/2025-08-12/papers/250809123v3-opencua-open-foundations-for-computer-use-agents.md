@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OpenCUA: Open Foundations for Computer-Use Agents
+title: "OpenCUA: Open Foundations for Computer-Use Agents"
 ---
 
 # OpenCUA: Open Foundations for Computer-Use Agents

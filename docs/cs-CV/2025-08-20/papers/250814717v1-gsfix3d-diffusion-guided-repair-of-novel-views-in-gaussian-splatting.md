@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GSFix3D: Diffusion-Guided Repair of Novel Views in Gaussian Splatting
+title: "GSFix3D: Diffusion-Guided Repair of Novel Views in Gaussian Splatting"
 ---
 
 # GSFix3D: Diffusion-Guided Repair of Novel Views in Gaussian Splatting

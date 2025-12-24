@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SkySplat: Generalizable 3D Gaussian Splatting from Multi-Temporal Sparse Satellite Images
+title: "SkySplat: Generalizable 3D Gaussian Splatting from Multi-Temporal Sparse Satellite Images"
 ---
 
 # SkySplat: Generalizable 3D Gaussian Splatting from Multi-Temporal Sparse Satellite Images

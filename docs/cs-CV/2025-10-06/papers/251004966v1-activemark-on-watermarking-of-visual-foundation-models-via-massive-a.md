@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ActiveMark: on watermarking of visual foundation models via massive activations
+title: "ActiveMark: on watermarking of visual foundation models via massive activations"
 ---
 
 # ActiveMark: on watermarking of visual foundation models via massive activations

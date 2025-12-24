@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WhisQ: Cross-Modal Representation Learning for Text-to-Music MOS Prediction
+title: "WhisQ: Cross-Modal Representation Learning for Text-to-Music MOS Prediction"
 ---
 
 # WhisQ: Cross-Modal Representation Learning for Text-to-Music MOS Prediction

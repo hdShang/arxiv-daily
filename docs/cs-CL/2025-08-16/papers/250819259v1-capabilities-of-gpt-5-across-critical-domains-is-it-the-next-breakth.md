@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Capabilities of GPT-5 across critical domains: Is it the next breakthrough?
+title: "Capabilities of GPT-5 across critical domains: Is it the next breakthrough?"
 ---
 
 # Capabilities of GPT-5 across critical domains: Is it the next breakthrough?

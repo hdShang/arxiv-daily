@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation
+title: "Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation"
 ---
 
 # Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VG-Refiner: Towards Tool-Refined Referring Grounded Reasoning via Agentic Reinforcement Learning
+title: "VG-Refiner: Towards Tool-Refined Referring Grounded Reasoning via Agentic Reinforcement Learning"
 ---
 
 # VG-Refiner: Towards Tool-Refined Referring Grounded Reasoning via Agentic Reinforcement Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Extreme Views: 3DGS Filter for Novel View Synthesis from Out-of-Distribution Camera Poses
+title: "Extreme Views: 3DGS Filter for Novel View Synthesis from Out-of-Distribution Camera Poses"
 ---
 
 # Extreme Views: 3DGS Filter for Novel View Synthesis from Out-of-Distribution Camera Poses

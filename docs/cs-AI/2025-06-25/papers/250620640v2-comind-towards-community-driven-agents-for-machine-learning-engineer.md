@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoMind: Towards Community-Driven Agents for Machine Learning Engineering
+title: "CoMind: Towards Community-Driven Agents for Machine Learning Engineering"
 ---
 
 # CoMind: Towards Community-Driven Agents for Machine Learning Engineering

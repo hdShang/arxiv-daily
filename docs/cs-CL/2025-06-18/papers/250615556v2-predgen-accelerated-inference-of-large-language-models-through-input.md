@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PredGen: Accelerated Inference of Large Language Models through Input-Time Speculation for Real-Time Speech Interaction
+title: "PredGen: Accelerated Inference of Large Language Models through Input-Time Speculation for Real-Time Speech Interaction"
 ---
 
 # PredGen: Accelerated Inference of Large Language Models through Input-Time Speculation for Real-Time Speech Interaction

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Directed-Tokens: A Robust Multi-Modality Alignment Approach to Large Language-Vision Models
+title: "Directed-Tokens: A Robust Multi-Modality Alignment Approach to Large Language-Vision Models"
 ---
 
 # Directed-Tokens: A Robust Multi-Modality Alignment Approach to Large Language-Vision Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ContactRL: Safe Reinforcement Learning based Motion Planning for Contact based Human Robot Collaboration
+title: "ContactRL: Safe Reinforcement Learning based Motion Planning for Contact based Human Robot Collaboration"
 ---
 
 # ContactRL: Safe Reinforcement Learning based Motion Planning for Contact based Human Robot Collaboration

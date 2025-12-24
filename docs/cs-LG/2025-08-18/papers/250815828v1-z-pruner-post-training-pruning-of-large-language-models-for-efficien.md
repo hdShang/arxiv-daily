@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Z-Pruner: Post-Training Pruning of Large Language Models for Efficiency without Retraining
+title: "Z-Pruner: Post-Training Pruning of Large Language Models for Efficiency without Retraining"
 ---
 
 # Z-Pruner: Post-Training Pruning of Large Language Models for Efficiency without Retraining

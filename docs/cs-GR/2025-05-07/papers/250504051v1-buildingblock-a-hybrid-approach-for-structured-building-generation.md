@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BuildingBlock: A Hybrid Approach for Structured Building Generation
+title: "BuildingBlock: A Hybrid Approach for Structured Building Generation"
 ---
 
 # BuildingBlock: A Hybrid Approach for Structured Building Generation

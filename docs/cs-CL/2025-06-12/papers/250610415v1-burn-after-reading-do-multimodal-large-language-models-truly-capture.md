@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Burn After Reading: Do Multimodal Large Language Models Truly Capture Order of Events in Image Sequences?
+title: "Burn After Reading: Do Multimodal Large Language Models Truly Capture Order of Events in Image Sequences?"
 ---
 
 # Burn After Reading: Do Multimodal Large Language Models Truly Capture Order of Events in Image Sequences?

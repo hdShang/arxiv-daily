@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TouchWalker: Real-Time Avatar Locomotion from Touchscreen Finger Walking
+title: "TouchWalker: Real-Time Avatar Locomotion from Touchscreen Finger Walking"
 ---
 
 # TouchWalker: Real-Time Avatar Locomotion from Touchscreen Finger Walking

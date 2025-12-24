@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Enhancing Reinforcement Learning in 3D Environments through Semantic Segmentation: A Case Study in ViZDoom
+title: "Enhancing Reinforcement Learning in 3D Environments through Semantic Segmentation: A Case Study in ViZDoom"
 ---
 
 # Enhancing Reinforcement Learning in 3D Environments through Semantic Segmentation: A Case Study in ViZDoom

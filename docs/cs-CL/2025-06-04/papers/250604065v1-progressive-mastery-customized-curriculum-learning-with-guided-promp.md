@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Progressive Mastery: Customized Curriculum Learning with Guided Prompting for Mathematical Reasoning
+title: "Progressive Mastery: Customized Curriculum Learning with Guided Prompting for Mathematical Reasoning"
 ---
 
 # Progressive Mastery: Customized Curriculum Learning with Guided Prompting for Mathematical Reasoning

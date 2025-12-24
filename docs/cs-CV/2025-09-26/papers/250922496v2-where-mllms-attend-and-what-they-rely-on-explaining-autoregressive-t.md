@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Where MLLMs Attend and What They Rely On: Explaining Autoregressive Token Generation
+title: "Where MLLMs Attend and What They Rely On: Explaining Autoregressive Token Generation"
 ---
 
 # Where MLLMs Attend and What They Rely On: Explaining Autoregressive Token Generation

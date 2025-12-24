@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Temperature Matters: Enhancing Watermark Robustness Against Paraphrasing Attacks
+title: "Temperature Matters: Enhancing Watermark Robustness Against Paraphrasing Attacks"
 ---
 
 # Temperature Matters: Enhancing Watermark Robustness Against Paraphrasing Attacks

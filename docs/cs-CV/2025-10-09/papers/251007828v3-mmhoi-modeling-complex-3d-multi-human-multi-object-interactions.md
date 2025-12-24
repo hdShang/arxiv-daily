@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMHOI: Modeling Complex 3D Multi-Human Multi-Object Interactions
+title: "MMHOI: Modeling Complex 3D Multi-Human Multi-Object Interactions"
 ---
 
 # MMHOI: Modeling Complex 3D Multi-Human Multi-Object Interactions

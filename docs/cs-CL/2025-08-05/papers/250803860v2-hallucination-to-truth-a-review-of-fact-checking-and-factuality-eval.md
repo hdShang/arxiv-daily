@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hallucination to Truth: A Review of Fact-Checking and Factuality Evaluation in Large Language Models
+title: "Hallucination to Truth: A Review of Fact-Checking and Factuality Evaluation in Large Language Models"
 ---
 
 # Hallucination to Truth: A Review of Fact-Checking and Factuality Evaluation in Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TacCompress: A Benchmark for Multi-Point Tactile Data Compression in Dexterous Hand
+title: "TacCompress: A Benchmark for Multi-Point Tactile Data Compression in Dexterous Hand"
 ---
 
 # TacCompress: A Benchmark for Multi-Point Tactile Data Compression in Dexterous Hand

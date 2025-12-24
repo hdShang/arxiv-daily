@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Addressing Corner Cases in Autonomous Driving: A World Model-based Approach with Mixture of Experts and LLMs
+title: "Addressing Corner Cases in Autonomous Driving: A World Model-based Approach with Mixture of Experts and LLMs"
 ---
 
 # Addressing Corner Cases in Autonomous Driving: A World Model-based Approach with Mixture of Experts and LLMs

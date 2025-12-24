@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BEAVR: Bimanual, multi-Embodiment, Accessible, Virtual Reality Teleoperation System for Robots
+title: "BEAVR: Bimanual, multi-Embodiment, Accessible, Virtual Reality Teleoperation System for Robots"
 ---
 
 # BEAVR: Bimanual, multi-Embodiment, Accessible, Virtual Reality Teleoperation System for Robots

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PhysFire-WM: A Physics-Informed World Model for Emulating Fire Spread Dynamics
+title: "PhysFire-WM: A Physics-Informed World Model for Emulating Fire Spread Dynamics"
 ---
 
 # PhysFire-WM: A Physics-Informed World Model for Emulating Fire Spread Dynamics

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pulp Motion: Framing-aware multimodal camera and human motion generation
+title: "Pulp Motion: Framing-aware multimodal camera and human motion generation"
 ---
 
 # Pulp Motion: Framing-aware multimodal camera and human motion generation

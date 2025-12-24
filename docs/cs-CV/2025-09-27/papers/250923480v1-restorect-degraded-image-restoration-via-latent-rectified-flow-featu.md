@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RestoRect: Degraded Image Restoration via Latent Rectified Flow & Feature Distillation
+title: "RestoRect: Degraded Image Restoration via Latent Rectified Flow & Feature Distillation"
 ---
 
 # RestoRect: Degraded Image Restoration via Latent Rectified Flow & Feature Distillation

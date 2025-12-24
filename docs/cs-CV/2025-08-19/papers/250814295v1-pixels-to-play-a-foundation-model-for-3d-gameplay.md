@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pixels to Play: A Foundation Model for 3D Gameplay
+title: "Pixels to Play: A Foundation Model for 3D Gameplay"
 ---
 
 # Pixels to Play: A Foundation Model for 3D Gameplay

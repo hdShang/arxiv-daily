@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IA-VLA: Input Augmentation for Vision-Language-Action models in settings with semantically complex tasks
+title: "IA-VLA: Input Augmentation for Vision-Language-Action models in settings with semantically complex tasks"
 ---
 
 # IA-VLA: Input Augmentation for Vision-Language-Action models in settings with semantically complex tasks

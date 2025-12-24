@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chirality in Action: Time-Aware Video Representation Learning by Latent Straightening
+title: "Chirality in Action: Time-Aware Video Representation Learning by Latent Straightening"
 ---
 
 # Chirality in Action: Time-Aware Video Representation Learning by Latent Straightening

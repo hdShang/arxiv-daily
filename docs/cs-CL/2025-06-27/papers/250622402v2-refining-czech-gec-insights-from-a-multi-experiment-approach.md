@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Refining Czech GEC: Insights from a Multi-Experiment Approach
+title: "Refining Czech GEC: Insights from a Multi-Experiment Approach"
 ---
 
 # Refining Czech GEC: Insights from a Multi-Experiment Approach

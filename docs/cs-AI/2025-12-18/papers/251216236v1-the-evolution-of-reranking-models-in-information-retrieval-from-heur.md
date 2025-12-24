@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Evolution of Reranking Models in Information Retrieval: From Heuristic Methods to Large Language Models
+title: "The Evolution of Reranking Models in Information Retrieval: From Heuristic Methods to Large Language Models"
 ---
 
 # The Evolution of Reranking Models in Information Retrieval: From Heuristic Methods to Large Language Models

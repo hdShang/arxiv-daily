@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LightEMMA: Lightweight End-to-End Multimodal Model for Autonomous Driving
+title: "LightEMMA: Lightweight End-to-End Multimodal Model for Autonomous Driving"
 ---
 
 # LightEMMA: Lightweight End-to-End Multimodal Model for Autonomous Driving

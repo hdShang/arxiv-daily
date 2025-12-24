@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VisionTS++: Cross-Modal Time Series Foundation Model with Continual Pre-trained Vision Backbones
+title: "VisionTS++: Cross-Modal Time Series Foundation Model with Continual Pre-trained Vision Backbones"
 ---
 
 # VisionTS++: Cross-Modal Time Series Foundation Model with Continual Pre-trained Vision Backbones

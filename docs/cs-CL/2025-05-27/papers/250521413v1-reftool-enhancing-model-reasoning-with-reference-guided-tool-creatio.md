@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RefTool: Enhancing Model Reasoning with Reference-Guided Tool Creation
+title: "RefTool: Enhancing Model Reasoning with Reference-Guided Tool Creation"
 ---
 
 # RefTool: Enhancing Model Reasoning with Reference-Guided Tool Creation

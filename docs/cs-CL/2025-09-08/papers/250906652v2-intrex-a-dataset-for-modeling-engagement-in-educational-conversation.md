@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IntrEx: A Dataset for Modeling Engagement in Educational Conversations
+title: "IntrEx: A Dataset for Modeling Engagement in Educational Conversations"
 ---
 
 # IntrEx: A Dataset for Modeling Engagement in Educational Conversations

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DAGDiff: Guiding Dual-Arm Grasp Diffusion to Stable and Collision-Free Grasps
+title: "DAGDiff: Guiding Dual-Arm Grasp Diffusion to Stable and Collision-Free Grasps"
 ---
 
 # DAGDiff: Guiding Dual-Arm Grasp Diffusion to Stable and Collision-Free Grasps

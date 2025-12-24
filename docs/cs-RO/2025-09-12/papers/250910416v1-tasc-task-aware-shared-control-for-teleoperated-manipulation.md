@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TASC: Task-Aware Shared Control for Teleoperated Manipulation
+title: "TASC: Task-Aware Shared Control for Teleoperated Manipulation"
 ---
 
 # TASC: Task-Aware Shared Control for Teleoperated Manipulation

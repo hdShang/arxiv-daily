@@ -1,6 +1,6 @@
 ---
 layout: default
-title: One for All: Update Parameterized Knowledge Across Multiple Models
+title: "One for All: Update Parameterized Knowledge Across Multiple Models"
 ---
 
 # One for All: Update Parameterized Knowledge Across Multiple Models

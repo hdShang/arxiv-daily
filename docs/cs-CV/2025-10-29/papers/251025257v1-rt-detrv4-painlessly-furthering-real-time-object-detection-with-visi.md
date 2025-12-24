@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models
+title: "RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models"
 ---
 
 # RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models

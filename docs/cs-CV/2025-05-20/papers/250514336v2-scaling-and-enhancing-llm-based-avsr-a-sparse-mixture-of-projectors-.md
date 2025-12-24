@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scaling and Enhancing LLM-based AVSR: A Sparse Mixture of Projectors Approach
+title: "Scaling and Enhancing LLM-based AVSR: A Sparse Mixture of Projectors Approach"
 ---
 
 # Scaling and Enhancing LLM-based AVSR: A Sparse Mixture of Projectors Approach

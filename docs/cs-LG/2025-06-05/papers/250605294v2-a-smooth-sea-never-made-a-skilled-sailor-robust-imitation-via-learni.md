@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Smooth Sea Never Made a Skilled SAILOR: Robust Imitation via Learning to Search
+title: "A Smooth Sea Never Made a Skilled SAILOR: Robust Imitation via Learning to Search"
 ---
 
 # A Smooth Sea Never Made a Skilled SAILOR: Robust Imitation via Learning to Search

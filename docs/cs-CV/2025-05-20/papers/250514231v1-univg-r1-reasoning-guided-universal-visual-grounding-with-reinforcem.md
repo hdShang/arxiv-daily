@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning
+title: "UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning"
 ---
 
 # UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReportBench: Evaluating Deep Research Agents via Academic Survey Tasks
+title: "ReportBench: Evaluating Deep Research Agents via Academic Survey Tasks"
 ---
 
 # ReportBench: Evaluating Deep Research Agents via Academic Survey Tasks

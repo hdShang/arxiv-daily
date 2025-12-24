@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Time of the Flight of the Gaussians: Optimizing Depth Indirectly in Dynamic Radiance Fields
+title: "Time of the Flight of the Gaussians: Optimizing Depth Indirectly in Dynamic Radiance Fields"
 ---
 
 # Time of the Flight of the Gaussians: Optimizing Depth Indirectly in Dynamic Radiance Fields

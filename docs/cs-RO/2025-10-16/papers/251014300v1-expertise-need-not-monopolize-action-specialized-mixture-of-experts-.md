@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Expertise need not monopolize: Action-Specialized Mixture of Experts for Vision-Language-Action Learning
+title: "Expertise need not monopolize: Action-Specialized Mixture of Experts for Vision-Language-Action Learning"
 ---
 
 # Expertise need not monopolize: Action-Specialized Mixture of Experts for Vision-Language-Action Learning

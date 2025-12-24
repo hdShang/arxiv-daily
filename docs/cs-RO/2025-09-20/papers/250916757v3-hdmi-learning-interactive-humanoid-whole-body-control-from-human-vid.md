@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HDMI: Learning Interactive Humanoid Whole-Body Control from Human Videos
+title: "HDMI: Learning Interactive Humanoid Whole-Body Control from Human Videos"
 ---
 
 # HDMI: Learning Interactive Humanoid Whole-Body Control from Human Videos

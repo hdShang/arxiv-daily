@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reasoning Vectors: Transferring Chain-of-Thought Capabilities via Task Arithmetic
+title: "Reasoning Vectors: Transferring Chain-of-Thought Capabilities via Task Arithmetic"
 ---
 
 # Reasoning Vectors: Transferring Chain-of-Thought Capabilities via Task Arithmetic

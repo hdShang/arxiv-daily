@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ViSpec: Accelerating Vision-Language Models with Vision-Aware Speculative Decoding
+title: "ViSpec: Accelerating Vision-Language Models with Vision-Aware Speculative Decoding"
 ---
 
 # ViSpec: Accelerating Vision-Language Models with Vision-Aware Speculative Decoding

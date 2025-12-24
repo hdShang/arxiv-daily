@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CostNav: A Navigation Benchmark for Cost-Aware Evaluation of Embodied Agents
+title: "CostNav: A Navigation Benchmark for Cost-Aware Evaluation of Embodied Agents"
 ---
 
 # CostNav: A Navigation Benchmark for Cost-Aware Evaluation of Embodied Agents

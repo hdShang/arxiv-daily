@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MGCA-Net: Multi-Grained Category-Aware Network for Open-Vocabulary Temporal Action Localization
+title: "MGCA-Net: Multi-Grained Category-Aware Network for Open-Vocabulary Temporal Action Localization"
 ---
 
 # MGCA-Net: Multi-Grained Category-Aware Network for Open-Vocabulary Temporal Action Localization

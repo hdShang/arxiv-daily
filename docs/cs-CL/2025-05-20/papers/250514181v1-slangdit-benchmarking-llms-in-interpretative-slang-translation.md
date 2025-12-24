@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SlangDIT: Benchmarking LLMs in Interpretative Slang Translation
+title: "SlangDIT: Benchmarking LLMs in Interpretative Slang Translation"
 ---
 
 # SlangDIT: Benchmarking LLMs in Interpretative Slang Translation

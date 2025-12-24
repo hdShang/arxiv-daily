@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniHuman-1.5: Instilling an Active Mind in Avatars via Cognitive Simulation
+title: "OmniHuman-1.5: Instilling an Active Mind in Avatars via Cognitive Simulation"
 ---
 
 # OmniHuman-1.5: Instilling an Active Mind in Avatars via Cognitive Simulation

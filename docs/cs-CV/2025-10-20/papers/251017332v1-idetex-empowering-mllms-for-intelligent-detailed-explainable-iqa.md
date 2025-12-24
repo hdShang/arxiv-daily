@@ -1,6 +1,6 @@
 ---
 layout: default
-title: iDETEX: Empowering MLLMs for Intelligent DETailed EXplainable IQA
+title: "iDETEX: Empowering MLLMs for Intelligent DETailed EXplainable IQA"
 ---
 
 # iDETEX: Empowering MLLMs for Intelligent DETailed EXplainable IQA

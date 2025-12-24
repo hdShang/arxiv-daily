@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rank, Chunk and Expand: Lineage-Oriented Reasoning for Taxonomy Expansion
+title: "Rank, Chunk and Expand: Lineage-Oriented Reasoning for Taxonomy Expansion"
 ---
 
 # Rank, Chunk and Expand: Lineage-Oriented Reasoning for Taxonomy Expansion

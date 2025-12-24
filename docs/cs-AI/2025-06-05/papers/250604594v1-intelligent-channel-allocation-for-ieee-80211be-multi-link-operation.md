@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM
+title: "Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM"
 ---
 
 # Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM

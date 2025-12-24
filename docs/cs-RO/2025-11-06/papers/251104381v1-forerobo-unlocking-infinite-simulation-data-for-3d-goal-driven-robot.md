@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ForeRobo: Unlocking Infinite Simulation Data for 3D Goal-driven Robotic Manipulation
+title: "ForeRobo: Unlocking Infinite Simulation Data for 3D Goal-driven Robotic Manipulation"
 ---
 
 # ForeRobo: Unlocking Infinite Simulation Data for 3D Goal-driven Robotic Manipulation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BEFT: Bias-Efficient Fine-Tuning of Language Models
+title: "BEFT: Bias-Efficient Fine-Tuning of Language Models"
 ---
 
 # BEFT: Bias-Efficient Fine-Tuning of Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EGTM: Event-guided Efficient Turbulence Mitigation
+title: "EGTM: Event-guided Efficient Turbulence Mitigation"
 ---
 
 # EGTM: Event-guided Efficient Turbulence Mitigation

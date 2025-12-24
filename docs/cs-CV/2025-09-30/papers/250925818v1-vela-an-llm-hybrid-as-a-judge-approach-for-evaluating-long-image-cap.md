@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VELA: An LLM-Hybrid-as-a-Judge Approach for Evaluating Long Image Captions
+title: "VELA: An LLM-Hybrid-as-a-Judge Approach for Evaluating Long Image Captions"
 ---
 
 # VELA: An LLM-Hybrid-as-a-Judge Approach for Evaluating Long Image Captions

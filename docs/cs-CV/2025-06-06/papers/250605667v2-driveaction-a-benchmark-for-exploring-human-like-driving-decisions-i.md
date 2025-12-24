@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DriveAction: A Benchmark for Exploring Human-like Driving Decisions in VLA Models
+title: "DriveAction: A Benchmark for Exploring Human-like Driving Decisions in VLA Models"
 ---
 
 # DriveAction: A Benchmark for Exploring Human-like Driving Decisions in VLA Models

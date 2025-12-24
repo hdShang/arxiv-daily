@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Oyster-I: Beyond Refusal -- Constructive Safety Alignment for Responsible Language Models
+title: "Oyster-I: Beyond Refusal -- Constructive Safety Alignment for Responsible Language Models"
 ---
 
 # Oyster-I: Beyond Refusal -- Constructive Safety Alignment for Responsible Language Models

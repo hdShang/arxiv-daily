@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FLIP: Flowability-Informed Powder Weighing
+title: "FLIP: Flowability-Informed Powder Weighing"
 ---
 
 # FLIP: Flowability-Informed Powder Weighing

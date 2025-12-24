@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VideoMathQA: Benchmarking Mathematical Reasoning via Multimodal Understanding in Videos
+title: "VideoMathQA: Benchmarking Mathematical Reasoning via Multimodal Understanding in Videos"
 ---
 
 # VideoMathQA: Benchmarking Mathematical Reasoning via Multimodal Understanding in Videos

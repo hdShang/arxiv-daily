@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DM-SegNet: Dual-Mamba Architecture for 3D Medical Image Segmentation with Global Context Modeling
+title: "DM-SegNet: Dual-Mamba Architecture for 3D Medical Image Segmentation with Global Context Modeling"
 ---
 
 # DM-SegNet: Dual-Mamba Architecture for 3D Medical Image Segmentation with Global Context Modeling

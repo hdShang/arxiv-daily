@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Enhancing Zero-Shot Anomaly Detection: CLIP-SAM Collaboration with Cascaded Prompts
+title: "Enhancing Zero-Shot Anomaly Detection: CLIP-SAM Collaboration with Cascaded Prompts"
 ---
 
 # Enhancing Zero-Shot Anomaly Detection: CLIP-SAM Collaboration with Cascaded Prompts

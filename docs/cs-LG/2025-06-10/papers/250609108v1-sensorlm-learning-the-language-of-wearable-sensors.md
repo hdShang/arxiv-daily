@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SensorLM: Learning the Language of Wearable Sensors
+title: "SensorLM: Learning the Language of Wearable Sensors"
 ---
 
 # SensorLM: Learning the Language of Wearable Sensors

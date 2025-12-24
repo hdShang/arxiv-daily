@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MiniLongBench: The Low-cost Long Context Understanding Benchmark for Large Language Models
+title: "MiniLongBench: The Low-cost Long Context Understanding Benchmark for Large Language Models"
 ---
 
 # MiniLongBench: The Low-cost Long Context Understanding Benchmark for Large Language Models

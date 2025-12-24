@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GemMaroc: Unlocking Darija Proficiency in LLMs with Minimal Data
+title: "GemMaroc: Unlocking Darija Proficiency in LLMs with Minimal Data"
 ---
 
 # GemMaroc: Unlocking Darija Proficiency in LLMs with Minimal Data

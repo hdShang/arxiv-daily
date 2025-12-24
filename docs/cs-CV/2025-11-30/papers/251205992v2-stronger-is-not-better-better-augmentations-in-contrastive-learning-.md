@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stronger is not better: Better Augmentations in Contrastive Learning for Medical Image Segmentation
+title: "Stronger is not better: Better Augmentations in Contrastive Learning for Medical Image Segmentation"
 ---
 
 # Stronger is not better: Better Augmentations in Contrastive Learning for Medical Image Segmentation

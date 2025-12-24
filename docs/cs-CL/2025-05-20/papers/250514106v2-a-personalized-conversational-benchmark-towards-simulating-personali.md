@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Personalized Conversational Benchmark: Towards Simulating Personalized Conversations
+title: "A Personalized Conversational Benchmark: Towards Simulating Personalized Conversations"
 ---
 
 # A Personalized Conversational Benchmark: Towards Simulating Personalized Conversations

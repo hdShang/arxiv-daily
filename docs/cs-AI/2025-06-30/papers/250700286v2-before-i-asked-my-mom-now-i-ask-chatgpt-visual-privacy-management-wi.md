@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Before, I Asked My Mom, Now I Ask ChatGPT": Visual Privacy Management with Generative AI for Blind and Low-Vision People
+title: "\"Before, I Asked My Mom, Now I Ask ChatGPT\": Visual Privacy Management with Generative AI for Blind and Low-Vision People"
 ---
 
 # "Before, I Asked My Mom, Now I Ask ChatGPT": Visual Privacy Management with Generative AI for Blind and Low-Vision People

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MME-VideoOCR: Evaluating OCR-Based Capabilities of Multimodal LLMs in Video Scenarios
+title: "MME-VideoOCR: Evaluating OCR-Based Capabilities of Multimodal LLMs in Video Scenarios"
 ---
 
 # MME-VideoOCR: Evaluating OCR-Based Capabilities of Multimodal LLMs in Video Scenarios

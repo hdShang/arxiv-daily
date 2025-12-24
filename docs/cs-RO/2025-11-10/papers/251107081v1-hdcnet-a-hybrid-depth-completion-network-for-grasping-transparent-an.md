@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HDCNet: A Hybrid Depth Completion Network for Grasping Transparent and Reflective Objects
+title: "HDCNet: A Hybrid Depth Completion Network for Grasping Transparent and Reflective Objects"
 ---
 
 # HDCNet: A Hybrid Depth Completion Network for Grasping Transparent and Reflective Objects

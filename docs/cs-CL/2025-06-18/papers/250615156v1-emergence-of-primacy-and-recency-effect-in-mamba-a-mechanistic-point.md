@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Emergence of Primacy and Recency Effect in Mamba: A Mechanistic Point of View
+title: "Emergence of Primacy and Recency Effect in Mamba: A Mechanistic Point of View"
 ---
 
 # Emergence of Primacy and Recency Effect in Mamba: A Mechanistic Point of View

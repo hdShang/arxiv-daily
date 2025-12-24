@@ -1,6 +1,6 @@
 ---
 layout: default
-title: pc-dbCBS: Kinodynamic Motion Planning of Physically-Coupled Robot Teams
+title: "pc-dbCBS: Kinodynamic Motion Planning of Physically-Coupled Robot Teams"
 ---
 
 # pc-dbCBS: Kinodynamic Motion Planning of Physically-Coupled Robot Teams

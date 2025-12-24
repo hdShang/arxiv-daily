@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Latent Traits and Cross-Task Transfer: Deconstructing Dataset Interactions in LLM Fine-tuning
+title: "Latent Traits and Cross-Task Transfer: Deconstructing Dataset Interactions in LLM Fine-tuning"
 ---
 
 # Latent Traits and Cross-Task Transfer: Deconstructing Dataset Interactions in LLM Fine-tuning

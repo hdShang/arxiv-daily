@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboOmni: Proactive Robot Manipulation in Omni-modal Context
+title: "RoboOmni: Proactive Robot Manipulation in Omni-modal Context"
 ---
 
 # RoboOmni: Proactive Robot Manipulation in Omni-modal Context

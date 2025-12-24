@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What Is The Political Content in LLMs' Pre- and Post-Training Data?
+title: "What Is The Political Content in LLMs' Pre- and Post-Training Data?"
 ---
 
 # What Is The Political Content in LLMs' Pre- and Post-Training Data?

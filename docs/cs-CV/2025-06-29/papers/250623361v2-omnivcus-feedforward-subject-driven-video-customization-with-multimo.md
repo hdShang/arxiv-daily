@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions
+title: "OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions"
 ---
 
 # OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QuantGraph: A Receding-Horizon Quantum Graph Solver
+title: "QuantGraph: A Receding-Horizon Quantum Graph Solver"
 ---
 
 # QuantGraph: A Receding-Horizon Quantum Graph Solver

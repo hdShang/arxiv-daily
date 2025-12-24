@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FreeInsert: Disentangled Text-Guided Object Insertion in 3D Gaussian Scene without Spatial Priors
+title: "FreeInsert: Disentangled Text-Guided Object Insertion in 3D Gaussian Scene without Spatial Priors"
 ---
 
 # FreeInsert: Disentangled Text-Guided Object Insertion in 3D Gaussian Scene without Spatial Priors

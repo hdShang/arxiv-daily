@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CycleDistill: Bootstrapping Machine Translation using LLMs with Cyclical Distillation
+title: "CycleDistill: Bootstrapping Machine Translation using LLMs with Cyclical Distillation"
 ---
 
 # CycleDistill: Bootstrapping Machine Translation using LLMs with Cyclical Distillation

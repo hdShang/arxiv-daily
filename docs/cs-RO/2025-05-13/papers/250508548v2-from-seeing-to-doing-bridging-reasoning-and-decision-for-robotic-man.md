@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation
+title: "From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation"
 ---
 
 # From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation

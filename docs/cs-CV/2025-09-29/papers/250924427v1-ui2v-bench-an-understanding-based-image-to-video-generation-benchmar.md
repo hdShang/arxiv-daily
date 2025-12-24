@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UI2V-Bench: An Understanding-based Image-to-video Generation Benchmark
+title: "UI2V-Bench: An Understanding-based Image-to-video Generation Benchmark"
 ---
 
 # UI2V-Bench: An Understanding-based Image-to-video Generation Benchmark

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DropLoRA: Sparse Low-Rank Adaptation for Parameter-Efficient Fine-Tuning
+title: "DropLoRA: Sparse Low-Rank Adaptation for Parameter-Efficient Fine-Tuning"
 ---
 
 # DropLoRA: Sparse Low-Rank Adaptation for Parameter-Efficient Fine-Tuning

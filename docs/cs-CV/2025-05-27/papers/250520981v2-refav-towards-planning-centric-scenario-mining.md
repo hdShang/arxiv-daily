@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RefAV: Towards Planning-Centric Scenario Mining
+title: "RefAV: Towards Planning-Centric Scenario Mining"
 ---
 
 # RefAV: Towards Planning-Centric Scenario Mining

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GateMABSA: Aspect-Image Gated Fusion for Multimodal Aspect-based Sentiment Analysis
+title: "GateMABSA: Aspect-Image Gated Fusion for Multimodal Aspect-based Sentiment Analysis"
 ---
 
 # GateMABSA: Aspect-Image Gated Fusion for Multimodal Aspect-based Sentiment Analysis

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gesplat: Robust Pose-Free 3D Reconstruction via Geometry-Guided Gaussian Splatting
+title: "Gesplat: Robust Pose-Free 3D Reconstruction via Geometry-Guided Gaussian Splatting"
 ---
 
 # Gesplat: Robust Pose-Free 3D Reconstruction via Geometry-Guided Gaussian Splatting

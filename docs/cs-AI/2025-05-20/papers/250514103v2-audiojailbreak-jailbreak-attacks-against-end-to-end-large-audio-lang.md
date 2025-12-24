@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AudioJailbreak: Jailbreak Attacks against End-to-End Large Audio-Language Models
+title: "AudioJailbreak: Jailbreak Attacks against End-to-End Large Audio-Language Models"
 ---
 
 # AudioJailbreak: Jailbreak Attacks against End-to-End Large Audio-Language Models

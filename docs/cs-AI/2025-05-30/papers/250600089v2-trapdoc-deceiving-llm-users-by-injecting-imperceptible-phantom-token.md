@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TRAPDOC: Deceiving LLM Users by Injecting Imperceptible Phantom Tokens into Documents
+title: "TRAPDOC: Deceiving LLM Users by Injecting Imperceptible Phantom Tokens into Documents"
 ---
 
 # TRAPDOC: Deceiving LLM Users by Injecting Imperceptible Phantom Tokens into Documents

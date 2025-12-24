@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboMoRe: LLM-based Robot Co-design via Joint Optimization of Morphology and Reward
+title: "RoboMoRe: LLM-based Robot Co-design via Joint Optimization of Morphology and Reward"
 ---
 
 # RoboMoRe: LLM-based Robot Co-design via Joint Optimization of Morphology and Reward

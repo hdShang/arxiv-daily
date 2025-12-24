@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TrueCity: Real and Simulated Urban Data for Cross-Domain 3D Scene Understanding
+title: "TrueCity: Real and Simulated Urban Data for Cross-Domain 3D Scene Understanding"
 ---
 
 # TrueCity: Real and Simulated Urban Data for Cross-Domain 3D Scene Understanding

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QoNext: Towards Next-generation QoE for Foundation Models
+title: "QoNext: Towards Next-generation QoE for Foundation Models"
 ---
 
 # QoNext: Towards Next-generation QoE for Foundation Models

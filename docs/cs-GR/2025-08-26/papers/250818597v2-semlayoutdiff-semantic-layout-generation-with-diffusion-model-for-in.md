@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SemLayoutDiff: Semantic Layout Generation with Diffusion Model for Indoor Scene Synthesis
+title: "SemLayoutDiff: Semantic Layout Generation with Diffusion Model for Indoor Scene Synthesis"
 ---
 
 # SemLayoutDiff: Semantic Layout Generation with Diffusion Model for Indoor Scene Synthesis

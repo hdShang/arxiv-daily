@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LongEmotion: Measuring Emotional Intelligence of Large Language Models in Long-Context Interaction
+title: "LongEmotion: Measuring Emotional Intelligence of Large Language Models in Long-Context Interaction"
 ---
 
 # LongEmotion: Measuring Emotional Intelligence of Large Language Models in Long-Context Interaction

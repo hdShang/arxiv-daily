@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OG-PCL: Efficient Sparse Point Cloud Processing for Human Activity Recognition
+title: "OG-PCL: Efficient Sparse Point Cloud Processing for Human Activity Recognition"
 ---
 
 # OG-PCL: Efficient Sparse Point Cloud Processing for Human Activity Recognition

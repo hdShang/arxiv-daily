@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News
+title: "The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News"
 ---
 
 # The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News

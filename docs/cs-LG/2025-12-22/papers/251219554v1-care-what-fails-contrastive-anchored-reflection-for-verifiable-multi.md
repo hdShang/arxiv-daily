@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CARE What Fails: Contrastive Anchored-REflection for Verifiable Multimodal
+title: "CARE What Fails: Contrastive Anchored-REflection for Verifiable Multimodal"
 ---
 
 # CARE What Fails: Contrastive Anchored-REflection for Verifiable Multimodal

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Efficient-VLN: A Training-Efficient Vision-Language Navigation Model
+title: "Efficient-VLN: A Training-Efficient Vision-Language Navigation Model"
 ---
 
 # Efficient-VLN: A Training-Efficient Vision-Language Navigation Model

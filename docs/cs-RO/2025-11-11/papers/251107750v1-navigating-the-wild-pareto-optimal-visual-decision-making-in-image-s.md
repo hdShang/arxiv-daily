@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Navigating the Wild: Pareto-Optimal Visual Decision-Making in Image Space
+title: "Navigating the Wild: Pareto-Optimal Visual Decision-Making in Image Space"
 ---
 
 # Navigating the Wild: Pareto-Optimal Visual Decision-Making in Image Space

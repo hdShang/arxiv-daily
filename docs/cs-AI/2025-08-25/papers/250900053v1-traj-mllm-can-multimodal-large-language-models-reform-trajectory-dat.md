@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Traj-MLLM: Can Multimodal Large Language Models Reform Trajectory Data Mining?
+title: "Traj-MLLM: Can Multimodal Large Language Models Reform Trajectory Data Mining?"
 ---
 
 # Traj-MLLM: Can Multimodal Large Language Models Reform Trajectory Data Mining?

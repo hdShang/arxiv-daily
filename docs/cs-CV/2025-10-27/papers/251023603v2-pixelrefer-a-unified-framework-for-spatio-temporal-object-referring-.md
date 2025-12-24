@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PixelRefer: A Unified Framework for Spatio-Temporal Object Referring with Arbitrary Granularity
+title: "PixelRefer: A Unified Framework for Spatio-Temporal Object Referring with Arbitrary Granularity"
 ---
 
 # PixelRefer: A Unified Framework for Spatio-Temporal Object Referring with Arbitrary Granularity

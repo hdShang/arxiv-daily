@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMPart: Harnessing Multi-Modal Large Language Models for Part-Aware 3D Generation
+title: "MMPart: Harnessing Multi-Modal Large Language Models for Part-Aware 3D Generation"
 ---
 
 # MMPart: Harnessing Multi-Modal Large Language Models for Part-Aware 3D Generation

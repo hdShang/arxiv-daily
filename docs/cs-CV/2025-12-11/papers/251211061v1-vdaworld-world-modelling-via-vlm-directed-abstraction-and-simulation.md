@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VDAWorld: World Modelling via VLM-Directed Abstraction and Simulation
+title: "VDAWorld: World Modelling via VLM-Directed Abstraction and Simulation"
 ---
 
 # VDAWorld: World Modelling via VLM-Directed Abstraction and Simulation

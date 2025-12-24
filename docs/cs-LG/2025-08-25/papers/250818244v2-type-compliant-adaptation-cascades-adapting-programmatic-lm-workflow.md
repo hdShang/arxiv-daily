@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Type-Compliant Adaptation Cascades: Adapting Programmatic LM Workflows to Data
+title: "Type-Compliant Adaptation Cascades: Adapting Programmatic LM Workflows to Data"
 ---
 
 # Type-Compliant Adaptation Cascades: Adapting Programmatic LM Workflows to Data

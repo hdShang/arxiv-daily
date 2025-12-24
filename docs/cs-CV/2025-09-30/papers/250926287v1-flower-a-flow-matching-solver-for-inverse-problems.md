@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FLOWER: A Flow-Matching Solver for Inverse Problems
+title: "FLOWER: A Flow-Matching Solver for Inverse Problems"
 ---
 
 # FLOWER: A Flow-Matching Solver for Inverse Problems

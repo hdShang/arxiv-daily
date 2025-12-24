@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GPT-5 Model Corrected GPT-4V's Chart Reading Errors, Not Prompting
+title: "GPT-5 Model Corrected GPT-4V's Chart Reading Errors, Not Prompting"
 ---
 
 # GPT-5 Model Corrected GPT-4V's Chart Reading Errors, Not Prompting

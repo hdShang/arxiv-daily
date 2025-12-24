@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AIVA: An AI-based Virtual Companion for Emotion-aware Interaction
+title: "AIVA: An AI-based Virtual Companion for Emotion-aware Interaction"
 ---
 
 # AIVA: An AI-based Virtual Companion for Emotion-aware Interaction

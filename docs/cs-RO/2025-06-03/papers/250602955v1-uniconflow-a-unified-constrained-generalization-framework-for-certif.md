@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniConFlow: A Unified Constrained Generalization Framework for Certified Motion Planning with Flow Matching Models
+title: "UniConFlow: A Unified Constrained Generalization Framework for Certified Motion Planning with Flow Matching Models"
 ---
 
 # UniConFlow: A Unified Constrained Generalization Framework for Certified Motion Planning with Flow Matching Models

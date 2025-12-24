@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Toward Real-world Text Image Forgery Localization: Structured and Interpretable Data Synthesis
+title: "Toward Real-world Text Image Forgery Localization: Structured and Interpretable Data Synthesis"
 ---
 
 # Toward Real-world Text Image Forgery Localization: Structured and Interpretable Data Synthesis

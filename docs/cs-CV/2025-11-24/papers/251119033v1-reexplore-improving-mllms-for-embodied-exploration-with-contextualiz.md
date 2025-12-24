@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReEXplore: Improving MLLMs for Embodied Exploration with Contextualized Retrospective Experience Replay
+title: "ReEXplore: Improving MLLMs for Embodied Exploration with Contextualized Retrospective Experience Replay"
 ---
 
 # ReEXplore: Improving MLLMs for Embodied Exploration with Contextualized Retrospective Experience Replay

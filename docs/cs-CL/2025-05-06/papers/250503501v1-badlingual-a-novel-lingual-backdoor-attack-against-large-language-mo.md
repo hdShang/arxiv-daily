@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BadLingual: A Novel Lingual-Backdoor Attack against Large Language Models
+title: "BadLingual: A Novel Lingual-Backdoor Attack against Large Language Models"
 ---
 
 # BadLingual: A Novel Lingual-Backdoor Attack against Large Language Models

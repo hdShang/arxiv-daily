@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Rogue to Safe AI: The Role of Explicit Refusals in Aligning LLMs with International Humanitarian Law
+title: "From Rogue to Safe AI: The Role of Explicit Refusals in Aligning LLMs with International Humanitarian Law"
 ---
 
 # From Rogue to Safe AI: The Role of Explicit Refusals in Aligning LLMs with International Humanitarian Law

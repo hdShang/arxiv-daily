@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Toward Humanoid Brain-Body Co-design: Joint Optimization of Control and Morphology for Fall Recovery
+title: "Toward Humanoid Brain-Body Co-design: Joint Optimization of Control and Morphology for Fall Recovery"
 ---
 
 # Toward Humanoid Brain-Body Co-design: Joint Optimization of Control and Morphology for Fall Recovery

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models
+title: "Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models"
 ---
 
 # Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Artificially Fluent: Swahili AI Performance Benchmarks Between English-Trained and Natively-Trained Datasets
+title: "Artificially Fluent: Swahili AI Performance Benchmarks Between English-Trained and Natively-Trained Datasets"
 ---
 
 # Artificially Fluent: Swahili AI Performance Benchmarks Between English-Trained and Natively-Trained Datasets

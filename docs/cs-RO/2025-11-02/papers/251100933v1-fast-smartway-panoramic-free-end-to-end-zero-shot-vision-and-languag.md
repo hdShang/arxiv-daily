@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fast-SmartWay: Panoramic-Free End-to-End Zero-Shot Vision-and-Language Navigation
+title: "Fast-SmartWay: Panoramic-Free End-to-End Zero-Shot Vision-and-Language Navigation"
 ---
 
 # Fast-SmartWay: Panoramic-Free End-to-End Zero-Shot Vision-and-Language Navigation

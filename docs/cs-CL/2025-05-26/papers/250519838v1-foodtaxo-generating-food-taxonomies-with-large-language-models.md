@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FoodTaxo: Generating Food Taxonomies with Large Language Models
+title: "FoodTaxo: Generating Food Taxonomies with Large Language Models"
 ---
 
 # FoodTaxo: Generating Food Taxonomies with Large Language Models

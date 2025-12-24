@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization
+title: "CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization"
 ---
 
 # CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization

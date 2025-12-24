@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Artificial Microsaccade Compensation: Stable Vision for an Ornithopter
+title: "Artificial Microsaccade Compensation: Stable Vision for an Ornithopter"
 ---
 
 # Artificial Microsaccade Compensation: Stable Vision for an Ornithopter

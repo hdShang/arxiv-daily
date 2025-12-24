@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bridging Modalities and Transferring Knowledge: Enhanced Multimodal Understanding and Recognition
+title: "Bridging Modalities and Transferring Knowledge: Enhanced Multimodal Understanding and Recognition"
 ---
 
 # Bridging Modalities and Transferring Knowledge: Enhanced Multimodal Understanding and Recognition

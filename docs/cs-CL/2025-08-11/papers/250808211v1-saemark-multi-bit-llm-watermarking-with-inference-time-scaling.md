@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SAEMark: Multi-bit LLM Watermarking with Inference-Time Scaling
+title: "SAEMark: Multi-bit LLM Watermarking with Inference-Time Scaling"
 ---
 
 # SAEMark: Multi-bit LLM Watermarking with Inference-Time Scaling

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VFP: Variational Flow-Matching Policy for Multi-Modal Robot Manipulation
+title: "VFP: Variational Flow-Matching Policy for Multi-Modal Robot Manipulation"
 ---
 
 # VFP: Variational Flow-Matching Policy for Multi-Modal Robot Manipulation

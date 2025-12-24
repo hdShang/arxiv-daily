@@ -1,6 +1,6 @@
 ---
 layout: default
-title: $\texttt{BluePrint}$: A Social Media User Dataset for LLM Persona Evaluation and Training
+title: "$\\texttt{BluePrint}$: A Social Media User Dataset for LLM Persona Evaluation and Training"
 ---
 
 # $\texttt{BluePrint}$: A Social Media User Dataset for LLM Persona Evaluation and Training

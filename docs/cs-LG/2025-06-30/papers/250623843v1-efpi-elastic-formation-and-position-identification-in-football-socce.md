@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EFPI: Elastic Formation and Position Identification in Football (Soccer) using Template Matching and Linear Assignment
+title: "EFPI: Elastic Formation and Position Identification in Football (Soccer) using Template Matching and Linear Assignment"
 ---
 
 # EFPI: Elastic Formation and Position Identification in Football (Soccer) using Template Matching and Linear Assignment

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AKD : Adversarial Knowledge Distillation For Large Language Models Alignment on Coding tasks
+title: "AKD : Adversarial Knowledge Distillation For Large Language Models Alignment on Coding tasks"
 ---
 
 # AKD : Adversarial Knowledge Distillation For Large Language Models Alignment on Coding tasks

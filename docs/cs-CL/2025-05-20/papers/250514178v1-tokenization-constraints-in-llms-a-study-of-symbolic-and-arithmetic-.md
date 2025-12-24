@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tokenization Constraints in LLMs: A Study of Symbolic and Arithmetic Reasoning Limits
+title: "Tokenization Constraints in LLMs: A Study of Symbolic and Arithmetic Reasoning Limits"
 ---
 
 # Tokenization Constraints in LLMs: A Study of Symbolic and Arithmetic Reasoning Limits

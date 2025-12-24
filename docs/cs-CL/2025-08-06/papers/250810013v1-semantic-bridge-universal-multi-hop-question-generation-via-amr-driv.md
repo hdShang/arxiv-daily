@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Semantic Bridge: Universal Multi-Hop Question Generation via AMR-Driven Graph Synthesis
+title: "Semantic Bridge: Universal Multi-Hop Question Generation via AMR-Driven Graph Synthesis"
 ---
 
 # Semantic Bridge: Universal Multi-Hop Question Generation via AMR-Driven Graph Synthesis

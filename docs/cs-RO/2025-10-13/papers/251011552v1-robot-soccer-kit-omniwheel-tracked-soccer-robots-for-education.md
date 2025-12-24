@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Robot Soccer Kit: Omniwheel Tracked Soccer Robots for Education
+title: "Robot Soccer Kit: Omniwheel Tracked Soccer Robots for Education"
 ---
 
 # Robot Soccer Kit: Omniwheel Tracked Soccer Robots for Education

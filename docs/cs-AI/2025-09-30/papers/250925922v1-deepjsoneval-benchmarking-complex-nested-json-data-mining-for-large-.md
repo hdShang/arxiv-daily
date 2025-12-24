@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeepJSONEval: Benchmarking Complex Nested JSON Data Mining for Large Language Models
+title: "DeepJSONEval: Benchmarking Complex Nested JSON Data Mining for Large Language Models"
 ---
 
 # DeepJSONEval: Benchmarking Complex Nested JSON Data Mining for Large Language Models

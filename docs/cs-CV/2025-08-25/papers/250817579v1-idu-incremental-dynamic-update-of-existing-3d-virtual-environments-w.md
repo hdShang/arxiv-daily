@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IDU: Incremental Dynamic Update of Existing 3D Virtual Environments with New Imagery Data
+title: "IDU: Incremental Dynamic Update of Existing 3D Virtual Environments with New Imagery Data"
 ---
 
 # IDU: Incremental Dynamic Update of Existing 3D Virtual Environments with New Imagery Data

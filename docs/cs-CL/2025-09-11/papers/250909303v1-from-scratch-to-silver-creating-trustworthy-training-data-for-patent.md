@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From scratch to silver: Creating trustworthy training data for patent-SDG classification using Large Language Models
+title: "From scratch to silver: Creating trustworthy training data for patent-SDG classification using Large Language Models"
 ---
 
 # From scratch to silver: Creating trustworthy training data for patent-SDG classification using Large Language Models

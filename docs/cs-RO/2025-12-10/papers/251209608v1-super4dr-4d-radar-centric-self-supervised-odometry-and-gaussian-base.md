@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Super4DR: 4D Radar-centric Self-supervised Odometry and Gaussian-based Map Optimization
+title: "Super4DR: 4D Radar-centric Self-supervised Odometry and Gaussian-based Map Optimization"
 ---
 
 # Super4DR: 4D Radar-centric Self-supervised Odometry and Gaussian-based Map Optimization

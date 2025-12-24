@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mamba: Linear-Time Sequence Modeling with Selective State Spaces
+title: "Mamba: Linear-Time Sequence Modeling with Selective State Spaces"
 ---
 
 # Mamba: Linear-Time Sequence Modeling with Selective State Spaces

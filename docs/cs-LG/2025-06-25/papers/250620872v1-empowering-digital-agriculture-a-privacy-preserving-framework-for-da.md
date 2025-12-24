@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Empowering Digital Agriculture: A Privacy-Preserving Framework for Data Sharing and Collaborative Research
+title: "Empowering Digital Agriculture: A Privacy-Preserving Framework for Data Sharing and Collaborative Research"
 ---
 
 # Empowering Digital Agriculture: A Privacy-Preserving Framework for Data Sharing and Collaborative Research

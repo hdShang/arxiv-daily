@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Iterative Residual Cross-Attention Mechanism: An Integrated Approach for Audio-Visual Navigation Tasks
+title: "Iterative Residual Cross-Attention Mechanism: An Integrated Approach for Audio-Visual Navigation Tasks"
 ---
 
 # Iterative Residual Cross-Attention Mechanism: An Integrated Approach for Audio-Visual Navigation Tasks

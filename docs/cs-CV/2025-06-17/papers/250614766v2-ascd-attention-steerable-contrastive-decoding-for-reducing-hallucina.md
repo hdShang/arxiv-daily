@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLM
+title: "ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLM"
 ---
 
 # ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLM

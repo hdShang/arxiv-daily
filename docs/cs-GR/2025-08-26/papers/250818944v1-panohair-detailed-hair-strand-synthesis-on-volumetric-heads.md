@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PanoHair: Detailed Hair Strand Synthesis on Volumetric Heads
+title: "PanoHair: Detailed Hair Strand Synthesis on Volumetric Heads"
 ---
 
 # PanoHair: Detailed Hair Strand Synthesis on Volumetric Heads

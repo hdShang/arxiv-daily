@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Supporting Our AI Overlords: Redesigning Data Systems to be Agent-First
+title: "Supporting Our AI Overlords: Redesigning Data Systems to be Agent-First"
 ---
 
 # Supporting Our AI Overlords: Redesigning Data Systems to be Agent-First

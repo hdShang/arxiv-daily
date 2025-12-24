@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wall Inspector: Quadrotor Control in Wall-proximity Through Model Compensation
+title: "Wall Inspector: Quadrotor Control in Wall-proximity Through Model Compensation"
 ---
 
 # Wall Inspector: Quadrotor Control in Wall-proximity Through Model Compensation

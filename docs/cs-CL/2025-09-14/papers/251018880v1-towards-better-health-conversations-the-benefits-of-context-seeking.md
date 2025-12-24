@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Better Health Conversations: The Benefits of Context-seeking
+title: "Towards Better Health Conversations: The Benefits of Context-seeking"
 ---
 
 # Towards Better Health Conversations: The Benefits of Context-seeking

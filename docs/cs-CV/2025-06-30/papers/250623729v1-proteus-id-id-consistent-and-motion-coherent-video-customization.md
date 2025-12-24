@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Proteus-ID: ID-Consistent and Motion-Coherent Video Customization
+title: "Proteus-ID: ID-Consistent and Motion-Coherent Video Customization"
 ---
 
 # Proteus-ID: ID-Consistent and Motion-Coherent Video Customization

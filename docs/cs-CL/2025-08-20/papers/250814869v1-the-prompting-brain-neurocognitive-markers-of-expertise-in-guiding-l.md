@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Prompting Brain: Neurocognitive Markers of Expertise in Guiding Large Language Models
+title: "The Prompting Brain: Neurocognitive Markers of Expertise in Guiding Large Language Models"
 ---
 
 # The Prompting Brain: Neurocognitive Markers of Expertise in Guiding Large Language Models

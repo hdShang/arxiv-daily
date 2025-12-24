@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniHOI: Unified Human-Object Interaction Understanding via Unified Token Space
+title: "UniHOI: Unified Human-Object Interaction Understanding via Unified Token Space"
 ---
 
 # UniHOI: Unified Human-Object Interaction Understanding via Unified Token Space

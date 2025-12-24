@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OccTENS: 3D Occupancy World Model via Temporal Next-Scale Prediction
+title: "OccTENS: 3D Occupancy World Model via Temporal Next-Scale Prediction"
 ---
 
 # OccTENS: 3D Occupancy World Model via Temporal Next-Scale Prediction

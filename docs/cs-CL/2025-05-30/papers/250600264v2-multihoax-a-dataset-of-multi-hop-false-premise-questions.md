@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MultiHoax: A Dataset of Multi-hop False-Premise Questions
+title: "MultiHoax: A Dataset of Multi-hop False-Premise Questions"
 ---
 
 # MultiHoax: A Dataset of Multi-hop False-Premise Questions

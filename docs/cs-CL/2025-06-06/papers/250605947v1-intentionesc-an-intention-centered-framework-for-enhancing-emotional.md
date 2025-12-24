@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IntentionESC: An Intention-Centered Framework for Enhancing Emotional Support in Dialogue Systems
+title: "IntentionESC: An Intention-Centered Framework for Enhancing Emotional Support in Dialogue Systems"
 ---
 
 # IntentionESC: An Intention-Centered Framework for Enhancing Emotional Support in Dialogue Systems

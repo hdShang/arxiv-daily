@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aion: Towards Hierarchical 4D Scene Graphs with Temporal Flow Dynamics
+title: "Aion: Towards Hierarchical 4D Scene Graphs with Temporal Flow Dynamics"
 ---
 
 # Aion: Towards Hierarchical 4D Scene Graphs with Temporal Flow Dynamics

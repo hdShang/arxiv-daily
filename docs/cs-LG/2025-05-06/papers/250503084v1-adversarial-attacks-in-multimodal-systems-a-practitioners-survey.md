@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adversarial Attacks in Multimodal Systems: A Practitioner's Survey
+title: "Adversarial Attacks in Multimodal Systems: A Practitioner's Survey"
 ---
 
 # Adversarial Attacks in Multimodal Systems: A Practitioner's Survey

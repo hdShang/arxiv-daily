@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OjaKV: Context-Aware Online Low-Rank KV Cache Compression with Oja's Rule
+title: "OjaKV: Context-Aware Online Low-Rank KV Cache Compression with Oja's Rule"
 ---
 
 # OjaKV: Context-Aware Online Low-Rank KV Cache Compression with Oja's Rule

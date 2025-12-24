@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VideoReasonBench: Can MLLMs Perform Vision-Centric Complex Video Reasoning?
+title: "VideoReasonBench: Can MLLMs Perform Vision-Centric Complex Video Reasoning?"
 ---
 
 # VideoReasonBench: Can MLLMs Perform Vision-Centric Complex Video Reasoning?

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When Digital Twins Meet Large Language Models: Realistic, Interactive, and Editable Simulation for Autonomous Driving
+title: "When Digital Twins Meet Large Language Models: Realistic, Interactive, and Editable Simulation for Autonomous Driving"
 ---
 
 # When Digital Twins Meet Large Language Models: Realistic, Interactive, and Editable Simulation for Autonomous Driving

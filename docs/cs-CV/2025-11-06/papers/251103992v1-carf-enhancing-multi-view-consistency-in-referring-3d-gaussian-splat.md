@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CaRF: Enhancing Multi-View Consistency in Referring 3D Gaussian Splatting Segmentation
+title: "CaRF: Enhancing Multi-View Consistency in Referring 3D Gaussian Splatting Segmentation"
 ---
 
 # CaRF: Enhancing Multi-View Consistency in Referring 3D Gaussian Splatting Segmentation

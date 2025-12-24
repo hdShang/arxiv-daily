@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Olfactory Inertial Odometry: Methodology for Effective Robot Navigation by Scent
+title: "Olfactory Inertial Odometry: Methodology for Effective Robot Navigation by Scent"
 ---
 
 # Olfactory Inertial Odometry: Methodology for Effective Robot Navigation by Scent

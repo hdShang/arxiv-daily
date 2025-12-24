@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OceanGym: A Benchmark Environment for Underwater Embodied Agents
+title: "OceanGym: A Benchmark Environment for Underwater Embodied Agents"
 ---
 
 # OceanGym: A Benchmark Environment for Underwater Embodied Agents

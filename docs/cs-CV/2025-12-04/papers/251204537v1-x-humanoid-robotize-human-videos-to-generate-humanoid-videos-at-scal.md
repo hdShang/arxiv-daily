@@ -1,6 +1,6 @@
 ---
 layout: default
-title: X-Humanoid: Robotize Human Videos to Generate Humanoid Videos at Scale
+title: "X-Humanoid: Robotize Human Videos to Generate Humanoid Videos at Scale"
 ---
 
 # X-Humanoid: Robotize Human Videos to Generate Humanoid Videos at Scale

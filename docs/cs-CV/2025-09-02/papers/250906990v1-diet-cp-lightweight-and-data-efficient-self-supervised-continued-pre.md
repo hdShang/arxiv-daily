@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DIET-CP: Lightweight and Data Efficient Self Supervised Continued Pretraining
+title: "DIET-CP: Lightweight and Data Efficient Self Supervised Continued Pretraining"
 ---
 
 # DIET-CP: Lightweight and Data Efficient Self Supervised Continued Pretraining

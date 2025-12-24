@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ORPO-Distill: Mixed-Policy Preference Optimization for Cross-Architecture LLM Distillation
+title: "ORPO-Distill: Mixed-Policy Preference Optimization for Cross-Architecture LLM Distillation"
 ---
 
 # ORPO-Distill: Mixed-Policy Preference Optimization for Cross-Architecture LLM Distillation

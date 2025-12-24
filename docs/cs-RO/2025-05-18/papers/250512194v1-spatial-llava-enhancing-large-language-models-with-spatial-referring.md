@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spatial-LLaVA: Enhancing Large Language Models with Spatial Referring Expressions for Visual Understanding
+title: "Spatial-LLaVA: Enhancing Large Language Models with Spatial Referring Expressions for Visual Understanding"
 ---
 
 # Spatial-LLaVA: Enhancing Large Language Models with Spatial Referring Expressions for Visual Understanding

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning
+title: "Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning"
 ---
 
 # Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning

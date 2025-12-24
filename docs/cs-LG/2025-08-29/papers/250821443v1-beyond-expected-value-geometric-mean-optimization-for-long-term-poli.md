@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond expected value: geometric mean optimization for long-term policy performance in reinforcement learning
+title: "Beyond expected value: geometric mean optimization for long-term policy performance in reinforcement learning"
 ---
 
 # Beyond expected value: geometric mean optimization for long-term policy performance in reinforcement learning

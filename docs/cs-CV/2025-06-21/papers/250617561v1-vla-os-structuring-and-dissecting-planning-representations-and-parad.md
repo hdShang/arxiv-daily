@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models
+title: "VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models"
 ---
 
 # VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models

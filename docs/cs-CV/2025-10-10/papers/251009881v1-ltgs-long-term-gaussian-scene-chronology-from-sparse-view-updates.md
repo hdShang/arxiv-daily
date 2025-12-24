@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LTGS: Long-Term Gaussian Scene Chronology From Sparse View Updates
+title: "LTGS: Long-Term Gaussian Scene Chronology From Sparse View Updates"
 ---
 
 # LTGS: Long-Term Gaussian Scene Chronology From Sparse View Updates

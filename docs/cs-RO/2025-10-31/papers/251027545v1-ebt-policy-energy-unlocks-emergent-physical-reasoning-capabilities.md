@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EBT-Policy: Energy Unlocks Emergent Physical Reasoning Capabilities
+title: "EBT-Policy: Energy Unlocks Emergent Physical Reasoning Capabilities"
 ---
 
 # EBT-Policy: Energy Unlocks Emergent Physical Reasoning Capabilities

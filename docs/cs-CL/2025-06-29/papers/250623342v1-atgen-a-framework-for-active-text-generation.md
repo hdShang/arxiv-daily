@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ATGen: A Framework for Active Text Generation
+title: "ATGen: A Framework for Active Text Generation"
 ---
 
 # ATGen: A Framework for Active Text Generation

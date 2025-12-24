@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SatDreamer360: Multiview-Consistent Generation of Ground-Level Scenes from Satellite Imagery
+title: "SatDreamer360: Multiview-Consistent Generation of Ground-Level Scenes from Satellite Imagery"
 ---
 
 # SatDreamer360: Multiview-Consistent Generation of Ground-Level Scenes from Satellite Imagery

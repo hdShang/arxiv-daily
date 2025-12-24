@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zero-shot Cross-lingual NER via Mitigating Language Difference: An Entity-aligned Translation Perspective
+title: "Zero-shot Cross-lingual NER via Mitigating Language Difference: An Entity-aligned Translation Perspective"
 ---
 
 # Zero-shot Cross-lingual NER via Mitigating Language Difference: An Entity-aligned Translation Perspective

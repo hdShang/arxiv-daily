@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trans-XFed: An Explainable Federated Learning for Supply Chain Credit Assessment
+title: "Trans-XFed: An Explainable Federated Learning for Supply Chain Credit Assessment"
 ---
 
 # Trans-XFed: An Explainable Federated Learning for Supply Chain Credit Assessment

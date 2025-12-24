@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DisTime: Distribution-based Time Representation for Video Large Language Models
+title: "DisTime: Distribution-based Time Representation for Video Large Language Models"
 ---
 
 # DisTime: Distribution-based Time Representation for Video Large Language Models

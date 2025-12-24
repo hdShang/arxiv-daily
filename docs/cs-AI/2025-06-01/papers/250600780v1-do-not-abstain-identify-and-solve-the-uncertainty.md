@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Do not Abstain! Identify and Solve the Uncertainty
+title: "Do not Abstain! Identify and Solve the Uncertainty"
 ---
 
 # Do not Abstain! Identify and Solve the Uncertainty

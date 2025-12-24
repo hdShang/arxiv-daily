@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PHRASED: Phrase Dictionary Biasing for Speech Translation
+title: "PHRASED: Phrase Dictionary Biasing for Speech Translation"
 ---
 
 # PHRASED: Phrase Dictionary Biasing for Speech Translation

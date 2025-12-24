@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Promptception: How Sensitive Are Large Multimodal Models to Prompts?
+title: "Promptception: How Sensitive Are Large Multimodal Models to Prompts?"
 ---
 
 # Promptception: How Sensitive Are Large Multimodal Models to Prompts?

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mixture of Detectors: A Compact View of Machine-Generated Text Detection
+title: "Mixture of Detectors: A Compact View of Machine-Generated Text Detection"
 ---
 
 # Mixture of Detectors: A Compact View of Machine-Generated Text Detection

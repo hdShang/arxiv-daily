@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TraceDet: Hallucination Detection from the Decoding Trace of Diffusion Large Language Models
+title: "TraceDet: Hallucination Detection from the Decoding Trace of Diffusion Large Language Models"
 ---
 
 # TraceDet: Hallucination Detection from the Decoding Trace of Diffusion Large Language Models

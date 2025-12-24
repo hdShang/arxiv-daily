@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ConViTac: Aligning Visual-Tactile Fusion with Contrastive Representations
+title: "ConViTac: Aligning Visual-Tactile Fusion with Contrastive Representations"
 ---
 
 # ConViTac: Aligning Visual-Tactile Fusion with Contrastive Representations

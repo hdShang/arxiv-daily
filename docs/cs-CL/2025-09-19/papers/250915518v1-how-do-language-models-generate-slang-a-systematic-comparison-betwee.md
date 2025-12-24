@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How do Language Models Generate Slang: A Systematic Comparison between Human and Machine-Generated Slang Usages
+title: "How do Language Models Generate Slang: A Systematic Comparison between Human and Machine-Generated Slang Usages"
 ---
 
 # How do Language Models Generate Slang: A Systematic Comparison between Human and Machine-Generated Slang Usages

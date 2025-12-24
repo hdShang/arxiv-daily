@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VQualA 2025 Challenge on Visual Quality Comparison for Large Multimodal Models: Methods and Results
+title: "VQualA 2025 Challenge on Visual Quality Comparison for Large Multimodal Models: Methods and Results"
 ---
 
 # VQualA 2025 Challenge on Visual Quality Comparison for Large Multimodal Models: Methods and Results

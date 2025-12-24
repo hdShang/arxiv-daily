@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Re:Frame -- Retrieving Experience From Associative Memory
+title: "Re:Frame -- Retrieving Experience From Associative Memory"
 ---
 
 # Re:Frame -- Retrieving Experience From Associative Memory

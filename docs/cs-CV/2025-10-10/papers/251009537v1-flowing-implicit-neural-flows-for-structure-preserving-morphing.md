@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FLOWING: Implicit Neural Flows for Structure-Preserving Morphing
+title: "FLOWING: Implicit Neural Flows for Structure-Preserving Morphing"
 ---
 
 # FLOWING: Implicit Neural Flows for Structure-Preserving Morphing

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Clone What You Can't Steal: Black-Box LLM Replication via Logit Leakage and Distillation
+title: "Clone What You Can't Steal: Black-Box LLM Replication via Logit Leakage and Distillation"
 ---
 
 # Clone What You Can't Steal: Black-Box LLM Replication via Logit Leakage and Distillation

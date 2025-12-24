@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WirelessMathBench: A Mathematical Modeling Benchmark for LLMs in Wireless Communications
+title: "WirelessMathBench: A Mathematical Modeling Benchmark for LLMs in Wireless Communications"
 ---
 
 # WirelessMathBench: A Mathematical Modeling Benchmark for LLMs in Wireless Communications

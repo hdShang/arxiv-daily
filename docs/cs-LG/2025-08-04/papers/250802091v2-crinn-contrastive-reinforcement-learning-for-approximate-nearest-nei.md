@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CRINN: Contrastive Reinforcement Learning for Approximate Nearest Neighbor Search
+title: "CRINN: Contrastive Reinforcement Learning for Approximate Nearest Neighbor Search"
 ---
 
 # CRINN: Contrastive Reinforcement Learning for Approximate Nearest Neighbor Search

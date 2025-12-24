@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Fixed Morphologies: Learning Graph Policies with Trust Region Compensation in Variable Action Spaces
+title: "Beyond Fixed Morphologies: Learning Graph Policies with Trust Region Compensation in Variable Action Spaces"
 ---
 
 # Beyond Fixed Morphologies: Learning Graph Policies with Trust Region Compensation in Variable Action Spaces

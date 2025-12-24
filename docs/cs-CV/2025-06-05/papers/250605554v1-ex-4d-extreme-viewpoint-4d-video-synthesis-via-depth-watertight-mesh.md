@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EX-4D: EXtreme Viewpoint 4D Video Synthesis via Depth Watertight Mesh
+title: "EX-4D: EXtreme Viewpoint 4D Video Synthesis via Depth Watertight Mesh"
 ---
 
 # EX-4D: EXtreme Viewpoint 4D Video Synthesis via Depth Watertight Mesh

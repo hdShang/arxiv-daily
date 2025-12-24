@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AntiDote: Bi-level Adversarial Training for Tamper-Resistant LLMs
+title: "AntiDote: Bi-level Adversarial Training for Tamper-Resistant LLMs"
 ---
 
 # AntiDote: Bi-level Adversarial Training for Tamper-Resistant LLMs

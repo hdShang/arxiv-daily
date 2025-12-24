@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Voila: Voice-Language Foundation Models for Real-Time Autonomous Interaction and Voice Role-Play
+title: "Voila: Voice-Language Foundation Models for Real-Time Autonomous Interaction and Voice Role-Play"
 ---
 
 # Voila: Voice-Language Foundation Models for Real-Time Autonomous Interaction and Voice Role-Play

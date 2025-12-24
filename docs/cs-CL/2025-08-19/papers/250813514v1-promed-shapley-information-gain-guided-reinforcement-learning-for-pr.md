@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ProMed: Shapley Information Gain Guided Reinforcement Learning for Proactive Medical LLMs
+title: "ProMed: Shapley Information Gain Guided Reinforcement Learning for Proactive Medical LLMs"
 ---
 
 # ProMed: Shapley Information Gain Guided Reinforcement Learning for Proactive Medical LLMs

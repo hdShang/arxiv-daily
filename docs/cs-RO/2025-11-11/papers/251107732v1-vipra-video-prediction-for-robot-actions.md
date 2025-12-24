@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ViPRA: Video Prediction for Robot Actions
+title: "ViPRA: Video Prediction for Robot Actions"
 ---
 
 # ViPRA: Video Prediction for Robot Actions

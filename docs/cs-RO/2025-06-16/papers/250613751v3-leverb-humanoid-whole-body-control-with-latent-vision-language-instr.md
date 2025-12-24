@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction
+title: "LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction"
 ---
 
 # LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction

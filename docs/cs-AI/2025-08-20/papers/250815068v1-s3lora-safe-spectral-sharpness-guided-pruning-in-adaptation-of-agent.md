@@ -1,6 +1,6 @@
 ---
 layout: default
-title: S3LoRA: Safe Spectral Sharpness-Guided Pruning in Adaptation of Agent Planner
+title: "S3LoRA: Safe Spectral Sharpness-Guided Pruning in Adaptation of Agent Planner"
 ---
 
 # S3LoRA: Safe Spectral Sharpness-Guided Pruning in Adaptation of Agent Planner

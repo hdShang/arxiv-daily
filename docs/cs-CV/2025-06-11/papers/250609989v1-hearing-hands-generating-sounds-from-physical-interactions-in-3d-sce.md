@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hearing Hands: Generating Sounds from Physical Interactions in 3D Scenes
+title: "Hearing Hands: Generating Sounds from Physical Interactions in 3D Scenes"
 ---
 
 # Hearing Hands: Generating Sounds from Physical Interactions in 3D Scenes

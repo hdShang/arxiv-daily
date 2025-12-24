@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CMIE: Combining MLLM Insights with External Evidence for Explainable Out-of-Context Misinformation Detection
+title: "CMIE: Combining MLLM Insights with External Evidence for Explainable Out-of-Context Misinformation Detection"
 ---
 
 # CMIE: Combining MLLM Insights with External Evidence for Explainable Out-of-Context Misinformation Detection

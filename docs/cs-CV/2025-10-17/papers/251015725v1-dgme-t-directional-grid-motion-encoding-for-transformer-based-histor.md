@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DGME-T: Directional Grid Motion Encoding for Transformer-Based Historical Camera Movement Classification
+title: "DGME-T: Directional Grid Motion Encoding for Transformer-Based Historical Camera Movement Classification"
 ---
 
 # DGME-T: Directional Grid Motion Encoding for Transformer-Based Historical Camera Movement Classification

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MambaHash: Visual State Space Deep Hashing Model for Large-Scale Image Retrieval
+title: "MambaHash: Visual State Space Deep Hashing Model for Large-Scale Image Retrieval"
 ---
 
 # MambaHash: Visual State Space Deep Hashing Model for Large-Scale Image Retrieval

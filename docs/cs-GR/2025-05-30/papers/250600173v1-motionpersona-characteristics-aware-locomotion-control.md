@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MotionPersona: Characteristics-aware Locomotion Control
+title: "MotionPersona: Characteristics-aware Locomotion Control"
 ---
 
 # MotionPersona: Characteristics-aware Locomotion Control

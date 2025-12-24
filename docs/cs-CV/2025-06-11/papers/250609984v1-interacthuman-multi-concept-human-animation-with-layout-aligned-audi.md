@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InterActHuman: Multi-Concept Human Animation with Layout-Aligned Audio Conditions
+title: "InterActHuman: Multi-Concept Human Animation with Layout-Aligned Audio Conditions"
 ---
 
 # InterActHuman: Multi-Concept Human Animation with Layout-Aligned Audio Conditions

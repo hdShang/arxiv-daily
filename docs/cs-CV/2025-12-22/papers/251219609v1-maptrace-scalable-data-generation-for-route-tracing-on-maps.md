@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MapTrace: Scalable Data Generation for Route Tracing on Maps
+title: "MapTrace: Scalable Data Generation for Route Tracing on Maps"
 ---
 
 # MapTrace: Scalable Data Generation for Route Tracing on Maps

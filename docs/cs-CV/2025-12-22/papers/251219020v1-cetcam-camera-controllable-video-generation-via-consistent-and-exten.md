@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CETCAM: Camera-Controllable Video Generation via Consistent and Extensible Tokenization
+title: "CETCAM: Camera-Controllable Video Generation via Consistent and Extensible Tokenization"
 ---
 
 # CETCAM: Camera-Controllable Video Generation via Consistent and Extensible Tokenization

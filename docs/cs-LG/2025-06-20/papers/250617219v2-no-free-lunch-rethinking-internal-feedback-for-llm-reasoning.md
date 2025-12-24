@@ -1,6 +1,6 @@
 ---
 layout: default
-title: No Free Lunch: Rethinking Internal Feedback for LLM Reasoning
+title: "No Free Lunch: Rethinking Internal Feedback for LLM Reasoning"
 ---
 
 # No Free Lunch: Rethinking Internal Feedback for LLM Reasoning

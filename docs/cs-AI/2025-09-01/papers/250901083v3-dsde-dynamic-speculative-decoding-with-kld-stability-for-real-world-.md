@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DSDE: Dynamic Speculative Decoding with KLD Stability for Real-World Serving
+title: "DSDE: Dynamic Speculative Decoding with KLD Stability for Real-World Serving"
 ---
 
 # DSDE: Dynamic Speculative Decoding with KLD Stability for Real-World Serving

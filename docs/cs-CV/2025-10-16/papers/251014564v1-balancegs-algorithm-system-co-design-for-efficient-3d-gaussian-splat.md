@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BalanceGS: Algorithm-System Co-design for Efficient 3D Gaussian Splatting Training on GPU
+title: "BalanceGS: Algorithm-System Co-design for Efficient 3D Gaussian Splatting Training on GPU"
 ---
 
 # BalanceGS: Algorithm-System Co-design for Efficient 3D Gaussian Splatting Training on GPU

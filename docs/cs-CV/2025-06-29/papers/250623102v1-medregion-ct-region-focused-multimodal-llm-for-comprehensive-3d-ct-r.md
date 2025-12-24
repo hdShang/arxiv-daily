@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MedRegion-CT: Region-Focused Multimodal LLM for Comprehensive 3D CT Report Generation
+title: "MedRegion-CT: Region-Focused Multimodal LLM for Comprehensive 3D CT Report Generation"
 ---
 
 # MedRegion-CT: Region-Focused Multimodal LLM for Comprehensive 3D CT Report Generation

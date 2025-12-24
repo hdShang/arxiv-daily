@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sigma: The Key for Vision-Language-Action Models toward Telepathic Alignment
+title: "Sigma: The Key for Vision-Language-Action Models toward Telepathic Alignment"
 ---
 
 # Sigma: The Key for Vision-Language-Action Models toward Telepathic Alignment

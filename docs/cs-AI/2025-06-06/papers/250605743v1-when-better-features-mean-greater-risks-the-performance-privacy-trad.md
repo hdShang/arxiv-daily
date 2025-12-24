@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When Better Features Mean Greater Risks: The Performance-Privacy Trade-Off in Contrastive Learning
+title: "When Better Features Mean Greater Risks: The Performance-Privacy Trade-Off in Contrastive Learning"
 ---
 
 # When Better Features Mean Greater Risks: The Performance-Privacy Trade-Off in Contrastive Learning

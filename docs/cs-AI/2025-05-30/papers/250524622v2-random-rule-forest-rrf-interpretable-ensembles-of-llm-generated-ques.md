@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Random Rule Forest (RRF): Interpretable Ensembles of LLM-Generated Questions for Predicting Startup Success
+title: "Random Rule Forest (RRF): Interpretable Ensembles of LLM-Generated Questions for Predicting Startup Success"
 ---
 
 # Random Rule Forest (RRF): Interpretable Ensembles of LLM-Generated Questions for Predicting Startup Success

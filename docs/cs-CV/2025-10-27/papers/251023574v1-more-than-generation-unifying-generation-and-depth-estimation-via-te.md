@@ -1,6 +1,6 @@
 ---
 layout: default
-title: More Than Generation: Unifying Generation and Depth Estimation via Text-to-Image Diffusion Models
+title: "More Than Generation: Unifying Generation and Depth Estimation via Text-to-Image Diffusion Models"
 ---
 
 # More Than Generation: Unifying Generation and Depth Estimation via Text-to-Image Diffusion Models

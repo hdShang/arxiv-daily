@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chord: Chain of Rendering Decomposition for PBR Material Estimation from Generated Texture Images
+title: "Chord: Chain of Rendering Decomposition for PBR Material Estimation from Generated Texture Images"
 ---
 
 # Chord: Chain of Rendering Decomposition for PBR Material Estimation from Generated Texture Images

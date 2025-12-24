@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CogStream: Context-guided Streaming Video Question Answering
+title: "CogStream: Context-guided Streaming Video Question Answering"
 ---
 
 # CogStream: Context-guided Streaming Video Question Answering

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DEXOP: A Device for Robotic Transfer of Dexterous Human Manipulation
+title: "DEXOP: A Device for Robotic Transfer of Dexterous Human Manipulation"
 ---
 
 # DEXOP: A Device for Robotic Transfer of Dexterous Human Manipulation

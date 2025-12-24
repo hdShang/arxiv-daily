@@ -1,6 +1,6 @@
 ---
 layout: default
-title: rQdia: Regularizing Q-Value Distributions With Image Augmentation
+title: "rQdia: Regularizing Q-Value Distributions With Image Augmentation"
 ---
 
 # rQdia: Regularizing Q-Value Distributions With Image Augmentation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GES-UniGrasp: A Two-Stage Dexterous Grasping Strategy With Geometry-Based Expert Selection
+title: "GES-UniGrasp: A Two-Stage Dexterous Grasping Strategy With Geometry-Based Expert Selection"
 ---
 
 # GES-UniGrasp: A Two-Stage Dexterous Grasping Strategy With Geometry-Based Expert Selection

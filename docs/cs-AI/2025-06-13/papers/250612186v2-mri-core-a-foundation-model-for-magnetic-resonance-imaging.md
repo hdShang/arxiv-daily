@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MRI-CORE: A Foundation Model for Magnetic Resonance Imaging
+title: "MRI-CORE: A Foundation Model for Magnetic Resonance Imaging"
 ---
 
 # MRI-CORE: A Foundation Model for Magnetic Resonance Imaging

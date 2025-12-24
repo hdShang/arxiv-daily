@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SLiNT: Structure-aware Language Model with Injection and Contrastive Training for Knowledge Graph Completion
+title: "SLiNT: Structure-aware Language Model with Injection and Contrastive Training for Knowledge Graph Completion"
 ---
 
 # SLiNT: Structure-aware Language Model with Injection and Contrastive Training for Knowledge Graph Completion

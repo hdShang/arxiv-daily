@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Direct Density Ratio Optimization: A Statistically Consistent Approach to Aligning Large Language Models
+title: "Direct Density Ratio Optimization: A Statistically Consistent Approach to Aligning Large Language Models"
 ---
 
 # Direct Density Ratio Optimization: A Statistically Consistent Approach to Aligning Large Language Models

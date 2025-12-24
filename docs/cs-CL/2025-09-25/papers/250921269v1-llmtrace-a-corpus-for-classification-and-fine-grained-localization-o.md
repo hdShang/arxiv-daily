@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLMTrace: A Corpus for Classification and Fine-Grained Localization of AI-Written Text
+title: "LLMTrace: A Corpus for Classification and Fine-Grained Localization of AI-Written Text"
 ---
 
 # LLMTrace: A Corpus for Classification and Fine-Grained Localization of AI-Written Text

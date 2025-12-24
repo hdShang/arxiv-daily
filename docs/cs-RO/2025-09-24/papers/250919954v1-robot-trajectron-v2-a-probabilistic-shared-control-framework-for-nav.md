@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Robot Trajectron V2: A Probabilistic Shared Control Framework for Navigation
+title: "Robot Trajectron V2: A Probabilistic Shared Control Framework for Navigation"
 ---
 
 # Robot Trajectron V2: A Probabilistic Shared Control Framework for Navigation

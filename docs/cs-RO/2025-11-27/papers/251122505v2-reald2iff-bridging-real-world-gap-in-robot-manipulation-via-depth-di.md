@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RealD$^2$iff: Bridging Real-World Gap in Robot Manipulation via Depth Diffusion
+title: "RealD$^2$iff: Bridging Real-World Gap in Robot Manipulation via Depth Diffusion"
 ---
 
 # RealD$^2$iff: Bridging Real-World Gap in Robot Manipulation via Depth Diffusion

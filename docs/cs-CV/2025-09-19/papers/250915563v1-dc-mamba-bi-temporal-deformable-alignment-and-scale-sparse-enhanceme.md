@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DC-Mamba: Bi-temporal deformable alignment and scale-sparse enhancement for remote sensing change detection
+title: "DC-Mamba: Bi-temporal deformable alignment and scale-sparse enhancement for remote sensing change detection"
 ---
 
 # DC-Mamba: Bi-temporal deformable alignment and scale-sparse enhancement for remote sensing change detection

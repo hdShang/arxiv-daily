@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Generalist Reward Models: Found Inside Large Language Models
+title: "Generalist Reward Models: Found Inside Large Language Models"
 ---
 
 # Generalist Reward Models: Found Inside Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Facts Fade Fast: Evaluating Memorization of Outdated Medical Knowledge in Large Language Models
+title: "Facts Fade Fast: Evaluating Memorization of Outdated Medical Knowledge in Large Language Models"
 ---
 
 # Facts Fade Fast: Evaluating Memorization of Outdated Medical Knowledge in Large Language Models

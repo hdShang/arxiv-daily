@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Human Motion Video Generation: A Survey
+title: "Human Motion Video Generation: A Survey"
 ---
 
 # Human Motion Video Generation: A Survey

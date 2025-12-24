@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PC-Sampler: Position-Aware Calibration of Decoding Bias in Masked Diffusion Models
+title: "PC-Sampler: Position-Aware Calibration of Decoding Bias in Masked Diffusion Models"
 ---
 
 # PC-Sampler: Position-Aware Calibration of Decoding Bias in Masked Diffusion Models

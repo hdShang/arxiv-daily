@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RetFiner: A Vision-Language Refinement Scheme for Retinal Foundation Models
+title: "RetFiner: A Vision-Language Refinement Scheme for Retinal Foundation Models"
 ---
 
 # RetFiner: A Vision-Language Refinement Scheme for Retinal Foundation Models

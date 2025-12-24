@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GFix: Perceptually Enhanced Gaussian Splatting Video Compression
+title: "GFix: Perceptually Enhanced Gaussian Splatting Video Compression"
 ---
 
 # GFix: Perceptually Enhanced Gaussian Splatting Video Compression

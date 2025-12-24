@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoCoA: Collaborative Chain-of-Agents for Parametric-Retrieved Knowledge Synergy
+title: "CoCoA: Collaborative Chain-of-Agents for Parametric-Retrieved Knowledge Synergy"
 ---
 
 # CoCoA: Collaborative Chain-of-Agents for Parametric-Retrieved Knowledge Synergy

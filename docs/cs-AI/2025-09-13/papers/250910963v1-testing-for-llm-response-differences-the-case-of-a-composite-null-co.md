@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Testing for LLM response differences: the case of a composite null consisting of semantically irrelevant query perturbations
+title: "Testing for LLM response differences: the case of a composite null consisting of semantically irrelevant query perturbations"
 ---
 
 # Testing for LLM response differences: the case of a composite null consisting of semantically irrelevant query perturbations

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PosterO: Structuring Layout Trees to Enable Language Models in Generalized Content-Aware Layout Generation
+title: "PosterO: Structuring Layout Trees to Enable Language Models in Generalized Content-Aware Layout Generation"
 ---
 
 # PosterO: Structuring Layout Trees to Enable Language Models in Generalized Content-Aware Layout Generation

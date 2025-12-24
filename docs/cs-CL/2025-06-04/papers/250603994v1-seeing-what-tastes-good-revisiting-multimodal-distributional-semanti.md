@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seeing What Tastes Good: Revisiting Multimodal Distributional Semantics in the Billion Parameter Era
+title: "Seeing What Tastes Good: Revisiting Multimodal Distributional Semantics in the Billion Parameter Era"
 ---
 
 # Seeing What Tastes Good: Revisiting Multimodal Distributional Semantics in the Billion Parameter Era

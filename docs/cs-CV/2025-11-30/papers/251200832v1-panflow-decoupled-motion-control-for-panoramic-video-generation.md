@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PanFlow: Decoupled Motion Control for Panoramic Video Generation
+title: "PanFlow: Decoupled Motion Control for Panoramic Video Generation"
 ---
 
 # PanFlow: Decoupled Motion Control for Panoramic Video Generation

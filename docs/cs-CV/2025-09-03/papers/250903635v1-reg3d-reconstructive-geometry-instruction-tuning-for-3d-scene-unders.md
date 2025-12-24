@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reg3D: Reconstructive Geometry Instruction Tuning for 3D Scene Understanding
+title: "Reg3D: Reconstructive Geometry Instruction Tuning for 3D Scene Understanding"
 ---
 
 # Reg3D: Reconstructive Geometry Instruction Tuning for 3D Scene Understanding

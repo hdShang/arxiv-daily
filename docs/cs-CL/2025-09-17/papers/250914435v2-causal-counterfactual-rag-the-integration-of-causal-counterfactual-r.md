@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Causal-Counterfactual RAG: The Integration of Causal-Counterfactual Reasoning into RAG
+title: "Causal-Counterfactual RAG: The Integration of Causal-Counterfactual Reasoning into RAG"
 ---
 
 # Causal-Counterfactual RAG: The Integration of Causal-Counterfactual Reasoning into RAG

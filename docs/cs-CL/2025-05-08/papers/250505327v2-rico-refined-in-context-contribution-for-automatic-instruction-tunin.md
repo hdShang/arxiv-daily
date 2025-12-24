@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RICo: Refined In-Context Contribution for Automatic Instruction-Tuning Data Selection
+title: "RICo: Refined In-Context Contribution for Automatic Instruction-Tuning Data Selection"
 ---
 
 # RICo: Refined In-Context Contribution for Automatic Instruction-Tuning Data Selection

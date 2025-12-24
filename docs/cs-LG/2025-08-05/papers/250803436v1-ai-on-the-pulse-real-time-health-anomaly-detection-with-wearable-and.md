@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI on the Pulse: Real-Time Health Anomaly Detection with Wearable and Ambient Intelligence
+title: "AI on the Pulse: Real-Time Health Anomaly Detection with Wearable and Ambient Intelligence"
 ---
 
 # AI on the Pulse: Real-Time Health Anomaly Detection with Wearable and Ambient Intelligence

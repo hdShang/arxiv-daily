@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MAP-VLA: Memory-Augmented Prompting for Vision-Language-Action Model in Robotic Manipulation
+title: "MAP-VLA: Memory-Augmented Prompting for Vision-Language-Action Model in Robotic Manipulation"
 ---
 
 # MAP-VLA: Memory-Augmented Prompting for Vision-Language-Action Model in Robotic Manipulation

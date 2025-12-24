@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sticker-TTS: Learn to Utilize Historical Experience with a Sticker-driven Test-Time Scaling Framework
+title: "Sticker-TTS: Learn to Utilize Historical Experience with a Sticker-driven Test-Time Scaling Framework"
 ---
 
 # Sticker-TTS: Learn to Utilize Historical Experience with a Sticker-driven Test-Time Scaling Framework

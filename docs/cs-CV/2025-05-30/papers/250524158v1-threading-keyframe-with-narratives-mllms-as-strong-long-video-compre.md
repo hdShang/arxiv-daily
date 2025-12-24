@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Threading Keyframe with Narratives: MLLMs as Strong Long Video Comprehenders
+title: "Threading Keyframe with Narratives: MLLMs as Strong Long Video Comprehenders"
 ---
 
 # Threading Keyframe with Narratives: MLLMs as Strong Long Video Comprehenders

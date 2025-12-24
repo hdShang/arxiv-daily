@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Scaling Law: A Data-Efficient Distillation Framework for Reasoning
+title: "Beyond Scaling Law: A Data-Efficient Distillation Framework for Reasoning"
 ---
 
 # Beyond Scaling Law: A Data-Efficient Distillation Framework for Reasoning

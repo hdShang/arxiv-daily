@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nemori: Self-Organizing Agent Memory Inspired by Cognitive Science
+title: "Nemori: Self-Organizing Agent Memory Inspired by Cognitive Science"
 ---
 
 # Nemori: Self-Organizing Agent Memory Inspired by Cognitive Science

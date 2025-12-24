@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SimpleQA Verified: A Reliable Factuality Benchmark to Measure Parametric Knowledge
+title: "SimpleQA Verified: A Reliable Factuality Benchmark to Measure Parametric Knowledge"
 ---
 
 # SimpleQA Verified: A Reliable Factuality Benchmark to Measure Parametric Knowledge

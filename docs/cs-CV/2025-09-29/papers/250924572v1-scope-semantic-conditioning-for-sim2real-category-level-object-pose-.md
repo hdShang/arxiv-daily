@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SCOPE: Semantic Conditioning for Sim2Real Category-Level Object Pose Estimation in Robotics
+title: "SCOPE: Semantic Conditioning for Sim2Real Category-Level Object Pose Estimation in Robotics"
 ---
 
 # SCOPE: Semantic Conditioning for Sim2Real Category-Level Object Pose Estimation in Robotics

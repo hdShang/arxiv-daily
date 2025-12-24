@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Human-Centered Development of Guide Dog Robots: Quiet and Stable Locomotion Control
+title: "Human-Centered Development of Guide Dog Robots: Quiet and Stable Locomotion Control"
 ---
 
 # Human-Centered Development of Guide Dog Robots: Quiet and Stable Locomotion Control

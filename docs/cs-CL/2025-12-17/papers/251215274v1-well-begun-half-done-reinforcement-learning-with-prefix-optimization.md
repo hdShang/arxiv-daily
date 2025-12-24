@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Well Begun, Half Done: Reinforcement Learning with Prefix Optimization for LLM Reasoning
+title: "Well Begun, Half Done: Reinforcement Learning with Prefix Optimization for LLM Reasoning"
 ---
 
 # Well Begun, Half Done: Reinforcement Learning with Prefix Optimization for LLM Reasoning

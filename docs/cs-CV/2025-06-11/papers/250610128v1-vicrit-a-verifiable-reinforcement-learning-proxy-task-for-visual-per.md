@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs
+title: "ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs"
 ---
 
 # ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs

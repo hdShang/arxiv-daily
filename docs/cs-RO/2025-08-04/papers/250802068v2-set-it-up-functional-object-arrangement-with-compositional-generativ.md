@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Set It Up": Functional Object Arrangement with Compositional Generative Models (Journal Version)
+title: "\"Set It Up\": Functional Object Arrangement with Compositional Generative Models (Journal Version)"
 ---
 
 # "Set It Up": Functional Object Arrangement with Compositional Generative Models (Journal Version)

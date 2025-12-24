@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CARGO: A Framework for Confidence-Aware Routing of Large Language Models
+title: "CARGO: A Framework for Confidence-Aware Routing of Large Language Models"
 ---
 
 # CARGO: A Framework for Confidence-Aware Routing of Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AgriGPT: a Large Language Model Ecosystem for Agriculture
+title: "AgriGPT: a Large Language Model Ecosystem for Agriculture"
 ---
 
 # AgriGPT: a Large Language Model Ecosystem for Agriculture

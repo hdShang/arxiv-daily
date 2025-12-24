@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Attention Schema-based Attention Control (ASAC): A Cognitive-Inspired Approach for Attention Management in Transformers
+title: "Attention Schema-based Attention Control (ASAC): A Cognitive-Inspired Approach for Attention Management in Transformers"
 ---
 
 # Attention Schema-based Attention Control (ASAC): A Cognitive-Inspired Approach for Attention Management in Transformers

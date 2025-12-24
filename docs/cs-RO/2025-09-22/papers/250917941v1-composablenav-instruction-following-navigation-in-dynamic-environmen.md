@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ComposableNav: Instruction-Following Navigation in Dynamic Environments via Composable Diffusion
+title: "ComposableNav: Instruction-Following Navigation in Dynamic Environments via Composable Diffusion"
 ---
 
 # ComposableNav: Instruction-Following Navigation in Dynamic Environments via Composable Diffusion

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ToolSpectrum : Towards Personalized Tool Utilization for Large Language Models
+title: "ToolSpectrum : Towards Personalized Tool Utilization for Large Language Models"
 ---
 
 # ToolSpectrum : Towards Personalized Tool Utilization for Large Language Models

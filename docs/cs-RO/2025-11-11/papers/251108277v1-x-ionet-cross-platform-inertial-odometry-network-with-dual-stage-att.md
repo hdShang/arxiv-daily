@@ -1,6 +1,6 @@
 ---
 layout: default
-title: X-IONet: Cross-Platform Inertial Odometry Network with Dual-Stage Attention
+title: "X-IONet: Cross-Platform Inertial Odometry Network with Dual-Stage Attention"
 ---
 
 # X-IONet: Cross-Platform Inertial Odometry Network with Dual-Stage Attention

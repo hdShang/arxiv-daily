@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IntrinsicEdit: Precise generative image manipulation in intrinsic space
+title: "IntrinsicEdit: Precise generative image manipulation in intrinsic space"
 ---
 
 # IntrinsicEdit: Precise generative image manipulation in intrinsic space

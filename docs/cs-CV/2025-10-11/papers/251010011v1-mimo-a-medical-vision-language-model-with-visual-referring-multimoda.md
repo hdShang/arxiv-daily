@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MIMO: A medical vision language model with visual referring multimodal input and pixel grounding multimodal output
+title: "MIMO: A medical vision language model with visual referring multimodal input and pixel grounding multimodal output"
 ---
 
 # MIMO: A medical vision language model with visual referring multimodal input and pixel grounding multimodal output

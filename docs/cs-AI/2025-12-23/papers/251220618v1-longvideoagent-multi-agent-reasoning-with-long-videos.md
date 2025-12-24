@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LongVideoAgent: Multi-Agent Reasoning with Long Videos
+title: "LongVideoAgent: Multi-Agent Reasoning with Long Videos"
 ---
 
 # LongVideoAgent: Multi-Agent Reasoning with Long Videos

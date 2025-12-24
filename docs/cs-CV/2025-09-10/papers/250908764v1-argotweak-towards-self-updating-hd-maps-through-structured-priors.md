@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ArgoTweak: Towards Self-Updating HD Maps through Structured Priors
+title: "ArgoTweak: Towards Self-Updating HD Maps through Structured Priors"
 ---
 
 # ArgoTweak: Towards Self-Updating HD Maps through Structured Priors

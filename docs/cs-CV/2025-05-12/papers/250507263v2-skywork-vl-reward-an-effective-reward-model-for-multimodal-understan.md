@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Skywork-VL Reward: An Effective Reward Model for Multimodal Understanding and Reasoning
+title: "Skywork-VL Reward: An Effective Reward Model for Multimodal Understanding and Reasoning"
 ---
 
 # Skywork-VL Reward: An Effective Reward Model for Multimodal Understanding and Reasoning

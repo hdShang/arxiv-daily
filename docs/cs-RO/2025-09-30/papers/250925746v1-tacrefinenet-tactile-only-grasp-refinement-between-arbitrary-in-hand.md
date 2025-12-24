@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TacRefineNet: Tactile-Only Grasp Refinement Between Arbitrary In-Hand Object Poses
+title: "TacRefineNet: Tactile-Only Grasp Refinement Between Arbitrary In-Hand Object Poses"
 ---
 
 # TacRefineNet: Tactile-Only Grasp Refinement Between Arbitrary In-Hand Object Poses

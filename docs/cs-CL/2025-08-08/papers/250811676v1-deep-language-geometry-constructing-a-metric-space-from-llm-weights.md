@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deep Language Geometry: Constructing a Metric Space from LLM Weights
+title: "Deep Language Geometry: Constructing a Metric Space from LLM Weights"
 ---
 
 # Deep Language Geometry: Constructing a Metric Space from LLM Weights

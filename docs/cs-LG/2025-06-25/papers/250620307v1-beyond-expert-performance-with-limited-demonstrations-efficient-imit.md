@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond-Expert Performance with Limited Demonstrations: Efficient Imitation Learning with Double Exploration
+title: "Beyond-Expert Performance with Limited Demonstrations: Efficient Imitation Learning with Double Exploration"
 ---
 
 # Beyond-Expert Performance with Limited Demonstrations: Efficient Imitation Learning with Double Exploration

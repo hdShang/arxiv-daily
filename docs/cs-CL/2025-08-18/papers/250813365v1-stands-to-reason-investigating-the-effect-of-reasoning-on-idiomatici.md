@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stands to Reason: Investigating the Effect of Reasoning on Idiomaticity Detection
+title: "Stands to Reason: Investigating the Effect of Reasoning on Idiomaticity Detection"
 ---
 
 # Stands to Reason: Investigating the Effect of Reasoning on Idiomaticity Detection

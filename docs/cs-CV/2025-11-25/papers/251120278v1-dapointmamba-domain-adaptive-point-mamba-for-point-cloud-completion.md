@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DAPointMamba: Domain Adaptive Point Mamba for Point Cloud Completion
+title: "DAPointMamba: Domain Adaptive Point Mamba for Point Cloud Completion"
 ---
 
 # DAPointMamba: Domain Adaptive Point Mamba for Point Cloud Completion

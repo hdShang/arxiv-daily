@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InfiniBench: Infinite Benchmarking for Visual Spatial Reasoning with Customizable Scene Complexity
+title: "InfiniBench: Infinite Benchmarking for Visual Spatial Reasoning with Customizable Scene Complexity"
 ---
 
 # InfiniBench: Infinite Benchmarking for Visual Spatial Reasoning with Customizable Scene Complexity

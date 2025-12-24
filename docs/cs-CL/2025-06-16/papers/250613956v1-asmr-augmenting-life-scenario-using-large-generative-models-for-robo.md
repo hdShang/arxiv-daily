@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ASMR: Augmenting Life Scenario using Large Generative Models for Robotic Action Reflection
+title: "ASMR: Augmenting Life Scenario using Large Generative Models for Robotic Action Reflection"
 ---
 
 # ASMR: Augmenting Life Scenario using Large Generative Models for Robotic Action Reflection

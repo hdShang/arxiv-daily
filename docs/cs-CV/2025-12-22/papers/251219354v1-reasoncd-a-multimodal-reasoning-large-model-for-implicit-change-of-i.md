@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReasonCD: A Multimodal Reasoning Large Model for Implicit Change-of-Interest Semantic Mining
+title: "ReasonCD: A Multimodal Reasoning Large Model for Implicit Change-of-Interest Semantic Mining"
 ---
 
 # ReasonCD: A Multimodal Reasoning Large Model for Implicit Change-of-Interest Semantic Mining

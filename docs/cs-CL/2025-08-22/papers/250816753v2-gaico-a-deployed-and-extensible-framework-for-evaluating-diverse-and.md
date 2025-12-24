@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GAICo: A Deployed and Extensible Framework for Evaluating Diverse and Multimodal Generative AI Outputs
+title: "GAICo: A Deployed and Extensible Framework for Evaluating Diverse and Multimodal Generative AI Outputs"
 ---
 
 # GAICo: A Deployed and Extensible Framework for Evaluating Diverse and Multimodal Generative AI Outputs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hala Technical Report: Building Arabic-Centric Instruction & Translation Models at Scale
+title: "Hala Technical Report: Building Arabic-Centric Instruction & Translation Models at Scale"
 ---
 
 # Hala Technical Report: Building Arabic-Centric Instruction & Translation Models at Scale

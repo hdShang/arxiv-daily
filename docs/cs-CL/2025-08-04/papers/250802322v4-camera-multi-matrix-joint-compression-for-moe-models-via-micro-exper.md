@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CAMERA: Multi-Matrix Joint Compression for MoE Models via Micro-Expert Redundancy Analysis
+title: "CAMERA: Multi-Matrix Joint Compression for MoE Models via Micro-Expert Redundancy Analysis"
 ---
 
 # CAMERA: Multi-Matrix Joint Compression for MoE Models via Micro-Expert Redundancy Analysis

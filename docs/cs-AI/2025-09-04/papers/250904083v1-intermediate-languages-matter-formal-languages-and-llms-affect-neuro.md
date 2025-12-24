@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Intermediate Languages Matter: Formal Languages and LLMs affect Neurosymbolic Reasoning
+title: "Intermediate Languages Matter: Formal Languages and LLMs affect Neurosymbolic Reasoning"
 ---
 
 # Intermediate Languages Matter: Formal Languages and LLMs affect Neurosymbolic Reasoning

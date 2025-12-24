@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Binary-Gaussian: Compact and Progressive Representation for 3D Gaussian Segmentation
+title: "Binary-Gaussian: Compact and Progressive Representation for 3D Gaussian Segmentation"
 ---
 
 # Binary-Gaussian: Compact and Progressive Representation for 3D Gaussian Segmentation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboTAG: End-to-end Robot Configuration Estimation via Topological Alignment Graph
+title: "RoboTAG: End-to-end Robot Configuration Estimation via Topological Alignment Graph"
 ---
 
 # RoboTAG: End-to-end Robot Configuration Estimation via Topological Alignment Graph

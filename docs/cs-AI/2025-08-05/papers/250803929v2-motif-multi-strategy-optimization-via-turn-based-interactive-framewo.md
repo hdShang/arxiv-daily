@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MOTIF: Multi-strategy Optimization via Turn-based Interactive Framework
+title: "MOTIF: Multi-strategy Optimization via Turn-based Interactive Framework"
 ---
 
 # MOTIF: Multi-strategy Optimization via Turn-based Interactive Framework

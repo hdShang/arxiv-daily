@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AdaTP: Attention-Debiased Token Pruning for Video Large Language Models
+title: "AdaTP: Attention-Debiased Token Pruning for Video Large Language Models"
 ---
 
 # AdaTP: Attention-Debiased Token Pruning for Video Large Language Models

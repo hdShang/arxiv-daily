@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Orchid: Orchestrating Context Across Creative Workflows with Generative AI
+title: "Orchid: Orchestrating Context Across Creative Workflows with Generative AI"
 ---
 
 # Orchid: Orchestrating Context Across Creative Workflows with Generative AI

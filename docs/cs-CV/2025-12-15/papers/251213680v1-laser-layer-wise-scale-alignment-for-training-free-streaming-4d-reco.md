@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction
+title: "LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction"
 ---
 
 # LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction

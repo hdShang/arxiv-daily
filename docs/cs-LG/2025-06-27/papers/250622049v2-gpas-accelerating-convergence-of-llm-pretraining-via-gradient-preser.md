@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GPAS: Accelerating Convergence of LLM Pretraining via Gradient-Preserving Activation Scaling
+title: "GPAS: Accelerating Convergence of LLM Pretraining via Gradient-Preserving Activation Scaling"
 ---
 
 # GPAS: Accelerating Convergence of LLM Pretraining via Gradient-Preserving Activation Scaling

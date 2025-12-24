@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Industrial brain: a human-like autonomous neuro-symbolic cognitive decision-making system
+title: "Industrial brain: a human-like autonomous neuro-symbolic cognitive decision-making system"
 ---
 
 # Industrial brain: a human-like autonomous neuro-symbolic cognitive decision-making system

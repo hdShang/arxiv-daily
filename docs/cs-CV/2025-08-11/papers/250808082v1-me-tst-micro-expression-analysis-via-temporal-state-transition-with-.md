@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ME-TST+: Micro-expression Analysis via Temporal State Transition with ROI Relationship Awareness
+title: "ME-TST+: Micro-expression Analysis via Temporal State Transition with ROI Relationship Awareness"
 ---
 
 # ME-TST+: Micro-expression Analysis via Temporal State Transition with ROI Relationship Awareness

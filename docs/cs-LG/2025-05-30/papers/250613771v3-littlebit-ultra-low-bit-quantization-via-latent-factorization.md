@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LittleBit: Ultra Low-Bit Quantization via Latent Factorization
+title: "LittleBit: Ultra Low-Bit Quantization via Latent Factorization"
 ---
 
 # LittleBit: Ultra Low-Bit Quantization via Latent Factorization

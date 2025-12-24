@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives
+title: "CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives"
 ---
 
 # CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives

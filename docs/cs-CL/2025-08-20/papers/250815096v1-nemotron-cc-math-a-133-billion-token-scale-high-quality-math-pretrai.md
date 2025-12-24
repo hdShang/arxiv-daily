@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nemotron-CC-Math: A 133 Billion-Token-Scale High Quality Math Pretraining Dataset
+title: "Nemotron-CC-Math: A 133 Billion-Token-Scale High Quality Math Pretraining Dataset"
 ---
 
 # Nemotron-CC-Math: A 133 Billion-Token-Scale High Quality Math Pretraining Dataset

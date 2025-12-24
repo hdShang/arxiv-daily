@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SocialNav-SUB: Benchmarking VLMs for Scene Understanding in Social Robot Navigation
+title: "SocialNav-SUB: Benchmarking VLMs for Scene Understanding in Social Robot Navigation"
 ---
 
 # SocialNav-SUB: Benchmarking VLMs for Scene Understanding in Social Robot Navigation

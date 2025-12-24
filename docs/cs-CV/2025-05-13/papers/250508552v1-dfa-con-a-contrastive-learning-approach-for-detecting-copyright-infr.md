@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DFA-CON: A Contrastive Learning Approach for Detecting Copyright Infringement in DeepFake Art
+title: "DFA-CON: A Contrastive Learning Approach for Detecting Copyright Infringement in DeepFake Art"
 ---
 
 # DFA-CON: A Contrastive Learning Approach for Detecting Copyright Infringement in DeepFake Art

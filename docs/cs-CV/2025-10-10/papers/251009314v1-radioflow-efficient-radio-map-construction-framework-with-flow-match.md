@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RadioFlow: Efficient Radio Map Construction Framework with Flow Matching
+title: "RadioFlow: Efficient Radio Map Construction Framework with Flow Matching"
 ---
 
 # RadioFlow: Efficient Radio Map Construction Framework with Flow Matching

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MIMIC: Multimodal Inversion for Model Interpretation and Conceptualization
+title: "MIMIC: Multimodal Inversion for Model Interpretation and Conceptualization"
 ---
 
 # MIMIC: Multimodal Inversion for Model Interpretation and Conceptualization

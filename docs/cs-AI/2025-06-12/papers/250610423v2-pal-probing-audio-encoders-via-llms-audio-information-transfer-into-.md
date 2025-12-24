@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PAL: Probing Audio Encoders via LLMs - Audio Information Transfer into LLMs
+title: "PAL: Probing Audio Encoders via LLMs - Audio Information Transfer into LLMs"
 ---
 
 # PAL: Probing Audio Encoders via LLMs - Audio Information Transfer into LLMs

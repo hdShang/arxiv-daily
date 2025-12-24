@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Detection to Anticipation: Online Understanding of Struggles across Various Tasks and Activities
+title: "From Detection to Anticipation: Online Understanding of Struggles across Various Tasks and Activities"
 ---
 
 # From Detection to Anticipation: Online Understanding of Struggles across Various Tasks and Activities

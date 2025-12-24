@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Experts to a Generalist: Toward General Whole-Body Control for Humanoid Robots
+title: "From Experts to a Generalist: Toward General Whole-Body Control for Humanoid Robots"
 ---
 
 # From Experts to a Generalist: Toward General Whole-Body Control for Humanoid Robots

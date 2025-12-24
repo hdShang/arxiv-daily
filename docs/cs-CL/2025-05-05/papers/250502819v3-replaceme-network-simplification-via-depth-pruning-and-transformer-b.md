@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReplaceMe: Network Simplification via Depth Pruning and Transformer Block Linearization
+title: "ReplaceMe: Network Simplification via Depth Pruning and Transformer Block Linearization"
 ---
 
 # ReplaceMe: Network Simplification via Depth Pruning and Transformer Block Linearization

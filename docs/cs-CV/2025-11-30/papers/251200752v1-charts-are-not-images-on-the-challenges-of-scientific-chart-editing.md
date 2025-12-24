@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Charts Are Not Images: On the Challenges of Scientific Chart Editing
+title: "Charts Are Not Images: On the Challenges of Scientific Chart Editing"
 ---
 
 # Charts Are Not Images: On the Challenges of Scientific Chart Editing

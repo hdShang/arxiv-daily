@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spatial Traces: Enhancing VLA Models with Spatial-Temporal Understanding
+title: "Spatial Traces: Enhancing VLA Models with Spatial-Temporal Understanding"
 ---
 
 # Spatial Traces: Enhancing VLA Models with Spatial-Temporal Understanding

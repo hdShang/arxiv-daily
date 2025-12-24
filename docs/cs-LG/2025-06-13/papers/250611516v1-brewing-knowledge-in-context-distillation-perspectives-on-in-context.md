@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Brewing Knowledge in Context: Distillation Perspectives on In-Context Learning
+title: "Brewing Knowledge in Context: Distillation Perspectives on In-Context Learning"
 ---
 
 # Brewing Knowledge in Context: Distillation Perspectives on In-Context Learning

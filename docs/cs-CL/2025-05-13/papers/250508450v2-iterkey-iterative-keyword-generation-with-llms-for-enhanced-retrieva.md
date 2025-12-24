@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IterKey: Iterative Keyword Generation with LLMs for Enhanced Retrieval Augmented Generation
+title: "IterKey: Iterative Keyword Generation with LLMs for Enhanced Retrieval Augmented Generation"
 ---
 
 # IterKey: Iterative Keyword Generation with LLMs for Enhanced Retrieval Augmented Generation

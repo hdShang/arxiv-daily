@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unveiling the Landscape of LLM Deployment in the Wild: An Empirical Study
+title: "Unveiling the Landscape of LLM Deployment in the Wild: An Empirical Study"
 ---
 
 # Unveiling the Landscape of LLM Deployment in the Wild: An Empirical Study

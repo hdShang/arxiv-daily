@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Causal Head Gating: A Framework for Interpreting Roles of Attention Heads in Transformers
+title: "Causal Head Gating: A Framework for Interpreting Roles of Attention Heads in Transformers"
 ---
 
 # Causal Head Gating: A Framework for Interpreting Roles of Attention Heads in Transformers

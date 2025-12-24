@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FORTE: Tactile Force and Slip Sensing on Compliant Fingers for Delicate Manipulation
+title: "FORTE: Tactile Force and Slip Sensing on Compliant Fingers for Delicate Manipulation"
 ---
 
 # FORTE: Tactile Force and Slip Sensing on Compliant Fingers for Delicate Manipulation

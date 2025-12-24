@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MEVITA: Open-Source Bipedal Robot Assembled from E-Commerce Components via Sheet Metal Welding
+title: "MEVITA: Open-Source Bipedal Robot Assembled from E-Commerce Components via Sheet Metal Welding"
 ---
 
 # MEVITA: Open-Source Bipedal Robot Assembled from E-Commerce Components via Sheet Metal Welding

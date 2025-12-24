@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TRUST: Test-Time Refinement using Uncertainty-Guided SSM Traverses
+title: "TRUST: Test-Time Refinement using Uncertainty-Guided SSM Traverses"
 ---
 
 # TRUST: Test-Time Refinement using Uncertainty-Guided SSM Traverses

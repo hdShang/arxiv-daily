@@ -1,6 +1,6 @@
 ---
 layout: default
-title: $\text{M}^{2}$LLM: Multi-view Molecular Representation Learning with Large Language Models
+title: "$\\text{M}^{2}$LLM: Multi-view Molecular Representation Learning with Large Language Models"
 ---
 
 # $\text{M}^{2}$LLM: Multi-view Molecular Representation Learning with Large Language Models

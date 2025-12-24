@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SaFiRe: Saccade-Fixation Reiteration with Mamba for Referring Image Segmentation
+title: "SaFiRe: Saccade-Fixation Reiteration with Mamba for Referring Image Segmentation"
 ---
 
 # SaFiRe: Saccade-Fixation Reiteration with Mamba for Referring Image Segmentation

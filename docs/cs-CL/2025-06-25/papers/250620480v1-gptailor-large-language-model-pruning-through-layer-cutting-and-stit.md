@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GPTailor: Large Language Model Pruning Through Layer Cutting and Stitching
+title: "GPTailor: Large Language Model Pruning Through Layer Cutting and Stitching"
 ---
 
 # GPTailor: Large Language Model Pruning Through Layer Cutting and Stitching

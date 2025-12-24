@@ -1,6 +1,6 @@
 ---
 layout: default
-title: STORM: Segment, Track, and Object Re-Localization from a Single Image
+title: "STORM: Segment, Track, and Object Re-Localization from a Single Image"
 ---
 
 # STORM: Segment, Track, and Object Re-Localization from a Single Image

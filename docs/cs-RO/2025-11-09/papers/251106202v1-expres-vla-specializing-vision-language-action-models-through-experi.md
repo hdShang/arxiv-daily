@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ExpReS-VLA: Specializing Vision-Language-Action Models Through Experience Replay and Retrieval
+title: "ExpReS-VLA: Specializing Vision-Language-Action Models Through Experience Replay and Retrieval"
 ---
 
 # ExpReS-VLA: Specializing Vision-Language-Action Models Through Experience Replay and Retrieval

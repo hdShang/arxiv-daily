@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NMPC-Lander: Nonlinear MPC with Barrier Function for UAV Landing on a Mobile Platform
+title: "NMPC-Lander: Nonlinear MPC with Barrier Function for UAV Landing on a Mobile Platform"
 ---
 
 # NMPC-Lander: Nonlinear MPC with Barrier Function for UAV Landing on a Mobile Platform

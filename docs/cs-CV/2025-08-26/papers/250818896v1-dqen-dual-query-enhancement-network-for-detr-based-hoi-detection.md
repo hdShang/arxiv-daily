@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DQEN: Dual Query Enhancement Network for DETR-based HOI Detection
+title: "DQEN: Dual Query Enhancement Network for DETR-based HOI Detection"
 ---
 
 # DQEN: Dual Query Enhancement Network for DETR-based HOI Detection

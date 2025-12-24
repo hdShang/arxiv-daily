@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Why and When Deep is Better than Shallow: An Implementation-Agnostic State-Transition View of Depth Supremacy
+title: "Why and When Deep is Better than Shallow: An Implementation-Agnostic State-Transition View of Depth Supremacy"
 ---
 
 # Why and When Deep is Better than Shallow: An Implementation-Agnostic State-Transition View of Depth Supremacy

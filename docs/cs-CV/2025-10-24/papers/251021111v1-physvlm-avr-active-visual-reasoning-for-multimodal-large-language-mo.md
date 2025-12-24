@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PhysVLM-AVR: Active Visual Reasoning for Multimodal Large Language Models in Physical Environments
+title: "PhysVLM-AVR: Active Visual Reasoning for Multimodal Large Language Models in Physical Environments"
 ---
 
 # PhysVLM-AVR: Active Visual Reasoning for Multimodal Large Language Models in Physical Environments

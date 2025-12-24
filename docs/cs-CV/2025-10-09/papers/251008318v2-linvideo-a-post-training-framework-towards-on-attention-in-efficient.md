@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LinVideo: A Post-Training Framework towards O(n) Attention in Efficient Video Generation
+title: "LinVideo: A Post-Training Framework towards O(n) Attention in Efficient Video Generation"
 ---
 
 # LinVideo: A Post-Training Framework towards O(n) Attention in Efficient Video Generation

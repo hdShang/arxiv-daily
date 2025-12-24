@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TARDIS STRIDE: A Spatio-Temporal Road Image Dataset and World Model for Autonomy
+title: "TARDIS STRIDE: A Spatio-Temporal Road Image Dataset and World Model for Autonomy"
 ---
 
 # TARDIS STRIDE: A Spatio-Temporal Road Image Dataset and World Model for Autonomy

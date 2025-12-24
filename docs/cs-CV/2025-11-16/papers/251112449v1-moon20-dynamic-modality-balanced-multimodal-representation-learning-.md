@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MOON2.0: Dynamic Modality-balanced Multimodal Representation Learning for E-commerce Product Understanding
+title: "MOON2.0: Dynamic Modality-balanced Multimodal Representation Learning for E-commerce Product Understanding"
 ---
 
 # MOON2.0: Dynamic Modality-balanced Multimodal Representation Learning for E-commerce Product Understanding

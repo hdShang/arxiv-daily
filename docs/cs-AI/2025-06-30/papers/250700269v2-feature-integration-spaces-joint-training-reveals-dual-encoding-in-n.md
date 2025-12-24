@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Feature Integration Spaces: Joint Training Reveals Dual Encoding in Neural Network Representations
+title: "Feature Integration Spaces: Joint Training Reveals Dual Encoding in Neural Network Representations"
 ---
 
 # Feature Integration Spaces: Joint Training Reveals Dual Encoding in Neural Network Representations

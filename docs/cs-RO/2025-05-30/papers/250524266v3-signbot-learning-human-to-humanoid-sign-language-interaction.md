@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SignBot: Learning Human-to-Humanoid Sign Language Interaction
+title: "SignBot: Learning Human-to-Humanoid Sign Language Interaction"
 ---
 
 # SignBot: Learning Human-to-Humanoid Sign Language Interaction

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SF-Recon: Simplification-Free Lightweight Building Reconstruction via 3D Gaussian Splatting
+title: "SF-Recon: Simplification-Free Lightweight Building Reconstruction via 3D Gaussian Splatting"
 ---
 
 # SF-Recon: Simplification-Free Lightweight Building Reconstruction via 3D Gaussian Splatting

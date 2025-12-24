@@ -1,6 +1,6 @@
 ---
 layout: default
-title: APVR: Hour-Level Long Video Understanding with Adaptive Pivot Visual Information Retrieval
+title: "APVR: Hour-Level Long Video Understanding with Adaptive Pivot Visual Information Retrieval"
 ---
 
 # APVR: Hour-Level Long Video Understanding with Adaptive Pivot Visual Information Retrieval

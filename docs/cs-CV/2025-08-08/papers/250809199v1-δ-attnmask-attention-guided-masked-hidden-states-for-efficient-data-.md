@@ -1,6 +1,6 @@
 ---
 layout: default
-title: $Δ$-AttnMask: Attention-Guided Masked Hidden States for Efficient Data Selection and Augmentation
+title: "$Δ$-AttnMask: Attention-Guided Masked Hidden States for Efficient Data Selection and Augmentation"
 ---
 
 # $Δ$-AttnMask: Attention-Guided Masked Hidden States for Efficient Data Selection and Augmentation

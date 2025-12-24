@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multimodal Generative AI with Autoregressive LLMs for Human Motion Understanding and Generation: A Way Forward
+title: "Multimodal Generative AI with Autoregressive LLMs for Human Motion Understanding and Generation: A Way Forward"
 ---
 
 # Multimodal Generative AI with Autoregressive LLMs for Human Motion Understanding and Generation: A Way Forward

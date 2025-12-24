@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards
+title: "DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards"
 ---
 
 # DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SPIDER: Scalable Physics-Informed Dexterous Retargeting
+title: "SPIDER: Scalable Physics-Informed Dexterous Retargeting"
 ---
 
 # SPIDER: Scalable Physics-Informed Dexterous Retargeting

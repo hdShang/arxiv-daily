@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Merge and Bound: Direct Manipulations on Weights for Class Incremental Learning
+title: "Merge and Bound: Direct Manipulations on Weights for Class Incremental Learning"
 ---
 
 # Merge and Bound: Direct Manipulations on Weights for Class Incremental Learning

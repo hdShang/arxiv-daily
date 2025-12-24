@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PROFL: A Privacy-Preserving Federated Learning Method with Stringent Defense Against Poisoning Attacks
+title: "PROFL: A Privacy-Preserving Federated Learning Method with Stringent Defense Against Poisoning Attacks"
 ---
 
 # PROFL: A Privacy-Preserving Federated Learning Method with Stringent Defense Against Poisoning Attacks

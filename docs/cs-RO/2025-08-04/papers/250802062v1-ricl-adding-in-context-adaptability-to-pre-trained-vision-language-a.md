@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RICL: Adding In-Context Adaptability to Pre-Trained Vision-Language-Action Models
+title: "RICL: Adding In-Context Adaptability to Pre-Trained Vision-Language-Action Models"
 ---
 
 # RICL: Adding In-Context Adaptability to Pre-Trained Vision-Language-Action Models

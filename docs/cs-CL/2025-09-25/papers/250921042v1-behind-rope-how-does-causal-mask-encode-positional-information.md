@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Behind RoPE: How Does Causal Mask Encode Positional Information?
+title: "Behind RoPE: How Does Causal Mask Encode Positional Information?"
 ---
 
 # Behind RoPE: How Does Causal Mask Encode Positional Information?

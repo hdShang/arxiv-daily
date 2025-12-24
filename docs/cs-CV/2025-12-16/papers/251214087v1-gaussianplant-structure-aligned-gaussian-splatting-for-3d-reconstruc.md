@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GaussianPlant: Structure-aligned Gaussian Splatting for 3D Reconstruction of Plants
+title: "GaussianPlant: Structure-aligned Gaussian Splatting for 3D Reconstruction of Plants"
 ---
 
 # GaussianPlant: Structure-aligned Gaussian Splatting for 3D Reconstruction of Plants

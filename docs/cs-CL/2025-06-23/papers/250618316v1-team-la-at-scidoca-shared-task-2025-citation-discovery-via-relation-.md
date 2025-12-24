@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Team LA at SCIDOCA shared task 2025: Citation Discovery via relation-based zero-shot retrieval
+title: "Team LA at SCIDOCA shared task 2025: Citation Discovery via relation-based zero-shot retrieval"
 ---
 
 # Team LA at SCIDOCA shared task 2025: Citation Discovery via relation-based zero-shot retrieval

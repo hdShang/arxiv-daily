@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SimCast: Enhancing Precipitation Nowcasting with Short-to-Long Term Knowledge Distillation
+title: "SimCast: Enhancing Precipitation Nowcasting with Short-to-Long Term Knowledge Distillation"
 ---
 
 # SimCast: Enhancing Precipitation Nowcasting with Short-to-Long Term Knowledge Distillation

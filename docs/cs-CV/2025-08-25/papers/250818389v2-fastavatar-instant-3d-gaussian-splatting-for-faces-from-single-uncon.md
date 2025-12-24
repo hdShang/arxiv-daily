@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FastAvatar: Instant 3D Gaussian Splatting for Faces from Single Unconstrained Poses
+title: "FastAvatar: Instant 3D Gaussian Splatting for Faces from Single Unconstrained Poses"
 ---
 
 # FastAvatar: Instant 3D Gaussian Splatting for Faces from Single Unconstrained Poses

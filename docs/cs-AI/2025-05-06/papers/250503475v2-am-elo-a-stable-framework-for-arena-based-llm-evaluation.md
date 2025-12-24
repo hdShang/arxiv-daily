@@ -1,6 +1,6 @@
 ---
 layout: default
-title: am-ELO: A Stable Framework for Arena-based LLM Evaluation
+title: "am-ELO: A Stable Framework for Arena-based LLM Evaluation"
 ---
 
 # am-ELO: A Stable Framework for Arena-based LLM Evaluation

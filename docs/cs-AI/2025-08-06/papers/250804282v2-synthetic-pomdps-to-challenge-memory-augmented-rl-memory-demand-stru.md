@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Synthetic POMDPs to Challenge Memory-Augmented RL: Memory Demand Structure Modeling
+title: "Synthetic POMDPs to Challenge Memory-Augmented RL: Memory Demand Structure Modeling"
 ---
 
 # Synthetic POMDPs to Challenge Memory-Augmented RL: Memory Demand Structure Modeling

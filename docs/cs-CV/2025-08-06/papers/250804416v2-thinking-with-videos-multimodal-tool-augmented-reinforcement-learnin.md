@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning
+title: "Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning"
 ---
 
 # Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning

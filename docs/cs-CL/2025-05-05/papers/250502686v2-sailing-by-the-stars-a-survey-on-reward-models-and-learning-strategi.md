@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sailing by the Stars: A Survey on Reward Models and Learning Strategies for Learning from Rewards
+title: "Sailing by the Stars: A Survey on Reward Models and Learning Strategies for Learning from Rewards"
 ---
 
 # Sailing by the Stars: A Survey on Reward Models and Learning Strategies for Learning from Rewards

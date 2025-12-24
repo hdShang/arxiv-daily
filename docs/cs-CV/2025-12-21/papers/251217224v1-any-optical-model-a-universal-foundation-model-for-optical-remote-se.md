@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Any-Optical-Model: A Universal Foundation Model for Optical Remote Sensing
+title: "Any-Optical-Model: A Universal Foundation Model for Optical Remote Sensing"
 ---
 
 # Any-Optical-Model: A Universal Foundation Model for Optical Remote Sensing

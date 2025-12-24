@@ -1,6 +1,6 @@
 ---
 layout: default
-title: USF-MAE: Ultrasound Self-Supervised Foundation Model with Masked Autoencoding
+title: "USF-MAE: Ultrasound Self-Supervised Foundation Model with Masked Autoencoding"
 ---
 
 # USF-MAE: Ultrasound Self-Supervised Foundation Model with Masked Autoencoding

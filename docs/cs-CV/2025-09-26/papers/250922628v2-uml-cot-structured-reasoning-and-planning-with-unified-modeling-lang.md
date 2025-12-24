@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UML-CoT: Structured Reasoning and Planning with Unified Modeling Language for Robotic Room Cleaning
+title: "UML-CoT: Structured Reasoning and Planning with Unified Modeling Language for Robotic Room Cleaning"
 ---
 
 # UML-CoT: Structured Reasoning and Planning with Unified Modeling Language for Robotic Room Cleaning

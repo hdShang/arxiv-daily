@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ThinkSwitcher: When to Think Hard, When to Think Fast
+title: "ThinkSwitcher: When to Think Hard, When to Think Fast"
 ---
 
 # ThinkSwitcher: When to Think Hard, When to Think Fast

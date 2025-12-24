@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PolarGrad: A Class of Matrix-Gradient Optimizers from a Unifying Preconditioning Perspective
+title: "PolarGrad: A Class of Matrix-Gradient Optimizers from a Unifying Preconditioning Perspective"
 ---
 
 # PolarGrad: A Class of Matrix-Gradient Optimizers from a Unifying Preconditioning Perspective

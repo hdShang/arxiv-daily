@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MTS-DMAE: Dual-Masked Autoencoder for Unsupervised Multivariate Time Series Representation Learning
+title: "MTS-DMAE: Dual-Masked Autoencoder for Unsupervised Multivariate Time Series Representation Learning"
 ---
 
 # MTS-DMAE: Dual-Masked Autoencoder for Unsupervised Multivariate Time Series Representation Learning

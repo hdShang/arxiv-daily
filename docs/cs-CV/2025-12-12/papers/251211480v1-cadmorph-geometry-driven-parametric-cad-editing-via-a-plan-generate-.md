@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CADMorph: Geometry-Driven Parametric CAD Editing via a Plan-Generate-Verify Loop
+title: "CADMorph: Geometry-Driven Parametric CAD Editing via a Plan-Generate-Verify Loop"
 ---
 
 # CADMorph: Geometry-Driven Parametric CAD Editing via a Plan-Generate-Verify Loop

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: X-Sim: Cross-Embodiment Learning via Real-to-Sim-to-Real
+title: "X-Sim: Cross-Embodiment Learning via Real-to-Sim-to-Real"
 ---
 
 # X-Sim: Cross-Embodiment Learning via Real-to-Sim-to-Real

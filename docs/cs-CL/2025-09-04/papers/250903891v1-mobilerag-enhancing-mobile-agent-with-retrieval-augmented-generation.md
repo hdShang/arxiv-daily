@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MobileRAG: Enhancing Mobile Agent with Retrieval-Augmented Generation
+title: "MobileRAG: Enhancing Mobile Agent with Retrieval-Augmented Generation"
 ---
 
 # MobileRAG: Enhancing Mobile Agent with Retrieval-Augmented Generation

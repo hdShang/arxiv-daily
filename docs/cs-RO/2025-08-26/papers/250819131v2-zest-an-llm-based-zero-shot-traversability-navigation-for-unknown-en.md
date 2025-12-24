@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ZeST: an LLM-based Zero-Shot Traversability Navigation for Unknown Environments
+title: "ZeST: an LLM-based Zero-Shot Traversability Navigation for Unknown Environments"
 ---
 
 # ZeST: an LLM-based Zero-Shot Traversability Navigation for Unknown Environments

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multi-Turn Puzzles: Evaluating Interactive Reasoning and Strategic Dialogue in LLMs
+title: "Multi-Turn Puzzles: Evaluating Interactive Reasoning and Strategic Dialogue in LLMs"
 ---
 
 # Multi-Turn Puzzles: Evaluating Interactive Reasoning and Strategic Dialogue in LLMs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Light-X: Generative 4D Video Rendering with Camera and Illumination Control
+title: "Light-X: Generative 4D Video Rendering with Camera and Illumination Control"
 ---
 
 # Light-X: Generative 4D Video Rendering with Camera and Illumination Control

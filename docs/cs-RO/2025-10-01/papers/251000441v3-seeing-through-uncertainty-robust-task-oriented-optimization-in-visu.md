@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seeing through Uncertainty: Robust Task-Oriented Optimization in Visual Navigation
+title: "Seeing through Uncertainty: Robust Task-Oriented Optimization in Visual Navigation"
 ---
 
 # Seeing through Uncertainty: Robust Task-Oriented Optimization in Visual Navigation

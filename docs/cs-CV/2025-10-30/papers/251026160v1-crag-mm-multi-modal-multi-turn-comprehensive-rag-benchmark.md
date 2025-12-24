@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CRAG-MM: Multi-modal Multi-turn Comprehensive RAG Benchmark
+title: "CRAG-MM: Multi-modal Multi-turn Comprehensive RAG Benchmark"
 ---
 
 # CRAG-MM: Multi-modal Multi-turn Comprehensive RAG Benchmark

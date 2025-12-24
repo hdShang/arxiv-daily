@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HumanoidVerse: A Versatile Humanoid for Vision-Language Guided Multi-Object Rearrangement
+title: "HumanoidVerse: A Versatile Humanoid for Vision-Language Guided Multi-Object Rearrangement"
 ---
 
 # HumanoidVerse: A Versatile Humanoid for Vision-Language Guided Multi-Object Rearrangement

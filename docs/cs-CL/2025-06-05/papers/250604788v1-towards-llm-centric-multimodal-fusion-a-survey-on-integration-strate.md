@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards LLM-Centric Multimodal Fusion: A Survey on Integration Strategies and Techniques
+title: "Towards LLM-Centric Multimodal Fusion: A Survey on Integration Strategies and Techniques"
 ---
 
 # Towards LLM-Centric Multimodal Fusion: A Survey on Integration Strategies and Techniques

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: APML: Adaptive Probabilistic Matching Loss for Robust 3D Point Cloud Reconstruction
+title: "APML: Adaptive Probabilistic Matching Loss for Robust 3D Point Cloud Reconstruction"
 ---
 
 # APML: Adaptive Probabilistic Matching Loss for Robust 3D Point Cloud Reconstruction

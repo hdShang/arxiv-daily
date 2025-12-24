@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GM-PRM: A Generative Multimodal Process Reward Model for Multimodal Mathematical Reasoning
+title: "GM-PRM: A Generative Multimodal Process Reward Model for Multimodal Mathematical Reasoning"
 ---
 
 # GM-PRM: A Generative Multimodal Process Reward Model for Multimodal Mathematical Reasoning

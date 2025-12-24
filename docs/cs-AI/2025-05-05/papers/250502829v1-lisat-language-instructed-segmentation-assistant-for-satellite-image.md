@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LISAT: Language-Instructed Segmentation Assistant for Satellite Imagery
+title: "LISAT: Language-Instructed Segmentation Assistant for Satellite Imagery"
 ---
 
 # LISAT: Language-Instructed Segmentation Assistant for Satellite Imagery

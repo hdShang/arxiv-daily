@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Benchmark: LLMs Evaluation with an Anthropomorphic and Value-oriented Roadmap
+title: "Beyond Benchmark: LLMs Evaluation with an Anthropomorphic and Value-oriented Roadmap"
 ---
 
 # Beyond Benchmark: LLMs Evaluation with an Anthropomorphic and Value-oriented Roadmap

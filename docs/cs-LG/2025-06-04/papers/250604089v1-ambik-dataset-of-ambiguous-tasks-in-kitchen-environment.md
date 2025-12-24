@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AmbiK: Dataset of Ambiguous Tasks in Kitchen Environment
+title: "AmbiK: Dataset of Ambiguous Tasks in Kitchen Environment"
 ---
 
 # AmbiK: Dataset of Ambiguous Tasks in Kitchen Environment

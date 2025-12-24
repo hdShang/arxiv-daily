@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OpenTie: Open-vocabulary Sequential Rebar Tying System
+title: "OpenTie: Open-vocabulary Sequential Rebar Tying System"
 ---
 
 # OpenTie: Open-vocabulary Sequential Rebar Tying System

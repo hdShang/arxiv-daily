@@ -1,6 +1,6 @@
 ---
 layout: default
-title: E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training
+title: "E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training"
 ---
 
 # E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training

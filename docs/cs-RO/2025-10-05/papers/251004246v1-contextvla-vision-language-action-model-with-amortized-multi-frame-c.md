@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ContextVLA: Vision-Language-Action Model with Amortized Multi-Frame Context
+title: "ContextVLA: Vision-Language-Action Model with Amortized Multi-Frame Context"
 ---
 
 # ContextVLA: Vision-Language-Action Model with Amortized Multi-Frame Context

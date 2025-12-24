@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Frontier: Simulating the Next Generation of LLM Inference Systems
+title: "Frontier: Simulating the Next Generation of LLM Inference Systems"
 ---
 
 # Frontier: Simulating the Next Generation of LLM Inference Systems

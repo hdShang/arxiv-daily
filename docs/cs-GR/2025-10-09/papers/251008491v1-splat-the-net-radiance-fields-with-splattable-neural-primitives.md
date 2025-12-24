@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Splat the Net: Radiance Fields with Splattable Neural Primitives
+title: "Splat the Net: Radiance Fields with Splattable Neural Primitives"
 ---
 
 # Splat the Net: Radiance Fields with Splattable Neural Primitives

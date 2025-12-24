@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spatial-ViLT: Enhancing Visual Spatial Reasoning through Multi-Task Learning
+title: "Spatial-ViLT: Enhancing Visual Spatial Reasoning through Multi-Task Learning"
 ---
 
 # Spatial-ViLT: Enhancing Visual Spatial Reasoning through Multi-Task Learning

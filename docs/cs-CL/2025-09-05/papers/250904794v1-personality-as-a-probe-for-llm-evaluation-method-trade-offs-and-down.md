@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Personality as a Probe for LLM Evaluation: Method Trade-offs and Downstream Effects
+title: "Personality as a Probe for LLM Evaluation: Method Trade-offs and Downstream Effects"
 ---
 
 # Personality as a Probe for LLM Evaluation: Method Trade-offs and Downstream Effects

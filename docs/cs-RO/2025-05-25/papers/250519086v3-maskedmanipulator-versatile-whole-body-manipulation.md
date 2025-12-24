@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MaskedManipulator: Versatile Whole-Body Manipulation
+title: "MaskedManipulator: Versatile Whole-Body Manipulation"
 ---
 
 # MaskedManipulator: Versatile Whole-Body Manipulation

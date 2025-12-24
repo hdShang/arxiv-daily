@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GAINS: Gaussian-based Inverse Rendering from Sparse Multi-View Captures
+title: "GAINS: Gaussian-based Inverse Rendering from Sparse Multi-View Captures"
 ---
 
 # GAINS: Gaussian-based Inverse Rendering from Sparse Multi-View Captures

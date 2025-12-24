@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CookBench: A Long-Horizon Embodied Planning Benchmark for Complex Cooking Scenarios
+title: "CookBench: A Long-Horizon Embodied Planning Benchmark for Complex Cooking Scenarios"
 ---
 
 # CookBench: A Long-Horizon Embodied Planning Benchmark for Complex Cooking Scenarios

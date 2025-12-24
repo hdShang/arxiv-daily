@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bridging Simulation and Reality: Cross-Domain Transfer with Semantic 2D Gaussian Splatting
+title: "Bridging Simulation and Reality: Cross-Domain Transfer with Semantic 2D Gaussian Splatting"
 ---
 
 # Bridging Simulation and Reality: Cross-Domain Transfer with Semantic 2D Gaussian Splatting

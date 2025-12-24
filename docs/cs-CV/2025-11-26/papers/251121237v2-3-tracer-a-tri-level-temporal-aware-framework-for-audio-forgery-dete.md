@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3-Tracer: A Tri-level Temporal-Aware Framework for Audio Forgery Detection and Localization
+title: "3-Tracer: A Tri-level Temporal-Aware Framework for Audio Forgery Detection and Localization"
 ---
 
 # 3-Tracer: A Tri-level Temporal-Aware Framework for Audio Forgery Detection and Localization

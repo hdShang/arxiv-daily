@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SoftNash: Entropy-Regularized Nash Games for Non-Fighting Virtual Fixtures
+title: "SoftNash: Entropy-Regularized Nash Games for Non-Fighting Virtual Fixtures"
 ---
 
 # SoftNash: Entropy-Regularized Nash Games for Non-Fighting Virtual Fixtures

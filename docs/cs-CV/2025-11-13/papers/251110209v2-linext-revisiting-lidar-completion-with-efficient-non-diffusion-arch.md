@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LiNeXt: Revisiting LiDAR Completion with Efficient Non-Diffusion Architectures
+title: "LiNeXt: Revisiting LiDAR Completion with Efficient Non-Diffusion Architectures"
 ---
 
 # LiNeXt: Revisiting LiDAR Completion with Efficient Non-Diffusion Architectures

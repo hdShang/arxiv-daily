@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LongVie 2: Multimodal Controllable Ultra-Long Video World Model
+title: "LongVie 2: Multimodal Controllable Ultra-Long Video World Model"
 ---
 
 # LongVie 2: Multimodal Controllable Ultra-Long Video World Model

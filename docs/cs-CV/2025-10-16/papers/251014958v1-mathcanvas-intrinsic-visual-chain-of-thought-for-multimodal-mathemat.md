@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal Mathematical Reasoning
+title: "MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal Mathematical Reasoning"
 ---
 
 # MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal Mathematical Reasoning

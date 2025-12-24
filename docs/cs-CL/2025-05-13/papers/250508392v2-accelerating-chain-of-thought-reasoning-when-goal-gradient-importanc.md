@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Accelerating Chain-of-Thought Reasoning: When Goal-Gradient Importance Meets Dynamic Skipping
+title: "Accelerating Chain-of-Thought Reasoning: When Goal-Gradient Importance Meets Dynamic Skipping"
 ---
 
 # Accelerating Chain-of-Thought Reasoning: When Goal-Gradient Importance Meets Dynamic Skipping

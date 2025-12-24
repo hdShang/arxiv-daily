@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning
+title: "SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning"
 ---
 
 # SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning

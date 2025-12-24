@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HoliTom: Holistic Token Merging for Fast Video Large Language Models
+title: "HoliTom: Holistic Token Merging for Fast Video Large Language Models"
 ---
 
 # HoliTom: Holistic Token Merging for Fast Video Large Language Models

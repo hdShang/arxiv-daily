@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Constrained Entropic Unlearning: A Primal-Dual Framework for Large Language Models
+title: "Constrained Entropic Unlearning: A Primal-Dual Framework for Large Language Models"
 ---
 
 # Constrained Entropic Unlearning: A Primal-Dual Framework for Large Language Models

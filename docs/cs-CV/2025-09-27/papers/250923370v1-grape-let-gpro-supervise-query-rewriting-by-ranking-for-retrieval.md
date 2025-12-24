@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GRAPE: Let GPRO Supervise Query Rewriting by Ranking for Retrieval
+title: "GRAPE: Let GPRO Supervise Query Rewriting by Ranking for Retrieval"
 ---
 
 # GRAPE: Let GPRO Supervise Query Rewriting by Ranking for Retrieval

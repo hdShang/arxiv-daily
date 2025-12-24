@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Phy-Tac: Toward Human-Like Grasping via Physics-Conditioned Tactile Goals
+title: "Phy-Tac: Toward Human-Like Grasping via Physics-Conditioned Tactile Goals"
 ---
 
 # Phy-Tac: Toward Human-Like Grasping via Physics-Conditioned Tactile Goals

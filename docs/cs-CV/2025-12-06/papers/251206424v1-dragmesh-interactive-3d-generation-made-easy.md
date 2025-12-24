@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DragMesh: Interactive 3D Generation Made Easy
+title: "DragMesh: Interactive 3D Generation Made Easy"
 ---
 
 # DragMesh: Interactive 3D Generation Made Easy

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LEAF: A Robust Expert-Based Framework for Few-Shot Continual Event Detection
+title: "LEAF: A Robust Expert-Based Framework for Few-Shot Continual Event Detection"
 ---
 
 # LEAF: A Robust Expert-Based Framework for Few-Shot Continual Event Detection

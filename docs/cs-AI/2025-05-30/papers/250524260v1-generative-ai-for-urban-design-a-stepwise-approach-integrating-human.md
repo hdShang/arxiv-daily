@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Generative AI for Urban Design: A Stepwise Approach Integrating Human Expertise with Multimodal Diffusion Models
+title: "Generative AI for Urban Design: A Stepwise Approach Integrating Human Expertise with Multimodal Diffusion Models"
 ---
 
 # Generative AI for Urban Design: A Stepwise Approach Integrating Human Expertise with Multimodal Diffusion Models

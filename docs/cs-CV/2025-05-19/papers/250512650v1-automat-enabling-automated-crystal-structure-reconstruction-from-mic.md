@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AutoMat: Enabling Automated Crystal Structure Reconstruction from Microscopy via Agentic Tool Use
+title: "AutoMat: Enabling Automated Crystal Structure Reconstruction from Microscopy via Agentic Tool Use"
 ---
 
 # AutoMat: Enabling Automated Crystal Structure Reconstruction from Microscopy via Agentic Tool Use

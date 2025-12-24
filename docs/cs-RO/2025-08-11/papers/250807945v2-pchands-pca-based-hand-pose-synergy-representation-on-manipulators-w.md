@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PCHands: PCA-based Hand Pose Synergy Representation on Manipulators with N-DoF
+title: "PCHands: PCA-based Hand Pose Synergy Representation on Manipulators with N-DoF"
 ---
 
 # PCHands: PCA-based Hand Pose Synergy Representation on Manipulators with N-DoF

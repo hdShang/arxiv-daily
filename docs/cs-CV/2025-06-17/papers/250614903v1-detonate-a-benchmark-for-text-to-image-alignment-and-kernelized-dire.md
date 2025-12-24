@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DETONATE: A Benchmark for Text-to-Image Alignment and Kernelized Direct Preference Optimization
+title: "DETONATE: A Benchmark for Text-to-Image Alignment and Kernelized Direct Preference Optimization"
 ---
 
 # DETONATE: A Benchmark for Text-to-Image Alignment and Kernelized Direct Preference Optimization

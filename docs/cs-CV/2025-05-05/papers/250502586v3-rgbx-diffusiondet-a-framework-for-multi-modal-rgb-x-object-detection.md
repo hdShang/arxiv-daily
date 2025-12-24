@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RGBX-DiffusionDet: A Framework for Multi-Modal RGB-X Object Detection Using DiffusionDet
+title: "RGBX-DiffusionDet: A Framework for Multi-Modal RGB-X Object Detection Using DiffusionDet"
 ---
 
 # RGBX-DiffusionDet: A Framework for Multi-Modal RGB-X Object Detection Using DiffusionDet

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Avatar4D: Synthesizing Domain-Specific 4D Humans for Real-World Pose Estimation
+title: "Avatar4D: Synthesizing Domain-Specific 4D Humans for Real-World Pose Estimation"
 ---
 
 # Avatar4D: Synthesizing Domain-Specific 4D Humans for Real-World Pose Estimation

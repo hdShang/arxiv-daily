@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RadarGen: Automotive Radar Point Cloud Generation from Cameras
+title: "RadarGen: Automotive Radar Point Cloud Generation from Cameras"
 ---
 
 # RadarGen: Automotive Radar Point Cloud Generation from Cameras

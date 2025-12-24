@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Leaner Training, Lower Leakage: Revisiting Memorization in LLM Fine-Tuning with LoRA
+title: "Leaner Training, Lower Leakage: Revisiting Memorization in LLM Fine-Tuning with LoRA"
 ---
 
 # Leaner Training, Lower Leakage: Revisiting Memorization in LLM Fine-Tuning with LoRA

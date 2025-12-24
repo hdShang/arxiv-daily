@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Whole-Body Proprioceptive Morphing: A Modular Soft Gripper for Robust Cross-Scale Grasping
+title: "Whole-Body Proprioceptive Morphing: A Modular Soft Gripper for Robust Cross-Scale Grasping"
 ---
 
 # Whole-Body Proprioceptive Morphing: A Modular Soft Gripper for Robust Cross-Scale Grasping

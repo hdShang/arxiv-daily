@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoMAD: A Multiple-Teacher Self-Supervised Distillation Framework
+title: "CoMAD: A Multiple-Teacher Self-Supervised Distillation Framework"
 ---
 
 # CoMAD: A Multiple-Teacher Self-Supervised Distillation Framework

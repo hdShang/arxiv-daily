@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SGM: A Framework for Building Specification-Guided Moderation Filters
+title: "SGM: A Framework for Building Specification-Guided Moderation Filters"
 ---
 
 # SGM: A Framework for Building Specification-Guided Moderation Filters

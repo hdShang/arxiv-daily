@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Capture and Interact: Rapid 3D Object Acquisition and Rendering with Gaussian Splatting in Unity
+title: "Capture and Interact: Rapid 3D Object Acquisition and Rendering with Gaussian Splatting in Unity"
 ---
 
 # Capture and Interact: Rapid 3D Object Acquisition and Rendering with Gaussian Splatting in Unity

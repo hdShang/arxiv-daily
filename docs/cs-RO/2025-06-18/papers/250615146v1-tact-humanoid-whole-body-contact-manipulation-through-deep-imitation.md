@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TACT: Humanoid Whole-body Contact Manipulation through Deep Imitation Learning with Tactile Modality
+title: "TACT: Humanoid Whole-body Contact Manipulation through Deep Imitation Learning with Tactile Modality"
 ---
 
 # TACT: Humanoid Whole-body Contact Manipulation through Deep Imitation Learning with Tactile Modality

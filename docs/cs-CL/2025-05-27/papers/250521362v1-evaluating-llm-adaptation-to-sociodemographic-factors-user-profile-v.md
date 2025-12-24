@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Evaluating LLM Adaptation to Sociodemographic Factors: User Profile vs. Dialogue History
+title: "Evaluating LLM Adaptation to Sociodemographic Factors: User Profile vs. Dialogue History"
 ---
 
 # Evaluating LLM Adaptation to Sociodemographic Factors: User Profile vs. Dialogue History

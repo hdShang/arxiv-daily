@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Performative Policy Gradient: Optimality in Performative Reinforcement Learning
+title: "Performative Policy Gradient: Optimality in Performative Reinforcement Learning"
 ---
 
 # Performative Policy Gradient: Optimality in Performative Reinforcement Learning

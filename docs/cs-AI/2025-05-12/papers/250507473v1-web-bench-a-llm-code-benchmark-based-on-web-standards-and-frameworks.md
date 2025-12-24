@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Web-Bench: A LLM Code Benchmark Based on Web Standards and Frameworks
+title: "Web-Bench: A LLM Code Benchmark Based on Web Standards and Frameworks"
 ---
 
 # Web-Bench: A LLM Code Benchmark Based on Web Standards and Frameworks

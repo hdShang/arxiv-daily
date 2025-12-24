@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeepSparse: A Foundation Model for Sparse-View CBCT Reconstruction
+title: "DeepSparse: A Foundation Model for Sparse-View CBCT Reconstruction"
 ---
 
 # DeepSparse: A Foundation Model for Sparse-View CBCT Reconstruction

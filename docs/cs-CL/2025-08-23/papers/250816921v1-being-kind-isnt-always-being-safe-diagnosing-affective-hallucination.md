@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Being Kind Isn't Always Being Safe: Diagnosing Affective Hallucination in LLMs
+title: "Being Kind Isn't Always Being Safe: Diagnosing Affective Hallucination in LLMs"
 ---
 
 # Being Kind Isn't Always Being Safe: Diagnosing Affective Hallucination in LLMs

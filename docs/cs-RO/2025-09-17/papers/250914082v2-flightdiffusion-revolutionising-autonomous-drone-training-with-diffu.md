@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FlightDiffusion: Revolutionising Autonomous Drone Training with Diffusion Models Generating FPV Video
+title: "FlightDiffusion: Revolutionising Autonomous Drone Training with Diffusion Models Generating FPV Video"
 ---
 
 # FlightDiffusion: Revolutionising Autonomous Drone Training with Diffusion Models Generating FPV Video

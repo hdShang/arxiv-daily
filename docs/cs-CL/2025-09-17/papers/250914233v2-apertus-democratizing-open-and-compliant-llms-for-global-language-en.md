@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Apertus: Democratizing Open and Compliant LLMs for Global Language Environments
+title: "Apertus: Democratizing Open and Compliant LLMs for Global Language Environments"
 ---
 
 # Apertus: Democratizing Open and Compliant LLMs for Global Language Environments

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Open Foundation Language Model and Corpus for Macedonian: A Low-Resource Language
+title: "Towards Open Foundation Language Model and Corpus for Macedonian: A Low-Resource Language"
 ---
 
 # Towards Open Foundation Language Model and Corpus for Macedonian: A Low-Resource Language

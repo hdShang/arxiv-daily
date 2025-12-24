@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CrafterDojo: A Suite of Foundation Models for Building Open-Ended Embodied Agents in Crafter
+title: "CrafterDojo: A Suite of Foundation Models for Building Open-Ended Embodied Agents in Crafter"
 ---
 
 # CrafterDojo: A Suite of Foundation Models for Building Open-Ended Embodied Agents in Crafter

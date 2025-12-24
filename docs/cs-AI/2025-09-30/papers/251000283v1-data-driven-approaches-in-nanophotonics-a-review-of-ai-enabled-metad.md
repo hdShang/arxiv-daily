@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data driven approaches in nanophotonics: A review of AI-enabled metadevices
+title: "Data driven approaches in nanophotonics: A review of AI-enabled metadevices"
 ---
 
 # Data driven approaches in nanophotonics: A review of AI-enabled metadevices

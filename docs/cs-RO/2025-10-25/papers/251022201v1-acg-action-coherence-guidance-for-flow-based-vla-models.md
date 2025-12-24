@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ACG: Action Coherence Guidance for Flow-based VLA models
+title: "ACG: Action Coherence Guidance for Flow-based VLA models"
 ---
 
 # ACG: Action Coherence Guidance for Flow-based VLA models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GUARD: Generation-time LLM Unlearning via Adaptive Restriction and Detection
+title: "GUARD: Generation-time LLM Unlearning via Adaptive Restriction and Detection"
 ---
 
 # GUARD: Generation-time LLM Unlearning via Adaptive Restriction and Detection

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FisherSFT: Data-Efficient Supervised Fine-Tuning of Language Models Using Information Gain
+title: "FisherSFT: Data-Efficient Supervised Fine-Tuning of Language Models Using Information Gain"
 ---
 
 # FisherSFT: Data-Efficient Supervised Fine-Tuning of Language Models Using Information Gain

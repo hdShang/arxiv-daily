@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EgoCogNav: Cognition-aware Human Egocentric Navigation
+title: "EgoCogNav: Cognition-aware Human Egocentric Navigation"
 ---
 
 # EgoCogNav: Cognition-aware Human Egocentric Navigation

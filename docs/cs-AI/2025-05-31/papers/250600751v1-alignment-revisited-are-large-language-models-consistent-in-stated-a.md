@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Alignment Revisited: Are Large Language Models Consistent in Stated and Revealed Preferences?
+title: "Alignment Revisited: Are Large Language Models Consistent in Stated and Revealed Preferences?"
 ---
 
 # Alignment Revisited: Are Large Language Models Consistent in Stated and Revealed Preferences?

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SABER: Uncovering Vulnerabilities in Safety Alignment via Cross-Layer Residual Connection
+title: "SABER: Uncovering Vulnerabilities in Safety Alignment via Cross-Layer Residual Connection"
 ---
 
 # SABER: Uncovering Vulnerabilities in Safety Alignment via Cross-Layer Residual Connection

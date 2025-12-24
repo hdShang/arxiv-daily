@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OPENTOUCH: Bringing Full-Hand Touch to Real-World Interaction
+title: "OPENTOUCH: Bringing Full-Hand Touch to Real-World Interaction"
 ---
 
 # OPENTOUCH: Bringing Full-Hand Touch to Real-World Interaction

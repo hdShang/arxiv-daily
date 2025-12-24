@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NaviHydra: Controllable Navigation-guided End-to-end Autonomous Driving with Hydra-distillation
+title: "NaviHydra: Controllable Navigation-guided End-to-end Autonomous Driving with Hydra-distillation"
 ---
 
 # NaviHydra: Controllable Navigation-guided End-to-end Autonomous Driving with Hydra-distillation

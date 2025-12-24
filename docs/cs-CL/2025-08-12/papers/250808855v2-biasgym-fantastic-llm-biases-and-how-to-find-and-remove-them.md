@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BiasGym: Fantastic LLM Biases and How to Find (and Remove) Them
+title: "BiasGym: Fantastic LLM Biases and How to Find (and Remove) Them"
 ---
 
 # BiasGym: Fantastic LLM Biases and How to Find (and Remove) Them

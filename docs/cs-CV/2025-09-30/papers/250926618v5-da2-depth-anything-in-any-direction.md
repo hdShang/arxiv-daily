@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DA$^{2}$: Depth Anything in Any Direction
+title: "DA$^{2}$: Depth Anything in Any Direction"
 ---
 
 # DA$^{2}$: Depth Anything in Any Direction

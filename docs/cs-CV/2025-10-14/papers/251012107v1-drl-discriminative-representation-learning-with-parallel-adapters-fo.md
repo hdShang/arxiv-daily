@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DRL: Discriminative Representation Learning with Parallel Adapters for Class Incremental Learning
+title: "DRL: Discriminative Representation Learning with Parallel Adapters for Class Incremental Learning"
 ---
 
 # DRL: Discriminative Representation Learning with Parallel Adapters for Class Incremental Learning

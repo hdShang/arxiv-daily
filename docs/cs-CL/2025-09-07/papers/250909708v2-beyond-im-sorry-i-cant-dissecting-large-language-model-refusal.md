@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond I'm Sorry, I Can't: Dissecting Large Language Model Refusal
+title: "Beyond I'm Sorry, I Can't: Dissecting Large Language Model Refusal"
 ---
 
 # Beyond I'm Sorry, I Can't: Dissecting Large Language Model Refusal

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications
+title: "Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications"
 ---
 
 # Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications

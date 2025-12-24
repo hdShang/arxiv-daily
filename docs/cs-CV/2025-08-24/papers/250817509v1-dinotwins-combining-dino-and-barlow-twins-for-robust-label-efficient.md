@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DinoTwins: Combining DINO and Barlow Twins for Robust, Label-Efficient Vision Transformers
+title: "DinoTwins: Combining DINO and Barlow Twins for Robust, Label-Efficient Vision Transformers"
 ---
 
 # DinoTwins: Combining DINO and Barlow Twins for Robust, Label-Efficient Vision Transformers

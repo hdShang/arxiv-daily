@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GIFStream: 4D Gaussian-based Immersive Video with Feature Stream
+title: "GIFStream: 4D Gaussian-based Immersive Video with Feature Stream"
 ---
 
 # GIFStream: 4D Gaussian-based Immersive Video with Feature Stream

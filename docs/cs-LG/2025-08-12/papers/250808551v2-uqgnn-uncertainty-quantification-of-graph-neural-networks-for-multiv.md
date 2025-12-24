@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UQGNN: Uncertainty Quantification of Graph Neural Networks for Multivariate Spatiotemporal Prediction
+title: "UQGNN: Uncertainty Quantification of Graph Neural Networks for Multivariate Spatiotemporal Prediction"
 ---
 
 # UQGNN: Uncertainty Quantification of Graph Neural Networks for Multivariate Spatiotemporal Prediction

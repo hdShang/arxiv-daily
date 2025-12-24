@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SingRef6D: Monocular Novel Object Pose Estimation with a Single RGB Reference
+title: "SingRef6D: Monocular Novel Object Pose Estimation with a Single RGB Reference"
 ---
 
 # SingRef6D: Monocular Novel Object Pose Estimation with a Single RGB Reference

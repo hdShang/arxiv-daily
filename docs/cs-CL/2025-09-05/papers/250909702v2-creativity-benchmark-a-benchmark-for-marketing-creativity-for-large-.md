@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Creativity Benchmark: A benchmark for marketing creativity for large language models
+title: "Creativity Benchmark: A benchmark for marketing creativity for large language models"
 ---
 
 # Creativity Benchmark: A benchmark for marketing creativity for large language models

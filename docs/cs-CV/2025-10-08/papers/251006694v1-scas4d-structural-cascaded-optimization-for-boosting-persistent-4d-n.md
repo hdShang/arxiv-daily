@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SCas4D: Structural Cascaded Optimization for Boosting Persistent 4D Novel View Synthesis
+title: "SCas4D: Structural Cascaded Optimization for Boosting Persistent 4D Novel View Synthesis"
 ---
 
 # SCas4D: Structural Cascaded Optimization for Boosting Persistent 4D Novel View Synthesis

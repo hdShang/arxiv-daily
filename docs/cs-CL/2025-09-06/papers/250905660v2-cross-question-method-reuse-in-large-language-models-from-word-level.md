@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cross-Question Method Reuse in Large Language Models: From Word-Level Prediction to Rational Logical-Layer Reasoning
+title: "Cross-Question Method Reuse in Large Language Models: From Word-Level Prediction to Rational Logical-Layer Reasoning"
 ---
 
 # Cross-Question Method Reuse in Large Language Models: From Word-Level Prediction to Rational Logical-Layer Reasoning

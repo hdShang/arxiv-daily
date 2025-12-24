@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy
+title: "Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy"
 ---
 
 # Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy

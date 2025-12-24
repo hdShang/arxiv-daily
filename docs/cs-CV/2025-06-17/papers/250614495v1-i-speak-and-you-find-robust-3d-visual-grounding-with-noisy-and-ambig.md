@@ -1,6 +1,6 @@
 ---
 layout: default
-title: I Speak and You Find: Robust 3D Visual Grounding with Noisy and Ambiguous Speech Inputs
+title: "I Speak and You Find: Robust 3D Visual Grounding with Noisy and Ambiguous Speech Inputs"
 ---
 
 # I Speak and You Find: Robust 3D Visual Grounding with Noisy and Ambiguous Speech Inputs

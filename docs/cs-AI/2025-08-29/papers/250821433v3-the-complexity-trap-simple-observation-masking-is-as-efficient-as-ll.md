@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Complexity Trap: Simple Observation Masking Is as Efficient as LLM Summarization for Agent Context Management
+title: "The Complexity Trap: Simple Observation Masking Is as Efficient as LLM Summarization for Agent Context Management"
 ---
 
 # The Complexity Trap: Simple Observation Masking Is as Efficient as LLM Summarization for Agent Context Management

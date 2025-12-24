@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WGSR-Bench: Wargame-based Game-theoretic Strategic Reasoning Benchmark for Large Language Models
+title: "WGSR-Bench: Wargame-based Game-theoretic Strategic Reasoning Benchmark for Large Language Models"
 ---
 
 # WGSR-Bench: Wargame-based Game-theoretic Strategic Reasoning Benchmark for Large Language Models

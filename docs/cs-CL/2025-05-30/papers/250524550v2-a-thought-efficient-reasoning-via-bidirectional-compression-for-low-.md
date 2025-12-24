@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A*-Thought: Efficient Reasoning via Bidirectional Compression for Low-Resource Settings
+title: "A*-Thought: Efficient Reasoning via Bidirectional Compression for Low-Resource Settings"
 ---
 
 # A*-Thought: Efficient Reasoning via Bidirectional Compression for Low-Resource Settings

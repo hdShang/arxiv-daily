@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ConPoSe: LLM-Guided Contact Point Selection for Scalable Cooperative Object Pushing
+title: "ConPoSe: LLM-Guided Contact Point Selection for Scalable Cooperative Object Pushing"
 ---
 
 # ConPoSe: LLM-Guided Contact Point Selection for Scalable Cooperative Object Pushing

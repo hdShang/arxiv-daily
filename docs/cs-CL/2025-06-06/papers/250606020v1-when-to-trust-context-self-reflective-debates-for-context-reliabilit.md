@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When to Trust Context: Self-Reflective Debates for Context Reliability
+title: "When to Trust Context: Self-Reflective Debates for Context Reliability"
 ---
 
 # When to Trust Context: Self-Reflective Debates for Context Reliability

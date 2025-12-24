@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Athena: Enhancing Multimodal Reasoning with Data-efficient Process Reward Models
+title: "Athena: Enhancing Multimodal Reasoning with Data-efficient Process Reward Models"
 ---
 
 # Athena: Enhancing Multimodal Reasoning with Data-efficient Process Reward Models

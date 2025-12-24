@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EV-LayerSegNet: Self-supervised Motion Segmentation using Event Cameras
+title: "EV-LayerSegNet: Self-supervised Motion Segmentation using Event Cameras"
 ---
 
 # EV-LayerSegNet: Self-supervised Motion Segmentation using Event Cameras

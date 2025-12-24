@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Pixels to Posts: Retrieval-Augmented Fashion Captioning and Hashtag Generation
+title: "From Pixels to Posts: Retrieval-Augmented Fashion Captioning and Hashtag Generation"
 ---
 
 # From Pixels to Posts: Retrieval-Augmented Fashion Captioning and Hashtag Generation

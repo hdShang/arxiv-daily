@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Guided Navigation in Knowledge-Dense Environments: Structured Semantic Exploration with Guidance Graphs
+title: "Guided Navigation in Knowledge-Dense Environments: Structured Semantic Exploration with Guidance Graphs"
 ---
 
 # Guided Navigation in Knowledge-Dense Environments: Structured Semantic Exploration with Guidance Graphs

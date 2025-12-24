@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FlashThink: An Early Exit Method For Efficient Reasoning
+title: "FlashThink: An Early Exit Method For Efficient Reasoning"
 ---
 
 # FlashThink: An Early Exit Method For Efficient Reasoning

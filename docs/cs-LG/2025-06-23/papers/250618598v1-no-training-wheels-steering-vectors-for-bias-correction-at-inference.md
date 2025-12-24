@@ -1,6 +1,6 @@
 ---
 layout: default
-title: No Training Wheels: Steering Vectors for Bias Correction at Inference Time
+title: "No Training Wheels: Steering Vectors for Bias Correction at Inference Time"
 ---
 
 # No Training Wheels: Steering Vectors for Bias Correction at Inference Time

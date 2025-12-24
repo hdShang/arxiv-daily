@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SparseVILA: Decoupling Visual Sparsity for Efficient VLM Inference
+title: "SparseVILA: Decoupling Visual Sparsity for Efficient VLM Inference"
 ---
 
 # SparseVILA: Decoupling Visual Sparsity for Efficient VLM Inference

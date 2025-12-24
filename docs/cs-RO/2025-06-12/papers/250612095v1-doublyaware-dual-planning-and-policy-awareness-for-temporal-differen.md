@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DoublyAware: Dual Planning and Policy Awareness for Temporal Difference Learning in Humanoid Locomotion
+title: "DoublyAware: Dual Planning and Policy Awareness for Temporal Difference Learning in Humanoid Locomotion"
 ---
 
 # DoublyAware: Dual Planning and Policy Awareness for Temporal Difference Learning in Humanoid Locomotion

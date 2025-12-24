@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GaussianArt: Unified Modeling of Geometry and Motion for Articulated Objects
+title: "GaussianArt: Unified Modeling of Geometry and Motion for Articulated Objects"
 ---
 
 # GaussianArt: Unified Modeling of Geometry and Motion for Articulated Objects

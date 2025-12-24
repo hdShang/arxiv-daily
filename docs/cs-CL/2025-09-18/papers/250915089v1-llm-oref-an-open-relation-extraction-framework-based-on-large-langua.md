@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM-OREF: An Open Relation Extraction Framework Based on Large Language Models
+title: "LLM-OREF: An Open Relation Extraction Framework Based on Large Language Models"
 ---
 
 # LLM-OREF: An Open Relation Extraction Framework Based on Large Language Models

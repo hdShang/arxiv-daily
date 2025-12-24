@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety
+title: "Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety"
 ---
 
 # Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety

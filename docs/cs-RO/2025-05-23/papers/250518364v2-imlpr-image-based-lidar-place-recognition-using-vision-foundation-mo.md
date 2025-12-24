@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ImLPR: Image-based LiDAR Place Recognition using Vision Foundation Models
+title: "ImLPR: Image-based LiDAR Place Recognition using Vision Foundation Models"
 ---
 
 # ImLPR: Image-based LiDAR Place Recognition using Vision Foundation Models

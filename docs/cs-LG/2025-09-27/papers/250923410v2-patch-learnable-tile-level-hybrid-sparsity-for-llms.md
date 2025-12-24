@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PATCH: Learnable Tile-level Hybrid Sparsity for LLMs
+title: "PATCH: Learnable Tile-level Hybrid Sparsity for LLMs"
 ---
 
 # PATCH: Learnable Tile-level Hybrid Sparsity for LLMs

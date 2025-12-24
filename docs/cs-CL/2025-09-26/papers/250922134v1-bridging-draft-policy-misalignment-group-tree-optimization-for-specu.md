@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bridging Draft Policy Misalignment: Group Tree Optimization for Speculative Decoding
+title: "Bridging Draft Policy Misalignment: Group Tree Optimization for Speculative Decoding"
 ---
 
 # Bridging Draft Policy Misalignment: Group Tree Optimization for Speculative Decoding

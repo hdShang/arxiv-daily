@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AbsTopK: Rethinking Sparse Autoencoders For Bidirectional Features
+title: "AbsTopK: Rethinking Sparse Autoencoders For Bidirectional Features"
 ---
 
 # AbsTopK: Rethinking Sparse Autoencoders For Bidirectional Features

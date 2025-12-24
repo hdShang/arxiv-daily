@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers
+title: "Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers"
 ---
 
 # Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers

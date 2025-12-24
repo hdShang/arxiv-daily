@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TopoNav: Topological Graphs as a Key Enabler for Advanced Object Navigation
+title: "TopoNav: Topological Graphs as a Key Enabler for Advanced Object Navigation"
 ---
 
 # TopoNav: Topological Graphs as a Key Enabler for Advanced Object Navigation

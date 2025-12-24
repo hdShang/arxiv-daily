@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Acrobotics: A Generalist Approach to Quadrupedal Robots' Parkour
+title: "Acrobotics: A Generalist Approach to Quadrupedal Robots' Parkour"
 ---
 
 # Acrobotics: A Generalist Approach to Quadrupedal Robots' Parkour

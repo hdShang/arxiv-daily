@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VER: Vision Expert Transformer for Robot Learning via Foundation Distillation and Dynamic Routing
+title: "VER: Vision Expert Transformer for Robot Learning via Foundation Distillation and Dynamic Routing"
 ---
 
 # VER: Vision Expert Transformer for Robot Learning via Foundation Distillation and Dynamic Routing

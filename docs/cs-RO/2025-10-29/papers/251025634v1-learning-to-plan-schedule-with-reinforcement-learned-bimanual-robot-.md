@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning to Plan & Schedule with Reinforcement-Learned Bimanual Robot Skills
+title: "Learning to Plan & Schedule with Reinforcement-Learned Bimanual Robot Skills"
 ---
 
 # Learning to Plan & Schedule with Reinforcement-Learned Bimanual Robot Skills

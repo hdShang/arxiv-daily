@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy
+title: "Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy"
 ---
 
 # Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy

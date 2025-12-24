@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CaO$_2$: Rectifying Inconsistencies in Diffusion-Based Dataset Distillation
+title: "CaO$_2$: Rectifying Inconsistencies in Diffusion-Based Dataset Distillation"
 ---
 
 # CaO$_2$: Rectifying Inconsistencies in Diffusion-Based Dataset Distillation

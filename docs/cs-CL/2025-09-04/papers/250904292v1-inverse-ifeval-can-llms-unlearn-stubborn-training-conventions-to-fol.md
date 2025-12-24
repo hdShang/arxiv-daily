@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inverse IFEval: Can LLMs Unlearn Stubborn Training Conventions to Follow Real Instructions?
+title: "Inverse IFEval: Can LLMs Unlearn Stubborn Training Conventions to Follow Real Instructions?"
 ---
 
 # Inverse IFEval: Can LLMs Unlearn Stubborn Training Conventions to Follow Real Instructions?

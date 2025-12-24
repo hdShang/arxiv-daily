@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FlowBERT: Prompt-tuned BERT for variable flow field prediction
+title: "FlowBERT: Prompt-tuned BERT for variable flow field prediction"
 ---
 
 # FlowBERT: Prompt-tuned BERT for variable flow field prediction

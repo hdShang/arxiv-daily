@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Efficiency Spectrum of Large Language Models: An Algorithmic Survey
+title: "The Efficiency Spectrum of Large Language Models: An Algorithmic Survey"
 ---
 
 # The Efficiency Spectrum of Large Language Models: An Algorithmic Survey

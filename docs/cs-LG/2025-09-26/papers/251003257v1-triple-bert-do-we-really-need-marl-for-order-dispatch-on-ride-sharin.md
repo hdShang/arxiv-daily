@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Triple-BERT: Do We Really Need MARL for Order Dispatch on Ride-Sharing Platforms?
+title: "Triple-BERT: Do We Really Need MARL for Order Dispatch on Ride-Sharing Platforms?"
 ---
 
 # Triple-BERT: Do We Really Need MARL for Order Dispatch on Ride-Sharing Platforms?

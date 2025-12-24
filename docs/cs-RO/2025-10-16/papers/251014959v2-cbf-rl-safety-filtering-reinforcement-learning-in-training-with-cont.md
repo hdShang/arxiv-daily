@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions
+title: "CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions"
 ---
 
 # CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions

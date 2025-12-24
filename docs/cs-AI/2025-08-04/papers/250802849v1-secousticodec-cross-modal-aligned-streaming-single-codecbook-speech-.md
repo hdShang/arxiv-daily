@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SecoustiCodec: Cross-Modal Aligned Streaming Single-Codecbook Speech Codec
+title: "SecoustiCodec: Cross-Modal Aligned Streaming Single-Codecbook Speech Codec"
 ---
 
 # SecoustiCodec: Cross-Modal Aligned Streaming Single-Codecbook Speech Codec

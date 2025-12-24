@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PointGS: Point Attention-Aware Sparse View Synthesis with Gaussian Splatting
+title: "PointGS: Point Attention-Aware Sparse View Synthesis with Gaussian Splatting"
 ---
 
 # PointGS: Point Attention-Aware Sparse View Synthesis with Gaussian Splatting

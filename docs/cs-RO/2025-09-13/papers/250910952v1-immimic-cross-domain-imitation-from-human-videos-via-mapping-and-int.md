@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ImMimic: Cross-Domain Imitation from Human Videos via Mapping and Interpolation
+title: "ImMimic: Cross-Domain Imitation from Human Videos via Mapping and Interpolation"
 ---
 
 # ImMimic: Cross-Domain Imitation from Human Videos via Mapping and Interpolation

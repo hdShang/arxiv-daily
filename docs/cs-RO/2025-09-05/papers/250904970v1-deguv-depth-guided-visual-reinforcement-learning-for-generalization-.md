@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeGuV: Depth-Guided Visual Reinforcement Learning for Generalization and Interpretability in Manipulation
+title: "DeGuV: Depth-Guided Visual Reinforcement Learning for Generalization and Interpretability in Manipulation"
 ---
 
 # DeGuV: Depth-Guided Visual Reinforcement Learning for Generalization and Interpretability in Manipulation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Viability of Future Actions: Robust Safety in Reinforcement Learning via Entropy Regularization
+title: "Viability of Future Actions: Robust Safety in Reinforcement Learning via Entropy Regularization"
 ---
 
 # Viability of Future Actions: Robust Safety in Reinforcement Learning via Entropy Regularization

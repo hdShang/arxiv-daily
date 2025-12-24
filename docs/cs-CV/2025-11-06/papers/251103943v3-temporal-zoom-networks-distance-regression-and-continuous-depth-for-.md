@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Temporal Zoom Networks: Distance Regression and Continuous Depth for Efficient Action Localization
+title: "Temporal Zoom Networks: Distance Regression and Continuous Depth for Efficient Action Localization"
 ---
 
 # Temporal Zoom Networks: Distance Regression and Continuous Depth for Efficient Action Localization

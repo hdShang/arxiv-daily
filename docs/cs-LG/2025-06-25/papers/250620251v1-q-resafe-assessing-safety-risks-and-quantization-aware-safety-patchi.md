@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Q-resafe: Assessing Safety Risks and Quantization-aware Safety Patching for Quantized Large Language Models
+title: "Q-resafe: Assessing Safety Risks and Quantization-aware Safety Patching for Quantized Large Language Models"
 ---
 
 # Q-resafe: Assessing Safety Risks and Quantization-aware Safety Patching for Quantized Large Language Models

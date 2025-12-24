@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LiSTAR: Ray-Centric World Models for 4D LiDAR Sequences in Autonomous Driving
+title: "LiSTAR: Ray-Centric World Models for 4D LiDAR Sequences in Autonomous Driving"
 ---
 
 # LiSTAR: Ray-Centric World Models for 4D LiDAR Sequences in Autonomous Driving

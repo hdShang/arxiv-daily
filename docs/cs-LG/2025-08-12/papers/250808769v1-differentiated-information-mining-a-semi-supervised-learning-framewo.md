@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Differentiated Information Mining: A Semi-supervised Learning Framework for GNNs
+title: "Differentiated Information Mining: A Semi-supervised Learning Framework for GNNs"
 ---
 
 # Differentiated Information Mining: A Semi-supervised Learning Framework for GNNs

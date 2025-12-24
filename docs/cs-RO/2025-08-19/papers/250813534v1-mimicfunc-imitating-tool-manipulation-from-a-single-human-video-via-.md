@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MimicFunc: Imitating Tool Manipulation from a Single Human Video via Functional Correspondence
+title: "MimicFunc: Imitating Tool Manipulation from a Single Human Video via Functional Correspondence"
 ---
 
 # MimicFunc: Imitating Tool Manipulation from a Single Human Video via Functional Correspondence

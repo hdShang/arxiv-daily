@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DecIF: Improving Instruction-Following through Meta-Decomposition
+title: "DecIF: Improving Instruction-Following through Meta-Decomposition"
 ---
 
 # DecIF: Improving Instruction-Following through Meta-Decomposition

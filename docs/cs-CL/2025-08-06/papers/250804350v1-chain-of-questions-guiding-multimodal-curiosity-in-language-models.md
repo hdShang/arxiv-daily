@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chain of Questions: Guiding Multimodal Curiosity in Language Models
+title: "Chain of Questions: Guiding Multimodal Curiosity in Language Models"
 ---
 
 # Chain of Questions: Guiding Multimodal Curiosity in Language Models

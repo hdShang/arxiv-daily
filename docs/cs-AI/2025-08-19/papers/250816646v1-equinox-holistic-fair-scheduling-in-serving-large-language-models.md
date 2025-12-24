@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Equinox: Holistic Fair Scheduling in Serving Large Language Models
+title: "Equinox: Holistic Fair Scheduling in Serving Large Language Models"
 ---
 
 # Equinox: Holistic Fair Scheduling in Serving Large Language Models

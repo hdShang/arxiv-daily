@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Survey on Vietnamese Document Analysis and Recognition: Challenges and Future Directions
+title: "A Survey on Vietnamese Document Analysis and Recognition: Challenges and Future Directions"
 ---
 
 # A Survey on Vietnamese Document Analysis and Recognition: Challenges and Future Directions

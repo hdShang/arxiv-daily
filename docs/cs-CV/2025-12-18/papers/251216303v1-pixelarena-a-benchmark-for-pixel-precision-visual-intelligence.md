@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PixelArena: A benchmark for Pixel-Precision Visual Intelligence
+title: "PixelArena: A benchmark for Pixel-Precision Visual Intelligence"
 ---
 
 # PixelArena: A benchmark for Pixel-Precision Visual Intelligence

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TUGS: Physics-based Compact Representation of Underwater Scenes by Tensorized Gaussian
+title: "TUGS: Physics-based Compact Representation of Underwater Scenes by Tensorized Gaussian"
 ---
 
 # TUGS: Physics-based Compact Representation of Underwater Scenes by Tensorized Gaussian

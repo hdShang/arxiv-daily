@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Harnessing On-Device Large Language Model: Empirical Results and Implications for AI PC
+title: "Harnessing On-Device Large Language Model: Empirical Results and Implications for AI PC"
 ---
 
 # Harnessing On-Device Large Language Model: Empirical Results and Implications for AI PC

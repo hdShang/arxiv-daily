@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OctoNav: Towards Generalist Embodied Navigation
+title: "OctoNav: Towards Generalist Embodied Navigation"
 ---
 
 # OctoNav: Towards Generalist Embodied Navigation

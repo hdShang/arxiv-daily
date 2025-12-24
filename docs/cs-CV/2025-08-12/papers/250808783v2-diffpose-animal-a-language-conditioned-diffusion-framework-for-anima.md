@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DiffPose-Animal: A Language-Conditioned Diffusion Framework for Animal Pose Estimation
+title: "DiffPose-Animal: A Language-Conditioned Diffusion Framework for Animal Pose Estimation"
 ---
 
 # DiffPose-Animal: A Language-Conditioned Diffusion Framework for Animal Pose Estimation

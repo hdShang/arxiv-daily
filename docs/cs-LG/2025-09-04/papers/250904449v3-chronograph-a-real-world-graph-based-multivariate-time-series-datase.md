@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ChronoGraph: A Real-World Graph-Based Multivariate Time Series Dataset
+title: "ChronoGraph: A Real-World Graph-Based Multivariate Time Series Dataset"
 ---
 
 # ChronoGraph: A Real-World Graph-Based Multivariate Time Series Dataset

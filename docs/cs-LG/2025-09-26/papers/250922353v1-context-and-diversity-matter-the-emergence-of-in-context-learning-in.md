@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Context and Diversity Matter: The Emergence of In-Context Learning in World Models
+title: "Context and Diversity Matter: The Emergence of In-Context Learning in World Models"
 ---
 
 # Context and Diversity Matter: The Emergence of In-Context Learning in World Models

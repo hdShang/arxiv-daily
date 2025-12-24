@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DPHMs: Diffusion Parametric Head Models for Depth-based Tracking
+title: "DPHMs: Diffusion Parametric Head Models for Depth-based Tracking"
 ---
 
 # DPHMs: Diffusion Parametric Head Models for Depth-based Tracking

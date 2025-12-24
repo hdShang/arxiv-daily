@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PerQ: Efficient Evaluation of Multilingual Text Personalization Quality
+title: "PerQ: Efficient Evaluation of Multilingual Text Personalization Quality"
 ---
 
 # PerQ: Efficient Evaluation of Multilingual Text Personalization Quality

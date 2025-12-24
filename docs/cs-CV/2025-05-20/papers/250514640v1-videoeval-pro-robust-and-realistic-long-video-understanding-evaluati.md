@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VideoEval-Pro: Robust and Realistic Long Video Understanding Evaluation
+title: "VideoEval-Pro: Robust and Realistic Long Video Understanding Evaluation"
 ---
 
 # VideoEval-Pro: Robust and Realistic Long Video Understanding Evaluation

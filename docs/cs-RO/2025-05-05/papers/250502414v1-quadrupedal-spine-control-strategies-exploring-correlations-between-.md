@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quadrupedal Spine Control Strategies: Exploring Correlations Between System Dynamic Responses and Human Perspectives
+title: "Quadrupedal Spine Control Strategies: Exploring Correlations Between System Dynamic Responses and Human Perspectives"
 ---
 
 # Quadrupedal Spine Control Strategies: Exploring Correlations Between System Dynamic Responses and Human Perspectives

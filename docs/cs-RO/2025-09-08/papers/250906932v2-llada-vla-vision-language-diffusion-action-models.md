@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLaDA-VLA: Vision Language Diffusion Action Models
+title: "LLaDA-VLA: Vision Language Diffusion Action Models"
 ---
 
 # LLaDA-VLA: Vision Language Diffusion Action Models

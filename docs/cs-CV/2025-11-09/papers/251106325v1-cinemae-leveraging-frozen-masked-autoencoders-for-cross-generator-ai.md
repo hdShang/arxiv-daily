@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CINEMAE: Leveraging Frozen Masked Autoencoders for Cross-Generator AI Image Detection
+title: "CINEMAE: Leveraging Frozen Masked Autoencoders for Cross-Generator AI Image Detection"
 ---
 
 # CINEMAE: Leveraging Frozen Masked Autoencoders for Cross-Generator AI Image Detection

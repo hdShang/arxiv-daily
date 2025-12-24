@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LookOut: Real-World Humanoid Egocentric Navigation
+title: "LookOut: Real-World Humanoid Egocentric Navigation"
 ---
 
 # LookOut: Real-World Humanoid Egocentric Navigation

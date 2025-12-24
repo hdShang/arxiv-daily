@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs
+title: "Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs"
 ---
 
 # Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs

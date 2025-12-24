@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Analysis of instruction-based LLMs' capabilities to score and judge text-input problems in an academic setting
+title: "Analysis of instruction-based LLMs' capabilities to score and judge text-input problems in an academic setting"
 ---
 
 # Analysis of instruction-based LLMs' capabilities to score and judge text-input problems in an academic setting

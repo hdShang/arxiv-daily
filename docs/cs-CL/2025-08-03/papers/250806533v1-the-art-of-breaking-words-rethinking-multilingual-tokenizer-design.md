@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Art of Breaking Words: Rethinking Multilingual Tokenizer Design
+title: "The Art of Breaking Words: Rethinking Multilingual Tokenizer Design"
 ---
 
 # The Art of Breaking Words: Rethinking Multilingual Tokenizer Design

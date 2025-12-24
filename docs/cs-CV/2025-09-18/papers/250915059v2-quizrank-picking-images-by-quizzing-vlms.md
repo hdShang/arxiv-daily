@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QuizRank: Picking Images by Quizzing VLMs
+title: "QuizRank: Picking Images by Quizzing VLMs"
 ---
 
 # QuizRank: Picking Images by Quizzing VLMs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Into the Rabbit Hull: From Task-Relevant Concepts in DINO to Minkowski Geometry
+title: "Into the Rabbit Hull: From Task-Relevant Concepts in DINO to Minkowski Geometry"
 ---
 
 # Into the Rabbit Hull: From Task-Relevant Concepts in DINO to Minkowski Geometry

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GRAM: A Generative Foundation Reward Model for Reward Generalization
+title: "GRAM: A Generative Foundation Reward Model for Reward Generalization"
 ---
 
 # GRAM: A Generative Foundation Reward Model for Reward Generalization

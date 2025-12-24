@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Age-Based Scheduling for Mobile Edge Computing: A Deep Reinforcement Learning Approach
+title: "Age-Based Scheduling for Mobile Edge Computing: A Deep Reinforcement Learning Approach"
 ---
 
 # Age-Based Scheduling for Mobile Edge Computing: A Deep Reinforcement Learning Approach

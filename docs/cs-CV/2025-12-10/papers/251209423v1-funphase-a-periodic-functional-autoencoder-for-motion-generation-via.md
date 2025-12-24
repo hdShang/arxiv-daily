@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FunPhase: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds
+title: "FunPhase: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds"
 ---
 
 # FunPhase: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: S2D: Sparse-To-Dense Keymask Distillation for Unsupervised Video Instance Segmentation
+title: "S2D: Sparse-To-Dense Keymask Distillation for Unsupervised Video Instance Segmentation"
 ---
 
 # S2D: Sparse-To-Dense Keymask Distillation for Unsupervised Video Instance Segmentation

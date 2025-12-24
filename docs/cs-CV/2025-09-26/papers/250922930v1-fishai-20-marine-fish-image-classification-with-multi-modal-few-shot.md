@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FishAI 2.0: Marine Fish Image Classification with Multi-modal Few-shot Learning
+title: "FishAI 2.0: Marine Fish Image Classification with Multi-modal Few-shot Learning"
 ---
 
 # FishAI 2.0: Marine Fish Image Classification with Multi-modal Few-shot Learning

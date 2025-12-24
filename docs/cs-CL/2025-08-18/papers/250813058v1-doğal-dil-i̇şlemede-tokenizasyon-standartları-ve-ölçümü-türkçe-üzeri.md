@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Doğal Dil İşlemede Tokenizasyon Standartları ve Ölçümü: Türkçe Üzerinden Büyük Dil Modellerinin Karşılaştırmalı Analizi
+title: "Doğal Dil İşlemede Tokenizasyon Standartları ve Ölçümü: Türkçe Üzerinden Büyük Dil Modellerinin Karşılaştırmalı Analizi"
 ---
 
 # Doğal Dil İşlemede Tokenizasyon Standartları ve Ölçümü: Türkçe Üzerinden Büyük Dil Modellerinin Karşılaştırmalı Analizi

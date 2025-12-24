@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Causal-Tune: Mining Causal Factors from Vision Foundation Models for Domain Generalized Semantic Segmentation
+title: "Causal-Tune: Mining Causal Factors from Vision Foundation Models for Domain Generalized Semantic Segmentation"
 ---
 
 # Causal-Tune: Mining Causal Factors from Vision Foundation Models for Domain Generalized Semantic Segmentation

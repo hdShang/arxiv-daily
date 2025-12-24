@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MultimodalHugs: Enabling Sign Language Processing in Hugging Face
+title: "MultimodalHugs: Enabling Sign Language Processing in Hugging Face"
 ---
 
 # MultimodalHugs: Enabling Sign Language Processing in Hugging Face

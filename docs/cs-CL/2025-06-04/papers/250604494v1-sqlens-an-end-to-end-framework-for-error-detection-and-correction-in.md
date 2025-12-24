@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SQLens: An End-to-End Framework for Error Detection and Correction in Text-to-SQL
+title: "SQLens: An End-to-End Framework for Error Detection and Correction in Text-to-SQL"
 ---
 
 # SQLens: An End-to-End Framework for Error Detection and Correction in Text-to-SQL

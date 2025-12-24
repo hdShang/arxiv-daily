@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multimodal Federated Learning: A Survey through the Lens of Different FL Paradigms
+title: "Multimodal Federated Learning: A Survey through the Lens of Different FL Paradigms"
 ---
 
 # Multimodal Federated Learning: A Survey through the Lens of Different FL Paradigms

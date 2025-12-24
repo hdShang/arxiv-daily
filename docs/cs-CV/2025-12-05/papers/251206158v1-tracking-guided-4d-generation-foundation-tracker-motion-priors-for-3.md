@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tracking-Guided 4D Generation: Foundation-Tracker Motion Priors for 3D Model Animation
+title: "Tracking-Guided 4D Generation: Foundation-Tracker Motion Priors for 3D Model Animation"
 ---
 
 # Tracking-Guided 4D Generation: Foundation-Tracker Motion Priors for 3D Model Animation

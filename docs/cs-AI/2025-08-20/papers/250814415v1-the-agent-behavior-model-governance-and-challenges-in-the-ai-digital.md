@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Agent Behavior: Model, Governance and Challenges in the AI Digital Age
+title: "The Agent Behavior: Model, Governance and Challenges in the AI Digital Age"
 ---
 
 # The Agent Behavior: Model, Governance and Challenges in the AI Digital Age

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VIFSS: View-Invariant and Figure Skating-Specific Pose Representation Learning for Temporal Action Segmentation
+title: "VIFSS: View-Invariant and Figure Skating-Specific Pose Representation Learning for Temporal Action Segmentation"
 ---
 
 # VIFSS: View-Invariant and Figure Skating-Specific Pose Representation Learning for Temporal Action Segmentation

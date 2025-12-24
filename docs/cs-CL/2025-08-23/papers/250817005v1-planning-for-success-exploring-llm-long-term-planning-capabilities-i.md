@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Planning for Success: Exploring LLM Long-term Planning Capabilities in Table Understanding
+title: "Planning for Success: Exploring LLM Long-term Planning Capabilities in Table Understanding"
 ---
 
 # Planning for Success: Exploring LLM Long-term Planning Capabilities in Table Understanding

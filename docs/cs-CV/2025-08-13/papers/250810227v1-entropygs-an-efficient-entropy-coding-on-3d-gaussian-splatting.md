@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EntropyGS: An Efficient Entropy Coding on 3D Gaussian Splatting
+title: "EntropyGS: An Efficient Entropy Coding on 3D Gaussian Splatting"
 ---
 
 # EntropyGS: An Efficient Entropy Coding on 3D Gaussian Splatting

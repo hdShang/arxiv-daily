@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multi-Agent Language Models: Advancing Cooperation, Coordination, and Adaptation
+title: "Multi-Agent Language Models: Advancing Cooperation, Coordination, and Adaptation"
 ---
 
 # Multi-Agent Language Models: Advancing Cooperation, Coordination, and Adaptation

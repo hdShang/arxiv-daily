@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SONAR: Semantic-Object Navigation with Aggregated Reasoning through a Cross-Modal Inference Paradigm
+title: "SONAR: Semantic-Object Navigation with Aggregated Reasoning through a Cross-Modal Inference Paradigm"
 ---
 
 # SONAR: Semantic-Object Navigation with Aggregated Reasoning through a Cross-Modal Inference Paradigm

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DELTA: Dense Depth from Events and LiDAR using Transformer's Attention
+title: "DELTA: Dense Depth from Events and LiDAR using Transformer's Attention"
 ---
 
 # DELTA: Dense Depth from Events and LiDAR using Transformer's Attention

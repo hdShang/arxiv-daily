@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Embodied Spatial Intelligence: from Implicit Scene Modeling to Spatial Reasoning
+title: "Embodied Spatial Intelligence: from Implicit Scene Modeling to Spatial Reasoning"
 ---
 
 # Embodied Spatial Intelligence: from Implicit Scene Modeling to Spatial Reasoning

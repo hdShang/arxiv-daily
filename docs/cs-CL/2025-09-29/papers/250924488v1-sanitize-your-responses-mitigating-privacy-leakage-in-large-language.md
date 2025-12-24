@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sanitize Your Responses: Mitigating Privacy Leakage in Large Language Models
+title: "Sanitize Your Responses: Mitigating Privacy Leakage in Large Language Models"
 ---
 
 # Sanitize Your Responses: Mitigating Privacy Leakage in Large Language Models

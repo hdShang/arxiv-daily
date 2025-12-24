@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Focus What Matters: Matchability-Based Reweighting for Local Feature Matching
+title: "Focus What Matters: Matchability-Based Reweighting for Local Feature Matching"
 ---
 
 # Focus What Matters: Matchability-Based Reweighting for Local Feature Matching

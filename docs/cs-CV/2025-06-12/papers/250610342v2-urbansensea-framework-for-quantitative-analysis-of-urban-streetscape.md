@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UrbanSense:A Framework for Quantitative Analysis of Urban Streetscapes leveraging Vision Large Language Models
+title: "UrbanSense:A Framework for Quantitative Analysis of Urban Streetscapes leveraging Vision Large Language Models"
 ---
 
 # UrbanSense:A Framework for Quantitative Analysis of Urban Streetscapes leveraging Vision Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ROVR-Open-Dataset: A Large-Scale Depth Dataset for Autonomous Driving
+title: "ROVR-Open-Dataset: A Large-Scale Depth Dataset for Autonomous Driving"
 ---
 
 # ROVR-Open-Dataset: A Large-Scale Depth Dataset for Autonomous Driving

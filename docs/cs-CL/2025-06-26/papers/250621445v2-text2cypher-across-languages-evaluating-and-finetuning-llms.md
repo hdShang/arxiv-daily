@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Text2Cypher Across Languages: Evaluating and Finetuning LLMs
+title: "Text2Cypher Across Languages: Evaluating and Finetuning LLMs"
 ---
 
 # Text2Cypher Across Languages: Evaluating and Finetuning LLMs

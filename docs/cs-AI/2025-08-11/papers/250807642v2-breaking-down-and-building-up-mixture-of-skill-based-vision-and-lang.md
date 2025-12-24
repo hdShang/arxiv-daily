@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Breaking Down and Building Up: Mixture of Skill-Based Vision-and-Language Navigation Agents
+title: "Breaking Down and Building Up: Mixture of Skill-Based Vision-and-Language Navigation Agents"
 ---
 
 # Breaking Down and Building Up: Mixture of Skill-Based Vision-and-Language Navigation Agents

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FusionFM: All-in-One Multi-Modal Image Fusion with Flow Matching
+title: "FusionFM: All-in-One Multi-Modal Image Fusion with Flow Matching"
 ---
 
 # FusionFM: All-in-One Multi-Modal Image Fusion with Flow Matching

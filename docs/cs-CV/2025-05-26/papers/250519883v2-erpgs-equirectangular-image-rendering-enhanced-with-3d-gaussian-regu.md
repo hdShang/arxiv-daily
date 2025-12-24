@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization
+title: "ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization"
 ---
 
 # ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization

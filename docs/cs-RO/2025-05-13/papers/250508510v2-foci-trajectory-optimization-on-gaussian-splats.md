@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FOCI: Trajectory Optimization on Gaussian Splats
+title: "FOCI: Trajectory Optimization on Gaussian Splats"
 ---
 
 # FOCI: Trajectory Optimization on Gaussian Splats

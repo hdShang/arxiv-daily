@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning to Refine: Self-Refinement of Parallel Reasoning in LLMs
+title: "Learning to Refine: Self-Refinement of Parallel Reasoning in LLMs"
 ---
 
 # Learning to Refine: Self-Refinement of Parallel Reasoning in LLMs

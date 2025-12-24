@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EfficientIML: Efficient High-Resolution Image Manipulation Localization
+title: "EfficientIML: Efficient High-Resolution Image Manipulation Localization"
 ---
 
 # EfficientIML: Efficient High-Resolution Image Manipulation Localization

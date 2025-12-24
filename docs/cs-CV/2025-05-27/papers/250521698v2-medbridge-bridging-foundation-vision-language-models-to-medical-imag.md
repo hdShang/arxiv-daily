@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MedBridge: Bridging Foundation Vision-Language Models to Medical Image Diagnosis in Chest X-Ray
+title: "MedBridge: Bridging Foundation Vision-Language Models to Medical Image Diagnosis in Chest X-Ray"
 ---
 
 # MedBridge: Bridging Foundation Vision-Language Models to Medical Image Diagnosis in Chest X-Ray

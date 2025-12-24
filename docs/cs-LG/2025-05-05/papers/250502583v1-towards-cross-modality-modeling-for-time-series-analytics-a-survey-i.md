@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Cross-Modality Modeling for Time Series Analytics: A Survey in the LLM Era
+title: "Towards Cross-Modality Modeling for Time Series Analytics: A Survey in the LLM Era"
 ---
 
 # Towards Cross-Modality Modeling for Time Series Analytics: A Survey in the LLM Era

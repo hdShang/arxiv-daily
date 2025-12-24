@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TeLoGraF: Temporal Logic Planning via Graph-encoded Flow Matching
+title: "TeLoGraF: Temporal Logic Planning via Graph-encoded Flow Matching"
 ---
 
 # TeLoGraF: Temporal Logic Planning via Graph-encoded Flow Matching

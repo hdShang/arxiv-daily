@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AutoArabic: A Three-Stage Framework for Localizing Video-Text Retrieval Benchmarks
+title: "AutoArabic: A Three-Stage Framework for Localizing Video-Text Retrieval Benchmarks"
 ---
 
 # AutoArabic: A Three-Stage Framework for Localizing Video-Text Retrieval Benchmarks

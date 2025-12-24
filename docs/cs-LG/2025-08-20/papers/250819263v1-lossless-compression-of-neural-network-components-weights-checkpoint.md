@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lossless Compression of Neural Network Components: Weights, Checkpoints, and K/V Caches in Low-Precision Formats
+title: "Lossless Compression of Neural Network Components: Weights, Checkpoints, and K/V Caches in Low-Precision Formats"
 ---
 
 # Lossless Compression of Neural Network Components: Weights, Checkpoints, and K/V Caches in Low-Precision Formats

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SANSA: Unleashing the Hidden Semantics in SAM2 for Few-Shot Segmentation
+title: "SANSA: Unleashing the Hidden Semantics in SAM2 for Few-Shot Segmentation"
 ---
 
 # SANSA: Unleashing the Hidden Semantics in SAM2 for Few-Shot Segmentation

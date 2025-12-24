@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Text-free Graph Foundation Models: Rethinking Multi-Domain Graph Contrastive Learning
+title: "Towards Text-free Graph Foundation Models: Rethinking Multi-Domain Graph Contrastive Learning"
 ---
 
 # Towards Text-free Graph Foundation Models: Rethinking Multi-Domain Graph Contrastive Learning

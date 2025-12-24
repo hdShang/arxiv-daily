@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PGF-Net: A Progressive Gated-Fusion Framework for Efficient Multimodal Sentiment Analysis
+title: "PGF-Net: A Progressive Gated-Fusion Framework for Efficient Multimodal Sentiment Analysis"
 ---
 
 # PGF-Net: A Progressive Gated-Fusion Framework for Efficient Multimodal Sentiment Analysis

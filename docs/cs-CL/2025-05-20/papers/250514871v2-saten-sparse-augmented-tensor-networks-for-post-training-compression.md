@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Saten: Sparse Augmented Tensor Networks for Post-Training Compression of Large Language Models
+title: "Saten: Sparse Augmented Tensor Networks for Post-Training Compression of Large Language Models"
 ---
 
 # Saten: Sparse Augmented Tensor Networks for Post-Training Compression of Large Language Models

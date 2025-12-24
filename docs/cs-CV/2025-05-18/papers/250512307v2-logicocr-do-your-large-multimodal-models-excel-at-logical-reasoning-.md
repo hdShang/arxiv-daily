@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LogicOCR: Do Your Large Multimodal Models Excel at Logical Reasoning on Text-Rich Images?
+title: "LogicOCR: Do Your Large Multimodal Models Excel at Logical Reasoning on Text-Rich Images?"
 ---
 
 # LogicOCR: Do Your Large Multimodal Models Excel at Logical Reasoning on Text-Rich Images?

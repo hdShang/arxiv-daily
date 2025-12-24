@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniMotion: Multimodal Motion Generation with Continuous Masked Autoregression
+title: "OmniMotion: Multimodal Motion Generation with Continuous Masked Autoregression"
 ---
 
 # OmniMotion: Multimodal Motion Generation with Continuous Masked Autoregression

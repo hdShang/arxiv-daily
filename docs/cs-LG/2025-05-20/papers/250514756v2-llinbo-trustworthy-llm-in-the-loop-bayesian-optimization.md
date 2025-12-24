@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLINBO: Trustworthy LLM-in-the-Loop Bayesian Optimization
+title: "LLINBO: Trustworthy LLM-in-the-Loop Bayesian Optimization"
 ---
 
 # LLINBO: Trustworthy LLM-in-the-Loop Bayesian Optimization

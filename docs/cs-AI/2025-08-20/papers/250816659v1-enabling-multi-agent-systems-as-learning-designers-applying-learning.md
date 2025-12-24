@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design
+title: "Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design"
 ---
 
 # Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design

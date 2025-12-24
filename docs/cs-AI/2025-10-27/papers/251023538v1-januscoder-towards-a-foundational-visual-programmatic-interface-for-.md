@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JanusCoder: Towards a Foundational Visual-Programmatic Interface for Code Intelligence
+title: "JanusCoder: Towards a Foundational Visual-Programmatic Interface for Code Intelligence"
 ---
 
 # JanusCoder: Towards a Foundational Visual-Programmatic Interface for Code Intelligence

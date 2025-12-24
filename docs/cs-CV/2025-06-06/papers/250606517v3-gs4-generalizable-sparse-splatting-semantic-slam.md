@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GS4: Generalizable Sparse Splatting Semantic SLAM
+title: "GS4: Generalizable Sparse Splatting Semantic SLAM"
 ---
 
 # GS4: Generalizable Sparse Splatting Semantic SLAM

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GS-2M: Gaussian Splatting for Joint Mesh Reconstruction and Material Decomposition
+title: "GS-2M: Gaussian Splatting for Joint Mesh Reconstruction and Material Decomposition"
 ---
 
 # GS-2M: Gaussian Splatting for Joint Mesh Reconstruction and Material Decomposition

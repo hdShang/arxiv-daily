@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SafeMimic: Towards Safe and Autonomous Human-to-Robot Imitation for Mobile Manipulation
+title: "SafeMimic: Towards Safe and Autonomous Human-to-Robot Imitation for Mobile Manipulation"
 ---
 
 # SafeMimic: Towards Safe and Autonomous Human-to-Robot Imitation for Mobile Manipulation

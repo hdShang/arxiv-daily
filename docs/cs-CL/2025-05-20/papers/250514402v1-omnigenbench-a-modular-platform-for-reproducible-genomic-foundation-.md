@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniGenBench: A Modular Platform for Reproducible Genomic Foundation Models Benchmarking
+title: "OmniGenBench: A Modular Platform for Reproducible Genomic Foundation Models Benchmarking"
 ---
 
 # OmniGenBench: A Modular Platform for Reproducible Genomic Foundation Models Benchmarking

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MIRAGE: Assessing Hallucination in Multimodal Reasoning Chains of MLLM
+title: "MIRAGE: Assessing Hallucination in Multimodal Reasoning Chains of MLLM"
 ---
 
 # MIRAGE: Assessing Hallucination in Multimodal Reasoning Chains of MLLM

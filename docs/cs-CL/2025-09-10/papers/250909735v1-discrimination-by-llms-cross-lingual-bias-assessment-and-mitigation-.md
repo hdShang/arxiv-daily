@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Discrimination by LLMs: Cross-lingual Bias Assessment and Mitigation in Decision-Making and Summarisation
+title: "Discrimination by LLMs: Cross-lingual Bias Assessment and Mitigation in Decision-Making and Summarisation"
 ---
 
 # Discrimination by LLMs: Cross-lingual Bias Assessment and Mitigation in Decision-Making and Summarisation

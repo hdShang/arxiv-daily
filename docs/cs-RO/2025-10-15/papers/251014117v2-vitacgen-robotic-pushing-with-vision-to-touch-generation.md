@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ViTacGen: Robotic Pushing with Vision-to-Touch Generation
+title: "ViTacGen: Robotic Pushing with Vision-to-Touch Generation"
 ---
 
 # ViTacGen: Robotic Pushing with Vision-to-Touch Generation

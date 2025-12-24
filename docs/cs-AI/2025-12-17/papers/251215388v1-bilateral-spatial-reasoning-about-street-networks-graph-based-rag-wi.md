@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bilateral Spatial Reasoning about Street Networks: Graph-based RAG with Qualitative Spatial Representations
+title: "Bilateral Spatial Reasoning about Street Networks: Graph-based RAG with Qualitative Spatial Representations"
 ---
 
 # Bilateral Spatial Reasoning about Street Networks: Graph-based RAG with Qualitative Spatial Representations

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Locomotion in CAVE: Enhancing Immersion through Full-Body Motion
+title: "Locomotion in CAVE: Enhancing Immersion through Full-Body Motion"
 ---
 
 # Locomotion in CAVE: Enhancing Immersion through Full-Body Motion

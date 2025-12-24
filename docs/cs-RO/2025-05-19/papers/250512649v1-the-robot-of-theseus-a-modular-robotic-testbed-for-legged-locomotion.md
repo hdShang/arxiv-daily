@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Robot of Theseus: A modular robotic testbed for legged locomotion
+title: "The Robot of Theseus: A modular robotic testbed for legged locomotion"
 ---
 
 # The Robot of Theseus: A modular robotic testbed for legged locomotion

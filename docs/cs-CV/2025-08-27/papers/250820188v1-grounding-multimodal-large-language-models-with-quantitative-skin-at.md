@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Grounding Multimodal Large Language Models with Quantitative Skin Attributes: A Retrieval Study
+title: "Grounding Multimodal Large Language Models with Quantitative Skin Attributes: A Retrieval Study"
 ---
 
 # Grounding Multimodal Large Language Models with Quantitative Skin Attributes: A Retrieval Study

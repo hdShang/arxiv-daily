@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Intent to Execution: Multimodal Chain-of-Thought Reinforcement Learning for Precise CAD Code Generation
+title: "From Intent to Execution: Multimodal Chain-of-Thought Reinforcement Learning for Precise CAD Code Generation"
 ---
 
 # From Intent to Execution: Multimodal Chain-of-Thought Reinforcement Learning for Precise CAD Code Generation

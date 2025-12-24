@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TongSIM: A General Platform for Simulating Intelligent Machines
+title: "TongSIM: A General Platform for Simulating Intelligent Machines"
 ---
 
 # TongSIM: A General Platform for Simulating Intelligent Machines

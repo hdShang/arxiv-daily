@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Surface Fairness, Deep Bias: A Comparative Study of Bias in Language Models
+title: "Surface Fairness, Deep Bias: A Comparative Study of Bias in Language Models"
 ---
 
 # Surface Fairness, Deep Bias: A Comparative Study of Bias in Language Models

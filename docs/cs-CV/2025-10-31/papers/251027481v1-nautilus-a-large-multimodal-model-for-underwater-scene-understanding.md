@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NAUTILUS: A Large Multimodal Model for Underwater Scene Understanding
+title: "NAUTILUS: A Large Multimodal Model for Underwater Scene Understanding"
 ---
 
 # NAUTILUS: A Large Multimodal Model for Underwater Scene Understanding

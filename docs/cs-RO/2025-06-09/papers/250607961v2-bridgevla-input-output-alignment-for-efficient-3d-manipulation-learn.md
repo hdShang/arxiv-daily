@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models
+title: "BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models"
 ---
 
 # BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models

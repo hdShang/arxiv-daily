@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Revisiting Efficient Semantic Segmentation: Learning Offsets for Better Spatial and Class Feature Alignment
+title: "Revisiting Efficient Semantic Segmentation: Learning Offsets for Better Spatial and Class Feature Alignment"
 ---
 
 # Revisiting Efficient Semantic Segmentation: Learning Offsets for Better Spatial and Class Feature Alignment

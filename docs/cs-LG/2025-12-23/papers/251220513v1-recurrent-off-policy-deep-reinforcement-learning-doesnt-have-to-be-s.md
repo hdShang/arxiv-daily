@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Recurrent Off-Policy Deep Reinforcement Learning Doesn't Have to be Slow
+title: "Recurrent Off-Policy Deep Reinforcement Learning Doesn't Have to be Slow"
 ---
 
 # Recurrent Off-Policy Deep Reinforcement Learning Doesn't Have to be Slow

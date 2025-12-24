@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Generalizability of Large Language Model-Based Agents: A Comprehensive Survey
+title: "Generalizability of Large Language Model-Based Agents: A Comprehensive Survey"
 ---
 
 # Generalizability of Large Language Model-Based Agents: A Comprehensive Survey

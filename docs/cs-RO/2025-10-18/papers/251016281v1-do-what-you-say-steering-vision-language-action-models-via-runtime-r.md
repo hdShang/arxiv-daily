@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Do What You Say: Steering Vision-Language-Action Models via Runtime Reasoning-Action Alignment Verification
+title: "Do What You Say: Steering Vision-Language-Action Models via Runtime Reasoning-Action Alignment Verification"
 ---
 
 # Do What You Say: Steering Vision-Language-Action Models via Runtime Reasoning-Action Alignment Verification

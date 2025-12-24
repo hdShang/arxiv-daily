@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TaP: A Taxonomy-Guided Framework for Automated and Scalable Preference Data Generation
+title: "TaP: A Taxonomy-Guided Framework for Automated and Scalable Preference Data Generation"
 ---
 
 # TaP: A Taxonomy-Guided Framework for Automated and Scalable Preference Data Generation

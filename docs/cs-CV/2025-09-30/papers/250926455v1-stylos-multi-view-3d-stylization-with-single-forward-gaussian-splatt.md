@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stylos: Multi-View 3D Stylization with Single-Forward Gaussian Splatting
+title: "Stylos: Multi-View 3D Stylization with Single-Forward Gaussian Splatting"
 ---
 
 # Stylos: Multi-View 3D Stylization with Single-Forward Gaussian Splatting

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Manipulation as in Simulation: Enabling Accurate Geometry Perception in Robots
+title: "Manipulation as in Simulation: Enabling Accurate Geometry Perception in Robots"
 ---
 
 # Manipulation as in Simulation: Enabling Accurate Geometry Perception in Robots

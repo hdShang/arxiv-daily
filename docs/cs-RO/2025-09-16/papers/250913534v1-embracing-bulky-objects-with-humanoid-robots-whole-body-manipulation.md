@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Embracing Bulky Objects with Humanoid Robots: Whole-Body Manipulation with Reinforcement Learning
+title: "Embracing Bulky Objects with Humanoid Robots: Whole-Body Manipulation with Reinforcement Learning"
 ---
 
 # Embracing Bulky Objects with Humanoid Robots: Whole-Body Manipulation with Reinforcement Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent
+title: "BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent"
 ---
 
 # BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent

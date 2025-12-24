@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InnerGS: Internal Scenes Rendering via Factorized 3D Gaussian Splatting
+title: "InnerGS: Internal Scenes Rendering via Factorized 3D Gaussian Splatting"
 ---
 
 # InnerGS: Internal Scenes Rendering via Factorized 3D Gaussian Splatting

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Motion Marionette: Rethinking Rigid Motion Transfer via Prior Guidance
+title: "Motion Marionette: Rethinking Rigid Motion Transfer via Prior Guidance"
 ---
 
 # Motion Marionette: Rethinking Rigid Motion Transfer via Prior Guidance

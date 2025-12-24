@@ -1,6 +1,6 @@
 ---
 layout: default
-title: C-ing Clearly: Enhanced Binary Code Explanations using C code
+title: "C-ing Clearly: Enhanced Binary Code Explanations using C code"
 ---
 
 # C-ing Clearly: Enhanced Binary Code Explanations using C code

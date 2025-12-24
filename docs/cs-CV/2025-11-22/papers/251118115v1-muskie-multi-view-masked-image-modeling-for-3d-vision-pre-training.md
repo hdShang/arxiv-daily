@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Muskie: Multi-view Masked Image Modeling for 3D Vision Pre-training
+title: "Muskie: Multi-view Masked Image Modeling for 3D Vision Pre-training"
 ---
 
 # Muskie: Multi-view Masked Image Modeling for 3D Vision Pre-training

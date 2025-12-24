@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Situat3DChange: Situated 3D Change Understanding Dataset for Multimodal Large Language Model
+title: "Situat3DChange: Situated 3D Change Understanding Dataset for Multimodal Large Language Model"
 ---
 
 # Situat3DChange: Situated 3D Change Understanding Dataset for Multimodal Large Language Model

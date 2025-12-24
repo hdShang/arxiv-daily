@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InterAct: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation
+title: "InterAct: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation"
 ---
 
 # InterAct: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation

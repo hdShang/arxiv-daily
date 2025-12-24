@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Measuring Data Science Automation: A Survey of Evaluation Tools for AI Assistants and Agents
+title: "Measuring Data Science Automation: A Survey of Evaluation Tools for AI Assistants and Agents"
 ---
 
 # Measuring Data Science Automation: A Survey of Evaluation Tools for AI Assistants and Agents

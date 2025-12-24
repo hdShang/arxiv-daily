@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Large Language Model's Multi-Capability Alignment in Biomedical Domain
+title: "Large Language Model's Multi-Capability Alignment in Biomedical Domain"
 ---
 
 # Large Language Model's Multi-Capability Alignment in Biomedical Domain

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UTBoost: Rigorous Evaluation of Coding Agents on SWE-Bench
+title: "UTBoost: Rigorous Evaluation of Coding Agents on SWE-Bench"
 ---
 
 # UTBoost: Rigorous Evaluation of Coding Agents on SWE-Bench

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DualGuard: Dual-stream Large Language Model Watermarking Defense against Paraphrase and Spoofing Attack
+title: "DualGuard: Dual-stream Large Language Model Watermarking Defense against Paraphrase and Spoofing Attack"
 ---
 
 # DualGuard: Dual-stream Large Language Model Watermarking Defense against Paraphrase and Spoofing Attack

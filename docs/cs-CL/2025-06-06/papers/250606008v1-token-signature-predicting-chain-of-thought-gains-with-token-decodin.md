@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Token Signature: Predicting Chain-of-Thought Gains with Token Decoding Feature in Large Language Models
+title: "Token Signature: Predicting Chain-of-Thought Gains with Token Decoding Feature in Large Language Models"
 ---
 
 # Token Signature: Predicting Chain-of-Thought Gains with Token Decoding Feature in Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scientific Hypothesis Generation and Validation: Methods, Datasets, and Future Directions
+title: "Scientific Hypothesis Generation and Validation: Methods, Datasets, and Future Directions"
 ---
 
 # Scientific Hypothesis Generation and Validation: Methods, Datasets, and Future Directions

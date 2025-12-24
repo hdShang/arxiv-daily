@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deep But Reliable: Advancing Multi-turn Reasoning for Thinking with Images
+title: "Deep But Reliable: Advancing Multi-turn Reasoning for Thinking with Images"
 ---
 
 # Deep But Reliable: Advancing Multi-turn Reasoning for Thinking with Images

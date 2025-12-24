@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dragging with Geometry: From Pixels to Geometry-Guided Image Editing
+title: "Dragging with Geometry: From Pixels to Geometry-Guided Image Editing"
 ---
 
 # Dragging with Geometry: From Pixels to Geometry-Guided Image Editing

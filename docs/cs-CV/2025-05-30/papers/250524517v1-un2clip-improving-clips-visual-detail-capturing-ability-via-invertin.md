@@ -1,6 +1,6 @@
 ---
 layout: default
-title: un$^2$CLIP: Improving CLIP's Visual Detail Capturing Ability via Inverting unCLIP
+title: "un$^2$CLIP: Improving CLIP's Visual Detail Capturing Ability via Inverting unCLIP"
 ---
 
 # un$^2$CLIP: Improving CLIP's Visual Detail Capturing Ability via Inverting unCLIP

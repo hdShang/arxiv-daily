@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SpikingBrain: Spiking Brain-inspired Large Models
+title: "SpikingBrain: Spiking Brain-inspired Large Models"
 ---
 
 # SpikingBrain: Spiking Brain-inspired Large Models

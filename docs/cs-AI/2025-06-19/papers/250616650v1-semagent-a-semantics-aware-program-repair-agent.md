@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SemAgent: A Semantics Aware Program Repair Agent
+title: "SemAgent: A Semantics Aware Program Repair Agent"
 ---
 
 # SemAgent: A Semantics Aware Program Repair Agent

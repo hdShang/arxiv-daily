@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mimic-one: a Scalable Model Recipe for General Purpose Robot Dexterity
+title: "mimic-one: a Scalable Model Recipe for General Purpose Robot Dexterity"
 ---
 
 # mimic-one: a Scalable Model Recipe for General Purpose Robot Dexterity

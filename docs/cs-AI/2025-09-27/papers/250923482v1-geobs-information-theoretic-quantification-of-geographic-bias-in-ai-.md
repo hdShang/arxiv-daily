@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GeoBS: Information-Theoretic Quantification of Geographic Bias in AI Models
+title: "GeoBS: Information-Theoretic Quantification of Geographic Bias in AI Models"
 ---
 
 # GeoBS: Information-Theoretic Quantification of Geographic Bias in AI Models

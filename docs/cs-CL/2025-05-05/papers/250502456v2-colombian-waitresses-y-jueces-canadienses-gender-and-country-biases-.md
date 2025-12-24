@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Colombian Waitresses y Jueces canadienses: Gender and Country Biases in Occupation Recommendations from LLMs
+title: "Colombian Waitresses y Jueces canadienses: Gender and Country Biases in Occupation Recommendations from LLMs"
 ---
 
 # Colombian Waitresses y Jueces canadienses: Gender and Country Biases in Occupation Recommendations from LLMs

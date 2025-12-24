@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KnowDR-REC: A Benchmark for Referring Expression Comprehension with Real-World Knowledge
+title: "KnowDR-REC: A Benchmark for Referring Expression Comprehension with Real-World Knowledge"
 ---
 
 # KnowDR-REC: A Benchmark for Referring Expression Comprehension with Real-World Knowledge

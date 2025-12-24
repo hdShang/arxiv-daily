@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SegGraph: Leveraging Graphs of SAM Segments for Few-Shot 3D Part Segmentation
+title: "SegGraph: Leveraging Graphs of SAM Segments for Few-Shot 3D Part Segmentation"
 ---
 
 # SegGraph: Leveraging Graphs of SAM Segments for Few-Shot 3D Part Segmentation

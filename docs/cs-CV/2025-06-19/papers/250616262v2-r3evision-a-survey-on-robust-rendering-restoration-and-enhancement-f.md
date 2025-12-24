@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision
+title: "R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision"
 ---
 
 # R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision

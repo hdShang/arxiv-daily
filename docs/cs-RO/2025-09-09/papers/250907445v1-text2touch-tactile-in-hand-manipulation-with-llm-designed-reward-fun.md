@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions
+title: "Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions"
 ---
 
 # Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions

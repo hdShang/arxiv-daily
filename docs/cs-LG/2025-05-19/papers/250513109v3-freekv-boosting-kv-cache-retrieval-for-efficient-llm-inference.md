@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference
+title: "FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference"
 ---
 
 # FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference

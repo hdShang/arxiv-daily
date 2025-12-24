@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ChemHAS: Hierarchical Agent Stacking for Enhancing Chemistry Tools
+title: "ChemHAS: Hierarchical Agent Stacking for Enhancing Chemistry Tools"
 ---
 
 # ChemHAS: Hierarchical Agent Stacking for Enhancing Chemistry Tools

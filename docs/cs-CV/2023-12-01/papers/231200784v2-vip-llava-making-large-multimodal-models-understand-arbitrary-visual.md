@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts
+title: "ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts"
 ---
 
 # ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts

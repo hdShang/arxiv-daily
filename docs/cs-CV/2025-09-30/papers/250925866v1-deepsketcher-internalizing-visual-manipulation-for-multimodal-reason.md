@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeepSketcher: Internalizing Visual Manipulation for Multimodal Reasoning
+title: "DeepSketcher: Internalizing Visual Manipulation for Multimodal Reasoning"
 ---
 
 # DeepSketcher: Internalizing Visual Manipulation for Multimodal Reasoning

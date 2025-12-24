@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLMs and their Limited Theory of Mind: Evaluating Mental State Annotations in Situated Dialogue
+title: "LLMs and their Limited Theory of Mind: Evaluating Mental State Annotations in Situated Dialogue"
 ---
 
 # LLMs and their Limited Theory of Mind: Evaluating Mental State Annotations in Situated Dialogue

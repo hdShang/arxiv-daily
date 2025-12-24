@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Joint Beamforming with Extremely Large Scale RIS: A Sequential Multi-Agent A2C Approach
+title: "Joint Beamforming with Extremely Large Scale RIS: A Sequential Multi-Agent A2C Approach"
 ---
 
 # Joint Beamforming with Extremely Large Scale RIS: A Sequential Multi-Agent A2C Approach

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OSoRA: Output-Dimension and Singular-Value Initialized Low-Rank Adaptation
+title: "OSoRA: Output-Dimension and Singular-Value Initialized Low-Rank Adaptation"
 ---
 
 # OSoRA: Output-Dimension and Singular-Value Initialized Low-Rank Adaptation

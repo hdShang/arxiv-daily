@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VLURes: Benchmarking VLM Visual and Linguistic Understanding in Low-Resource Languages
+title: "VLURes: Benchmarking VLM Visual and Linguistic Understanding in Low-Resource Languages"
 ---
 
 # VLURes: Benchmarking VLM Visual and Linguistic Understanding in Low-Resource Languages

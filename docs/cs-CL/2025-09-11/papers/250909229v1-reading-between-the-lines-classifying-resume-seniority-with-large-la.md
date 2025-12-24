@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reading Between the Lines: Classifying Resume Seniority with Large Language Models
+title: "Reading Between the Lines: Classifying Resume Seniority with Large Language Models"
 ---
 
 # Reading Between the Lines: Classifying Resume Seniority with Large Language Models

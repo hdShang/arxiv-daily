@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vidarc: Embodied Video Diffusion Model for Closed-loop Control
+title: "Vidarc: Embodied Video Diffusion Model for Closed-loop Control"
 ---
 
 # Vidarc: Embodied Video Diffusion Model for Closed-loop Control

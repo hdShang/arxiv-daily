@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BAR: A Backward Reasoning based Agent for Complex Minecraft Tasks
+title: "BAR: A Backward Reasoning based Agent for Complex Minecraft Tasks"
 ---
 
 # BAR: A Backward Reasoning based Agent for Complex Minecraft Tasks

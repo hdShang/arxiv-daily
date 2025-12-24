@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DualFocus: Depth from Focus with Spatio-Focal Dual Variational Constraints
+title: "DualFocus: Depth from Focus with Spatio-Focal Dual Variational Constraints"
 ---
 
 # DualFocus: Depth from Focus with Spatio-Focal Dual Variational Constraints

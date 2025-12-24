@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Smart Trial: Evaluating the Use of Large Language Models for Recruiting Clinical Trial Participants via Social Media
+title: "Smart Trial: Evaluating the Use of Large Language Models for Recruiting Clinical Trial Participants via Social Media"
 ---
 
 # Smart Trial: Evaluating the Use of Large Language Models for Recruiting Clinical Trial Participants via Social Media

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PersonaLens: A Benchmark for Personalization Evaluation in Conversational AI Assistants
+title: "PersonaLens: A Benchmark for Personalization Evaluation in Conversational AI Assistants"
 ---
 
 # PersonaLens: A Benchmark for Personalization Evaluation in Conversational AI Assistants

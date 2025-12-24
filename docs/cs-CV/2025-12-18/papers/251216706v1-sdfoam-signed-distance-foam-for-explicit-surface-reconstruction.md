@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SDFoam: Signed-Distance Foam for explicit surface reconstruction
+title: "SDFoam: Signed-Distance Foam for explicit surface reconstruction"
 ---
 
 # SDFoam: Signed-Distance Foam for explicit surface reconstruction

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: E-THER: A Multimodal Dataset for Empathic AI -- Towards Emotional Mismatch Awareness
+title: "E-THER: A Multimodal Dataset for Empathic AI -- Towards Emotional Mismatch Awareness"
 ---
 
 # E-THER: A Multimodal Dataset for Empathic AI -- Towards Emotional Mismatch Awareness

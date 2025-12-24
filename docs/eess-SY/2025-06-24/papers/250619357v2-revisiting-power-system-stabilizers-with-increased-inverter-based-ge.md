@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Revisiting Power System Stabilizers with Increased Inverter-Based Generation: A Case Study
+title: "Revisiting Power System Stabilizers with Increased Inverter-Based Generation: A Case Study"
 ---
 
 # Revisiting Power System Stabilizers with Increased Inverter-Based Generation: A Case Study

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FineWeb2: One Pipeline to Scale Them All -- Adapting Pre-Training Data Processing to Every Language
+title: "FineWeb2: One Pipeline to Scale Them All -- Adapting Pre-Training Data Processing to Every Language"
 ---
 
 # FineWeb2: One Pipeline to Scale Them All -- Adapting Pre-Training Data Processing to Every Language

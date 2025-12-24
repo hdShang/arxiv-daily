@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Rich Dad, Poor Lad': How do Large Language Models Contextualize Socioeconomic Factors in College Admission ?
+title: "'Rich Dad, Poor Lad': How do Large Language Models Contextualize Socioeconomic Factors in College Admission ?"
 ---
 
 # 'Rich Dad, Poor Lad': How do Large Language Models Contextualize Socioeconomic Factors in College Admission ?

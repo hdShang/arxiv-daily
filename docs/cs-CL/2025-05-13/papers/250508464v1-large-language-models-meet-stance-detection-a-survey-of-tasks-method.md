@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Large Language Models Meet Stance Detection: A Survey of Tasks, Methods, Applications, Challenges and Future Directions
+title: "Large Language Models Meet Stance Detection: A Survey of Tasks, Methods, Applications, Challenges and Future Directions"
 ---
 
 # Large Language Models Meet Stance Detection: A Survey of Tasks, Methods, Applications, Challenges and Future Directions

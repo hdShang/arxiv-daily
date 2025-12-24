@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SEMNAV: A Semantic Segmentation-Driven Approach to Visual Semantic Navigation
+title: "SEMNAV: A Semantic Segmentation-Driven Approach to Visual Semantic Navigation"
 ---
 
 # SEMNAV: A Semantic Segmentation-Driven Approach to Visual Semantic Navigation

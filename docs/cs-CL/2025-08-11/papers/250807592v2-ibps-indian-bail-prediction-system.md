@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IBPS: Indian Bail Prediction System
+title: "IBPS: Indian Bail Prediction System"
 ---
 
 # IBPS: Indian Bail Prediction System

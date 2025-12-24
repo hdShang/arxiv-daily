@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Homogeneous Attention: Memory-Efficient LLMs via Fourier-Approximated KV Cache
+title: "Beyond Homogeneous Attention: Memory-Efficient LLMs via Fourier-Approximated KV Cache"
 ---
 
 # Beyond Homogeneous Attention: Memory-Efficient LLMs via Fourier-Approximated KV Cache

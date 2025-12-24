@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Video-Holmes: Can MLLM Think Like Holmes for Complex Video Reasoning?
+title: "Video-Holmes: Can MLLM Think Like Holmes for Complex Video Reasoning?"
 ---
 
 # Video-Holmes: Can MLLM Think Like Holmes for Complex Video Reasoning?

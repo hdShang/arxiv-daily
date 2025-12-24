@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoDefend: Cross-Modal Collaborative Defense via Diffusion Purification and Prompt Optimization
+title: "CoDefend: Cross-Modal Collaborative Defense via Diffusion Purification and Prompt Optimization"
 ---
 
 # CoDefend: Cross-Modal Collaborative Defense via Diffusion Purification and Prompt Optimization

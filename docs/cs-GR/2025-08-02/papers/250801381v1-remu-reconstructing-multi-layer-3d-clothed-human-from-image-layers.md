@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReMu: Reconstructing Multi-layer 3D Clothed Human from Image Layers
+title: "ReMu: Reconstructing Multi-layer 3D Clothed Human from Image Layers"
 ---
 
 # ReMu: Reconstructing Multi-layer 3D Clothed Human from Image Layers

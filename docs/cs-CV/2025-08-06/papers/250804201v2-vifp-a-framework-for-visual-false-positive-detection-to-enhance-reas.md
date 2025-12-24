@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ViFP: A Framework for Visual False Positive Detection to Enhance Reasoning Reliability in VLMs
+title: "ViFP: A Framework for Visual False Positive Detection to Enhance Reasoning Reliability in VLMs"
 ---
 
 # ViFP: A Framework for Visual False Positive Detection to Enhance Reasoning Reliability in VLMs

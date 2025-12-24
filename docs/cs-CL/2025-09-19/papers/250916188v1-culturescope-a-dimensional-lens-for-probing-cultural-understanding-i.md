@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CultureScope: A Dimensional Lens for Probing Cultural Understanding in LLMs
+title: "CultureScope: A Dimensional Lens for Probing Cultural Understanding in LLMs"
 ---
 
 # CultureScope: A Dimensional Lens for Probing Cultural Understanding in LLMs

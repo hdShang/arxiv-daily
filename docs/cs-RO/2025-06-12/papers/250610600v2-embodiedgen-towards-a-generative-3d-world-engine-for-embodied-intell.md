@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EmbodiedGen: Towards a Generative 3D World Engine for Embodied Intelligence
+title: "EmbodiedGen: Towards a Generative 3D World Engine for Embodied Intelligence"
 ---
 
 # EmbodiedGen: Towards a Generative 3D World Engine for Embodied Intelligence

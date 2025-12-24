@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MolmoAct: Action Reasoning Models that can Reason in Space
+title: "MolmoAct: Action Reasoning Models that can Reason in Space"
 ---
 
 # MolmoAct: Action Reasoning Models that can Reason in Space

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DriveMind: A Dual-VLM based Reinforcement Learning Framework for Autonomous Driving
+title: "DriveMind: A Dual-VLM based Reinforcement Learning Framework for Autonomous Driving"
 ---
 
 # DriveMind: A Dual-VLM based Reinforcement Learning Framework for Autonomous Driving

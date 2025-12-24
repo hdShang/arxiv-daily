@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HiMaCon: Discovering Hierarchical Manipulation Concepts from Unlabeled Multi-Modal Data
+title: "HiMaCon: Discovering Hierarchical Manipulation Concepts from Unlabeled Multi-Modal Data"
 ---
 
 # HiMaCon: Discovering Hierarchical Manipulation Concepts from Unlabeled Multi-Modal Data

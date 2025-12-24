@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SimulSense: Sense-Driven Interpreting for Efficient Simultaneous Speech Translation
+title: "SimulSense: Sense-Driven Interpreting for Efficient Simultaneous Speech Translation"
 ---
 
 # SimulSense: Sense-Driven Interpreting for Efficient Simultaneous Speech Translation

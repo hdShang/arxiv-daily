@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Categorical Policies: Multimodal Policy Learning and Exploration in Continuous Control
+title: "Categorical Policies: Multimodal Policy Learning and Exploration in Continuous Control"
 ---
 
 # Categorical Policies: Multimodal Policy Learning and Exploration in Continuous Control

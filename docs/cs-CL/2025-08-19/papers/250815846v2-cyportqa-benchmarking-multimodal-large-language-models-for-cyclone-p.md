@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CyPortQA: Benchmarking Multimodal Large Language Models for Cyclone Preparedness in Port Operation
+title: "CyPortQA: Benchmarking Multimodal Large Language Models for Cyclone Preparedness in Port Operation"
 ---
 
 # CyPortQA: Benchmarking Multimodal Large Language Models for Cyclone Preparedness in Port Operation

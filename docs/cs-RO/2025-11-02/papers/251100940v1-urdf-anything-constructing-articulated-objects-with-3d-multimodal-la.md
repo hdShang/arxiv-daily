@@ -1,6 +1,6 @@
 ---
 layout: default
-title: URDF-Anything: Constructing Articulated Objects with 3D Multimodal Language Model
+title: "URDF-Anything: Constructing Articulated Objects with 3D Multimodal Language Model"
 ---
 
 # URDF-Anything: Constructing Articulated Objects with 3D Multimodal Language Model

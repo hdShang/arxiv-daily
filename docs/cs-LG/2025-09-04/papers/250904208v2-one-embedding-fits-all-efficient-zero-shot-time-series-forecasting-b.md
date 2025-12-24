@@ -1,6 +1,6 @@
 ---
 layout: default
-title: One-Embedding-Fits-All: Efficient Zero-Shot Time Series Forecasting by a Model Zoo
+title: "One-Embedding-Fits-All: Efficient Zero-Shot Time Series Forecasting by a Model Zoo"
 ---
 
 # One-Embedding-Fits-All: Efficient Zero-Shot Time Series Forecasting by a Model Zoo

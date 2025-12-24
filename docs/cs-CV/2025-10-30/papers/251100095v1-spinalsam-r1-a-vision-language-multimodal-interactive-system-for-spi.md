@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SpinalSAM-R1: A Vision-Language Multimodal Interactive System for Spine CT Segmentation
+title: "SpinalSAM-R1: A Vision-Language Multimodal Interactive System for Spine CT Segmentation"
 ---
 
 # SpinalSAM-R1: A Vision-Language Multimodal Interactive System for Spine CT Segmentation

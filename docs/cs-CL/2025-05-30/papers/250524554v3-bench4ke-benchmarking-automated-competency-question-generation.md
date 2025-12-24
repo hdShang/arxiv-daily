@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bench4KE: Benchmarking Automated Competency Question Generation
+title: "Bench4KE: Benchmarking Automated Competency Question Generation"
 ---
 
 # Bench4KE: Benchmarking Automated Competency Question Generation

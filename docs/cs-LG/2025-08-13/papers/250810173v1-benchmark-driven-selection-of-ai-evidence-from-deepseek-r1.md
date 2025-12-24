@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Benchmark-Driven Selection of AI: Evidence from DeepSeek-R1
+title: "Benchmark-Driven Selection of AI: Evidence from DeepSeek-R1"
 ---
 
 # Benchmark-Driven Selection of AI: Evidence from DeepSeek-R1

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TextureSplat: Per-Primitive Texture Mapping for Reflective Gaussian Splatting
+title: "TextureSplat: Per-Primitive Texture Mapping for Reflective Gaussian Splatting"
 ---
 
 # TextureSplat: Per-Primitive Texture Mapping for Reflective Gaussian Splatting

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Single-Teacher View Augmentation: Boosting Knowledge Distillation via Angular Diversity
+title: "Single-Teacher View Augmentation: Boosting Knowledge Distillation via Angular Diversity"
 ---
 
 # Single-Teacher View Augmentation: Boosting Knowledge Distillation via Angular Diversity

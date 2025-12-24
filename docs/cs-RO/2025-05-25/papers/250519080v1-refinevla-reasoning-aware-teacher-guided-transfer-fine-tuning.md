@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReFineVLA: Reasoning-Aware Teacher-Guided Transfer Fine-Tuning
+title: "ReFineVLA: Reasoning-Aware Teacher-Guided Transfer Fine-Tuning"
 ---
 
 # ReFineVLA: Reasoning-Aware Teacher-Guided Transfer Fine-Tuning

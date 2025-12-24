@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NoteBar: An AI-Assisted Note-Taking System for Personal Knowledge Management
+title: "NoteBar: An AI-Assisted Note-Taking System for Personal Knowledge Management"
 ---
 
 # NoteBar: An AI-Assisted Note-Taking System for Personal Knowledge Management

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners
+title: "I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners"
 ---
 
 # I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hidden in Plain Sight: Evaluation of the Deception Detection Capabilities of LLMs in Multimodal Settings
+title: "Hidden in Plain Sight: Evaluation of the Deception Detection Capabilities of LLMs in Multimodal Settings"
 ---
 
 # Hidden in Plain Sight: Evaluation of the Deception Detection Capabilities of LLMs in Multimodal Settings

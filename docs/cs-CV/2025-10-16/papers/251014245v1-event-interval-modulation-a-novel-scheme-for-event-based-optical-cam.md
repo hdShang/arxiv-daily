@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Event Interval Modulation: A Novel Scheme for Event-based Optical Camera Communication
+title: "Event Interval Modulation: A Novel Scheme for Event-based Optical Camera Communication"
 ---
 
 # Event Interval Modulation: A Novel Scheme for Event-based Optical Camera Communication

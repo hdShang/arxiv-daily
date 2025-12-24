@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RuN: Residual Policy for Natural Humanoid Locomotion
+title: "RuN: Residual Policy for Natural Humanoid Locomotion"
 ---
 
 # RuN: Residual Policy for Natural Humanoid Locomotion

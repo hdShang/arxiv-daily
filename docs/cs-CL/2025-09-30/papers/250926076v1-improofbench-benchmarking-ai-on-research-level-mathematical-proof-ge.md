@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IMProofBench: Benchmarking AI on Research-Level Mathematical Proof Generation
+title: "IMProofBench: Benchmarking AI on Research-Level Mathematical Proof Generation"
 ---
 
 # IMProofBench: Benchmarking AI on Research-Level Mathematical Proof Generation

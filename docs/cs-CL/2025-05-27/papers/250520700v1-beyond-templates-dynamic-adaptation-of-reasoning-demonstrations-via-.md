@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Templates: Dynamic Adaptation of Reasoning Demonstrations via Feasibility-Aware Exploration
+title: "Beyond Templates: Dynamic Adaptation of Reasoning Demonstrations via Feasibility-Aware Exploration"
 ---
 
 # Beyond Templates: Dynamic Adaptation of Reasoning Demonstrations via Feasibility-Aware Exploration

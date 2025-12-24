@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark
+title: "SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark"
 ---
 
 # SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark

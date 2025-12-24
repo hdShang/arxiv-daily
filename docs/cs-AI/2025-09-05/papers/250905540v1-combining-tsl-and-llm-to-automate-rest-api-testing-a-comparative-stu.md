@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Combining TSL and LLM to Automate REST API Testing: A Comparative Study
+title: "Combining TSL and LLM to Automate REST API Testing: A Comparative Study"
 ---
 
 # Combining TSL and LLM to Automate REST API Testing: A Comparative Study

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mr. Virgil: Learning Multi-robot Visual-range Relative Localization
+title: "Mr. Virgil: Learning Multi-robot Visual-range Relative Localization"
 ---
 
 # Mr. Virgil: Learning Multi-robot Visual-range Relative Localization

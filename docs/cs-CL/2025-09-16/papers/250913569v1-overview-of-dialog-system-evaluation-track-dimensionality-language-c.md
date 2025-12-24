@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Overview of Dialog System Evaluation Track: Dimensionality, Language, Culture and Safety at DSTC 12
+title: "Overview of Dialog System Evaluation Track: Dimensionality, Language, Culture and Safety at DSTC 12"
 ---
 
 # Overview of Dialog System Evaluation Track: Dimensionality, Language, Culture and Safety at DSTC 12

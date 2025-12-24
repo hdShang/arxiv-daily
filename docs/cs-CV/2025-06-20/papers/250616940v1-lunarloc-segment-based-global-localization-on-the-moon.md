@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LunarLoc: Segment-Based Global Localization on the Moon
+title: "LunarLoc: Segment-Based Global Localization on the Moon"
 ---
 
 # LunarLoc: Segment-Based Global Localization on the Moon

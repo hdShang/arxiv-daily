@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation
+title: "VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation"
 ---
 
 # VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation

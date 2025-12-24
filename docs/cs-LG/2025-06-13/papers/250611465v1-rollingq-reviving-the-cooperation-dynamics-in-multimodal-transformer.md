@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RollingQ: Reviving the Cooperation Dynamics in Multimodal Transformer
+title: "RollingQ: Reviving the Cooperation Dynamics in Multimodal Transformer"
 ---
 
 # RollingQ: Reviving the Cooperation Dynamics in Multimodal Transformer

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trajectory First: A Curriculum for Discovering Diverse Policies
+title: "Trajectory First: A Curriculum for Discovering Diverse Policies"
 ---
 
 # Trajectory First: A Curriculum for Discovering Diverse Policies

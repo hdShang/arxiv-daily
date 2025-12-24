@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Advancing Harmful Content Detection in Organizational Research: Integrating Large Language Models with Elo Rating System
+title: "Advancing Harmful Content Detection in Organizational Research: Integrating Large Language Models with Elo Rating System"
 ---
 
 # Advancing Harmful Content Detection in Organizational Research: Integrating Large Language Models with Elo Rating System

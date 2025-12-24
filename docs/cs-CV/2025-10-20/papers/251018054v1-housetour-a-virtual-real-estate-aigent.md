@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HouseTour: A Virtual Real Estate A(I)gent
+title: "HouseTour: A Virtual Real Estate A(I)gent"
 ---
 
 # HouseTour: A Virtual Real Estate A(I)gent

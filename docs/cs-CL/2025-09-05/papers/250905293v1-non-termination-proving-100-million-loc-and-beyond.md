@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Non-Termination Proving: 100 Million LoC and Beyond
+title: "Non-Termination Proving: 100 Million LoC and Beyond"
 ---
 
 # Non-Termination Proving: 100 Million LoC and Beyond

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seeing, Saying, Solving: An LLM-to-TL Framework for Cooperative Robots
+title: "Seeing, Saying, Solving: An LLM-to-TL Framework for Cooperative Robots"
 ---
 
 # Seeing, Saying, Solving: An LLM-to-TL Framework for Cooperative Robots

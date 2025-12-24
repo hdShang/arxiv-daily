@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CompareBench: A Benchmark for Visual Comparison Reasoning in Vision-Language Models
+title: "CompareBench: A Benchmark for Visual Comparison Reasoning in Vision-Language Models"
 ---
 
 # CompareBench: A Benchmark for Visual Comparison Reasoning in Vision-Language Models

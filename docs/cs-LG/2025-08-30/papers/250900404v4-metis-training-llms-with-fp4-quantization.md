@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Metis: Training LLMs with FP4 Quantization
+title: "Metis: Training LLMs with FP4 Quantization"
 ---
 
 # Metis: Training LLMs with FP4 Quantization

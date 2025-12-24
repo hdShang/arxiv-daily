@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GradeSQL: Test-Time Inference with Outcome Reward Models for Text-to-SQL Generation from Large Language Models
+title: "GradeSQL: Test-Time Inference with Outcome Reward Models for Text-to-SQL Generation from Large Language Models"
 ---
 
 # GradeSQL: Test-Time Inference with Outcome Reward Models for Text-to-SQL Generation from Large Language Models

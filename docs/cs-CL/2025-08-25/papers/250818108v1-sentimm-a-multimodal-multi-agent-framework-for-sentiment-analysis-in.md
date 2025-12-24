@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SentiMM: A Multimodal Multi-Agent Framework for Sentiment Analysis in Social Media
+title: "SentiMM: A Multimodal Multi-Agent Framework for Sentiment Analysis in Social Media"
 ---
 
 # SentiMM: A Multimodal Multi-Agent Framework for Sentiment Analysis in Social Media

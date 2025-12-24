@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TAMA: Tool-Augmented Multimodal Agent for Procedural Activity Understanding
+title: "TAMA: Tool-Augmented Multimodal Agent for Procedural Activity Understanding"
 ---
 
 # TAMA: Tool-Augmented Multimodal Agent for Procedural Activity Understanding

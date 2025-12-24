@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TopoDiffuser: A Diffusion-Based Multimodal Trajectory Prediction Model with Topometric Maps
+title: "TopoDiffuser: A Diffusion-Based Multimodal Trajectory Prediction Model with Topometric Maps"
 ---
 
 # TopoDiffuser: A Diffusion-Based Multimodal Trajectory Prediction Model with Topometric Maps

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HiPlan: Hierarchical Planning for LLM-Based Agents with Adaptive Global-Local Guidance
+title: "HiPlan: Hierarchical Planning for LLM-Based Agents with Adaptive Global-Local Guidance"
 ---
 
 # HiPlan: Hierarchical Planning for LLM-Based Agents with Adaptive Global-Local Guidance

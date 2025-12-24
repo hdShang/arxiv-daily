@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Automatic Transmission for LLM Tiers: Optimizing Cost and Accuracy in Large Language Models
+title: "Automatic Transmission for LLM Tiers: Optimizing Cost and Accuracy in Large Language Models"
 ---
 
 # Automatic Transmission for LLM Tiers: Optimizing Cost and Accuracy in Large Language Models

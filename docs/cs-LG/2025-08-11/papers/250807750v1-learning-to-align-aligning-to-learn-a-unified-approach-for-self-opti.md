@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning to Align, Aligning to Learn: A Unified Approach for Self-Optimized Alignment
+title: "Learning to Align, Aligning to Learn: A Unified Approach for Self-Optimized Alignment"
 ---
 
 # Learning to Align, Aligning to Learn: A Unified Approach for Self-Optimized Alignment

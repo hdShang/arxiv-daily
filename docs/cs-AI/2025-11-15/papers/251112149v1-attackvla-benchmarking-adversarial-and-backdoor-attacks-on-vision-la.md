@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AttackVLA: Benchmarking Adversarial and Backdoor Attacks on Vision-Language-Action Models
+title: "AttackVLA: Benchmarking Adversarial and Backdoor Attacks on Vision-Language-Action Models"
 ---
 
 # AttackVLA: Benchmarking Adversarial and Backdoor Attacks on Vision-Language-Action Models

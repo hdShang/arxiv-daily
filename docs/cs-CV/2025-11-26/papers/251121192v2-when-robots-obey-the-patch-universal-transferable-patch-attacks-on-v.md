@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When Robots Obey the Patch: Universal Transferable Patch Attacks on Vision-Language-Action Models
+title: "When Robots Obey the Patch: Universal Transferable Patch Attacks on Vision-Language-Action Models"
 ---
 
 # When Robots Obey the Patch: Universal Transferable Patch Attacks on Vision-Language-Action Models

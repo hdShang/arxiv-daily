@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoadMind: Towards a Geospatial AI Expert for Disaster Response
+title: "RoadMind: Towards a Geospatial AI Expert for Disaster Response"
 ---
 
 # RoadMind: Towards a Geospatial AI Expert for Disaster Response

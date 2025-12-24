@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LNE-Blocking: An Efficient Framework for Contamination Mitigation Evaluation on Large Language Models
+title: "LNE-Blocking: An Efficient Framework for Contamination Mitigation Evaluation on Large Language Models"
 ---
 
 # LNE-Blocking: An Efficient Framework for Contamination Mitigation Evaluation on Large Language Models

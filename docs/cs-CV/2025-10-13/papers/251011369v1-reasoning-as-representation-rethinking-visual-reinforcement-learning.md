@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reasoning as Representation: Rethinking Visual Reinforcement Learning in Image Quality Assessment
+title: "Reasoning as Representation: Rethinking Visual Reinforcement Learning in Image Quality Assessment"
 ---
 
 # Reasoning as Representation: Rethinking Visual Reinforcement Learning in Image Quality Assessment

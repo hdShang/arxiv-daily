@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CAWR: Corruption-Averse Advantage-Weighted Regression for Robust Policy Optimization
+title: "CAWR: Corruption-Averse Advantage-Weighted Regression for Robust Policy Optimization"
 ---
 
 # CAWR: Corruption-Averse Advantage-Weighted Regression for Robust Policy Optimization

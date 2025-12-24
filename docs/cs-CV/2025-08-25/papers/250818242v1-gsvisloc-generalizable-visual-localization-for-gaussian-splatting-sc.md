@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GSVisLoc: Generalizable Visual Localization for Gaussian Splatting Scene Representations
+title: "GSVisLoc: Generalizable Visual Localization for Gaussian Splatting Scene Representations"
 ---
 
 # GSVisLoc: Generalizable Visual Localization for Gaussian Splatting Scene Representations

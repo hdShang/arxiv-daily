@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DP-FedLoRA: Privacy-Enhanced Federated Fine-Tuning for On-Device Large Language Models
+title: "DP-FedLoRA: Privacy-Enhanced Federated Fine-Tuning for On-Device Large Language Models"
 ---
 
 # DP-FedLoRA: Privacy-Enhanced Federated Fine-Tuning for On-Device Large Language Models

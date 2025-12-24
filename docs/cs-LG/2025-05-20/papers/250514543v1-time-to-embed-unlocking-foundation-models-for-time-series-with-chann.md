@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Time to Embed: Unlocking Foundation Models for Time Series with Channel Descriptions
+title: "Time to Embed: Unlocking Foundation Models for Time Series with Channel Descriptions"
 ---
 
 # Time to Embed: Unlocking Foundation Models for Time Series with Channel Descriptions

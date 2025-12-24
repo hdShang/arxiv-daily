@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeAR: Dual-Stage Document Reranking with Reasoning Agents via LLM Distillation
+title: "DeAR: Dual-Stage Document Reranking with Reasoning Agents via LLM Distillation"
 ---
 
 # DeAR: Dual-Stage Document Reranking with Reasoning Agents via LLM Distillation

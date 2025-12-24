@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VR-Thinker: Boosting Video Reward Models through Thinking-with-Image Reasoning
+title: "VR-Thinker: Boosting Video Reward Models through Thinking-with-Image Reasoning"
 ---
 
 # VR-Thinker: Boosting Video Reward Models through Thinking-with-Image Reasoning

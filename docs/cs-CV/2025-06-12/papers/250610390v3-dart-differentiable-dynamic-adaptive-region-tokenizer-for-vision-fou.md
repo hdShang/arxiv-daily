@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Foundation Models
+title: "DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Foundation Models"
 ---
 
 # DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Foundation Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMSearch-Plus: Benchmarking Provenance-Aware Search for Multimodal Browsing Agents
+title: "MMSearch-Plus: Benchmarking Provenance-Aware Search for Multimodal Browsing Agents"
 ---
 
 # MMSearch-Plus: Benchmarking Provenance-Aware Search for Multimodal Browsing Agents

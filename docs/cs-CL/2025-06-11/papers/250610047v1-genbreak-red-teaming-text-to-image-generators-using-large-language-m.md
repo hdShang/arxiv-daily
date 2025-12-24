@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GenBreak: Red Teaming Text-to-Image Generators Using Large Language Models
+title: "GenBreak: Red Teaming Text-to-Image Generators Using Large Language Models"
 ---
 
 # GenBreak: Red Teaming Text-to-Image Generators Using Large Language Models

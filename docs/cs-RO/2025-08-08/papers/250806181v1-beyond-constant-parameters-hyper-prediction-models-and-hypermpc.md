@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Constant Parameters: Hyper Prediction Models and HyperMPC
+title: "Beyond Constant Parameters: Hyper Prediction Models and HyperMPC"
 ---
 
 # Beyond Constant Parameters: Hyper Prediction Models and HyperMPC

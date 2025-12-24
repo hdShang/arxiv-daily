@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EOC-Bench: Can MLLMs Identify, Recall, and Forecast Objects in an Egocentric World?
+title: "EOC-Bench: Can MLLMs Identify, Recall, and Forecast Objects in an Egocentric World?"
 ---
 
 # EOC-Bench: Can MLLMs Identify, Recall, and Forecast Objects in an Egocentric World?

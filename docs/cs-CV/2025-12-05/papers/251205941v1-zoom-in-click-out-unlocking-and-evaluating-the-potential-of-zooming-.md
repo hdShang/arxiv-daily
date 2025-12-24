@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding
+title: "Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding"
 ---
 
 # Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding

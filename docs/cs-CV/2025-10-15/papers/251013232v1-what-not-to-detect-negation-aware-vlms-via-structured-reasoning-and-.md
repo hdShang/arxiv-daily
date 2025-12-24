@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What "Not" to Detect: Negation-Aware VLMs via Structured Reasoning and Token Merging
+title: "What \"Not\" to Detect: Negation-Aware VLMs via Structured Reasoning and Token Merging"
 ---
 
 # What "Not" to Detect: Negation-Aware VLMs via Structured Reasoning and Token Merging

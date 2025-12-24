@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DSG-World: Learning a 3D Gaussian World Model from Dual State Videos
+title: "DSG-World: Learning a 3D Gaussian World Model from Dual State Videos"
 ---
 
 # DSG-World: Learning a 3D Gaussian World Model from Dual State Videos

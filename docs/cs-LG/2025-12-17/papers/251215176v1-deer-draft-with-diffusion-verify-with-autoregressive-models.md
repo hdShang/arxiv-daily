@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DEER: Draft with Diffusion, Verify with Autoregressive Models
+title: "DEER: Draft with Diffusion, Verify with Autoregressive Models"
 ---
 
 # DEER: Draft with Diffusion, Verify with Autoregressive Models

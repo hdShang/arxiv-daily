@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PhysLLM: Harnessing Large Language Models for Cross-Modal Remote Physiological Sensing
+title: "PhysLLM: Harnessing Large Language Models for Cross-Modal Remote Physiological Sensing"
 ---
 
 # PhysLLM: Harnessing Large Language Models for Cross-Modal Remote Physiological Sensing

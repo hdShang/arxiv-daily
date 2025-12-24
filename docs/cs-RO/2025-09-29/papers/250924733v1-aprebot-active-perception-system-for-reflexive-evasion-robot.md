@@ -1,6 +1,6 @@
 ---
 layout: default
-title: APREBot: Active Perception System for Reflexive Evasion Robot
+title: "APREBot: Active Perception System for Reflexive Evasion Robot"
 ---
 
 # APREBot: Active Perception System for Reflexive Evasion Robot

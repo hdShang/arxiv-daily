@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ObjectReact: Learning Object-Relative Control for Visual Navigation
+title: "ObjectReact: Learning Object-Relative Control for Visual Navigation"
 ---
 
 # ObjectReact: Learning Object-Relative Control for Visual Navigation

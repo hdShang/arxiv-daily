@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Behind the Mask: Benchmarking Camouflaged Jailbreaks in Large Language Models
+title: "Behind the Mask: Benchmarking Camouflaged Jailbreaks in Large Language Models"
 ---
 
 # Behind the Mask: Benchmarking Camouflaged Jailbreaks in Large Language Models

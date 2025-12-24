@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Same evaluation, more tokens: On the effect of input length for machine translation evaluation using Large Language Models
+title: "Same evaluation, more tokens: On the effect of input length for machine translation evaluation using Large Language Models"
 ---
 
 # Same evaluation, more tokens: On the effect of input length for machine translation evaluation using Large Language Models

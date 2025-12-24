@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StreamLink: Large-Language-Model Driven Distributed Data Engineering System
+title: "StreamLink: Large-Language-Model Driven Distributed Data Engineering System"
 ---
 
 # StreamLink: Large-Language-Model Driven Distributed Data Engineering System

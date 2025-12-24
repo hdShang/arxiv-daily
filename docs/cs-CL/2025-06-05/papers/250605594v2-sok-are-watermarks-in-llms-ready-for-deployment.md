@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SoK: Are Watermarks in LLMs Ready for Deployment?
+title: "SoK: Are Watermarks in LLMs Ready for Deployment?"
 ---
 
 # SoK: Are Watermarks in LLMs Ready for Deployment?

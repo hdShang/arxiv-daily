@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MapRF: Weakly Supervised Online HD Map Construction via NeRF-Guided Self-Training
+title: "MapRF: Weakly Supervised Online HD Map Construction via NeRF-Guided Self-Training"
 ---
 
 # MapRF: Weakly Supervised Online HD Map Construction via NeRF-Guided Self-Training

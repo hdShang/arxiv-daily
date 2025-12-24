@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Design of Q8bot: A Miniature, Low-Cost, Dynamic Quadruped Built with Zero Wires
+title: "Design of Q8bot: A Miniature, Low-Cost, Dynamic Quadruped Built with Zero Wires"
 ---
 
 # Design of Q8bot: A Miniature, Low-Cost, Dynamic Quadruped Built with Zero Wires

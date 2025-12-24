@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Grid-Aware Flexibility Operation of Behind-the-Meter Assets: A review of Objectives and Constraints
+title: "Grid-Aware Flexibility Operation of Behind-the-Meter Assets: A review of Objectives and Constraints"
 ---
 
 # Grid-Aware Flexibility Operation of Behind-the-Meter Assets: A review of Objectives and Constraints

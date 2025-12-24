@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FieldGen: From Teleoperated Pre-Manipulation Trajectories to Field-Guided Data Generation
+title: "FieldGen: From Teleoperated Pre-Manipulation Trajectories to Field-Guided Data Generation"
 ---
 
 # FieldGen: From Teleoperated Pre-Manipulation Trajectories to Field-Guided Data Generation

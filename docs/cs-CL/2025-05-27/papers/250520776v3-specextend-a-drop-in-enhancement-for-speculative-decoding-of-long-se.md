@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences
+title: "SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences"
 ---
 
 # SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences

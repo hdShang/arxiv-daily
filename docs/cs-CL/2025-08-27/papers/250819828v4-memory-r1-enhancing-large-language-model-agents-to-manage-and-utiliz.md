@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning
+title: "Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning"
 ---
 
 # Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WinMamba: Multi-Scale Shifted Windows in State Space Model for 3D Object Detection
+title: "WinMamba: Multi-Scale Shifted Windows in State Space Model for 3D Object Detection"
 ---
 
 # WinMamba: Multi-Scale Shifted Windows in State Space Model for 3D Object Detection

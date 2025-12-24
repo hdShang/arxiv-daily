@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CAViAR: Critic-Augmented Video Agentic Reasoning
+title: "CAViAR: Critic-Augmented Video Agentic Reasoning"
 ---
 
 # CAViAR: Critic-Augmented Video Agentic Reasoning

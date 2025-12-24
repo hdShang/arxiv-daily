@@ -1,6 +1,6 @@
 ---
 layout: default
-title: REASAN: Learning Reactive Safe Navigation for Legged Robots
+title: "REASAN: Learning Reactive Safe Navigation for Legged Robots"
 ---
 
 # REASAN: Learning Reactive Safe Navigation for Legged Robots

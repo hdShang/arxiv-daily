@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Detailed Factor Analysis for the Political Compass Test: Navigating Ideologies of Large Language Models
+title: "A Detailed Factor Analysis for the Political Compass Test: Navigating Ideologies of Large Language Models"
 ---
 
 # A Detailed Factor Analysis for the Political Compass Test: Navigating Ideologies of Large Language Models

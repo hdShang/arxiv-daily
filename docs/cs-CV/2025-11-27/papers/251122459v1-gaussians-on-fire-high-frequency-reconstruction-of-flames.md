@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gaussians on Fire: High-Frequency Reconstruction of Flames
+title: "Gaussians on Fire: High-Frequency Reconstruction of Flames"
 ---
 
 # Gaussians on Fire: High-Frequency Reconstruction of Flames

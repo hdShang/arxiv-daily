@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Conformal Prediction in The Loop: A Feedback-Based Uncertainty Model for Trajectory Optimization
+title: "Conformal Prediction in The Loop: A Feedback-Based Uncertainty Model for Trajectory Optimization"
 ---
 
 # Conformal Prediction in The Loop: A Feedback-Based Uncertainty Model for Trajectory Optimization

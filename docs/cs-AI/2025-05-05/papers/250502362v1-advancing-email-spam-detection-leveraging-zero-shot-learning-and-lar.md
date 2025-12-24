@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Advancing Email Spam Detection: Leveraging Zero-Shot Learning and Large Language Models
+title: "Advancing Email Spam Detection: Leveraging Zero-Shot Learning and Large Language Models"
 ---
 
 # Advancing Email Spam Detection: Leveraging Zero-Shot Learning and Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: McARL:Morphology-Control-Aware Reinforcement Learning for Generalizable Quadrupedal Locomotion
+title: "McARL:Morphology-Control-Aware Reinforcement Learning for Generalizable Quadrupedal Locomotion"
 ---
 
 # McARL:Morphology-Control-Aware Reinforcement Learning for Generalizable Quadrupedal Locomotion

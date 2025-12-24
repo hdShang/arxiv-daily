@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning
+title: "AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning"
 ---
 
 # AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning

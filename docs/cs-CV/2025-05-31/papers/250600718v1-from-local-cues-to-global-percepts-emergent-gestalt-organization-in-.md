@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Local Cues to Global Percepts: Emergent Gestalt Organization in Self-Supervised Vision Models
+title: "From Local Cues to Global Percepts: Emergent Gestalt Organization in Self-Supervised Vision Models"
 ---
 
 # From Local Cues to Global Percepts: Emergent Gestalt Organization in Self-Supervised Vision Models

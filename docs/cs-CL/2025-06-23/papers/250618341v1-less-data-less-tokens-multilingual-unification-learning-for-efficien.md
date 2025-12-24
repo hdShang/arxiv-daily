@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Less Data Less Tokens: Multilingual Unification Learning for Efficient Test-Time Reasoning in LLMs
+title: "Less Data Less Tokens: Multilingual Unification Learning for Efficient Test-Time Reasoning in LLMs"
 ---
 
 # Less Data Less Tokens: Multilingual Unification Learning for Efficient Test-Time Reasoning in LLMs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MonoMSK: Monocular 3D Musculoskeletal Dynamics Estimation
+title: "MonoMSK: Monocular 3D Musculoskeletal Dynamics Estimation"
 ---
 
 # MonoMSK: Monocular 3D Musculoskeletal Dynamics Estimation

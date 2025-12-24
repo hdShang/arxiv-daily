@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MonoGlass3D: Monocular 3D Glass Detection with Plane Regression and Adaptive Feature Fusion
+title: "MonoGlass3D: Monocular 3D Glass Detection with Plane Regression and Adaptive Feature Fusion"
 ---
 
 # MonoGlass3D: Monocular 3D Glass Detection with Plane Regression and Adaptive Feature Fusion

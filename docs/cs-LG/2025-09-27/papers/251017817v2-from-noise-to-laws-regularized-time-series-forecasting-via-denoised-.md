@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Noise to Laws: Regularized Time-Series Forecasting via Denoised Dynamic Graphs
+title: "From Noise to Laws: Regularized Time-Series Forecasting via Denoised Dynamic Graphs"
 ---
 
 # From Noise to Laws: Regularized Time-Series Forecasting via Denoised Dynamic Graphs

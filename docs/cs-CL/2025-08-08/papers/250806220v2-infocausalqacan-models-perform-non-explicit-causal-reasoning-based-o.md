@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InfoCausalQA:Can Models Perform Non-explicit Causal Reasoning Based on Infographic?
+title: "InfoCausalQA:Can Models Perform Non-explicit Causal Reasoning Based on Infographic?"
 ---
 
 # InfoCausalQA:Can Models Perform Non-explicit Causal Reasoning Based on Infographic?

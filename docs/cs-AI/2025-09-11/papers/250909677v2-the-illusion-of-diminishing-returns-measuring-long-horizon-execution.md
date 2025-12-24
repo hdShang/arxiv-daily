@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMs
+title: "The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMs"
 ---
 
 # The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMs

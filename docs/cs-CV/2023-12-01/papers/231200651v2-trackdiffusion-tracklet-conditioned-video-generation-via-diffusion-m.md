@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TrackDiffusion: Tracklet-Conditioned Video Generation via Diffusion Models
+title: "TrackDiffusion: Tracklet-Conditioned Video Generation via Diffusion Models"
 ---
 
 # TrackDiffusion: Tracklet-Conditioned Video Generation via Diffusion Models

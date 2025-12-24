@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Entangled in Representations: Mechanistic Investigation of Cultural Biases in Large Language Models
+title: "Entangled in Representations: Mechanistic Investigation of Cultural Biases in Large Language Models"
 ---
 
 # Entangled in Representations: Mechanistic Investigation of Cultural Biases in Large Language Models

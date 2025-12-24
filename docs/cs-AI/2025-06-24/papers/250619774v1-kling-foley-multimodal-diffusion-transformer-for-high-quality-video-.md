@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation
+title: "Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation"
 ---
 
 # Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation

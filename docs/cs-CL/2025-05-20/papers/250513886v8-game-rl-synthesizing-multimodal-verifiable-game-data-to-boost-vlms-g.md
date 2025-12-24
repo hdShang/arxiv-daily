@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Game-RL: Synthesizing Multimodal Verifiable Game Data to Boost VLMs' General Reasoning
+title: "Game-RL: Synthesizing Multimodal Verifiable Game Data to Boost VLMs' General Reasoning"
 ---
 
 # Game-RL: Synthesizing Multimodal Verifiable Game Data to Boost VLMs' General Reasoning

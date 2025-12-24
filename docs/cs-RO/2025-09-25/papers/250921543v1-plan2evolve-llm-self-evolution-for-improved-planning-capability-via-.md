@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Plan2Evolve: LLM Self-Evolution for Improved Planning Capability via Automated Domain Generation
+title: "Plan2Evolve: LLM Self-Evolution for Improved Planning Capability via Automated Domain Generation"
 ---
 
 # Plan2Evolve: LLM Self-Evolution for Improved Planning Capability via Automated Domain Generation

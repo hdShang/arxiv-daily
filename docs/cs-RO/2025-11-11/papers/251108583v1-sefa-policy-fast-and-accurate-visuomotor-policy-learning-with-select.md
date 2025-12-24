@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SeFA-Policy: Fast and Accurate Visuomotor Policy Learning with Selective Flow Alignment
+title: "SeFA-Policy: Fast and Accurate Visuomotor Policy Learning with Selective Flow Alignment"
 ---
 
 # SeFA-Policy: Fast and Accurate Visuomotor Policy Learning with Selective Flow Alignment

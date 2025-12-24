@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SMART: Semantic Matching Contrastive Learning for Partially View-Aligned Clustering
+title: "SMART: Semantic Matching Contrastive Learning for Partially View-Aligned Clustering"
 ---
 
 # SMART: Semantic Matching Contrastive Learning for Partially View-Aligned Clustering

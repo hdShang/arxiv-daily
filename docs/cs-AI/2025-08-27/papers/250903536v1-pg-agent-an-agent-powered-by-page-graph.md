@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PG-Agent: An Agent Powered by Page Graph
+title: "PG-Agent: An Agent Powered by Page Graph"
 ---
 
 # PG-Agent: An Agent Powered by Page Graph

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Odo: Depth-Guided Diffusion for Identity-Preserving Body Reshaping
+title: "Odo: Depth-Guided Diffusion for Identity-Preserving Body Reshaping"
 ---
 
 # Odo: Depth-Guided Diffusion for Identity-Preserving Body Reshaping

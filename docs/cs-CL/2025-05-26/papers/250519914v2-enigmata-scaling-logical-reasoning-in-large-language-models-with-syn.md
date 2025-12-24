@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles
+title: "Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles"
 ---
 
 # Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling and Open Resources
+title: "MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling and Open Resources"
 ---
 
 # MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling and Open Resources

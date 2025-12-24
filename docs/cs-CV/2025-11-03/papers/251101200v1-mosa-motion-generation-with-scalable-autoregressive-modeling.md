@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoSa: Motion Generation with Scalable Autoregressive Modeling
+title: "MoSa: Motion Generation with Scalable Autoregressive Modeling"
 ---
 
 # MoSa: Motion Generation with Scalable Autoregressive Modeling

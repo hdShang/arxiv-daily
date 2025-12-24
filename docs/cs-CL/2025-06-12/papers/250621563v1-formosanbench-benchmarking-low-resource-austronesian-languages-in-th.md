@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FormosanBench: Benchmarking Low-Resource Austronesian Languages in the Era of Large Language Models
+title: "FormosanBench: Benchmarking Low-Resource Austronesian Languages in the Era of Large Language Models"
 ---
 
 # FormosanBench: Benchmarking Low-Resource Austronesian Languages in the Era of Large Language Models

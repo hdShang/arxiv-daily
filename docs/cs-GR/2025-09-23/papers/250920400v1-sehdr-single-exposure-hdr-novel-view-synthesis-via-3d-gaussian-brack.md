@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SeHDR: Single-Exposure HDR Novel View Synthesis via 3D Gaussian Bracketing
+title: "SeHDR: Single-Exposure HDR Novel View Synthesis via 3D Gaussian Bracketing"
 ---
 
 # SeHDR: Single-Exposure HDR Novel View Synthesis via 3D Gaussian Bracketing

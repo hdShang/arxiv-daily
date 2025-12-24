@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Physical Basis of Prediction: World Model Formation in Neural Organoids via an LLM-Generated Curriculum
+title: "The Physical Basis of Prediction: World Model Formation in Neural Organoids via an LLM-Generated Curriculum"
 ---
 
 # The Physical Basis of Prediction: World Model Formation in Neural Organoids via an LLM-Generated Curriculum

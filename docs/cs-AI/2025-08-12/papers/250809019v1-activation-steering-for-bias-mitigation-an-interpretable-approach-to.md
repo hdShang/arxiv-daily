@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Activation Steering for Bias Mitigation: An Interpretable Approach to Safer LLMs
+title: "Activation Steering for Bias Mitigation: An Interpretable Approach to Safer LLMs"
 ---
 
 # Activation Steering for Bias Mitigation: An Interpretable Approach to Safer LLMs

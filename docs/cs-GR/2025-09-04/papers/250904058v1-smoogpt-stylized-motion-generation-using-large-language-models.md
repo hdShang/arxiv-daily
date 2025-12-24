@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SMooGPT: Stylized Motion Generation using Large Language Models
+title: "SMooGPT: Stylized Motion Generation using Large Language Models"
 ---
 
 # SMooGPT: Stylized Motion Generation using Large Language Models

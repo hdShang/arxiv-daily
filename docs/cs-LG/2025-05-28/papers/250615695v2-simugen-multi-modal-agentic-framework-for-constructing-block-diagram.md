@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SimuGen: Multi-modal Agentic Framework for Constructing Block Diagram-Based Simulation Models
+title: "SimuGen: Multi-modal Agentic Framework for Constructing Block Diagram-Based Simulation Models"
 ---
 
 # SimuGen: Multi-modal Agentic Framework for Constructing Block Diagram-Based Simulation Models

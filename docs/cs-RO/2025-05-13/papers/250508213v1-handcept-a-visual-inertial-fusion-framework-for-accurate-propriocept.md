@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HandCept: A Visual-Inertial Fusion Framework for Accurate Proprioception in Dexterous Hands
+title: "HandCept: A Visual-Inertial Fusion Framework for Accurate Proprioception in Dexterous Hands"
 ---
 
 # HandCept: A Visual-Inertial Fusion Framework for Accurate Proprioception in Dexterous Hands

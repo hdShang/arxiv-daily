@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JobHop: A Large-Scale Dataset of Career Trajectories
+title: "JobHop: A Large-Scale Dataset of Career Trajectories"
 ---
 
 # JobHop: A Large-Scale Dataset of Career Trajectories

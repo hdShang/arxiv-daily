@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Let's Verify Math Questions Step by Step
+title: "Let's Verify Math Questions Step by Step"
 ---
 
 # Let's Verify Math Questions Step by Step

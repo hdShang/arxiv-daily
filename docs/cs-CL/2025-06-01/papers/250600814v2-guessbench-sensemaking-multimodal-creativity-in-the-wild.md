@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GuessBench: Sensemaking Multimodal Creativity in the Wild
+title: "GuessBench: Sensemaking Multimodal Creativity in the Wild"
 ---
 
 # GuessBench: Sensemaking Multimodal Creativity in the Wild

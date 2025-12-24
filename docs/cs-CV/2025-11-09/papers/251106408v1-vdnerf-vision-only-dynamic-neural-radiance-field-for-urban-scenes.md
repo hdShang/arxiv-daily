@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VDNeRF: Vision-only Dynamic Neural Radiance Field for Urban Scenes
+title: "VDNeRF: Vision-only Dynamic Neural Radiance Field for Urban Scenes"
 ---
 
 # VDNeRF: Vision-only Dynamic Neural Radiance Field for Urban Scenes

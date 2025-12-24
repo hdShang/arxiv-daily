@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UWBench: A Comprehensive Vision-Language Benchmark for Underwater Understanding
+title: "UWBench: A Comprehensive Vision-Language Benchmark for Underwater Understanding"
 ---
 
 # UWBench: A Comprehensive Vision-Language Benchmark for Underwater Understanding

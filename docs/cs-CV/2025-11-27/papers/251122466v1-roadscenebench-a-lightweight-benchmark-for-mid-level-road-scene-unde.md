@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoadSceneBench: A Lightweight Benchmark for Mid-Level Road Scene Understanding
+title: "RoadSceneBench: A Lightweight Benchmark for Mid-Level Road Scene Understanding"
 ---
 
 # RoadSceneBench: A Lightweight Benchmark for Mid-Level Road Scene Understanding

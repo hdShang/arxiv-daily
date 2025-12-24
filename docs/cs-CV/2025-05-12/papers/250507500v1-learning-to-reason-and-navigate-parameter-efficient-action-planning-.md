@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning to Reason and Navigate: Parameter Efficient Action Planning with Large Language Models
+title: "Learning to Reason and Navigate: Parameter Efficient Action Planning with Large Language Models"
 ---
 
 # Learning to Reason and Navigate: Parameter Efficient Action Planning with Large Language Models

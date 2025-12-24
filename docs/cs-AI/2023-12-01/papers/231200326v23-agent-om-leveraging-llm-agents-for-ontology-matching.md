@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Agent-OM: Leveraging LLM Agents for Ontology Matching
+title: "Agent-OM: Leveraging LLM Agents for Ontology Matching"
 ---
 
 # Agent-OM: Leveraging LLM Agents for Ontology Matching

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Survey of Behavior Foundation Model: Next-Generation Whole-Body Control System of Humanoid Robots
+title: "A Survey of Behavior Foundation Model: Next-Generation Whole-Body Control System of Humanoid Robots"
 ---
 
 # A Survey of Behavior Foundation Model: Next-Generation Whole-Body Control System of Humanoid Robots

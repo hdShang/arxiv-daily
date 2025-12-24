@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SciML Agents: Write the Solver, Not the Solution
+title: "SciML Agents: Write the Solver, Not the Solution"
 ---
 
 # SciML Agents: Write the Solver, Not the Solution

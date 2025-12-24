@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multilingual Gloss-free Sign Language Translation: Towards Building a Sign Language Foundation Model
+title: "Multilingual Gloss-free Sign Language Translation: Towards Building a Sign Language Foundation Model"
 ---
 
 # Multilingual Gloss-free Sign Language Translation: Towards Building a Sign Language Foundation Model

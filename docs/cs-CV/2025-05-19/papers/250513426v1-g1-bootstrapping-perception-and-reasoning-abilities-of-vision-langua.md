@@ -1,6 +1,6 @@
 ---
 layout: default
-title: G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning
+title: "G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning"
 ---
 
 # G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning

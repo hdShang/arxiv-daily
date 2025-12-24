@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Steering When Necessary: Flexible Steering Large Language Models with Backtracking
+title: "Steering When Necessary: Flexible Steering Large Language Models with Backtracking"
 ---
 
 # Steering When Necessary: Flexible Steering Large Language Models with Backtracking

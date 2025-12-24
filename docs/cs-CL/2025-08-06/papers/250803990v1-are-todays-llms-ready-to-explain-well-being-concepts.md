@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Are Today's LLMs Ready to Explain Well-Being Concepts?
+title: "Are Today's LLMs Ready to Explain Well-Being Concepts?"
 ---
 
 # Are Today's LLMs Ready to Explain Well-Being Concepts?

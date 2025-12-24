@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hallucination vs interpretation: rethinking accuracy and precision in AI-assisted data extraction for knowledge synthesis
+title: "Hallucination vs interpretation: rethinking accuracy and precision in AI-assisted data extraction for knowledge synthesis"
 ---
 
 # Hallucination vs interpretation: rethinking accuracy and precision in AI-assisted data extraction for knowledge synthesis

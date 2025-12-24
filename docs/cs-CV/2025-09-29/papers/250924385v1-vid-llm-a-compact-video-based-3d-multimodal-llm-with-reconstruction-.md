@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vid-LLM: A Compact Video-based 3D Multimodal LLM with Reconstruction-Reasoning Synergy
+title: "Vid-LLM: A Compact Video-based 3D Multimodal LLM with Reconstruction-Reasoning Synergy"
 ---
 
 # Vid-LLM: A Compact Video-based 3D Multimodal LLM with Reconstruction-Reasoning Synergy

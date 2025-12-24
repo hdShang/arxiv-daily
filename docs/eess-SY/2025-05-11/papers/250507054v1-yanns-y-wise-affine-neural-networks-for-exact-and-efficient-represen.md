@@ -1,6 +1,6 @@
 ---
 layout: default
-title: YANNs: Y-wise Affine Neural Networks for Exact and Efficient Representations of Piecewise Linear Functions
+title: "YANNs: Y-wise Affine Neural Networks for Exact and Efficient Representations of Piecewise Linear Functions"
 ---
 
 # YANNs: Y-wise Affine Neural Networks for Exact and Efficient Representations of Piecewise Linear Functions

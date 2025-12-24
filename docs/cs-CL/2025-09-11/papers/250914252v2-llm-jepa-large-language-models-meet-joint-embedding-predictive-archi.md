@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures
+title: "LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures"
 ---
 
 # LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures

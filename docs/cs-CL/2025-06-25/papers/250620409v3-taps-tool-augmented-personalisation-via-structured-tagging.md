@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TAPS: Tool-Augmented Personalisation via Structured Tagging
+title: "TAPS: Tool-Augmented Personalisation via Structured Tagging"
 ---
 
 # TAPS: Tool-Augmented Personalisation via Structured Tagging

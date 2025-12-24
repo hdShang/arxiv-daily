@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sculptor: Empowering LLMs with Cognitive Agency via Active Context Management
+title: "Sculptor: Empowering LLMs with Cognitive Agency via Active Context Management"
 ---
 
 # Sculptor: Empowering LLMs with Cognitive Agency via Active Context Management

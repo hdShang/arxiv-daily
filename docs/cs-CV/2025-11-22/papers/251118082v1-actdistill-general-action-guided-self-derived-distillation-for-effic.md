@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ActDistill: General Action-Guided Self-Derived Distillation for Efficient Vision-Language-Action Models
+title: "ActDistill: General Action-Guided Self-Derived Distillation for Efficient Vision-Language-Action Models"
 ---
 
 # ActDistill: General Action-Guided Self-Derived Distillation for Efficient Vision-Language-Action Models

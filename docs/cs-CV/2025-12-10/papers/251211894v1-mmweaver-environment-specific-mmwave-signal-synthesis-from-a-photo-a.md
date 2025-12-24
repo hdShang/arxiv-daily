@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mmWEAVER: Environment-Specific mmWave Signal Synthesis from a Photo and Activity Description
+title: "mmWEAVER: Environment-Specific mmWave Signal Synthesis from a Photo and Activity Description"
 ---
 
 # mmWEAVER: Environment-Specific mmWave Signal Synthesis from a Photo and Activity Description

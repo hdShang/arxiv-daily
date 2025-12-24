@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MathBuddy: A Multimodal System for Affective Math Tutoring
+title: "MathBuddy: A Multimodal System for Affective Math Tutoring"
 ---
 
 # MathBuddy: A Multimodal System for Affective Math Tutoring

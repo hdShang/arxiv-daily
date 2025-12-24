@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GRAN-TED: Generating Robust, Aligned, and Nuanced Text Embedding for Diffusion Models
+title: "GRAN-TED: Generating Robust, Aligned, and Nuanced Text Embedding for Diffusion Models"
 ---
 
 # GRAN-TED: Generating Robust, Aligned, and Nuanced Text Embedding for Diffusion Models

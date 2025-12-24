@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deceptive Risk Minimization: Out-of-Distribution Generalization by Deceiving Distribution Shift Detectors
+title: "Deceptive Risk Minimization: Out-of-Distribution Generalization by Deceiving Distribution Shift Detectors"
 ---
 
 # Deceptive Risk Minimization: Out-of-Distribution Generalization by Deceiving Distribution Shift Detectors

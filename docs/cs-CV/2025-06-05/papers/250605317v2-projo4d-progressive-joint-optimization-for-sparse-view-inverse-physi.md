@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation
+title: "ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation"
 ---
 
 # ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation

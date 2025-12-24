@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DiffPixelFormer: Differential Pixel-Aware Transformer for RGB-D Indoor Scene Segmentation
+title: "DiffPixelFormer: Differential Pixel-Aware Transformer for RGB-D Indoor Scene Segmentation"
 ---
 
 # DiffPixelFormer: Differential Pixel-Aware Transformer for RGB-D Indoor Scene Segmentation

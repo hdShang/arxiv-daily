@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MEDAKA: Construction of Biomedical Knowledge Graphs Using Large Language Models
+title: "MEDAKA: Construction of Biomedical Knowledge Graphs Using Large Language Models"
 ---
 
 # MEDAKA: Construction of Biomedical Knowledge Graphs Using Large Language Models

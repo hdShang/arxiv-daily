@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MambaVSR: Content-Aware Scanning State Space Model for Video Super-Resolution
+title: "MambaVSR: Content-Aware Scanning State Space Model for Video Super-Resolution"
 ---
 
 # MambaVSR: Content-Aware Scanning State Space Model for Video Super-Resolution

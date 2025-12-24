@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PAMD: Plausibility-Aware Motion Diffusion Model for Long Dance Generation
+title: "PAMD: Plausibility-Aware Motion Diffusion Model for Long Dance Generation"
 ---
 
 # PAMD: Plausibility-Aware Motion Diffusion Model for Long Dance Generation

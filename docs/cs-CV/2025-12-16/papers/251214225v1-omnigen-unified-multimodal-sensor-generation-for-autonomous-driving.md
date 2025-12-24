@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniGen: Unified Multimodal Sensor Generation for Autonomous Driving
+title: "OmniGen: Unified Multimodal Sensor Generation for Autonomous Driving"
 ---
 
 # OmniGen: Unified Multimodal Sensor Generation for Autonomous Driving

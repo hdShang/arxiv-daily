@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Perception: Evaluating Abstract Visual Reasoning through Multi-Stage Task
+title: "Beyond Perception: Evaluating Abstract Visual Reasoning through Multi-Stage Task"
 ---
 
 # Beyond Perception: Evaluating Abstract Visual Reasoning through Multi-Stage Task

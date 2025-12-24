@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MORPH: PDE Foundation Models with Arbitrary Data Modality
+title: "MORPH: PDE Foundation Models with Arbitrary Data Modality"
 ---
 
 # MORPH: PDE Foundation Models with Arbitrary Data Modality

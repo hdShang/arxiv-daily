@@ -1,6 +1,6 @@
 ---
 layout: default
-title: No Other Representation Component Is Needed: Diffusion Transformers Can Provide Representation Guidance by Themselves
+title: "No Other Representation Component Is Needed: Diffusion Transformers Can Provide Representation Guidance by Themselves"
 ---
 
 # No Other Representation Component Is Needed: Diffusion Transformers Can Provide Representation Guidance by Themselves

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AJAHR: Amputated Joint Aware 3D Human Mesh Recovery
+title: "AJAHR: Amputated Joint Aware 3D Human Mesh Recovery"
 ---
 
 # AJAHR: Amputated Joint Aware 3D Human Mesh Recovery

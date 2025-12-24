@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kairos: Towards Adaptive and Generalizable Time Series Foundation Models
+title: "Kairos: Towards Adaptive and Generalizable Time Series Foundation Models"
 ---
 
 # Kairos: Towards Adaptive and Generalizable Time Series Foundation Models

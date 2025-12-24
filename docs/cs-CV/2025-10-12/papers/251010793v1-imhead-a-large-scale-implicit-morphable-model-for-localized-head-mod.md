@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ImHead: A Large-scale Implicit Morphable Model for Localized Head Modeling
+title: "ImHead: A Large-scale Implicit Morphable Model for Localized Head Modeling"
 ---
 
 # ImHead: A Large-scale Implicit Morphable Model for Localized Head Modeling

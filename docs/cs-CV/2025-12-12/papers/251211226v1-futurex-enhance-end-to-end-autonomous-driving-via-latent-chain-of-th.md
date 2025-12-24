@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FutureX: Enhance End-to-End Autonomous Driving via Latent Chain-of-Thought World Model
+title: "FutureX: Enhance End-to-End Autonomous Driving via Latent Chain-of-Thought World Model"
 ---
 
 # FutureX: Enhance End-to-End Autonomous Driving via Latent Chain-of-Thought World Model

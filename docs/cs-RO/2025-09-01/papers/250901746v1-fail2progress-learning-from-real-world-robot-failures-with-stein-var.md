@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fail2Progress: Learning from Real-World Robot Failures with Stein Variational Inference
+title: "Fail2Progress: Learning from Real-World Robot Failures with Stein Variational Inference"
 ---
 
 # Fail2Progress: Learning from Real-World Robot Failures with Stein Variational Inference

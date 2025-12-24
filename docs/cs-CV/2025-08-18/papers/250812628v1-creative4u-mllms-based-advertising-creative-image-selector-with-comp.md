@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Creative4U: MLLMs-based Advertising Creative Image Selector with Comparative Reasoning
+title: "Creative4U: MLLMs-based Advertising Creative Image Selector with Comparative Reasoning"
 ---
 
 # Creative4U: MLLMs-based Advertising Creative Image Selector with Comparative Reasoning

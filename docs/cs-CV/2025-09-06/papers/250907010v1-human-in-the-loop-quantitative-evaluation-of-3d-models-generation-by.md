@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Human-in-the-Loop: Quantitative Evaluation of 3D Models Generation by Large Language Models
+title: "Human-in-the-Loop: Quantitative Evaluation of 3D Models Generation by Large Language Models"
 ---
 
 # Human-in-the-Loop: Quantitative Evaluation of 3D Models Generation by Large Language Models

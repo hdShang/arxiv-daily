@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LoLA: Low-Rank Linear Attention With Sparse Caching
+title: "LoLA: Low-Rank Linear Attention With Sparse Caching"
 ---
 
 # LoLA: Low-Rank Linear Attention With Sparse Caching

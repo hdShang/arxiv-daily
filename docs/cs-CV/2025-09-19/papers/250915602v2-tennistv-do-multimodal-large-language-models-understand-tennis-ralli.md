@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TennisTV: Do Multimodal Large Language Models Understand Tennis Rallies?
+title: "TennisTV: Do Multimodal Large Language Models Understand Tennis Rallies?"
 ---
 
 # TennisTV: Do Multimodal Large Language Models Understand Tennis Rallies?

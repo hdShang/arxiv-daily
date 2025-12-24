@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ConvMix: A Mixed-Criteria Data Augmentation Framework for Conversational Dense Retrieval
+title: "ConvMix: A Mixed-Criteria Data Augmentation Framework for Conversational Dense Retrieval"
 ---
 
 # ConvMix: A Mixed-Criteria Data Augmentation Framework for Conversational Dense Retrieval

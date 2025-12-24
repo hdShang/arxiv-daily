@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HiGS: Hierarchical Generative Scene Framework for Multi-Step Associative Semantic Spatial Composition
+title: "HiGS: Hierarchical Generative Scene Framework for Multi-Step Associative Semantic Spatial Composition"
 ---
 
 # HiGS: Hierarchical Generative Scene Framework for Multi-Step Associative Semantic Spatial Composition

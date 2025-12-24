@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Online Safety under Multiple Constraints and Input Bounds using gatekeeper: Theory and Applications
+title: "Online Safety under Multiple Constraints and Input Bounds using gatekeeper: Theory and Applications"
 ---
 
 # Online Safety under Multiple Constraints and Input Bounds using gatekeeper: Theory and Applications

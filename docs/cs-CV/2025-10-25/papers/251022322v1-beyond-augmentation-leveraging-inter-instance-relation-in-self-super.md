@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Augmentation: Leveraging Inter-Instance Relation in Self-Supervised Representation Learning
+title: "Beyond Augmentation: Leveraging Inter-Instance Relation in Self-Supervised Representation Learning"
 ---
 
 # Beyond Augmentation: Leveraging Inter-Instance Relation in Self-Supervised Representation Learning

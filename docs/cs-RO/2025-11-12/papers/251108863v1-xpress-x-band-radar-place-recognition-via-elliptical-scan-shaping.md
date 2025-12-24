@@ -1,6 +1,6 @@
 ---
 layout: default
-title: XPRESS: X-Band Radar Place Recognition via Elliptical Scan Shaping
+title: "XPRESS: X-Band Radar Place Recognition via Elliptical Scan Shaping"
 ---
 
 # XPRESS: X-Band Radar Place Recognition via Elliptical Scan Shaping

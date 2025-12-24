@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GigaChat Family: Efficient Russian Language Modeling Through Mixture of Experts Architecture
+title: "GigaChat Family: Efficient Russian Language Modeling Through Mixture of Experts Architecture"
 ---
 
 # GigaChat Family: Efficient Russian Language Modeling Through Mixture of Experts Architecture

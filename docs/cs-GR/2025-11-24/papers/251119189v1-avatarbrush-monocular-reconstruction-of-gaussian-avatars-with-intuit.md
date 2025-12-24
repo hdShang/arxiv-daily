@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AvatarBrush: Monocular Reconstruction of Gaussian Avatars with Intuitive Local Editing
+title: "AvatarBrush: Monocular Reconstruction of Gaussian Avatars with Intuitive Local Editing"
 ---
 
 # AvatarBrush: Monocular Reconstruction of Gaussian Avatars with Intuitive Local Editing

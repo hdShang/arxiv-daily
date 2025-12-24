@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AORRTC: Almost-Surely Asymptotically Optimal Planning with RRT-Connect
+title: "AORRTC: Almost-Surely Asymptotically Optimal Planning with RRT-Connect"
 ---
 
 # AORRTC: Almost-Surely Asymptotically Optimal Planning with RRT-Connect

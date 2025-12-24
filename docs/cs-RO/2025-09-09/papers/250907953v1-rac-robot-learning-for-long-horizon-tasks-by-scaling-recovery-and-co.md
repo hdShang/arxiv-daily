@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RaC: Robot Learning for Long-Horizon Tasks by Scaling Recovery and Correction
+title: "RaC: Robot Learning for Long-Horizon Tasks by Scaling Recovery and Correction"
 ---
 
 # RaC: Robot Learning for Long-Horizon Tasks by Scaling Recovery and Correction

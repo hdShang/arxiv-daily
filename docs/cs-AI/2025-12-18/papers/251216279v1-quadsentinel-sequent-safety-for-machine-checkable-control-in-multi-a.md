@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QuadSentinel: Sequent Safety for Machine-Checkable Control in Multi-agent Systems
+title: "QuadSentinel: Sequent Safety for Machine-Checkable Control in Multi-agent Systems"
 ---
 
 # QuadSentinel: Sequent Safety for Machine-Checkable Control in Multi-agent Systems

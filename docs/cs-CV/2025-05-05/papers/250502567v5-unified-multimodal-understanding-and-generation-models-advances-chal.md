@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities
+title: "Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities"
 ---
 
 # Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities

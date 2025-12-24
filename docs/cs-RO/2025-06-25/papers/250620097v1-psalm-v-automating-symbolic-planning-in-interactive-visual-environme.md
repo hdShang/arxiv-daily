@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PSALM-V: Automating Symbolic Planning in Interactive Visual Environments with Large Language Models
+title: "PSALM-V: Automating Symbolic Planning in Interactive Visual Environments with Large Language Models"
 ---
 
 # PSALM-V: Automating Symbolic Planning in Interactive Visual Environments with Large Language Models

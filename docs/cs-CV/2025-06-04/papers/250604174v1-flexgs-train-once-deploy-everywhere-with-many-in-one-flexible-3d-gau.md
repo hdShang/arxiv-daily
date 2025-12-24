@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FlexGS: Train Once, Deploy Everywhere with Many-in-One Flexible 3D Gaussian Splatting
+title: "FlexGS: Train Once, Deploy Everywhere with Many-in-One Flexible 3D Gaussian Splatting"
 ---
 
 # FlexGS: Train Once, Deploy Everywhere with Many-in-One Flexible 3D Gaussian Splatting

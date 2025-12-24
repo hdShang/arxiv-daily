@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Securing RAG: A Risk Assessment and Mitigation Framework
+title: "Securing RAG: A Risk Assessment and Mitigation Framework"
 ---
 
 # Securing RAG: A Risk Assessment and Mitigation Framework

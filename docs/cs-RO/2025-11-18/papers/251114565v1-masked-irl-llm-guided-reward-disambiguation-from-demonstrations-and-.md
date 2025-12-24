@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Masked IRL: LLM-Guided Reward Disambiguation from Demonstrations and Language
+title: "Masked IRL: LLM-Guided Reward Disambiguation from Demonstrations and Language"
 ---
 
 # Masked IRL: LLM-Guided Reward Disambiguation from Demonstrations and Language

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MAS-LitEval : Multi-Agent System for Literary Translation Quality Assessment
+title: "MAS-LitEval : Multi-Agent System for Literary Translation Quality Assessment"
 ---
 
 # MAS-LitEval : Multi-Agent System for Literary Translation Quality Assessment

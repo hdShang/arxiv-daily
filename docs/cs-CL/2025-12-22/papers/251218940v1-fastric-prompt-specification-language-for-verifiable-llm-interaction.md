@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FASTRIC: Prompt Specification Language for Verifiable LLM Interactions
+title: "FASTRIC: Prompt Specification Language for Verifiable LLM Interactions"
 ---
 
 # FASTRIC: Prompt Specification Language for Verifiable LLM Interactions

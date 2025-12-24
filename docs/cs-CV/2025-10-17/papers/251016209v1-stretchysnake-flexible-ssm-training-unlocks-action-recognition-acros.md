@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StretchySnake: Flexible SSM Training Unlocks Action Recognition Across Spatio-Temporal Scales
+title: "StretchySnake: Flexible SSM Training Unlocks Action Recognition Across Spatio-Temporal Scales"
 ---
 
 # StretchySnake: Flexible SSM Training Unlocks Action Recognition Across Spatio-Temporal Scales

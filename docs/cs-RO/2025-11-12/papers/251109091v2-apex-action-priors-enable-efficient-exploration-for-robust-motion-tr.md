@@ -1,6 +1,6 @@
 ---
 layout: default
-title: APEX: Action Priors Enable Efficient Exploration for Robust Motion Tracking on Legged Robots
+title: "APEX: Action Priors Enable Efficient Exploration for Robust Motion Tracking on Legged Robots"
 ---
 
 # APEX: Action Priors Enable Efficient Exploration for Robust Motion Tracking on Legged Robots

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Guiding the Inner Eye: A Framework for Hierarchical and Flexible Visual Grounded Reasoning
+title: "Guiding the Inner Eye: A Framework for Hierarchical and Flexible Visual Grounded Reasoning"
 ---
 
 # Guiding the Inner Eye: A Framework for Hierarchical and Flexible Visual Grounded Reasoning

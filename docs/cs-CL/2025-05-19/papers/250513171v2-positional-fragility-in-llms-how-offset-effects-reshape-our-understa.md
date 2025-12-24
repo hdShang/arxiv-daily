@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Positional Fragility in LLMs: How Offset Effects Reshape Our Understanding of Memorization Risks
+title: "Positional Fragility in LLMs: How Offset Effects Reshape Our Understanding of Memorization Risks"
 ---
 
 # Positional Fragility in LLMs: How Offset Effects Reshape Our Understanding of Memorization Risks

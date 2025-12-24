@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JaxRobotarium: Training and Deploying Multi-Robot Policies in 10 Minutes
+title: "JaxRobotarium: Training and Deploying Multi-Robot Policies in 10 Minutes"
 ---
 
 # JaxRobotarium: Training and Deploying Multi-Robot Policies in 10 Minutes

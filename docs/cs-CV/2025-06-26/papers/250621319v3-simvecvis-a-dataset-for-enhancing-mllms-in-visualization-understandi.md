@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SimVecVis: A Dataset for Enhancing MLLMs in Visualization Understanding
+title: "SimVecVis: A Dataset for Enhancing MLLMs in Visualization Understanding"
 ---
 
 # SimVecVis: A Dataset for Enhancing MLLMs in Visualization Understanding

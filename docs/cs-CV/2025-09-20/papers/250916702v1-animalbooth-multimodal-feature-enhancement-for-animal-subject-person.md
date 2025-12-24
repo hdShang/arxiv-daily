@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Animalbooth: multimodal feature enhancement for animal subject personalization
+title: "Animalbooth: multimodal feature enhancement for animal subject personalization"
 ---
 
 # Animalbooth: multimodal feature enhancement for animal subject personalization

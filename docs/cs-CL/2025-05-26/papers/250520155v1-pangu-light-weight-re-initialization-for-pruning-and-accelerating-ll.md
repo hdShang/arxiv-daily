@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs
+title: "Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs"
 ---
 
 # Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs

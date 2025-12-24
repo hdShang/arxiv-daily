@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WorldWarp: Propagating 3D Geometry with Asynchronous Video Diffusion
+title: "WorldWarp: Propagating 3D Geometry with Asynchronous Video Diffusion"
 ---
 
 # WorldWarp: Propagating 3D Geometry with Asynchronous Video Diffusion

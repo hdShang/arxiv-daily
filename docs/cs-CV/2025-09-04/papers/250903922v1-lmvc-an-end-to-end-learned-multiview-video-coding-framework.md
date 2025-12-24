@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LMVC: An End-to-End Learned Multiview Video Coding Framework
+title: "LMVC: An End-to-End Learned Multiview Video Coding Framework"
 ---
 
 # LMVC: An End-to-End Learned Multiview Video Coding Framework

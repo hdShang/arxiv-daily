@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MIST: Jailbreaking Black-box Large Language Models via Iterative Semantic Tuning
+title: "MIST: Jailbreaking Black-box Large Language Models via Iterative Semantic Tuning"
 ---
 
 # MIST: Jailbreaking Black-box Large Language Models via Iterative Semantic Tuning

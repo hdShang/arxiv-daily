@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Large Language Models Don't Make Sense of Word Problems. A Scoping Review from a Mathematics Education Perspective
+title: "Large Language Models Don't Make Sense of Word Problems. A Scoping Review from a Mathematics Education Perspective"
 ---
 
 # Large Language Models Don't Make Sense of Word Problems. A Scoping Review from a Mathematics Education Perspective

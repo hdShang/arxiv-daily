@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Incongruent Positivity: When Miscalibrated Positivity Undermines Online Supportive Conversations
+title: "Incongruent Positivity: When Miscalibrated Positivity Undermines Online Supportive Conversations"
 ---
 
 # Incongruent Positivity: When Miscalibrated Positivity Undermines Online Supportive Conversations

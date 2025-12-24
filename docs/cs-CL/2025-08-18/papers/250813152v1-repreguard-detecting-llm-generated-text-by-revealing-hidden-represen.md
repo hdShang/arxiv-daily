@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RepreGuard: Detecting LLM-Generated Text by Revealing Hidden Representation Patterns
+title: "RepreGuard: Detecting LLM-Generated Text by Revealing Hidden Representation Patterns"
 ---
 
 # RepreGuard: Detecting LLM-Generated Text by Revealing Hidden Representation Patterns

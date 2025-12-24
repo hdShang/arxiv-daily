@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MORSE-500: A Programmatically Controllable Video Benchmark to Stress-Test Multimodal Reasoning
+title: "MORSE-500: A Programmatically Controllable Video Benchmark to Stress-Test Multimodal Reasoning"
 ---
 
 # MORSE-500: A Programmatically Controllable Video Benchmark to Stress-Test Multimodal Reasoning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Embodied Intelligence: The Key to Unblocking Generalized Artificial Intelligence
+title: "Embodied Intelligence: The Key to Unblocking Generalized Artificial Intelligence"
 ---
 
 # Embodied Intelligence: The Key to Unblocking Generalized Artificial Intelligence

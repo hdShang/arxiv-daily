@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ORFuzz: Fuzzing the "Other Side" of LLM Safety -- Testing Over-Refusal
+title: "ORFuzz: Fuzzing the \"Other Side\" of LLM Safety -- Testing Over-Refusal"
 ---
 
 # ORFuzz: Fuzzing the "Other Side" of LLM Safety -- Testing Over-Refusal

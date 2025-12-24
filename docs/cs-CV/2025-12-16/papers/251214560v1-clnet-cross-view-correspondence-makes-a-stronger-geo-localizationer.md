@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CLNet: Cross-View Correspondence Makes a Stronger Geo-Localizationer
+title: "CLNet: Cross-View Correspondence Makes a Stronger Geo-Localizationer"
 ---
 
 # CLNet: Cross-View Correspondence Makes a Stronger Geo-Localizationer

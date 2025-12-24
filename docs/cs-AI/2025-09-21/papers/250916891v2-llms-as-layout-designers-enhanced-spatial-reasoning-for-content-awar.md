@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLMs as Layout Designers: Enhanced Spatial Reasoning for Content-Aware Layout Generation
+title: "LLMs as Layout Designers: Enhanced Spatial Reasoning for Content-Aware Layout Generation"
 ---
 
 # LLMs as Layout Designers: Enhanced Spatial Reasoning for Content-Aware Layout Generation

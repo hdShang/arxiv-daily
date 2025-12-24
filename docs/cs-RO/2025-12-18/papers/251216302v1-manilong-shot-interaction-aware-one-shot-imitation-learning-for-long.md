@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ManiLong-Shot: Interaction-Aware One-Shot Imitation Learning for Long-Horizon Manipulation
+title: "ManiLong-Shot: Interaction-Aware One-Shot Imitation Learning for Long-Horizon Manipulation"
 ---
 
 # ManiLong-Shot: Interaction-Aware One-Shot Imitation Learning for Long-Horizon Manipulation

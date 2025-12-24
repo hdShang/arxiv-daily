@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation
+title: "Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation"
 ---
 
 # Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation

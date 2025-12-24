@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning
+title: "Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning"
 ---
 
 # Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning

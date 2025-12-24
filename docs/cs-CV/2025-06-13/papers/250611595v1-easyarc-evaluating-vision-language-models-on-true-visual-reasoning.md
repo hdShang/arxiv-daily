@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EasyARC: Evaluating Vision Language Models on True Visual Reasoning
+title: "EasyARC: Evaluating Vision Language Models on True Visual Reasoning"
 ---
 
 # EasyARC: Evaluating Vision Language Models on True Visual Reasoning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PixelVLA: Advancing Pixel-level Understanding in Vision-Language-Action Model
+title: "PixelVLA: Advancing Pixel-level Understanding in Vision-Language-Action Model"
 ---
 
 # PixelVLA: Advancing Pixel-level Understanding in Vision-Language-Action Model

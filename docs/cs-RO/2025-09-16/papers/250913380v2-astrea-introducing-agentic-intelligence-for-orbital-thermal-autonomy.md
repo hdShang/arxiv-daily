@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ASTREA: Introducing Agentic Intelligence for Orbital Thermal Autonomy
+title: "ASTREA: Introducing Agentic Intelligence for Orbital Thermal Autonomy"
 ---
 
 # ASTREA: Introducing Agentic Intelligence for Orbital Thermal Autonomy

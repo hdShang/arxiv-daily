@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SoilNet: A Multimodal Multitask Model for Hierarchical Classification of Soil Horizons
+title: "SoilNet: A Multimodal Multitask Model for Hierarchical Classification of Soil Horizons"
 ---
 
 # SoilNet: A Multimodal Multitask Model for Hierarchical Classification of Soil Horizons

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SAGAS: Semantic-Aware Graph-Assisted Stitching for Offline Temporal Logic Planning
+title: "SAGAS: Semantic-Aware Graph-Assisted Stitching for Offline Temporal Logic Planning"
 ---
 
 # SAGAS: Semantic-Aware Graph-Assisted Stitching for Offline Temporal Logic Planning

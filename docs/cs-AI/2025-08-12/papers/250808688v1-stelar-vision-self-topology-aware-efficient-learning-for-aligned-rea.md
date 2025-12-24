@@ -1,6 +1,6 @@
 ---
 layout: default
-title: STELAR-VISION: Self-Topology-Aware Efficient Learning for Aligned Reasoning in Vision
+title: "STELAR-VISION: Self-Topology-Aware Efficient Learning for Aligned Reasoning in Vision"
 ---
 
 # STELAR-VISION: Self-Topology-Aware Efficient Learning for Aligned Reasoning in Vision

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SKEL-CF: Coarse-to-Fine Biomechanical Skeleton and Surface Mesh Recovery
+title: "SKEL-CF: Coarse-to-Fine Biomechanical Skeleton and Surface Mesh Recovery"
 ---
 
 # SKEL-CF: Coarse-to-Fine Biomechanical Skeleton and Surface Mesh Recovery

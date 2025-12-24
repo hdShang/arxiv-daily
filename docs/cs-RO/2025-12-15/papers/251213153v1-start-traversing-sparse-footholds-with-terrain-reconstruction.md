@@ -1,6 +1,6 @@
 ---
 layout: default
-title: START: Traversing Sparse Footholds with Terrain Reconstruction
+title: "START: Traversing Sparse Footholds with Terrain Reconstruction"
 ---
 
 # START: Traversing Sparse Footholds with Terrain Reconstruction

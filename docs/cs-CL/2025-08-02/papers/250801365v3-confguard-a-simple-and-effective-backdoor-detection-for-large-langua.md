@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ConfGuard: A Simple and Effective Backdoor Detection for Large Language Models
+title: "ConfGuard: A Simple and Effective Backdoor Detection for Large Language Models"
 ---
 
 # ConfGuard: A Simple and Effective Backdoor Detection for Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reward Models in Deep Reinforcement Learning: A Survey
+title: "Reward Models in Deep Reinforcement Learning: A Survey"
 ---
 
 # Reward Models in Deep Reinforcement Learning: A Survey

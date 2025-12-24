@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SMITE: Enhancing Fairness in LLMs through Optimal In-Context Example Selection via Dynamic Validation
+title: "SMITE: Enhancing Fairness in LLMs through Optimal In-Context Example Selection via Dynamic Validation"
 ---
 
 # SMITE: Enhancing Fairness in LLMs through Optimal In-Context Example Selection via Dynamic Validation

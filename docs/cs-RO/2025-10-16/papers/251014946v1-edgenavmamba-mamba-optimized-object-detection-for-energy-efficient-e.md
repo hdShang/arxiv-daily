@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EdgeNavMamba: Mamba Optimized Object Detection for Energy Efficient Edge Devices
+title: "EdgeNavMamba: Mamba Optimized Object Detection for Energy Efficient Edge Devices"
 ---
 
 # EdgeNavMamba: Mamba Optimized Object Detection for Energy Efficient Edge Devices

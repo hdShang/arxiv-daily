@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores
+title: "TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores"
 ---
 
 # TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores

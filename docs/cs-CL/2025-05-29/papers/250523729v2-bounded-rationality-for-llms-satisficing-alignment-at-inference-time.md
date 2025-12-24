@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bounded Rationality for LLMs: Satisficing Alignment at Inference-Time
+title: "Bounded Rationality for LLMs: Satisficing Alignment at Inference-Time"
 ---
 
 # Bounded Rationality for LLMs: Satisficing Alignment at Inference-Time

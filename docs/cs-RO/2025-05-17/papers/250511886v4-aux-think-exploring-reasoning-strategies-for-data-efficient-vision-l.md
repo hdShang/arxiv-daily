@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation
+title: "Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation"
 ---
 
 # Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation

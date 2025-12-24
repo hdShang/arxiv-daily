@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gather-Scatter Mamba: Accelerating Propagation with Efficient State Space Model
+title: "Gather-Scatter Mamba: Accelerating Propagation with Efficient State Space Model"
 ---
 
 # Gather-Scatter Mamba: Accelerating Propagation with Efficient State Space Model

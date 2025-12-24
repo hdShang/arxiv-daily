@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Predictable Scale: Part II, Farseer: A Refined Scaling Law in Large Language Models
+title: "Predictable Scale: Part II, Farseer: A Refined Scaling Law in Large Language Models"
 ---
 
 # Predictable Scale: Part II, Farseer: A Refined Scaling Law in Large Language Models

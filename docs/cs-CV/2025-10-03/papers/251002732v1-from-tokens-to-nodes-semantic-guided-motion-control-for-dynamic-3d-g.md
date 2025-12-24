@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Tokens to Nodes: Semantic-Guided Motion Control for Dynamic 3D Gaussian Splatting
+title: "From Tokens to Nodes: Semantic-Guided Motion Control for Dynamic 3D Gaussian Splatting"
 ---
 
 # From Tokens to Nodes: Semantic-Guided Motion Control for Dynamic 3D Gaussian Splatting

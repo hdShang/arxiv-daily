@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Documents Are People and Words Are Items: A Psychometric Approach to Textual Data with Contextual Embeddings
+title: "Documents Are People and Words Are Items: A Psychometric Approach to Textual Data with Contextual Embeddings"
 ---
 
 # Documents Are People and Words Are Items: A Psychometric Approach to Textual Data with Contextual Embeddings

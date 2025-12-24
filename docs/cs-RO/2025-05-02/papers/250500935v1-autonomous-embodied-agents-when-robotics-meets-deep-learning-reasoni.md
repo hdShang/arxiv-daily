@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Autonomous Embodied Agents: When Robotics Meets Deep Learning Reasoning
+title: "Autonomous Embodied Agents: When Robotics Meets Deep Learning Reasoning"
 ---
 
 # Autonomous Embodied Agents: When Robotics Meets Deep Learning Reasoning

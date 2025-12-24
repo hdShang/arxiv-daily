@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Marching Neurons: Accurate Surface Extraction for Neural Implicit Shapes
+title: "Marching Neurons: Accurate Surface Extraction for Neural Implicit Shapes"
 ---
 
 # Marching Neurons: Accurate Surface Extraction for Neural Implicit Shapes

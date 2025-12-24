@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Lock-in Hypothesis: Stagnation by Algorithm
+title: "The Lock-in Hypothesis: Stagnation by Algorithm"
 ---
 
 # The Lock-in Hypothesis: Stagnation by Algorithm

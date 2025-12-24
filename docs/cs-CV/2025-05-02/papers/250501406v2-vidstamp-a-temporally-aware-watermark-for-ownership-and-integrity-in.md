@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VIDSTAMP: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models
+title: "VIDSTAMP: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models"
 ---
 
 # VIDSTAMP: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models

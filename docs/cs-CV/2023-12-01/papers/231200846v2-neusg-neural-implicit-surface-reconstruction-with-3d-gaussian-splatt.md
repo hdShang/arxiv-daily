@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NeuSG: Neural Implicit Surface Reconstruction with 3D Gaussian Splatting Guidance
+title: "NeuSG: Neural Implicit Surface Reconstruction with 3D Gaussian Splatting Guidance"
 ---
 
 # NeuSG: Neural Implicit Surface Reconstruction with 3D Gaussian Splatting Guidance

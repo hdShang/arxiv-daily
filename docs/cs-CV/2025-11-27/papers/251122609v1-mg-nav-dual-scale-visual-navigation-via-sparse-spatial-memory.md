@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MG-Nav: Dual-Scale Visual Navigation via Sparse Spatial Memory
+title: "MG-Nav: Dual-Scale Visual Navigation via Sparse Spatial Memory"
 ---
 
 # MG-Nav: Dual-Scale Visual Navigation via Sparse Spatial Memory

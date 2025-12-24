@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Volume Rendering to 3D Gaussian Splatting: Theory and Applications
+title: "From Volume Rendering to 3D Gaussian Splatting: Theory and Applications"
 ---
 
 # From Volume Rendering to 3D Gaussian Splatting: Theory and Applications

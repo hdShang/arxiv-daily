@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SCAR: A Characterization Scheme for Multi-Modal Dataset
+title: "SCAR: A Characterization Scheme for Multi-Modal Dataset"
 ---
 
 # SCAR: A Characterization Scheme for Multi-Modal Dataset

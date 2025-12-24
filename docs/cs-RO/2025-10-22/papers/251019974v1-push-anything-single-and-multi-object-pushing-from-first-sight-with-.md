@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Push Anything: Single- and Multi-Object Pushing From First Sight with Contact-Implicit MPC
+title: "Push Anything: Single- and Multi-Object Pushing From First Sight with Contact-Implicit MPC"
 ---
 
 # Push Anything: Single- and Multi-Object Pushing From First Sight with Contact-Implicit MPC

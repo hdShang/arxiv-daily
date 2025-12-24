@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MiCo: Multi-image Contrast for Reinforcement Visual Reasoning
+title: "MiCo: Multi-image Contrast for Reinforcement Visual Reasoning"
 ---
 
 # MiCo: Multi-image Contrast for Reinforcement Visual Reasoning

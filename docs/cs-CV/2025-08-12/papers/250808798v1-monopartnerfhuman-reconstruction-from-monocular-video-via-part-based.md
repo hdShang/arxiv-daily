@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MonoPartNeRF:Human Reconstruction from Monocular Video via Part-Based Neural Radiance Fields
+title: "MonoPartNeRF:Human Reconstruction from Monocular Video via Part-Based Neural Radiance Fields"
 ---
 
 # MonoPartNeRF:Human Reconstruction from Monocular Video via Part-Based Neural Radiance Fields

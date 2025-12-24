@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MDE-AgriVLN: Agricultural Vision-and-Language Navigation with Monocular Depth Estimation
+title: "MDE-AgriVLN: Agricultural Vision-and-Language Navigation with Monocular Depth Estimation"
 ---
 
 # MDE-AgriVLN: Agricultural Vision-and-Language Navigation with Monocular Depth Estimation

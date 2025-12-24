@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ArtReg: Visuo-Tactile based Pose Tracking and Manipulation of Unseen Articulated Objects
+title: "ArtReg: Visuo-Tactile based Pose Tracking and Manipulation of Unseen Articulated Objects"
 ---
 
 # ArtReg: Visuo-Tactile based Pose Tracking and Manipulation of Unseen Articulated Objects

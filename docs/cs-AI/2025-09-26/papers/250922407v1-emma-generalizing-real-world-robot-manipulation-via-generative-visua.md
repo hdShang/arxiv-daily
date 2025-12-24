@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EMMA: Generalizing Real-World Robot Manipulation via Generative Visual Transfer
+title: "EMMA: Generalizing Real-World Robot Manipulation via Generative Visual Transfer"
 ---
 
 # EMMA: Generalizing Real-World Robot Manipulation via Generative Visual Transfer

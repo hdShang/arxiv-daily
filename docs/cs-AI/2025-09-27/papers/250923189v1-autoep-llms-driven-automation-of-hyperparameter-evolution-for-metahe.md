@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AutoEP: LLMs-Driven Automation of Hyperparameter Evolution for Metaheuristic Algorithms
+title: "AutoEP: LLMs-Driven Automation of Hyperparameter Evolution for Metaheuristic Algorithms"
 ---
 
 # AutoEP: LLMs-Driven Automation of Hyperparameter Evolution for Metaheuristic Algorithms

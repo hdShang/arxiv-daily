@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Interact-Custom: Customized Human Object Interaction Image Generation
+title: "Interact-Custom: Customized Human Object Interaction Image Generation"
 ---
 
 # Interact-Custom: Customized Human Object Interaction Image Generation

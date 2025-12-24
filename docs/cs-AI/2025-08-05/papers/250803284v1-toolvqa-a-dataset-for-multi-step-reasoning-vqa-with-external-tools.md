@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ToolVQA: A Dataset for Multi-step Reasoning VQA with External Tools
+title: "ToolVQA: A Dataset for Multi-step Reasoning VQA with External Tools"
 ---
 
 # ToolVQA: A Dataset for Multi-step Reasoning VQA with External Tools

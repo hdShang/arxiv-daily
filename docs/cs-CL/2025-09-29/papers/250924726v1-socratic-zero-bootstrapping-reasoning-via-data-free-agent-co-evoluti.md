@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Socratic-Zero : Bootstrapping Reasoning via Data-Free Agent Co-evolution
+title: "Socratic-Zero : Bootstrapping Reasoning via Data-Free Agent Co-evolution"
 ---
 
 # Socratic-Zero : Bootstrapping Reasoning via Data-Free Agent Co-evolution

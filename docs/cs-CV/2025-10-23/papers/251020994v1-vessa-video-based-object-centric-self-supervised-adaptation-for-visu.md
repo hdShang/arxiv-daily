@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VESSA: Video-based objEct-centric Self-Supervised Adaptation for Visual Foundation Models
+title: "VESSA: Video-based objEct-centric Self-Supervised Adaptation for Visual Foundation Models"
 ---
 
 # VESSA: Video-based objEct-centric Self-Supervised Adaptation for Visual Foundation Models

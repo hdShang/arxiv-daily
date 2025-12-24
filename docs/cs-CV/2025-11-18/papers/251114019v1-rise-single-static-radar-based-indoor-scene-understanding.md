@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RISE: Single Static Radar-based Indoor Scene Understanding
+title: "RISE: Single Static Radar-based Indoor Scene Understanding"
 ---
 
 # RISE: Single Static Radar-based Indoor Scene Understanding

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MAMM: Motion Control via Metric-Aligning Motion Matching
+title: "MAMM: Motion Control via Metric-Aligning Motion Matching"
 ---
 
 # MAMM: Motion Control via Metric-Aligning Motion Matching

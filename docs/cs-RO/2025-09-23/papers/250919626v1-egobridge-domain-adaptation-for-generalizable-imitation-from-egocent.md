@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EgoBridge: Domain Adaptation for Generalizable Imitation from Egocentric Human Data
+title: "EgoBridge: Domain Adaptation for Generalizable Imitation from Egocentric Human Data"
 ---
 
 # EgoBridge: Domain Adaptation for Generalizable Imitation from Egocentric Human Data

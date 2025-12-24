@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Geometry Meets Vision: Revisiting Pretrained Semantics in Distilled Fields
+title: "Geometry Meets Vision: Revisiting Pretrained Semantics in Distilled Fields"
 ---
 
 # Geometry Meets Vision: Revisiting Pretrained Semantics in Distilled Fields

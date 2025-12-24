@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rethinking Multimodal Point Cloud Completion: A Completion-by-Correction Perspective
+title: "Rethinking Multimodal Point Cloud Completion: A Completion-by-Correction Perspective"
 ---
 
 # Rethinking Multimodal Point Cloud Completion: A Completion-by-Correction Perspective

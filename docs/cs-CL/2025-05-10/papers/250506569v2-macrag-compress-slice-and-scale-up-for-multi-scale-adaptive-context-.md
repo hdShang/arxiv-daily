@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MacRAG: Compress, Slice, and Scale-up for Multi-Scale Adaptive Context RAG
+title: "MacRAG: Compress, Slice, and Scale-up for Multi-Scale Adaptive Context RAG"
 ---
 
 # MacRAG: Compress, Slice, and Scale-up for Multi-Scale Adaptive Context RAG

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: I2E: Real-Time Image-to-Event Conversion for High-Performance Spiking Neural Networks
+title: "I2E: Real-Time Image-to-Event Conversion for High-Performance Spiking Neural Networks"
 ---
 
 # I2E: Real-Time Image-to-Event Conversion for High-Performance Spiking Neural Networks

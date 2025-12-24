@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TreeRL: LLM Reinforcement Learning with On-Policy Tree Search
+title: "TreeRL: LLM Reinforcement Learning with On-Policy Tree Search"
 ---
 
 # TreeRL: LLM Reinforcement Learning with On-Policy Tree Search

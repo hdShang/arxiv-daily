@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VISA: Group-wise Visual Token Selection and Aggregation via Graph Summarization for Efficient MLLMs Inference
+title: "VISA: Group-wise Visual Token Selection and Aggregation via Graph Summarization for Efficient MLLMs Inference"
 ---
 
 # VISA: Group-wise Visual Token Selection and Aggregation via Graph Summarization for Efficient MLLMs Inference

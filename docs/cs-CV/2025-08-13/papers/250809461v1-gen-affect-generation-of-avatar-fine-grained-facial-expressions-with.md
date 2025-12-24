@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gen-AFFECT: Generation of Avatar Fine-grained Facial Expressions with Consistent identiTy
+title: "Gen-AFFECT: Generation of Avatar Fine-grained Facial Expressions with Consistent identiTy"
 ---
 
 # Gen-AFFECT: Generation of Avatar Fine-grained Facial Expressions with Consistent identiTy

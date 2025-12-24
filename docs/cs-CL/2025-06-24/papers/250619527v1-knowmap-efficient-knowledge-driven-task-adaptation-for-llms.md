@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KnowMap: Efficient Knowledge-Driven Task Adaptation for LLMs
+title: "KnowMap: Efficient Knowledge-Driven Task Adaptation for LLMs"
 ---
 
 # KnowMap: Efficient Knowledge-Driven Task Adaptation for LLMs

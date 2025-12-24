@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3DiFACE: Synthesizing and Editing Holistic 3D Facial Animation
+title: "3DiFACE: Synthesizing and Editing Holistic 3D Facial Animation"
 ---
 
 # 3DiFACE: Synthesizing and Editing Holistic 3D Facial Animation

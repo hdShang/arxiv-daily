@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PapersPlease: A Benchmark for Evaluating Motivational Values of Large Language Models Based on ERG Theory
+title: "PapersPlease: A Benchmark for Evaluating Motivational Values of Large Language Models Based on ERG Theory"
 ---
 
 # PapersPlease: A Benchmark for Evaluating Motivational Values of Large Language Models Based on ERG Theory

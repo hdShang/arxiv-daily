@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NeoWorld: Neural Simulation of Explorable Virtual Worlds via Progressive 3D Unfolding
+title: "NeoWorld: Neural Simulation of Explorable Virtual Worlds via Progressive 3D Unfolding"
 ---
 
 # NeoWorld: Neural Simulation of Explorable Virtual Worlds via Progressive 3D Unfolding

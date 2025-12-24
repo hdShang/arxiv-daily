@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLaVA-4D: Embedding SpatioTemporal Prompt into LMMs for 4D Scene Understanding
+title: "LLaVA-4D: Embedding SpatioTemporal Prompt into LMMs for 4D Scene Understanding"
 ---
 
 # LLaVA-4D: Embedding SpatioTemporal Prompt into LMMs for 4D Scene Understanding

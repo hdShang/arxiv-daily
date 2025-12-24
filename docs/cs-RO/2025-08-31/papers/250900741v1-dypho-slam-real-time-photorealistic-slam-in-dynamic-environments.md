@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DyPho-SLAM : Real-time Photorealistic SLAM in Dynamic Environments
+title: "DyPho-SLAM : Real-time Photorealistic SLAM in Dynamic Environments"
 ---
 
 # DyPho-SLAM : Real-time Photorealistic SLAM in Dynamic Environments

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReSeFlow: Rectifying SE(3)-Equivariant Policy Learning Flows
+title: "ReSeFlow: Rectifying SE(3)-Equivariant Policy Learning Flows"
 ---
 
 # ReSeFlow: Rectifying SE(3)-Equivariant Policy Learning Flows

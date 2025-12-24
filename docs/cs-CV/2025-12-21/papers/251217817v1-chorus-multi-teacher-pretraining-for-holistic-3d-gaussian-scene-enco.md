@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chorus: Multi-Teacher Pretraining for Holistic 3D Gaussian Scene Encoding
+title: "Chorus: Multi-Teacher Pretraining for Holistic 3D Gaussian Scene Encoding"
 ---
 
 # Chorus: Multi-Teacher Pretraining for Holistic 3D Gaussian Scene Encoding

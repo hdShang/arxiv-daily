@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LeVR: A Modular VR Teleoperation Framework for Imitation Learning in Dexterous Manipulation
+title: "LeVR: A Modular VR Teleoperation Framework for Imitation Learning in Dexterous Manipulation"
 ---
 
 # LeVR: A Modular VR Teleoperation Framework for Imitation Learning in Dexterous Manipulation

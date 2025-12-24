@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RedCoder: Automated Multi-Turn Red Teaming for Code LLMs
+title: "RedCoder: Automated Multi-Turn Red Teaming for Code LLMs"
 ---
 
 # RedCoder: Automated Multi-Turn Red Teaming for Code LLMs

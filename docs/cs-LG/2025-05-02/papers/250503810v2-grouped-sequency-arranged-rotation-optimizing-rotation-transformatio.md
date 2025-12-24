@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Grouped Sequency-arranged Rotation: Optimizing Rotation Transformation for Quantization for Free
+title: "Grouped Sequency-arranged Rotation: Optimizing Rotation Transformation for Quantization for Free"
 ---
 
 # Grouped Sequency-arranged Rotation: Optimizing Rotation Transformation for Quantization for Free

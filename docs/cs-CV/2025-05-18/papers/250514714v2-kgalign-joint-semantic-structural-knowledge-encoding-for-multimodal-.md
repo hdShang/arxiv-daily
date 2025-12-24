@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KGAlign: Joint Semantic-Structural Knowledge Encoding for Multimodal Fake News Detection
+title: "KGAlign: Joint Semantic-Structural Knowledge Encoding for Multimodal Fake News Detection"
 ---
 
 # KGAlign: Joint Semantic-Structural Knowledge Encoding for Multimodal Fake News Detection

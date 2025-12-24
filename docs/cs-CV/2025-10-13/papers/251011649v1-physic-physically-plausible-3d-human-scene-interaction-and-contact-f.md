@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PhySIC: Physically Plausible 3D Human-Scene Interaction and Contact from a Single Image
+title: "PhySIC: Physically Plausible 3D Human-Scene Interaction and Contact from a Single Image"
 ---
 
 # PhySIC: Physically Plausible 3D Human-Scene Interaction and Contact from a Single Image

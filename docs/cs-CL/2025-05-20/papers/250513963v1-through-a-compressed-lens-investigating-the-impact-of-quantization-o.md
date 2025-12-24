@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Through a Compressed Lens: Investigating the Impact of Quantization on LLM Explainability and Interpretability
+title: "Through a Compressed Lens: Investigating the Impact of Quantization on LLM Explainability and Interpretability"
 ---
 
 # Through a Compressed Lens: Investigating the Impact of Quantization on LLM Explainability and Interpretability

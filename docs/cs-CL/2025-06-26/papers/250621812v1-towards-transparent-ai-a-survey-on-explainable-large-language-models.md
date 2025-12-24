@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Transparent AI: A Survey on Explainable Large Language Models
+title: "Towards Transparent AI: A Survey on Explainable Large Language Models"
 ---
 
 # Towards Transparent AI: A Survey on Explainable Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RealisMotion: Decomposed Human Motion Control and Video Generation in the World Space
+title: "RealisMotion: Decomposed Human Motion Control and Video Generation in the World Space"
 ---
 
 # RealisMotion: Decomposed Human Motion Control and Video Generation in the World Space

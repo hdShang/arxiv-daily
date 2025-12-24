@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SegSplat: Feed-forward Gaussian Splatting and Open-Set Semantic Segmentation
+title: "SegSplat: Feed-forward Gaussian Splatting and Open-Set Semantic Segmentation"
 ---
 
 # SegSplat: Feed-forward Gaussian Splatting and Open-Set Semantic Segmentation

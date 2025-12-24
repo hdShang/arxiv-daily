@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A QP Framework for Improving Data Collection: Quantifying Device-Controller Performance in Robot Teleoperation
+title: "A QP Framework for Improving Data Collection: Quantifying Device-Controller Performance in Robot Teleoperation"
 ---
 
 # A QP Framework for Improving Data Collection: Quantifying Device-Controller Performance in Robot Teleoperation

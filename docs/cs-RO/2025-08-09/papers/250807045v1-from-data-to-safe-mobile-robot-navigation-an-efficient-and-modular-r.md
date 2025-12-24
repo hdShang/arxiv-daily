@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Data to Safe Mobile Robot Navigation: An Efficient and Modular Robust MPC Design Pipeline
+title: "From Data to Safe Mobile Robot Navigation: An Efficient and Modular Robust MPC Design Pipeline"
 ---
 
 # From Data to Safe Mobile Robot Navigation: An Efficient and Modular Robust MPC Design Pipeline

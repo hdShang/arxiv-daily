@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Programs to Poses: Factored Real-World Scene Generation via Learned Program Libraries
+title: "From Programs to Poses: Factored Real-World Scene Generation via Learned Program Libraries"
 ---
 
 # From Programs to Poses: Factored Real-World Scene Generation via Learned Program Libraries

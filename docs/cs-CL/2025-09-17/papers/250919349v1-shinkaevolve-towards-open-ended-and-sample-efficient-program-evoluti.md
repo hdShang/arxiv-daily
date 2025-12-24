@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ShinkaEvolve: Towards Open-Ended And Sample-Efficient Program Evolution
+title: "ShinkaEvolve: Towards Open-Ended And Sample-Efficient Program Evolution"
 ---
 
 # ShinkaEvolve: Towards Open-Ended And Sample-Efficient Program Evolution

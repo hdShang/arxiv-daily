@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VASA-3D: Lifelike Audio-Driven Gaussian Head Avatars from a Single Image
+title: "VASA-3D: Lifelike Audio-Driven Gaussian Head Avatars from a Single Image"
 ---
 
 # VASA-3D: Lifelike Audio-Driven Gaussian Head Avatars from a Single Image

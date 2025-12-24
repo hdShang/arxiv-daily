@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rethinking the Outlier Distribution in Large Language Models: An In-depth Study
+title: "Rethinking the Outlier Distribution in Large Language Models: An In-depth Study"
 ---
 
 # Rethinking the Outlier Distribution in Large Language Models: An In-depth Study

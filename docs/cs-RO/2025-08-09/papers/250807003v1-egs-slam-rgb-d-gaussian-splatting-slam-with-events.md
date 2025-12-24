@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EGS-SLAM: RGB-D Gaussian Splatting SLAM with Events
+title: "EGS-SLAM: RGB-D Gaussian Splatting SLAM with Events"
 ---
 
 # EGS-SLAM: RGB-D Gaussian Splatting SLAM with Events

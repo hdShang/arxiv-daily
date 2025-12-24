@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMiC: Mitigating Modality Incompleteness in Clustered Federated Learning
+title: "MMiC: Mitigating Modality Incompleteness in Clustered Federated Learning"
 ---
 
 # MMiC: Mitigating Modality Incompleteness in Clustered Federated Learning

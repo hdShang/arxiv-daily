@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMRefine: Unveiling the Obstacles to Robust Refinement in Multimodal Large Language Models
+title: "MMRefine: Unveiling the Obstacles to Robust Refinement in Multimodal Large Language Models"
 ---
 
 # MMRefine: Unveiling the Obstacles to Robust Refinement in Multimodal Large Language Models

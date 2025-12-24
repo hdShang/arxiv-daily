@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MorpheuS: Neural Dynamic 360° Surface Reconstruction from Monocular RGB-D Video
+title: "MorpheuS: Neural Dynamic 360° Surface Reconstruction from Monocular RGB-D Video"
 ---
 
 # MorpheuS: Neural Dynamic 360° Surface Reconstruction from Monocular RGB-D Video

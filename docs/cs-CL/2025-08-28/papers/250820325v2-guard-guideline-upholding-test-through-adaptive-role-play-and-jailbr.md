@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GUARD: Guideline Upholding Test through Adaptive Role-play and Jailbreak Diagnostics for LLMs
+title: "GUARD: Guideline Upholding Test through Adaptive Role-play and Jailbreak Diagnostics for LLMs"
 ---
 
 # GUARD: Guideline Upholding Test through Adaptive Role-play and Jailbreak Diagnostics for LLMs

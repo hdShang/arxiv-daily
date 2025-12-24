@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MSF-Mamba: Motion-aware State Fusion Mamba for Efficient Micro-Gesture Recognition
+title: "MSF-Mamba: Motion-aware State Fusion Mamba for Efficient Micro-Gesture Recognition"
 ---
 
 # MSF-Mamba: Motion-aware State Fusion Mamba for Efficient Micro-Gesture Recognition

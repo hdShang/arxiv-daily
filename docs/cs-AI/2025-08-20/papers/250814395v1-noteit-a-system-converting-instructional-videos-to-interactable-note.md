@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NoteIt: A System Converting Instructional Videos to Interactable Notes Through Multimodal Video Understanding
+title: "NoteIt: A System Converting Instructional Videos to Interactable Notes Through Multimodal Video Understanding"
 ---
 
 # NoteIt: A System Converting Instructional Videos to Interactable Notes Through Multimodal Video Understanding

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Can LLMs Ground when they (Don't) Know: A Study on Direct and Loaded Political Questions
+title: "Can LLMs Ground when they (Don't) Know: A Study on Direct and Loaded Political Questions"
 ---
 
 # Can LLMs Ground when they (Don't) Know: A Study on Direct and Loaded Political Questions

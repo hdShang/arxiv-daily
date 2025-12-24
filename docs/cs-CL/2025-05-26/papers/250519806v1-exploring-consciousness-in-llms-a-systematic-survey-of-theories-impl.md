@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exploring Consciousness in LLMs: A Systematic Survey of Theories, Implementations, and Frontier Risks
+title: "Exploring Consciousness in LLMs: A Systematic Survey of Theories, Implementations, and Frontier Risks"
 ---
 
 # Exploring Consciousness in LLMs: A Systematic Survey of Theories, Implementations, and Frontier Risks

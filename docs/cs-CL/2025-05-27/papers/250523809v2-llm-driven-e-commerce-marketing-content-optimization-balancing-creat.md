@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM-Driven E-Commerce Marketing Content Optimization: Balancing Creativity and Conversion
+title: "LLM-Driven E-Commerce Marketing Content Optimization: Balancing Creativity and Conversion"
 ---
 
 # LLM-Driven E-Commerce Marketing Content Optimization: Balancing Creativity and Conversion

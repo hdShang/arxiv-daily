@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PAD3R: Pose-Aware Dynamic 3D Reconstruction from Casual Videos
+title: "PAD3R: Pose-Aware Dynamic 3D Reconstruction from Casual Videos"
 ---
 
 # PAD3R: Pose-Aware Dynamic 3D Reconstruction from Casual Videos

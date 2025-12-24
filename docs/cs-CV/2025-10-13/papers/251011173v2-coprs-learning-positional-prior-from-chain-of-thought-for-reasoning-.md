@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoPRS: Learning Positional Prior from Chain-of-Thought for Reasoning Segmentation
+title: "CoPRS: Learning Positional Prior from Chain-of-Thought for Reasoning Segmentation"
 ---
 
 # CoPRS: Learning Positional Prior from Chain-of-Thought for Reasoning Segmentation

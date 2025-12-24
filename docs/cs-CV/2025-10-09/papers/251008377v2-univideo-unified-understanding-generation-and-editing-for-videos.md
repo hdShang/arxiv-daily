@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniVideo: Unified Understanding, Generation, and Editing for Videos
+title: "UniVideo: Unified Understanding, Generation, and Editing for Videos"
 ---
 
 # UniVideo: Unified Understanding, Generation, and Editing for Videos

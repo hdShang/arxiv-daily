@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AnyBody: A Benchmark Suite for Cross-Embodiment Manipulation
+title: "AnyBody: A Benchmark Suite for Cross-Embodiment Manipulation"
 ---
 
 # AnyBody: A Benchmark Suite for Cross-Embodiment Manipulation

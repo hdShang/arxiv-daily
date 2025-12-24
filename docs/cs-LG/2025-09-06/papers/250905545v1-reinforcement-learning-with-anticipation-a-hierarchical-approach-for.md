@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reinforcement Learning with Anticipation: A Hierarchical Approach for Long-Horizon Tasks
+title: "Reinforcement Learning with Anticipation: A Hierarchical Approach for Long-Horizon Tasks"
 ---
 
 # Reinforcement Learning with Anticipation: A Hierarchical Approach for Long-Horizon Tasks

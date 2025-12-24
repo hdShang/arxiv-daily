@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PropVG: End-to-End Proposal-Driven Visual Grounding with Multi-Granularity Discrimination
+title: "PropVG: End-to-End Proposal-Driven Visual Grounding with Multi-Granularity Discrimination"
 ---
 
 # PropVG: End-to-End Proposal-Driven Visual Grounding with Multi-Granularity Discrimination

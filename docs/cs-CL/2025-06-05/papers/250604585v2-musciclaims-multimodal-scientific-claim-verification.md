@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MuSciClaims: Multimodal Scientific Claim Verification
+title: "MuSciClaims: Multimodal Scientific Claim Verification"
 ---
 
 # MuSciClaims: Multimodal Scientific Claim Verification

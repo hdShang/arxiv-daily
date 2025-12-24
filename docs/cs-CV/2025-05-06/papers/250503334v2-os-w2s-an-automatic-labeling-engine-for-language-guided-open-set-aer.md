@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OS-W2S: An Automatic Labeling Engine for Language-Guided Open-Set Aerial Object Detection
+title: "OS-W2S: An Automatic Labeling Engine for Language-Guided Open-Set Aerial Object Detection"
 ---
 
 # OS-W2S: An Automatic Labeling Engine for Language-Guided Open-Set Aerial Object Detection

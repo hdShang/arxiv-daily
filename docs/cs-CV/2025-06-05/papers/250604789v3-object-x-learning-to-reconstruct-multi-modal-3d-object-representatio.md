@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Object-X: Learning to Reconstruct Multi-Modal 3D Object Representations
+title: "Object-X: Learning to Reconstruct Multi-Modal 3D Object Representations"
 ---
 
 # Object-X: Learning to Reconstruct Multi-Modal 3D Object Representations

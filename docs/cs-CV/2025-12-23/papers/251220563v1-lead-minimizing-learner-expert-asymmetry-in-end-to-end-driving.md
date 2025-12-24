@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving
+title: "LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving"
 ---
 
 # LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving

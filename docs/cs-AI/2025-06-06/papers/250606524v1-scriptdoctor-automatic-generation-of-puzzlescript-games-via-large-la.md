@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ScriptDoctor: Automatic Generation of PuzzleScript Games via Large Language Models and Tree Search
+title: "ScriptDoctor: Automatic Generation of PuzzleScript Games via Large Language Models and Tree Search"
 ---
 
 # ScriptDoctor: Automatic Generation of PuzzleScript Games via Large Language Models and Tree Search

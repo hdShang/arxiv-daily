@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Quadratic Costs: A Bregman Divergence Approach to H$_\infty$ Control
+title: "Beyond Quadratic Costs: A Bregman Divergence Approach to H$_\\infty$ Control"
 ---
 
 # Beyond Quadratic Costs: A Bregman Divergence Approach to H$_\infty$ Control

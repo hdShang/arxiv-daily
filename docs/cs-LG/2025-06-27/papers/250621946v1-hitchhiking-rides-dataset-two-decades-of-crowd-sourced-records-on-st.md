@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hitchhiking Rides Dataset: Two decades of crowd-sourced records on stochastic traveling
+title: "Hitchhiking Rides Dataset: Two decades of crowd-sourced records on stochastic traveling"
 ---
 
 # Hitchhiking Rides Dataset: Two decades of crowd-sourced records on stochastic traveling

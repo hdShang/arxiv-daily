@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ATTS: Asynchronous Test-Time Scaling via Conformal Prediction
+title: "ATTS: Asynchronous Test-Time Scaling via Conformal Prediction"
 ---
 
 # ATTS: Asynchronous Test-Time Scaling via Conformal Prediction

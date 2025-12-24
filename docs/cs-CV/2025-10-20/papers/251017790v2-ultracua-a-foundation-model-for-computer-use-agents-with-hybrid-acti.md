@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UltraCUA: A Foundation Model for Computer Use Agents with Hybrid Action
+title: "UltraCUA: A Foundation Model for Computer Use Agents with Hybrid Action"
 ---
 
 # UltraCUA: A Foundation Model for Computer Use Agents with Hybrid Action

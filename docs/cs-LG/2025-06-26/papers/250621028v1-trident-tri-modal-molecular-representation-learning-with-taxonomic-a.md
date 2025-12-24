@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TRIDENT: Tri-Modal Molecular Representation Learning with Taxonomic Annotations and Local Correspondence
+title: "TRIDENT: Tri-Modal Molecular Representation Learning with Taxonomic Annotations and Local Correspondence"
 ---
 
 # TRIDENT: Tri-Modal Molecular Representation Learning with Taxonomic Annotations and Local Correspondence

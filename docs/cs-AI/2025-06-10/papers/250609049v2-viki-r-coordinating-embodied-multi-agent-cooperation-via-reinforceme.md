@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning
+title: "VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning"
 ---
 
 # VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning

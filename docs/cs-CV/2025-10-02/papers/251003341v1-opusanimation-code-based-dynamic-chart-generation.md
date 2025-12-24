@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OpusAnimation: Code-Based Dynamic Chart Generation
+title: "OpusAnimation: Code-Based Dynamic Chart Generation"
 ---
 
 # OpusAnimation: Code-Based Dynamic Chart Generation

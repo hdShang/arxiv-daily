@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Position: Olfaction Standardization is Essential for the Advancement of Embodied Artificial Intelligence
+title: "Position: Olfaction Standardization is Essential for the Advancement of Embodied Artificial Intelligence"
 ---
 
 # Position: Olfaction Standardization is Essential for the Advancement of Embodied Artificial Intelligence

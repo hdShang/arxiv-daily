@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <think> So let's replace this phrase with insult... </think> Lessons learned from generation of toxic texts with LLMs
+title: "<think> So let's replace this phrase with insult... </think> Lessons learned from generation of toxic texts with LLMs"
 ---
 
 # <think> So let's replace this phrase with insult... </think> Lessons learned from generation of toxic texts with LLMs

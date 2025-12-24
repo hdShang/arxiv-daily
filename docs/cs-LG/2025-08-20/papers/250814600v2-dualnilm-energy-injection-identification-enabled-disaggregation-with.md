@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DualNILM: Energy Injection Identification Enabled Disaggregation with Deep Multi-Task Learning
+title: "DualNILM: Energy Injection Identification Enabled Disaggregation with Deep Multi-Task Learning"
 ---
 
 # DualNILM: Energy Injection Identification Enabled Disaggregation with Deep Multi-Task Learning

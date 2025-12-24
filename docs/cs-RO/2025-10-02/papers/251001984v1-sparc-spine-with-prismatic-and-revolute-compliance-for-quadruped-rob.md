@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SPARC: Spine with Prismatic and Revolute Compliance for Quadruped Robot
+title: "SPARC: Spine with Prismatic and Revolute Compliance for Quadruped Robot"
 ---
 
 # SPARC: Spine with Prismatic and Revolute Compliance for Quadruped Robot

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniPre3D: Unified Pre-training of 3D Point Cloud Models with Cross-Modal Gaussian Splatting
+title: "UniPre3D: Unified Pre-training of 3D Point Cloud Models with Cross-Modal Gaussian Splatting"
 ---
 
 # UniPre3D: Unified Pre-training of 3D Point Cloud Models with Cross-Modal Gaussian Splatting

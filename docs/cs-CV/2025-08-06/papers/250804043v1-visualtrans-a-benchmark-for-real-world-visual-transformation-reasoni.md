@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VisualTrans: A Benchmark for Real-World Visual Transformation Reasoning
+title: "VisualTrans: A Benchmark for Real-World Visual Transformation Reasoning"
 ---
 
 # VisualTrans: A Benchmark for Real-World Visual Transformation Reasoning

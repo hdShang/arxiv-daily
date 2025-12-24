@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Improving Research Idea Generation Through Data: An Empirical Investigation in Social Science
+title: "Improving Research Idea Generation Through Data: An Empirical Investigation in Social Science"
 ---
 
 # Improving Research Idea Generation Through Data: An Empirical Investigation in Social Science

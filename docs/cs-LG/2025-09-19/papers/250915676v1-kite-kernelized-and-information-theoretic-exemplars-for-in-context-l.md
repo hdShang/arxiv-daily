@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KITE: Kernelized and Information Theoretic Exemplars for In-Context Learning
+title: "KITE: Kernelized and Information Theoretic Exemplars for In-Context Learning"
 ---
 
 # KITE: Kernelized and Information Theoretic Exemplars for In-Context Learning

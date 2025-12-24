@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InEKFormer: A Hybrid State Estimator for Humanoid Robots
+title: "InEKFormer: A Hybrid State Estimator for Humanoid Robots"
 ---
 
 # InEKFormer: A Hybrid State Estimator for Humanoid Robots

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LeLaR: The First In-Orbit Demonstration of an AI-Based Satellite Attitude Controller
+title: "LeLaR: The First In-Orbit Demonstration of an AI-Based Satellite Attitude Controller"
 ---
 
 # LeLaR: The First In-Orbit Demonstration of an AI-Based Satellite Attitude Controller

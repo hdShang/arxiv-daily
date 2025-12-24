@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MADPromptS: Unlocking Zero-Shot Morphing Attack Detection with Multiple Prompt Aggregation
+title: "MADPromptS: Unlocking Zero-Shot Morphing Attack Detection with Multiple Prompt Aggregation"
 ---
 
 # MADPromptS: Unlocking Zero-Shot Morphing Attack Detection with Multiple Prompt Aggregation

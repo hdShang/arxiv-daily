@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MagBotSim: Physics-Based Simulation and Reinforcement Learning Environments for Magnetic Robotics
+title: "MagBotSim: Physics-Based Simulation and Reinforcement Learning Environments for Magnetic Robotics"
 ---
 
 # MagBotSim: Physics-Based Simulation and Reinforcement Learning Environments for Magnetic Robotics

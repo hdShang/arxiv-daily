@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models
+title: "SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models"
 ---
 
 # SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models

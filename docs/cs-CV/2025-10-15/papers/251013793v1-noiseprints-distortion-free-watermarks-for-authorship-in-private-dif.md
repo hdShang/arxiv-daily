@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NoisePrints: Distortion-Free Watermarks for Authorship in Private Diffusion Models
+title: "NoisePrints: Distortion-Free Watermarks for Authorship in Private Diffusion Models"
 ---
 
 # NoisePrints: Distortion-Free Watermarks for Authorship in Private Diffusion Models

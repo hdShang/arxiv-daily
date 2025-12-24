@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Emu3.5: Native Multimodal Models are World Learners
+title: "Emu3.5: Native Multimodal Models are World Learners"
 ---
 
 # Emu3.5: Native Multimodal Models are World Learners

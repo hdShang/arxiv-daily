@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VT-FSL: Bridging Vision and Text with LLMs for Few-Shot Learning
+title: "VT-FSL: Bridging Vision and Text with LLMs for Few-Shot Learning"
 ---
 
 # VT-FSL: Bridging Vision and Text with LLMs for Few-Shot Learning

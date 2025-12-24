@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Linear Representation Transferability Hypothesis: Leveraging Small Models to Steer Large Models
+title: "Linear Representation Transferability Hypothesis: Leveraging Small Models to Steer Large Models"
 ---
 
 # Linear Representation Transferability Hypothesis: Leveraging Small Models to Steer Large Models

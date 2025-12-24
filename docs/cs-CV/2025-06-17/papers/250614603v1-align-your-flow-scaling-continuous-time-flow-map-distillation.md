@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Align Your Flow: Scaling Continuous-Time Flow Map Distillation
+title: "Align Your Flow: Scaling Continuous-Time Flow Map Distillation"
 ---
 
 # Align Your Flow: Scaling Continuous-Time Flow Map Distillation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Paper2Web: Let's Make Your Paper Alive!
+title: "Paper2Web: Let's Make Your Paper Alive!"
 ---
 
 # Paper2Web: Let's Make Your Paper Alive!

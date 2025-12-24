@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Revisiting Chain-of-Thought Prompting: Zero-shot Can Be Stronger than Few-shot
+title: "Revisiting Chain-of-Thought Prompting: Zero-shot Can Be Stronger than Few-shot"
 ---
 
 # Revisiting Chain-of-Thought Prompting: Zero-shot Can Be Stronger than Few-shot

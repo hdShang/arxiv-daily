@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TiCard: Deployable EXPLAIN-only Residual Learning for Cardinality Estimation
+title: "TiCard: Deployable EXPLAIN-only Residual Learning for Cardinality Estimation"
 ---
 
 # TiCard: Deployable EXPLAIN-only Residual Learning for Cardinality Estimation

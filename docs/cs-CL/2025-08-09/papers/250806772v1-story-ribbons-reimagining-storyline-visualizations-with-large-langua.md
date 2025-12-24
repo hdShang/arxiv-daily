@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Story Ribbons: Reimagining Storyline Visualizations with Large Language Models
+title: "Story Ribbons: Reimagining Storyline Visualizations with Large Language Models"
 ---
 
 # Story Ribbons: Reimagining Storyline Visualizations with Large Language Models

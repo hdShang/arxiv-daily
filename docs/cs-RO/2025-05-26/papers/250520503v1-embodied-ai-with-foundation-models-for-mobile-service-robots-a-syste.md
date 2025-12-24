@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Embodied AI with Foundation Models for Mobile Service Robots: A Systematic Review
+title: "Embodied AI with Foundation Models for Mobile Service Robots: A Systematic Review"
 ---
 
 # Embodied AI with Foundation Models for Mobile Service Robots: A Systematic Review

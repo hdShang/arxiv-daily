@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CHD: Coupled Hierarchical Diffusion for Long-Horizon Tasks
+title: "CHD: Coupled Hierarchical Diffusion for Long-Horizon Tasks"
 ---
 
 # CHD: Coupled Hierarchical Diffusion for Long-Horizon Tasks

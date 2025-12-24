@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Charting the Landscape of African NLP: Mapping Progress and Shaping the Road Ahead
+title: "Charting the Landscape of African NLP: Mapping Progress and Shaping the Road Ahead"
 ---
 
 # Charting the Landscape of African NLP: Mapping Progress and Shaping the Road Ahead

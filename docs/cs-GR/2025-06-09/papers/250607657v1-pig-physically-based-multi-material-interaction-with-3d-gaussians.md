@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PIG: Physically-based Multi-Material Interaction with 3D Gaussians
+title: "PIG: Physically-based Multi-Material Interaction with 3D Gaussians"
 ---
 
 # PIG: Physically-based Multi-Material Interaction with 3D Gaussians

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation
+title: "ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation"
 ---
 
 # ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation

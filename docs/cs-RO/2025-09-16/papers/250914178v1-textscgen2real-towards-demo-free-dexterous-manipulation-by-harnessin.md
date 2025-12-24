@@ -1,6 +1,6 @@
 ---
 layout: default
-title: \textsc{Gen2Real}: Towards Demo-Free Dexterous Manipulation by Harnessing Generated Video
+title: "\\textsc{Gen2Real}: Towards Demo-Free Dexterous Manipulation by Harnessing Generated Video"
 ---
 
 # \textsc{Gen2Real}: Towards Demo-Free Dexterous Manipulation by Harnessing Generated Video

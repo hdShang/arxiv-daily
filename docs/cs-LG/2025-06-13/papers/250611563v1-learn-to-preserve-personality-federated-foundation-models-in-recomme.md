@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learn to Preserve Personality: Federated Foundation Models in Recommendations
+title: "Learn to Preserve Personality: Federated Foundation Models in Recommendations"
 ---
 
 # Learn to Preserve Personality: Federated Foundation Models in Recommendations

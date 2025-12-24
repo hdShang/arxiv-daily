@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM-GROP: Visually Grounded Robot Task and Motion Planning with Large Language Models
+title: "LLM-GROP: Visually Grounded Robot Task and Motion Planning with Large Language Models"
 ---
 
 # LLM-GROP: Visually Grounded Robot Task and Motion Planning with Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Human Empathy as Encoder: AI-Assisted Depression Assessment in Special Education
+title: "Human Empathy as Encoder: AI-Assisted Depression Assessment in Special Education"
 ---
 
 # Human Empathy as Encoder: AI-Assisted Depression Assessment in Special Education

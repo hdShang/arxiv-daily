@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Relic: Enhancing Reward Model Generalization for Low-Resource Indic Languages with Few-Shot Examples
+title: "Relic: Enhancing Reward Model Generalization for Low-Resource Indic Languages with Few-Shot Examples"
 ---
 
 # Relic: Enhancing Reward Model Generalization for Low-Resource Indic Languages with Few-Shot Examples

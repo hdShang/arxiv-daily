@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SoM-1K: A Thousand-Problem Benchmark Dataset for Strength of Materials
+title: "SoM-1K: A Thousand-Problem Benchmark Dataset for Strength of Materials"
 ---
 
 # SoM-1K: A Thousand-Problem Benchmark Dataset for Strength of Materials

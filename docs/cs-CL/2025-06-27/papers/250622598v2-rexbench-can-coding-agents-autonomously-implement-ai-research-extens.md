@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RExBench: Can coding agents autonomously implement AI research extensions?
+title: "RExBench: Can coding agents autonomously implement AI research extensions?"
 ---
 
 # RExBench: Can coding agents autonomously implement AI research extensions?

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Operationalizing Automated Essay Scoring: A Human-Aware Approach
+title: "Operationalizing Automated Essay Scoring: A Human-Aware Approach"
 ---
 
 # Operationalizing Automated Essay Scoring: A Human-Aware Approach

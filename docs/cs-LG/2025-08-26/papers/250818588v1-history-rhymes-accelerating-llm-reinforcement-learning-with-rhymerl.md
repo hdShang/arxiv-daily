@@ -1,6 +1,6 @@
 ---
 layout: default
-title: History Rhymes: Accelerating LLM Reinforcement Learning with RhymeRL
+title: "History Rhymes: Accelerating LLM Reinforcement Learning with RhymeRL"
 ---
 
 # History Rhymes: Accelerating LLM Reinforcement Learning with RhymeRL

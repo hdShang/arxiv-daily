@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UI-UG: A Unified MLLM for UI Understanding and Generation
+title: "UI-UG: A Unified MLLM for UI Understanding and Generation"
 ---
 
 # UI-UG: A Unified MLLM for UI Understanding and Generation

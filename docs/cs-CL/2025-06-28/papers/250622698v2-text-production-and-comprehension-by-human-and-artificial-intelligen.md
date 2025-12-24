@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Text Production and Comprehension by Human and Artificial Intelligence: Interdisciplinary Workshop Report
+title: "Text Production and Comprehension by Human and Artificial Intelligence: Interdisciplinary Workshop Report"
 ---
 
 # Text Production and Comprehension by Human and Artificial Intelligence: Interdisciplinary Workshop Report

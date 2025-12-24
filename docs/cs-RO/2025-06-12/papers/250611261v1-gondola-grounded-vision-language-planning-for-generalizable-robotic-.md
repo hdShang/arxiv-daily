@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gondola: Grounded Vision Language Planning for Generalizable Robotic Manipulation
+title: "Gondola: Grounded Vision Language Planning for Generalizable Robotic Manipulation"
 ---
 
 # Gondola: Grounded Vision Language Planning for Generalizable Robotic Manipulation

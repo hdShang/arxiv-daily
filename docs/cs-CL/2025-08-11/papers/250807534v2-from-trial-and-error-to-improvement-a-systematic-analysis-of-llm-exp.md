@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Trial-and-Error to Improvement: A Systematic Analysis of LLM Exploration Mechanisms in RLVR
+title: "From Trial-and-Error to Improvement: A Systematic Analysis of LLM Exploration Mechanisms in RLVR"
 ---
 
 # From Trial-and-Error to Improvement: A Systematic Analysis of LLM Exploration Mechanisms in RLVR

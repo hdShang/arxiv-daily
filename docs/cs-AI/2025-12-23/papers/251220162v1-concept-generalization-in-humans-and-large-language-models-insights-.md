@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Concept Generalization in Humans and Large Language Models: Insights from the Number Game
+title: "Concept Generalization in Humans and Large Language Models: Insights from the Number Game"
 ---
 
 # Concept Generalization in Humans and Large Language Models: Insights from the Number Game

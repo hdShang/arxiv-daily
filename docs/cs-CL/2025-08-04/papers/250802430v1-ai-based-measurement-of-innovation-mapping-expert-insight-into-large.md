@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI-Based Measurement of Innovation: Mapping Expert Insight into Large Language Model Applications
+title: "AI-Based Measurement of Innovation: Mapping Expert Insight into Large Language Model Applications"
 ---
 
 # AI-Based Measurement of Innovation: Mapping Expert Insight into Large Language Model Applications

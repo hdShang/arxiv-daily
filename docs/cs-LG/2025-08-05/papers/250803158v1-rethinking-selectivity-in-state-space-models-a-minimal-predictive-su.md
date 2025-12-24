@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rethinking Selectivity in State Space Models: A Minimal Predictive Sufficiency Approach
+title: "Rethinking Selectivity in State Space Models: A Minimal Predictive Sufficiency Approach"
 ---
 
 # Rethinking Selectivity in State Space Models: A Minimal Predictive Sufficiency Approach

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assortment of Attention Heads: Accelerating Federated PEFT with Head Pruning and Strategic Client Selection
+title: "Assortment of Attention Heads: Accelerating Federated PEFT with Head Pruning and Strategic Client Selection"
 ---
 
 # Assortment of Attention Heads: Accelerating Federated PEFT with Head Pruning and Strategic Client Selection

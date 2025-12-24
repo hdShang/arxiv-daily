@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ICPC-Eval: Probing the Frontiers of LLM Reasoning with Competitive Programming Contests
+title: "ICPC-Eval: Probing the Frontiers of LLM Reasoning with Competitive Programming Contests"
 ---
 
 # ICPC-Eval: Probing the Frontiers of LLM Reasoning with Competitive Programming Contests

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReXVQA: A Large-scale Visual Question Answering Benchmark for Generalist Chest X-ray Understanding
+title: "ReXVQA: A Large-scale Visual Question Answering Benchmark for Generalist Chest X-ray Understanding"
 ---
 
 # ReXVQA: A Large-scale Visual Question Answering Benchmark for Generalist Chest X-ray Understanding

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NeurNCD: Novel Class Discovery via Implicit Neural Representation
+title: "NeurNCD: Novel Class Discovery via Implicit Neural Representation"
 ---
 
 # NeurNCD: Novel Class Discovery via Implicit Neural Representation

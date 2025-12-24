@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DET-GS: Depth- and Edge-Aware Regularization for High-Fidelity 3D Gaussian Splatting
+title: "DET-GS: Depth- and Edge-Aware Regularization for High-Fidelity 3D Gaussian Splatting"
 ---
 
 # DET-GS: Depth- and Edge-Aware Regularization for High-Fidelity 3D Gaussian Splatting

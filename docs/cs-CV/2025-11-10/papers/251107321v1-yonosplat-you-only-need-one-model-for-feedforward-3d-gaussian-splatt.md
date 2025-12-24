@@ -1,6 +1,6 @@
 ---
 layout: default
-title: YoNoSplat: You Only Need One Model for Feedforward 3D Gaussian Splatting
+title: "YoNoSplat: You Only Need One Model for Feedforward 3D Gaussian Splatting"
 ---
 
 # YoNoSplat: You Only Need One Model for Feedforward 3D Gaussian Splatting

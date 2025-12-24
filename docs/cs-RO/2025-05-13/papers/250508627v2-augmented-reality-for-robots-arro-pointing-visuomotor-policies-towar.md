@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness
+title: "Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness"
 ---
 
 # Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness

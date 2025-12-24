@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fast, Slow, and Tool-augmented Thinking for LLMs: A Review
+title: "Fast, Slow, and Tool-augmented Thinking for LLMs: A Review"
 ---
 
 # Fast, Slow, and Tool-augmented Thinking for LLMs: A Review

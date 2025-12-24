@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MPCFormer: A physics-informed data-driven approach for explainable socially-aware autonomous driving
+title: "MPCFormer: A physics-informed data-driven approach for explainable socially-aware autonomous driving"
 ---
 
 # MPCFormer: A physics-informed data-driven approach for explainable socially-aware autonomous driving

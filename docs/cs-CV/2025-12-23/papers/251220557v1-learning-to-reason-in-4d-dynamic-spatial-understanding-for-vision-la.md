@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning to Reason in 4D: Dynamic Spatial Understanding for Vision Language Models
+title: "Learning to Reason in 4D: Dynamic Spatial Understanding for Vision Language Models"
 ---
 
 # Learning to Reason in 4D: Dynamic Spatial Understanding for Vision Language Models

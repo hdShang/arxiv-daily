@@ -1,6 +1,6 @@
 ---
 layout: default
-title: T2S: Tokenized Skill Scaling for Lifelong Imitation Learning
+title: "T2S: Tokenized Skill Scaling for Lifelong Imitation Learning"
 ---
 
 # T2S: Tokenized Skill Scaling for Lifelong Imitation Learning

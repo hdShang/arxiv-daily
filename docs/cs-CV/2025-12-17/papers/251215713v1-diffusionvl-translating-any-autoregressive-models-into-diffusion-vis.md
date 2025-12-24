@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models
+title: "DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models"
 ---
 
 # DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models

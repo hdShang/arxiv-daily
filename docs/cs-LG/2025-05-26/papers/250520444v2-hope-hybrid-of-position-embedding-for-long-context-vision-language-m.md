@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HoPE: Hybrid of Position Embedding for Long Context Vision-Language Models
+title: "HoPE: Hybrid of Position Embedding for Long Context Vision-Language Models"
 ---
 
 # HoPE: Hybrid of Position Embedding for Long Context Vision-Language Models

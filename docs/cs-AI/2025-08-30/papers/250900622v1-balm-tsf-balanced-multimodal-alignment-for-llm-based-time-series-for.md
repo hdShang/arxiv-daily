@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BALM-TSF: Balanced Multimodal Alignment for LLM-Based Time Series Forecasting
+title: "BALM-TSF: Balanced Multimodal Alignment for LLM-Based Time Series Forecasting"
 ---
 
 # BALM-TSF: Balanced Multimodal Alignment for LLM-Based Time Series Forecasting

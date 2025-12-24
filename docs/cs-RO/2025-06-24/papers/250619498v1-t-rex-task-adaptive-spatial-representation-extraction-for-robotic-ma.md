@@ -1,6 +1,6 @@
 ---
 layout: default
-title: T-Rex: Task-Adaptive Spatial Representation Extraction for Robotic Manipulation with Vision-Language Models
+title: "T-Rex: Task-Adaptive Spatial Representation Extraction for Robotic Manipulation with Vision-Language Models"
 ---
 
 # T-Rex: Task-Adaptive Spatial Representation Extraction for Robotic Manipulation with Vision-Language Models

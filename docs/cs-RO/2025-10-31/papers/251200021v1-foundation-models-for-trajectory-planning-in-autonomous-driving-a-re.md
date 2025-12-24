@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Foundation Models for Trajectory Planning in Autonomous Driving: A Review of Progress and Open Challenges
+title: "Foundation Models for Trajectory Planning in Autonomous Driving: A Review of Progress and Open Challenges"
 ---
 
 # Foundation Models for Trajectory Planning in Autonomous Driving: A Review of Progress and Open Challenges

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SOMA: Feature Gradient Enhanced Affine-Flow Matching for SAR-Optical Registration
+title: "SOMA: Feature Gradient Enhanced Affine-Flow Matching for SAR-Optical Registration"
 ---
 
 # SOMA: Feature Gradient Enhanced Affine-Flow Matching for SAR-Optical Registration

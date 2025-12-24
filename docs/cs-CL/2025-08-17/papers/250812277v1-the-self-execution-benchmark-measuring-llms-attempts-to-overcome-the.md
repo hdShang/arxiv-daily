@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Self-Execution Benchmark: Measuring LLMs' Attempts to Overcome Their Lack of Self-Execution
+title: "The Self-Execution Benchmark: Measuring LLMs' Attempts to Overcome Their Lack of Self-Execution"
 ---
 
 # The Self-Execution Benchmark: Measuring LLMs' Attempts to Overcome Their Lack of Self-Execution

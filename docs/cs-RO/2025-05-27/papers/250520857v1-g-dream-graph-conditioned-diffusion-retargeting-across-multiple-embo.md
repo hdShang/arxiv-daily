@@ -1,6 +1,6 @@
 ---
 layout: default
-title: G-DReaM: Graph-conditioned Diffusion Retargeting across Multiple Embodiments
+title: "G-DReaM: Graph-conditioned Diffusion Retargeting across Multiple Embodiments"
 ---
 
 # G-DReaM: Graph-conditioned Diffusion Retargeting across Multiple Embodiments

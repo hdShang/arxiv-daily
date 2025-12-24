@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CausalAbstain: Enhancing Multilingual LLMs with Causal Reasoning for Trustworthy Abstention
+title: "CausalAbstain: Enhancing Multilingual LLMs with Causal Reasoning for Trustworthy Abstention"
 ---
 
 # CausalAbstain: Enhancing Multilingual LLMs with Causal Reasoning for Trustworthy Abstention

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ATMS-KD: Adaptive Temperature and Mixed Sample Knowledge Distillation for a Lightweight Residual CNN in Agricultural Embedded Systems
+title: "ATMS-KD: Adaptive Temperature and Mixed Sample Knowledge Distillation for a Lightweight Residual CNN in Agricultural Embedded Systems"
 ---
 
 # ATMS-KD: Adaptive Temperature and Mixed Sample Knowledge Distillation for a Lightweight Residual CNN in Agricultural Embedded Systems

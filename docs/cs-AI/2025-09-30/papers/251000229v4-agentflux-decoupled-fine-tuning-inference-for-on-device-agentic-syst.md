@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AgentFlux: Decoupled Fine-Tuning & Inference for On-Device Agentic Systems
+title: "AgentFlux: Decoupled Fine-Tuning & Inference for On-Device Agentic Systems"
 ---
 
 # AgentFlux: Decoupled Fine-Tuning & Inference for On-Device Agentic Systems

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MVPBench: A Benchmark and Fine-Tuning Framework for Aligning Large Language Models with Diverse Human Values
+title: "MVPBench: A Benchmark and Fine-Tuning Framework for Aligning Large Language Models with Diverse Human Values"
 ---
 
 # MVPBench: A Benchmark and Fine-Tuning Framework for Aligning Large Language Models with Diverse Human Values

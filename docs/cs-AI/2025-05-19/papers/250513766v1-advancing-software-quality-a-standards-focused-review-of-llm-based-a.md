@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Advancing Software Quality: A Standards-Focused Review of LLM-Based Assurance Techniques
+title: "Advancing Software Quality: A Standards-Focused Review of LLM-Based Assurance Techniques"
 ---
 
 # Advancing Software Quality: A Standards-Focused Review of LLM-Based Assurance Techniques

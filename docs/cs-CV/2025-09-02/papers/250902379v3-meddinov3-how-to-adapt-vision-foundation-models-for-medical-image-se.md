@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MedDINOv3: How to adapt vision foundation models for medical image segmentation?
+title: "MedDINOv3: How to adapt vision foundation models for medical image segmentation?"
 ---
 
 # MedDINOv3: How to adapt vision foundation models for medical image segmentation?

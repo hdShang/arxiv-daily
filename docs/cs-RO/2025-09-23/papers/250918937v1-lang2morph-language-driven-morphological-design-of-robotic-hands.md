@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lang2Morph: Language-Driven Morphological Design of Robotic Hands
+title: "Lang2Morph: Language-Driven Morphological Design of Robotic Hands"
 ---
 
 # Lang2Morph: Language-Driven Morphological Design of Robotic Hands

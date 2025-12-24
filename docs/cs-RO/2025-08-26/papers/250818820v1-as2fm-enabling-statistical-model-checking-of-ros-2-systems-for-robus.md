@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AS2FM: Enabling Statistical Model Checking of ROS 2 Systems for Robust Autonomy
+title: "AS2FM: Enabling Statistical Model Checking of ROS 2 Systems for Robust Autonomy"
 ---
 
 # AS2FM: Enabling Statistical Model Checking of ROS 2 Systems for Robust Autonomy

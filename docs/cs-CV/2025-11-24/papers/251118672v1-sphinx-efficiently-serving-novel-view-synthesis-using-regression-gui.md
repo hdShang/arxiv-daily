@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sphinx: Efficiently Serving Novel View Synthesis using Regression-Guided Selective Refinement
+title: "Sphinx: Efficiently Serving Novel View Synthesis using Regression-Guided Selective Refinement"
 ---
 
 # Sphinx: Efficiently Serving Novel View Synthesis using Regression-Guided Selective Refinement

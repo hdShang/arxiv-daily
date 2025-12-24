@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JARVIS: A Multi-Agent Code Assistant for High-Quality EDA Script Generation
+title: "JARVIS: A Multi-Agent Code Assistant for High-Quality EDA Script Generation"
 ---
 
 # JARVIS: A Multi-Agent Code Assistant for High-Quality EDA Script Generation

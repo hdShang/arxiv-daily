@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ViTAD: Timing Violation-Aware Debugging of RTL Code using Large Language Models
+title: "ViTAD: Timing Violation-Aware Debugging of RTL Code using Large Language Models"
 ---
 
 # ViTAD: Timing Violation-Aware Debugging of RTL Code using Large Language Models

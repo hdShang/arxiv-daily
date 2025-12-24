@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AVCD: Mitigating Hallucinations in Audio-Visual Large Language Models through Contrastive Decoding
+title: "AVCD: Mitigating Hallucinations in Audio-Visual Large Language Models through Contrastive Decoding"
 ---
 
 # AVCD: Mitigating Hallucinations in Audio-Visual Large Language Models through Contrastive Decoding

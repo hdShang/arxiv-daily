@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SceneDesigner: Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation
+title: "SceneDesigner: Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation"
 ---
 
 # SceneDesigner: Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CasPoinTr: Point Cloud Completion with Cascaded Networks and Knowledge Distillation
+title: "CasPoinTr: Point Cloud Completion with Cascaded Networks and Knowledge Distillation"
 ---
 
 # CasPoinTr: Point Cloud Completion with Cascaded Networks and Knowledge Distillation

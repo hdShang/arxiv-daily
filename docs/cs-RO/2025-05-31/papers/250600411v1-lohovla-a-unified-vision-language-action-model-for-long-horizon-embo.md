@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LoHoVLA: A Unified Vision-Language-Action Model for Long-Horizon Embodied Tasks
+title: "LoHoVLA: A Unified Vision-Language-Action Model for Long-Horizon Embodied Tasks"
 ---
 
 # LoHoVLA: A Unified Vision-Language-Action Model for Long-Horizon Embodied Tasks

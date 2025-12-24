@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MapAnything: Universal Feed-Forward Metric 3D Reconstruction
+title: "MapAnything: Universal Feed-Forward Metric 3D Reconstruction"
 ---
 
 # MapAnything: Universal Feed-Forward Metric 3D Reconstruction

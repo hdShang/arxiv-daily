@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Not All Correct Answers Are Equal: Why Your Distillation Source Matters
+title: "Not All Correct Answers Are Equal: Why Your Distillation Source Matters"
 ---
 
 # Not All Correct Answers Are Equal: Why Your Distillation Source Matters

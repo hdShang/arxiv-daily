@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Good Weights: Proactive, Adaptive Dead Reckoning Fusion for Continuous and Robust Visual SLAM
+title: "Good Weights: Proactive, Adaptive Dead Reckoning Fusion for Continuous and Robust Visual SLAM"
 ---
 
 # Good Weights: Proactive, Adaptive Dead Reckoning Fusion for Continuous and Robust Visual SLAM

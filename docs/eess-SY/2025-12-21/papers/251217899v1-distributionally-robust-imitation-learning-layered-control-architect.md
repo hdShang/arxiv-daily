@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Distributionally Robust Imitation Learning: Layered Control Architecture for Certifiable Autonomy
+title: "Distributionally Robust Imitation Learning: Layered Control Architecture for Certifiable Autonomy"
 ---
 
 # Distributionally Robust Imitation Learning: Layered Control Architecture for Certifiable Autonomy

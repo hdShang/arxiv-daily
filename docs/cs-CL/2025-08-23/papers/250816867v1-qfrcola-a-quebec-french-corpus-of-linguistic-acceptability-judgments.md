@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QFrCoLA: a Quebec-French Corpus of Linguistic Acceptability Judgments
+title: "QFrCoLA: a Quebec-French Corpus of Linguistic Acceptability Judgments"
 ---
 
 # QFrCoLA: a Quebec-French Corpus of Linguistic Acceptability Judgments

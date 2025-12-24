@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TrumorGPT: Graph-Based Retrieval-Augmented Large Language Model for Fact-Checking
+title: "TrumorGPT: Graph-Based Retrieval-Augmented Large Language Model for Fact-Checking"
 ---
 
 # TrumorGPT: Graph-Based Retrieval-Augmented Large Language Model for Fact-Checking

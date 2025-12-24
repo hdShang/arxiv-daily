@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Acoustic and Machine Learning Methods for Speech-Based Suicide Risk Assessment: A Systematic Review
+title: "Acoustic and Machine Learning Methods for Speech-Based Suicide Risk Assessment: A Systematic Review"
 ---
 
 # Acoustic and Machine Learning Methods for Speech-Based Suicide Risk Assessment: A Systematic Review

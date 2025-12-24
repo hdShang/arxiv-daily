@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SRWToolkit: An Open Source Wizard of Oz Toolkit to Create Social Robotic Avatars
+title: "SRWToolkit: An Open Source Wizard of Oz Toolkit to Create Social Robotic Avatars"
 ---
 
 # SRWToolkit: An Open Source Wizard of Oz Toolkit to Create Social Robotic Avatars

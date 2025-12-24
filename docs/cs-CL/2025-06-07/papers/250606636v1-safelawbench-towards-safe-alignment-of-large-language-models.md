@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SafeLawBench: Towards Safe Alignment of Large Language Models
+title: "SafeLawBench: Towards Safe Alignment of Large Language Models"
 ---
 
 # SafeLawBench: Towards Safe Alignment of Large Language Models

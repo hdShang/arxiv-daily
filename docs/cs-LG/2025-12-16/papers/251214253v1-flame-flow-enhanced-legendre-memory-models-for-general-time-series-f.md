@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FLAME: Flow Enhanced Legendre Memory Models for General Time Series Forecasting
+title: "FLAME: Flow Enhanced Legendre Memory Models for General Time Series Forecasting"
 ---
 
 # FLAME: Flow Enhanced Legendre Memory Models for General Time Series Forecasting

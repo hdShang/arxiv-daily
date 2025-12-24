@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SpNeRF: Memory Efficient Sparse Volumetric Neural Rendering Accelerator for Edge Devices
+title: "SpNeRF: Memory Efficient Sparse Volumetric Neural Rendering Accelerator for Edge Devices"
 ---
 
 # SpNeRF: Memory Efficient Sparse Volumetric Neural Rendering Accelerator for Edge Devices

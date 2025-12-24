@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FOLK: Fast Open-Vocabulary 3D Instance Segmentation via Label-guided Knowledge Distillation
+title: "FOLK: Fast Open-Vocabulary 3D Instance Segmentation via Label-guided Knowledge Distillation"
 ---
 
 # FOLK: Fast Open-Vocabulary 3D Instance Segmentation via Label-guided Knowledge Distillation

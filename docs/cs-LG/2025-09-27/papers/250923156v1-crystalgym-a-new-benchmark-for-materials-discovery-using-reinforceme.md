@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CrystalGym: A New Benchmark for Materials Discovery Using Reinforcement Learning
+title: "CrystalGym: A New Benchmark for Materials Discovery Using Reinforcement Learning"
 ---
 
 # CrystalGym: A New Benchmark for Materials Discovery Using Reinforcement Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HumanGenesis: Agent-Based Geometric and Generative Modeling for Synthetic Human Dynamics
+title: "HumanGenesis: Agent-Based Geometric and Generative Modeling for Synthetic Human Dynamics"
 ---
 
 # HumanGenesis: Agent-Based Geometric and Generative Modeling for Synthetic Human Dynamics

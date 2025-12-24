@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniVTLA: Vision-Tactile-Language-Action Model with Semantic-Aligned Tactile Sensing
+title: "OmniVTLA: Vision-Tactile-Language-Action Model with Semantic-Aligned Tactile Sensing"
 ---
 
 # OmniVTLA: Vision-Tactile-Language-Action Model with Semantic-Aligned Tactile Sensing

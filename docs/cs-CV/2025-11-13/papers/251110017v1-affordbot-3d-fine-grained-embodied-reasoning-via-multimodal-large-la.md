@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models
+title: "AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models"
 ---
 
 # AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models

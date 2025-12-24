@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL
+title: "SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL"
 ---
 
 # SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL

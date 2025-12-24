@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Whispers of Many Shores: Cultural Alignment through Collaborative Cultural Expertise
+title: "Whispers of Many Shores: Cultural Alignment through Collaborative Cultural Expertise"
 ---
 
 # Whispers of Many Shores: Cultural Alignment through Collaborative Cultural Expertise

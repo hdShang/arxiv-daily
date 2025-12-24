@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thinking in Many Modes: How Composite Reasoning Elevates Large Language Model Performance with Limited Data
+title: "Thinking in Many Modes: How Composite Reasoning Elevates Large Language Model Performance with Limited Data"
 ---
 
 # Thinking in Many Modes: How Composite Reasoning Elevates Large Language Model Performance with Limited Data

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ServerlessLoRA: Minimizing Latency and Cost in Serverless Inference for LoRA-Based LLMs
+title: "ServerlessLoRA: Minimizing Latency and Cost in Serverless Inference for LoRA-Based LLMs"
 ---
 
 # ServerlessLoRA: Minimizing Latency and Cost in Serverless Inference for LoRA-Based LLMs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COCORELI: Cooperative, Compositional Reconstitution \& Execution of Language Instructions
+title: "COCORELI: Cooperative, Compositional Reconstitution \\& Execution of Language Instructions"
 ---
 
 # COCORELI: Cooperative, Compositional Reconstitution \& Execution of Language Instructions

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ChartGen: Scaling Chart Understanding Via Code-Guided Synthetic Chart Generation
+title: "ChartGen: Scaling Chart Understanding Via Code-Guided Synthetic Chart Generation"
 ---
 
 # ChartGen: Scaling Chart Understanding Via Code-Guided Synthetic Chart Generation

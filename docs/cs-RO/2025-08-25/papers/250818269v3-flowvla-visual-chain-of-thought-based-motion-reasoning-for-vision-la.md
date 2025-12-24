@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FlowVLA: Visual Chain of Thought-based Motion Reasoning for Vision-Language-Action Models
+title: "FlowVLA: Visual Chain of Thought-based Motion Reasoning for Vision-Language-Action Models"
 ---
 
 # FlowVLA: Visual Chain of Thought-based Motion Reasoning for Vision-Language-Action Models

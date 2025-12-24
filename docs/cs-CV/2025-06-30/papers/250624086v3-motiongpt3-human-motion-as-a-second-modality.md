@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MotionGPT3: Human Motion as a Second Modality
+title: "MotionGPT3: Human Motion as a Second Modality"
 ---
 
 # MotionGPT3: Human Motion as a Second Modality

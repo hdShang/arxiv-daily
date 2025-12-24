@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gatsby Without the 'E': Crafting Lipograms with LLMs
+title: "Gatsby Without the 'E': Crafting Lipograms with LLMs"
 ---
 
 # Gatsby Without the 'E': Crafting Lipograms with LLMs

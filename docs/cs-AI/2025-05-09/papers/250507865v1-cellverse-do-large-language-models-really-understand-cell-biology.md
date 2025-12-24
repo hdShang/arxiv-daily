@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CellVerse: Do Large Language Models Really Understand Cell Biology?
+title: "CellVerse: Do Large Language Models Really Understand Cell Biology?"
 ---
 
 # CellVerse: Do Large Language Models Really Understand Cell Biology?

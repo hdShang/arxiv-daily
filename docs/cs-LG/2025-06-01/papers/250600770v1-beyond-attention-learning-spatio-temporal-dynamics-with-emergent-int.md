@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Attention: Learning Spatio-Temporal Dynamics with Emergent Interpretable Topologies
+title: "Beyond Attention: Learning Spatio-Temporal Dynamics with Emergent Interpretable Topologies"
 ---
 
 # Beyond Attention: Learning Spatio-Temporal Dynamics with Emergent Interpretable Topologies

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SecureFixAgent: A Hybrid LLM Agent for Automated Python Static Vulnerability Repair
+title: "SecureFixAgent: A Hybrid LLM Agent for Automated Python Static Vulnerability Repair"
 ---
 
 # SecureFixAgent: A Hybrid LLM Agent for Automated Python Static Vulnerability Repair

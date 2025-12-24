@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GrowSplat: Constructing Temporal Digital Twins of Plants with Gaussian Splats
+title: "GrowSplat: Constructing Temporal Digital Twins of Plants with Gaussian Splats"
 ---
 
 # GrowSplat: Constructing Temporal Digital Twins of Plants with Gaussian Splats

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Compose by Focus: Scene Graph-based Atomic Skills
+title: "Compose by Focus: Scene Graph-based Atomic Skills"
 ---
 
 # Compose by Focus: Scene Graph-based Atomic Skills

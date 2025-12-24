@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PuzzlePoles: Cylindrical Fiducial Markers Based on the PuzzleBoard Pattern
+title: "PuzzlePoles: Cylindrical Fiducial Markers Based on the PuzzleBoard Pattern"
 ---
 
 # PuzzlePoles: Cylindrical Fiducial Markers Based on the PuzzleBoard Pattern

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ALLabel: Three-stage Active Learning for LLM-based Entity Recognition using Demonstration Retrieval
+title: "ALLabel: Three-stage Active Learning for LLM-based Entity Recognition using Demonstration Retrieval"
 ---
 
 # ALLabel: Three-stage Active Learning for LLM-based Entity Recognition using Demonstration Retrieval

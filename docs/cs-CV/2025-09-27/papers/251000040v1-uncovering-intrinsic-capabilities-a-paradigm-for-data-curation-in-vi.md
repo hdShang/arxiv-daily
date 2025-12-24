@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Uncovering Intrinsic Capabilities: A Paradigm for Data Curation in Vision-Language Models
+title: "Uncovering Intrinsic Capabilities: A Paradigm for Data Curation in Vision-Language Models"
 ---
 
 # Uncovering Intrinsic Capabilities: A Paradigm for Data Curation in Vision-Language Models

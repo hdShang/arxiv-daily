@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VGGT4D: Mining Motion Cues in Visual Geometry Transformers for 4D Scene Reconstruction
+title: "VGGT4D: Mining Motion Cues in Visual Geometry Transformers for 4D Scene Reconstruction"
 ---
 
 # VGGT4D: Mining Motion Cues in Visual Geometry Transformers for 4D Scene Reconstruction

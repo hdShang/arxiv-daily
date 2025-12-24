@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COIN: Uncertainty-Guarding Selective Question Answering for Foundation Models with Provable Risk Guarantees
+title: "COIN: Uncertainty-Guarding Selective Question Answering for Foundation Models with Provable Risk Guarantees"
 ---
 
 # COIN: Uncertainty-Guarding Selective Question Answering for Foundation Models with Provable Risk Guarantees

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Linear Probes: Dynamic Safety Monitoring for Language Models
+title: "Beyond Linear Probes: Dynamic Safety Monitoring for Language Models"
 ---
 
 # Beyond Linear Probes: Dynamic Safety Monitoring for Language Models

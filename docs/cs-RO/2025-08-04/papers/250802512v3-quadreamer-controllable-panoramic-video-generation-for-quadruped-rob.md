@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QuaDreamer: Controllable Panoramic Video Generation for Quadruped Robots
+title: "QuaDreamer: Controllable Panoramic Video Generation for Quadruped Robots"
 ---
 
 # QuaDreamer: Controllable Panoramic Video Generation for Quadruped Robots

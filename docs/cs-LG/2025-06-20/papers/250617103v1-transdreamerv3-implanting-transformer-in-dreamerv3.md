@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TransDreamerV3: Implanting Transformer In DreamerV3
+title: "TransDreamerV3: Implanting Transformer In DreamerV3"
 ---
 
 # TransDreamerV3: Implanting Transformer In DreamerV3

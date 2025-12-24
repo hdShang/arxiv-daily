@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Distracted Robot: How Visual Clutter Undermine Robotic Manipulation
+title: "Distracted Robot: How Visual Clutter Undermine Robotic Manipulation"
 ---
 
 # Distracted Robot: How Visual Clutter Undermine Robotic Manipulation

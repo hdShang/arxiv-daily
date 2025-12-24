@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reasoning Efficiently Through Adaptive Chain-of-Thought Compression: A Self-Optimizing Framework
+title: "Reasoning Efficiently Through Adaptive Chain-of-Thought Compression: A Self-Optimizing Framework"
 ---
 
 # Reasoning Efficiently Through Adaptive Chain-of-Thought Compression: A Self-Optimizing Framework

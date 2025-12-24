@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Small Drafts, Big Verdict: Information-Intensive Visual Reasoning via Speculation
+title: "Small Drafts, Big Verdict: Information-Intensive Visual Reasoning via Speculation"
 ---
 
 # Small Drafts, Big Verdict: Information-Intensive Visual Reasoning via Speculation

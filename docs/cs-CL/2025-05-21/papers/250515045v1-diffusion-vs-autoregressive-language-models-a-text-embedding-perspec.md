@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Diffusion vs. Autoregressive Language Models: A Text Embedding Perspective
+title: "Diffusion vs. Autoregressive Language Models: A Text Embedding Perspective"
 ---
 
 # Diffusion vs. Autoregressive Language Models: A Text Embedding Perspective

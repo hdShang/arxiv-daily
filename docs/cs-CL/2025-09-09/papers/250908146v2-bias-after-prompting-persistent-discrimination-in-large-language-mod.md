@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bias after Prompting: Persistent Discrimination in Large Language Models
+title: "Bias after Prompting: Persistent Discrimination in Large Language Models"
 ---
 
 # Bias after Prompting: Persistent Discrimination in Large Language Models

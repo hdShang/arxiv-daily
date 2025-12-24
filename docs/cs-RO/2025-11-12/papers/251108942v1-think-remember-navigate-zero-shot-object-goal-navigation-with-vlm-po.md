@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Think, Remember, Navigate: Zero-Shot Object-Goal Navigation with VLM-Powered Reasoning
+title: "Think, Remember, Navigate: Zero-Shot Object-Goal Navigation with VLM-Powered Reasoning"
 ---
 
 # Think, Remember, Navigate: Zero-Shot Object-Goal Navigation with VLM-Powered Reasoning

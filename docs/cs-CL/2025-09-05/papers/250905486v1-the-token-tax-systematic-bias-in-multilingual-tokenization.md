@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Token Tax: Systematic Bias in Multilingual Tokenization
+title: "The Token Tax: Systematic Bias in Multilingual Tokenization"
 ---
 
 # The Token Tax: Systematic Bias in Multilingual Tokenization

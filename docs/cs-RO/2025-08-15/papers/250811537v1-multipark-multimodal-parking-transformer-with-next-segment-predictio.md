@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MultiPark: Multimodal Parking Transformer with Next-Segment Prediction
+title: "MultiPark: Multimodal Parking Transformer with Next-Segment Prediction"
 ---
 
 # MultiPark: Multimodal Parking Transformer with Next-Segment Prediction

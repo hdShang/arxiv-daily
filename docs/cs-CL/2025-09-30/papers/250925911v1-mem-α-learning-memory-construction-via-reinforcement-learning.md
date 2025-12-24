@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mem-α: Learning Memory Construction via Reinforcement Learning
+title: "Mem-α: Learning Memory Construction via Reinforcement Learning"
 ---
 
 # Mem-α: Learning Memory Construction via Reinforcement Learning

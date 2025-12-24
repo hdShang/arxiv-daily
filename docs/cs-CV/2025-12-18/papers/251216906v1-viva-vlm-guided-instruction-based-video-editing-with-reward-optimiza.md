@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VIVA: VLM-Guided Instruction-Based Video Editing with Reward Optimization
+title: "VIVA: VLM-Guided Instruction-Based Video Editing with Reward Optimization"
 ---
 
 # VIVA: VLM-Guided Instruction-Based Video Editing with Reward Optimization

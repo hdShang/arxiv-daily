@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LVT: Large-Scale Scene Reconstruction via Local View Transformers
+title: "LVT: Large-Scale Scene Reconstruction via Local View Transformers"
 ---
 
 # LVT: Large-Scale Scene Reconstruction via Local View Transformers

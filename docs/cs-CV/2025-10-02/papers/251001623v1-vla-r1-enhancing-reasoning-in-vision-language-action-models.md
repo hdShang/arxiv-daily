@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VLA-R1: Enhancing Reasoning in Vision-Language-Action Models
+title: "VLA-R1: Enhancing Reasoning in Vision-Language-Action Models"
 ---
 
 # VLA-R1: Enhancing Reasoning in Vision-Language-Action Models

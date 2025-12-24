@@ -1,6 +1,6 @@
 ---
 layout: default
-title: STU-PID: Steering Token Usage via PID Controller for Efficient Large Language Model Reasoning
+title: "STU-PID: Steering Token Usage via PID Controller for Efficient Large Language Model Reasoning"
 ---
 
 # STU-PID: Steering Token Usage via PID Controller for Efficient Large Language Model Reasoning

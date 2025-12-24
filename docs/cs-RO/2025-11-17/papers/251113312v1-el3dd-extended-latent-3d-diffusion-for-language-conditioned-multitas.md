@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EL3DD: Extended Latent 3D Diffusion for Language Conditioned Multitask Manipulation
+title: "EL3DD: Extended Latent 3D Diffusion for Language Conditioned Multitask Manipulation"
 ---
 
 # EL3DD: Extended Latent 3D Diffusion for Language Conditioned Multitask Manipulation

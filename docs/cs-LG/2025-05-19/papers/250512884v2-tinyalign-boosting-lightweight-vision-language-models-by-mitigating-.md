@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TinyAlign: Boosting Lightweight Vision-Language Models by Mitigating Modal Alignment Bottlenecks
+title: "TinyAlign: Boosting Lightweight Vision-Language Models by Mitigating Modal Alignment Bottlenecks"
 ---
 
 # TinyAlign: Boosting Lightweight Vision-Language Models by Mitigating Modal Alignment Bottlenecks

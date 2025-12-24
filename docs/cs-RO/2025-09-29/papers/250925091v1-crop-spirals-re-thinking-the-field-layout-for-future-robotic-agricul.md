@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Crop Spirals: Re-thinking the field layout for future robotic agriculture
+title: "Crop Spirals: Re-thinking the field layout for future robotic agriculture"
 ---
 
 # Crop Spirals: Re-thinking the field layout for future robotic agriculture

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VK-Det: Visual Knowledge Guided Prototype Learning for Open-Vocabulary Aerial Object Detection
+title: "VK-Det: Visual Knowledge Guided Prototype Learning for Open-Vocabulary Aerial Object Detection"
 ---
 
 # VK-Det: Visual Knowledge Guided Prototype Learning for Open-Vocabulary Aerial Object Detection

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MAS-KCL: Knowledge component graph structure learning with large language model-based agentic workflow
+title: "MAS-KCL: Knowledge component graph structure learning with large language model-based agentic workflow"
 ---
 
 # MAS-KCL: Knowledge component graph structure learning with large language model-based agentic workflow

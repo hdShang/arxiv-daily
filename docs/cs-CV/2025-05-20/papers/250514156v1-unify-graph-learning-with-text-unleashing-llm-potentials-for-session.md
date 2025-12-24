@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unify Graph Learning with Text: Unleashing LLM Potentials for Session Search
+title: "Unify Graph Learning with Text: Unleashing LLM Potentials for Session Search"
 ---
 
 # Unify Graph Learning with Text: Unleashing LLM Potentials for Session Search

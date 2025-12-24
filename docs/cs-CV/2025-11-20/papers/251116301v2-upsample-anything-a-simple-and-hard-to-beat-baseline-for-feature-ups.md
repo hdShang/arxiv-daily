@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling
+title: "Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling"
 ---
 
 # Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling

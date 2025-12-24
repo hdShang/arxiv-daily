@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLMsPark: A Benchmark for Evaluating Large Language Models in Strategic Gaming Contexts
+title: "LLMsPark: A Benchmark for Evaluating Large Language Models in Strategic Gaming Contexts"
 ---
 
 # LLMsPark: A Benchmark for Evaluating Large Language Models in Strategic Gaming Contexts

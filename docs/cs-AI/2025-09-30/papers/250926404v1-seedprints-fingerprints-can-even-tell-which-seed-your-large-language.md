@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SeedPrints: Fingerprints Can Even Tell Which Seed Your Large Language Model Was Trained From
+title: "SeedPrints: Fingerprints Can Even Tell Which Seed Your Large Language Model Was Trained From"
 ---
 
 # SeedPrints: Fingerprints Can Even Tell Which Seed Your Large Language Model Was Trained From

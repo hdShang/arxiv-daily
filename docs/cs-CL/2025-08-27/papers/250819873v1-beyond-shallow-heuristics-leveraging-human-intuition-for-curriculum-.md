@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Shallow Heuristics: Leveraging Human Intuition for Curriculum Learning
+title: "Beyond Shallow Heuristics: Leveraging Human Intuition for Curriculum Learning"
 ---
 
 # Beyond Shallow Heuristics: Leveraging Human Intuition for Curriculum Learning

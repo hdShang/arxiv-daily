@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniECS: Unified Multimodal E-Commerce Search Framework with Gated Cross-modal Fusion
+title: "UniECS: Unified Multimodal E-Commerce Search Framework with Gated Cross-modal Fusion"
 ---
 
 # UniECS: Unified Multimodal E-Commerce Search Framework with Gated Cross-modal Fusion

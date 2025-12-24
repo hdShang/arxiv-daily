@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MITS: A Large-Scale Multimodal Benchmark Dataset for Intelligent Traffic Surveillance
+title: "MITS: A Large-Scale Multimodal Benchmark Dataset for Intelligent Traffic Surveillance"
 ---
 
 # MITS: A Large-Scale Multimodal Benchmark Dataset for Intelligent Traffic Surveillance

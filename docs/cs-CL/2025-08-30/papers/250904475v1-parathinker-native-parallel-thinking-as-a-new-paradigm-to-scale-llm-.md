@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ParaThinker: Native Parallel Thinking as a New Paradigm to Scale LLM Test-time Compute
+title: "ParaThinker: Native Parallel Thinking as a New Paradigm to Scale LLM Test-time Compute"
 ---
 
 # ParaThinker: Native Parallel Thinking as a New Paradigm to Scale LLM Test-time Compute

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ExpVG: Investigating the Design Space of Visual Grounding in Multimodal Large Language Model
+title: "ExpVG: Investigating the Design Space of Visual Grounding in Multimodal Large Language Model"
 ---
 
 # ExpVG: Investigating the Design Space of Visual Grounding in Multimodal Large Language Model

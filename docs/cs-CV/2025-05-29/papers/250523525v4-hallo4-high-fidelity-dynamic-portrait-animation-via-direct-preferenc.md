@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hallo4: High-Fidelity Dynamic Portrait Animation via Direct Preference Optimization
+title: "Hallo4: High-Fidelity Dynamic Portrait Animation via Direct Preference Optimization"
 ---
 
 # Hallo4: High-Fidelity Dynamic Portrait Animation via Direct Preference Optimization

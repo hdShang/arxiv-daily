@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation
+title: "RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation"
 ---
 
 # RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation

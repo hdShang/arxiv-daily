@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rad-GS: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments
+title: "Rad-GS: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments"
 ---
 
 # Rad-GS: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments

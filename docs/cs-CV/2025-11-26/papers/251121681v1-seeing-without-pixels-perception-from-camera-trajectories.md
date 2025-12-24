@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seeing without Pixels: Perception from Camera Trajectories
+title: "Seeing without Pixels: Perception from Camera Trajectories"
 ---
 
 # Seeing without Pixels: Perception from Camera Trajectories

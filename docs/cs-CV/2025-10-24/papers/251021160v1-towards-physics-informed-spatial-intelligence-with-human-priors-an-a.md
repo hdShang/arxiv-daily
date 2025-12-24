@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Physics-informed Spatial Intelligence with Human Priors: An Autonomous Driving Pilot Study
+title: "Towards Physics-informed Spatial Intelligence with Human Priors: An Autonomous Driving Pilot Study"
 ---
 
 # Towards Physics-informed Spatial Intelligence with Human Priors: An Autonomous Driving Pilot Study

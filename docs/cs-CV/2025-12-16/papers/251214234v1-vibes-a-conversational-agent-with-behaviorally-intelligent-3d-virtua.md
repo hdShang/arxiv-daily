@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ViBES: A Conversational Agent with Behaviorally-Intelligent 3D Virtual Body
+title: "ViBES: A Conversational Agent with Behaviorally-Intelligent 3D Virtual Body"
 ---
 
 # ViBES: A Conversational Agent with Behaviorally-Intelligent 3D Virtual Body

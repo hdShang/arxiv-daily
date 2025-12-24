@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Analysing Chain of Thought Dynamics: Active Guidance or Unfaithful Post-hoc Rationalisation?
+title: "Analysing Chain of Thought Dynamics: Active Guidance or Unfaithful Post-hoc Rationalisation?"
 ---
 
 # Analysing Chain of Thought Dynamics: Active Guidance or Unfaithful Post-hoc Rationalisation?

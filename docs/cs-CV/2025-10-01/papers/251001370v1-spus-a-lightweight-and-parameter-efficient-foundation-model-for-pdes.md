@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SPUS: A Lightweight and Parameter-Efficient Foundation Model for PDEs
+title: "SPUS: A Lightweight and Parameter-Efficient Foundation Model for PDEs"
 ---
 
 # SPUS: A Lightweight and Parameter-Efficient Foundation Model for PDEs

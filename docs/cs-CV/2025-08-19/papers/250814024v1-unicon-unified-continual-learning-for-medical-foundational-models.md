@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UNICON: UNIfied CONtinual Learning for Medical Foundational Models
+title: "UNICON: UNIfied CONtinual Learning for Medical Foundational Models"
 ---
 
 # UNICON: UNIfied CONtinual Learning for Medical Foundational Models

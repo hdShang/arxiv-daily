@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval
+title: "HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval"
 ---
 
 # HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval

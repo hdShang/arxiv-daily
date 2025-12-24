@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reasoning Isn't Enough: Examining Truth-Bias and Sycophancy in LLMs
+title: "Reasoning Isn't Enough: Examining Truth-Bias and Sycophancy in LLMs"
 ---
 
 # Reasoning Isn't Enough: Examining Truth-Bias and Sycophancy in LLMs

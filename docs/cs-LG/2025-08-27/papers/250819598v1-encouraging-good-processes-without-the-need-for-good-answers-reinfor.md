@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Encouraging Good Processes Without the Need for Good Answers: Reinforcement Learning for LLM Agent Planning
+title: "Encouraging Good Processes Without the Need for Good Answers: Reinforcement Learning for LLM Agent Planning"
 ---
 
 # Encouraging Good Processes Without the Need for Good Answers: Reinforcement Learning for LLM Agent Planning

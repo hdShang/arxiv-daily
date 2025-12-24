@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NGD: Neural Gradient Based Deformation for Monocular Garment Reconstruction
+title: "NGD: Neural Gradient Based Deformation for Monocular Garment Reconstruction"
 ---
 
 # NGD: Neural Gradient Based Deformation for Monocular Garment Reconstruction

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KIT's Offline Speech Translation and Instruction Following Submission for IWSLT 2025
+title: "KIT's Offline Speech Translation and Instruction Following Submission for IWSLT 2025"
 ---
 
 # KIT's Offline Speech Translation and Instruction Following Submission for IWSLT 2025

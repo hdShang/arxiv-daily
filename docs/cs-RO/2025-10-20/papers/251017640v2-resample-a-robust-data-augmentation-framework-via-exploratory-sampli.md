@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation
+title: "RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation"
 ---
 
 # RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation

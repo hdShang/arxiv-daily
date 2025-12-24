@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GLUE: Global-Local Unified Encoding for Imitation Learning via Key-Patch Tracking
+title: "GLUE: Global-Local Unified Encoding for Imitation Learning via Key-Patch Tracking"
 ---
 
 # GLUE: Global-Local Unified Encoding for Imitation Learning via Key-Patch Tracking

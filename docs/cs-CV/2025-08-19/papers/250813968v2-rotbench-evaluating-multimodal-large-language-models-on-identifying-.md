@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RotBench: Evaluating Multimodal Large Language Models on Identifying Image Rotation
+title: "RotBench: Evaluating Multimodal Large Language Models on Identifying Image Rotation"
 ---
 
 # RotBench: Evaluating Multimodal Large Language Models on Identifying Image Rotation

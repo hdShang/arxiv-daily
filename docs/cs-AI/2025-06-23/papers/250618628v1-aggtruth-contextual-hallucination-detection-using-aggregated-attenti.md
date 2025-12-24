@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AggTruth: Contextual Hallucination Detection using Aggregated Attention Scores in LLMs
+title: "AggTruth: Contextual Hallucination Detection using Aggregated Attention Scores in LLMs"
 ---
 
 # AggTruth: Contextual Hallucination Detection using Aggregated Attention Scores in LLMs

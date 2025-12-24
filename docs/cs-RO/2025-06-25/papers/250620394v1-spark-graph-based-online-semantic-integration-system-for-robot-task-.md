@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SPARK: Graph-Based Online Semantic Integration System for Robot Task Planning
+title: "SPARK: Graph-Based Online Semantic Integration System for Robot Task Planning"
 ---
 
 # SPARK: Graph-Based Online Semantic Integration System for Robot Task Planning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Factual Self-Awareness in Language Models: Representation, Robustness, and Scaling
+title: "Factual Self-Awareness in Language Models: Representation, Robustness, and Scaling"
 ---
 
 # Factual Self-Awareness in Language Models: Representation, Robustness, and Scaling

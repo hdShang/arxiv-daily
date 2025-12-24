@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gala: Global LLM Agents for Text-to-Model Translation
+title: "Gala: Global LLM Agents for Text-to-Model Translation"
 ---
 
 # Gala: Global LLM Agents for Text-to-Model Translation

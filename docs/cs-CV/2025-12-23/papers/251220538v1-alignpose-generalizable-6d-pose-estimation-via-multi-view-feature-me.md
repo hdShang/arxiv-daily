@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AlignPose: Generalizable 6D Pose Estimation via Multi-view Feature-metric Alignment
+title: "AlignPose: Generalizable 6D Pose Estimation via Multi-view Feature-metric Alignment"
 ---
 
 # AlignPose: Generalizable 6D Pose Estimation via Multi-view Feature-metric Alignment

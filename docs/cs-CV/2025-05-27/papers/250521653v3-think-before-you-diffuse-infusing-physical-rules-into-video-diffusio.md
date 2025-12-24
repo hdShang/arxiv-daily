@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Think Before You Diffuse: Infusing Physical Rules into Video Diffusion
+title: "Think Before You Diffuse: Infusing Physical Rules into Video Diffusion"
 ---
 
 # Think Before You Diffuse: Infusing Physical Rules into Video Diffusion

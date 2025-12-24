@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FlexQ: Efficient Post-training INT6 Quantization for LLM Serving via Algorithm-System Co-Design
+title: "FlexQ: Efficient Post-training INT6 Quantization for LLM Serving via Algorithm-System Co-Design"
 ---
 
 # FlexQ: Efficient Post-training INT6 Quantization for LLM Serving via Algorithm-System Co-Design

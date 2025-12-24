@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RE$^2$: Improving Chinese Grammatical Error Correction via Retrieving Appropriate Examples with Explanation
+title: "RE$^2$: Improving Chinese Grammatical Error Correction via Retrieving Appropriate Examples with Explanation"
 ---
 
 # RE$^2$: Improving Chinese Grammatical Error Correction via Retrieving Appropriate Examples with Explanation

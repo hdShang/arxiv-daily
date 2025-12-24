@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MV-Performer: Taming Video Diffusion Model for Faithful and Synchronized Multi-view Performer Synthesis
+title: "MV-Performer: Taming Video Diffusion Model for Faithful and Synchronized Multi-view Performer Synthesis"
 ---
 
 # MV-Performer: Taming Video Diffusion Model for Faithful and Synchronized Multi-view Performer Synthesis

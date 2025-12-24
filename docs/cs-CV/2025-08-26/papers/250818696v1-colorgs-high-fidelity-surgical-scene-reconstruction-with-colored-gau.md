@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ColorGS: High-fidelity Surgical Scene Reconstruction with Colored Gaussian Splatting
+title: "ColorGS: High-fidelity Surgical Scene Reconstruction with Colored Gaussian Splatting"
 ---
 
 # ColorGS: High-fidelity Surgical Scene Reconstruction with Colored Gaussian Splatting

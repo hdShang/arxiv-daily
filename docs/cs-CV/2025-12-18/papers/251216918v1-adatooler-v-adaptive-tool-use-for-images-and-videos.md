@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AdaTooler-V: Adaptive Tool-Use for Images and Videos
+title: "AdaTooler-V: Adaptive Tool-Use for Images and Videos"
 ---
 
 # AdaTooler-V: Adaptive Tool-Use for Images and Videos

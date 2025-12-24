@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Formal Semantics for Capabilities and Skills: Model Context Protocol in Manufacturing
+title: "Beyond Formal Semantics for Capabilities and Skills: Model Context Protocol in Manufacturing"
 ---
 
 # Beyond Formal Semantics for Capabilities and Skills: Model Context Protocol in Manufacturing

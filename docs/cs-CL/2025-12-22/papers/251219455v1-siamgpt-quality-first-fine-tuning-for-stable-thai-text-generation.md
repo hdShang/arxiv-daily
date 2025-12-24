@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SiamGPT: Quality-First Fine-Tuning for Stable Thai Text Generation
+title: "SiamGPT: Quality-First Fine-Tuning for Stable Thai Text Generation"
 ---
 
 # SiamGPT: Quality-First Fine-Tuning for Stable Thai Text Generation

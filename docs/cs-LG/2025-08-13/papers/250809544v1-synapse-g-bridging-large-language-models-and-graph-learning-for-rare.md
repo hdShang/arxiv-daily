@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SYNAPSE-G: Bridging Large Language Models and Graph Learning for Rare Event Classification
+title: "SYNAPSE-G: Bridging Large Language Models and Graph Learning for Rare Event Classification"
 ---
 
 # SYNAPSE-G: Bridging Large Language Models and Graph Learning for Rare Event Classification

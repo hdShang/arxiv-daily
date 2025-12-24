@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes
+title: "Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes"
 ---
 
 # Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes

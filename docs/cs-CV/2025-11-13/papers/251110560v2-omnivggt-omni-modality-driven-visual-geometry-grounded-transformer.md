@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer
+title: "OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer"
 ---
 
 # OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer

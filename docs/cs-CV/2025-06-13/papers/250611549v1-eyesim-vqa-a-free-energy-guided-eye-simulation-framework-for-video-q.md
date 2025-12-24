@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EyeSim-VQA: A Free-Energy-Guided Eye Simulation Framework for Video Quality Assessment
+title: "EyeSim-VQA: A Free-Energy-Guided Eye Simulation Framework for Video Quality Assessment"
 ---
 
 # EyeSim-VQA: A Free-Energy-Guided Eye Simulation Framework for Video Quality Assessment

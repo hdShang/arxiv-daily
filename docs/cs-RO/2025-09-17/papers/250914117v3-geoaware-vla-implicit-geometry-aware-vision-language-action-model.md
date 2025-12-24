@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GeoAware-VLA: Implicit Geometry Aware Vision-Language-Action Model
+title: "GeoAware-VLA: Implicit Geometry Aware Vision-Language-Action Model"
 ---
 
 # GeoAware-VLA: Implicit Geometry Aware Vision-Language-Action Model

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Temporal User Profiling with LLMs: Balancing Short-Term and Long-Term Preferences for Recommendations
+title: "Temporal User Profiling with LLMs: Balancing Short-Term and Long-Term Preferences for Recommendations"
 ---
 
 # Temporal User Profiling with LLMs: Balancing Short-Term and Long-Term Preferences for Recommendations

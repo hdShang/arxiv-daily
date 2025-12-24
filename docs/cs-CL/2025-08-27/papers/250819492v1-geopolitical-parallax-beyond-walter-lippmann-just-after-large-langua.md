@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Geopolitical Parallax: Beyond Walter Lippmann Just After Large Language Models
+title: "Geopolitical Parallax: Beyond Walter Lippmann Just After Large Language Models"
 ---
 
 # Geopolitical Parallax: Beyond Walter Lippmann Just After Large Language Models

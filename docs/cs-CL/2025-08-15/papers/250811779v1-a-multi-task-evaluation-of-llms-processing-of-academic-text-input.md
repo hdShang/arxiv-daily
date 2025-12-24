@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Multi-Task Evaluation of LLMs' Processing of Academic Text Input
+title: "A Multi-Task Evaluation of LLMs' Processing of Academic Text Input"
 ---
 
 # A Multi-Task Evaluation of LLMs' Processing of Academic Text Input

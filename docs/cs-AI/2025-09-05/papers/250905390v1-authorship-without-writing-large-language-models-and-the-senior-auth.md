@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Authorship Without Writing: Large Language Models and the Senior Author Analogy
+title: "Authorship Without Writing: Large Language Models and the Senior Author Analogy"
 ---
 
 # Authorship Without Writing: Large Language Models and the Senior Author Analogy

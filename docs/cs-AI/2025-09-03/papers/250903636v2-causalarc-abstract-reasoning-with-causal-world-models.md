@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CausalARC: Abstract Reasoning with Causal World Models
+title: "CausalARC: Abstract Reasoning with Causal World Models"
 ---
 
 # CausalARC: Abstract Reasoning with Causal World Models

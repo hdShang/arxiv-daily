@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoGIC: Boosting Motion Generation via Intention Understanding and Visual Context
+title: "MoGIC: Boosting Motion Generation via Intention Understanding and Visual Context"
 ---
 
 # MoGIC: Boosting Motion Generation via Intention Understanding and Visual Context

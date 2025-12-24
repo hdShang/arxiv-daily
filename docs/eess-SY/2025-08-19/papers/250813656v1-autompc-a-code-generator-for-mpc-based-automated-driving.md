@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AutoMPC: A Code Generator for MPC-based Automated Driving
+title: "AutoMPC: A Code Generator for MPC-based Automated Driving"
 ---
 
 # AutoMPC: A Code Generator for MPC-based Automated Driving

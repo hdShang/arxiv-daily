@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Start Small, Think Big: Curriculum-based Relative Policy Optimization for Visual Grounding
+title: "Start Small, Think Big: Curriculum-based Relative Policy Optimization for Visual Grounding"
 ---
 
 # Start Small, Think Big: Curriculum-based Relative Policy Optimization for Visual Grounding

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Robust-R1: Degradation-Aware Reasoning for Robust Visual Understanding
+title: "Robust-R1: Degradation-Aware Reasoning for Robust Visual Understanding"
 ---
 
 # Robust-R1: Degradation-Aware Reasoning for Robust Visual Understanding

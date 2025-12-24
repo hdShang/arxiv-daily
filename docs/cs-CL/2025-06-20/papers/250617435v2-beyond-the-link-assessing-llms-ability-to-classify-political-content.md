@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond the Link: Assessing LLMs' ability to Classify Political Content across Global Media
+title: "Beyond the Link: Assessing LLMs' ability to Classify Political Content across Global Media"
 ---
 
 # Beyond the Link: Assessing LLMs' ability to Classify Political Content across Global Media

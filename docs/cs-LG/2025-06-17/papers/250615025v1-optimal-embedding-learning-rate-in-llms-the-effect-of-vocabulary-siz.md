@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Optimal Embedding Learning Rate in LLMs: The Effect of Vocabulary Size
+title: "Optimal Embedding Learning Rate in LLMs: The Effect of Vocabulary Size"
 ---
 
 # Optimal Embedding Learning Rate in LLMs: The Effect of Vocabulary Size

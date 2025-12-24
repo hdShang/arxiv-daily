@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Web-CogReasoner: Towards Knowledge-Induced Cognitive Reasoning for Web Agents
+title: "Web-CogReasoner: Towards Knowledge-Induced Cognitive Reasoning for Web Agents"
 ---
 
 # Web-CogReasoner: Towards Knowledge-Induced Cognitive Reasoning for Web Agents

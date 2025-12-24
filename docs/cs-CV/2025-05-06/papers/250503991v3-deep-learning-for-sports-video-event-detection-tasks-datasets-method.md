@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deep Learning for Sports Video Event Detection: Tasks, Datasets, Methods, and Challenges
+title: "Deep Learning for Sports Video Event Detection: Tasks, Datasets, Methods, and Challenges"
 ---
 
 # Deep Learning for Sports Video Event Detection: Tasks, Datasets, Methods, and Challenges

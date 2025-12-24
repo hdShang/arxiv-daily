@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RECODE: Reasoning Through Code Generation for Visual Question Answering
+title: "RECODE: Reasoning Through Code Generation for Visual Question Answering"
 ---
 
 # RECODE: Reasoning Through Code Generation for Visual Question Answering

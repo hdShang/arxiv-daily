@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TensorSLM: Energy-efficient Embedding Compression of Sub-billion Parameter Language Models on Low-end Devices
+title: "TensorSLM: Energy-efficient Embedding Compression of Sub-billion Parameter Language Models on Low-end Devices"
 ---
 
 # TensorSLM: Energy-efficient Embedding Compression of Sub-billion Parameter Language Models on Low-end Devices

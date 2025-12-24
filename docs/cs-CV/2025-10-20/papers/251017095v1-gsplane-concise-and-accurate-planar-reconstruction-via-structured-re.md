@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GSPlane: Concise and Accurate Planar Reconstruction via Structured Representation
+title: "GSPlane: Concise and Accurate Planar Reconstruction via Structured Representation"
 ---
 
 # GSPlane: Concise and Accurate Planar Reconstruction via Structured Representation

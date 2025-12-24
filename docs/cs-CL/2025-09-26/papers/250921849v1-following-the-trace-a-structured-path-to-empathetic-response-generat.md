@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Following the TRACE: A Structured Path to Empathetic Response Generation with Multi-Agent Models
+title: "Following the TRACE: A Structured Path to Empathetic Response Generation with Multi-Agent Models"
 ---
 
 # Following the TRACE: A Structured Path to Empathetic Response Generation with Multi-Agent Models

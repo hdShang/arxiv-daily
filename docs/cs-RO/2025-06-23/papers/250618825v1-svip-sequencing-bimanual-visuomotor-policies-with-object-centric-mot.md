@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives
+title: "SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives"
 ---
 
 # SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives

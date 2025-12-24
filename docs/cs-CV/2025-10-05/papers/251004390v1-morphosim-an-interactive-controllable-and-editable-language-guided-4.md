@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MorphoSim: An Interactive, Controllable, and Editable Language-guided 4D World Simulator
+title: "MorphoSim: An Interactive, Controllable, and Editable Language-guided 4D World Simulator"
 ---
 
 # MorphoSim: An Interactive, Controllable, and Editable Language-guided 4D World Simulator

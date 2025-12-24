@@ -1,6 +1,6 @@
 ---
 layout: default
-title: S2P3: Self-Supervised Polarimetric Pose Prediction
+title: "S2P3: Self-Supervised Polarimetric Pose Prediction"
 ---
 
 # S2P3: Self-Supervised Polarimetric Pose Prediction

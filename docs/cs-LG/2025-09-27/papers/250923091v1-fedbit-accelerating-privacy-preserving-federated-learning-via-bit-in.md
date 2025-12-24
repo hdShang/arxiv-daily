@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FedBit: Accelerating Privacy-Preserving Federated Learning via Bit-Interleaved Packing and Cross-Layer Co-Design
+title: "FedBit: Accelerating Privacy-Preserving Federated Learning via Bit-Interleaved Packing and Cross-Layer Co-Design"
 ---
 
 # FedBit: Accelerating Privacy-Preserving Federated Learning via Bit-Interleaved Packing and Cross-Layer Co-Design

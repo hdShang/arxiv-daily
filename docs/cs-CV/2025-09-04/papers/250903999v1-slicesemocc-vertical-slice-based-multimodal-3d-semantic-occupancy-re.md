@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SliceSemOcc: Vertical Slice Based Multimodal 3D Semantic Occupancy Representation
+title: "SliceSemOcc: Vertical Slice Based Multimodal 3D Semantic Occupancy Representation"
 ---
 
 # SliceSemOcc: Vertical Slice Based Multimodal 3D Semantic Occupancy Representation

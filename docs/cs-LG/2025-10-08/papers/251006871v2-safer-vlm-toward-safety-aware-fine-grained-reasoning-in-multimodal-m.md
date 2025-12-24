@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SaFeR-VLM: Toward Safety-aware Fine-grained Reasoning in Multimodal Models
+title: "SaFeR-VLM: Toward Safety-aware Fine-grained Reasoning in Multimodal Models"
 ---
 
 # SaFeR-VLM: Toward Safety-aware Fine-grained Reasoning in Multimodal Models

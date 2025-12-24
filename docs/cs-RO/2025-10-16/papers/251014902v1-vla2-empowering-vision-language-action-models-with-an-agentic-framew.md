@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VLA^2: Empowering Vision-Language-Action Models with an Agentic Framework for Unseen Concept Manipulation
+title: "VLA^2: Empowering Vision-Language-Action Models with an Agentic Framework for Unseen Concept Manipulation"
 ---
 
 # VLA^2: Empowering Vision-Language-Action Models with an Agentic Framework for Unseen Concept Manipulation

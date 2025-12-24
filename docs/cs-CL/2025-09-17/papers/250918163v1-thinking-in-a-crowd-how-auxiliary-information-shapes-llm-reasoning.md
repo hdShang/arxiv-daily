@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thinking in a Crowd: How Auxiliary Information Shapes LLM Reasoning
+title: "Thinking in a Crowd: How Auxiliary Information Shapes LLM Reasoning"
 ---
 
 # Thinking in a Crowd: How Auxiliary Information Shapes LLM Reasoning

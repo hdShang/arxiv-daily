@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Analysis of Harpy's Constrained Trotting and Jumping Maneuver
+title: "Analysis of Harpy's Constrained Trotting and Jumping Maneuver"
 ---
 
 # Analysis of Harpy's Constrained Trotting and Jumping Maneuver

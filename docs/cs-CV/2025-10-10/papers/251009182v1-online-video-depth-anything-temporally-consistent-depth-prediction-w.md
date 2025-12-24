@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Online Video Depth Anything: Temporally-Consistent Depth Prediction with Low Memory Consumption
+title: "Online Video Depth Anything: Temporally-Consistent Depth Prediction with Low Memory Consumption"
 ---
 
 # Online Video Depth Anything: Temporally-Consistent Depth Prediction with Low Memory Consumption

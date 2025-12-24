@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Think Twice, Generate Once: Safeguarding by Progressive Self-Reflection
+title: "Think Twice, Generate Once: Safeguarding by Progressive Self-Reflection"
 ---
 
 # Think Twice, Generate Once: Safeguarding by Progressive Self-Reflection

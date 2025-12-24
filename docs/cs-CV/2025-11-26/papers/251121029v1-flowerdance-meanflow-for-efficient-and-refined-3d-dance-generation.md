@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FlowerDance: MeanFlow for Efficient and Refined 3D Dance Generation
+title: "FlowerDance: MeanFlow for Efficient and Refined 3D Dance Generation"
 ---
 
 # FlowerDance: MeanFlow for Efficient and Refined 3D Dance Generation

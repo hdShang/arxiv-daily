@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FOCUS: Internal MLLM Representations for Efficient Fine-Grained Visual Question Answering
+title: "FOCUS: Internal MLLM Representations for Efficient Fine-Grained Visual Question Answering"
 ---
 
 # FOCUS: Internal MLLM Representations for Efficient Fine-Grained Visual Question Answering

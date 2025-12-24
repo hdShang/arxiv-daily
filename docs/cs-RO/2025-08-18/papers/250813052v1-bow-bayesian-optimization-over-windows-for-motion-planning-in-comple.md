@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BOW: Bayesian Optimization over Windows for Motion Planning in Complex Environments
+title: "BOW: Bayesian Optimization over Windows for Motion Planning in Complex Environments"
 ---
 
 # BOW: Bayesian Optimization over Windows for Motion Planning in Complex Environments

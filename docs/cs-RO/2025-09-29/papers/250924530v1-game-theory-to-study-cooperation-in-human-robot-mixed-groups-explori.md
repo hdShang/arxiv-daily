@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Game Theory to Study Cooperation in Human-Robot Mixed Groups: Exploring the Potential of the Public Good Game
+title: "Game Theory to Study Cooperation in Human-Robot Mixed Groups: Exploring the Potential of the Public Good Game"
 ---
 
 # Game Theory to Study Cooperation in Human-Robot Mixed Groups: Exploring the Potential of the Public Good Game

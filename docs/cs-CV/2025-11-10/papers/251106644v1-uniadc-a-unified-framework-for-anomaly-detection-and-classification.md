@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniADC: A Unified Framework for Anomaly Detection and Classification
+title: "UniADC: A Unified Framework for Anomaly Detection and Classification"
 ---
 
 # UniADC: A Unified Framework for Anomaly Detection and Classification

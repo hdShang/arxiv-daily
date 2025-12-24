@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EditCast3D: Single-Frame-Guided 3D Editing with Video Propagation and View Selection
+title: "EditCast3D: Single-Frame-Guided 3D Editing with Video Propagation and View Selection"
 ---
 
 # EditCast3D: Single-Frame-Guided 3D Editing with Video Propagation and View Selection

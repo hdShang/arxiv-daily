@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SALE : Low-bit Estimation for Efficient Sparse Attention in Long-context LLM Prefilling
+title: "SALE : Low-bit Estimation for Efficient Sparse Attention in Long-context LLM Prefilling"
 ---
 
 # SALE : Low-bit Estimation for Efficient Sparse Attention in Long-context LLM Prefilling

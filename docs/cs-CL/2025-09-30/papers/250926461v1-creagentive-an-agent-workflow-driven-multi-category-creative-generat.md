@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CreAgentive: An Agent Workflow Driven Multi-Category Creative Generation Engine
+title: "CreAgentive: An Agent Workflow Driven Multi-Category Creative Generation Engine"
 ---
 
 # CreAgentive: An Agent Workflow Driven Multi-Category Creative Generation Engine

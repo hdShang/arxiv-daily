@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Think Clearly: Improving Reasoning via Redundant Token Pruning
+title: "Think Clearly: Improving Reasoning via Redundant Token Pruning"
 ---
 
 # Think Clearly: Improving Reasoning via Redundant Token Pruning

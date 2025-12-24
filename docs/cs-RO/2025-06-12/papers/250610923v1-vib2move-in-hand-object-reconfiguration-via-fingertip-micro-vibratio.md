@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vib2Move: In-Hand Object Reconfiguration via Fingertip Micro-Vibrations
+title: "Vib2Move: In-Hand Object Reconfiguration via Fingertip Micro-Vibrations"
 ---
 
 # Vib2Move: In-Hand Object Reconfiguration via Fingertip Micro-Vibrations

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant
+title: "StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant"
 ---
 
 # StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant

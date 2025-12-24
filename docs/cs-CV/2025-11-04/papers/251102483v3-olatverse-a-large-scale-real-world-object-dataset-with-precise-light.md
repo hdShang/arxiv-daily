@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OLATverse: A Large-scale Real-world Object Dataset with Precise Lighting Control
+title: "OLATverse: A Large-scale Real-world Object Dataset with Precise Lighting Control"
 ---
 
 # OLATverse: A Large-scale Real-world Object Dataset with Precise Lighting Control

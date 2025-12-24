@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AndesVL Technical Report: An Efficient Mobile-side Multimodal Large Language Model
+title: "AndesVL Technical Report: An Efficient Mobile-side Multimodal Large Language Model"
 ---
 
 # AndesVL Technical Report: An Efficient Mobile-side Multimodal Large Language Model

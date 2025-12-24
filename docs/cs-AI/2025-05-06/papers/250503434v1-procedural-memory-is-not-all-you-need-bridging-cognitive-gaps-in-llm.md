@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Procedural Memory Is Not All You Need: Bridging Cognitive Gaps in LLM-Based Agents
+title: "Procedural Memory Is Not All You Need: Bridging Cognitive Gaps in LLM-Based Agents"
 ---
 
 # Procedural Memory Is Not All You Need: Bridging Cognitive Gaps in LLM-Based Agents

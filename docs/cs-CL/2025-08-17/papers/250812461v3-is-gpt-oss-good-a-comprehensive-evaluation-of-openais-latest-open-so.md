@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Is GPT-OSS Good? A Comprehensive Evaluation of OpenAI's Latest Open Source Models
+title: "Is GPT-OSS Good? A Comprehensive Evaluation of OpenAI's Latest Open Source Models"
 ---
 
 # Is GPT-OSS Good? A Comprehensive Evaluation of OpenAI's Latest Open Source Models

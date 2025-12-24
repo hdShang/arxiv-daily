@@ -1,6 +1,6 @@
 ---
 layout: default
-title: dVLA: Diffusion Vision-Language-Action Model with Multimodal Chain-of-Thought
+title: "dVLA: Diffusion Vision-Language-Action Model with Multimodal Chain-of-Thought"
 ---
 
 # dVLA: Diffusion Vision-Language-Action Model with Multimodal Chain-of-Thought

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PEaRL: Pathway-Enhanced Representation Learning for Gene and Pathway Expression Prediction from Histology
+title: "PEaRL: Pathway-Enhanced Representation Learning for Gene and Pathway Expression Prediction from Histology"
 ---
 
 # PEaRL: Pathway-Enhanced Representation Learning for Gene and Pathway Expression Prediction from Histology

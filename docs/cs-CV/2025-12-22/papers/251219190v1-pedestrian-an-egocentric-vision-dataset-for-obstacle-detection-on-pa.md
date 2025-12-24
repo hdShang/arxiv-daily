@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PEDESTRIAN: An Egocentric Vision Dataset for Obstacle Detection on Pavements
+title: "PEDESTRIAN: An Egocentric Vision Dataset for Obstacle Detection on Pavements"
 ---
 
 # PEDESTRIAN: An Egocentric Vision Dataset for Obstacle Detection on Pavements

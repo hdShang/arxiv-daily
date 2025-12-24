@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Think2Sing: Orchestrating Structured Motion Subtitles for Singing-Driven 3D Head Animation
+title: "Think2Sing: Orchestrating Structured Motion Subtitles for Singing-Driven 3D Head Animation"
 ---
 
 # Think2Sing: Orchestrating Structured Motion Subtitles for Singing-Driven 3D Head Animation

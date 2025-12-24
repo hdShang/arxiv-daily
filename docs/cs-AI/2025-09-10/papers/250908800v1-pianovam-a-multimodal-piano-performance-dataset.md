@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PianoVAM: A Multimodal Piano Performance Dataset
+title: "PianoVAM: A Multimodal Piano Performance Dataset"
 ---
 
 # PianoVAM: A Multimodal Piano Performance Dataset

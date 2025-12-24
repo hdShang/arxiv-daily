@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Play Favorites: A Statistical Method to Measure Self-Bias in LLM-as-a-Judge
+title: "Play Favorites: A Statistical Method to Measure Self-Bias in LLM-as-a-Judge"
 ---
 
 # Play Favorites: A Statistical Method to Measure Self-Bias in LLM-as-a-Judge

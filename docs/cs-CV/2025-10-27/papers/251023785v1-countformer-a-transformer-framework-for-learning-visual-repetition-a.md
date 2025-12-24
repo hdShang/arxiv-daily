@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CountFormer: A Transformer Framework for Learning Visual Repetition and Structure in Class-Agnostic Object Counting
+title: "CountFormer: A Transformer Framework for Learning Visual Repetition and Structure in Class-Agnostic Object Counting"
 ---
 
 # CountFormer: A Transformer Framework for Learning Visual Repetition and Structure in Class-Agnostic Object Counting

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Motion4D: Learning 3D-Consistent Motion and Semantics for 4D Scene Understanding
+title: "Motion4D: Learning 3D-Consistent Motion and Semantics for 4D Scene Understanding"
 ---
 
 # Motion4D: Learning 3D-Consistent Motion and Semantics for 4D Scene Understanding

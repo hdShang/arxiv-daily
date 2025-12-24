@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Organizational Adaptation to Generative AI in Cybersecurity: A Systematic Review
+title: "Organizational Adaptation to Generative AI in Cybersecurity: A Systematic Review"
 ---
 
 # Organizational Adaptation to Generative AI in Cybersecurity: A Systematic Review

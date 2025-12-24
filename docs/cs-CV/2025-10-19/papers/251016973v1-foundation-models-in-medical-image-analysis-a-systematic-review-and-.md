@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Foundation Models in Medical Image Analysis: A Systematic Review and Meta-Analysis
+title: "Foundation Models in Medical Image Analysis: A Systematic Review and Meta-Analysis"
 ---
 
 # Foundation Models in Medical Image Analysis: A Systematic Review and Meta-Analysis

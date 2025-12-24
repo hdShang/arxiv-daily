@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TokenShapley: Token Level Context Attribution with Shapley Value
+title: "TokenShapley: Token Level Context Attribution with Shapley Value"
 ---
 
 # TokenShapley: Token Level Context Attribution with Shapley Value

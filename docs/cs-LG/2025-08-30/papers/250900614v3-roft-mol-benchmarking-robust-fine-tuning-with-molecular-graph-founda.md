@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoFt-Mol: Benchmarking Robust Fine-Tuning with Molecular Graph Foundation Models
+title: "RoFt-Mol: Benchmarking Robust Fine-Tuning with Molecular Graph Foundation Models"
 ---
 
 # RoFt-Mol: Benchmarking Robust Fine-Tuning with Molecular Graph Foundation Models

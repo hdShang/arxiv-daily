@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting
+title: "GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting"
 ---
 
 # GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting

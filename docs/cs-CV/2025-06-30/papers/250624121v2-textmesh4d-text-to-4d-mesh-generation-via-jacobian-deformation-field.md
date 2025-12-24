@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TextMesh4D: Text-to-4D Mesh Generation via Jacobian Deformation Field
+title: "TextMesh4D: Text-to-4D Mesh Generation via Jacobian Deformation Field"
 ---
 
 # TextMesh4D: Text-to-4D Mesh Generation via Jacobian Deformation Field

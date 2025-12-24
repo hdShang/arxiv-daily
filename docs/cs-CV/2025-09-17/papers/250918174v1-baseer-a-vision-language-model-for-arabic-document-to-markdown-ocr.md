@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Baseer: A Vision-Language Model for Arabic Document-to-Markdown OCR
+title: "Baseer: A Vision-Language Model for Arabic Document-to-Markdown OCR"
 ---
 
 # Baseer: A Vision-Language Model for Arabic Document-to-Markdown OCR

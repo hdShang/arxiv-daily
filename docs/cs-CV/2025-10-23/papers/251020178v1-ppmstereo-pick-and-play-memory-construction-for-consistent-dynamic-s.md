@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PPMStereo: Pick-and-Play Memory Construction for Consistent Dynamic Stereo Matching
+title: "PPMStereo: Pick-and-Play Memory Construction for Consistent Dynamic Stereo Matching"
 ---
 
 # PPMStereo: Pick-and-Play Memory Construction for Consistent Dynamic Stereo Matching

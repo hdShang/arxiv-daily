@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InfiAgent: Self-Evolving Pyramid Agent Framework for Infinite Scenarios
+title: "InfiAgent: Self-Evolving Pyramid Agent Framework for Infinite Scenarios"
 ---
 
 # InfiAgent: Self-Evolving Pyramid Agent Framework for Infinite Scenarios

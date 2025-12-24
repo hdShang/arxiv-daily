@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DecoDINO: 3D Human-Scene Contact Prediction with Semantic Classification
+title: "DecoDINO: 3D Human-Scene Contact Prediction with Semantic Classification"
 ---
 
 # DecoDINO: 3D Human-Scene Contact Prediction with Semantic Classification

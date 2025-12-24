@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GenDexHand: Generative Simulation for Dexterous Hands
+title: "GenDexHand: Generative Simulation for Dexterous Hands"
 ---
 
 # GenDexHand: Generative Simulation for Dexterous Hands

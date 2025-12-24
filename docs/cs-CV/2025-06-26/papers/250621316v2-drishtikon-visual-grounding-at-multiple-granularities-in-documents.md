@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DRISHTIKON: Visual Grounding at Multiple Granularities in Documents
+title: "DRISHTIKON: Visual Grounding at Multiple Granularities in Documents"
 ---
 
 # DRISHTIKON: Visual Grounding at Multiple Granularities in Documents

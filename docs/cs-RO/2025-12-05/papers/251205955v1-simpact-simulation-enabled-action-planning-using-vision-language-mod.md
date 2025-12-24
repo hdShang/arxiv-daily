@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models
+title: "SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models"
 ---
 
 # SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models

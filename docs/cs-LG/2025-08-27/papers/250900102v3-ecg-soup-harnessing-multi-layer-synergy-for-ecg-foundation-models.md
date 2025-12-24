@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ECG-Soup: Harnessing Multi-Layer Synergy for ECG Foundation Models
+title: "ECG-Soup: Harnessing Multi-Layer Synergy for ECG Foundation Models"
 ---
 
 # ECG-Soup: Harnessing Multi-Layer Synergy for ECG Foundation Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WOD-E2E: Waymo Open Dataset for End-to-End Driving in Challenging Long-tail Scenarios
+title: "WOD-E2E: Waymo Open Dataset for End-to-End Driving in Challenging Long-tail Scenarios"
 ---
 
 # WOD-E2E: Waymo Open Dataset for End-to-End Driving in Challenging Long-tail Scenarios

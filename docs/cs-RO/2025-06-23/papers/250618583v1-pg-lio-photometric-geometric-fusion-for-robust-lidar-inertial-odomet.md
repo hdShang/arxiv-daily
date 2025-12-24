@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PG-LIO: Photometric-Geometric fusion for Robust LiDAR-Inertial Odometry
+title: "PG-LIO: Photometric-Geometric fusion for Robust LiDAR-Inertial Odometry"
 ---
 
 # PG-LIO: Photometric-Geometric fusion for Robust LiDAR-Inertial Odometry

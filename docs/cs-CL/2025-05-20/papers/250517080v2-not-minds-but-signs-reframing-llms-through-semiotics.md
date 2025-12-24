@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Not Minds, but Signs: Reframing LLMs through Semiotics
+title: "Not Minds, but Signs: Reframing LLMs through Semiotics"
 ---
 
 # Not Minds, but Signs: Reframing LLMs through Semiotics

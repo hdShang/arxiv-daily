@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SIRI: Scaling Iterative Reinforcement Learning with Interleaved Compression
+title: "SIRI: Scaling Iterative Reinforcement Learning with Interleaved Compression"
 ---
 
 # SIRI: Scaling Iterative Reinforcement Learning with Interleaved Compression

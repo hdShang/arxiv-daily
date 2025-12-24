@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PREF: Reference-Free Evaluation of Personalised Text Generation in LLMs
+title: "PREF: Reference-Free Evaluation of Personalised Text Generation in LLMs"
 ---
 
 # PREF: Reference-Free Evaluation of Personalised Text Generation in LLMs

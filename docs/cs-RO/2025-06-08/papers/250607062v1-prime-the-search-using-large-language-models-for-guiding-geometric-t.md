@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prime the search: Using large language models for guiding geometric task and motion planning by warm-starting tree search
+title: "Prime the search: Using large language models for guiding geometric task and motion planning by warm-starting tree search"
 ---
 
 # Prime the search: Using large language models for guiding geometric task and motion planning by warm-starting tree search

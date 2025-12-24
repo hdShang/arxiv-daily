@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LUCIFER: Language Understanding and Context-Infused Framework for Exploration and Behavior Refinement
+title: "LUCIFER: Language Understanding and Context-Infused Framework for Exploration and Behavior Refinement"
 ---
 
 # LUCIFER: Language Understanding and Context-Infused Framework for Exploration and Behavior Refinement

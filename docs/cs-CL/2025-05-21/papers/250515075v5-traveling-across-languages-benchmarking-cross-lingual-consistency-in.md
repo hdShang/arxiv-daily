@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Traveling Across Languages: Benchmarking Cross-Lingual Consistency in Multimodal LLMs
+title: "Traveling Across Languages: Benchmarking Cross-Lingual Consistency in Multimodal LLMs"
 ---
 
 # Traveling Across Languages: Benchmarking Cross-Lingual Consistency in Multimodal LLMs

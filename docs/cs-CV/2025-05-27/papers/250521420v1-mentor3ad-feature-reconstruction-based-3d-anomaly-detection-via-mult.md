@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mentor3AD: Feature Reconstruction-based 3D Anomaly Detection via Multi-modality Mentor Learning
+title: "Mentor3AD: Feature Reconstruction-based 3D Anomaly Detection via Multi-modality Mentor Learning"
 ---
 
 # Mentor3AD: Feature Reconstruction-based 3D Anomaly Detection via Multi-modality Mentor Learning

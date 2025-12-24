@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AdaptCache: KV Cache Native Storage Hierarchy for Low-Delay and High-Quality Language Model Serving
+title: "AdaptCache: KV Cache Native Storage Hierarchy for Low-Delay and High-Quality Language Model Serving"
 ---
 
 # AdaptCache: KV Cache Native Storage Hierarchy for Low-Delay and High-Quality Language Model Serving

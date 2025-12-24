@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tournament of Prompts: Evolving LLM Instructions Through Structured Debates and Elo Ratings
+title: "Tournament of Prompts: Evolving LLM Instructions Through Structured Debates and Elo Ratings"
 ---
 
 # Tournament of Prompts: Evolving LLM Instructions Through Structured Debates and Elo Ratings

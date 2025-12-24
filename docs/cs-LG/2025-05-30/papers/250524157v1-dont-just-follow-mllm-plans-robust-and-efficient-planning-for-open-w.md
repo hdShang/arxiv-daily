@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Don't Just Follow MLLM Plans: Robust and Efficient Planning for Open-world Agents
+title: "Don't Just Follow MLLM Plans: Robust and Efficient Planning for Open-world Agents"
 ---
 
 # Don't Just Follow MLLM Plans: Robust and Efficient Planning for Open-world Agents

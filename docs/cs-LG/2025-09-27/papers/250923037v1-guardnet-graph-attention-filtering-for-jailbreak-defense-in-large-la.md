@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GuardNet: Graph-Attention Filtering for Jailbreak Defense in Large Language Models
+title: "GuardNet: Graph-Attention Filtering for Jailbreak Defense in Large Language Models"
 ---
 
 # GuardNet: Graph-Attention Filtering for Jailbreak Defense in Large Language Models

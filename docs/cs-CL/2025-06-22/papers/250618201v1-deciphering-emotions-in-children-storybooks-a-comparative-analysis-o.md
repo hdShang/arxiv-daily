@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deciphering Emotions in Children Storybooks: A Comparative Analysis of Multimodal LLMs in Educational Applications
+title: "Deciphering Emotions in Children Storybooks: A Comparative Analysis of Multimodal LLMs in Educational Applications"
 ---
 
 # Deciphering Emotions in Children Storybooks: A Comparative Analysis of Multimodal LLMs in Educational Applications

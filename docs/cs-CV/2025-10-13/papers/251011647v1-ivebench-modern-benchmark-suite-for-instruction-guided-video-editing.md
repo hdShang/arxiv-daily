@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IVEBench: Modern Benchmark Suite for Instruction-Guided Video Editing Assessment
+title: "IVEBench: Modern Benchmark Suite for Instruction-Guided Video Editing Assessment"
 ---
 
 # IVEBench: Modern Benchmark Suite for Instruction-Guided Video Editing Assessment

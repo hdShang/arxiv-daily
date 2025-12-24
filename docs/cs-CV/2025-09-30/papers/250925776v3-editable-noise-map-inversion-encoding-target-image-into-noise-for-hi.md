@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Editable Noise Map Inversion: Encoding Target-image into Noise For High-Fidelity Image Manipulation
+title: "Editable Noise Map Inversion: Encoding Target-image into Noise For High-Fidelity Image Manipulation"
 ---
 
 # Editable Noise Map Inversion: Encoding Target-image into Noise For High-Fidelity Image Manipulation

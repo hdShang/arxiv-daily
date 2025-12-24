@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AMELIA: A Family of Multi-task End-to-end Language Models for Argumentation
+title: "AMELIA: A Family of Multi-task End-to-end Language Models for Argumentation"
 ---
 
 # AMELIA: A Family of Multi-task End-to-end Language Models for Argumentation

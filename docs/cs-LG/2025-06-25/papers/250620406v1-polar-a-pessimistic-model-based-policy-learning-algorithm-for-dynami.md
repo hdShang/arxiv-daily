@@ -1,6 +1,6 @@
 ---
 layout: default
-title: POLAR: A Pessimistic Model-based Policy Learning Algorithm for Dynamic Treatment Regimes
+title: "POLAR: A Pessimistic Model-based Policy Learning Algorithm for Dynamic Treatment Regimes"
 ---
 
 # POLAR: A Pessimistic Model-based Policy Learning Algorithm for Dynamic Treatment Regimes

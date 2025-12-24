@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Transformers Meet In-Context Learning: A Universal Approximation Theory
+title: "Transformers Meet In-Context Learning: A Universal Approximation Theory"
 ---
 
 # Transformers Meet In-Context Learning: A Universal Approximation Theory

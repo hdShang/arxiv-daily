@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HIL: Hybrid Imitation Learning of Diverse Parkour Skills from Videos
+title: "HIL: Hybrid Imitation Learning of Diverse Parkour Skills from Videos"
 ---
 
 # HIL: Hybrid Imitation Learning of Diverse Parkour Skills from Videos

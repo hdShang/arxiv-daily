@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Matrix-game 2.0: An open-source real-time and streaming interactive world model
+title: "Matrix-game 2.0: An open-source real-time and streaming interactive world model"
 ---
 
 # Matrix-game 2.0: An open-source real-time and streaming interactive world model

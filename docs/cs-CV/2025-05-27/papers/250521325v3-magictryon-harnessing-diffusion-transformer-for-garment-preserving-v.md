@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on
+title: "MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on"
 ---
 
 # MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on

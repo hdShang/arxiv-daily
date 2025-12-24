@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visual Programmability: A Guide for Code-as-Thought in Chart Understanding
+title: "Visual Programmability: A Guide for Code-as-Thought in Chart Understanding"
 ---
 
 # Visual Programmability: A Guide for Code-as-Thought in Chart Understanding

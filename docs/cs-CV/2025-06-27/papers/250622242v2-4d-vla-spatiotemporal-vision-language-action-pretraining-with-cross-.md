@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4D-VLA: Spatiotemporal Vision-Language-Action Pretraining with Cross-Scene Calibration
+title: "4D-VLA: Spatiotemporal Vision-Language-Action Pretraining with Cross-Scene Calibration"
 ---
 
 # 4D-VLA: Spatiotemporal Vision-Language-Action Pretraining with Cross-Scene Calibration

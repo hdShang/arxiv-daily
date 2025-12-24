@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OracleAgent: A Multimodal Reasoning Agent for Oracle Bone Script Research
+title: "OracleAgent: A Multimodal Reasoning Agent for Oracle Bone Script Research"
 ---
 
 # OracleAgent: A Multimodal Reasoning Agent for Oracle Bone Script Research

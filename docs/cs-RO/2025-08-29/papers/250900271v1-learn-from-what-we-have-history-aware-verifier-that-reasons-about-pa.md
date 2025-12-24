@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learn from What We HAVE: History-Aware VErifier that Reasons about Past Interactions Online
+title: "Learn from What We HAVE: History-Aware VErifier that Reasons about Past Interactions Online"
 ---
 
 # Learn from What We HAVE: History-Aware VErifier that Reasons about Past Interactions Online

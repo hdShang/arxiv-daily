@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Urban Air Mobility as a System of Systems: An LLM-Enhanced Holonic Approach
+title: "Urban Air Mobility as a System of Systems: An LLM-Enhanced Holonic Approach"
 ---
 
 # Urban Air Mobility as a System of Systems: An LLM-Enhanced Holonic Approach

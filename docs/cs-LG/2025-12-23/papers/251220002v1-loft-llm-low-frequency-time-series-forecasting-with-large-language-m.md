@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LoFT-LLM: Low-Frequency Time-Series Forecasting with Large Language Models
+title: "LoFT-LLM: Low-Frequency Time-Series Forecasting with Large Language Models"
 ---
 
 # LoFT-LLM: Low-Frequency Time-Series Forecasting with Large Language Models

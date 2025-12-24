@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DrVoice: Parallel Speech-Text Voice Conversation Model via Dual-Resolution Speech Representations
+title: "DrVoice: Parallel Speech-Text Voice Conversation Model via Dual-Resolution Speech Representations"
 ---
 
 # DrVoice: Parallel Speech-Text Voice Conversation Model via Dual-Resolution Speech Representations

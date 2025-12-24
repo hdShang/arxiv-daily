@@ -1,6 +1,6 @@
 ---
 layout: default
-title: video-SALMONN 2: Caption-Enhanced Audio-Visual Large Language Models
+title: "video-SALMONN 2: Caption-Enhanced Audio-Visual Large Language Models"
 ---
 
 # video-SALMONN 2: Caption-Enhanced Audio-Visual Large Language Models

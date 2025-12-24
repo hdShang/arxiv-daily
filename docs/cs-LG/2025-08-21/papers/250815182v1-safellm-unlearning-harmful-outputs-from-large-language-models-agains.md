@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SafeLLM: Unlearning Harmful Outputs from Large Language Models against Jailbreak Attacks
+title: "SafeLLM: Unlearning Harmful Outputs from Large Language Models against Jailbreak Attacks"
 ---
 
 # SafeLLM: Unlearning Harmful Outputs from Large Language Models against Jailbreak Attacks

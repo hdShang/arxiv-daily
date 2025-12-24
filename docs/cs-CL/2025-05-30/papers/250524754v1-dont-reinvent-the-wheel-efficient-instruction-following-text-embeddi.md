@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Don't Reinvent the Wheel: Efficient Instruction-Following Text Embedding based on Guided Space Transformation
+title: "Don't Reinvent the Wheel: Efficient Instruction-Following Text Embedding based on Guided Space Transformation"
 ---
 
 # Don't Reinvent the Wheel: Efficient Instruction-Following Text Embedding based on Guided Space Transformation

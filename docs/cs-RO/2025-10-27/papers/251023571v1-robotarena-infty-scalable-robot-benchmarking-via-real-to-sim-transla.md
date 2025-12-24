@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RobotArena $\infty$: Scalable Robot Benchmarking via Real-to-Sim Translation
+title: "RobotArena $\\infty$: Scalable Robot Benchmarking via Real-to-Sim Translation"
 ---
 
 # RobotArena $\infty$: Scalable Robot Benchmarking via Real-to-Sim Translation

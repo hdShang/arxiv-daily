@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Who's Laughing Now? An Overview of Computational Humour Generation and Explanation
+title: "Who's Laughing Now? An Overview of Computational Humour Generation and Explanation"
 ---
 
 # Who's Laughing Now? An Overview of Computational Humour Generation and Explanation

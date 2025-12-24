@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Model Predictive Control via Probabilistic Inference: A Tutorial
+title: "Model Predictive Control via Probabilistic Inference: A Tutorial"
 ---
 
 # Model Predictive Control via Probabilistic Inference: A Tutorial

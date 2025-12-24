@@ -1,6 +1,6 @@
 ---
 layout: default
-title: READ: Real-time and Efficient Asynchronous Diffusion for Audio-driven Talking Head Generation
+title: "READ: Real-time and Efficient Asynchronous Diffusion for Audio-driven Talking Head Generation"
 ---
 
 # READ: Real-time and Efficient Asynchronous Diffusion for Audio-driven Talking Head Generation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TabArena: A Living Benchmark for Machine Learning on Tabular Data
+title: "TabArena: A Living Benchmark for Machine Learning on Tabular Data"
 ---
 
 # TabArena: A Living Benchmark for Machine Learning on Tabular Data

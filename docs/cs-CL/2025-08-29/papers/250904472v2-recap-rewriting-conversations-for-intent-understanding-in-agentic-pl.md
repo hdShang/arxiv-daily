@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RECAP: REwriting Conversations for Intent Understanding in Agentic Planning
+title: "RECAP: REwriting Conversations for Intent Understanding in Agentic Planning"
 ---
 
 # RECAP: REwriting Conversations for Intent Understanding in Agentic Planning

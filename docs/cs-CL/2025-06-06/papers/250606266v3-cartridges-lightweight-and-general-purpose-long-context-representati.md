@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cartridges: Lightweight and general-purpose long context representations via self-study
+title: "Cartridges: Lightweight and general-purpose long context representations via self-study"
 ---
 
 # Cartridges: Lightweight and general-purpose long context representations via self-study

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From prosthetic memory to prosthetic denial: Auditing whether large language models are prone to mass atrocity denialism
+title: "From prosthetic memory to prosthetic denial: Auditing whether large language models are prone to mass atrocity denialism"
 ---
 
 # From prosthetic memory to prosthetic denial: Auditing whether large language models are prone to mass atrocity denialism

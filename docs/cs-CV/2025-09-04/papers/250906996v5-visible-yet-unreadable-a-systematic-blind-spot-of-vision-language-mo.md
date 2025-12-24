@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visible Yet Unreadable: A Systematic Blind Spot of Vision Language Models Across Writing Systems
+title: "Visible Yet Unreadable: A Systematic Blind Spot of Vision Language Models Across Writing Systems"
 ---
 
 # Visible Yet Unreadable: A Systematic Blind Spot of Vision Language Models Across Writing Systems

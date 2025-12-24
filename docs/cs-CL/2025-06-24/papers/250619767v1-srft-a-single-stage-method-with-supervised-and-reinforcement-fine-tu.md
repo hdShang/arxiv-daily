@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SRFT: A Single-Stage Method with Supervised and Reinforcement Fine-Tuning for Reasoning
+title: "SRFT: A Single-Stage Method with Supervised and Reinforcement Fine-Tuning for Reasoning"
 ---
 
 # SRFT: A Single-Stage Method with Supervised and Reinforcement Fine-Tuning for Reasoning

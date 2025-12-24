@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SAKURA: On the Multi-hop Reasoning of Large Audio-Language Models Based on Speech and Audio Information
+title: "SAKURA: On the Multi-hop Reasoning of Large Audio-Language Models Based on Speech and Audio Information"
 ---
 
 # SAKURA: On the Multi-hop Reasoning of Large Audio-Language Models Based on Speech and Audio Information

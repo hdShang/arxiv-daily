@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IPCD: Intrinsic Point-Cloud Decomposition
+title: "IPCD: Intrinsic Point-Cloud Decomposition"
 ---
 
 # IPCD: Intrinsic Point-Cloud Decomposition

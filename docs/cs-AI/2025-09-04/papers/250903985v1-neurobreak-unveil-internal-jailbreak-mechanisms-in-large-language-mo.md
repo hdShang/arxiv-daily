@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NeuroBreak: Unveil Internal Jailbreak Mechanisms in Large Language Models
+title: "NeuroBreak: Unveil Internal Jailbreak Mechanisms in Large Language Models"
 ---
 
 # NeuroBreak: Unveil Internal Jailbreak Mechanisms in Large Language Models

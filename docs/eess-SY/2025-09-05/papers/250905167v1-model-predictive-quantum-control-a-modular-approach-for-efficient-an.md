@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Model predictive quantum control: A modular approach for efficient and robust quantum optimal control
+title: "Model predictive quantum control: A modular approach for efficient and robust quantum optimal control"
 ---
 
 # Model predictive quantum control: A modular approach for efficient and robust quantum optimal control

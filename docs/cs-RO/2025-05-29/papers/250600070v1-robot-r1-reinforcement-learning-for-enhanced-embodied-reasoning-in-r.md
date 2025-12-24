@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics
+title: "Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics"
 ---
 
 # Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics

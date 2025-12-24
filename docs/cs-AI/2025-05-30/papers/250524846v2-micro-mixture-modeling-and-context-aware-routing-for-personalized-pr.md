@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning
+title: "MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning"
 ---
 
 # MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning

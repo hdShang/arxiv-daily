@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sat2Sound: A Unified Framework for Zero-Shot Soundscape Mapping
+title: "Sat2Sound: A Unified Framework for Zero-Shot Soundscape Mapping"
 ---
 
 # Sat2Sound: A Unified Framework for Zero-Shot Soundscape Mapping

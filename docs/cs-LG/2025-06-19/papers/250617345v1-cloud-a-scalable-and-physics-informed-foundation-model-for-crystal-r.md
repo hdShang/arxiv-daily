@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CLOUD: A Scalable and Physics-Informed Foundation Model for Crystal Representation Learning
+title: "CLOUD: A Scalable and Physics-Informed Foundation Model for Crystal Representation Learning"
 ---
 
 # CLOUD: A Scalable and Physics-Informed Foundation Model for Crystal Representation Learning

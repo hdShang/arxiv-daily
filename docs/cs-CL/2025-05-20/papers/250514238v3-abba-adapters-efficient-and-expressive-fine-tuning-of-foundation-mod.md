@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ABBA-Adapters: Efficient and Expressive Fine-Tuning of Foundation Models
+title: "ABBA-Adapters: Efficient and Expressive Fine-Tuning of Foundation Models"
 ---
 
 # ABBA-Adapters: Efficient and Expressive Fine-Tuning of Foundation Models

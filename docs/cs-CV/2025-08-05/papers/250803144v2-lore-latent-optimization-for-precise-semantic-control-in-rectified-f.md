@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LORE: Latent Optimization for Precise Semantic Control in Rectified Flow-based Image Editing
+title: "LORE: Latent Optimization for Precise Semantic Control in Rectified Flow-based Image Editing"
 ---
 
 # LORE: Latent Optimization for Precise Semantic Control in Rectified Flow-based Image Editing

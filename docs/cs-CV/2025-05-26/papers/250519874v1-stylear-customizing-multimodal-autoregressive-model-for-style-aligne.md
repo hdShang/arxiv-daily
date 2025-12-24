@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StyleAR: Customizing Multimodal Autoregressive Model for Style-Aligned Text-to-Image Generation
+title: "StyleAR: Customizing Multimodal Autoregressive Model for Style-Aligned Text-to-Image Generation"
 ---
 
 # StyleAR: Customizing Multimodal Autoregressive Model for Style-Aligned Text-to-Image Generation

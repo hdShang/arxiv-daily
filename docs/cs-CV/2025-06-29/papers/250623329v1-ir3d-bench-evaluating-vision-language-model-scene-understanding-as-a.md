@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IR3D-Bench: Evaluating Vision-Language Model Scene Understanding as Agentic Inverse Rendering
+title: "IR3D-Bench: Evaluating Vision-Language Model Scene Understanding as Agentic Inverse Rendering"
 ---
 
 # IR3D-Bench: Evaluating Vision-Language Model Scene Understanding as Agentic Inverse Rendering

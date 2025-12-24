@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scale-GS: Efficient Scalable Gaussian Splatting via Redundancy-filtering Training on Streaming Content
+title: "Scale-GS: Efficient Scalable Gaussian Splatting via Redundancy-filtering Training on Streaming Content"
 ---
 
 # Scale-GS: Efficient Scalable Gaussian Splatting via Redundancy-filtering Training on Streaming Content

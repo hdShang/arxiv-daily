@@ -1,6 +1,6 @@
 ---
 layout: default
-title: USCTNet: A deep unfolding nuclear-norm optimization solver for physically consistent HSI reconstruction
+title: "USCTNet: A deep unfolding nuclear-norm optimization solver for physically consistent HSI reconstruction"
 ---
 
 # USCTNet: A deep unfolding nuclear-norm optimization solver for physically consistent HSI reconstruction

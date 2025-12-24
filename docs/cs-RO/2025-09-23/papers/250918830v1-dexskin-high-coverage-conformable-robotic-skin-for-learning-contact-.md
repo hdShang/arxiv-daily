@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DexSkin: High-Coverage Conformable Robotic Skin for Learning Contact-Rich Manipulation
+title: "DexSkin: High-Coverage Conformable Robotic Skin for Learning Contact-Rich Manipulation"
 ---
 
 # DexSkin: High-Coverage Conformable Robotic Skin for Learning Contact-Rich Manipulation

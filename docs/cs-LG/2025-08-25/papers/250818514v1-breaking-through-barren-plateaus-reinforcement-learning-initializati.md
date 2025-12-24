@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Breaking Through Barren Plateaus: Reinforcement Learning Initializations for Deep Variational Quantum Circuits
+title: "Breaking Through Barren Plateaus: Reinforcement Learning Initializations for Deep Variational Quantum Circuits"
 ---
 
 # Breaking Through Barren Plateaus: Reinforcement Learning Initializations for Deep Variational Quantum Circuits

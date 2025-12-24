@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Answers to Questions: EQGBench for Evaluating LLMs' Educational Question Generation
+title: "From Answers to Questions: EQGBench for Evaluating LLMs' Educational Question Generation"
 ---
 
 # From Answers to Questions: EQGBench for Evaluating LLMs' Educational Question Generation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Parallel-R1: Towards Parallel Thinking via Reinforcement Learning
+title: "Parallel-R1: Towards Parallel Thinking via Reinforcement Learning"
 ---
 
 # Parallel-R1: Towards Parallel Thinking via Reinforcement Learning

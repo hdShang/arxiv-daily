@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CDFlow: Generative Gradient Flows for Configuration Space Distance Fields via Neural ODEs
+title: "CDFlow: Generative Gradient Flows for Configuration Space Distance Fields via Neural ODEs"
 ---
 
 # CDFlow: Generative Gradient Flows for Configuration Space Distance Fields via Neural ODEs

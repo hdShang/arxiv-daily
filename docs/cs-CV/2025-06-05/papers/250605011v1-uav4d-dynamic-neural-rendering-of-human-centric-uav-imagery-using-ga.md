@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UAV4D: Dynamic Neural Rendering of Human-Centric UAV Imagery using Gaussian Splatting
+title: "UAV4D: Dynamic Neural Rendering of Human-Centric UAV Imagery using Gaussian Splatting"
 ---
 
 # UAV4D: Dynamic Neural Rendering of Human-Centric UAV Imagery using Gaussian Splatting

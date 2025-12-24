@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gym4ReaL: A Suite for Benchmarking Real-World Reinforcement Learning
+title: "Gym4ReaL: A Suite for Benchmarking Real-World Reinforcement Learning"
 ---
 
 # Gym4ReaL: A Suite for Benchmarking Real-World Reinforcement Learning

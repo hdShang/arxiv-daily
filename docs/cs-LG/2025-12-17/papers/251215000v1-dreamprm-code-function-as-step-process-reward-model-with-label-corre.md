@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DreamPRM-Code: Function-as-Step Process Reward Model with Label Correction for LLM Coding
+title: "DreamPRM-Code: Function-as-Step Process Reward Model with Label Correction for LLM Coding"
 ---
 
 # DreamPRM-Code: Function-as-Step Process Reward Model with Label Correction for LLM Coding

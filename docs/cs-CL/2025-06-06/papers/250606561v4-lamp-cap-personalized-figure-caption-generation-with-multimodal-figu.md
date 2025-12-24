@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LaMP-Cap: Personalized Figure Caption Generation With Multimodal Figure Profiles
+title: "LaMP-Cap: Personalized Figure Caption Generation With Multimodal Figure Profiles"
 ---
 
 # LaMP-Cap: Personalized Figure Caption Generation With Multimodal Figure Profiles

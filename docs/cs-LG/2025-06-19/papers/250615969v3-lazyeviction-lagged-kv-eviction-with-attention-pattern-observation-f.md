@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning
+title: "LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning"
 ---
 
 # LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning

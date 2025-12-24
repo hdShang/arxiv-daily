@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VeriLocc: End-to-End Cross-Architecture Register Allocation via LLM
+title: "VeriLocc: End-to-End Cross-Architecture Register Allocation via LLM"
 ---
 
 # VeriLocc: End-to-End Cross-Architecture Register Allocation via LLM

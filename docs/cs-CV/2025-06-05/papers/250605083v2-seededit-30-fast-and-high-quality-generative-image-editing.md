@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SeedEdit 3.0: Fast and High-Quality Generative Image Editing
+title: "SeedEdit 3.0: Fast and High-Quality Generative Image Editing"
 ---
 
 # SeedEdit 3.0: Fast and High-Quality Generative Image Editing

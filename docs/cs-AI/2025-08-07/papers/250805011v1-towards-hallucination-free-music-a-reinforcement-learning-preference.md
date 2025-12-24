@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Hallucination-Free Music: A Reinforcement Learning Preference Optimization Framework for Reliable Song Generation
+title: "Towards Hallucination-Free Music: A Reinforcement Learning Preference Optimization Framework for Reliable Song Generation"
 ---
 
 # Towards Hallucination-Free Music: A Reinforcement Learning Preference Optimization Framework for Reliable Song Generation

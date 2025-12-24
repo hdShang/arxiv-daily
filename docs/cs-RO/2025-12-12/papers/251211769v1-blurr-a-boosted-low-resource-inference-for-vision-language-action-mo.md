@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BLURR: A Boosted Low-Resource Inference for Vision-Language-Action Models
+title: "BLURR: A Boosted Low-Resource Inference for Vision-Language-Action Models"
 ---
 
 # BLURR: A Boosted Low-Resource Inference for Vision-Language-Action Models

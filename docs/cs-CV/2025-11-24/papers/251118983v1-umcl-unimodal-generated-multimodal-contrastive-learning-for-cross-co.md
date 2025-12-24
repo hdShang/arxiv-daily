@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UMCL: Unimodal-generated Multimodal Contrastive Learning for Cross-compression-rate Deepfake Detection
+title: "UMCL: Unimodal-generated Multimodal Contrastive Learning for Cross-compression-rate Deepfake Detection"
 ---
 
 # UMCL: Unimodal-generated Multimodal Contrastive Learning for Cross-compression-rate Deepfake Detection

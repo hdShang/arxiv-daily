@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TUMS: Enhancing Tool-use Abilities of LLMs with Multi-structure Handlers
+title: "TUMS: Enhancing Tool-use Abilities of LLMs with Multi-structure Handlers"
 ---
 
 # TUMS: Enhancing Tool-use Abilities of LLMs with Multi-structure Handlers

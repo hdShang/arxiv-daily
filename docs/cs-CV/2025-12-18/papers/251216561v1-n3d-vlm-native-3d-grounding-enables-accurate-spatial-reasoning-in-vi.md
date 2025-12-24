@@ -1,6 +1,6 @@
 ---
 layout: default
-title: N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models
+title: "N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models"
 ---
 
 # N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models

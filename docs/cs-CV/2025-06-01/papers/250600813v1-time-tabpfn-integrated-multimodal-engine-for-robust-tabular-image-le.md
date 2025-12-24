@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TIME: TabPFN-Integrated Multimodal Engine for Robust Tabular-Image Learning
+title: "TIME: TabPFN-Integrated Multimodal Engine for Robust Tabular-Image Learning"
 ---
 
 # TIME: TabPFN-Integrated Multimodal Engine for Robust Tabular-Image Learning

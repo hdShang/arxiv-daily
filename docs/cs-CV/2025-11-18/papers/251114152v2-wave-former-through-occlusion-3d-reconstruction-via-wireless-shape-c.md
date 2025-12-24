@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wave-Former: Through-Occlusion 3D Reconstruction via Wireless Shape Completion
+title: "Wave-Former: Through-Occlusion 3D Reconstruction via Wireless Shape Completion"
 ---
 
 # Wave-Former: Through-Occlusion 3D Reconstruction via Wireless Shape Completion

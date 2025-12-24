@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ACTLLM: Action Consistency Tuned Large Language Model
+title: "ACTLLM: Action Consistency Tuned Large Language Model"
 ---
 
 # ACTLLM: Action Consistency Tuned Large Language Model

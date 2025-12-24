@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aha Moment Revisited: Are VLMs Truly Capable of Self Verification in Inference-time Scaling?
+title: "Aha Moment Revisited: Are VLMs Truly Capable of Self Verification in Inference-time Scaling?"
 ---
 
 # Aha Moment Revisited: Are VLMs Truly Capable of Self Verification in Inference-time Scaling?

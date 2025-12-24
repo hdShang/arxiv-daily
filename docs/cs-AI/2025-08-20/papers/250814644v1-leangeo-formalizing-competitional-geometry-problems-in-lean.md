@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LeanGeo: Formalizing Competitional Geometry problems in Lean
+title: "LeanGeo: Formalizing Competitional Geometry problems in Lean"
 ---
 
 # LeanGeo: Formalizing Competitional Geometry problems in Lean

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Connecting Giants: Synergistic Knowledge Transfer of Large Multimodal Models for Few-Shot Learning
+title: "Connecting Giants: Synergistic Knowledge Transfer of Large Multimodal Models for Few-Shot Learning"
 ---
 
 # Connecting Giants: Synergistic Knowledge Transfer of Large Multimodal Models for Few-Shot Learning

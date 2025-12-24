@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Reasoning to Learning: A Survey on Hypothesis Discovery and Rule Learning with Large Language Models
+title: "From Reasoning to Learning: A Survey on Hypothesis Discovery and Rule Learning with Large Language Models"
 ---
 
 # From Reasoning to Learning: A Survey on Hypothesis Discovery and Rule Learning with Large Language Models

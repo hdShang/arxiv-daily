@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COSMIC: Generalized Refusal Direction Identification in LLM Activations
+title: "COSMIC: Generalized Refusal Direction Identification in LLM Activations"
 ---
 
 # COSMIC: Generalized Refusal Direction Identification in LLM Activations

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EasyDistill: A Comprehensive Toolkit for Effective Knowledge Distillation of Large Language Models
+title: "EasyDistill: A Comprehensive Toolkit for Effective Knowledge Distillation of Large Language Models"
 ---
 
 # EasyDistill: A Comprehensive Toolkit for Effective Knowledge Distillation of Large Language Models

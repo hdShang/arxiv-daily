@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MotionDuet: Dual-Conditioned 3D Human Motion Generation with Video-Regularized Text Learning
+title: "MotionDuet: Dual-Conditioned 3D Human Motion Generation with Video-Regularized Text Learning"
 ---
 
 # MotionDuet: Dual-Conditioned 3D Human Motion Generation with Video-Regularized Text Learning

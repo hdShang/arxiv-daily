@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Skin to Skeleton: Towards Biomechanically Accurate 3D Digital Humans
+title: "From Skin to Skeleton: Towards Biomechanically Accurate 3D Digital Humans"
 ---
 
 # From Skin to Skeleton: Towards Biomechanically Accurate 3D Digital Humans

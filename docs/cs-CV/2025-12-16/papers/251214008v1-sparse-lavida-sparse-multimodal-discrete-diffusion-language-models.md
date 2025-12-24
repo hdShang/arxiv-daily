@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sparse-LaViDa: Sparse Multimodal Discrete Diffusion Language Models
+title: "Sparse-LaViDa: Sparse Multimodal Discrete Diffusion Language Models"
 ---
 
 # Sparse-LaViDa: Sparse Multimodal Discrete Diffusion Language Models

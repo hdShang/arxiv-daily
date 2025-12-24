@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CienaLLM: Generative Climate-Impact Extraction from News Articles with Autoregressive LLMs
+title: "CienaLLM: Generative Climate-Impact Extraction from News Articles with Autoregressive LLMs"
 ---
 
 # CienaLLM: Generative Climate-Impact Extraction from News Articles with Autoregressive LLMs

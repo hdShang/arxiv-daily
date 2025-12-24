@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LECTOR: LLM-Enhanced Concept-based Test-Oriented Repetition for Adaptive Spaced Learning
+title: "LECTOR: LLM-Enhanced Concept-based Test-Oriented Repetition for Adaptive Spaced Learning"
 ---
 
 # LECTOR: LLM-Enhanced Concept-based Test-Oriented Repetition for Adaptive Spaced Learning

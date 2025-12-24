@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R-Zero: Self-Evolving Reasoning LLM from Zero Data
+title: "R-Zero: Self-Evolving Reasoning LLM from Zero Data"
 ---
 
 # R-Zero: Self-Evolving Reasoning LLM from Zero Data

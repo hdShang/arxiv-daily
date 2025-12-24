@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Look and Tell: A Dataset for Multimodal Grounding Across Egocentric and Exocentric Views
+title: "Look and Tell: A Dataset for Multimodal Grounding Across Egocentric and Exocentric Views"
 ---
 
 # Look and Tell: A Dataset for Multimodal Grounding Across Egocentric and Exocentric Views

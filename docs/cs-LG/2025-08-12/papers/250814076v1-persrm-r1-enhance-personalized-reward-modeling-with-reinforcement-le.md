@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PersRM-R1: Enhance Personalized Reward Modeling with Reinforcement Learning
+title: "PersRM-R1: Enhance Personalized Reward Modeling with Reinforcement Learning"
 ---
 
 # PersRM-R1: Enhance Personalized Reward Modeling with Reinforcement Learning

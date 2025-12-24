@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ark: An Open-source Python-based Framework for Robot Learning
+title: "Ark: An Open-source Python-based Framework for Robot Learning"
 ---
 
 # Ark: An Open-source Python-based Framework for Robot Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SocialFusion: Addressing Social Degradation in Pre-trained Vision-Language Models
+title: "SocialFusion: Addressing Social Degradation in Pre-trained Vision-Language Models"
 ---
 
 # SocialFusion: Addressing Social Degradation in Pre-trained Vision-Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties
+title: "V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties"
 ---
 
 # V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties

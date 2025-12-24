@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MultiFinBen: Benchmarking Large Language Models for Multilingual and Multimodal Financial Application
+title: "MultiFinBen: Benchmarking Large Language Models for Multilingual and Multimodal Financial Application"
 ---
 
 # MultiFinBen: Benchmarking Large Language Models for Multilingual and Multimodal Financial Application

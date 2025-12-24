@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OASIS: Online Sample Selection for Continual Visual Instruction Tuning
+title: "OASIS: Online Sample Selection for Continual Visual Instruction Tuning"
 ---
 
 # OASIS: Online Sample Selection for Continual Visual Instruction Tuning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ViTaMIn-B: A Reliable and Efficient Visuo-Tactile Bimanual Manipulation Interface
+title: "ViTaMIn-B: A Reliable and Efficient Visuo-Tactile Bimanual Manipulation Interface"
 ---
 
 # ViTaMIn-B: A Reliable and Efficient Visuo-Tactile Bimanual Manipulation Interface

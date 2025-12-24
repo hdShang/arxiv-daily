@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases
+title: "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases"
 ---
 
 # Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases

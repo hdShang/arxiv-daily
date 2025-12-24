@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniGaze: Reward-inspired Generalizable Gaze Estimation In The Wild
+title: "OmniGaze: Reward-inspired Generalizable Gaze Estimation In The Wild"
 ---
 
 # OmniGaze: Reward-inspired Generalizable Gaze Estimation In The Wild

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LaTo: Landmark-tokenized Diffusion Transformer for Fine-grained Human Face Editing
+title: "LaTo: Landmark-tokenized Diffusion Transformer for Fine-grained Human Face Editing"
 ---
 
 # LaTo: Landmark-tokenized Diffusion Transformer for Fine-grained Human Face Editing

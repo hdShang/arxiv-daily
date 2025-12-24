@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Don't Blind Your VLA: Aligning Visual Representations for OOD Generalization
+title: "Don't Blind Your VLA: Aligning Visual Representations for OOD Generalization"
 ---
 
 # Don't Blind Your VLA: Aligning Visual Representations for OOD Generalization

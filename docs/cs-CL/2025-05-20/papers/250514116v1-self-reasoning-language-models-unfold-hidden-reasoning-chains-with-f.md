@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Self-Reasoning Language Models: Unfold Hidden Reasoning Chains with Few Reasoning Catalyst
+title: "Self-Reasoning Language Models: Unfold Hidden Reasoning Chains with Few Reasoning Catalyst"
 ---
 
 # Self-Reasoning Language Models: Unfold Hidden Reasoning Chains with Few Reasoning Catalyst

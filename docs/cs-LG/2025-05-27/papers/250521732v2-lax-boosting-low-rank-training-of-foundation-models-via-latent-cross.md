@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LaX: Boosting Low-Rank Training of Foundation Models via Latent Crossing
+title: "LaX: Boosting Low-Rank Training of Foundation Models via Latent Crossing"
 ---
 
 # LaX: Boosting Low-Rank Training of Foundation Models via Latent Crossing

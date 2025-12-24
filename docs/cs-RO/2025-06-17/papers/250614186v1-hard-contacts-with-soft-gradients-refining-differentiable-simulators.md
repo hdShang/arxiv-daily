@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hard Contacts with Soft Gradients: Refining Differentiable Simulators for Learning and Control
+title: "Hard Contacts with Soft Gradients: Refining Differentiable Simulators for Learning and Control"
 ---
 
 # Hard Contacts with Soft Gradients: Refining Differentiable Simulators for Learning and Control

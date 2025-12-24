@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Real-Time Defense Against Coordinated Cyber-Physical Attacks: A Robust Constrained Reinforcement Learning Approach
+title: "Real-Time Defense Against Coordinated Cyber-Physical Attacks: A Robust Constrained Reinforcement Learning Approach"
 ---
 
 # Real-Time Defense Against Coordinated Cyber-Physical Attacks: A Robust Constrained Reinforcement Learning Approach

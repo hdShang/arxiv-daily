@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fractional Policy Gradients: Reinforcement Learning with Long-Term Memory
+title: "Fractional Policy Gradients: Reinforcement Learning with Long-Term Memory"
 ---
 
 # Fractional Policy Gradients: Reinforcement Learning with Long-Term Memory

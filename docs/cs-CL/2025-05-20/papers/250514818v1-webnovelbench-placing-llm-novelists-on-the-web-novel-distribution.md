@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WebNovelBench: Placing LLM Novelists on the Web Novel Distribution
+title: "WebNovelBench: Placing LLM Novelists on the Web Novel Distribution"
 ---
 
 # WebNovelBench: Placing LLM Novelists on the Web Novel Distribution

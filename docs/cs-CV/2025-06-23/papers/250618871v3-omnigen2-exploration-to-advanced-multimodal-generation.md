@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniGen2: Exploration to Advanced Multimodal Generation
+title: "OmniGen2: Exploration to Advanced Multimodal Generation"
 ---
 
 # OmniGen2: Exploration to Advanced Multimodal Generation

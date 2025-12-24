@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoVer: Robot Reward Model as Test-Time Verifier for Vision-Language-Action Model
+title: "RoVer: Robot Reward Model as Test-Time Verifier for Vision-Language-Action Model"
 ---
 
 # RoVer: Robot Reward Model as Test-Time Verifier for Vision-Language-Action Model

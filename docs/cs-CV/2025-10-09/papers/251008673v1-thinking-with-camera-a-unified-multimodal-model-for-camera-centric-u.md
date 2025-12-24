@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation
+title: "Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation"
 ---
 
 # Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation

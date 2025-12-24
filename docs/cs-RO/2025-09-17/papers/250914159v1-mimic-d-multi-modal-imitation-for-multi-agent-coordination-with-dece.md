@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MIMIC-D: Multi-modal Imitation for MultI-agent Coordination with Decentralized Diffusion Policies
+title: "MIMIC-D: Multi-modal Imitation for MultI-agent Coordination with Decentralized Diffusion Policies"
 ---
 
 # MIMIC-D: Multi-modal Imitation for MultI-agent Coordination with Decentralized Diffusion Policies

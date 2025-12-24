@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EgoWalk: A Multimodal Dataset for Robot Navigation in the Wild
+title: "EgoWalk: A Multimodal Dataset for Robot Navigation in the Wild"
 ---
 
 # EgoWalk: A Multimodal Dataset for Robot Navigation in the Wild

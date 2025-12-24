@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM-RG: Referential Grounding in Outdoor Scenarios using Large Language Models
+title: "LLM-RG: Referential Grounding in Outdoor Scenarios using Large Language Models"
 ---
 
 # LLM-RG: Referential Grounding in Outdoor Scenarios using Large Language Models

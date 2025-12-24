@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoTDiff: High-resolution Motion Trajectory estimation from a single blurred image using Diffusion models
+title: "MoTDiff: High-resolution Motion Trajectory estimation from a single blurred image using Diffusion models"
 ---
 
 # MoTDiff: High-resolution Motion Trajectory estimation from a single blurred image using Diffusion models

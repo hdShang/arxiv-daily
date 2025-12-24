@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FMG-Det: Foundation Model Guided Robust Object Detection
+title: "FMG-Det: Foundation Model Guided Robust Object Detection"
 ---
 
 # FMG-Det: Foundation Model Guided Robust Object Detection

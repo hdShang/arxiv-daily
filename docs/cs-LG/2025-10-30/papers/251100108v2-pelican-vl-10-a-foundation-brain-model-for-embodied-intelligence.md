@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pelican-VL 1.0: A Foundation Brain Model for Embodied Intelligence
+title: "Pelican-VL 1.0: A Foundation Brain Model for Embodied Intelligence"
 ---
 
 # Pelican-VL 1.0: A Foundation Brain Model for Embodied Intelligence

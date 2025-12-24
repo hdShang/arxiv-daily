@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models
+title: "SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models"
 ---
 
 # SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sparse-dLLM: Accelerating Diffusion LLMs with Dynamic Cache Eviction
+title: "Sparse-dLLM: Accelerating Diffusion LLMs with Dynamic Cache Eviction"
 ---
 
 # Sparse-dLLM: Accelerating Diffusion LLMs with Dynamic Cache Eviction

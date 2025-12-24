@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SOCK: A Benchmark for Measuring Self-Replication in Large Language Models
+title: "SOCK: A Benchmark for Measuring Self-Replication in Large Language Models"
 ---
 
 # SOCK: A Benchmark for Measuring Self-Replication in Large Language Models

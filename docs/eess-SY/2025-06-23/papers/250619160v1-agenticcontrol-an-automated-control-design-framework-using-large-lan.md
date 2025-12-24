@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AgenticControl: An Automated Control Design Framework Using Large Language Models
+title: "AgenticControl: An Automated Control Design Framework Using Large Language Models"
 ---
 
 # AgenticControl: An Automated Control Design Framework Using Large Language Models

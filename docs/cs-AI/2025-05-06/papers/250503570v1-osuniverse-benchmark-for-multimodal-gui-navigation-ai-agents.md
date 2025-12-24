@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OSUniverse: Benchmark for Multimodal GUI-navigation AI Agents
+title: "OSUniverse: Benchmark for Multimodal GUI-navigation AI Agents"
 ---
 
 # OSUniverse: Benchmark for Multimodal GUI-navigation AI Agents

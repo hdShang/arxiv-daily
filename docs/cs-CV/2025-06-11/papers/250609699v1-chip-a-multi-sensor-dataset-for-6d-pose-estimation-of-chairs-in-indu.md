@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CHIP: A multi-sensor dataset for 6D pose estimation of chairs in industrial settings
+title: "CHIP: A multi-sensor dataset for 6D pose estimation of chairs in industrial settings"
 ---
 
 # CHIP: A multi-sensor dataset for 6D pose estimation of chairs in industrial settings

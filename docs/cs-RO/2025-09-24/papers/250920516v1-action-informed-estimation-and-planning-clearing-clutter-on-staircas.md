@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Action-Informed Estimation and Planning: Clearing Clutter on Staircases via Quadrupedal Pedipulation
+title: "Action-Informed Estimation and Planning: Clearing Clutter on Staircases via Quadrupedal Pedipulation"
 ---
 
 # Action-Informed Estimation and Planning: Clearing Clutter on Staircases via Quadrupedal Pedipulation

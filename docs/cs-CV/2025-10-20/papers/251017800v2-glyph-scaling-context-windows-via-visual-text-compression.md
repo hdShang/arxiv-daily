@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Glyph: Scaling Context Windows via Visual-Text Compression
+title: "Glyph: Scaling Context Windows via Visual-Text Compression"
 ---
 
 # Glyph: Scaling Context Windows via Visual-Text Compression

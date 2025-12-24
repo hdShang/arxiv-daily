@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoMaps: Semantics-Aware Scene Motion Generation with Motion Maps
+title: "MoMaps: Semantics-Aware Scene Motion Generation with Motion Maps"
 ---
 
 # MoMaps: Semantics-Aware Scene Motion Generation with Motion Maps

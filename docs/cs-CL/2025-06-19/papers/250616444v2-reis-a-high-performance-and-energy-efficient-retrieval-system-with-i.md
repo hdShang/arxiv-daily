@@ -1,6 +1,6 @@
 ---
 layout: default
-title: REIS: A High-Performance and Energy-Efficient Retrieval System with In-Storage Processing
+title: "REIS: A High-Performance and Energy-Efficient Retrieval System with In-Storage Processing"
 ---
 
 # REIS: A High-Performance and Energy-Efficient Retrieval System with In-Storage Processing

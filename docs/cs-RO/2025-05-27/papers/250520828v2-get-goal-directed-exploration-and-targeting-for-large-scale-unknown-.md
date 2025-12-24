@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GET: Goal-directed Exploration and Targeting for Large-Scale Unknown Environments
+title: "GET: Goal-directed Exploration and Targeting for Large-Scale Unknown Environments"
 ---
 
 # GET: Goal-directed Exploration and Targeting for Large-Scale Unknown Environments

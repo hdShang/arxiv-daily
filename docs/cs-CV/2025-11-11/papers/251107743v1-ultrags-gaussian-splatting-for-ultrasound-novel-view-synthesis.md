@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UltraGS: Gaussian Splatting for Ultrasound Novel View Synthesis
+title: "UltraGS: Gaussian Splatting for Ultrasound Novel View Synthesis"
 ---
 
 # UltraGS: Gaussian Splatting for Ultrasound Novel View Synthesis

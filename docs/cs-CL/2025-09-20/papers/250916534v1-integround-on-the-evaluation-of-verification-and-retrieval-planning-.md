@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InteGround: On the Evaluation of Verification and Retrieval Planning in Integrative Grounding
+title: "InteGround: On the Evaluation of Verification and Retrieval Planning in Integrative Grounding"
 ---
 
 # InteGround: On the Evaluation of Verification and Retrieval Planning in Integrative Grounding

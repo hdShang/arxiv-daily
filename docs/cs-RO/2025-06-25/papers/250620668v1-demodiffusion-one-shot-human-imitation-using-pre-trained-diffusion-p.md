@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy
+title: "DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy"
 ---
 
 # DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy

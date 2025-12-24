@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SceneMaker: Open-set 3D Scene Generation with Decoupled De-occlusion and Pose Estimation Model
+title: "SceneMaker: Open-set 3D Scene Generation with Decoupled De-occlusion and Pose Estimation Model"
 ---
 
 # SceneMaker: Open-set 3D Scene Generation with Decoupled De-occlusion and Pose Estimation Model

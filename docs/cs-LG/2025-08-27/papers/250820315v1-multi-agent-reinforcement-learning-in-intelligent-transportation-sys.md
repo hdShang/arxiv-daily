@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multi-Agent Reinforcement Learning in Intelligent Transportation Systems: A Comprehensive Survey
+title: "Multi-Agent Reinforcement Learning in Intelligent Transportation Systems: A Comprehensive Survey"
 ---
 
 # Multi-Agent Reinforcement Learning in Intelligent Transportation Systems: A Comprehensive Survey

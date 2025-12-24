@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mind-to-Face: Neural-Driven Photorealistic Avatar Synthesis via EEG Decoding
+title: "Mind-to-Face: Neural-Driven Photorealistic Avatar Synthesis via EEG Decoding"
 ---
 
 # Mind-to-Face: Neural-Driven Photorealistic Avatar Synthesis via EEG Decoding

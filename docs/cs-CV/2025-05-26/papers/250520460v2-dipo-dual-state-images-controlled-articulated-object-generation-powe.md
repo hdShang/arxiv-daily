@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DIPO: Dual-State Images Controlled Articulated Object Generation Powered by Diverse Data
+title: "DIPO: Dual-State Images Controlled Articulated Object Generation Powered by Diverse Data"
 ---
 
 # DIPO: Dual-State Images Controlled Articulated Object Generation Powered by Diverse Data

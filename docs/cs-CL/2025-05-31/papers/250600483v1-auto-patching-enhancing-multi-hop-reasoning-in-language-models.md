@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Auto-Patching: Enhancing Multi-Hop Reasoning in Language Models
+title: "Auto-Patching: Enhancing Multi-Hop Reasoning in Language Models"
 ---
 
 # Auto-Patching: Enhancing Multi-Hop Reasoning in Language Models

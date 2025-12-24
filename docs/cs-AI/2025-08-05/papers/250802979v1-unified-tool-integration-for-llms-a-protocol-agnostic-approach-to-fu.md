@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unified Tool Integration for LLMs: A Protocol-Agnostic Approach to Function Calling
+title: "Unified Tool Integration for LLMs: A Protocol-Agnostic Approach to Function Calling"
 ---
 
 # Unified Tool Integration for LLMs: A Protocol-Agnostic Approach to Function Calling

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Decoupling Reasoning and Perception: An LLM-LMM Framework for Faithful Visual Reasoning
+title: "Decoupling Reasoning and Perception: An LLM-LMM Framework for Faithful Visual Reasoning"
 ---
 
 # Decoupling Reasoning and Perception: An LLM-LMM Framework for Faithful Visual Reasoning

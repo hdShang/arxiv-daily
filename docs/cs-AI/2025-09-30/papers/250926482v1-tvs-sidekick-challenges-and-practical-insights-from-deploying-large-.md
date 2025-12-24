@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TVS Sidekick: Challenges and Practical Insights from Deploying Large Language Models in the Enterprise
+title: "TVS Sidekick: Challenges and Practical Insights from Deploying Large Language Models in the Enterprise"
 ---
 
 # TVS Sidekick: Challenges and Practical Insights from Deploying Large Language Models in the Enterprise

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CAST: Contrastive Adaptation and Distillation for Semi-Supervised Instance Segmentation
+title: "CAST: Contrastive Adaptation and Distillation for Semi-Supervised Instance Segmentation"
 ---
 
 # CAST: Contrastive Adaptation and Distillation for Semi-Supervised Instance Segmentation

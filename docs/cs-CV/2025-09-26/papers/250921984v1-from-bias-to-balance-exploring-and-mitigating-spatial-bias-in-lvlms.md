@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Bias to Balance: Exploring and Mitigating Spatial Bias in LVLMs
+title: "From Bias to Balance: Exploring and Mitigating Spatial Bias in LVLMs"
 ---
 
 # From Bias to Balance: Exploring and Mitigating Spatial Bias in LVLMs

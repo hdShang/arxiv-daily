@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QAgent: An LLM-based Multi-Agent System for Autonomous OpenQASM programming
+title: "QAgent: An LLM-based Multi-Agent System for Autonomous OpenQASM programming"
 ---
 
 # QAgent: An LLM-based Multi-Agent System for Autonomous OpenQASM programming

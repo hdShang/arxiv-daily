@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gaussian Entropy Fields: Driving Adaptive Sparsity in 3D Gaussian Optimization
+title: "Gaussian Entropy Fields: Driving Adaptive Sparsity in 3D Gaussian Optimization"
 ---
 
 # Gaussian Entropy Fields: Driving Adaptive Sparsity in 3D Gaussian Optimization

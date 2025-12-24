@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StPR: Spatiotemporal Preservation and Routing for Exemplar-Free Video Class-Incremental Learning
+title: "StPR: Spatiotemporal Preservation and Routing for Exemplar-Free Video Class-Incremental Learning"
 ---
 
 # StPR: Spatiotemporal Preservation and Routing for Exemplar-Free Video Class-Incremental Learning

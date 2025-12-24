@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PRETI: Patient-Aware Retinal Foundation Model via Metadata-Guided Representation Learning
+title: "PRETI: Patient-Aware Retinal Foundation Model via Metadata-Guided Representation Learning"
 ---
 
 # PRETI: Patient-Aware Retinal Foundation Model via Metadata-Guided Representation Learning

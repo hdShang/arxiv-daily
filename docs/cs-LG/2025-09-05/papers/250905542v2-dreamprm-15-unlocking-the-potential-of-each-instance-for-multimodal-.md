@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DreamPRM-1.5: Unlocking the Potential of Each Instance for Multimodal Process Reward Model Training
+title: "DreamPRM-1.5: Unlocking the Potential of Each Instance for Multimodal Process Reward Model Training"
 ---
 
 # DreamPRM-1.5: Unlocking the Potential of Each Instance for Multimodal Process Reward Model Training

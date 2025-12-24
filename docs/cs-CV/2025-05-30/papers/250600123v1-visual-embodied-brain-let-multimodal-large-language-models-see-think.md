@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visual Embodied Brain: Let Multimodal Large Language Models See, Think, and Control in Spaces
+title: "Visual Embodied Brain: Let Multimodal Large Language Models See, Think, and Control in Spaces"
 ---
 
 # Visual Embodied Brain: Let Multimodal Large Language Models See, Think, and Control in Spaces

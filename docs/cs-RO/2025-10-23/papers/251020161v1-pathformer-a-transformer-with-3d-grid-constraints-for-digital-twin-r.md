@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PathFormer: A Transformer with 3D Grid Constraints for Digital Twin Robot-Arm Trajectory Generation
+title: "PathFormer: A Transformer with 3D Grid Constraints for Digital Twin Robot-Arm Trajectory Generation"
 ---
 
 # PathFormer: A Transformer with 3D Grid Constraints for Digital Twin Robot-Arm Trajectory Generation

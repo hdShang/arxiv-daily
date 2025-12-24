@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions
+title: "Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions"
 ---
 
 # Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions

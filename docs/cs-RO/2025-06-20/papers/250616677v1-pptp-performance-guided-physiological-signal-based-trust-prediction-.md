@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PPTP: Performance-Guided Physiological Signal-Based Trust Prediction in Human-Robot Collaboration
+title: "PPTP: Performance-Guided Physiological Signal-Based Trust Prediction in Human-Robot Collaboration"
 ---
 
 # PPTP: Performance-Guided Physiological Signal-Based Trust Prediction in Human-Robot Collaboration

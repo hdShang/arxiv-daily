@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EgoPrivacy: What Your First-Person Camera Says About You?
+title: "EgoPrivacy: What Your First-Person Camera Says About You?"
 ---
 
 # EgoPrivacy: What Your First-Person Camera Says About You?

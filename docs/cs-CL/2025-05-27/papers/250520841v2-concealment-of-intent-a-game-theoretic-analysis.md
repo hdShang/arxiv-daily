@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Concealment of Intent: A Game-Theoretic Analysis
+title: "Concealment of Intent: A Game-Theoretic Analysis"
 ---
 
 # Concealment of Intent: A Game-Theoretic Analysis

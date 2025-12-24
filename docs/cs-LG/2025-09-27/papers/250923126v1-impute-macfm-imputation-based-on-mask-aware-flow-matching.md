@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Impute-MACFM: Imputation based on Mask-Aware Flow Matching
+title: "Impute-MACFM: Imputation based on Mask-Aware Flow Matching"
 ---
 
 # Impute-MACFM: Imputation based on Mask-Aware Flow Matching

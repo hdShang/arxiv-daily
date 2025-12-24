@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search
+title: "ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search"
 ---
 
 # ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search

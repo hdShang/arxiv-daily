@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dive into the Agent Matrix: A Realistic Evaluation of Self-Replication Risk in LLM Agents
+title: "Dive into the Agent Matrix: A Realistic Evaluation of Self-Replication Risk in LLM Agents"
 ---
 
 # Dive into the Agent Matrix: A Realistic Evaluation of Self-Replication Risk in LLM Agents

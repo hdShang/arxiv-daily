@@ -1,6 +1,6 @@
 ---
 layout: default
-title: REFINESTAT: Efficient Exploration for Probabilistic Program Synthesis
+title: "REFINESTAT: Efficient Exploration for Probabilistic Program Synthesis"
 ---
 
 # REFINESTAT: Efficient Exploration for Probabilistic Program Synthesis

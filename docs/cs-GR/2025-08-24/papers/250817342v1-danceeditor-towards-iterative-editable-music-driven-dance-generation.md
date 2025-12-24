@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DanceEditor: Towards Iterative Editable Music-driven Dance Generation with Open-Vocabulary Descriptions
+title: "DanceEditor: Towards Iterative Editable Music-driven Dance Generation with Open-Vocabulary Descriptions"
 ---
 
 # DanceEditor: Towards Iterative Editable Music-driven Dance Generation with Open-Vocabulary Descriptions

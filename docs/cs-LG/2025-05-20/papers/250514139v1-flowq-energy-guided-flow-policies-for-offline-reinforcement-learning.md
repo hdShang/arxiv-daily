@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FlowQ: Energy-Guided Flow Policies for Offline Reinforcement Learning
+title: "FlowQ: Energy-Guided Flow Policies for Offline Reinforcement Learning"
 ---
 
 # FlowQ: Energy-Guided Flow Policies for Offline Reinforcement Learning

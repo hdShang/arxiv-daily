@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reducing Discomfort in Driving Simulators: Motion Cueing for Motion Sickness Mitigation
+title: "Reducing Discomfort in Driving Simulators: Motion Cueing for Motion Sickness Mitigation"
 ---
 
 # Reducing Discomfort in Driving Simulators: Motion Cueing for Motion Sickness Mitigation

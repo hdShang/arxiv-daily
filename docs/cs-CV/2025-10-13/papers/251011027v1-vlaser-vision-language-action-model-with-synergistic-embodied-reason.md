@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vlaser: Vision-Language-Action Model with Synergistic Embodied Reasoning
+title: "Vlaser: Vision-Language-Action Model with Synergistic Embodied Reasoning"
 ---
 
 # Vlaser: Vision-Language-Action Model with Synergistic Embodied Reasoning

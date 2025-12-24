@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IntentionVLA: Generalizable and Efficient Embodied Intention Reasoning for Human-Robot Interaction
+title: "IntentionVLA: Generalizable and Efficient Embodied Intention Reasoning for Human-Robot Interaction"
 ---
 
 # IntentionVLA: Generalizable and Efficient Embodied Intention Reasoning for Human-Robot Interaction

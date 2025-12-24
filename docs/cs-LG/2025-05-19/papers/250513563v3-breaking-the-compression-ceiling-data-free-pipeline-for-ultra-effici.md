@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Breaking the Compression Ceiling: Data-Free Pipeline for Ultra-Efficient Delta Compression
+title: "Breaking the Compression Ceiling: Data-Free Pipeline for Ultra-Efficient Delta Compression"
 ---
 
 # Breaking the Compression Ceiling: Data-Free Pipeline for Ultra-Efficient Delta Compression

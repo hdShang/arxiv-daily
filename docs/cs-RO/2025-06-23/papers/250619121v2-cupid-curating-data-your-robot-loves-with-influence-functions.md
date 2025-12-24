@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CUPID: Curating Data your Robot Loves with Influence Functions
+title: "CUPID: Curating Data your Robot Loves with Influence Functions"
 ---
 
 # CUPID: Curating Data your Robot Loves with Influence Functions

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DiffusionUavLoc: Visually Prompted Diffusion for Cross-View UAV Localization
+title: "DiffusionUavLoc: Visually Prompted Diffusion for Cross-View UAV Localization"
 ---
 
 # DiffusionUavLoc: Visually Prompted Diffusion for Cross-View UAV Localization

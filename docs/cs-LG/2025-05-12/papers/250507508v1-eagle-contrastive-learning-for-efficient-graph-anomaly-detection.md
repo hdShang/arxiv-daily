@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EAGLE: Contrastive Learning for Efficient Graph Anomaly Detection
+title: "EAGLE: Contrastive Learning for Efficient Graph Anomaly Detection"
 ---
 
 # EAGLE: Contrastive Learning for Efficient Graph Anomaly Detection

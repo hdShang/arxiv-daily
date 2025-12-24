@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SAMURAI: Shape-Aware Multimodal Retrieval for 3D Object Identification
+title: "SAMURAI: Shape-Aware Multimodal Retrieval for 3D Object Identification"
 ---
 
 # SAMURAI: Shape-Aware Multimodal Retrieval for 3D Object Identification

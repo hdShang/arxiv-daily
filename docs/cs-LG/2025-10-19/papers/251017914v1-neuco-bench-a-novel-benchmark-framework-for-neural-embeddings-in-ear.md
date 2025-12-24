@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NeuCo-Bench: A Novel Benchmark Framework for Neural Embeddings in Earth Observation
+title: "NeuCo-Bench: A Novel Benchmark Framework for Neural Embeddings in Earth Observation"
 ---
 
 # NeuCo-Bench: A Novel Benchmark Framework for Neural Embeddings in Earth Observation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Linear Steering: Unified Multi-Attribute Control for Language Models
+title: "Beyond Linear Steering: Unified Multi-Attribute Control for Language Models"
 ---
 
 # Beyond Linear Steering: Unified Multi-Attribute Control for Language Models

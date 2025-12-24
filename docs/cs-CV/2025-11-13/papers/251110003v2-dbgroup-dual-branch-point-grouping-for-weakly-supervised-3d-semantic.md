@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DBGroup: Dual-Branch Point Grouping for Weakly Supervised 3D Semantic Instance Segmentation
+title: "DBGroup: Dual-Branch Point Grouping for Weakly Supervised 3D Semantic Instance Segmentation"
 ---
 
 # DBGroup: Dual-Branch Point Grouping for Weakly Supervised 3D Semantic Instance Segmentation

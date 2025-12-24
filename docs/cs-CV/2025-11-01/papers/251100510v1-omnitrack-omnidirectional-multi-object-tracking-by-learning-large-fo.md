@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniTrack++: Omnidirectional Multi-Object Tracking by Learning Large-FoV Trajectory Feedback
+title: "OmniTrack++: Omnidirectional Multi-Object Tracking by Learning Large-FoV Trajectory Feedback"
 ---
 
 # OmniTrack++: Omnidirectional Multi-Object Tracking by Learning Large-FoV Trajectory Feedback

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CHARM: Collaborative Harmonization across Arbitrary Modalities for Modality-agnostic Semantic Segmentation
+title: "CHARM: Collaborative Harmonization across Arbitrary Modalities for Modality-agnostic Semantic Segmentation"
 ---
 
 # CHARM: Collaborative Harmonization across Arbitrary Modalities for Modality-agnostic Semantic Segmentation

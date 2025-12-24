@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AppAgent-Pro: A Proactive GUI Agent System for Multidomain Information Integration and User Assistance
+title: "AppAgent-Pro: A Proactive GUI Agent System for Multidomain Information Integration and User Assistance"
 ---
 
 # AppAgent-Pro: A Proactive GUI Agent System for Multidomain Information Integration and User Assistance

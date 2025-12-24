@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DINA: A Dual Defense Framework Against Internal Noise and External Attacks in Natural Language Processing
+title: "DINA: A Dual Defense Framework Against Internal Noise and External Attacks in Natural Language Processing"
 ---
 
 # DINA: A Dual Defense Framework Against Internal Noise and External Attacks in Natural Language Processing

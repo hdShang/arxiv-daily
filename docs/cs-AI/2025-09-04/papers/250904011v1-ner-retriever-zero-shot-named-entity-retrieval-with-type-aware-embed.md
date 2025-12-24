@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NER Retriever: Zero-Shot Named Entity Retrieval with Type-Aware Embeddings
+title: "NER Retriever: Zero-Shot Named Entity Retrieval with Type-Aware Embeddings"
 ---
 
 # NER Retriever: Zero-Shot Named Entity Retrieval with Type-Aware Embeddings

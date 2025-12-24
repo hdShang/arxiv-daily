@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation
+title: "CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation"
 ---
 
 # CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation

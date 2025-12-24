@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VADTree: Explainable Training-Free Video Anomaly Detection via Hierarchical Granularity-Aware Tree
+title: "VADTree: Explainable Training-Free Video Anomaly Detection via Hierarchical Granularity-Aware Tree"
 ---
 
 # VADTree: Explainable Training-Free Video Anomaly Detection via Hierarchical Granularity-Aware Tree

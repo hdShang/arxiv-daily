@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VideoRFT: Incentivizing Video Reasoning Capability in MLLMs via Reinforced Fine-Tuning
+title: "VideoRFT: Incentivizing Video Reasoning Capability in MLLMs via Reinforced Fine-Tuning"
 ---
 
 # VideoRFT: Incentivizing Video Reasoning Capability in MLLMs via Reinforced Fine-Tuning

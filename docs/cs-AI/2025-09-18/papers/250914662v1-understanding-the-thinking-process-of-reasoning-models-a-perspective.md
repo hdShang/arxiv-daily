@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Understanding the Thinking Process of Reasoning Models: A Perspective from Schoenfeld's Episode Theory
+title: "Understanding the Thinking Process of Reasoning Models: A Perspective from Schoenfeld's Episode Theory"
 ---
 
 # Understanding the Thinking Process of Reasoning Models: A Perspective from Schoenfeld's Episode Theory

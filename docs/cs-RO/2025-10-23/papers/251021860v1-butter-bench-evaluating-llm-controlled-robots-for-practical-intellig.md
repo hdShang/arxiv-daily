@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Butter-Bench: Evaluating LLM Controlled Robots for Practical Intelligence
+title: "Butter-Bench: Evaluating LLM Controlled Robots for Practical Intelligence"
 ---
 
 # Butter-Bench: Evaluating LLM Controlled Robots for Practical Intelligence

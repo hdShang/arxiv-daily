@@ -1,6 +1,6 @@
 ---
 layout: default
-title: U-LAG: Uncertainty-Aware, Lag-Adaptive Goal Retargeting for Robotic Manipulation
+title: "U-LAG: Uncertainty-Aware, Lag-Adaptive Goal Retargeting for Robotic Manipulation"
 ---
 
 # U-LAG: Uncertainty-Aware, Lag-Adaptive Goal Retargeting for Robotic Manipulation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SparkUI-Parser: Enhancing GUI Perception with Robust Grounding and Parsing
+title: "SparkUI-Parser: Enhancing GUI Perception with Robust Grounding and Parsing"
 ---
 
 # SparkUI-Parser: Enhancing GUI Perception with Robust Grounding and Parsing

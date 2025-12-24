@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLMs Can't Handle Peer Pressure: Crumbling under Multi-Agent Social Interactions
+title: "LLMs Can't Handle Peer Pressure: Crumbling under Multi-Agent Social Interactions"
 ---
 
 # LLMs Can't Handle Peer Pressure: Crumbling under Multi-Agent Social Interactions

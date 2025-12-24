@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping
+title: "SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping"
 ---
 
 # SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping

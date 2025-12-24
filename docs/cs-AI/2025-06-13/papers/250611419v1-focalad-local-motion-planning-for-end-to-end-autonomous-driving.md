@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FocalAD: Local Motion Planning for End-to-End Autonomous Driving
+title: "FocalAD: Local Motion Planning for End-to-End Autonomous Driving"
 ---
 
 # FocalAD: Local Motion Planning for End-to-End Autonomous Driving

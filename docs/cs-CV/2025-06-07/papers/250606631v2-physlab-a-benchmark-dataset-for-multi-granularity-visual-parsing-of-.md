@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PhysLab: A Benchmark Dataset for Multi-Granularity Visual Parsing of Physics Experiments
+title: "PhysLab: A Benchmark Dataset for Multi-Granularity Visual Parsing of Physics Experiments"
 ---
 
 # PhysLab: A Benchmark Dataset for Multi-Granularity Visual Parsing of Physics Experiments

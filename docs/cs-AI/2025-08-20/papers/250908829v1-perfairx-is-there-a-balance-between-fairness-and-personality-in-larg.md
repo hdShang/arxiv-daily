@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PerFairX: Is There a Balance Between Fairness and Personality in Large Language Model Recommendations?
+title: "PerFairX: Is There a Balance Between Fairness and Personality in Large Language Model Recommendations?"
 ---
 
 # PerFairX: Is There a Balance Between Fairness and Personality in Large Language Model Recommendations?

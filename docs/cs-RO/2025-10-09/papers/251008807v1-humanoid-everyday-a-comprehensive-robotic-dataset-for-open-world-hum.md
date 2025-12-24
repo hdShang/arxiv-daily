@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation
+title: "Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation"
 ---
 
 # Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation

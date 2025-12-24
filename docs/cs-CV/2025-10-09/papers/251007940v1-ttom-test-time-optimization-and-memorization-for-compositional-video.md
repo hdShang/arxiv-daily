@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TTOM: Test-Time Optimization and Memorization for Compositional Video Generation
+title: "TTOM: Test-Time Optimization and Memorization for Compositional Video Generation"
 ---
 
 # TTOM: Test-Time Optimization and Memorization for Compositional Video Generation

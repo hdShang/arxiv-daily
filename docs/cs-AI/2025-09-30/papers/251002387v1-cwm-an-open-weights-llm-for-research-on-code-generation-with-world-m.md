@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CWM: An Open-Weights LLM for Research on Code Generation with World Models
+title: "CWM: An Open-Weights LLM for Research on Code Generation with World Models"
 ---
 
 # CWM: An Open-Weights LLM for Research on Code Generation with World Models

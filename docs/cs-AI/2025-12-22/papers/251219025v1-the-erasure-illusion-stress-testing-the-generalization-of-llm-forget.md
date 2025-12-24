@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Erasure Illusion: Stress-Testing the Generalization of LLM Forgetting Evaluation
+title: "The Erasure Illusion: Stress-Testing the Generalization of LLM Forgetting Evaluation"
 ---
 
 # The Erasure Illusion: Stress-Testing the Generalization of LLM Forgetting Evaluation

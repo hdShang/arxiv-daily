@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReCamDriving: LiDAR-Free Camera-Controlled Novel Trajectory Video Generation
+title: "ReCamDriving: LiDAR-Free Camera-Controlled Novel Trajectory Video Generation"
 ---
 
 # ReCamDriving: LiDAR-Free Camera-Controlled Novel Trajectory Video Generation

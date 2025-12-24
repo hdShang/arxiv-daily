@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models
+title: "Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models"
 ---
 
 # Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models

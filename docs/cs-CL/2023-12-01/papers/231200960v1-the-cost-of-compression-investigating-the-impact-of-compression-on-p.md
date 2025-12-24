@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Cost of Compression: Investigating the Impact of Compression on Parametric Knowledge in Language Models
+title: "The Cost of Compression: Investigating the Impact of Compression on Parametric Knowledge in Language Models"
 ---
 
 # The Cost of Compression: Investigating the Impact of Compression on Parametric Knowledge in Language Models

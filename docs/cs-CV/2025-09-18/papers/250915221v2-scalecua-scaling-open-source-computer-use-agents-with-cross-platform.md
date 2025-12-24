@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data
+title: "ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data"
 ---
 
 # ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data

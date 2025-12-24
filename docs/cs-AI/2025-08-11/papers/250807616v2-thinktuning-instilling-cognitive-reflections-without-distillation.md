@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ThinkTuning: Instilling Cognitive Reflections without Distillation
+title: "ThinkTuning: Instilling Cognitive Reflections without Distillation"
 ---
 
 # ThinkTuning: Instilling Cognitive Reflections without Distillation

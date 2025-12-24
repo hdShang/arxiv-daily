@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RL-Selector: Reinforcement Learning-Guided Data Selection via Redundancy Assessment
+title: "RL-Selector: Reinforcement Learning-Guided Data Selection via Redundancy Assessment"
 ---
 
 # RL-Selector: Reinforcement Learning-Guided Data Selection via Redundancy Assessment

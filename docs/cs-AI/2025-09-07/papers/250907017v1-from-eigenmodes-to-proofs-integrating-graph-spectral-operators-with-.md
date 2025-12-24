@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Eigenmodes to Proofs: Integrating Graph Spectral Operators with Symbolic Interpretable Reasoning
+title: "From Eigenmodes to Proofs: Integrating Graph Spectral Operators with Symbolic Interpretable Reasoning"
 ---
 
 # From Eigenmodes to Proofs: Integrating Graph Spectral Operators with Symbolic Interpretable Reasoning

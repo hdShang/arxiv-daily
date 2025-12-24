@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Animate-X++: Universal Character Image Animation with Dynamic Backgrounds
+title: "Animate-X++: Universal Character Image Animation with Dynamic Backgrounds"
 ---
 
 # Animate-X++: Universal Character Image Animation with Dynamic Backgrounds

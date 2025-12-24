@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GloSS over Toxicity: Understanding and Mitigating Toxicity in LLMs via Global Toxic Subspace
+title: "GloSS over Toxicity: Understanding and Mitigating Toxicity in LLMs via Global Toxic Subspace"
 ---
 
 # GloSS over Toxicity: Understanding and Mitigating Toxicity in LLMs via Global Toxic Subspace

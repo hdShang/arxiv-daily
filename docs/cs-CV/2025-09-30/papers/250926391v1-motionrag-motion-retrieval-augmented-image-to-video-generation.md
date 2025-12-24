@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation
+title: "MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation"
 ---
 
 # MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation

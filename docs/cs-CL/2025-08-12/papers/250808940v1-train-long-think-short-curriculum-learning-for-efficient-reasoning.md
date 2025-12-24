@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Train Long, Think Short: Curriculum Learning for Efficient Reasoning
+title: "Train Long, Think Short: Curriculum Learning for Efficient Reasoning"
 ---
 
 # Train Long, Think Short: Curriculum Learning for Efficient Reasoning

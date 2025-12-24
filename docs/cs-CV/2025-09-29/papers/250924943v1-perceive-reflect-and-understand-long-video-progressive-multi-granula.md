@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Perceive, Reflect and Understand Long Video: Progressive Multi-Granular Clue Exploration with Interactive Agents
+title: "Perceive, Reflect and Understand Long Video: Progressive Multi-Granular Clue Exploration with Interactive Agents"
 ---
 
 # Perceive, Reflect and Understand Long Video: Progressive Multi-Granular Clue Exploration with Interactive Agents

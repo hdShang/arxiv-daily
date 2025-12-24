@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Omnidirectional Reasoning with 360-R1: A Dataset, Benchmark, and GRPO-based Method
+title: "Towards Omnidirectional Reasoning with 360-R1: A Dataset, Benchmark, and GRPO-based Method"
 ---
 
 # Towards Omnidirectional Reasoning with 360-R1: A Dataset, Benchmark, and GRPO-based Method

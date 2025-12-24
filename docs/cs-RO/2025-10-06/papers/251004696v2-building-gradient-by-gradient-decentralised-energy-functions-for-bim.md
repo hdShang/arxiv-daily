@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Building Gradient by Gradient: Decentralised Energy Functions for Bimanual Robot Assembly
+title: "Building Gradient by Gradient: Decentralised Energy Functions for Bimanual Robot Assembly"
 ---
 
 # Building Gradient by Gradient: Decentralised Energy Functions for Bimanual Robot Assembly

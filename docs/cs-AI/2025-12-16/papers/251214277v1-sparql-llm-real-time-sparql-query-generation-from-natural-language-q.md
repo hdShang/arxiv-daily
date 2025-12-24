@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SPARQL-LLM: Real-Time SPARQL Query Generation from Natural Language Questions
+title: "SPARQL-LLM: Real-Time SPARQL Query Generation from Natural Language Questions"
 ---
 
 # SPARQL-LLM: Real-Time SPARQL Query Generation from Natural Language Questions

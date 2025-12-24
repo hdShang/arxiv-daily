@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EMAG: Self-Rectifying Diffusion Sampling with Exponential Moving Average Guidance
+title: "EMAG: Self-Rectifying Diffusion Sampling with Exponential Moving Average Guidance"
 ---
 
 # EMAG: Self-Rectifying Diffusion Sampling with Exponential Moving Average Guidance

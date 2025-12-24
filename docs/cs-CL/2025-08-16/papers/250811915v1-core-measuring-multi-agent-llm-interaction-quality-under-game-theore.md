@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CORE: Measuring Multi-Agent LLM Interaction Quality under Game-Theoretic Pressures
+title: "CORE: Measuring Multi-Agent LLM Interaction Quality under Game-Theoretic Pressures"
 ---
 
 # CORE: Measuring Multi-Agent LLM Interaction Quality under Game-Theoretic Pressures

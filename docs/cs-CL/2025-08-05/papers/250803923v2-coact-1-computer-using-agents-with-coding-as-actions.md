@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoAct-1: Computer-using Agents with Coding as Actions
+title: "CoAct-1: Computer-using Agents with Coding as Actions"
 ---
 
 # CoAct-1: Computer-using Agents with Coding as Actions

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Metaphor identification using large language models: A comparison of RAG, prompt engineering, and fine-tuning
+title: "Metaphor identification using large language models: A comparison of RAG, prompt engineering, and fine-tuning"
 ---
 
 # Metaphor identification using large language models: A comparison of RAG, prompt engineering, and fine-tuning

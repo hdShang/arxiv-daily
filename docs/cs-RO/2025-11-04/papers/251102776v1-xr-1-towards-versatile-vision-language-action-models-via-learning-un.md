@@ -1,6 +1,6 @@
 ---
 layout: default
-title: XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations
+title: "XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations"
 ---
 
 # XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations

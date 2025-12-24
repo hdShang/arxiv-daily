@@ -1,6 +1,6 @@
 ---
 layout: default
-title: iLearnRobot: An Interactive Learning-Based Multi-Modal Robot with Continuous Improvement
+title: "iLearnRobot: An Interactive Learning-Based Multi-Modal Robot with Continuous Improvement"
 ---
 
 # iLearnRobot: An Interactive Learning-Based Multi-Modal Robot with Continuous Improvement

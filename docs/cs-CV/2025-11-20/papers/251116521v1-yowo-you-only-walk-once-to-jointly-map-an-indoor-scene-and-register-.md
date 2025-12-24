@@ -1,6 +1,6 @@
 ---
 layout: default
-title: YOWO: You Only Walk Once to Jointly Map An Indoor Scene and Register Ceiling-mounted Cameras
+title: "YOWO: You Only Walk Once to Jointly Map An Indoor Scene and Register Ceiling-mounted Cameras"
 ---
 
 # YOWO: You Only Walk Once to Jointly Map An Indoor Scene and Register Ceiling-mounted Cameras

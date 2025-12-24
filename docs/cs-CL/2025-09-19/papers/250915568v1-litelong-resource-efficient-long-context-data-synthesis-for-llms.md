@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LiteLong: Resource-Efficient Long-Context Data Synthesis for LLMs
+title: "LiteLong: Resource-Efficient Long-Context Data Synthesis for LLMs"
 ---
 
 # LiteLong: Resource-Efficient Long-Context Data Synthesis for LLMs

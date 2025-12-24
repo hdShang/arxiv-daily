@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LabelGS: Label-Aware 3D Gaussian Splatting for 3D Scene Segmentation
+title: "LabelGS: Label-Aware 3D Gaussian Splatting for 3D Scene Segmentation"
 ---
 
 # LabelGS: Label-Aware 3D Gaussian Splatting for 3D Scene Segmentation

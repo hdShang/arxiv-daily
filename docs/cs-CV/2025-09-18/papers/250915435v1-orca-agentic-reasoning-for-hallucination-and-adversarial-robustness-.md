@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ORCA: Agentic Reasoning For Hallucination and Adversarial Robustness in Vision-Language Models
+title: "ORCA: Agentic Reasoning For Hallucination and Adversarial Robustness in Vision-Language Models"
 ---
 
 # ORCA: Agentic Reasoning For Hallucination and Adversarial Robustness in Vision-Language Models

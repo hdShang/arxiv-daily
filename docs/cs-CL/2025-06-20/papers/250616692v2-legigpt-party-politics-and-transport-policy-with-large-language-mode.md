@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LegiGPT: Party Politics and Transport Policy with Large Language Model
+title: "LegiGPT: Party Politics and Transport Policy with Large Language Model"
 ---
 
 # LegiGPT: Party Politics and Transport Policy with Large Language Model

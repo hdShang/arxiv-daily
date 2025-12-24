@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GUIDES: Guidance Using Instructor-Distilled Embeddings for Pre-trained Robot Policy Enhancement
+title: "GUIDES: Guidance Using Instructor-Distilled Embeddings for Pre-trained Robot Policy Enhancement"
 ---
 
 # GUIDES: Guidance Using Instructor-Distilled Embeddings for Pre-trained Robot Policy Enhancement

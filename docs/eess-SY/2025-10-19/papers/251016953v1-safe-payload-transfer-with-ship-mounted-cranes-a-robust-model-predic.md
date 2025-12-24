@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Safe Payload Transfer with Ship-Mounted Cranes: A Robust Model Predictive Control Approach
+title: "Safe Payload Transfer with Ship-Mounted Cranes: A Robust Model Predictive Control Approach"
 ---
 
 # Safe Payload Transfer with Ship-Mounted Cranes: A Robust Model Predictive Control Approach

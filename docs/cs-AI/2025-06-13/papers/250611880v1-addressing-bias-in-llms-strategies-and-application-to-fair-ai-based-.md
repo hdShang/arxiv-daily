@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Addressing Bias in LLMs: Strategies and Application to Fair AI-based Recruitment
+title: "Addressing Bias in LLMs: Strategies and Application to Fair AI-based Recruitment"
 ---
 
 # Addressing Bias in LLMs: Strategies and Application to Fair AI-based Recruitment

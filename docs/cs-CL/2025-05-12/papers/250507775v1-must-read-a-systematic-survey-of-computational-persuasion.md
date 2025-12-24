@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Must Read: A Systematic Survey of Computational Persuasion
+title: "Must Read: A Systematic Survey of Computational Persuasion"
 ---
 
 # Must Read: A Systematic Survey of Computational Persuasion

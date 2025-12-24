@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ComPO: Preference Alignment via Comparison Oracles
+title: "ComPO: Preference Alignment via Comparison Oracles"
 ---
 
 # ComPO: Preference Alignment via Comparison Oracles

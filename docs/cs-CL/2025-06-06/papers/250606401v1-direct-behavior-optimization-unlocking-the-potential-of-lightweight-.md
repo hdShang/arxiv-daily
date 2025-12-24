@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Direct Behavior Optimization: Unlocking the Potential of Lightweight LLMs
+title: "Direct Behavior Optimization: Unlocking the Potential of Lightweight LLMs"
 ---
 
 # Direct Behavior Optimization: Unlocking the Potential of Lightweight LLMs

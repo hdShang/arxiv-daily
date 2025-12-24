@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving
+title: "ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving"
 ---
 
 # ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving

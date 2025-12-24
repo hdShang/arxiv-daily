@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning Obfuscations Of LLM Embedding Sequences: Stained Glass Transform
+title: "Learning Obfuscations Of LLM Embedding Sequences: Stained Glass Transform"
 ---
 
 # Learning Obfuscations Of LLM Embedding Sequences: Stained Glass Transform

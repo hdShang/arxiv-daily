@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CARI4D: Category Agnostic 4D Reconstruction of Human-Object Interaction
+title: "CARI4D: Category Agnostic 4D Reconstruction of Human-Object Interaction"
 ---
 
 # CARI4D: Category Agnostic 4D Reconstruction of Human-Object Interaction

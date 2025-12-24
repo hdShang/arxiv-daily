@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models
+title: "VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models"
 ---
 
 # VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models

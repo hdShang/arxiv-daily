@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SphereDrag: Spherical Geometry-Aware Panoramic Image Editing
+title: "SphereDrag: Spherical Geometry-Aware Panoramic Image Editing"
 ---
 
 # SphereDrag: Spherical Geometry-Aware Panoramic Image Editing

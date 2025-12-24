@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SAFE: Multitask Failure Detection for Vision-Language-Action Models
+title: "SAFE: Multitask Failure Detection for Vision-Language-Action Models"
 ---
 
 # SAFE: Multitask Failure Detection for Vision-Language-Action Models

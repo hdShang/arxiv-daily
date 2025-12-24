@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thinking in 360°: Humanoid Visual Search in the Wild
+title: "Thinking in 360°: Humanoid Visual Search in the Wild"
 ---
 
 # Thinking in 360°: Humanoid Visual Search in the Wild

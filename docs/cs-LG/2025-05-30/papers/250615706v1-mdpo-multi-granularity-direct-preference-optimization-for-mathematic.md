@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MDPO: Multi-Granularity Direct Preference Optimization for Mathematical Reasoning
+title: "MDPO: Multi-Granularity Direct Preference Optimization for Mathematical Reasoning"
 ---
 
 # MDPO: Multi-Granularity Direct Preference Optimization for Mathematical Reasoning

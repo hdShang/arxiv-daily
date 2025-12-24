@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Machine Learning Enabled Graph Analysis of Particulate Composites: Application to Solid-state Battery Cathodes
+title: "Machine Learning Enabled Graph Analysis of Particulate Composites: Application to Solid-state Battery Cathodes"
 ---
 
 # Machine Learning Enabled Graph Analysis of Particulate Composites: Application to Solid-state Battery Cathodes

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WMPO: World Model-based Policy Optimization for Vision-Language-Action Models
+title: "WMPO: World Model-based Policy Optimization for Vision-Language-Action Models"
 ---
 
 # WMPO: World Model-based Policy Optimization for Vision-Language-Action Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Collaborate sim and real: Robot Bin Packing Learning in Real-world and Physical Engine
+title: "Collaborate sim and real: Robot Bin Packing Learning in Real-world and Physical Engine"
 ---
 
 # Collaborate sim and real: Robot Bin Packing Learning in Real-world and Physical Engine

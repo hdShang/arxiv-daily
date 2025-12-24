@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PIGEON: VLM-Driven Object Navigation via Points of Interest Selection
+title: "PIGEON: VLM-Driven Object Navigation via Points of Interest Selection"
 ---
 
 # PIGEON: VLM-Driven Object Navigation via Points of Interest Selection

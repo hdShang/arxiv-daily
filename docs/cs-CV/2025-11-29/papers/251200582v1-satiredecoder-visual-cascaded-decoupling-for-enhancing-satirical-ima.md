@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SatireDecoder: Visual Cascaded Decoupling for Enhancing Satirical Image Comprehension
+title: "SatireDecoder: Visual Cascaded Decoupling for Enhancing Satirical Image Comprehension"
 ---
 
 # SatireDecoder: Visual Cascaded Decoupling for Enhancing Satirical Image Comprehension

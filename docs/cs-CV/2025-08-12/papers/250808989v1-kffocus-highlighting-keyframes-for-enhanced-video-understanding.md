@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KFFocus: Highlighting Keyframes for Enhanced Video Understanding
+title: "KFFocus: Highlighting Keyframes for Enhanced Video Understanding"
 ---
 
 # KFFocus: Highlighting Keyframes for Enhanced Video Understanding

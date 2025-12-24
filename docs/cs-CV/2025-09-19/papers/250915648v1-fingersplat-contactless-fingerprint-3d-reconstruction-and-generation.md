@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FingerSplat: Contactless Fingerprint 3D Reconstruction and Generation based on 3D Gaussian Splatting
+title: "FingerSplat: Contactless Fingerprint 3D Reconstruction and Generation based on 3D Gaussian Splatting"
 ---
 
 # FingerSplat: Contactless Fingerprint 3D Reconstruction and Generation based on 3D Gaussian Splatting

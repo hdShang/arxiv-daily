@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4KDehazeFlow: Ultra-High-Definition Image Dehazing via Flow Matching
+title: "4KDehazeFlow: Ultra-High-Definition Image Dehazing via Flow Matching"
 ---
 
 # 4KDehazeFlow: Ultra-High-Definition Image Dehazing via Flow Matching

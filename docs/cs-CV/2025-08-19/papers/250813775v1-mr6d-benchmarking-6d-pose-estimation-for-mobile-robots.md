@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MR6D: Benchmarking 6D Pose Estimation for Mobile Robots
+title: "MR6D: Benchmarking 6D Pose Estimation for Mobile Robots"
 ---
 
 # MR6D: Benchmarking 6D Pose Estimation for Mobile Robots

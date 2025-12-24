@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SP-VINS: A Hybrid Stereo Visual Inertial Navigation System based on Implicit Environmental Map
+title: "SP-VINS: A Hybrid Stereo Visual Inertial Navigation System based on Implicit Environmental Map"
 ---
 
 # SP-VINS: A Hybrid Stereo Visual Inertial Navigation System based on Implicit Environmental Map

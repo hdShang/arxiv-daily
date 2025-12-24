@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs
+title: "AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs"
 ---
 
 # AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs

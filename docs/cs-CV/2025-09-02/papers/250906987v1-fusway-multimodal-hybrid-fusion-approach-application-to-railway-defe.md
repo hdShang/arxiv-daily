@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FusWay: Multimodal hybrid fusion approach. Application to Railway Defect Detection
+title: "FusWay: Multimodal hybrid fusion approach. Application to Railway Defect Detection"
 ---
 
 # FusWay: Multimodal hybrid fusion approach. Application to Railway Defect Detection

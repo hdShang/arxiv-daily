@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LiveNeRF: Efficient Face Replacement Through Neural Radiance Fields Integration
+title: "LiveNeRF: Efficient Face Replacement Through Neural Radiance Fields Integration"
 ---
 
 # LiveNeRF: Efficient Face Replacement Through Neural Radiance Fields Integration

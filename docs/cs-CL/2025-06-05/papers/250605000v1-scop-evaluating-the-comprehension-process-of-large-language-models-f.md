@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SCOP: Evaluating the Comprehension Process of Large Language Models from a Cognitive View
+title: "SCOP: Evaluating the Comprehension Process of Large Language Models from a Cognitive View"
 ---
 
 # SCOP: Evaluating the Comprehension Process of Large Language Models from a Cognitive View

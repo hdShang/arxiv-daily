@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3D Cal: An Open-Source Software Library for Calibrating Tactile Sensors
+title: "3D Cal: An Open-Source Software Library for Calibrating Tactile Sensors"
 ---
 
 # 3D Cal: An Open-Source Software Library for Calibrating Tactile Sensors

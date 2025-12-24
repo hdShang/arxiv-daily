@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data and AI governance: Promoting equity, ethics, and fairness in large language models
+title: "Data and AI governance: Promoting equity, ethics, and fairness in large language models"
 ---
 
 # Data and AI governance: Promoting equity, ethics, and fairness in large language models

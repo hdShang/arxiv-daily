@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Score Before You Speak: Improving Persona Consistency in Dialogue Generation using Response Quality Scores
+title: "Score Before You Speak: Improving Persona Consistency in Dialogue Generation using Response Quality Scores"
 ---
 
 # Score Before You Speak: Improving Persona Consistency in Dialogue Generation using Response Quality Scores

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FormalML: A Benchmark for Evaluating Formal Subgoal Completion in Machine Learning Theory
+title: "FormalML: A Benchmark for Evaluating Formal Subgoal Completion in Machine Learning Theory"
 ---
 
 # FormalML: A Benchmark for Evaluating Formal Subgoal Completion in Machine Learning Theory

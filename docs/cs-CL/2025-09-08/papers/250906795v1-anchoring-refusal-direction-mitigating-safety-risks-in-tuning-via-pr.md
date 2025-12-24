@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Anchoring Refusal Direction: Mitigating Safety Risks in Tuning via Projection Constraint
+title: "Anchoring Refusal Direction: Mitigating Safety Risks in Tuning via Projection Constraint"
 ---
 
 # Anchoring Refusal Direction: Mitigating Safety Risks in Tuning via Projection Constraint

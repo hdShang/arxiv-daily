@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LayoutGKN: Graph Similarity Learning of Floor Plans
+title: "LayoutGKN: Graph Similarity Learning of Floor Plans"
 ---
 
 # LayoutGKN: Graph Similarity Learning of Floor Plans

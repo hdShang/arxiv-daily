@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond GPT-5: Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing
+title: "Beyond GPT-5: Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing"
 ---
 
 # Beyond GPT-5: Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing

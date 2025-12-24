@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EETnet: a CNN for Gaze Detection and Tracking for Smart-Eyewear
+title: "EETnet: a CNN for Gaze Detection and Tracking for Smart-Eyewear"
 ---
 
 # EETnet: a CNN for Gaze Detection and Tracking for Smart-Eyewear

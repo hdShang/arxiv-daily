@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Think in Games: Learning to Reason in Games via Reinforcement Learning with Large Language Models
+title: "Think in Games: Learning to Reason in Games via Reinforcement Learning with Large Language Models"
 ---
 
 # Think in Games: Learning to Reason in Games via Reinforcement Learning with Large Language Models

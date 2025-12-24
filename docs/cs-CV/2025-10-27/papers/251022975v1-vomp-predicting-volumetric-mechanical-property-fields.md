@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VoMP: Predicting Volumetric Mechanical Property Fields
+title: "VoMP: Predicting Volumetric Mechanical Property Fields"
 ---
 
 # VoMP: Predicting Volumetric Mechanical Property Fields

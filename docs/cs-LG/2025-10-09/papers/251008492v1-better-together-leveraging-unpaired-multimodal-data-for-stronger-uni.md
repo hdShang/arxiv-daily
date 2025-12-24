@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Better Together: Leveraging Unpaired Multimodal Data for Stronger Unimodal Models
+title: "Better Together: Leveraging Unpaired Multimodal Data for Stronger Unimodal Models"
 ---
 
 # Better Together: Leveraging Unpaired Multimodal Data for Stronger Unimodal Models

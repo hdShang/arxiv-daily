@@ -1,6 +1,6 @@
 ---
 layout: default
-title: X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains
+title: "X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains"
 ---
 
 # X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains

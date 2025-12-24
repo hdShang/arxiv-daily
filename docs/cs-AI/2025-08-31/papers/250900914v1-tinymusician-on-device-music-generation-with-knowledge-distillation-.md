@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TinyMusician: On-Device Music Generation with Knowledge Distillation and Mixed Precision Quantization
+title: "TinyMusician: On-Device Music Generation with Knowledge Distillation and Mixed Precision Quantization"
 ---
 
 # TinyMusician: On-Device Music Generation with Knowledge Distillation and Mixed Precision Quantization

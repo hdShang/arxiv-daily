@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Comment On "The Illusion of Thinking": Reframing the Reasoning Cliff as an Agentic Gap
+title: "A Comment On \"The Illusion of Thinking\": Reframing the Reasoning Cliff as an Agentic Gap"
 ---
 
 # A Comment On "The Illusion of Thinking": Reframing the Reasoning Cliff as an Agentic Gap

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MimicKit: A Reinforcement Learning Framework for Motion Imitation and Control
+title: "MimicKit: A Reinforcement Learning Framework for Motion Imitation and Control"
 ---
 
 # MimicKit: A Reinforcement Learning Framework for Motion Imitation and Control

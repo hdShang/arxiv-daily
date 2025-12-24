@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SSL4RL: Revisiting Self-supervised Learning as Intrinsic Reward for Visual-Language Reasoning
+title: "SSL4RL: Revisiting Self-supervised Learning as Intrinsic Reward for Visual-Language Reasoning"
 ---
 
 # SSL4RL: Revisiting Self-supervised Learning as Intrinsic Reward for Visual-Language Reasoning

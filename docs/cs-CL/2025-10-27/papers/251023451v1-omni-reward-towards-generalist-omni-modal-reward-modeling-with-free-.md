@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Omni-Reward: Towards Generalist Omni-Modal Reward Modeling with Free-Form Preferences
+title: "Omni-Reward: Towards Generalist Omni-Modal Reward Modeling with Free-Form Preferences"
 ---
 
 # Omni-Reward: Towards Generalist Omni-Modal Reward Modeling with Free-Form Preferences

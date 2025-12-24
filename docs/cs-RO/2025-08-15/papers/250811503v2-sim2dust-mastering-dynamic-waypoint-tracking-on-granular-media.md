@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sim2Dust: Mastering Dynamic Waypoint Tracking on Granular Media
+title: "Sim2Dust: Mastering Dynamic Waypoint Tracking on Granular Media"
 ---
 
 # Sim2Dust: Mastering Dynamic Waypoint Tracking on Granular Media

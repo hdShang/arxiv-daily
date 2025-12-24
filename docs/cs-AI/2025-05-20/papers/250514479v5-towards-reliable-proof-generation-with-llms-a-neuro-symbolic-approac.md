@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Reliable Proof Generation with LLMs: A Neuro-Symbolic Approach
+title: "Towards Reliable Proof Generation with LLMs: A Neuro-Symbolic Approach"
 ---
 
 # Towards Reliable Proof Generation with LLMs: A Neuro-Symbolic Approach

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deploying AI for Signal Processing education: Selected challenges and intriguing opportunities
+title: "Deploying AI for Signal Processing education: Selected challenges and intriguing opportunities"
 ---
 
 # Deploying AI for Signal Processing education: Selected challenges and intriguing opportunities

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniSync: Towards Universal Lip Synchronization via Diffusion Transformers
+title: "OmniSync: Towards Universal Lip Synchronization via Diffusion Transformers"
 ---
 
 # OmniSync: Towards Universal Lip Synchronization via Diffusion Transformers

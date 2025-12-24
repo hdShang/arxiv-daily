@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Foraging with the Eyes: Dynamics in Human Visual Gaze and Deep Predictive Modeling
+title: "Foraging with the Eyes: Dynamics in Human Visual Gaze and Deep Predictive Modeling"
 ---
 
 # Foraging with the Eyes: Dynamics in Human Visual Gaze and Deep Predictive Modeling

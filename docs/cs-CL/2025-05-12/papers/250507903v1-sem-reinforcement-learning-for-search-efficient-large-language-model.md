@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SEM: Reinforcement Learning for Search-Efficient Large Language Models
+title: "SEM: Reinforcement Learning for Search-Efficient Large Language Models"
 ---
 
 # SEM: Reinforcement Learning for Search-Efficient Large Language Models

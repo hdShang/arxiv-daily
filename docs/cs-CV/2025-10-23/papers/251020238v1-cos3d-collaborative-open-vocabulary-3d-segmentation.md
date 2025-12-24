@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COS3D: Collaborative Open-Vocabulary 3D Segmentation
+title: "COS3D: Collaborative Open-Vocabulary 3D Segmentation"
 ---
 
 # COS3D: Collaborative Open-Vocabulary 3D Segmentation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Interpretability Without Sacrifice: Faithful Dense Layer Decomposition with Mixture of Decoders
+title: "Towards Interpretability Without Sacrifice: Faithful Dense Layer Decomposition with Mixture of Decoders"
 ---
 
 # Towards Interpretability Without Sacrifice: Faithful Dense Layer Decomposition with Mixture of Decoders

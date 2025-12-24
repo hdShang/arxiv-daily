@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Triangle Splatting+: Differentiable Rendering with Opaque Triangles
+title: "Triangle Splatting+: Differentiable Rendering with Opaque Triangles"
 ---
 
 # Triangle Splatting+: Differentiable Rendering with Opaque Triangles

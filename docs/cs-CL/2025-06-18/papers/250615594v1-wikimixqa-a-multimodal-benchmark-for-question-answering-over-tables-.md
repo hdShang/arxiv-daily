@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WikiMixQA: A Multimodal Benchmark for Question Answering over Tables and Charts
+title: "WikiMixQA: A Multimodal Benchmark for Question Answering over Tables and Charts"
 ---
 
 # WikiMixQA: A Multimodal Benchmark for Question Answering over Tables and Charts

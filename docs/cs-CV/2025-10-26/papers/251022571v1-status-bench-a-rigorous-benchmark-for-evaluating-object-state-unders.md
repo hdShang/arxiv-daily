@@ -1,6 +1,6 @@
 ---
 layout: default
-title: STATUS Bench: A Rigorous Benchmark for Evaluating Object State Understanding in Vision-Language Models
+title: "STATUS Bench: A Rigorous Benchmark for Evaluating Object State Understanding in Vision-Language Models"
 ---
 
 # STATUS Bench: A Rigorous Benchmark for Evaluating Object State Understanding in Vision-Language Models

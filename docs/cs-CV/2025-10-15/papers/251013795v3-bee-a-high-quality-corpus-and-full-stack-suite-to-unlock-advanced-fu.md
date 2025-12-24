@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully Open MLLMs
+title: "Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully Open MLLMs"
 ---
 
 # Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully Open MLLMs

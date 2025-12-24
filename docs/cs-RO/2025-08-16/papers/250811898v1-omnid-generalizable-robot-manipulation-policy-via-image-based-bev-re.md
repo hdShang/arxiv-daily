@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniD: Generalizable Robot Manipulation Policy via Image-Based BEV Representation
+title: "OmniD: Generalizable Robot Manipulation Policy via Image-Based BEV Representation"
 ---
 
 # OmniD: Generalizable Robot Manipulation Policy via Image-Based BEV Representation

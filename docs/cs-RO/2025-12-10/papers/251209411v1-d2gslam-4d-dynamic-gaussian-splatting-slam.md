@@ -1,6 +1,6 @@
 ---
 layout: default
-title: D$^2$GSLAM: 4D Dynamic Gaussian Splatting SLAM
+title: "D$^2$GSLAM: 4D Dynamic Gaussian Splatting SLAM"
 ---
 
 # D$^2$GSLAM: 4D Dynamic Gaussian Splatting SLAM

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Diversity of Transformer Layers: One Aspect of Parameter Scaling Laws
+title: "Diversity of Transformer Layers: One Aspect of Parameter Scaling Laws"
 ---
 
 # Diversity of Transformer Layers: One Aspect of Parameter Scaling Laws

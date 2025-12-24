@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VRSplat: Fast and Robust Gaussian Splatting for Virtual Reality
+title: "VRSplat: Fast and Robust Gaussian Splatting for Virtual Reality"
 ---
 
 # VRSplat: Fast and Robust Gaussian Splatting for Virtual Reality

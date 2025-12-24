@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OpenMaskDINO3D : Reasoning 3D Segmentation via Large Language Model
+title: "OpenMaskDINO3D : Reasoning 3D Segmentation via Large Language Model"
 ---
 
 # OpenMaskDINO3D : Reasoning 3D Segmentation via Large Language Model

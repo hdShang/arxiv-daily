@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ACE-G: Improving Generalization of Scene Coordinate Regression Through Query Pre-Training
+title: "ACE-G: Improving Generalization of Scene Coordinate Regression Through Query Pre-Training"
 ---
 
 # ACE-G: Improving Generalization of Scene Coordinate Regression Through Query Pre-Training

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation
+title: "TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation"
 ---
 
 # TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation

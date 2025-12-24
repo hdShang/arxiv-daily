@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blockwise Flow Matching: Improving Flow Matching Models For Efficient High-Quality Generation
+title: "Blockwise Flow Matching: Improving Flow Matching Models For Efficient High-Quality Generation"
 ---
 
 # Blockwise Flow Matching: Improving Flow Matching Models For Efficient High-Quality Generation

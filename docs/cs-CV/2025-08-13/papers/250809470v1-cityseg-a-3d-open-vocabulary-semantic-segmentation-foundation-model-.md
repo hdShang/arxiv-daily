@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CitySeg: A 3D Open Vocabulary Semantic Segmentation Foundation Model in City-scale Scenarios
+title: "CitySeg: A 3D Open Vocabulary Semantic Segmentation Foundation Model in City-scale Scenarios"
 ---
 
 # CitySeg: A 3D Open Vocabulary Semantic Segmentation Foundation Model in City-scale Scenarios

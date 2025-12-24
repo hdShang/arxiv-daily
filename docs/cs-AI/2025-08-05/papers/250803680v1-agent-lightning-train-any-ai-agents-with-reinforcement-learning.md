@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Agent Lightning: Train ANY AI Agents with Reinforcement Learning
+title: "Agent Lightning: Train ANY AI Agents with Reinforcement Learning"
 ---
 
 # Agent Lightning: Train ANY AI Agents with Reinforcement Learning

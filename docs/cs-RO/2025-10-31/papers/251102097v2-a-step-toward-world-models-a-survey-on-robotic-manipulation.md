@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Step Toward World Models: A Survey on Robotic Manipulation
+title: "A Step Toward World Models: A Survey on Robotic Manipulation"
 ---
 
 # A Step Toward World Models: A Survey on Robotic Manipulation

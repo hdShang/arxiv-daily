@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning
+title: "AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning"
 ---
 
 # AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning

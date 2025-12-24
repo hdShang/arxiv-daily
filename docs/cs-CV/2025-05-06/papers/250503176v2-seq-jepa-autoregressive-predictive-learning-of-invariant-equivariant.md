@@ -1,6 +1,6 @@
 ---
 layout: default
-title: seq-JEPA: Autoregressive Predictive Learning of Invariant-Equivariant World Models
+title: "seq-JEPA: Autoregressive Predictive Learning of Invariant-Equivariant World Models"
 ---
 
 # seq-JEPA: Autoregressive Predictive Learning of Invariant-Equivariant World Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SlimMoE: Structured Compression of Large MoE Models via Expert Slimming and Distillation
+title: "SlimMoE: Structured Compression of Large MoE Models via Expert Slimming and Distillation"
 ---
 
 # SlimMoE: Structured Compression of Large MoE Models via Expert Slimming and Distillation

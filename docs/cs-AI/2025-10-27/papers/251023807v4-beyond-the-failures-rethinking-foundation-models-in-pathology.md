@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond the Failures: Rethinking Foundation Models in Pathology
+title: "Beyond the Failures: Rethinking Foundation Models in Pathology"
 ---
 
 # Beyond the Failures: Rethinking Foundation Models in Pathology

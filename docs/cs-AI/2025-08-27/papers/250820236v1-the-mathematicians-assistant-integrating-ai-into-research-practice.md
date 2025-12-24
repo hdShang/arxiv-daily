@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Mathematician's Assistant: Integrating AI into Research Practice
+title: "The Mathematician's Assistant: Integrating AI into Research Practice"
 ---
 
 # The Mathematician's Assistant: Integrating AI into Research Practice

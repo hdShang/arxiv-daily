@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FairLangProc: A Python package for fairness in NLP
+title: "FairLangProc: A Python package for fairness in NLP"
 ---
 
 # FairLangProc: A Python package for fairness in NLP

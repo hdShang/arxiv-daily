@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboScape: Physics-informed Embodied World Model
+title: "RoboScape: Physics-informed Embodied World Model"
 ---
 
 # RoboScape: Physics-informed Embodied World Model

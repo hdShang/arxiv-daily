@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PiFlow: Principle-aware Scientific Discovery with Multi-Agent Collaboration
+title: "PiFlow: Principle-aware Scientific Discovery with Multi-Agent Collaboration"
 ---
 
 # PiFlow: Principle-aware Scientific Discovery with Multi-Agent Collaboration

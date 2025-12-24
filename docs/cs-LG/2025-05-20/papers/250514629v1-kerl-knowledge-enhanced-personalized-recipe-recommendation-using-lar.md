@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models
+title: "KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models"
 ---
 
 # KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models

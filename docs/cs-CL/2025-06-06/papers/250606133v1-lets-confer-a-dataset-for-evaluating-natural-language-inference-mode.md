@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Let's CONFER: A Dataset for Evaluating Natural Language Inference Models on CONditional InFERence and Presupposition
+title: "Let's CONFER: A Dataset for Evaluating Natural Language Inference Models on CONditional InFERence and Presupposition"
 ---
 
 # Let's CONFER: A Dataset for Evaluating Natural Language Inference Models on CONditional InFERence and Presupposition

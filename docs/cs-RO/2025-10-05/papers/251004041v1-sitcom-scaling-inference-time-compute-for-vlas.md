@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SITCOM: Scaling Inference-Time COMpute for VLAs
+title: "SITCOM: Scaling Inference-Time COMpute for VLAs"
 ---
 
 # SITCOM: Scaling Inference-Time COMpute for VLAs

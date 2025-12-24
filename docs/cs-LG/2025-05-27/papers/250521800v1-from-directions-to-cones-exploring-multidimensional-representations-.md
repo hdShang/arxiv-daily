@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Directions to Cones: Exploring Multidimensional Representations of Propositional Facts in LLMs
+title: "From Directions to Cones: Exploring Multidimensional Representations of Propositional Facts in LLMs"
 ---
 
 # From Directions to Cones: Exploring Multidimensional Representations of Propositional Facts in LLMs

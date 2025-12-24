@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DynamicMind: A Tri-Mode Thinking System for Large Language Models
+title: "DynamicMind: A Tri-Mode Thinking System for Large Language Models"
 ---
 
 # DynamicMind: A Tri-Mode Thinking System for Large Language Models

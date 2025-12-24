@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WorldGrow: Generating Infinite 3D World
+title: "WorldGrow: Generating Infinite 3D World"
 ---
 
 # WorldGrow: Generating Infinite 3D World

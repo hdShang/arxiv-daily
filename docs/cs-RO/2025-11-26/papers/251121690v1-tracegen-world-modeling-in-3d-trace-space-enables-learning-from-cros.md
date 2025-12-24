@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos
+title: "TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos"
 ---
 
 # TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos

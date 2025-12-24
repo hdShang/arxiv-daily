@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Knapsack RL: Unlocking Exploration of LLMs via Optimizing Budget Allocation
+title: "Knapsack RL: Unlocking Exploration of LLMs via Optimizing Budget Allocation"
 ---
 
 # Knapsack RL: Unlocking Exploration of LLMs via Optimizing Budget Allocation

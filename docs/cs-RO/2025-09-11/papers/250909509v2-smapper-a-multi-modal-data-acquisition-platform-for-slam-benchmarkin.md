@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SMapper: A Multi-Modal Data Acquisition Platform for SLAM Benchmarking
+title: "SMapper: A Multi-Modal Data Acquisition Platform for SLAM Benchmarking"
 ---
 
 # SMapper: A Multi-Modal Data Acquisition Platform for SLAM Benchmarking

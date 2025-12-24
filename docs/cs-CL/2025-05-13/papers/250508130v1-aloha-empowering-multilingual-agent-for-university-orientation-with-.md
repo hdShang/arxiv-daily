@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ALOHA: Empowering Multilingual Agent for University Orientation with Hierarchical Retrieval
+title: "ALOHA: Empowering Multilingual Agent for University Orientation with Hierarchical Retrieval"
 ---
 
 # ALOHA: Empowering Multilingual Agent for University Orientation with Hierarchical Retrieval

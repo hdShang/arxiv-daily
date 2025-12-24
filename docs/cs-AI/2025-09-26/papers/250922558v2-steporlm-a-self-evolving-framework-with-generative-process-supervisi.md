@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StepORLM: A Self-Evolving Framework With Generative Process Supervision For Operations Research Language Models
+title: "StepORLM: A Self-Evolving Framework With Generative Process Supervision For Operations Research Language Models"
 ---
 
 # StepORLM: A Self-Evolving Framework With Generative Process Supervision For Operations Research Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Self-Disguise Attack: Induce the LLM to disguise itself for AIGT detection evasion
+title: "Self-Disguise Attack: Induce the LLM to disguise itself for AIGT detection evasion"
 ---
 
 # Self-Disguise Attack: Induce the LLM to disguise itself for AIGT detection evasion

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SelectiveShield: Lightweight Hybrid Defense Against Gradient Leakage in Federated Learning
+title: "SelectiveShield: Lightweight Hybrid Defense Against Gradient Leakage in Federated Learning"
 ---
 
 # SelectiveShield: Lightweight Hybrid Defense Against Gradient Leakage in Federated Learning

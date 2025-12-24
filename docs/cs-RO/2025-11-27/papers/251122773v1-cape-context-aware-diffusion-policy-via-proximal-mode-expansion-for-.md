@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CAPE: Context-Aware Diffusion Policy Via Proximal Mode Expansion for Collision Avoidance
+title: "CAPE: Context-Aware Diffusion Policy Via Proximal Mode Expansion for Collision Avoidance"
 ---
 
 # CAPE: Context-Aware Diffusion Policy Via Proximal Mode Expansion for Collision Avoidance

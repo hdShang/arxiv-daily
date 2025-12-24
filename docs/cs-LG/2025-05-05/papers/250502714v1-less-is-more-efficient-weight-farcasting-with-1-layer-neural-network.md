@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Less is More: Efficient Weight Farcasting with 1-Layer Neural Network
+title: "Less is More: Efficient Weight Farcasting with 1-Layer Neural Network"
 ---
 
 # Less is More: Efficient Weight Farcasting with 1-Layer Neural Network

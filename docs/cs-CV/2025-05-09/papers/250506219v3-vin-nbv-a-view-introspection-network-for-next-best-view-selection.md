@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VIN-NBV: A View Introspection Network for Next-Best-View Selection
+title: "VIN-NBV: A View Introspection Network for Next-Best-View Selection"
 ---
 
 # VIN-NBV: A View Introspection Network for Next-Best-View Selection

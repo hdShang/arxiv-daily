@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bench to the Future: A Pastcasting Benchmark for Forecasting Agents
+title: "Bench to the Future: A Pastcasting Benchmark for Forecasting Agents"
 ---
 
 # Bench to the Future: A Pastcasting Benchmark for Forecasting Agents

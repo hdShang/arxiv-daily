@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Are We Using the Right Benchmark: An Evaluation Framework for Visual Token Compression Methods
+title: "Are We Using the Right Benchmark: An Evaluation Framework for Visual Token Compression Methods"
 ---
 
 # Are We Using the Right Benchmark: An Evaluation Framework for Visual Token Compression Methods

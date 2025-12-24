@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RzenEmbed: Towards Comprehensive Multimodal Retrieval
+title: "RzenEmbed: Towards Comprehensive Multimodal Retrieval"
 ---
 
 # RzenEmbed: Towards Comprehensive Multimodal Retrieval

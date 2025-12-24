@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DreamBoothDPO: Improving Personalized Generation using Direct Preference Optimization
+title: "DreamBoothDPO: Improving Personalized Generation using Direct Preference Optimization"
 ---
 
 # DreamBoothDPO: Improving Personalized Generation using Direct Preference Optimization

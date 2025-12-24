@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning
+title: "Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning"
 ---
 
 # Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning

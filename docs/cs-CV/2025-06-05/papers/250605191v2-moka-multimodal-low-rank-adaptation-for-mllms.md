@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MokA: Multimodal Low-Rank Adaptation for MLLMs
+title: "MokA: Multimodal Low-Rank Adaptation for MLLMs"
 ---
 
 # MokA: Multimodal Low-Rank Adaptation for MLLMs

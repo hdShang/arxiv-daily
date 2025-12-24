@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DMC$^3$: Dual-Modal Counterfactual Contrastive Construction for Egocentric Video Question Answering
+title: "DMC$^3$: Dual-Modal Counterfactual Contrastive Construction for Egocentric Video Question Answering"
 ---
 
 # DMC$^3$: Dual-Modal Counterfactual Contrastive Construction for Egocentric Video Question Answering

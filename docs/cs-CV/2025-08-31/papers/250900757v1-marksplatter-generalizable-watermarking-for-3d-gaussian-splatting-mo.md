@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MarkSplatter: Generalizable Watermarking for 3D Gaussian Splatting Model via Splatter Image Structure
+title: "MarkSplatter: Generalizable Watermarking for 3D Gaussian Splatting Model via Splatter Image Structure"
 ---
 
 # MarkSplatter: Generalizable Watermarking for 3D Gaussian Splatting Model via Splatter Image Structure

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DAP: A Discrete-token Autoregressive Planner for Autonomous Driving
+title: "DAP: A Discrete-token Autoregressive Planner for Autonomous Driving"
 ---
 
 # DAP: A Discrete-token Autoregressive Planner for Autonomous Driving

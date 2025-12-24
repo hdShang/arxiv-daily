@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboBenchMart: Benchmarking Robots in Retail Environment
+title: "RoboBenchMart: Benchmarking Robots in Retail Environment"
 ---
 
 # RoboBenchMart: Benchmarking Robots in Retail Environment

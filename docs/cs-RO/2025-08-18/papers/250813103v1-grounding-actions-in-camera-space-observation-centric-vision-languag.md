@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Grounding Actions in Camera Space: Observation-Centric Vision-Language-Action Policy
+title: "Grounding Actions in Camera Space: Observation-Centric Vision-Language-Action Policy"
 ---
 
 # Grounding Actions in Camera Space: Observation-Centric Vision-Language-Action Policy

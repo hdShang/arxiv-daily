@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mixpert: Mitigating Multimodal Learning Conflicts with Efficient Mixture-of-Vision-Experts
+title: "Mixpert: Mitigating Multimodal Learning Conflicts with Efficient Mixture-of-Vision-Experts"
 ---
 
 # Mixpert: Mitigating Multimodal Learning Conflicts with Efficient Mixture-of-Vision-Experts

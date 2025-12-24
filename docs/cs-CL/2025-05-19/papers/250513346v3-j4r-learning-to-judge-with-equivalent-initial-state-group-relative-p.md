@@ -1,6 +1,6 @@
 ---
 layout: default
-title: J4R: Learning to Judge with Equivalent Initial State Group Relative Policy Optimization
+title: "J4R: Learning to Judge with Equivalent Initial State Group Relative Policy Optimization"
 ---
 
 # J4R: Learning to Judge with Equivalent Initial State Group Relative Policy Optimization

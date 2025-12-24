@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CLONE: Customizing LLMs for Efficient Latency-Aware Inference at the Edge
+title: "CLONE: Customizing LLMs for Efficient Latency-Aware Inference at the Edge"
 ---
 
 # CLONE: Customizing LLMs for Efficient Latency-Aware Inference at the Edge

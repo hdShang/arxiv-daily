@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoS-VLA: A Vision-Language-Action Model with One-Shot Skill Adaptation
+title: "MoS-VLA: A Vision-Language-Action Model with One-Shot Skill Adaptation"
 ---
 
 # MoS-VLA: A Vision-Language-Action Model with One-Shot Skill Adaptation

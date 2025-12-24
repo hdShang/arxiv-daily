@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Writing-RL: Advancing Long-form Writing via Adaptive Curriculum Reinforcement Learning
+title: "Writing-RL: Advancing Long-form Writing via Adaptive Curriculum Reinforcement Learning"
 ---
 
 # Writing-RL: Advancing Long-form Writing via Adaptive Curriculum Reinforcement Learning

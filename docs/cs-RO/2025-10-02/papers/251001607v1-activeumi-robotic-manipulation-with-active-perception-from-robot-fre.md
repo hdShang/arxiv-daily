@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ActiveUMI: Robotic Manipulation with Active Perception from Robot-Free Human Demonstrations
+title: "ActiveUMI: Robotic Manipulation with Active Perception from Robot-Free Human Demonstrations"
 ---
 
 # ActiveUMI: Robotic Manipulation with Active Perception from Robot-Free Human Demonstrations

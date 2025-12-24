@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SpinGPT: A Large-Language-Model Approach to Playing Poker Correctly
+title: "SpinGPT: A Large-Language-Model Approach to Playing Poker Correctly"
 ---
 
 # SpinGPT: A Large-Language-Model Approach to Playing Poker Correctly

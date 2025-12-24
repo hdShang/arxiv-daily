@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Shots to Stories: LLM-Assisted Video Editing with Unified Language Representations
+title: "From Shots to Stories: LLM-Assisted Video Editing with Unified Language Representations"
 ---
 
 # From Shots to Stories: LLM-Assisted Video Editing with Unified Language Representations

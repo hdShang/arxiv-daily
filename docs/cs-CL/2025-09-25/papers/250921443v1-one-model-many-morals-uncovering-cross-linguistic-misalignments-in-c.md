@@ -1,6 +1,6 @@
 ---
 layout: default
-title: One Model, Many Morals: Uncovering Cross-Linguistic Misalignments in Computational Moral Reasoning
+title: "One Model, Many Morals: Uncovering Cross-Linguistic Misalignments in Computational Moral Reasoning"
 ---
 
 # One Model, Many Morals: Uncovering Cross-Linguistic Misalignments in Computational Moral Reasoning

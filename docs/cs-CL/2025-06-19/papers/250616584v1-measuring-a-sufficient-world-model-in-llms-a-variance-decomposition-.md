@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Measuring (a Sufficient) World Model in LLMs: A Variance Decomposition Framework
+title: "Measuring (a Sufficient) World Model in LLMs: A Variance Decomposition Framework"
 ---
 
 # Measuring (a Sufficient) World Model in LLMs: A Variance Decomposition Framework

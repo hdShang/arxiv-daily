@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Evolution and compression in LLMs: On the emergence of human-aligned categorization
+title: "Evolution and compression in LLMs: On the emergence of human-aligned categorization"
 ---
 
 # Evolution and compression in LLMs: On the emergence of human-aligned categorization

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4D-RaDiff: Latent Diffusion for 4D Radar Point Cloud Generation
+title: "4D-RaDiff: Latent Diffusion for 4D Radar Point Cloud Generation"
 ---
 
 # 4D-RaDiff: Latent Diffusion for 4D Radar Point Cloud Generation

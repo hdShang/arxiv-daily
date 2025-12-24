@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM Architecture, Scaling Laws, and Economics: A Quick Summary
+title: "LLM Architecture, Scaling Laws, and Economics: A Quick Summary"
 ---
 
 # LLM Architecture, Scaling Laws, and Economics: A Quick Summary

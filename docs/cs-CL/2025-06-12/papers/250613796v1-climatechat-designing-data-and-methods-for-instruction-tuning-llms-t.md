@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ClimateChat: Designing Data and Methods for Instruction Tuning LLMs to Answer Climate Change Queries
+title: "ClimateChat: Designing Data and Methods for Instruction Tuning LLMs to Answer Climate Change Queries"
 ---
 
 # ClimateChat: Designing Data and Methods for Instruction Tuning LLMs to Answer Climate Change Queries

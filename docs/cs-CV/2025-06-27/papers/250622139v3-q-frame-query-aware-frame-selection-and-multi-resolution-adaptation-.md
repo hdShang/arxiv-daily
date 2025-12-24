@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs
+title: "Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs"
 ---
 
 # Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs

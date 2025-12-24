@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Shape of Adversarial Influence: Characterizing LLM Latent Spaces with Persistent Homology
+title: "The Shape of Adversarial Influence: Characterizing LLM Latent Spaces with Persistent Homology"
 ---
 
 # The Shape of Adversarial Influence: Characterizing LLM Latent Spaces with Persistent Homology

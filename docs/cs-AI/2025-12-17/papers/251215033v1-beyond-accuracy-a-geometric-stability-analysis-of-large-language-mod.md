@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Accuracy: A Geometric Stability Analysis of Large Language Models in Chess Evaluation
+title: "Beyond Accuracy: A Geometric Stability Analysis of Large Language Models in Chess Evaluation"
 ---
 
 # Beyond Accuracy: A Geometric Stability Analysis of Large Language Models in Chess Evaluation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GRPO-$λ$: Credit Assignment improves LLM Reasoning
+title: "GRPO-$λ$: Credit Assignment improves LLM Reasoning"
 ---
 
 # GRPO-$λ$: Credit Assignment improves LLM Reasoning

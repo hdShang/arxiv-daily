@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ColorGPT: Leveraging Large Language Models for Multimodal Color Recommendation
+title: "ColorGPT: Leveraging Large Language Models for Multimodal Color Recommendation"
 ---
 
 # ColorGPT: Leveraging Large Language Models for Multimodal Color Recommendation

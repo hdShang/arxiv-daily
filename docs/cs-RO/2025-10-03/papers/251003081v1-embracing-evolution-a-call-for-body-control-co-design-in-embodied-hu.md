@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Embracing Evolution: A Call for Body-Control Co-Design in Embodied Humanoid Robot
+title: "Embracing Evolution: A Call for Body-Control Co-Design in Embodied Humanoid Robot"
 ---
 
 # Embracing Evolution: A Call for Body-Control Co-Design in Embodied Humanoid Robot

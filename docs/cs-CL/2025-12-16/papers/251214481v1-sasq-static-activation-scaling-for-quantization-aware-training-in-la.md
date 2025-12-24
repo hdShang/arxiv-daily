@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SASQ: Static Activation Scaling for Quantization-Aware Training in Large Language Models
+title: "SASQ: Static Activation Scaling for Quantization-Aware Training in Large Language Models"
 ---
 
 # SASQ: Static Activation Scaling for Quantization-Aware Training in Large Language Models

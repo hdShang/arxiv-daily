@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KL-Regularised Q-Learning: A Token-level Action-Value perspective on Online RLHF
+title: "KL-Regularised Q-Learning: A Token-level Action-Value perspective on Online RLHF"
 ---
 
 # KL-Regularised Q-Learning: A Token-level Action-Value perspective on Online RLHF

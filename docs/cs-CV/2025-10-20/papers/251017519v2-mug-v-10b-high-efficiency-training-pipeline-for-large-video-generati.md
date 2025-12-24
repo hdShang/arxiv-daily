@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MUG-V 10B: High-efficiency Training Pipeline for Large Video Generation Models
+title: "MUG-V 10B: High-efficiency Training Pipeline for Large Video Generation Models"
 ---
 
 # MUG-V 10B: High-efficiency Training Pipeline for Large Video Generation Models

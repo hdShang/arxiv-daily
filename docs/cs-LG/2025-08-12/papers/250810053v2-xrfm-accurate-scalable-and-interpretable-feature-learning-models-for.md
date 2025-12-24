@@ -1,6 +1,6 @@
 ---
 layout: default
-title: xRFM: Accurate, scalable, and interpretable feature learning models for tabular data
+title: "xRFM: Accurate, scalable, and interpretable feature learning models for tabular data"
 ---
 
 # xRFM: Accurate, scalable, and interpretable feature learning models for tabular data

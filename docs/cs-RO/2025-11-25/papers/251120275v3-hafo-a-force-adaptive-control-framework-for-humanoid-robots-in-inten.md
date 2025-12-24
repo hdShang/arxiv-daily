@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HAFO: A Force-Adaptive Control Framework for Humanoid Robots in Intense Interaction Environments
+title: "HAFO: A Force-Adaptive Control Framework for Humanoid Robots in Intense Interaction Environments"
 ---
 
 # HAFO: A Force-Adaptive Control Framework for Humanoid Robots in Intense Interaction Environments

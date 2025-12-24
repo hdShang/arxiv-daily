@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SafeMind: Benchmarking and Mitigating Safety Risks in Embodied LLM Agents
+title: "SafeMind: Benchmarking and Mitigating Safety Risks in Embodied LLM Agents"
 ---
 
 # SafeMind: Benchmarking and Mitigating Safety Risks in Embodied LLM Agents

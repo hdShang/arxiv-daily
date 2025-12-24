@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ChEmbed: Enhancing Chemical Literature Search Through Domain-Specific Text Embeddings
+title: "ChEmbed: Enhancing Chemical Literature Search Through Domain-Specific Text Embeddings"
 ---
 
 # ChEmbed: Enhancing Chemical Literature Search Through Domain-Specific Text Embeddings

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: THE-Pose: Topological Prior with Hybrid Graph Fusion for Estimating Category-Level 6D Object Pose
+title: "THE-Pose: Topological Prior with Hybrid Graph Fusion for Estimating Category-Level 6D Object Pose"
 ---
 
 # THE-Pose: Topological Prior with Hybrid Graph Fusion for Estimating Category-Level 6D Object Pose

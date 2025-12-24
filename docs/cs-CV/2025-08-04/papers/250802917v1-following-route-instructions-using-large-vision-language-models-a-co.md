@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Following Route Instructions using Large Vision-Language Models: A Comparison between Low-level and Panoramic Action Spaces
+title: "Following Route Instructions using Large Vision-Language Models: A Comparison between Low-level and Panoramic Action Spaces"
 ---
 
 # Following Route Instructions using Large Vision-Language Models: A Comparison between Low-level and Panoramic Action Spaces

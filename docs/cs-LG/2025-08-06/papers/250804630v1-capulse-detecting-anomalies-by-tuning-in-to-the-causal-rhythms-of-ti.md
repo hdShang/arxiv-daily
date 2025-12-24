@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CaPulse: Detecting Anomalies by Tuning in to the Causal Rhythms of Time Series
+title: "CaPulse: Detecting Anomalies by Tuning in to the Causal Rhythms of Time Series"
 ---
 
 # CaPulse: Detecting Anomalies by Tuning in to the Causal Rhythms of Time Series

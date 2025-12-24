@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DisCoCLIP: A Distributional Compositional Tensor Network Encoder for Vision-Language Understanding
+title: "DisCoCLIP: A Distributional Compositional Tensor Network Encoder for Vision-Language Understanding"
 ---
 
 # DisCoCLIP: A Distributional Compositional Tensor Network Encoder for Vision-Language Understanding

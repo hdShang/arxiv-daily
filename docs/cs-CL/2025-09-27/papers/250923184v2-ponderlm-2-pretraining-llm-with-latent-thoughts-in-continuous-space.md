@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PonderLM-2: Pretraining LLM with Latent Thoughts in Continuous Space
+title: "PonderLM-2: Pretraining LLM with Latent Thoughts in Continuous Space"
 ---
 
 # PonderLM-2: Pretraining LLM with Latent Thoughts in Continuous Space

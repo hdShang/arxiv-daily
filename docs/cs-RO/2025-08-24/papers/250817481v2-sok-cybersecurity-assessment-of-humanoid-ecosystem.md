@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SoK: Cybersecurity Assessment of Humanoid Ecosystem
+title: "SoK: Cybersecurity Assessment of Humanoid Ecosystem"
 ---
 
 # SoK: Cybersecurity Assessment of Humanoid Ecosystem

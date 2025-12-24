@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MAViS: A Multi-Agent Framework for Long-Sequence Video Storytelling
+title: "MAViS: A Multi-Agent Framework for Long-Sequence Video Storytelling"
 ---
 
 # MAViS: A Multi-Agent Framework for Long-Sequence Video Storytelling

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Exponential Decay: Rethinking Error Accumulation in Large Language Models
+title: "Beyond Exponential Decay: Rethinking Error Accumulation in Large Language Models"
 ---
 
 # Beyond Exponential Decay: Rethinking Error Accumulation in Large Language Models

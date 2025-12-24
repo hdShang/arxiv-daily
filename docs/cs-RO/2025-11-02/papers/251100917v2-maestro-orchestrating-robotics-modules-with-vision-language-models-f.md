@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Maestro: Orchestrating Robotics Modules with Vision-Language Models for Zero-Shot Generalist Robots
+title: "Maestro: Orchestrating Robotics Modules with Vision-Language Models for Zero-Shot Generalist Robots"
 ---
 
 # Maestro: Orchestrating Robotics Modules with Vision-Language Models for Zero-Shot Generalist Robots

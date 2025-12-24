@@ -1,6 +1,6 @@
 ---
 layout: default
-title: code_transformed: The Influence of Large Language Models on Code
+title: "code_transformed: The Influence of Large Language Models on Code"
 ---
 
 # code_transformed: The Influence of Large Language Models on Code

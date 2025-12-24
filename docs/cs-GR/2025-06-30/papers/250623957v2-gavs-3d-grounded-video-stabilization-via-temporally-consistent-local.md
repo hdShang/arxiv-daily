@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GaVS: 3D-Grounded Video Stabilization via Temporally-Consistent Local Reconstruction and Rendering
+title: "GaVS: 3D-Grounded Video Stabilization via Temporally-Consistent Local Reconstruction and Rendering"
 ---
 
 # GaVS: 3D-Grounded Video Stabilization via Temporally-Consistent Local Reconstruction and Rendering

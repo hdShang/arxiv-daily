@@ -1,6 +1,6 @@
 ---
 layout: default
-title: S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models
+title: "S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models"
 ---
 
 # S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models

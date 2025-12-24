@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Leave No Observation Behind: Real-time Correction for VLA Action Chunks
+title: "Leave No Observation Behind: Real-time Correction for VLA Action Chunks"
 ---
 
 # Leave No Observation Behind: Real-time Correction for VLA Action Chunks

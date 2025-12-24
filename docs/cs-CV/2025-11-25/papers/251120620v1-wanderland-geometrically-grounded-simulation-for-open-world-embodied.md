@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wanderland: Geometrically Grounded Simulation for Open-World Embodied AI
+title: "Wanderland: Geometrically Grounded Simulation for Open-World Embodied AI"
 ---
 
 # Wanderland: Geometrically Grounded Simulation for Open-World Embodied AI

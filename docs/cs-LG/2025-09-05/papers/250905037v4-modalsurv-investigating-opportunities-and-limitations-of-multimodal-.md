@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ModalSurv: Investigating opportunities and limitations of multimodal deep survival learning in prostate and bladder cancer
+title: "ModalSurv: Investigating opportunities and limitations of multimodal deep survival learning in prostate and bladder cancer"
 ---
 
 # ModalSurv: Investigating opportunities and limitations of multimodal deep survival learning in prostate and bladder cancer

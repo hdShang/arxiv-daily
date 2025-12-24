@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Canonical Policy: Learning Canonical 3D Representation for SE(3)-Equivariant Policy
+title: "Canonical Policy: Learning Canonical 3D Representation for SE(3)-Equivariant Policy"
 ---
 
 # Canonical Policy: Learning Canonical 3D Representation for SE(3)-Equivariant Policy

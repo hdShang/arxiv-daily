@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SceneWeaver: All-in-One 3D Scene Synthesis with an Extensible and Self-Reflective Agent
+title: "SceneWeaver: All-in-One 3D Scene Synthesis with an Extensible and Self-Reflective Agent"
 ---
 
 # SceneWeaver: All-in-One 3D Scene Synthesis with an Extensible and Self-Reflective Agent

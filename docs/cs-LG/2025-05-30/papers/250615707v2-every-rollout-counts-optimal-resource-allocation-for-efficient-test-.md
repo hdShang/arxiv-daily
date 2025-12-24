@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Every Rollout Counts: Optimal Resource Allocation for Efficient Test-Time Scaling
+title: "Every Rollout Counts: Optimal Resource Allocation for Efficient Test-Time Scaling"
 ---
 
 # Every Rollout Counts: Optimal Resource Allocation for Efficient Test-Time Scaling

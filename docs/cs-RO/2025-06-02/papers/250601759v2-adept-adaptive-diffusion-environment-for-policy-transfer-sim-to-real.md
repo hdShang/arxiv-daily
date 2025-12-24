@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ADEPT: Adaptive Diffusion Environment for Policy Transfer Sim-to-Real
+title: "ADEPT: Adaptive Diffusion Environment for Policy Transfer Sim-to-Real"
 ---
 
 # ADEPT: Adaptive Diffusion Environment for Policy Transfer Sim-to-Real

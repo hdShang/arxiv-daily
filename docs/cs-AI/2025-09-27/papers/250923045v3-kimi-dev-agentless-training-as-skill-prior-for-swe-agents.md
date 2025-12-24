@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents
+title: "Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents"
 ---
 
 # Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents

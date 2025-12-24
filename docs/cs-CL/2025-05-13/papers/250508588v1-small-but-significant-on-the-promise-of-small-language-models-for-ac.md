@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Small but Significant: On the Promise of Small Language Models for Accessible AIED
+title: "Small but Significant: On the Promise of Small Language Models for Accessible AIED"
 ---
 
 # Small but Significant: On the Promise of Small Language Models for Accessible AIED

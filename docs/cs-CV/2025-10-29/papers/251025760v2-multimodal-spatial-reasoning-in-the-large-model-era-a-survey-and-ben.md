@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multimodal Spatial Reasoning in the Large Model Era: A Survey and Benchmarks
+title: "Multimodal Spatial Reasoning in the Large Model Era: A Survey and Benchmarks"
 ---
 
 # Multimodal Spatial Reasoning in the Large Model Era: A Survey and Benchmarks

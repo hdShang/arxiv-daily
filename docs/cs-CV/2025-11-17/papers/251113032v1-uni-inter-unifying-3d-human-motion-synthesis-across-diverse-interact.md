@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Uni-Inter: Unifying 3D Human Motion Synthesis Across Diverse Interaction Contexts
+title: "Uni-Inter: Unifying 3D Human Motion Synthesis Across Diverse Interaction Contexts"
 ---
 
 # Uni-Inter: Unifying 3D Human Motion Synthesis Across Diverse Interaction Contexts

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mercury: Ultra-Fast Language Models Based on Diffusion
+title: "Mercury: Ultra-Fast Language Models Based on Diffusion"
 ---
 
 # Mercury: Ultra-Fast Language Models Based on Diffusion

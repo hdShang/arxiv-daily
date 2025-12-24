@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reasoning about Uncertainty: Do Reasoning Models Know When They Don't Know?
+title: "Reasoning about Uncertainty: Do Reasoning Models Know When They Don't Know?"
 ---
 
 # Reasoning about Uncertainty: Do Reasoning Models Know When They Don't Know?

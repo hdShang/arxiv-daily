@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sotopia-RL: Reward Design for Social Intelligence
+title: "Sotopia-RL: Reward Design for Social Intelligence"
 ---
 
 # Sotopia-RL: Reward Design for Social Intelligence

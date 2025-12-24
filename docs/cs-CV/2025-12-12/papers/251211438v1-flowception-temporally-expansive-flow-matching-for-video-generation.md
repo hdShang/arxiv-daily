@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Flowception: Temporally Expansive Flow Matching for Video Generation
+title: "Flowception: Temporally Expansive Flow Matching for Video Generation"
 ---
 
 # Flowception: Temporally Expansive Flow Matching for Video Generation

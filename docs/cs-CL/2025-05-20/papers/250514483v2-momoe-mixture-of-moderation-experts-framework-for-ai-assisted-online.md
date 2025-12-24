@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoMoE: Mixture of Moderation Experts Framework for AI-Assisted Online Governance
+title: "MoMoE: Mixture of Moderation Experts Framework for AI-Assisted Online Governance"
 ---
 
 # MoMoE: Mixture of Moderation Experts Framework for AI-Assisted Online Governance

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Under the Shadow of Babel: How Language Shapes Reasoning in LLMs
+title: "Under the Shadow of Babel: How Language Shapes Reasoning in LLMs"
 ---
 
 # Under the Shadow of Babel: How Language Shapes Reasoning in LLMs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TeXpert: A Multi-Level Benchmark for Evaluating LaTeX Code Generation by LLMs
+title: "TeXpert: A Multi-Level Benchmark for Evaluating LaTeX Code Generation by LLMs"
 ---
 
 # TeXpert: A Multi-Level Benchmark for Evaluating LaTeX Code Generation by LLMs

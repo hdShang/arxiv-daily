@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prepare Before You Act: Learning From Humans to Rearrange Initial States
+title: "Prepare Before You Act: Learning From Humans to Rearrange Initial States"
 ---
 
 # Prepare Before You Act: Learning From Humans to Rearrange Initial States

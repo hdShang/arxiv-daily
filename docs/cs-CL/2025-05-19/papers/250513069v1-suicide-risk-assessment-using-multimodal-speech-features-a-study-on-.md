@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Suicide Risk Assessment Using Multimodal Speech Features: A Study on the SW1 Challenge Dataset
+title: "Suicide Risk Assessment Using Multimodal Speech Features: A Study on the SW1 Challenge Dataset"
 ---
 
 # Suicide Risk Assessment Using Multimodal Speech Features: A Study on the SW1 Challenge Dataset

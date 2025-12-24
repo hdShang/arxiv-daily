@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Survey of Multimodal Geospatial Foundation Models: Techniques, Applications, and Challenges
+title: "Survey of Multimodal Geospatial Foundation Models: Techniques, Applications, and Challenges"
 ---
 
 # Survey of Multimodal Geospatial Foundation Models: Techniques, Applications, and Challenges

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TeleEval-OS: Performance evaluations of large language models for operations scheduling
+title: "TeleEval-OS: Performance evaluations of large language models for operations scheduling"
 ---
 
 # TeleEval-OS: Performance evaluations of large language models for operations scheduling

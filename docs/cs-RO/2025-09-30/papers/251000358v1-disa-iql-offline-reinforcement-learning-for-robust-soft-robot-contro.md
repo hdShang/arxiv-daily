@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DiSA-IQL: Offline Reinforcement Learning for Robust Soft Robot Control under Distribution Shifts
+title: "DiSA-IQL: Offline Reinforcement Learning for Robust Soft Robot Control under Distribution Shifts"
 ---
 
 # DiSA-IQL: Offline Reinforcement Learning for Robust Soft Robot Control under Distribution Shifts

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Text2Loc++: Generalizing 3D Point Cloud Localization from Natural Language
+title: "Text2Loc++: Generalizing 3D Point Cloud Localization from Natural Language"
 ---
 
 # Text2Loc++: Generalizing 3D Point Cloud Localization from Natural Language

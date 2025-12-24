@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Explainable Rule Application via Structured Prompting: A Neural-Symbolic Approach
+title: "Explainable Rule Application via Structured Prompting: A Neural-Symbolic Approach"
 ---
 
 # Explainable Rule Application via Structured Prompting: A Neural-Symbolic Approach

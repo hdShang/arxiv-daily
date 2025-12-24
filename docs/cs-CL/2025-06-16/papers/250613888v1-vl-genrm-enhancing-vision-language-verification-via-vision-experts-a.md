@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VL-GenRM: Enhancing Vision-Language Verification via Vision Experts and Iterative Training
+title: "VL-GenRM: Enhancing Vision-Language Verification via Vision Experts and Iterative Training"
 ---
 
 # VL-GenRM: Enhancing Vision-Language Verification via Vision Experts and Iterative Training

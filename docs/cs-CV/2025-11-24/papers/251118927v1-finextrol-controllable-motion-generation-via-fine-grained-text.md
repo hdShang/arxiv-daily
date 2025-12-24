@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FineXtrol: Controllable Motion Generation via Fine-Grained Text
+title: "FineXtrol: Controllable Motion Generation via Fine-Grained Text"
 ---
 
 # FineXtrol: Controllable Motion Generation via Fine-Grained Text

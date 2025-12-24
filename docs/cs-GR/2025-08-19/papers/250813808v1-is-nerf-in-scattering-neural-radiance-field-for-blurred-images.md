@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Is-NeRF: In-scattering Neural Radiance Field for Blurred Images
+title: "Is-NeRF: In-scattering Neural Radiance Field for Blurred Images"
 ---
 
 # Is-NeRF: In-scattering Neural Radiance Field for Blurred Images

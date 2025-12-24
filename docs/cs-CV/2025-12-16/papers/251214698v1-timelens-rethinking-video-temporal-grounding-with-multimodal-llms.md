@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs
+title: "TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs"
 ---
 
 # TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs

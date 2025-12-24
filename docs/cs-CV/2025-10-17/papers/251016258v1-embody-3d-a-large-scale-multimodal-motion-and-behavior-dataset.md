@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Embody 3D: A Large-scale Multimodal Motion and Behavior Dataset
+title: "Embody 3D: A Large-scale Multimodal Motion and Behavior Dataset"
 ---
 
 # Embody 3D: A Large-scale Multimodal Motion and Behavior Dataset

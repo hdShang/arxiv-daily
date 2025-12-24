@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Artificial Phantasia: Evidence for Propositional Reasoning-Based Mental Imagery in Large Language Models
+title: "Artificial Phantasia: Evidence for Propositional Reasoning-Based Mental Imagery in Large Language Models"
 ---
 
 # Artificial Phantasia: Evidence for Propositional Reasoning-Based Mental Imagery in Large Language Models

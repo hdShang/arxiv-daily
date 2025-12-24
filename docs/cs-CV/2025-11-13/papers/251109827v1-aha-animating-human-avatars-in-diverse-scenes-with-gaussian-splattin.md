@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting
+title: "AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting"
 ---
 
 # AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting

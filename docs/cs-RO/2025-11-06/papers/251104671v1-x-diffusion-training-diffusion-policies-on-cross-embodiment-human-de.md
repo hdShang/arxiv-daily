@@ -1,6 +1,6 @@
 ---
 layout: default
-title: X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations
+title: "X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations"
 ---
 
 # X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations

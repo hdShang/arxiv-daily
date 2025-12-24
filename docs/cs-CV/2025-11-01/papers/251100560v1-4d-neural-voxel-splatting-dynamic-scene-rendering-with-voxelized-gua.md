@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4D Neural Voxel Splatting: Dynamic Scene Rendering with Voxelized Guassian Splatting
+title: "4D Neural Voxel Splatting: Dynamic Scene Rendering with Voxelized Guassian Splatting"
 ---
 
 # 4D Neural Voxel Splatting: Dynamic Scene Rendering with Voxelized Guassian Splatting

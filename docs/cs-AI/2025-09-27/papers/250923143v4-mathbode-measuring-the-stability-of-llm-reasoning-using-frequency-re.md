@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MathBode: Measuring the Stability of LLM Reasoning using Frequency Response
+title: "MathBode: Measuring the Stability of LLM Reasoning using Frequency Response"
 ---
 
 # MathBode: Measuring the Stability of LLM Reasoning using Frequency Response

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: G$^{2}$D: Boosting Multimodal Learning with Gradient-Guided Distillation
+title: "G$^{2}$D: Boosting Multimodal Learning with Gradient-Guided Distillation"
 ---
 
 # G$^{2}$D: Boosting Multimodal Learning with Gradient-Guided Distillation

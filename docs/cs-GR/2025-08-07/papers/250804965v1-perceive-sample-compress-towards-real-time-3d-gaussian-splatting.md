@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Perceive-Sample-Compress: Towards Real-Time 3D Gaussian Splatting
+title: "Perceive-Sample-Compress: Towards Real-Time 3D Gaussian Splatting"
 ---
 
 # Perceive-Sample-Compress: Towards Real-Time 3D Gaussian Splatting

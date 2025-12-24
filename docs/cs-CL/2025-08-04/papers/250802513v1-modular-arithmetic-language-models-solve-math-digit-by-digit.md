@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Modular Arithmetic: Language Models Solve Math Digit by Digit
+title: "Modular Arithmetic: Language Models Solve Math Digit by Digit"
 ---
 
 # Modular Arithmetic: Language Models Solve Math Digit by Digit

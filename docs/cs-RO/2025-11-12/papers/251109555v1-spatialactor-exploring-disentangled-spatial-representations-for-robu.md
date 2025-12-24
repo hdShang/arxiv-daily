@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SpatialActor: Exploring Disentangled Spatial Representations for Robust Robotic Manipulation
+title: "SpatialActor: Exploring Disentangled Spatial Representations for Robust Robotic Manipulation"
 ---
 
 # SpatialActor: Exploring Disentangled Spatial Representations for Robust Robotic Manipulation

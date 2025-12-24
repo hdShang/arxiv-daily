@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sketch-in-Latents: Eliciting Unified Reasoning in MLLMs
+title: "Sketch-in-Latents: Eliciting Unified Reasoning in MLLMs"
 ---
 
 # Sketch-in-Latents: Eliciting Unified Reasoning in MLLMs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3DGH: 3D Head Generation with Composable Hair and Face
+title: "3DGH: 3D Head Generation with Composable Hair and Face"
 ---
 
 # 3DGH: 3D Head Generation with Composable Hair and Face

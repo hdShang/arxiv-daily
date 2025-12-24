@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SurveyGen: Quality-Aware Scientific Survey Generation with Large Language Models
+title: "SurveyGen: Quality-Aware Scientific Survey Generation with Large Language Models"
 ---
 
 # SurveyGen: Quality-Aware Scientific Survey Generation with Large Language Models

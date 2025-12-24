@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Q-SAM2: Accurate Quantization for Segment Anything Model 2
+title: "Q-SAM2: Accurate Quantization for Segment Anything Model 2"
 ---
 
 # Q-SAM2: Accurate Quantization for Segment Anything Model 2

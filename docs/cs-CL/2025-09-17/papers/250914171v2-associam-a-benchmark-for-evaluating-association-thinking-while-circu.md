@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AssoCiAm: A Benchmark for Evaluating Association Thinking while Circumventing Ambiguity
+title: "AssoCiAm: A Benchmark for Evaluating Association Thinking while Circumventing Ambiguity"
 ---
 
 # AssoCiAm: A Benchmark for Evaluating Association Thinking while Circumventing Ambiguity

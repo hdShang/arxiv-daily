@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLMs' Suitability for Network Security: A Case Study of STRIDE Threat Modeling
+title: "LLMs' Suitability for Network Security: A Case Study of STRIDE Threat Modeling"
 ---
 
 # LLMs' Suitability for Network Security: A Case Study of STRIDE Threat Modeling

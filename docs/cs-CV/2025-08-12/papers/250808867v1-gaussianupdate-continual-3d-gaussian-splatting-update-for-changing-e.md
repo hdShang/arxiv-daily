@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GaussianUpdate: Continual 3D Gaussian Splatting Update for Changing Environments
+title: "GaussianUpdate: Continual 3D Gaussian Splatting Update for Changing Environments"
 ---
 
 # GaussianUpdate: Continual 3D Gaussian Splatting Update for Changing Environments

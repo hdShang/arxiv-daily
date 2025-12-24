@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mamba2 Meets Silence: Robust Vocal Source Separation for Sparse Regions
+title: "Mamba2 Meets Silence: Robust Vocal Source Separation for Sparse Regions"
 ---
 
 # Mamba2 Meets Silence: Robust Vocal Source Separation for Sparse Regions

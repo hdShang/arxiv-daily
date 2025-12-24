@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Think-J: Learning to Think for Generative LLM-as-a-Judge
+title: "Think-J: Learning to Think for Generative LLM-as-a-Judge"
 ---
 
 # Think-J: Learning to Think for Generative LLM-as-a-Judge

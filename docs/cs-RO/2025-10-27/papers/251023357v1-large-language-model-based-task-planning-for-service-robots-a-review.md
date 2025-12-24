@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Large language model-based task planning for service robots: A review
+title: "Large language model-based task planning for service robots: A review"
 ---
 
 # Large language model-based task planning for service robots: A review

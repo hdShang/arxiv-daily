@@ -1,6 +1,6 @@
 ---
 layout: default
-title: G$^2$RPO-A: Guided Group Relative Policy Optimization with Adaptive Guidance
+title: "G$^2$RPO-A: Guided Group Relative Policy Optimization with Adaptive Guidance"
 ---
 
 # G$^2$RPO-A: Guided Group Relative Policy Optimization with Adaptive Guidance

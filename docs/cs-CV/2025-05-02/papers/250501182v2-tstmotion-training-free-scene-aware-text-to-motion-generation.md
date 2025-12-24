@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TSTMotion: Training-free Scene-aware Text-to-motion Generation
+title: "TSTMotion: Training-free Scene-aware Text-to-motion Generation"
 ---
 
 # TSTMotion: Training-free Scene-aware Text-to-motion Generation

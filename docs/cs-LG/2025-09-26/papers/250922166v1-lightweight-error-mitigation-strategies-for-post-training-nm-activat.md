@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lightweight error mitigation strategies for post-training N:M activation sparsity in LLMs
+title: "Lightweight error mitigation strategies for post-training N:M activation sparsity in LLMs"
 ---
 
 # Lightweight error mitigation strategies for post-training N:M activation sparsity in LLMs

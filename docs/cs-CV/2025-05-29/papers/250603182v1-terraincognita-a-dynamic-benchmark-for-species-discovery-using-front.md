@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TerraIncognita: A Dynamic Benchmark for Species Discovery Using Frontier Models
+title: "TerraIncognita: A Dynamic Benchmark for Species Discovery Using Frontier Models"
 ---
 
 # TerraIncognita: A Dynamic Benchmark for Species Discovery Using Frontier Models

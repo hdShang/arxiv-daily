@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Limited Reference, Reliable Generation: A Two-Component Framework for Tabular Data Generation in Low-Data Regimes
+title: "Limited Reference, Reliable Generation: A Two-Component Framework for Tabular Data Generation in Low-Data Regimes"
 ---
 
 # Limited Reference, Reliable Generation: A Two-Component Framework for Tabular Data Generation in Low-Data Regimes

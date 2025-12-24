@@ -1,6 +1,6 @@
 ---
 layout: default
-title: O-MaMa: Learning Object Mask Matching between Egocentric and Exocentric Views
+title: "O-MaMa: Learning Object Mask Matching between Egocentric and Exocentric Views"
 ---
 
 # O-MaMa: Learning Object Mask Matching between Egocentric and Exocentric Views

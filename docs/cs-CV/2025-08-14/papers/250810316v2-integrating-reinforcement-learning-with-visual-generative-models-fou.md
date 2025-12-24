@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Integrating Reinforcement Learning with Visual Generative Models: Foundations and Advances
+title: "Integrating Reinforcement Learning with Visual Generative Models: Foundations and Advances"
 ---
 
 # Integrating Reinforcement Learning with Visual Generative Models: Foundations and Advances

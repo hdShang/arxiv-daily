@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Qianfan-VL: Domain-Enhanced Universal Vision-Language Models
+title: "Qianfan-VL: Domain-Enhanced Universal Vision-Language Models"
 ---
 
 # Qianfan-VL: Domain-Enhanced Universal Vision-Language Models

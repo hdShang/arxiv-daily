@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Large Language Models as Pokémon Battle Agents: Strategic Play and Content Generation
+title: "Large Language Models as Pokémon Battle Agents: Strategic Play and Content Generation"
 ---
 
 # Large Language Models as Pokémon Battle Agents: Strategic Play and Content Generation

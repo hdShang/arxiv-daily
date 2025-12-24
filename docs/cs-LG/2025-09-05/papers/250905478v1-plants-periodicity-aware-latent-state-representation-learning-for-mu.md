@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PLanTS: Periodicity-aware Latent-state Representation Learning for Multivariate Time Series
+title: "PLanTS: Periodicity-aware Latent-state Representation Learning for Multivariate Time Series"
 ---
 
 # PLanTS: Periodicity-aware Latent-state Representation Learning for Multivariate Time Series

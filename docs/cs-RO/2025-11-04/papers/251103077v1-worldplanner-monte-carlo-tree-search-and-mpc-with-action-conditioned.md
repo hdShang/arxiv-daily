@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WorldPlanner: Monte Carlo Tree Search and MPC with Action-Conditioned Visual World Models
+title: "WorldPlanner: Monte Carlo Tree Search and MPC with Action-Conditioned Visual World Models"
 ---
 
 # WorldPlanner: Monte Carlo Tree Search and MPC with Action-Conditioned Visual World Models

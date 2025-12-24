@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TACS-Graphs: Traversability-Aware Consistent Scene Graphs for Ground Robot Localization and Mapping
+title: "TACS-Graphs: Traversability-Aware Consistent Scene Graphs for Ground Robot Localization and Mapping"
 ---
 
 # TACS-Graphs: Traversability-Aware Consistent Scene Graphs for Ground Robot Localization and Mapping

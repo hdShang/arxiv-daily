@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MobRT: A Digital Twin-Based Framework for Scalable Learning in Mobile Manipulation
+title: "MobRT: A Digital Twin-Based Framework for Scalable Learning in Mobile Manipulation"
 ---
 
 # MobRT: A Digital Twin-Based Framework for Scalable Learning in Mobile Manipulation

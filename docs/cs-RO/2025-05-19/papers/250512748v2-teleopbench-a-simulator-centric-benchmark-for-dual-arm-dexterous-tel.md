@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation
+title: "TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation"
 ---
 
 # TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SelfReflect: Can LLMs Communicate Their Internal Answer Distribution?
+title: "SelfReflect: Can LLMs Communicate Their Internal Answer Distribution?"
 ---
 
 # SelfReflect: Can LLMs Communicate Their Internal Answer Distribution?

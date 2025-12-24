@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Decoding RobKiNet: Insights into Efficient Training of Robotic Kinematics Informed Neural Network
+title: "Decoding RobKiNet: Insights into Efficient Training of Robotic Kinematics Informed Neural Network"
 ---
 
 # Decoding RobKiNet: Insights into Efficient Training of Robotic Kinematics Informed Neural Network

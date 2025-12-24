@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Input Activations: Identifying Influential Latents by Gradient Sparse Autoencoders
+title: "Beyond Input Activations: Identifying Influential Latents by Gradient Sparse Autoencoders"
 ---
 
 # Beyond Input Activations: Identifying Influential Latents by Gradient Sparse Autoencoders

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SMF-VO: Direct Ego-Motion Estimation via Sparse Motion Fields
+title: "SMF-VO: Direct Ego-Motion Estimation via Sparse Motion Fields"
 ---
 
 # SMF-VO: Direct Ego-Motion Estimation via Sparse Motion Fields

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VimoRAG: Video-based Retrieval-augmented 3D Motion Generation for Motion Language Models
+title: "VimoRAG: Video-based Retrieval-augmented 3D Motion Generation for Motion Language Models"
 ---
 
 # VimoRAG: Video-based Retrieval-augmented 3D Motion Generation for Motion Language Models

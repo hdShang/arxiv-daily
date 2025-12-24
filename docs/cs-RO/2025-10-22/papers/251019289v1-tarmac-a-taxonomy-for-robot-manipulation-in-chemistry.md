@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TARMAC: A Taxonomy for Robot Manipulation in Chemistry
+title: "TARMAC: A Taxonomy for Robot Manipulation in Chemistry"
 ---
 
 # TARMAC: A Taxonomy for Robot Manipulation in Chemistry

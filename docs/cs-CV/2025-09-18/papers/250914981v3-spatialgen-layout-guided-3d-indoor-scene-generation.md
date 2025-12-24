@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SPATIALGEN: Layout-guided 3D Indoor Scene Generation
+title: "SPATIALGEN: Layout-guided 3D Indoor Scene Generation"
 ---
 
 # SPATIALGEN: Layout-guided 3D Indoor Scene Generation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PaceLLM: Brain-Inspired Large Language Models for Long-Context Understanding
+title: "PaceLLM: Brain-Inspired Large Language Models for Long-Context Understanding"
 ---
 
 # PaceLLM: Brain-Inspired Large Language Models for Long-Context Understanding

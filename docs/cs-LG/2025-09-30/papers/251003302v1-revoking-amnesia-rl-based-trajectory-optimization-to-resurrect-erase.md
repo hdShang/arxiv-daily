@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Revoking Amnesia: RL-based Trajectory Optimization to Resurrect Erased Concepts in Diffusion Models
+title: "Revoking Amnesia: RL-based Trajectory Optimization to Resurrect Erased Concepts in Diffusion Models"
 ---
 
 # Revoking Amnesia: RL-based Trajectory Optimization to Resurrect Erased Concepts in Diffusion Models

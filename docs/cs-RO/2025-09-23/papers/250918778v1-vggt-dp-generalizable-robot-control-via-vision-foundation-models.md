@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VGGT-DP: Generalizable Robot Control via Vision Foundation Models
+title: "VGGT-DP: Generalizable Robot Control via Vision Foundation Models"
 ---
 
 # VGGT-DP: Generalizable Robot Control via Vision Foundation Models

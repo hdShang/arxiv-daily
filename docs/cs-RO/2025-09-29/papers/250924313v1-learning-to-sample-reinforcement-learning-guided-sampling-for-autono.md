@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning to Sample: Reinforcement Learning-Guided Sampling for Autonomous Vehicle Motion Planning
+title: "Learning to Sample: Reinforcement Learning-Guided Sampling for Autonomous Vehicle Motion Planning"
 ---
 
 # Learning to Sample: Reinforcement Learning-Guided Sampling for Autonomous Vehicle Motion Planning

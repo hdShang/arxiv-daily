@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AnyTraverse: An off-road traversability framework with VLM and human operator in the loop
+title: "AnyTraverse: An off-road traversability framework with VLM and human operator in the loop"
 ---
 
 # AnyTraverse: An off-road traversability framework with VLM and human operator in the loop

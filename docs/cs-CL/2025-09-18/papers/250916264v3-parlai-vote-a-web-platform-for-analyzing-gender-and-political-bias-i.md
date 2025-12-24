@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ParlAI Vote: A Web Platform for Analyzing Gender and Political Bias in Large Language Models
+title: "ParlAI Vote: A Web Platform for Analyzing Gender and Political Bias in Large Language Models"
 ---
 
 # ParlAI Vote: A Web Platform for Analyzing Gender and Political Bias in Large Language Models

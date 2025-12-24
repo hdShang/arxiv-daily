@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HARMONY: Hidden Activation Representations and Model Output-Aware Uncertainty Estimation for Vision-Language Models
+title: "HARMONY: Hidden Activation Representations and Model Output-Aware Uncertainty Estimation for Vision-Language Models"
 ---
 
 # HARMONY: Hidden Activation Representations and Model Output-Aware Uncertainty Estimation for Vision-Language Models

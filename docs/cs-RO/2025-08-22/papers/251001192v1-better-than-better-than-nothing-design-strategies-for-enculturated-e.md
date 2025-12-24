@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Better Than "Better Than Nothing": Design Strategies for Enculturated Empathetic AI Robot Companions for Older Adults
+title: "Better Than \"Better Than Nothing\": Design Strategies for Enculturated Empathetic AI Robot Companions for Older Adults"
 ---
 
 # Better Than "Better Than Nothing": Design Strategies for Enculturated Empathetic AI Robot Companions for Older Adults

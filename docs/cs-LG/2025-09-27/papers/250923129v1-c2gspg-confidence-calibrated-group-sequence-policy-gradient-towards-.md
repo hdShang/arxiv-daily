@@ -1,6 +1,6 @@
 ---
 layout: default
-title: C$^2$GSPG: Confidence-calibrated Group Sequence Policy Gradient towards Self-aware Reasoning
+title: "C$^2$GSPG: Confidence-calibrated Group Sequence Policy Gradient towards Self-aware Reasoning"
 ---
 
 # C$^2$GSPG: Confidence-calibrated Group Sequence Policy Gradient towards Self-aware Reasoning

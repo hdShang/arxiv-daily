@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CAST: Counterfactual Labels Improve Instruction Following in Vision-Language-Action Models
+title: "CAST: Counterfactual Labels Improve Instruction Following in Vision-Language-Action Models"
 ---
 
 # CAST: Counterfactual Labels Improve Instruction Following in Vision-Language-Action Models

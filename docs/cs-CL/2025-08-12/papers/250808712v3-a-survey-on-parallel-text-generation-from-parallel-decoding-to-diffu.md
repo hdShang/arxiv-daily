@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Survey on Parallel Text Generation: From Parallel Decoding to Diffusion Language Models
+title: "A Survey on Parallel Text Generation: From Parallel Decoding to Diffusion Language Models"
 ---
 
 # A Survey on Parallel Text Generation: From Parallel Decoding to Diffusion Language Models

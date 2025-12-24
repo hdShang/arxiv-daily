@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Make me an Expert: Distilling from Generalist Black-Box Models into Specialized Models for Semantic Segmentation
+title: "Make me an Expert: Distilling from Generalist Black-Box Models into Specialized Models for Semantic Segmentation"
 ---
 
 # Make me an Expert: Distilling from Generalist Black-Box Models into Specialized Models for Semantic Segmentation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Genie Centurion: Accelerating Scalable Real-World Robot Training with Human Rewind-and-Refine Guidance
+title: "Genie Centurion: Accelerating Scalable Real-World Robot Training with Human Rewind-and-Refine Guidance"
 ---
 
 # Genie Centurion: Accelerating Scalable Real-World Robot Training with Human Rewind-and-Refine Guidance

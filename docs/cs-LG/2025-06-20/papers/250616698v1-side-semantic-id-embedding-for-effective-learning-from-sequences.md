@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SIDE: Semantic ID Embedding for effective learning from sequences
+title: "SIDE: Semantic ID Embedding for effective learning from sequences"
 ---
 
 # SIDE: Semantic ID Embedding for effective learning from sequences

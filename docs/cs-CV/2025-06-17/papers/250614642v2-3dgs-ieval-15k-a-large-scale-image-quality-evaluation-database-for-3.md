@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting
+title: "3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting"
 ---
 
 # 3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting

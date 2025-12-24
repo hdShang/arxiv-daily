@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dream to Chat: Model-based Reinforcement Learning on Dialogues with User Belief Modeling
+title: "Dream to Chat: Model-based Reinforcement Learning on Dialogues with User Belief Modeling"
 ---
 
 # Dream to Chat: Model-based Reinforcement Learning on Dialogues with User Belief Modeling

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GSFixer: Improving 3D Gaussian Splatting with Reference-Guided Video Diffusion Priors
+title: "GSFixer: Improving 3D Gaussian Splatting with Reference-Guided Video Diffusion Priors"
 ---
 
 # GSFixer: Improving 3D Gaussian Splatting with Reference-Guided Video Diffusion Priors

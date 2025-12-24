@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video
+title: "EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video"
 ---
 
 # EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video

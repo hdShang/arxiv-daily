@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AERMANI-VLM: Structured Prompting and Reasoning for Aerial Manipulation with Vision Language Models
+title: "AERMANI-VLM: Structured Prompting and Reasoning for Aerial Manipulation with Vision Language Models"
 ---
 
 # AERMANI-VLM: Structured Prompting and Reasoning for Aerial Manipulation with Vision Language Models

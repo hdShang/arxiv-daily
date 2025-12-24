@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ladder Up, Memory Down: Low-Cost Fine-Tuning With Side Nets
+title: "Ladder Up, Memory Down: Low-Cost Fine-Tuning With Side Nets"
 ---
 
 # Ladder Up, Memory Down: Low-Cost Fine-Tuning With Side Nets

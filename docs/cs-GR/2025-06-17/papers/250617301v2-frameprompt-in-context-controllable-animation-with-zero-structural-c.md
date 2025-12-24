@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FramePrompt: In-context Controllable Animation with Zero Structural Changes
+title: "FramePrompt: In-context Controllable Animation with Zero Structural Changes"
 ---
 
 # FramePrompt: In-context Controllable Animation with Zero Structural Changes

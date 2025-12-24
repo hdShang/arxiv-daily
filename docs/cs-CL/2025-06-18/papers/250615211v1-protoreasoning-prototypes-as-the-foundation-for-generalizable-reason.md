@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ProtoReasoning: Prototypes as the Foundation for Generalizable Reasoning in LLMs
+title: "ProtoReasoning: Prototypes as the Foundation for Generalizable Reasoning in LLMs"
 ---
 
 # ProtoReasoning: Prototypes as the Foundation for Generalizable Reasoning in LLMs

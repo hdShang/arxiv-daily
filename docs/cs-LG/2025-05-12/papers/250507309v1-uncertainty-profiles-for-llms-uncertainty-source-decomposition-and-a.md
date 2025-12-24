@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Uncertainty Profiles for LLMs: Uncertainty Source Decomposition and Adaptive Model-Metric Selection
+title: "Uncertainty Profiles for LLMs: Uncertainty Source Decomposition and Adaptive Model-Metric Selection"
 ---
 
 # Uncertainty Profiles for LLMs: Uncertainty Source Decomposition and Adaptive Model-Metric Selection

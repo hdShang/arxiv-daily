@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Method-Based Reasoning for Large Language Models: Extraction, Reuse, and Continuous Improvement
+title: "Method-Based Reasoning for Large Language Models: Extraction, Reuse, and Continuous Improvement"
 ---
 
 # Method-Based Reasoning for Large Language Models: Extraction, Reuse, and Continuous Improvement

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniView: Enhancing Novel View Synthesis From A Single Image By Unifying Reference Features
+title: "UniView: Enhancing Novel View Synthesis From A Single Image By Unifying Reference Features"
 ---
 
 # UniView: Enhancing Novel View Synthesis From A Single Image By Unifying Reference Features

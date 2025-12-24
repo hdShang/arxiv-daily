@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MARS-Bench: A Multi-turn Athletic Real-world Scenario Benchmark for Dialogue Evaluation
+title: "MARS-Bench: A Multi-turn Athletic Real-world Scenario Benchmark for Dialogue Evaluation"
 ---
 
 # MARS-Bench: A Multi-turn Athletic Real-world Scenario Benchmark for Dialogue Evaluation

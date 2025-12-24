@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ExARNN: An Environment-Driven Adaptive RNN for Learning Non-Stationary Power Dynamics
+title: "ExARNN: An Environment-Driven Adaptive RNN for Learning Non-Stationary Power Dynamics"
 ---
 
 # ExARNN: An Environment-Driven Adaptive RNN for Learning Non-Stationary Power Dynamics

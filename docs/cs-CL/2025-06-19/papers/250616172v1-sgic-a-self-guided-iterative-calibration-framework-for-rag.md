@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SGIC: A Self-Guided Iterative Calibration Framework for RAG
+title: "SGIC: A Self-Guided Iterative Calibration Framework for RAG"
 ---
 
 # SGIC: A Self-Guided Iterative Calibration Framework for RAG

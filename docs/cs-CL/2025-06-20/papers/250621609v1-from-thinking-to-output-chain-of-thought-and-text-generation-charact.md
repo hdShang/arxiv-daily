@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Thinking to Output: Chain-of-Thought and Text Generation Characteristics in Reasoning Language Models
+title: "From Thinking to Output: Chain-of-Thought and Text Generation Characteristics in Reasoning Language Models"
 ---
 
 # From Thinking to Output: Chain-of-Thought and Text Generation Characteristics in Reasoning Language Models

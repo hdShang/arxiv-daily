@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LogiDebrief: A Signal-Temporal Logic based Automated Debriefing Approach with Large Language Models Integration
+title: "LogiDebrief: A Signal-Temporal Logic based Automated Debriefing Approach with Large Language Models Integration"
 ---
 
 # LogiDebrief: A Signal-Temporal Logic based Automated Debriefing Approach with Large Language Models Integration

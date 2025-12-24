@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OFMU: Optimization-Driven Framework for Machine Unlearning
+title: "OFMU: Optimization-Driven Framework for Machine Unlearning"
 ---
 
 # OFMU: Optimization-Driven Framework for Machine Unlearning

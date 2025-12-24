@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image
+title: "Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image"
 ---
 
 # Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Curse of Knowledge: When Complex Evaluation Context Benefits yet Biases LLM Judges
+title: "Curse of Knowledge: When Complex Evaluation Context Benefits yet Biases LLM Judges"
 ---
 
 # Curse of Knowledge: When Complex Evaluation Context Benefits yet Biases LLM Judges

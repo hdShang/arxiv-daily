@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Context Matters! Relaxing Goals with LLMs for Feasible 3D Scene Planning
+title: "Context Matters! Relaxing Goals with LLMs for Feasible 3D Scene Planning"
 ---
 
 # Context Matters! Relaxing Goals with LLMs for Feasible 3D Scene Planning

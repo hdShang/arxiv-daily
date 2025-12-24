@@ -1,6 +1,6 @@
 ---
 layout: default
-title: S2R-Bench: A Sim-to-Real Evaluation Benchmark for Autonomous Driving
+title: "S2R-Bench: A Sim-to-Real Evaluation Benchmark for Autonomous Driving"
 ---
 
 # S2R-Bench: A Sim-to-Real Evaluation Benchmark for Autonomous Driving

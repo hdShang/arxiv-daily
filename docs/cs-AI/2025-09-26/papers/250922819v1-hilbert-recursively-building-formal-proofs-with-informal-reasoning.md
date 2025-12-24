@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hilbert: Recursively Building Formal Proofs with Informal Reasoning
+title: "Hilbert: Recursively Building Formal Proofs with Informal Reasoning"
 ---
 
 # Hilbert: Recursively Building Formal Proofs with Informal Reasoning

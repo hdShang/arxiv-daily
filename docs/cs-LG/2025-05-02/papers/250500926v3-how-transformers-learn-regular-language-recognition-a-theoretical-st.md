@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How Transformers Learn Regular Language Recognition: A Theoretical Study on Training Dynamics and Implicit Bias
+title: "How Transformers Learn Regular Language Recognition: A Theoretical Study on Training Dynamics and Implicit Bias"
 ---
 
 # How Transformers Learn Regular Language Recognition: A Theoretical Study on Training Dynamics and Implicit Bias

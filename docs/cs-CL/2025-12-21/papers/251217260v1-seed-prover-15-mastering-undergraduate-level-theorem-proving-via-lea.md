@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seed-Prover 1.5: Mastering Undergraduate-Level Theorem Proving via Learning from Experience
+title: "Seed-Prover 1.5: Mastering Undergraduate-Level Theorem Proving via Learning from Experience"
 ---
 
 # Seed-Prover 1.5: Mastering Undergraduate-Level Theorem Proving via Learning from Experience

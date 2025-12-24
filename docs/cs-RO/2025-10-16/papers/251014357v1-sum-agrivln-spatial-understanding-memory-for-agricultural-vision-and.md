@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SUM-AgriVLN: Spatial Understanding Memory for Agricultural Vision-and-Language Navigation
+title: "SUM-AgriVLN: Spatial Understanding Memory for Agricultural Vision-and-Language Navigation"
 ---
 
 # SUM-AgriVLN: Spatial Understanding Memory for Agricultural Vision-and-Language Navigation

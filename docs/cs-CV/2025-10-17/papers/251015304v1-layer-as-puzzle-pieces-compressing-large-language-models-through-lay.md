@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Layer as Puzzle Pieces: Compressing Large Language Models through Layer Concatenation
+title: "Layer as Puzzle Pieces: Compressing Large Language Models through Layer Concatenation"
 ---
 
 # Layer as Puzzle Pieces: Compressing Large Language Models through Layer Concatenation

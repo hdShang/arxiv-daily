@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoveFM-R: Advancing Mobility Foundation Models via Language-driven Semantic Reasoning
+title: "MoveFM-R: Advancing Mobility Foundation Models via Language-driven Semantic Reasoning"
 ---
 
 # MoveFM-R: Advancing Mobility Foundation Models via Language-driven Semantic Reasoning

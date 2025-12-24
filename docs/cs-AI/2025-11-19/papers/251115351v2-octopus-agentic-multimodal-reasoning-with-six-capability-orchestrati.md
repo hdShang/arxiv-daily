@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Octopus: Agentic Multimodal Reasoning with Six-Capability Orchestration
+title: "Octopus: Agentic Multimodal Reasoning with Six-Capability Orchestration"
 ---
 
 # Octopus: Agentic Multimodal Reasoning with Six-Capability Orchestration

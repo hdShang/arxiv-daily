@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models
+title: "Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models"
 ---
 
 # Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models

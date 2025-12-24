@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The InviTE Corpus: Annotating Invectives in Tudor English Texts for Computational Modeling
+title: "The InviTE Corpus: Annotating Invectives in Tudor English Texts for Computational Modeling"
 ---
 
 # The InviTE Corpus: Annotating Invectives in Tudor English Texts for Computational Modeling

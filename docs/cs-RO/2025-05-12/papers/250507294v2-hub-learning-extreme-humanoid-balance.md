@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HuB: Learning Extreme Humanoid Balance
+title: "HuB: Learning Extreme Humanoid Balance"
 ---
 
 # HuB: Learning Extreme Humanoid Balance

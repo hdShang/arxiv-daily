@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unveiling Causal Reasoning in Large Language Models: Reality or Mirage?
+title: "Unveiling Causal Reasoning in Large Language Models: Reality or Mirage?"
 ---
 
 # Unveiling Causal Reasoning in Large Language Models: Reality or Mirage?

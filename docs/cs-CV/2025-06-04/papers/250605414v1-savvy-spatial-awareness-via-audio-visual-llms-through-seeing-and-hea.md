@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing
+title: "SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing"
 ---
 
 # SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing

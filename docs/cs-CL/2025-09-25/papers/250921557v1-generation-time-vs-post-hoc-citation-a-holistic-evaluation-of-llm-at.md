@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Generation-Time vs. Post-hoc Citation: A Holistic Evaluation of LLM Attribution
+title: "Generation-Time vs. Post-hoc Citation: A Holistic Evaluation of LLM Attribution"
 ---
 
 # Generation-Time vs. Post-hoc Citation: A Holistic Evaluation of LLM Attribution

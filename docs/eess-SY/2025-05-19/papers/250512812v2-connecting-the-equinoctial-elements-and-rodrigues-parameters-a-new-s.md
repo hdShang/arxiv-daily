@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Connecting the Equinoctial Elements and Rodrigues Parameters: A New Set of Elements
+title: "Connecting the Equinoctial Elements and Rodrigues Parameters: A New Set of Elements"
 ---
 
 # Connecting the Equinoctial Elements and Rodrigues Parameters: A New Set of Elements

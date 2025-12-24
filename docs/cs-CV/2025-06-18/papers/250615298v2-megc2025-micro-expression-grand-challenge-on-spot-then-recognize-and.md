@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MEGC2025: Micro-Expression Grand Challenge on Spot Then Recognize and Visual Question Answering
+title: "MEGC2025: Micro-Expression Grand Challenge on Spot Then Recognize and Visual Question Answering"
 ---
 
 # MEGC2025: Micro-Expression Grand Challenge on Spot Then Recognize and Visual Question Answering

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Optimal Control of ODE Car-Following Models: Applications to Mixed-Autonomy Platoon Control via Coupled Autonomous Vehicles
+title: "Optimal Control of ODE Car-Following Models: Applications to Mixed-Autonomy Platoon Control via Coupled Autonomous Vehicles"
 ---
 
 # Optimal Control of ODE Car-Following Models: Applications to Mixed-Autonomy Platoon Control via Coupled Autonomous Vehicles

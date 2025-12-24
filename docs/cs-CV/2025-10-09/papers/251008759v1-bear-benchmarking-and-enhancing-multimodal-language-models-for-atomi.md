@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BEAR: Benchmarking and Enhancing Multimodal Language Models for Atomic Embodied Capabilities
+title: "BEAR: Benchmarking and Enhancing Multimodal Language Models for Atomic Embodied Capabilities"
 ---
 
 # BEAR: Benchmarking and Enhancing Multimodal Language Models for Atomic Embodied Capabilities

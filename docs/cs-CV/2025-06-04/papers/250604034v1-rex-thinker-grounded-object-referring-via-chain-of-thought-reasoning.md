@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rex-Thinker: Grounded Object Referring via Chain-of-Thought Reasoning
+title: "Rex-Thinker: Grounded Object Referring via Chain-of-Thought Reasoning"
 ---
 
 # Rex-Thinker: Grounded Object Referring via Chain-of-Thought Reasoning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: REBot: Reflexive Evasion Robot for Instantaneous Dynamic Obstacle Avoidance
+title: "REBot: Reflexive Evasion Robot for Instantaneous Dynamic Obstacle Avoidance"
 ---
 
 # REBot: Reflexive Evasion Robot for Instantaneous Dynamic Obstacle Avoidance

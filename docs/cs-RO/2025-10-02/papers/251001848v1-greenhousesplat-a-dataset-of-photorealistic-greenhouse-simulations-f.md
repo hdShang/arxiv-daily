@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GreenhouseSplat: A Dataset of Photorealistic Greenhouse Simulations for Mobile Robotics
+title: "GreenhouseSplat: A Dataset of Photorealistic Greenhouse Simulations for Mobile Robotics"
 ---
 
 # GreenhouseSplat: A Dataset of Photorealistic Greenhouse Simulations for Mobile Robotics

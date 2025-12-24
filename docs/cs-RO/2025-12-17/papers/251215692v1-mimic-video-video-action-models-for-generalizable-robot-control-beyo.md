@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs
+title: "mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs"
 ---
 
 # mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs

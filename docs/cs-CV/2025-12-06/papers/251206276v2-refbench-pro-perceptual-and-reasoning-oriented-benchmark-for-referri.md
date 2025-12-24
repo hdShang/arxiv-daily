@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RefBench-PRO: Perceptual and Reasoning Oriented Benchmark for Referring Expression Comprehension
+title: "RefBench-PRO: Perceptual and Reasoning Oriented Benchmark for Referring Expression Comprehension"
 ---
 
 # RefBench-PRO: Perceptual and Reasoning Oriented Benchmark for Referring Expression Comprehension

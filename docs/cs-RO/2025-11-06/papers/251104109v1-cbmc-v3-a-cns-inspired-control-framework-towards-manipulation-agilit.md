@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CBMC-V3: A CNS-inspired Control Framework Towards Manipulation Agility with SNN
+title: "CBMC-V3: A CNS-inspired Control Framework Towards Manipulation Agility with SNN"
 ---
 
 # CBMC-V3: A CNS-inspired Control Framework Towards Manipulation Agility with SNN

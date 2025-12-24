@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QUADS: QUAntized Distillation Framework for Efficient Speech Language Understanding
+title: "QUADS: QUAntized Distillation Framework for Efficient Speech Language Understanding"
 ---
 
 # QUADS: QUAntized Distillation Framework for Efficient Speech Language Understanding

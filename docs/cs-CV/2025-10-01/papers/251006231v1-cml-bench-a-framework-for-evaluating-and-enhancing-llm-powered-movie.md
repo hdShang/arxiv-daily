@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CML-Bench: A Framework for Evaluating and Enhancing LLM-Powered Movie Scripts Generation
+title: "CML-Bench: A Framework for Evaluating and Enhancing LLM-Powered Movie Scripts Generation"
 ---
 
 # CML-Bench: A Framework for Evaluating and Enhancing LLM-Powered Movie Scripts Generation

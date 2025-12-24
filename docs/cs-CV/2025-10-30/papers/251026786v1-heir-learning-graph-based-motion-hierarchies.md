@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HEIR: Learning Graph-Based Motion Hierarchies
+title: "HEIR: Learning Graph-Based Motion Hierarchies"
 ---
 
 # HEIR: Learning Graph-Based Motion Hierarchies

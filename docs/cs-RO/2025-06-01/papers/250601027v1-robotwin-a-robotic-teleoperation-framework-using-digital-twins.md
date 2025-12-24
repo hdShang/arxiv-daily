@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboTwin: A Robotic Teleoperation Framework Using Digital Twins
+title: "RoboTwin: A Robotic Teleoperation Framework Using Digital Twins"
 ---
 
 # RoboTwin: A Robotic Teleoperation Framework Using Digital Twins

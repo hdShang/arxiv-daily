@@ -1,6 +1,6 @@
 ---
 layout: default
-title: One Task Vector is not Enough: A Large-Scale Study for In-Context Learning
+title: "One Task Vector is not Enough: A Large-Scale Study for In-Context Learning"
 ---
 
 # One Task Vector is not Enough: A Large-Scale Study for In-Context Learning

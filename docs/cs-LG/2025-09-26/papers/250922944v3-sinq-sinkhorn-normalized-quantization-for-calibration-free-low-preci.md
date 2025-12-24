@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SINQ: Sinkhorn-Normalized Quantization for Calibration-Free Low-Precision LLM Weights
+title: "SINQ: Sinkhorn-Normalized Quantization for Calibration-Free Low-Precision LLM Weights"
 ---
 
 # SINQ: Sinkhorn-Normalized Quantization for Calibration-Free Low-Precision LLM Weights

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data
+title: "GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data"
 ---
 
 # GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data

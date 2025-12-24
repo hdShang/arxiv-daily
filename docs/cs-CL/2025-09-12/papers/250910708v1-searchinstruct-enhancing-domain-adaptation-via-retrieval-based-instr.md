@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SearchInstruct: Enhancing Domain Adaptation via Retrieval-Based Instruction Dataset Creation
+title: "SearchInstruct: Enhancing Domain Adaptation via Retrieval-Based Instruction Dataset Creation"
 ---
 
 # SearchInstruct: Enhancing Domain Adaptation via Retrieval-Based Instruction Dataset Creation

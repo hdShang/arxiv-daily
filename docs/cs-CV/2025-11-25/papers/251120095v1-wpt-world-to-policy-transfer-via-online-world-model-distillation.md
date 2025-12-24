@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WPT: World-to-Policy Transfer via Online World Model Distillation
+title: "WPT: World-to-Policy Transfer via Online World Model Distillation"
 ---
 
 # WPT: World-to-Policy Transfer via Online World Model Distillation

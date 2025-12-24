@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rethinking Large Language Model Distillation: A Constrained Markov Decision Process Perspective
+title: "Rethinking Large Language Model Distillation: A Constrained Markov Decision Process Perspective"
 ---
 
 # Rethinking Large Language Model Distillation: A Constrained Markov Decision Process Perspective

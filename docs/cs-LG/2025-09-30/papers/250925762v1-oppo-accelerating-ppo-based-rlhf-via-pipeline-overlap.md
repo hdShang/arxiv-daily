@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OPPO: Accelerating PPO-based RLHF via Pipeline Overlap
+title: "OPPO: Accelerating PPO-based RLHF via Pipeline Overlap"
 ---
 
 # OPPO: Accelerating PPO-based RLHF via Pipeline Overlap

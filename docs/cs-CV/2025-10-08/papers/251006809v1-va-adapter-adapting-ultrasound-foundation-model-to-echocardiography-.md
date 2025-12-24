@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VA-Adapter: Adapting Ultrasound Foundation Model to Echocardiography Probe Guidance
+title: "VA-Adapter: Adapting Ultrasound Foundation Model to Echocardiography Probe Guidance"
 ---
 
 # VA-Adapter: Adapting Ultrasound Foundation Model to Echocardiography Probe Guidance

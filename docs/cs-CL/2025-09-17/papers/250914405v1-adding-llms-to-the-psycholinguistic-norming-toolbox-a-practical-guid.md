@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adding LLMs to the psycholinguistic norming toolbox: A practical guide to getting the most out of human ratings
+title: "Adding LLMs to the psycholinguistic norming toolbox: A practical guide to getting the most out of human ratings"
 ---
 
 # Adding LLMs to the psycholinguistic norming toolbox: A practical guide to getting the most out of human ratings

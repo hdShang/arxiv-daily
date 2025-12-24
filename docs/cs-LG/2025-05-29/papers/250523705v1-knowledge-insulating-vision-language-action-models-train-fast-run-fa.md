@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better
+title: "Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better"
 ---
 
 # Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better

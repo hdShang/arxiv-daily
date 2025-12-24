@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StableMotion: Training Motion Cleanup Models with Unpaired Corrupted Data
+title: "StableMotion: Training Motion Cleanup Models with Unpaired Corrupted Data"
 ---
 
 # StableMotion: Training Motion Cleanup Models with Unpaired Corrupted Data

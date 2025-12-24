@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models
+title: "VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models"
 ---
 
 # VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models

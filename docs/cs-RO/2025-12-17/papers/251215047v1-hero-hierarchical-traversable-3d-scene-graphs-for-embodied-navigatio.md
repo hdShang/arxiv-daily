@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HERO: Hierarchical Traversable 3D Scene Graphs for Embodied Navigation Among Movable Obstacles
+title: "HERO: Hierarchical Traversable 3D Scene Graphs for Embodied Navigation Among Movable Obstacles"
 ---
 
 # HERO: Hierarchical Traversable 3D Scene Graphs for Embodied Navigation Among Movable Obstacles

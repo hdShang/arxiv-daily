@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UrbanTwin: Building High-Fidelity Digital Twins for Sim2Real LiDAR Perception and Evaluation
+title: "UrbanTwin: Building High-Fidelity Digital Twins for Sim2Real LiDAR Perception and Evaluation"
 ---
 
 # UrbanTwin: Building High-Fidelity Digital Twins for Sim2Real LiDAR Perception and Evaluation

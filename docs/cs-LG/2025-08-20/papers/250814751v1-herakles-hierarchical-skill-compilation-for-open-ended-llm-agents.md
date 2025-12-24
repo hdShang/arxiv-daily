@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HERAKLES: Hierarchical Skill Compilation for Open-ended LLM Agents
+title: "HERAKLES: Hierarchical Skill Compilation for Open-ended LLM Agents"
 ---
 
 # HERAKLES: Hierarchical Skill Compilation for Open-ended LLM Agents

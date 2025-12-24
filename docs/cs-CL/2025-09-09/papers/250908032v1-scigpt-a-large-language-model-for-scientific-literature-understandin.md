@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SciGPT: A Large Language Model for Scientific Literature Understanding and Knowledge Discovery
+title: "SciGPT: A Large Language Model for Scientific Literature Understanding and Knowledge Discovery"
 ---
 
 # SciGPT: A Large Language Model for Scientific Literature Understanding and Knowledge Discovery

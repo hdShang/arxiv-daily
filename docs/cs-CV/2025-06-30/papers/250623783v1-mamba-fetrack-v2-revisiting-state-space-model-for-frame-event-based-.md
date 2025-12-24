@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mamba-FETrack V2: Revisiting State Space Model for Frame-Event based Visual Object Tracking
+title: "Mamba-FETrack V2: Revisiting State Space Model for Frame-Event based Visual Object Tracking"
 ---
 
 # Mamba-FETrack V2: Revisiting State Space Model for Frame-Event based Visual Object Tracking

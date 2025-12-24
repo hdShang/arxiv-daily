@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Frequency Control in Microgrids: An Adaptive Fuzzy-Neural-Network Virtual Synchronous Generator
+title: "Frequency Control in Microgrids: An Adaptive Fuzzy-Neural-Network Virtual Synchronous Generator"
 ---
 
 # Frequency Control in Microgrids: An Adaptive Fuzzy-Neural-Network Virtual Synchronous Generator

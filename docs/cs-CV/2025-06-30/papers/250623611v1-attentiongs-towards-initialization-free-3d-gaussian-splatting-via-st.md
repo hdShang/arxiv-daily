@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention
+title: "AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention"
 ---
 
 # AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention

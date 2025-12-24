@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hey, That's My Data! Label-Only Dataset Inference in Large Language Models
+title: "Hey, That's My Data! Label-Only Dataset Inference in Large Language Models"
 ---
 
 # Hey, That's My Data! Label-Only Dataset Inference in Large Language Models

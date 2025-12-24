@@ -1,6 +1,6 @@
 ---
 layout: default
-title: World Models That Know When They Don't Know: Controllable Video Generation with Calibrated Uncertainty
+title: "World Models That Know When They Don't Know: Controllable Video Generation with Calibrated Uncertainty"
 ---
 
 # World Models That Know When They Don't Know: Controllable Video Generation with Calibrated Uncertainty

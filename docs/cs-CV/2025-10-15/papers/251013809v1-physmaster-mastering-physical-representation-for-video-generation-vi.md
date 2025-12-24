@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PhysMaster: Mastering Physical Representation for Video Generation via Reinforcement Learning
+title: "PhysMaster: Mastering Physical Representation for Video Generation via Reinforcement Learning"
 ---
 
 # PhysMaster: Mastering Physical Representation for Video Generation via Reinforcement Learning

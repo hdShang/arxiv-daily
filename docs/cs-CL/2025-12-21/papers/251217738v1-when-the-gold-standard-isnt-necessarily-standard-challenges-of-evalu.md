@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When the Gold Standard isn't Necessarily Standard: Challenges of Evaluating the Translation of User-Generated Content
+title: "When the Gold Standard isn't Necessarily Standard: Challenges of Evaluating the Translation of User-Generated Content"
 ---
 
 # When the Gold Standard isn't Necessarily Standard: Challenges of Evaluating the Translation of User-Generated Content

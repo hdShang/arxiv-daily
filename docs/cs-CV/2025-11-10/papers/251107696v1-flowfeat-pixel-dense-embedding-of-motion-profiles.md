@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FlowFeat: Pixel-Dense Embedding of Motion Profiles
+title: "FlowFeat: Pixel-Dense Embedding of Motion Profiles"
 ---
 
 # FlowFeat: Pixel-Dense Embedding of Motion Profiles

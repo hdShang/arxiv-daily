@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aligning by Misaligning: Boundary-aware Curriculum Learning for Multimodal Alignment
+title: "Aligning by Misaligning: Boundary-aware Curriculum Learning for Multimodal Alignment"
 ---
 
 # Aligning by Misaligning: Boundary-aware Curriculum Learning for Multimodal Alignment

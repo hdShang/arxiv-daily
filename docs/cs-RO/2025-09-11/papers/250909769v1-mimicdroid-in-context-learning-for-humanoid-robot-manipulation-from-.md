@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MimicDroid: In-Context Learning for Humanoid Robot Manipulation from Human Play Videos
+title: "MimicDroid: In-Context Learning for Humanoid Robot Manipulation from Human Play Videos"
 ---
 
 # MimicDroid: In-Context Learning for Humanoid Robot Manipulation from Human Play Videos

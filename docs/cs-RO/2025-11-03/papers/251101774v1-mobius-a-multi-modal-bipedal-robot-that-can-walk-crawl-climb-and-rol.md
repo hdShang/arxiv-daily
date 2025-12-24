@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MOBIUS: A Multi-Modal Bipedal Robot that can Walk, Crawl, Climb, and Roll
+title: "MOBIUS: A Multi-Modal Bipedal Robot that can Walk, Crawl, Climb, and Roll"
 ---
 
 # MOBIUS: A Multi-Modal Bipedal Robot that can Walk, Crawl, Climb, and Roll

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GUI-PRA: Process Reward Agent for GUI Tasks
+title: "GUI-PRA: Process Reward Agent for GUI Tasks"
 ---
 
 # GUI-PRA: Process Reward Agent for GUI Tasks

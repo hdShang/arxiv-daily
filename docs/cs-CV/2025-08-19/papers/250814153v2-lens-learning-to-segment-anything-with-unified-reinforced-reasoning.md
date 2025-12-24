@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LENS: Learning to Segment Anything with Unified Reinforced Reasoning
+title: "LENS: Learning to Segment Anything with Unified Reinforced Reasoning"
 ---
 
 # LENS: Learning to Segment Anything with Unified Reinforced Reasoning

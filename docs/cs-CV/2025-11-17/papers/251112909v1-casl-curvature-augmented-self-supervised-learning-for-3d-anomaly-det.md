@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection
+title: "CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection"
 ---
 
 # CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection

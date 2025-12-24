@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EaqVLA: Encoding-aligned Quantization for Vision-Language-Action Models
+title: "EaqVLA: Encoding-aligned Quantization for Vision-Language-Action Models"
 ---
 
 # EaqVLA: Encoding-aligned Quantization for Vision-Language-Action Models

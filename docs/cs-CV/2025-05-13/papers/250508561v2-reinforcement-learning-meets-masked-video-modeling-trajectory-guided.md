@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reinforcement Learning meets Masked Video Modeling : Trajectory-Guided Adaptive Token Selection
+title: "Reinforcement Learning meets Masked Video Modeling : Trajectory-Guided Adaptive Token Selection"
 ---
 
 # Reinforcement Learning meets Masked Video Modeling : Trajectory-Guided Adaptive Token Selection

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: exUMI: Extensible Robot Teaching System with Action-aware Task-agnostic Tactile Representation
+title: "exUMI: Extensible Robot Teaching System with Action-aware Task-agnostic Tactile Representation"
 ---
 
 # exUMI: Extensible Robot Teaching System with Action-aware Task-agnostic Tactile Representation

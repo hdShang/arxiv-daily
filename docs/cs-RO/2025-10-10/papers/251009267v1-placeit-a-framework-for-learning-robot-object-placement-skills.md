@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Placeit! A Framework for Learning Robot Object Placement Skills
+title: "Placeit! A Framework for Learning Robot Object Placement Skills"
 ---
 
 # Placeit! A Framework for Learning Robot Object Placement Skills

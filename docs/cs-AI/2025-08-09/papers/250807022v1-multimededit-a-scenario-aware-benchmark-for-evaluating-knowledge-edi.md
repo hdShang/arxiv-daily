@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MultiMedEdit: A Scenario-Aware Benchmark for Evaluating Knowledge Editing in Medical VQA
+title: "MultiMedEdit: A Scenario-Aware Benchmark for Evaluating Knowledge Editing in Medical VQA"
 ---
 
 # MultiMedEdit: A Scenario-Aware Benchmark for Evaluating Knowledge Editing in Medical VQA

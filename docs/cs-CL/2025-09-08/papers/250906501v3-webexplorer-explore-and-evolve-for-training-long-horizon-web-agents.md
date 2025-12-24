@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents
+title: "WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents"
 ---
 
 # WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents

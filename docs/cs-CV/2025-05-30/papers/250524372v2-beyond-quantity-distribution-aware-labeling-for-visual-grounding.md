@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Quantity: Distribution-Aware Labeling for Visual Grounding
+title: "Beyond Quantity: Distribution-Aware Labeling for Visual Grounding"
 ---
 
 # Beyond Quantity: Distribution-Aware Labeling for Visual Grounding

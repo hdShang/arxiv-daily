@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Radiance Fields in XR: A Survey on How Radiance Fields are Envisioned and Addressed for XR Research
+title: "Radiance Fields in XR: A Survey on How Radiance Fields are Envisioned and Addressed for XR Research"
 ---
 
 # Radiance Fields in XR: A Survey on How Radiance Fields are Envisioned and Addressed for XR Research

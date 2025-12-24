@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FRIEREN: Federated Learning with Vision-Language Regularization for Segmentation
+title: "FRIEREN: Federated Learning with Vision-Language Regularization for Segmentation"
 ---
 
 # FRIEREN: Federated Learning with Vision-Language Regularization for Segmentation

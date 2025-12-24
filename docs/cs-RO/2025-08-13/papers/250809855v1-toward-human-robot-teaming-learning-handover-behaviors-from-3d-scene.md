@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Toward Human-Robot Teaming: Learning Handover Behaviors from 3D Scenes
+title: "Toward Human-Robot Teaming: Learning Handover Behaviors from 3D Scenes"
 ---
 
 # Toward Human-Robot Teaming: Learning Handover Behaviors from 3D Scenes

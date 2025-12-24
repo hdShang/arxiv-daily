@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ChartReasoner: Code-Driven Modality Bridging for Long-Chain Reasoning in Chart Question Answering
+title: "ChartReasoner: Code-Driven Modality Bridging for Long-Chain Reasoning in Chart Question Answering"
 ---
 
 # ChartReasoner: Code-Driven Modality Bridging for Long-Chain Reasoning in Chart Question Answering

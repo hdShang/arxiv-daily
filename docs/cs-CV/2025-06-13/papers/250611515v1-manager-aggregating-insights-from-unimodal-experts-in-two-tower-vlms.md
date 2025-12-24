@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Manager: Aggregating Insights from Unimodal Experts in Two-Tower VLMs and MLLMs
+title: "Manager: Aggregating Insights from Unimodal Experts in Two-Tower VLMs and MLLMs"
 ---
 
 # Manager: Aggregating Insights from Unimodal Experts in Two-Tower VLMs and MLLMs

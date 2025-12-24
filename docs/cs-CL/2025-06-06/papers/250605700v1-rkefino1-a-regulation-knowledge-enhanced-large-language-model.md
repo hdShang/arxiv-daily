@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RKEFino1: A Regulation Knowledge-Enhanced Large Language Model
+title: "RKEFino1: A Regulation Knowledge-Enhanced Large Language Model"
 ---
 
 # RKEFino1: A Regulation Knowledge-Enhanced Large Language Model

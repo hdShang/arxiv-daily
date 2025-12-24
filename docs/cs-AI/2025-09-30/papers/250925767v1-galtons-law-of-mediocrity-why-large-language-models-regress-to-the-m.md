@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Galton's Law of Mediocrity: Why Large Language Models Regress to the Mean and Fail at Creativity in Advertising
+title: "Galton's Law of Mediocrity: Why Large Language Models Regress to the Mean and Fail at Creativity in Advertising"
 ---
 
 # Galton's Law of Mediocrity: Why Large Language Models Regress to the Mean and Fail at Creativity in Advertising

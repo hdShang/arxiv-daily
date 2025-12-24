@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Enhancing Joint Human-AI Inference in Robot Missions: A Confidence-Based Approach
+title: "Enhancing Joint Human-AI Inference in Robot Missions: A Confidence-Based Approach"
 ---
 
 # Enhancing Joint Human-AI Inference in Robot Missions: A Confidence-Based Approach

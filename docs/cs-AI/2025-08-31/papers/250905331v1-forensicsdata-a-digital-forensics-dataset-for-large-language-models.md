@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ForensicsData: A Digital Forensics Dataset for Large Language Models
+title: "ForensicsData: A Digital Forensics Dataset for Large Language Models"
 ---
 
 # ForensicsData: A Digital Forensics Dataset for Large Language Models

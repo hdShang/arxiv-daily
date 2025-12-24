@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EffiEval: Efficient and Generalizable Model Evaluation via Capability Coverage Maximization
+title: "EffiEval: Efficient and Generalizable Model Evaluation via Capability Coverage Maximization"
 ---
 
 # EffiEval: Efficient and Generalizable Model Evaluation via Capability Coverage Maximization

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VeOmni: Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo
+title: "VeOmni: Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo"
 ---
 
 # VeOmni: Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StreamForest: Efficient Online Video Understanding with Persistent Event Memory
+title: "StreamForest: Efficient Online Video Understanding with Persistent Event Memory"
 ---
 
 # StreamForest: Efficient Online Video Understanding with Persistent Event Memory

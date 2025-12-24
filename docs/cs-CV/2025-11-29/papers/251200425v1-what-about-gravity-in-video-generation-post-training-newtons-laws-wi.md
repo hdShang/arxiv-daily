@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What about gravity in video generation? Post-Training Newton's Laws with Verifiable Rewards
+title: "What about gravity in video generation? Post-Training Newton's Laws with Verifiable Rewards"
 ---
 
 # What about gravity in video generation? Post-Training Newton's Laws with Verifiable Rewards

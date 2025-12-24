@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AdaDetectGPT: Adaptive Detection of LLM-Generated Text with Statistical Guarantees
+title: "AdaDetectGPT: Adaptive Detection of LLM-Generated Text with Statistical Guarantees"
 ---
 
 # AdaDetectGPT: Adaptive Detection of LLM-Generated Text with Statistical Guarantees

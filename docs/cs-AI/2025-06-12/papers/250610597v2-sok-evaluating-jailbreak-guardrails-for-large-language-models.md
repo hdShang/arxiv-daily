@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SoK: Evaluating Jailbreak Guardrails for Large Language Models
+title: "SoK: Evaluating Jailbreak Guardrails for Large Language Models"
 ---
 
 # SoK: Evaluating Jailbreak Guardrails for Large Language Models

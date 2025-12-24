@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DreamPose3D: Hallucinative Diffusion with Prompt Learning for 3D Human Pose Estimation
+title: "DreamPose3D: Hallucinative Diffusion with Prompt Learning for 3D Human Pose Estimation"
 ---
 
 # DreamPose3D: Hallucinative Diffusion with Prompt Learning for 3D Human Pose Estimation

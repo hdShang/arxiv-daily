@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Factuality Matters: When Image Generation and Editing Meet Structured Visuals
+title: "Factuality Matters: When Image Generation and Editing Meet Structured Visuals"
 ---
 
 # Factuality Matters: When Image Generation and Editing Meet Structured Visuals

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LABELING COPILOT: A Deep Research Agent for Automated Data Curation in Computer Vision
+title: "LABELING COPILOT: A Deep Research Agent for Automated Data Curation in Computer Vision"
 ---
 
 # LABELING COPILOT: A Deep Research Agent for Automated Data Curation in Computer Vision

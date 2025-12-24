@@ -1,6 +1,6 @@
 ---
 layout: default
-title: STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization
+title: "STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization"
 ---
 
 # STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization

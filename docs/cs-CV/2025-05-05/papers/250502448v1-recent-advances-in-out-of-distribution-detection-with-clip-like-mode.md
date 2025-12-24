@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Recent Advances in Out-of-Distribution Detection with CLIP-Like Models: A Survey
+title: "Recent Advances in Out-of-Distribution Detection with CLIP-Like Models: A Survey"
 ---
 
 # Recent Advances in Out-of-Distribution Detection with CLIP-Like Models: A Survey

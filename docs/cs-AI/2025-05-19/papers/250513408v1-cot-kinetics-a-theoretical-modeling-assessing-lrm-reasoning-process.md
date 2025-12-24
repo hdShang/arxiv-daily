@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoT-Kinetics: A Theoretical Modeling Assessing LRM Reasoning Process
+title: "CoT-Kinetics: A Theoretical Modeling Assessing LRM Reasoning Process"
 ---
 
 # CoT-Kinetics: A Theoretical Modeling Assessing LRM Reasoning Process

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: POMA-3D: The Point Map Way to 3D Scene Understanding
+title: "POMA-3D: The Point Map Way to 3D Scene Understanding"
 ---
 
 # POMA-3D: The Point Map Way to 3D Scene Understanding

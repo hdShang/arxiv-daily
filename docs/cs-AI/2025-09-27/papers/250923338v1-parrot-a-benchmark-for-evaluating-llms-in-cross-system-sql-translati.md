@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PARROT: A Benchmark for Evaluating LLMs in Cross-System SQL Translation
+title: "PARROT: A Benchmark for Evaluating LLMs in Cross-System SQL Translation"
 ---
 
 # PARROT: A Benchmark for Evaluating LLMs in Cross-System SQL Translation

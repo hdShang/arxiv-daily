@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Refining Critical Thinking in LLM Code Generation: A Faulty Premise-based Evaluation Framework
+title: "Refining Critical Thinking in LLM Code Generation: A Faulty Premise-based Evaluation Framework"
 ---
 
 # Refining Critical Thinking in LLM Code Generation: A Faulty Premise-based Evaluation Framework

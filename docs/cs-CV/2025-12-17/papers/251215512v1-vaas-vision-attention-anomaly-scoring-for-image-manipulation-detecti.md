@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VAAS: Vision-Attention Anomaly Scoring for Image Manipulation Detection in Digital Forensics
+title: "VAAS: Vision-Attention Anomaly Scoring for Image Manipulation Detection in Digital Forensics"
 ---
 
 # VAAS: Vision-Attention Anomaly Scoring for Image Manipulation Detection in Digital Forensics

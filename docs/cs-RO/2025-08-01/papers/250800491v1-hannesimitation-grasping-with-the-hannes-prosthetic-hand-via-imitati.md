@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HannesImitation: Grasping with the Hannes Prosthetic Hand via Imitation Learning
+title: "HannesImitation: Grasping with the Hannes Prosthetic Hand via Imitation Learning"
 ---
 
 # HannesImitation: Grasping with the Hannes Prosthetic Hand via Imitation Learning

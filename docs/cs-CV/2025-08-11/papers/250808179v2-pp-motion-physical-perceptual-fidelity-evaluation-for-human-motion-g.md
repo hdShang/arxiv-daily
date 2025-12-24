@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PP-Motion: Physical-Perceptual Fidelity Evaluation for Human Motion Generation
+title: "PP-Motion: Physical-Perceptual Fidelity Evaluation for Human Motion Generation"
 ---
 
 # PP-Motion: Physical-Perceptual Fidelity Evaluation for Human Motion Generation

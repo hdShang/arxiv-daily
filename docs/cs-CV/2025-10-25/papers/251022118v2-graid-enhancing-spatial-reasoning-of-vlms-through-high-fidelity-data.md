@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GRAID: Enhancing Spatial Reasoning of VLMs Through High-Fidelity Data Generation
+title: "GRAID: Enhancing Spatial Reasoning of VLMs Through High-Fidelity Data Generation"
 ---
 
 # GRAID: Enhancing Spatial Reasoning of VLMs Through High-Fidelity Data Generation

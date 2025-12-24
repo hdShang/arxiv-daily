@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GeoSplat: A Deep Dive into Geometry-Constrained Gaussian Splatting
+title: "GeoSplat: A Deep Dive into Geometry-Constrained Gaussian Splatting"
 ---
 
 # GeoSplat: A Deep Dive into Geometry-Constrained Gaussian Splatting

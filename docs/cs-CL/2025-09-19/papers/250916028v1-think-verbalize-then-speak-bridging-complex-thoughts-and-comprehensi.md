@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Think, Verbalize, then Speak: Bridging Complex Thoughts and Comprehensible Speech
+title: "Think, Verbalize, then Speak: Bridging Complex Thoughts and Comprehensible Speech"
 ---
 
 # Think, Verbalize, then Speak: Bridging Complex Thoughts and Comprehensible Speech

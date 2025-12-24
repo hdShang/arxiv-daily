@@ -1,6 +1,6 @@
 ---
 layout: default
-title: T2Bs: Text-to-Character Blendshapes via Video Generation
+title: "T2Bs: Text-to-Character Blendshapes via Video Generation"
 ---
 
 # T2Bs: Text-to-Character Blendshapes via Video Generation

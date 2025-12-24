@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SPARQ: Synthetic Problem Generation for Reasoning via Quality-Diversity Algorithms
+title: "SPARQ: Synthetic Problem Generation for Reasoning via Quality-Diversity Algorithms"
 ---
 
 # SPARQ: Synthetic Problem Generation for Reasoning via Quality-Diversity Algorithms

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Period-LLM: Extending the Periodic Capability of Multimodal Large Language Model
+title: "Period-LLM: Extending the Periodic Capability of Multimodal Large Language Model"
 ---
 
 # Period-LLM: Extending the Periodic Capability of Multimodal Large Language Model

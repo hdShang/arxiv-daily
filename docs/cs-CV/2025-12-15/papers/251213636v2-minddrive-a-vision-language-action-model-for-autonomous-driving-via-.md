@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning
+title: "MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning"
 ---
 
 # MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning

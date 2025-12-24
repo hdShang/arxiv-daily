@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CommVQ: Commutative Vector Quantization for KV Cache Compression
+title: "CommVQ: Commutative Vector Quantization for KV Cache Compression"
 ---
 
 # CommVQ: Commutative Vector Quantization for KV Cache Compression

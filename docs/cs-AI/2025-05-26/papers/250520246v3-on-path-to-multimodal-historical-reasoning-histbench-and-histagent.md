@@ -1,6 +1,6 @@
 ---
 layout: default
-title: On Path to Multimodal Historical Reasoning: HistBench and HistAgent
+title: "On Path to Multimodal Historical Reasoning: HistBench and HistAgent"
 ---
 
 # On Path to Multimodal Historical Reasoning: HistBench and HistAgent

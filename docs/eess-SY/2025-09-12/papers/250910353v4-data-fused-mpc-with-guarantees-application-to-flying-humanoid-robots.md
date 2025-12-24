@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data-fused MPC with Guarantees: Application to Flying Humanoid Robots
+title: "Data-fused MPC with Guarantees: Application to Flying Humanoid Robots"
 ---
 
 # Data-fused MPC with Guarantees: Application to Flying Humanoid Robots

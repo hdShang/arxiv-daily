@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CarbonScaling: Extending Neural Scaling Laws for Carbon Footprint in Large Language Models
+title: "CarbonScaling: Extending Neural Scaling Laws for Carbon Footprint in Large Language Models"
 ---
 
 # CarbonScaling: Extending Neural Scaling Laws for Carbon Footprint in Large Language Models

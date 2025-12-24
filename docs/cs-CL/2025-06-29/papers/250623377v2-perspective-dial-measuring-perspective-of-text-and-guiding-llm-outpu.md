@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Perspective Dial: Measuring Perspective of Text and Guiding LLM Outputs
+title: "Perspective Dial: Measuring Perspective of Text and Guiding LLM Outputs"
 ---
 
 # Perspective Dial: Measuring Perspective of Text and Guiding LLM Outputs

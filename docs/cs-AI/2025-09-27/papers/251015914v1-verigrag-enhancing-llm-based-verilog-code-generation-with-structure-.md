@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VeriGRAG: Enhancing LLM-Based Verilog Code Generation with Structure-Aware Soft Prompts
+title: "VeriGRAG: Enhancing LLM-Based Verilog Code Generation with Structure-Aware Soft Prompts"
 ---
 
 # VeriGRAG: Enhancing LLM-Based Verilog Code Generation with Structure-Aware Soft Prompts

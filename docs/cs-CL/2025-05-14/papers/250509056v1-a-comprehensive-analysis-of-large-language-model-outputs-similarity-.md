@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Comprehensive Analysis of Large Language Model Outputs: Similarity, Diversity, and Bias
+title: "A Comprehensive Analysis of Large Language Model Outputs: Similarity, Diversity, and Bias"
 ---
 
 # A Comprehensive Analysis of Large Language Model Outputs: Similarity, Diversity, and Bias

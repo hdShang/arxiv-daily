@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VLC Fusion: Vision-Language Conditioned Sensor Fusion for Robust Object Detection
+title: "VLC Fusion: Vision-Language Conditioned Sensor Fusion for Robust Object Detection"
 ---
 
 # VLC Fusion: Vision-Language Conditioned Sensor Fusion for Robust Object Detection

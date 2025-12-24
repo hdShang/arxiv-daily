@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation
+title: "DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation"
 ---
 
 # DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation

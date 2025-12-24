@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SurfAAV: Design and Implementation of a Novel Multimodal Surfing Aquatic-Aerial Vehicle
+title: "SurfAAV: Design and Implementation of a Novel Multimodal Surfing Aquatic-Aerial Vehicle"
 ---
 
 # SurfAAV: Design and Implementation of a Novel Multimodal Surfing Aquatic-Aerial Vehicle

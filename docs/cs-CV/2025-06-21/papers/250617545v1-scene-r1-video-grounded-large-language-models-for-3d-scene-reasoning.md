@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scene-R1: Video-Grounded Large Language Models for 3D Scene Reasoning without 3D Annotations
+title: "Scene-R1: Video-Grounded Large Language Models for 3D Scene Reasoning without 3D Annotations"
 ---
 
 # Scene-R1: Video-Grounded Large Language Models for 3D Scene Reasoning without 3D Annotations

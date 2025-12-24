@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PercHead: Perceptual Head Model for Single-Image 3D Head Reconstruction & Editing
+title: "PercHead: Perceptual Head Model for Single-Image 3D Head Reconstruction & Editing"
 ---
 
 # PercHead: Perceptual Head Model for Single-Image 3D Head Reconstruction & Editing

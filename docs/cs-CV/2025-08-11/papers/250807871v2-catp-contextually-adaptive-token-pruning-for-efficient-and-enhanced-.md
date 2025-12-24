@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CATP: Contextually Adaptive Token Pruning for Efficient and Enhanced Multimodal In-Context Learning
+title: "CATP: Contextually Adaptive Token Pruning for Efficient and Enhanced Multimodal In-Context Learning"
 ---
 
 # CATP: Contextually Adaptive Token Pruning for Efficient and Enhanced Multimodal In-Context Learning

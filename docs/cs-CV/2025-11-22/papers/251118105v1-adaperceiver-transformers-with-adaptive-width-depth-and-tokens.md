@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AdaPerceiver: Transformers with Adaptive Width, Depth, and Tokens
+title: "AdaPerceiver: Transformers with Adaptive Width, Depth, and Tokens"
 ---
 
 # AdaPerceiver: Transformers with Adaptive Width, Depth, and Tokens

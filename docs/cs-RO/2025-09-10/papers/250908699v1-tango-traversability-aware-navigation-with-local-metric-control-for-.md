@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TANGO: Traversability-Aware Navigation with Local Metric Control for Topological Goals
+title: "TANGO: Traversability-Aware Navigation with Local Metric Control for Topological Goals"
 ---
 
 # TANGO: Traversability-Aware Navigation with Local Metric Control for Topological Goals

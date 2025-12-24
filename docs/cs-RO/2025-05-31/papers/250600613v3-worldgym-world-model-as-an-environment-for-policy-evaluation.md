@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WorldGym: World Model as An Environment for Policy Evaluation
+title: "WorldGym: World Model as An Environment for Policy Evaluation"
 ---
 
 # WorldGym: World Model as An Environment for Policy Evaluation

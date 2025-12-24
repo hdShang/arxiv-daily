@@ -1,6 +1,6 @@
 ---
 layout: default
-title: X-UniMotion: Animating Human Images with Expressive, Unified and Identity-Agnostic Motion Latents
+title: "X-UniMotion: Animating Human Images with Expressive, Unified and Identity-Agnostic Motion Latents"
 ---
 
 # X-UniMotion: Animating Human Images with Expressive, Unified and Identity-Agnostic Motion Latents

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VDC-Agent: When Video Detailed Captioners Evolve Themselves via Agentic Self-Reflection
+title: "VDC-Agent: When Video Detailed Captioners Evolve Themselves via Agentic Self-Reflection"
 ---
 
 # VDC-Agent: When Video Detailed Captioners Evolve Themselves via Agentic Self-Reflection

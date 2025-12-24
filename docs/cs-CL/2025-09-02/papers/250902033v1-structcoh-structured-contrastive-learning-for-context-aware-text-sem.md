@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StructCoh: Structured Contrastive Learning for Context-Aware Text Semantic Matching
+title: "StructCoh: Structured Contrastive Learning for Context-Aware Text Semantic Matching"
 ---
 
 # StructCoh: Structured Contrastive Learning for Context-Aware Text Semantic Matching

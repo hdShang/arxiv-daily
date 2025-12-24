@@ -1,6 +1,6 @@
 ---
 layout: default
-title: veScale: Consistent and Efficient Tensor Programming with Eager-Mode SPMD
+title: "veScale: Consistent and Efficient Tensor Programming with Eager-Mode SPMD"
 ---
 
 # veScale: Consistent and Efficient Tensor Programming with Eager-Mode SPMD

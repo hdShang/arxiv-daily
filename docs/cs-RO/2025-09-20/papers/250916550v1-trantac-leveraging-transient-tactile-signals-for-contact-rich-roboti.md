@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TranTac: Leveraging Transient Tactile Signals for Contact-Rich Robotic Manipulation
+title: "TranTac: Leveraging Transient Tactile Signals for Contact-Rich Robotic Manipulation"
 ---
 
 # TranTac: Leveraging Transient Tactile Signals for Contact-Rich Robotic Manipulation

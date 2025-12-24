@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Linking Process to Outcome: Conditional Reward Modeling for LLM Reasoning
+title: "Linking Process to Outcome: Conditional Reward Modeling for LLM Reasoning"
 ---
 
 # Linking Process to Outcome: Conditional Reward Modeling for LLM Reasoning

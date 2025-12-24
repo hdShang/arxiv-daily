@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MENLO: From Preferences to Proficiency -- Evaluating and Modeling Native-like Quality Across 47 Languages
+title: "MENLO: From Preferences to Proficiency -- Evaluating and Modeling Native-like Quality Across 47 Languages"
 ---
 
 # MENLO: From Preferences to Proficiency -- Evaluating and Modeling Native-like Quality Across 47 Languages

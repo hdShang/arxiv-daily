@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LongSplat: Robust Unposed 3D Gaussian Splatting for Casual Long Videos
+title: "LongSplat: Robust Unposed 3D Gaussian Splatting for Casual Long Videos"
 ---
 
 # LongSplat: Robust Unposed 3D Gaussian Splatting for Casual Long Videos

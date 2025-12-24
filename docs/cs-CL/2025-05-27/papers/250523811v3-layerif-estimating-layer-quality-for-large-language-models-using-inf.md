@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LayerIF: Estimating Layer Quality for Large Language Models using Influence Functions
+title: "LayerIF: Estimating Layer Quality for Large Language Models using Influence Functions"
 ---
 
 # LayerIF: Estimating Layer Quality for Large Language Models using Influence Functions

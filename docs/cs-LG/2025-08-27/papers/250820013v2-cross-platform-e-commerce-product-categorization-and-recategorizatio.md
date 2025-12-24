@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cross-Platform E-Commerce Product Categorization and Recategorization: A Multimodal Hierarchical Classification Approach
+title: "Cross-Platform E-Commerce Product Categorization and Recategorization: A Multimodal Hierarchical Classification Approach"
 ---
 
 # Cross-Platform E-Commerce Product Categorization and Recategorization: A Multimodal Hierarchical Classification Approach

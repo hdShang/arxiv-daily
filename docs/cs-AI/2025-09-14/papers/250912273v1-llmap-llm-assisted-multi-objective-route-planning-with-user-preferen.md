@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLMAP: LLM-Assisted Multi-Objective Route Planning with User Preferences
+title: "LLMAP: LLM-Assisted Multi-Objective Route Planning with User Preferences"
 ---
 
 # LLMAP: LLM-Assisted Multi-Objective Route Planning with User Preferences

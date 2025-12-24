@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CogMem: A Cognitive Memory Architecture for Sustained Multi-Turn Reasoning in Large Language Models
+title: "CogMem: A Cognitive Memory Architecture for Sustained Multi-Turn Reasoning in Large Language Models"
 ---
 
 # CogMem: A Cognitive Memory Architecture for Sustained Multi-Turn Reasoning in Large Language Models

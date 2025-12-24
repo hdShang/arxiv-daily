@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RESAnything: Attribute Prompting for Arbitrary Referring Segmentation
+title: "RESAnything: Attribute Prompting for Arbitrary Referring Segmentation"
 ---
 
 # RESAnything: Attribute Prompting for Arbitrary Referring Segmentation

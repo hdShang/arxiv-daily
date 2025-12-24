@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Benchmarking for Domain-Specific LLMs: A Case Study on Academia and Beyond
+title: "Benchmarking for Domain-Specific LLMs: A Case Study on Academia and Beyond"
 ---
 
 # Benchmarking for Domain-Specific LLMs: A Case Study on Academia and Beyond

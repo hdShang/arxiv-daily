@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Video-Thinker: Sparking "Thinking with Videos" via Reinforcement Learning
+title: "Video-Thinker: Sparking \"Thinking with Videos\" via Reinforcement Learning"
 ---
 
 # Video-Thinker: Sparking "Thinking with Videos" via Reinforcement Learning

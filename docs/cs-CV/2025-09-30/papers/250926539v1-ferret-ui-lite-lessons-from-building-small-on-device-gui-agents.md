@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents
+title: "Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents"
 ---
 
 # Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents

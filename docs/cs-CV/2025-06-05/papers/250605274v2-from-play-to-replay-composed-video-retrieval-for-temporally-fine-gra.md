@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos
+title: "From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos"
 ---
 
 # From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos

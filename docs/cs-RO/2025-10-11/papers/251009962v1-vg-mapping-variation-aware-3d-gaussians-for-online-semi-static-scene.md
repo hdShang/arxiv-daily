@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VG-Mapping: Variation-Aware 3D Gaussians for Online Semi-static Scene Mapping
+title: "VG-Mapping: Variation-Aware 3D Gaussians for Online Semi-static Scene Mapping"
 ---
 
 # VG-Mapping: Variation-Aware 3D Gaussians for Online Semi-static Scene Mapping

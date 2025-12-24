@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UltrON: Ultrasound Occupancy Networks
+title: "UltrON: Ultrasound Occupancy Networks"
 ---
 
 # UltrON: Ultrasound Occupancy Networks

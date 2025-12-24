@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SyncHuman: Synchronizing 2D and 3D Generative Models for Single-view Human Reconstruction
+title: "SyncHuman: Synchronizing 2D and 3D Generative Models for Single-view Human Reconstruction"
 ---
 
 # SyncHuman: Synchronizing 2D and 3D Generative Models for Single-view Human Reconstruction

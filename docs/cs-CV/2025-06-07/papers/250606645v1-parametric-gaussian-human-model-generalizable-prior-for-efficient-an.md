@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Parametric Gaussian Human Model: Generalizable Prior for Efficient and Realistic Human Avatar Modeling
+title: "Parametric Gaussian Human Model: Generalizable Prior for Efficient and Realistic Human Avatar Modeling"
 ---
 
 # Parametric Gaussian Human Model: Generalizable Prior for Efficient and Realistic Human Avatar Modeling

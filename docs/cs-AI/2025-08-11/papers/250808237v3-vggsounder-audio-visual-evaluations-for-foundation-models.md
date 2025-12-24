@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VGGSounder: Audio-Visual Evaluations for Foundation Models
+title: "VGGSounder: Audio-Visual Evaluations for Foundation Models"
 ---
 
 # VGGSounder: Audio-Visual Evaluations for Foundation Models

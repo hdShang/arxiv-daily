@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PRISON: Unmasking the Criminal Potential of Large Language Models
+title: "PRISON: Unmasking the Criminal Potential of Large Language Models"
 ---
 
 # PRISON: Unmasking the Criminal Potential of Large Language Models

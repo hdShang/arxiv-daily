@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reasoning Models Don't Always Say What They Think
+title: "Reasoning Models Don't Always Say What They Think"
 ---
 
 # Reasoning Models Don't Always Say What They Think

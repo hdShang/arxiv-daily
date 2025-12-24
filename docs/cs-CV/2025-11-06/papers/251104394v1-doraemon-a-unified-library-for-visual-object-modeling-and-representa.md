@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DORAEMON: A Unified Library for Visual Object Modeling and Representation Learning at Scale
+title: "DORAEMON: A Unified Library for Visual Object Modeling and Representation Learning at Scale"
 ---
 
 # DORAEMON: A Unified Library for Visual Object Modeling and Representation Learning at Scale

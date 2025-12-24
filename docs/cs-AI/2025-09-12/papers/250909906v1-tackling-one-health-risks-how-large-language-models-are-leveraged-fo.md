@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tackling One Health Risks: How Large Language Models are leveraged for Risk Negotiation and Consensus-building
+title: "Tackling One Health Risks: How Large Language Models are leveraged for Risk Negotiation and Consensus-building"
 ---
 
 # Tackling One Health Risks: How Large Language Models are leveraged for Risk Negotiation and Consensus-building

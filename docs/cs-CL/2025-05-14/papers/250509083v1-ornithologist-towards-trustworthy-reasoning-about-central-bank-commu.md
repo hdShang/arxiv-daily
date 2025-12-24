@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ornithologist: Towards Trustworthy "Reasoning" about Central Bank Communications
+title: "Ornithologist: Towards Trustworthy \"Reasoning\" about Central Bank Communications"
 ---
 
 # Ornithologist: Towards Trustworthy "Reasoning" about Central Bank Communications

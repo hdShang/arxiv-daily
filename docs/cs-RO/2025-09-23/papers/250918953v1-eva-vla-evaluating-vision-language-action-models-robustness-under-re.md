@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Eva-VLA: Evaluating Vision-Language-Action Models' Robustness Under Real-World Physical Variations
+title: "Eva-VLA: Evaluating Vision-Language-Action Models' Robustness Under Real-World Physical Variations"
 ---
 
 # Eva-VLA: Evaluating Vision-Language-Action Models' Robustness Under Real-World Physical Variations

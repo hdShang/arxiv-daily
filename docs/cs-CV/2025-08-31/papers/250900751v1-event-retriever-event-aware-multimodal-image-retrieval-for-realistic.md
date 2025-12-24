@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EVENT-Retriever: Event-Aware Multimodal Image Retrieval for Realistic Captions
+title: "EVENT-Retriever: Event-Aware Multimodal Image Retrieval for Realistic Captions"
 ---
 
 # EVENT-Retriever: Event-Aware Multimodal Image Retrieval for Realistic Captions

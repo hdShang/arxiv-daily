@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OWSM v4: Improving Open Whisper-Style Speech Models via Data Scaling and Cleaning
+title: "OWSM v4: Improving Open Whisper-Style Speech Models via Data Scaling and Cleaning"
 ---
 
 # OWSM v4: Improving Open Whisper-Style Speech Models via Data Scaling and Cleaning

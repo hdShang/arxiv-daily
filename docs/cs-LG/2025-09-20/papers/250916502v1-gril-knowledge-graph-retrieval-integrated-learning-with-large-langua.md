@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GRIL: Knowledge Graph Retrieval-Integrated Learning with Large Language Models
+title: "GRIL: Knowledge Graph Retrieval-Integrated Learning with Large Language Models"
 ---
 
 # GRIL: Knowledge Graph Retrieval-Integrated Learning with Large Language Models

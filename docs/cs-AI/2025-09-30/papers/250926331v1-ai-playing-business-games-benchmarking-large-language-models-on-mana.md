@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI Playing Business Games: Benchmarking Large Language Models on Managerial Decision-Making in Dynamic Simulations
+title: "AI Playing Business Games: Benchmarking Large Language Models on Managerial Decision-Making in Dynamic Simulations"
 ---
 
 # AI Playing Business Games: Benchmarking Large Language Models on Managerial Decision-Making in Dynamic Simulations

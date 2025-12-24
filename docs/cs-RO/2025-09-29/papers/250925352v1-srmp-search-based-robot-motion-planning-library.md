@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SRMP: Search-Based Robot Motion Planning Library
+title: "SRMP: Search-Based Robot Motion Planning Library"
 ---
 
 # SRMP: Search-Based Robot Motion Planning Library

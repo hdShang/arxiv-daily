@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CP-Bench: Evaluating Large Language Models for Constraint Modelling
+title: "CP-Bench: Evaluating Large Language Models for Constraint Modelling"
 ---
 
 # CP-Bench: Evaluating Large Language Models for Constraint Modelling

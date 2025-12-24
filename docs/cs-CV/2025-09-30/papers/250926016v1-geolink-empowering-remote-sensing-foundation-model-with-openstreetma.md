@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GeoLink: Empowering Remote Sensing Foundation Model with OpenStreetMap Data
+title: "GeoLink: Empowering Remote Sensing Foundation Model with OpenStreetMap Data"
 ---
 
 # GeoLink: Empowering Remote Sensing Foundation Model with OpenStreetMap Data

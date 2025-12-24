@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Attention on flow control: transformer-based reinforcement learning for lift regulation in highly disturbed flows
+title: "Attention on flow control: transformer-based reinforcement learning for lift regulation in highly disturbed flows"
 ---
 
 # Attention on flow control: transformer-based reinforcement learning for lift regulation in highly disturbed flows

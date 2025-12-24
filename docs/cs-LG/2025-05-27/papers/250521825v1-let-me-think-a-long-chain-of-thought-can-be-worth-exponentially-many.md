@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Let Me Think! A Long Chain-of-Thought Can Be Worth Exponentially Many Short Ones
+title: "Let Me Think! A Long Chain-of-Thought Can Be Worth Exponentially Many Short Ones"
 ---
 
 # Let Me Think! A Long Chain-of-Thought Can Be Worth Exponentially Many Short Ones

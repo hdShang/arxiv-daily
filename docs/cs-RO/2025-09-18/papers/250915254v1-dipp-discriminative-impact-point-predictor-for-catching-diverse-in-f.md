@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DIPP: Discriminative Impact Point Predictor for Catching Diverse In-Flight Objects
+title: "DIPP: Discriminative Impact Point Predictor for Catching Diverse In-Flight Objects"
 ---
 
 # DIPP: Discriminative Impact Point Predictor for Catching Diverse In-Flight Objects

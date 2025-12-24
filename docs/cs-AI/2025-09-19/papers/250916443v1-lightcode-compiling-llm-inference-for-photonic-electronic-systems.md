@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LightCode: Compiling LLM Inference for Photonic-Electronic Systems
+title: "LightCode: Compiling LLM Inference for Photonic-Electronic Systems"
 ---
 
 # LightCode: Compiling LLM Inference for Photonic-Electronic Systems

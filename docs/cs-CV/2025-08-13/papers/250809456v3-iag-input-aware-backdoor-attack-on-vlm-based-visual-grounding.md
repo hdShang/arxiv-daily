@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IAG: Input-aware Backdoor Attack on VLM-based Visual Grounding
+title: "IAG: Input-aware Backdoor Attack on VLM-based Visual Grounding"
 ---
 
 # IAG: Input-aware Backdoor Attack on VLM-based Visual Grounding

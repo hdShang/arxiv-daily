@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MAS-ZERO: Designing Multi-Agent Systems with Zero Supervision
+title: "MAS-ZERO: Designing Multi-Agent Systems with Zero Supervision"
 ---
 
 # MAS-ZERO: Designing Multi-Agent Systems with Zero Supervision

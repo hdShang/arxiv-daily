@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation
+title: "GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation"
 ---
 
 # GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Model Steering: Learning with a Reference Model Improves Generalization Bounds and Scaling Laws
+title: "Model Steering: Learning with a Reference Model Improves Generalization Bounds and Scaling Laws"
 ---
 
 # Model Steering: Learning with a Reference Model Improves Generalization Bounds and Scaling Laws

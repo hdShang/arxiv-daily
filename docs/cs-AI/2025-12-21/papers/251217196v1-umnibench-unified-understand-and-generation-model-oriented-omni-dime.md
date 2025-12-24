@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UmniBench: Unified Understand and Generation Model Oriented Omni-dimensional Benchmark
+title: "UmniBench: Unified Understand and Generation Model Oriented Omni-dimensional Benchmark"
 ---
 
 # UmniBench: Unified Understand and Generation Model Oriented Omni-dimensional Benchmark

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Free Draft-and-Verification: Toward Lossless Parallel Decoding for Diffusion Large Language Models
+title: "Free Draft-and-Verification: Toward Lossless Parallel Decoding for Diffusion Large Language Models"
 ---
 
 # Free Draft-and-Verification: Toward Lossless Parallel Decoding for Diffusion Large Language Models

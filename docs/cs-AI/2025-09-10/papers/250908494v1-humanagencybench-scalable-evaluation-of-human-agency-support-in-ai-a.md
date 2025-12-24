@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HumanAgencyBench: Scalable Evaluation of Human Agency Support in AI Assistants
+title: "HumanAgencyBench: Scalable Evaluation of Human Agency Support in AI Assistants"
 ---
 
 # HumanAgencyBench: Scalable Evaluation of Human Agency Support in AI Assistants

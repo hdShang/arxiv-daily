@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Drag4D: Align Your Motion with Text-Driven 3D Scene Generation
+title: "Drag4D: Align Your Motion with Text-Driven 3D Scene Generation"
 ---
 
 # Drag4D: Align Your Motion with Text-Driven 3D Scene Generation

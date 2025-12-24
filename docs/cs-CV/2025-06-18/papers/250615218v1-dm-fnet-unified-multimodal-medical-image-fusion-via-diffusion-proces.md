@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DM-FNet: Unified multimodal medical image fusion via diffusion process-trained encoder-decoder
+title: "DM-FNet: Unified multimodal medical image fusion via diffusion process-trained encoder-decoder"
 ---
 
 # DM-FNet: Unified multimodal medical image fusion via diffusion process-trained encoder-decoder

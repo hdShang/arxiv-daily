@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CM-Align: Consistency-based Multilingual Alignment for Large Language Models
+title: "CM-Align: Consistency-based Multilingual Alignment for Large Language Models"
 ---
 
 # CM-Align: Consistency-based Multilingual Alignment for Large Language Models

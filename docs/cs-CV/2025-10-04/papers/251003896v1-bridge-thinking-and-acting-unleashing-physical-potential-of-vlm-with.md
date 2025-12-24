@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bridge Thinking and Acting: Unleashing Physical Potential of VLM with Generalizable Action Expert
+title: "Bridge Thinking and Acting: Unleashing Physical Potential of VLM with Generalizable Action Expert"
 ---
 
 # Bridge Thinking and Acting: Unleashing Physical Potential of VLM with Generalizable Action Expert

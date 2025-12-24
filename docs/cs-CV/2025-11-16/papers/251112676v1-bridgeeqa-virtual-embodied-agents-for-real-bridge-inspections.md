@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BridgeEQA: Virtual Embodied Agents for Real Bridge Inspections
+title: "BridgeEQA: Virtual Embodied Agents for Real Bridge Inspections"
 ---
 
 # BridgeEQA: Virtual Embodied Agents for Real Bridge Inspections

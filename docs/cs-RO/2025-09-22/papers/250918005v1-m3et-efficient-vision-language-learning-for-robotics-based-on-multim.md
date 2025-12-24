@@ -1,6 +1,6 @@
 ---
 layout: default
-title: M3ET: Efficient Vision-Language Learning for Robotics based on Multimodal Mamba-Enhanced Transformer
+title: "M3ET: Efficient Vision-Language Learning for Robotics based on Multimodal Mamba-Enhanced Transformer"
 ---
 
 # M3ET: Efficient Vision-Language Learning for Robotics based on Multimodal Mamba-Enhanced Transformer

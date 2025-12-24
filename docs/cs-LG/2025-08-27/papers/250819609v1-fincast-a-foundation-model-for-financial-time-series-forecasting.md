@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FinCast: A Foundation Model for Financial Time-Series Forecasting
+title: "FinCast: A Foundation Model for Financial Time-Series Forecasting"
 ---
 
 # FinCast: A Foundation Model for Financial Time-Series Forecasting

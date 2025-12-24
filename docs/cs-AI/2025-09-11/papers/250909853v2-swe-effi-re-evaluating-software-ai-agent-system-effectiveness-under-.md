@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SWE-Effi: Re-Evaluating Software AI Agent System Effectiveness Under Resource Constraints
+title: "SWE-Effi: Re-Evaluating Software AI Agent System Effectiveness Under Resource Constraints"
 ---
 
 # SWE-Effi: Re-Evaluating Software AI Agent System Effectiveness Under Resource Constraints

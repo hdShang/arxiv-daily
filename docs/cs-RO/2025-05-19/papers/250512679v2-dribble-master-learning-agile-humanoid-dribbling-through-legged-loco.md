@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dribble Master: Learning Agile Humanoid Dribbling Through Legged Locomotion
+title: "Dribble Master: Learning Agile Humanoid Dribbling Through Legged Locomotion"
 ---
 
 # Dribble Master: Learning Agile Humanoid Dribbling Through Legged Locomotion

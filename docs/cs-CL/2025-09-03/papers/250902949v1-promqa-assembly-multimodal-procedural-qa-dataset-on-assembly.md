@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ProMQA-Assembly: Multimodal Procedural QA Dataset on Assembly
+title: "ProMQA-Assembly: Multimodal Procedural QA Dataset on Assembly"
 ---
 
 # ProMQA-Assembly: Multimodal Procedural QA Dataset on Assembly

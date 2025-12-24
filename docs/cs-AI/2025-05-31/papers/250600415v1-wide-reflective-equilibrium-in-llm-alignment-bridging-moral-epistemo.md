@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wide Reflective Equilibrium in LLM Alignment: Bridging Moral Epistemology and AI Safety
+title: "Wide Reflective Equilibrium in LLM Alignment: Bridging Moral Epistemology and AI Safety"
 ---
 
 # Wide Reflective Equilibrium in LLM Alignment: Bridging Moral Epistemology and AI Safety

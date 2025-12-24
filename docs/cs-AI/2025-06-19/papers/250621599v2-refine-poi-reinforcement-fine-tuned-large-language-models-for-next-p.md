@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Refine-POI: Reinforcement Fine-Tuned Large Language Models for Next Point-of-Interest Recommendation
+title: "Refine-POI: Reinforcement Fine-Tuned Large Language Models for Next Point-of-Interest Recommendation"
 ---
 
 # Refine-POI: Reinforcement Fine-Tuned Large Language Models for Next Point-of-Interest Recommendation

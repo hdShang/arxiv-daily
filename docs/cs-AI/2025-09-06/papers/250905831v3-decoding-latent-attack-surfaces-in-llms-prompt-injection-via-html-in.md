@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Decoding Latent Attack Surfaces in LLMs: Prompt Injection via HTML in Web Summarization
+title: "Decoding Latent Attack Surfaces in LLMs: Prompt Injection via HTML in Web Summarization"
 ---
 
 # Decoding Latent Attack Surfaces in LLMs: Prompt Injection via HTML in Web Summarization

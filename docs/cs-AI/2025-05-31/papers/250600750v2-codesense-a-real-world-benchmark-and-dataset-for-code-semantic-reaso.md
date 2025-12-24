@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CodeSense: a Real-World Benchmark and Dataset for Code Semantic Reasoning
+title: "CodeSense: a Real-World Benchmark and Dataset for Code Semantic Reasoning"
 ---
 
 # CodeSense: a Real-World Benchmark and Dataset for Code Semantic Reasoning

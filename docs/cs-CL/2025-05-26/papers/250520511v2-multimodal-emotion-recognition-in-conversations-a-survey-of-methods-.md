@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multimodal Emotion Recognition in Conversations: A Survey of Methods, Trends, Challenges and Prospects
+title: "Multimodal Emotion Recognition in Conversations: A Survey of Methods, Trends, Challenges and Prospects"
 ---
 
 # Multimodal Emotion Recognition in Conversations: A Survey of Methods, Trends, Challenges and Prospects

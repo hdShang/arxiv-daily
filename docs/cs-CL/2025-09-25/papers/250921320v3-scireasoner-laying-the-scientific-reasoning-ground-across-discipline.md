@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SciReasoner: Laying the Scientific Reasoning Ground Across Disciplines
+title: "SciReasoner: Laying the Scientific Reasoning Ground Across Disciplines"
 ---
 
 # SciReasoner: Laying the Scientific Reasoning Ground Across Disciplines

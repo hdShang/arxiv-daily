@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Foundation Cracks: A Comprehensive Study on Bugs and Testing Practices in LLM Libraries
+title: "The Foundation Cracks: A Comprehensive Study on Bugs and Testing Practices in LLM Libraries"
 ---
 
 # The Foundation Cracks: A Comprehensive Study on Bugs and Testing Practices in LLM Libraries

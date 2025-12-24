@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Token Limits: Assessing Language Model Performance on Long Text Classification
+title: "Beyond Token Limits: Assessing Language Model Performance on Long Text Classification"
 ---
 
 # Beyond Token Limits: Assessing Language Model Performance on Long Text Classification

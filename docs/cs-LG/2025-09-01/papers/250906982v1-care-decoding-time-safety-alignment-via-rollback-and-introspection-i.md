@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CARE: Decoding Time Safety Alignment via Rollback and Introspection Intervention
+title: "CARE: Decoding Time Safety Alignment via Rollback and Introspection Intervention"
 ---
 
 # CARE: Decoding Time Safety Alignment via Rollback and Introspection Intervention

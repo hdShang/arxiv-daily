@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning
+title: "Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning"
 ---
 
 # Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning

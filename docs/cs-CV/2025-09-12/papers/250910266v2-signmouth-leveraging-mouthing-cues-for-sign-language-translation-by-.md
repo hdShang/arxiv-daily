@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SignMouth: Leveraging Mouthing Cues for Sign Language Translation by Multimodal Contrastive Fusion
+title: "SignMouth: Leveraging Mouthing Cues for Sign Language Translation by Multimodal Contrastive Fusion"
 ---
 
 # SignMouth: Leveraging Mouthing Cues for Sign Language Translation by Multimodal Contrastive Fusion

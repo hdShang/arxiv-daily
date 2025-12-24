@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MetricHMSR:Metric Human Mesh and Scene Recovery from Monocular Images
+title: "MetricHMSR:Metric Human Mesh and Scene Recovery from Monocular Images"
 ---
 
 # MetricHMSR:Metric Human Mesh and Scene Recovery from Monocular Images

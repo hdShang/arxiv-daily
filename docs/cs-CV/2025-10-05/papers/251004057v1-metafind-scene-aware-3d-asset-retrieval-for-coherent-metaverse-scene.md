@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MetaFind: Scene-Aware 3D Asset Retrieval for Coherent Metaverse Scene Generation
+title: "MetaFind: Scene-Aware 3D Asset Retrieval for Coherent Metaverse Scene Generation"
 ---
 
 # MetaFind: Scene-Aware 3D Asset Retrieval for Coherent Metaverse Scene Generation

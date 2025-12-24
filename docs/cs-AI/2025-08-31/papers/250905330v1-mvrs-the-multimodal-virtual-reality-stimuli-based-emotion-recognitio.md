@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MVRS: The Multimodal Virtual Reality Stimuli-based Emotion Recognition Dataset
+title: "MVRS: The Multimodal Virtual Reality Stimuli-based Emotion Recognition Dataset"
 ---
 
 # MVRS: The Multimodal Virtual Reality Stimuli-based Emotion Recognition Dataset

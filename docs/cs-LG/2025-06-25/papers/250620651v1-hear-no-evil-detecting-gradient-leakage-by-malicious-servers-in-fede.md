@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hear No Evil: Detecting Gradient Leakage by Malicious Servers in Federated Learning
+title: "Hear No Evil: Detecting Gradient Leakage by Malicious Servers in Federated Learning"
 ---
 
 # Hear No Evil: Detecting Gradient Leakage by Malicious Servers in Federated Learning

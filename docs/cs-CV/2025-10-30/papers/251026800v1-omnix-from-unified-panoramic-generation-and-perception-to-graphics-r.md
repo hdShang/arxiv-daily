@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniX: From Unified Panoramic Generation and Perception to Graphics-Ready 3D Scenes
+title: "OmniX: From Unified Panoramic Generation and Perception to Graphics-Ready 3D Scenes"
 ---
 
 # OmniX: From Unified Panoramic Generation and Perception to Graphics-Ready 3D Scenes

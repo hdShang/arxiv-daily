@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Accessible Physical AI: LoRA-Based Fine-Tuning of VLA Models for Real-World Robot Control
+title: "Towards Accessible Physical AI: LoRA-Based Fine-Tuning of VLA Models for Real-World Robot Control"
 ---
 
 # Towards Accessible Physical AI: LoRA-Based Fine-Tuning of VLA Models for Real-World Robot Control

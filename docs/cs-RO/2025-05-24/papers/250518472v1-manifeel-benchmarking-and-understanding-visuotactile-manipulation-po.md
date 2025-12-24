@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ManiFeel: Benchmarking and Understanding Visuotactile Manipulation Policy Learning
+title: "ManiFeel: Benchmarking and Understanding Visuotactile Manipulation Policy Learning"
 ---
 
 # ManiFeel: Benchmarking and Understanding Visuotactile Manipulation Policy Learning

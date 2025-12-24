@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ThinkMorph: Emergent Properties in Multimodal Interleaved Chain-of-Thought Reasoning
+title: "ThinkMorph: Emergent Properties in Multimodal Interleaved Chain-of-Thought Reasoning"
 ---
 
 # ThinkMorph: Emergent Properties in Multimodal Interleaved Chain-of-Thought Reasoning

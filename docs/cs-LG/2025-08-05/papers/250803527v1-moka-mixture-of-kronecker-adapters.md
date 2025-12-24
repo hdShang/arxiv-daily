@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoKA: Mixture of Kronecker Adapters
+title: "MoKA: Mixture of Kronecker Adapters"
 ---
 
 # MoKA: Mixture of Kronecker Adapters

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RAPTR: Radar-based 3D Pose Estimation using Transformer
+title: "RAPTR: Radar-based 3D Pose Estimation using Transformer"
 ---
 
 # RAPTR: Radar-based 3D Pose Estimation using Transformer

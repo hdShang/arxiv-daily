@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GaussGym: An open-source real-to-sim framework for learning locomotion from pixels
+title: "GaussGym: An open-source real-to-sim framework for learning locomotion from pixels"
 ---
 
 # GaussGym: An open-source real-to-sim framework for learning locomotion from pixels

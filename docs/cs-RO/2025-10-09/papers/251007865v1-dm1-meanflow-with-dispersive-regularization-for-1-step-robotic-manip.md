@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DM1: MeanFlow with Dispersive Regularization for 1-Step Robotic Manipulation
+title: "DM1: MeanFlow with Dispersive Regularization for 1-Step Robotic Manipulation"
 ---
 
 # DM1: MeanFlow with Dispersive Regularization for 1-Step Robotic Manipulation

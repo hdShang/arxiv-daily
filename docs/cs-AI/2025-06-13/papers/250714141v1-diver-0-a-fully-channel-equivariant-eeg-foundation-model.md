@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DIVER-0 : A Fully Channel Equivariant EEG Foundation Model
+title: "DIVER-0 : A Fully Channel Equivariant EEG Foundation Model"
 ---
 
 # DIVER-0 : A Fully Channel Equivariant EEG Foundation Model

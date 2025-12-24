@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Enabling Chatbots with Eyes and Ears: An Immersive Multimodal Conversation System for Dynamic Interactions
+title: "Enabling Chatbots with Eyes and Ears: An Immersive Multimodal Conversation System for Dynamic Interactions"
 ---
 
 # Enabling Chatbots with Eyes and Ears: An Immersive Multimodal Conversation System for Dynamic Interactions

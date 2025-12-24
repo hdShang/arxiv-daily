@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RadialRouter: Structured Representation for Efficient and Robust Large Language Models Routing
+title: "RadialRouter: Structured Representation for Efficient and Robust Large Language Models Routing"
 ---
 
 # RadialRouter: Structured Representation for Efficient and Robust Large Language Models Routing

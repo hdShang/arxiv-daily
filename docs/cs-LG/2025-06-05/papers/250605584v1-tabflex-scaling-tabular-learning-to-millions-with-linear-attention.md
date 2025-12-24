@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TabFlex: Scaling Tabular Learning to Millions with Linear Attention
+title: "TabFlex: Scaling Tabular Learning to Millions with Linear Attention"
 ---
 
 # TabFlex: Scaling Tabular Learning to Millions with Linear Attention

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FaCTR: Factorized Channel-Temporal Representation Transformers for Efficient Time Series Forecasting
+title: "FaCTR: Factorized Channel-Temporal Representation Transformers for Efficient Time Series Forecasting"
 ---
 
 # FaCTR: Factorized Channel-Temporal Representation Transformers for Efficient Time Series Forecasting

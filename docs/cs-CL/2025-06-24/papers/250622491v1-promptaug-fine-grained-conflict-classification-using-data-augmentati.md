@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PromptAug: Fine-grained Conflict Classification Using Data Augmentation
+title: "PromptAug: Fine-grained Conflict Classification Using Data Augmentation"
 ---
 
 # PromptAug: Fine-grained Conflict Classification Using Data Augmentation

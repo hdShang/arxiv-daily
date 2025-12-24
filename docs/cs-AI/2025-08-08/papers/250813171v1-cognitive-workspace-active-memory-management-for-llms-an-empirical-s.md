@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cognitive Workspace: Active Memory Management for LLMs -- An Empirical Study of Functional Infinite Context
+title: "Cognitive Workspace: Active Memory Management for LLMs -- An Empirical Study of Functional Infinite Context"
 ---
 
 # Cognitive Workspace: Active Memory Management for LLMs -- An Empirical Study of Functional Infinite Context

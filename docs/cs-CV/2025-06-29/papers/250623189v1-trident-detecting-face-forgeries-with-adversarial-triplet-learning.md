@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trident: Detecting Face Forgeries with Adversarial Triplet Learning
+title: "Trident: Detecting Face Forgeries with Adversarial Triplet Learning"
 ---
 
 # Trident: Detecting Face Forgeries with Adversarial Triplet Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WeCKD: Weakly-supervised Chained Distillation Network for Efficient Multimodal Medical Imaging
+title: "WeCKD: Weakly-supervised Chained Distillation Network for Efficient Multimodal Medical Imaging"
 ---
 
 # WeCKD: Weakly-supervised Chained Distillation Network for Efficient Multimodal Medical Imaging

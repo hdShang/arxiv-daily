@@ -1,6 +1,6 @@
 ---
 layout: default
-title: dParallel: Learnable Parallel Decoding for dLLMs
+title: "dParallel: Learnable Parallel Decoding for dLLMs"
 ---
 
 # dParallel: Learnable Parallel Decoding for dLLMs

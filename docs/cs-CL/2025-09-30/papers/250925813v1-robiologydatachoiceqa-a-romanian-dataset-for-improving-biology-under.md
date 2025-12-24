@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoBiologyDataChoiceQA: A Romanian Dataset for improving Biology understanding of Large Language Models
+title: "RoBiologyDataChoiceQA: A Romanian Dataset for improving Biology understanding of Large Language Models"
 ---
 
 # RoBiologyDataChoiceQA: A Romanian Dataset for improving Biology understanding of Large Language Models

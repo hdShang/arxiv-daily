@@ -1,6 +1,6 @@
 ---
 layout: default
-title: You Only Train Once (YOTO): A Retraining-Free Object Detection Framework
+title: "You Only Train Once (YOTO): A Retraining-Free Object Detection Framework"
 ---
 
 # You Only Train Once (YOTO): A Retraining-Free Object Detection Framework

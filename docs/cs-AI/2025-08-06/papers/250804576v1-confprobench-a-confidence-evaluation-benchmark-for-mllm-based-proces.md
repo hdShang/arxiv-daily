@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ConfProBench: A Confidence Evaluation Benchmark for MLLM-Based Process Judges
+title: "ConfProBench: A Confidence Evaluation Benchmark for MLLM-Based Process Judges"
 ---
 
 # ConfProBench: A Confidence Evaluation Benchmark for MLLM-Based Process Judges

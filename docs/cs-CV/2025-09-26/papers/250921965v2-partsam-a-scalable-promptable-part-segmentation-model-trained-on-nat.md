@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PartSAM: A Scalable Promptable Part Segmentation Model Trained on Native 3D Data
+title: "PartSAM: A Scalable Promptable Part Segmentation Model Trained on Native 3D Data"
 ---
 
 # PartSAM: A Scalable Promptable Part Segmentation Model Trained on Native 3D Data

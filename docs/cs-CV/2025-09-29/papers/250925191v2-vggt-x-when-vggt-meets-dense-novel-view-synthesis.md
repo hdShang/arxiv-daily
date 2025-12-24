@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VGGT-X: When VGGT Meets Dense Novel View Synthesis
+title: "VGGT-X: When VGGT Meets Dense Novel View Synthesis"
 ---
 
 # VGGT-X: When VGGT Meets Dense Novel View Synthesis

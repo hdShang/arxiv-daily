@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MedKGent: A Large Language Model Agent Framework for Constructing Temporally Evolving Medical Knowledge Graph
+title: "MedKGent: A Large Language Model Agent Framework for Constructing Temporally Evolving Medical Knowledge Graph"
 ---
 
 # MedKGent: A Large Language Model Agent Framework for Constructing Temporally Evolving Medical Knowledge Graph

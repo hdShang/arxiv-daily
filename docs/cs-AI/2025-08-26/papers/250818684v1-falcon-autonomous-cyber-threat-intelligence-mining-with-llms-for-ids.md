@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FALCON: Autonomous Cyber Threat Intelligence Mining with LLMs for IDS Rule Generation
+title: "FALCON: Autonomous Cyber Threat Intelligence Mining with LLMs for IDS Rule Generation"
 ---
 
 # FALCON: Autonomous Cyber Threat Intelligence Mining with LLMs for IDS Rule Generation

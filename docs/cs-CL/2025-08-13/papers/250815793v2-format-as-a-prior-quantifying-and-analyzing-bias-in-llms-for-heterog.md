@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Format as a Prior: Quantifying and Analyzing Bias in LLMs for Heterogeneous Data
+title: "Format as a Prior: Quantifying and Analyzing Bias in LLMs for Heterogeneous Data"
 ---
 
 # Format as a Prior: Quantifying and Analyzing Bias in LLMs for Heterogeneous Data

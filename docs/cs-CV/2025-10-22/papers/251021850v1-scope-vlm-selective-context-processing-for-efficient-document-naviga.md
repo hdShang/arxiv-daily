@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SCoPE VLM: Selective Context Processing for Efficient Document Navigation in Vision-Language Models
+title: "SCoPE VLM: Selective Context Processing for Efficient Document Navigation in Vision-Language Models"
 ---
 
 # SCoPE VLM: Selective Context Processing for Efficient Document Navigation in Vision-Language Models

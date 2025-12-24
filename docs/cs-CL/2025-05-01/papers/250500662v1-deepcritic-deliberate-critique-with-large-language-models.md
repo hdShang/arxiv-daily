@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeepCritic: Deliberate Critique with Large Language Models
+title: "DeepCritic: Deliberate Critique with Large Language Models"
 ---
 
 # DeepCritic: Deliberate Critique with Large Language Models

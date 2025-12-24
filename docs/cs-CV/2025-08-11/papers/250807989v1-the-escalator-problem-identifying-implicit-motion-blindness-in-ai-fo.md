@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Escalator Problem: Identifying Implicit Motion Blindness in AI for Accessibility
+title: "The Escalator Problem: Identifying Implicit Motion Blindness in AI for Accessibility"
 ---
 
 # The Escalator Problem: Identifying Implicit Motion Blindness in AI for Accessibility

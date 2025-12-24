@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SecureWebArena: A Holistic Security Evaluation Benchmark for LVLM-based Web Agents
+title: "SecureWebArena: A Holistic Security Evaluation Benchmark for LVLM-based Web Agents"
 ---
 
 # SecureWebArena: A Holistic Security Evaluation Benchmark for LVLM-based Web Agents

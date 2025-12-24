@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A(I)nimism: Re-enchanting the World Through AI-Mediated Object Interaction
+title: "A(I)nimism: Re-enchanting the World Through AI-Mediated Object Interaction"
 ---
 
 # A(I)nimism: Re-enchanting the World Through AI-Mediated Object Interaction

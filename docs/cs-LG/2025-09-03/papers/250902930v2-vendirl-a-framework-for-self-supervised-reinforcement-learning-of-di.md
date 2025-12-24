@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VendiRL: A Framework for Self-Supervised Reinforcement Learning of Diversely Diverse Skills
+title: "VendiRL: A Framework for Self-Supervised Reinforcement Learning of Diversely Diverse Skills"
 ---
 
 # VendiRL: A Framework for Self-Supervised Reinforcement Learning of Diversely Diverse Skills

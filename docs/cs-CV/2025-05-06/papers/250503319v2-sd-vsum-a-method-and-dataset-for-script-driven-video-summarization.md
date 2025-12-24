@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SD-VSum: A Method and Dataset for Script-Driven Video Summarization
+title: "SD-VSum: A Method and Dataset for Script-Driven Video Summarization"
 ---
 
 # SD-VSum: A Method and Dataset for Script-Driven Video Summarization

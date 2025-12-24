@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions
+title: "NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions"
 ---
 
 # NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ACE-SLAM: Scene Coordinate Regression for Neural Implicit Real-Time SLAM
+title: "ACE-SLAM: Scene Coordinate Regression for Neural Implicit Real-Time SLAM"
 ---
 
 # ACE-SLAM: Scene Coordinate Regression for Neural Implicit Real-Time SLAM

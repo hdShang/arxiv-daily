@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Debate2Create: Robot Co-design via Large Language Model Debates
+title: "Debate2Create: Robot Co-design via Large Language Model Debates"
 ---
 
 # Debate2Create: Robot Co-design via Large Language Model Debates

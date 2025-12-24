@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI-Generated Fall Data: Assessing LLMs and Diffusion Model for Wearable Fall Detection
+title: "AI-Generated Fall Data: Assessing LLMs and Diffusion Model for Wearable Fall Detection"
 ---
 
 # AI-Generated Fall Data: Assessing LLMs and Diffusion Model for Wearable Fall Detection

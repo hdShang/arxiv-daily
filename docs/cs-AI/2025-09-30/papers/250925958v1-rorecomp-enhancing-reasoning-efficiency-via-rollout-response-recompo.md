@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoRecomp: Enhancing Reasoning Efficiency via Rollout Response Recomposition in Reinforcement Learning
+title: "RoRecomp: Enhancing Reasoning Efficiency via Rollout Response Recomposition in Reinforcement Learning"
 ---
 
 # RoRecomp: Enhancing Reasoning Efficiency via Rollout Response Recomposition in Reinforcement Learning

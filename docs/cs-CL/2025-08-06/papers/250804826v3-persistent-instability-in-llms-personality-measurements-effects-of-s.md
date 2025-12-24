@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Persistent Instability in LLM's Personality Measurements: Effects of Scale, Reasoning, and Conversation History
+title: "Persistent Instability in LLM's Personality Measurements: Effects of Scale, Reasoning, and Conversation History"
 ---
 
 # Persistent Instability in LLM's Personality Measurements: Effects of Scale, Reasoning, and Conversation History

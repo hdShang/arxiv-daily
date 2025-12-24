@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PILOT: Steering Synthetic Data Generation with Psychological & Linguistic Output Targeting
+title: "PILOT: Steering Synthetic Data Generation with Psychological & Linguistic Output Targeting"
 ---
 
 # PILOT: Steering Synthetic Data Generation with Psychological & Linguistic Output Targeting

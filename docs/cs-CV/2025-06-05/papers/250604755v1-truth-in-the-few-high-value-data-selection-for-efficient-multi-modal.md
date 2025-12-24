@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Truth in the Few: High-Value Data Selection for Efficient Multi-Modal Reasoning
+title: "Truth in the Few: High-Value Data Selection for Efficient Multi-Modal Reasoning"
 ---
 
 # Truth in the Few: High-Value Data Selection for Efficient Multi-Modal Reasoning

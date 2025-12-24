@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Motion Tracking with Muscles: Predictive Control of a Parametric Musculoskeletal Canine Model
+title: "Motion Tracking with Muscles: Predictive Control of a Parametric Musculoskeletal Canine Model"
 ---
 
 # Motion Tracking with Muscles: Predictive Control of a Parametric Musculoskeletal Canine Model

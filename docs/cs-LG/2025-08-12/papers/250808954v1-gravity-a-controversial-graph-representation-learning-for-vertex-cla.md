@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GRAVITY: A Controversial Graph Representation Learning for Vertex Classification
+title: "GRAVITY: A Controversial Graph Representation Learning for Vertex Classification"
 ---
 
 # GRAVITY: A Controversial Graph Representation Learning for Vertex Classification

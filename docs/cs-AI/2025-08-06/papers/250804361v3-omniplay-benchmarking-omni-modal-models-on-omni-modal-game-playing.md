@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniPlay: Benchmarking Omni-Modal Models on Omni-Modal Game Playing
+title: "OmniPlay: Benchmarking Omni-Modal Models on Omni-Modal Game Playing"
 ---
 
 # OmniPlay: Benchmarking Omni-Modal Models on Omni-Modal Game Playing

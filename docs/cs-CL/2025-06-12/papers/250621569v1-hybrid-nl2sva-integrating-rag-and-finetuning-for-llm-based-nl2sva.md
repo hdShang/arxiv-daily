@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hybrid-NL2SVA: Integrating RAG and Finetuning for LLM-based NL2SVA
+title: "Hybrid-NL2SVA: Integrating RAG and Finetuning for LLM-based NL2SVA"
 ---
 
 # Hybrid-NL2SVA: Integrating RAG and Finetuning for LLM-based NL2SVA

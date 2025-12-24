@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RLJP: Legal Judgment Prediction via First-Order Logic Rule-enhanced with Large Language Models
+title: "RLJP: Legal Judgment Prediction via First-Order Logic Rule-enhanced with Large Language Models"
 ---
 
 # RLJP: Legal Judgment Prediction via First-Order Logic Rule-enhanced with Large Language Models

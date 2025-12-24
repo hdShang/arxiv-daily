@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Clicks to Preference: A Multi-stage Alignment Framework for Generative Query Suggestion in Conversational System
+title: "From Clicks to Preference: A Multi-stage Alignment Framework for Generative Query Suggestion in Conversational System"
 ---
 
 # From Clicks to Preference: A Multi-stage Alignment Framework for Generative Query Suggestion in Conversational System

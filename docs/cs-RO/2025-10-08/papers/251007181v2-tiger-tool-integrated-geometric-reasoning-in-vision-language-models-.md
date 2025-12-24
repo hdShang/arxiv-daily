@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics
+title: "TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics"
 ---
 
 # TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CLARIFY: Contrastive Preference Reinforcement Learning for Untangling Ambiguous Queries
+title: "CLARIFY: Contrastive Preference Reinforcement Learning for Untangling Ambiguous Queries"
 ---
 
 # CLARIFY: Contrastive Preference Reinforcement Learning for Untangling Ambiguous Queries

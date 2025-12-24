@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OVSeg3R: Learn Open-vocabulary Instance Segmentation from 2D via 3D Reconstruction
+title: "OVSeg3R: Learn Open-vocabulary Instance Segmentation from 2D via 3D Reconstruction"
 ---
 
 # OVSeg3R: Learn Open-vocabulary Instance Segmentation from 2D via 3D Reconstruction

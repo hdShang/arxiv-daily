@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Divide, Discover, Deploy: Factorized Skill Learning with Symmetry and Style Priors
+title: "Divide, Discover, Deploy: Factorized Skill Learning with Symmetry and Style Priors"
 ---
 
 # Divide, Discover, Deploy: Factorized Skill Learning with Symmetry and Style Priors

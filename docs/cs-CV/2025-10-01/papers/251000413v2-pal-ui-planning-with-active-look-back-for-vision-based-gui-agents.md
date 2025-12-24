@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PAL-UI: Planning with Active Look-back for Vision-Based GUI Agents
+title: "PAL-UI: Planning with Active Look-back for Vision-Based GUI Agents"
 ---
 
 # PAL-UI: Planning with Active Look-back for Vision-Based GUI Agents

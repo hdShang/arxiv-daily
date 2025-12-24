@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments
+title: "NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments"
 ---
 
 # NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments

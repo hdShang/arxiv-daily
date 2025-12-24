@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeepDetect: Learning All-in-One Dense Keypoints
+title: "DeepDetect: Learning All-in-One Dense Keypoints"
 ---
 
 # DeepDetect: Learning All-in-One Dense Keypoints

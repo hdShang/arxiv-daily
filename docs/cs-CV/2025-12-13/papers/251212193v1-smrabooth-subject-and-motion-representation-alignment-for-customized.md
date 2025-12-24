@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SMRABooth: Subject and Motion Representation Alignment for Customized Video Generation
+title: "SMRABooth: Subject and Motion Representation Alignment for Customized Video Generation"
 ---
 
 # SMRABooth: Subject and Motion Representation Alignment for Customized Video Generation

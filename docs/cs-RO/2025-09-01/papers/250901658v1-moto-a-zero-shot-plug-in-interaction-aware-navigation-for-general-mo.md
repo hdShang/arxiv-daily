@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoTo: A Zero-shot Plug-in Interaction-aware Navigation for General Mobile Manipulation
+title: "MoTo: A Zero-shot Plug-in Interaction-aware Navigation for General Mobile Manipulation"
 ---
 
 # MoTo: A Zero-shot Plug-in Interaction-aware Navigation for General Mobile Manipulation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FLAT-LLM: Fine-grained Low-rank Activation Space Transformation for Large Language Model Compression
+title: "FLAT-LLM: Fine-grained Low-rank Activation Space Transformation for Large Language Model Compression"
 ---
 
 # FLAT-LLM: Fine-grained Low-rank Activation Space Transformation for Large Language Model Compression

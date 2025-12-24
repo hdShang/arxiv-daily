@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Abstract, Align, Predict: Zero-Shot Stance Detection via Cognitive Inductive Reasoning
+title: "Abstract, Align, Predict: Zero-Shot Stance Detection via Cognitive Inductive Reasoning"
 ---
 
 # Abstract, Align, Predict: Zero-Shot Stance Detection via Cognitive Inductive Reasoning

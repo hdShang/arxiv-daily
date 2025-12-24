@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SA-3DGS: A Self-Adaptive Compression Method for 3D Gaussian Splatting
+title: "SA-3DGS: A Self-Adaptive Compression Method for 3D Gaussian Splatting"
 ---
 
 # SA-3DGS: A Self-Adaptive Compression Method for 3D Gaussian Splatting

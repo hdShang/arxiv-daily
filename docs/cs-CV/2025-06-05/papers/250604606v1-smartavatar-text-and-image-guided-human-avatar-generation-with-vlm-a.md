@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SmartAvatar: Text- and Image-Guided Human Avatar Generation with VLM AI Agents
+title: "SmartAvatar: Text- and Image-Guided Human Avatar Generation with VLM AI Agents"
 ---
 
 # SmartAvatar: Text- and Image-Guided Human Avatar Generation with VLM AI Agents

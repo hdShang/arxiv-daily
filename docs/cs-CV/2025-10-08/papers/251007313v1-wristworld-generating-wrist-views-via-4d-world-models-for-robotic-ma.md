@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WristWorld: Generating Wrist-Views via 4D World Models for Robotic Manipulation
+title: "WristWorld: Generating Wrist-Views via 4D World Models for Robotic Manipulation"
 ---
 
 # WristWorld: Generating Wrist-Views via 4D World Models for Robotic Manipulation

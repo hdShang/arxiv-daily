@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DynaGuard: A Dynamic Guardian Model With User-Defined Policies
+title: "DynaGuard: A Dynamic Guardian Model With User-Defined Policies"
 ---
 
 # DynaGuard: A Dynamic Guardian Model With User-Defined Policies

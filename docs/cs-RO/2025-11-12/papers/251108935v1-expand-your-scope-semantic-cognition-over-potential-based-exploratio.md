@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Expand Your SCOPE: Semantic Cognition over Potential-Based Exploration for Embodied Visual Navigation
+title: "Expand Your SCOPE: Semantic Cognition over Potential-Based Exploration for Embodied Visual Navigation"
 ---
 
 # Expand Your SCOPE: Semantic Cognition over Potential-Based Exploration for Embodied Visual Navigation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Concept-Level Explainability for Auditing & Steering LLM Responses
+title: "Concept-Level Explainability for Auditing & Steering LLM Responses"
 ---
 
 # Concept-Level Explainability for Auditing & Steering LLM Responses

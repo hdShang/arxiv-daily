@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeepDialogue: A Multi-Turn Emotionally-Rich Spoken Dialogue Dataset
+title: "DeepDialogue: A Multi-Turn Emotionally-Rich Spoken Dialogue Dataset"
 ---
 
 # DeepDialogue: A Multi-Turn Emotionally-Rich Spoken Dialogue Dataset

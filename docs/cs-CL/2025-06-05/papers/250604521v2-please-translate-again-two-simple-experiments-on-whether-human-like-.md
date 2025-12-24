@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Please Translate Again: Two Simple Experiments on Whether Human-Like Reasoning Helps Translation
+title: "Please Translate Again: Two Simple Experiments on Whether Human-Like Reasoning Helps Translation"
 ---
 
 # Please Translate Again: Two Simple Experiments on Whether Human-Like Reasoning Helps Translation

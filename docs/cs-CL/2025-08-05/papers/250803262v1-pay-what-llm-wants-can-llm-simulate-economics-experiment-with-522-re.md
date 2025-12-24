@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pay What LLM Wants: Can LLM Simulate Economics Experiment with 522 Real-human Persona?
+title: "Pay What LLM Wants: Can LLM Simulate Economics Experiment with 522 Real-human Persona?"
 ---
 
 # Pay What LLM Wants: Can LLM Simulate Economics Experiment with 522 Real-human Persona?

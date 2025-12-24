@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CAT: Causal Attention Tuning For Injecting Fine-grained Causal Knowledge into Large Language Models
+title: "CAT: Causal Attention Tuning For Injecting Fine-grained Causal Knowledge into Large Language Models"
 ---
 
 # CAT: Causal Attention Tuning For Injecting Fine-grained Causal Knowledge into Large Language Models

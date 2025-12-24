@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DAM: Dual Active Learning with Multimodal Foundation Model for Source-Free Domain Adaptation
+title: "DAM: Dual Active Learning with Multimodal Foundation Model for Source-Free Domain Adaptation"
 ---
 
 # DAM: Dual Active Learning with Multimodal Foundation Model for Source-Free Domain Adaptation

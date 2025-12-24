@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deep Learning for Crack Detection: A Review of Learning Paradigms, Generalizability, and Datasets
+title: "Deep Learning for Crack Detection: A Review of Learning Paradigms, Generalizability, and Datasets"
 ---
 
 # Deep Learning for Crack Detection: A Review of Learning Paradigms, Generalizability, and Datasets

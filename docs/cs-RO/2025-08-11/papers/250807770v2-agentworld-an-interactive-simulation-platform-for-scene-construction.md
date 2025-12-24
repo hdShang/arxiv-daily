@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AgentWorld: An Interactive Simulation Platform for Scene Construction and Mobile Robotic Manipulation
+title: "AgentWorld: An Interactive Simulation Platform for Scene Construction and Mobile Robotic Manipulation"
 ---
 
 # AgentWorld: An Interactive Simulation Platform for Scene Construction and Mobile Robotic Manipulation

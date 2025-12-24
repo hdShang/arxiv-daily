@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RelationalFactQA: A Benchmark for Evaluating Tabular Fact Retrieval from Large Language Models
+title: "RelationalFactQA: A Benchmark for Evaluating Tabular Fact Retrieval from Large Language Models"
 ---
 
 # RelationalFactQA: A Benchmark for Evaluating Tabular Fact Retrieval from Large Language Models

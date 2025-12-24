@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StealthAttack: Robust 3D Gaussian Splatting Poisoning via Density-Guided Illusions
+title: "StealthAttack: Robust 3D Gaussian Splatting Poisoning via Density-Guided Illusions"
 ---
 
 # StealthAttack: Robust 3D Gaussian Splatting Poisoning via Density-Guided Illusions

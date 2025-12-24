@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts
+title: "HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts"
 ---
 
 # HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts

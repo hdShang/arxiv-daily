@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Memp: Exploring Agent Procedural Memory
+title: "Memp: Exploring Agent Procedural Memory"
 ---
 
 # Memp: Exploring Agent Procedural Memory

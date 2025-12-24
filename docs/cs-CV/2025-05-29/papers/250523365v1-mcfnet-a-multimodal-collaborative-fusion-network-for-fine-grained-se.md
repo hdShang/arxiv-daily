@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MCFNet: A Multimodal Collaborative Fusion Network for Fine-Grained Semantic Classification
+title: "MCFNet: A Multimodal Collaborative Fusion Network for Fine-Grained Semantic Classification"
 ---
 
 # MCFNet: A Multimodal Collaborative Fusion Network for Fine-Grained Semantic Classification

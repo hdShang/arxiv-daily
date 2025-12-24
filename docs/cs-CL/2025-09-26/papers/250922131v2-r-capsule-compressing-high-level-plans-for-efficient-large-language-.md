@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R-Capsule: Compressing High-Level Plans for Efficient Large Language Model Reasoning
+title: "R-Capsule: Compressing High-Level Plans for Efficient Large Language Model Reasoning"
 ---
 
 # R-Capsule: Compressing High-Level Plans for Efficient Large Language Model Reasoning

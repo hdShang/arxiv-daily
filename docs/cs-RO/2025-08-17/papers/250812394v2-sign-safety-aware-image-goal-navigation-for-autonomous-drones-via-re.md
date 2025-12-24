@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SIGN: Safety-Aware Image-Goal Navigation for Autonomous Drones via Reinforcement Learning
+title: "SIGN: Safety-Aware Image-Goal Navigation for Autonomous Drones via Reinforcement Learning"
 ---
 
 # SIGN: Safety-Aware Image-Goal Navigation for Autonomous Drones via Reinforcement Learning

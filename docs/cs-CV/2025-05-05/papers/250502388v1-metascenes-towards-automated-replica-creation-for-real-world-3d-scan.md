@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MetaScenes: Towards Automated Replica Creation for Real-world 3D Scans
+title: "MetaScenes: Towards Automated Replica Creation for Real-world 3D Scans"
 ---
 
 # MetaScenes: Towards Automated Replica Creation for Real-world 3D Scans

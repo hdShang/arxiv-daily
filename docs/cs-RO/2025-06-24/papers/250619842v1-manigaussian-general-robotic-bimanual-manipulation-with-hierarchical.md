@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model
+title: "ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model"
 ---
 
 # ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model

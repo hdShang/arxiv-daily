@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TalkCuts: A Large-Scale Dataset for Multi-Shot Human Speech Video Generation
+title: "TalkCuts: A Large-Scale Dataset for Multi-Shot Human Speech Video Generation"
 ---
 
 # TalkCuts: A Large-Scale Dataset for Multi-Shot Human Speech Video Generation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EduPersona: Benchmarking Subjective Ability Boundaries of Virtual Student Agents
+title: "EduPersona: Benchmarking Subjective Ability Boundaries of Virtual Student Agents"
 ---
 
 # EduPersona: Benchmarking Subjective Ability Boundaries of Virtual Student Agents

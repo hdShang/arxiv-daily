@@ -1,6 +1,6 @@
 ---
 layout: default
-title: M3G: Multi-Granular Gesture Generator for Audio-Driven Full-Body Human Motion Synthesis
+title: "M3G: Multi-Granular Gesture Generator for Audio-Driven Full-Body Human Motion Synthesis"
 ---
 
 # M3G: Multi-Granular Gesture Generator for Audio-Driven Full-Body Human Motion Synthesis

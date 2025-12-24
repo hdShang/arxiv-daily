@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning to Optimally Dispatch Power: Performance on a Nation-Wide Real-World Dataset
+title: "Learning to Optimally Dispatch Power: Performance on a Nation-Wide Real-World Dataset"
 ---
 
 # Learning to Optimally Dispatch Power: Performance on a Nation-Wide Real-World Dataset

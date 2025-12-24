@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Societal Impact of Foundation Models: Advancing Evidence-based AI Policy
+title: "The Societal Impact of Foundation Models: Advancing Evidence-based AI Policy"
 ---
 
 # The Societal Impact of Foundation Models: Advancing Evidence-based AI Policy

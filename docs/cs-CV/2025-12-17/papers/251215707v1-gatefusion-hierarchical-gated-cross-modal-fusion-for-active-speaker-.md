@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GateFusion: Hierarchical Gated Cross-Modal Fusion for Active Speaker Detection
+title: "GateFusion: Hierarchical Gated Cross-Modal Fusion for Active Speaker Detection"
 ---
 
 # GateFusion: Hierarchical Gated Cross-Modal Fusion for Active Speaker Detection

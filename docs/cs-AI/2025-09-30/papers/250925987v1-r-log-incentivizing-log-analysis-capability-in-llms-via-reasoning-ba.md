@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R-Log: Incentivizing Log Analysis Capability in LLMs via Reasoning-based Reinforcement Learning
+title: "R-Log: Incentivizing Log Analysis Capability in LLMs via Reasoning-based Reinforcement Learning"
 ---
 
 # R-Log: Incentivizing Log Analysis Capability in LLMs via Reasoning-based Reinforcement Learning

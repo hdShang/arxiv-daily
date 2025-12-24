@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Poison Once, Refuse Forever: Weaponizing Alignment for Injecting Bias in LLMs
+title: "Poison Once, Refuse Forever: Weaponizing Alignment for Injecting Bias in LLMs"
 ---
 
 # Poison Once, Refuse Forever: Weaponizing Alignment for Injecting Bias in LLMs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BiMark: Unbiased Multilayer Watermarking for Large Language Models
+title: "BiMark: Unbiased Multilayer Watermarking for Large Language Models"
 ---
 
 # BiMark: Unbiased Multilayer Watermarking for Large Language Models

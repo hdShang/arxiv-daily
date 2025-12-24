@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Forget-MI: Machine Unlearning for Forgetting Multimodal Information in Healthcare Settings
+title: "Forget-MI: Machine Unlearning for Forgetting Multimodal Information in Healthcare Settings"
 ---
 
 # Forget-MI: Machine Unlearning for Forgetting Multimodal Information in Healthcare Settings

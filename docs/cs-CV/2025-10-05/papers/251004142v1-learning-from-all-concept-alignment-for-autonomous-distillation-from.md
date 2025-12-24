@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning from All: Concept Alignment for Autonomous Distillation from Multiple Drifting MLLMs
+title: "Learning from All: Concept Alignment for Autonomous Distillation from Multiple Drifting MLLMs"
 ---
 
 # Learning from All: Concept Alignment for Autonomous Distillation from Multiple Drifting MLLMs

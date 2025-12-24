@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4Hammer: a board-game reinforcement learning environment for the hour long time frame
+title: "4Hammer: a board-game reinforcement learning environment for the hour long time frame"
 ---
 
 # 4Hammer: a board-game reinforcement learning environment for the hour long time frame

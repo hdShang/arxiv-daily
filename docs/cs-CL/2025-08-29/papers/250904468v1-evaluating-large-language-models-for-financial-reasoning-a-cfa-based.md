@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Evaluating Large Language Models for Financial Reasoning: A CFA-Based Benchmark Study
+title: "Evaluating Large Language Models for Financial Reasoning: A CFA-Based Benchmark Study"
 ---
 
 # Evaluating Large Language Models for Financial Reasoning: A CFA-Based Benchmark Study

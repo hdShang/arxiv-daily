@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Metis-HOME: Hybrid Optimized Mixture-of-Experts for Multimodal Reasoning
+title: "Metis-HOME: Hybrid Optimized Mixture-of-Experts for Multimodal Reasoning"
 ---
 
 # Metis-HOME: Hybrid Optimized Mixture-of-Experts for Multimodal Reasoning

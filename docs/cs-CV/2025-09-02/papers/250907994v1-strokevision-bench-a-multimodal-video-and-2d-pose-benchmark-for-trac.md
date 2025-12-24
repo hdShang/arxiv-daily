@@ -1,6 +1,6 @@
 ---
 layout: default
-title: STROKEVISION-BENCH: A Multimodal Video And 2D Pose Benchmark For Tracking Stroke Recovery
+title: "STROKEVISION-BENCH: A Multimodal Video And 2D Pose Benchmark For Tracking Stroke Recovery"
 ---
 
 # STROKEVISION-BENCH: A Multimodal Video And 2D Pose Benchmark For Tracking Stroke Recovery

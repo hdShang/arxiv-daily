@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Progressive Bird's Eye View Perception for Safety-Critical Autonomous Driving: A Comprehensive Survey
+title: "Progressive Bird's Eye View Perception for Safety-Critical Autonomous Driving: A Comprehensive Survey"
 ---
 
 # Progressive Bird's Eye View Perception for Safety-Critical Autonomous Driving: A Comprehensive Survey

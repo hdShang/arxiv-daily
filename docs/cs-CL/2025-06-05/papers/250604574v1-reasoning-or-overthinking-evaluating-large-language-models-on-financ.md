@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reasoning or Overthinking: Evaluating Large Language Models on Financial Sentiment Analysis
+title: "Reasoning or Overthinking: Evaluating Large Language Models on Financial Sentiment Analysis"
 ---
 
 # Reasoning or Overthinking: Evaluating Large Language Models on Financial Sentiment Analysis

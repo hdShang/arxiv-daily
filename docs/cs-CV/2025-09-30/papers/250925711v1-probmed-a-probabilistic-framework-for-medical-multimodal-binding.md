@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ProbMed: A Probabilistic Framework for Medical Multimodal Binding
+title: "ProbMed: A Probabilistic Framework for Medical Multimodal Binding"
 ---
 
 # ProbMed: A Probabilistic Framework for Medical Multimodal Binding

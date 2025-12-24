@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AgentSwift: Efficient LLM Agent Design via Value-guided Hierarchical Search
+title: "AgentSwift: Efficient LLM Agent Design via Value-guided Hierarchical Search"
 ---
 
 # AgentSwift: Efficient LLM Agent Design via Value-guided Hierarchical Search

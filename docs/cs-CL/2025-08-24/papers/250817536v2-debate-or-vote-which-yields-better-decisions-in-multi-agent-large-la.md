@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Debate or Vote: Which Yields Better Decisions in Multi-Agent Large Language Models?
+title: "Debate or Vote: Which Yields Better Decisions in Multi-Agent Large Language Models?"
 ---
 
 # Debate or Vote: Which Yields Better Decisions in Multi-Agent Large Language Models?

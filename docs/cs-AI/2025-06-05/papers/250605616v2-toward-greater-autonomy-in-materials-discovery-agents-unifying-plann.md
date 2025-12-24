@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Toward Greater Autonomy in Materials Discovery Agents: Unifying Planning, Physics, and Scientists
+title: "Toward Greater Autonomy in Materials Discovery Agents: Unifying Planning, Physics, and Scientists"
 ---
 
 # Toward Greater Autonomy in Materials Discovery Agents: Unifying Planning, Physics, and Scientists

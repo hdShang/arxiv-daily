@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ConTextTab: A Semantics-Aware Tabular In-Context Learner
+title: "ConTextTab: A Semantics-Aware Tabular In-Context Learner"
 ---
 
 # ConTextTab: A Semantics-Aware Tabular In-Context Learner

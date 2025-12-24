@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HiCaM: A Hierarchical-Causal Modification Framework for Long-Form Text Modification
+title: "HiCaM: A Hierarchical-Causal Modification Framework for Long-Form Text Modification"
 ---
 
 # HiCaM: A Hierarchical-Causal Modification Framework for Long-Form Text Modification

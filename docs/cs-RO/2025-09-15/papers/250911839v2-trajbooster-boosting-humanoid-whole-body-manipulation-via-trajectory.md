@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TrajBooster: Boosting Humanoid Whole-Body Manipulation via Trajectory-Centric Learning
+title: "TrajBooster: Boosting Humanoid Whole-Body Manipulation via Trajectory-Centric Learning"
 ---
 
 # TrajBooster: Boosting Humanoid Whole-Body Manipulation via Trajectory-Centric Learning

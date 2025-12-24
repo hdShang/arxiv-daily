@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Classification of Vision-Based Tactile Sensors: A Review
+title: "Classification of Vision-Based Tactile Sensors: A Review"
 ---
 
 # Classification of Vision-Based Tactile Sensors: A Review

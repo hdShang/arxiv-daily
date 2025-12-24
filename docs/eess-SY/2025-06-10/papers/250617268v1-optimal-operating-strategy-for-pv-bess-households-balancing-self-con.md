@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Optimal Operating Strategy for PV-BESS Households: Balancing Self-Consumption and Self-Sufficiency
+title: "Optimal Operating Strategy for PV-BESS Households: Balancing Self-Consumption and Self-Sufficiency"
 ---
 
 # Optimal Operating Strategy for PV-BESS Households: Balancing Self-Consumption and Self-Sufficiency

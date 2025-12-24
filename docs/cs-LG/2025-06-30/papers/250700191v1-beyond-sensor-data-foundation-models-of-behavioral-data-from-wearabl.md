@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Sensor Data: Foundation Models of Behavioral Data from Wearables Improve Health Predictions
+title: "Beyond Sensor Data: Foundation Models of Behavioral Data from Wearables Improve Health Predictions"
 ---
 
 # Beyond Sensor Data: Foundation Models of Behavioral Data from Wearables Improve Health Predictions

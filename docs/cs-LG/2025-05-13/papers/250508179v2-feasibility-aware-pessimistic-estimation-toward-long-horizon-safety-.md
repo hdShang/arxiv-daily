@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Feasibility-Aware Pessimistic Estimation: Toward Long-Horizon Safety in Offline RL
+title: "Feasibility-Aware Pessimistic Estimation: Toward Long-Horizon Safety in Offline RL"
 ---
 
 # Feasibility-Aware Pessimistic Estimation: Toward Long-Horizon Safety in Offline RL

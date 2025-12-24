@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EvolMathEval: Towards Evolvable Benchmarks for Mathematical Reasoning via Evolutionary Testing
+title: "EvolMathEval: Towards Evolvable Benchmarks for Mathematical Reasoning via Evolutionary Testing"
 ---
 
 # EvolMathEval: Towards Evolvable Benchmarks for Mathematical Reasoning via Evolutionary Testing

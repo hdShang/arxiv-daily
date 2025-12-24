@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prefix-Tuning+: Modernizing Prefix-Tuning by Decoupling the Prefix from Attention
+title: "Prefix-Tuning+: Modernizing Prefix-Tuning by Decoupling the Prefix from Attention"
 ---
 
 # Prefix-Tuning+: Modernizing Prefix-Tuning by Decoupling the Prefix from Attention

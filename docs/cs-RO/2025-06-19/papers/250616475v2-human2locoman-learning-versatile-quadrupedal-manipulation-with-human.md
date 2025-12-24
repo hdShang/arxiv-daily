@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Human2LocoMan: Learning Versatile Quadrupedal Manipulation with Human Pretraining
+title: "Human2LocoMan: Learning Versatile Quadrupedal Manipulation with Human Pretraining"
 ---
 
 # Human2LocoMan: Learning Versatile Quadrupedal Manipulation with Human Pretraining

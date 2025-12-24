@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assessing the Quality and Security of AI-Generated Code: A Quantitative Analysis
+title: "Assessing the Quality and Security of AI-Generated Code: A Quantitative Analysis"
 ---
 
 # Assessing the Quality and Security of AI-Generated Code: A Quantitative Analysis

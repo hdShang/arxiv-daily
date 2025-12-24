@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BEVCon: Advancing Bird's Eye View Perception with Contrastive Learning
+title: "BEVCon: Advancing Bird's Eye View Perception with Contrastive Learning"
 ---
 
 # BEVCon: Advancing Bird's Eye View Perception with Contrastive Learning

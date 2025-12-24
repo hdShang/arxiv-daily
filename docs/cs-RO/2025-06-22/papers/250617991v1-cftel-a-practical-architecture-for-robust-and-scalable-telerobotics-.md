@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CFTel: A Practical Architecture for Robust and Scalable Telerobotics with Cloud-Fog Automation
+title: "CFTel: A Practical Architecture for Robust and Scalable Telerobotics with Cloud-Fog Automation"
 ---
 
 # CFTel: A Practical Architecture for Robust and Scalable Telerobotics with Cloud-Fog Automation

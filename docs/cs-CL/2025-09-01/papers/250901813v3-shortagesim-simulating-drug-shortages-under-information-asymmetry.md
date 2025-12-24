@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ShortageSim: Simulating Drug Shortages under Information Asymmetry
+title: "ShortageSim: Simulating Drug Shortages under Information Asymmetry"
 ---
 
 # ShortageSim: Simulating Drug Shortages under Information Asymmetry

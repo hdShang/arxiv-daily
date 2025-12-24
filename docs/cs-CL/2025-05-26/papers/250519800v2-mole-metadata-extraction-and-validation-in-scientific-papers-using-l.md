@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MOLE: Metadata Extraction and Validation in Scientific Papers Using LLMs
+title: "MOLE: Metadata Extraction and Validation in Scientific Papers Using LLMs"
 ---
 
 # MOLE: Metadata Extraction and Validation in Scientific Papers Using LLMs

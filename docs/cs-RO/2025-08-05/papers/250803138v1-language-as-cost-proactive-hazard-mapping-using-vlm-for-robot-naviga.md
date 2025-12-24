@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Language as Cost: Proactive Hazard Mapping using VLM for Robot Navigation
+title: "Language as Cost: Proactive Hazard Mapping using VLM for Robot Navigation"
 ---
 
 # Language as Cost: Proactive Hazard Mapping using VLM for Robot Navigation

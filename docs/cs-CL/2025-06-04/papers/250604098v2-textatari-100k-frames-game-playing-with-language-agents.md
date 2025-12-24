@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TextAtari: 100K Frames Game Playing with Language Agents
+title: "TextAtari: 100K Frames Game Playing with Language Agents"
 ---
 
 # TextAtari: 100K Frames Game Playing with Language Agents

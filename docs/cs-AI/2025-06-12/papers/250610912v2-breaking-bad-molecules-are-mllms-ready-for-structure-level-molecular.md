@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Breaking Bad Molecules: Are MLLMs Ready for Structure-Level Molecular Detoxification?
+title: "Breaking Bad Molecules: Are MLLMs Ready for Structure-Level Molecular Detoxification?"
 ---
 
 # Breaking Bad Molecules: Are MLLMs Ready for Structure-Level Molecular Detoxification?

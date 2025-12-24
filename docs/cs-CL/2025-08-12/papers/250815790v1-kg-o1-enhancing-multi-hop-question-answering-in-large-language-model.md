@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KG-o1: Enhancing Multi-hop Question Answering in Large Language Models via Knowledge Graph Integration
+title: "KG-o1: Enhancing Multi-hop Question Answering in Large Language Models via Knowledge Graph Integration"
 ---
 
 # KG-o1: Enhancing Multi-hop Question Answering in Large Language Models via Knowledge Graph Integration

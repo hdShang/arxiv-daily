@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FastPose-ViT: A Vision Transformer for Real-Time Spacecraft Pose Estimation
+title: "FastPose-ViT: A Vision Transformer for Real-Time Spacecraft Pose Estimation"
 ---
 
 # FastPose-ViT: A Vision Transformer for Real-Time Spacecraft Pose Estimation

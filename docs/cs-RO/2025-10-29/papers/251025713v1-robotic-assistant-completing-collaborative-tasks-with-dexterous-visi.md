@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Robotic Assistant: Completing Collaborative Tasks with Dexterous Vision-Language-Action Models
+title: "Robotic Assistant: Completing Collaborative Tasks with Dexterous Vision-Language-Action Models"
 ---
 
 # Robotic Assistant: Completing Collaborative Tasks with Dexterous Vision-Language-Action Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Electrolyzers-HSI: Close-Range Multi-Scene Hyperspectral Imaging Benchmark Dataset
+title: "Electrolyzers-HSI: Close-Range Multi-Scene Hyperspectral Imaging Benchmark Dataset"
 ---
 
 # Electrolyzers-HSI: Close-Range Multi-Scene Hyperspectral Imaging Benchmark Dataset

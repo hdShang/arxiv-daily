@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PIT-QMM: A Large Multimodal Model For No-Reference Point Cloud Quality Assessment
+title: "PIT-QMM: A Large Multimodal Model For No-Reference Point Cloud Quality Assessment"
 ---
 
 # PIT-QMM: A Large Multimodal Model For No-Reference Point Cloud Quality Assessment

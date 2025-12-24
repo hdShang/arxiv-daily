@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RE-IMAGINE: Symbolic Benchmark Synthesis for Reasoning Evaluation
+title: "RE-IMAGINE: Symbolic Benchmark Synthesis for Reasoning Evaluation"
 ---
 
 # RE-IMAGINE: Symbolic Benchmark Synthesis for Reasoning Evaluation

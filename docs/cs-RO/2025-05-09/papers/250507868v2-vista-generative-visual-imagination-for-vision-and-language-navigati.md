@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VISTA: Generative Visual Imagination for Vision-and-Language Navigation
+title: "VISTA: Generative Visual Imagination for Vision-and-Language Navigation"
 ---
 
 # VISTA: Generative Visual Imagination for Vision-and-Language Navigation

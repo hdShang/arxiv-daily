@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SafeBimanual: Diffusion-based Trajectory Optimization for Safe Bimanual Manipulation
+title: "SafeBimanual: Diffusion-based Trajectory Optimization for Safe Bimanual Manipulation"
 ---
 
 # SafeBimanual: Diffusion-based Trajectory Optimization for Safe Bimanual Manipulation

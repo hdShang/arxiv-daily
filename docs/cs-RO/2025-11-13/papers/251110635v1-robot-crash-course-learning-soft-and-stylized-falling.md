@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Robot Crash Course: Learning Soft and Stylized Falling
+title: "Robot Crash Course: Learning Soft and Stylized Falling"
 ---
 
 # Robot Crash Course: Learning Soft and Stylized Falling

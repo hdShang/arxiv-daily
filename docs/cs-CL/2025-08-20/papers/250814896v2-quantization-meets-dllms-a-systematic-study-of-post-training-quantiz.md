@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs
+title: "Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs"
 ---
 
 # Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs

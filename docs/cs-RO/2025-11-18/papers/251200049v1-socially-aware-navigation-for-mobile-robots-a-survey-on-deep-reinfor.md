@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Socially aware navigation for mobile robots: a survey on deep reinforcement learning approaches
+title: "Socially aware navigation for mobile robots: a survey on deep reinforcement learning approaches"
 ---
 
 # Socially aware navigation for mobile robots: a survey on deep reinforcement learning approaches

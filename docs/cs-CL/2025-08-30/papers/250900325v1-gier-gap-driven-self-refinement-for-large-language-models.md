@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GIER: Gap-Driven Self-Refinement for Large Language Models
+title: "GIER: Gap-Driven Self-Refinement for Large Language Models"
 ---
 
 # GIER: Gap-Driven Self-Refinement for Large Language Models

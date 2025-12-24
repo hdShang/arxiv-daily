@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Safety Subspaces are Not Linearly Distinct: A Fine-Tuning Case Study
+title: "Safety Subspaces are Not Linearly Distinct: A Fine-Tuning Case Study"
 ---
 
 # Safety Subspaces are Not Linearly Distinct: A Fine-Tuning Case Study

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UPGS: Unified Pose-aware Gaussian Splatting for Dynamic Scene Deblurring
+title: "UPGS: Unified Pose-aware Gaussian Splatting for Dynamic Scene Deblurring"
 ---
 
 # UPGS: Unified Pose-aware Gaussian Splatting for Dynamic Scene Deblurring

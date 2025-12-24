@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer
+title: "Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer"
 ---
 
 # Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HGC-Avatar: Hierarchical Gaussian Compression for Streamable Dynamic 3D Avatars
+title: "HGC-Avatar: Hierarchical Gaussian Compression for Streamable Dynamic 3D Avatars"
 ---
 
 # HGC-Avatar: Hierarchical Gaussian Compression for Streamable Dynamic 3D Avatars

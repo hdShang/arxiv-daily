@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MobileRL: Online Agentic Reinforcement Learning for Mobile GUI Agents
+title: "MobileRL: Online Agentic Reinforcement Learning for Mobile GUI Agents"
 ---
 
 # MobileRL: Online Agentic Reinforcement Learning for Mobile GUI Agents

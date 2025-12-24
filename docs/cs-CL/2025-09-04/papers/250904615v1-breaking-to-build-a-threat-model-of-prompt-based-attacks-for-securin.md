@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Breaking to Build: A Threat Model of Prompt-Based Attacks for Securing LLMs
+title: "Breaking to Build: A Threat Model of Prompt-Based Attacks for Securing LLMs"
 ---
 
 # Breaking to Build: A Threat Model of Prompt-Based Attacks for Securing LLMs

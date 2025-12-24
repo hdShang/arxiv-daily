@@ -1,6 +1,6 @@
 ---
 layout: default
-title: X-SAM: From Segment Anything to Any Segmentation
+title: "X-SAM: From Segment Anything to Any Segmentation"
 ---
 
 # X-SAM: From Segment Anything to Any Segmentation

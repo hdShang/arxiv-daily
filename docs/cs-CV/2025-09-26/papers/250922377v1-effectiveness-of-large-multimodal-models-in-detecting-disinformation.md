@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Effectiveness of Large Multimodal Models in Detecting Disinformation: Experimental Results
+title: "Effectiveness of Large Multimodal Models in Detecting Disinformation: Experimental Results"
 ---
 
 # Effectiveness of Large Multimodal Models in Detecting Disinformation: Experimental Results

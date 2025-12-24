@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Defensive Adversarial CAPTCHA: A Semantics-Driven Framework for Natural Adversarial Example Generation
+title: "Defensive Adversarial CAPTCHA: A Semantics-Driven Framework for Natural Adversarial Example Generation"
 ---
 
 # Defensive Adversarial CAPTCHA: A Semantics-Driven Framework for Natural Adversarial Example Generation

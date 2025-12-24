@@ -1,6 +1,6 @@
 ---
 layout: default
-title: C3Net: Context-Contrast Network for Camouflaged Object Detection
+title: "C3Net: Context-Contrast Network for Camouflaged Object Detection"
 ---
 
 # C3Net: Context-Contrast Network for Camouflaged Object Detection

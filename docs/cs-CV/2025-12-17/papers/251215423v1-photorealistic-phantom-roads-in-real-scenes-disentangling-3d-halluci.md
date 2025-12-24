@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Photorealistic Phantom Roads in Real Scenes: Disentangling 3D Hallucinations from Physical Geometry
+title: "Photorealistic Phantom Roads in Real Scenes: Disentangling 3D Hallucinations from Physical Geometry"
 ---
 
 # Photorealistic Phantom Roads in Real Scenes: Disentangling 3D Hallucinations from Physical Geometry

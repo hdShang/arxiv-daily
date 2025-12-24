@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HumanPCR: Probing MLLM Capabilities in Diverse Human-Centric Scenes
+title: "HumanPCR: Probing MLLM Capabilities in Diverse Human-Centric Scenes"
 ---
 
 # HumanPCR: Probing MLLM Capabilities in Diverse Human-Centric Scenes

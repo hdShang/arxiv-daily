@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MSG-Loc: Multi-Label Likelihood-based Semantic Graph Matching for Object-Level Global Localization
+title: "MSG-Loc: Multi-Label Likelihood-based Semantic Graph Matching for Object-Level Global Localization"
 ---
 
 # MSG-Loc: Multi-Label Likelihood-based Semantic Graph Matching for Object-Level Global Localization

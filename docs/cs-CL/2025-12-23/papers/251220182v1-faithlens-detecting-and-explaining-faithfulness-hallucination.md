@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FaithLens: Detecting and Explaining Faithfulness Hallucination
+title: "FaithLens: Detecting and Explaining Faithfulness Hallucination"
 ---
 
 # FaithLens: Detecting and Explaining Faithfulness Hallucination

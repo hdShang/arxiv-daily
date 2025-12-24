@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LoRAFusion: Efficient LoRA Fine-Tuning for LLMs
+title: "LoRAFusion: Efficient LoRA Fine-Tuning for LLMs"
 ---
 
 # LoRAFusion: Efficient LoRA Fine-Tuning for LLMs

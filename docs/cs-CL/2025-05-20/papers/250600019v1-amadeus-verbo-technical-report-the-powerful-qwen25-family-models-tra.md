@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Amadeus-Verbo Technical Report: The powerful Qwen2.5 family models trained in Portuguese
+title: "Amadeus-Verbo Technical Report: The powerful Qwen2.5 family models trained in Portuguese"
 ---
 
 # Amadeus-Verbo Technical Report: The powerful Qwen2.5 family models trained in Portuguese

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReviewScore: Misinformed Peer Review Detection with Large Language Models
+title: "ReviewScore: Misinformed Peer Review Detection with Large Language Models"
 ---
 
 # ReviewScore: Misinformed Peer Review Detection with Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unilogit: Robust Machine Unlearning for LLMs Using Uniform-Target Self-Distillation
+title: "Unilogit: Robust Machine Unlearning for LLMs Using Uniform-Target Self-Distillation"
 ---
 
 # Unilogit: Robust Machine Unlearning for LLMs Using Uniform-Target Self-Distillation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Know When to Explore: Difficulty-Aware Certainty as a Guide for LLM Reinforcement Learning
+title: "Know When to Explore: Difficulty-Aware Certainty as a Guide for LLM Reinforcement Learning"
 ---
 
 # Know When to Explore: Difficulty-Aware Certainty as a Guide for LLM Reinforcement Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IDRIFTNET: Physics-Driven Spatiotemporal Deep Learning for Iceberg Drift Forecasting
+title: "IDRIFTNET: Physics-Driven Spatiotemporal Deep Learning for Iceberg Drift Forecasting"
 ---
 
 # IDRIFTNET: Physics-Driven Spatiotemporal Deep Learning for Iceberg Drift Forecasting

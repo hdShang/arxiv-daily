@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models
+title: "LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models"
 ---
 
 # LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SAFE--MA--RRT: Multi-Agent Motion Planning with Data-Driven Safety Certificates
+title: "SAFE--MA--RRT: Multi-Agent Motion Planning with Data-Driven Safety Certificates"
 ---
 
 # SAFE--MA--RRT: Multi-Agent Motion Planning with Data-Driven Safety Certificates

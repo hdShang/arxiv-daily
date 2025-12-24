@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Writing-Zero: Bridge the Gap Between Non-verifiable Tasks and Verifiable Rewards
+title: "Writing-Zero: Bridge the Gap Between Non-verifiable Tasks and Verifiable Rewards"
 ---
 
 # Writing-Zero: Bridge the Gap Between Non-verifiable Tasks and Verifiable Rewards

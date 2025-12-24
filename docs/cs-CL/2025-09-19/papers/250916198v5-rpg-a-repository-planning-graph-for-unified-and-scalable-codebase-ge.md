@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation
+title: "RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation"
 ---
 
 # RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation

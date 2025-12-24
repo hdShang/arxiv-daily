@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond the Visible: Benchmarking Occlusion Perception in Multimodal Large Language Models
+title: "Beyond the Visible: Benchmarking Occlusion Perception in Multimodal Large Language Models"
 ---
 
 # Beyond the Visible: Benchmarking Occlusion Perception in Multimodal Large Language Models

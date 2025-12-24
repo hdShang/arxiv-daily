@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention
+title: "AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention"
 ---
 
 # AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BrainMAP: Multimodal Graph Learning For Efficient Brain Disease Localization
+title: "BrainMAP: Multimodal Graph Learning For Efficient Brain Disease Localization"
 ---
 
 # BrainMAP: Multimodal Graph Learning For Efficient Brain Disease Localization

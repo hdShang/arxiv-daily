@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BTCChat: Advancing Remote Sensing Bi-temporal Change Captioning with Multimodal Large Language Model
+title: "BTCChat: Advancing Remote Sensing Bi-temporal Change Captioning with Multimodal Large Language Model"
 ---
 
 # BTCChat: Advancing Remote Sensing Bi-temporal Change Captioning with Multimodal Large Language Model

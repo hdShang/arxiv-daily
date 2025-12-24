@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ScaleADFG: Affordance-based Dexterous Functional Grasping via Scalable Dataset
+title: "ScaleADFG: Affordance-based Dexterous Functional Grasping via Scalable Dataset"
 ---
 
 # ScaleADFG: Affordance-based Dexterous Functional Grasping via Scalable Dataset

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FinCap: Topic-Aligned Captions for Short-Form Financial YouTube Videos
+title: "FinCap: Topic-Aligned Captions for Short-Form Financial YouTube Videos"
 ---
 
 # FinCap: Topic-Aligned Captions for Short-Form Financial YouTube Videos

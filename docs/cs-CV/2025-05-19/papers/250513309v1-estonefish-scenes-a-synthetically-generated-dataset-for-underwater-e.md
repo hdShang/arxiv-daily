@@ -1,6 +1,6 @@
 ---
 layout: default
-title: eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks
+title: "eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks"
 ---
 
 # eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks

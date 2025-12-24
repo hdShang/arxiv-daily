@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Media Bias Detector: A Framework for Annotating and Analyzing the News at Scale
+title: "The Media Bias Detector: A Framework for Annotating and Analyzing the News at Scale"
 ---
 
 # The Media Bias Detector: A Framework for Annotating and Analyzing the News at Scale

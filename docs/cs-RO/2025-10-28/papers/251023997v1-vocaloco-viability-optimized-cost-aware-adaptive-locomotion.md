@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VOCALoco: Viability-Optimized Cost-aware Adaptive Locomotion
+title: "VOCALoco: Viability-Optimized Cost-aware Adaptive Locomotion"
 ---
 
 # VOCALoco: Viability-Optimized Cost-aware Adaptive Locomotion

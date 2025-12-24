@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OnlineHOI: Towards Online Human-Object Interaction Generation and Perception
+title: "OnlineHOI: Towards Online Human-Object Interaction Generation and Perception"
 ---
 
 # OnlineHOI: Towards Online Human-Object Interaction Generation and Perception

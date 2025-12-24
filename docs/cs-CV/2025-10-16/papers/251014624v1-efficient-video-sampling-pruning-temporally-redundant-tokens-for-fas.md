@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Efficient Video Sampling: Pruning Temporally Redundant Tokens for Faster VLM Inference
+title: "Efficient Video Sampling: Pruning Temporally Redundant Tokens for Faster VLM Inference"
 ---
 
 # Efficient Video Sampling: Pruning Temporally Redundant Tokens for Faster VLM Inference

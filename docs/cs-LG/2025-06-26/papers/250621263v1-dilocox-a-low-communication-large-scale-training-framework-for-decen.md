@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DiLoCoX: A Low-Communication Large-Scale Training Framework for Decentralized Cluster
+title: "DiLoCoX: A Low-Communication Large-Scale Training Framework for Decentralized Cluster"
 ---
 
 # DiLoCoX: A Low-Communication Large-Scale Training Framework for Decentralized Cluster

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LinguaLinked: A Distributed Large Language Model Inference System for Mobile Devices
+title: "LinguaLinked: A Distributed Large Language Model Inference System for Mobile Devices"
 ---
 
 # LinguaLinked: A Distributed Large Language Model Inference System for Mobile Devices

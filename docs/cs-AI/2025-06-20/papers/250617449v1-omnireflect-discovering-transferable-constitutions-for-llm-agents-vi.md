@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniReflect: Discovering Transferable Constitutions for LLM agents via Neuro-Symbolic Reflections
+title: "OmniReflect: Discovering Transferable Constitutions for LLM agents via Neuro-Symbolic Reflections"
 ---
 
 # OmniReflect: Discovering Transferable Constitutions for LLM agents via Neuro-Symbolic Reflections

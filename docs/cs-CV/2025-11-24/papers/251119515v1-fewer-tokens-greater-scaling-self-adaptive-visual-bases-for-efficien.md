@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fewer Tokens, Greater Scaling: Self-Adaptive Visual Bases for Efficient and Expansive Representation Learning
+title: "Fewer Tokens, Greater Scaling: Self-Adaptive Visual Bases for Efficient and Expansive Representation Learning"
 ---
 
 # Fewer Tokens, Greater Scaling: Self-Adaptive Visual Bases for Efficient and Expansive Representation Learning

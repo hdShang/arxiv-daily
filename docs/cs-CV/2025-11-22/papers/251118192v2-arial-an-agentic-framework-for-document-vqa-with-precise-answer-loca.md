@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ARIAL: An Agentic Framework for Document VQA with Precise Answer Localization
+title: "ARIAL: An Agentic Framework for Document VQA with Precise Answer Localization"
 ---
 
 # ARIAL: An Agentic Framework for Document VQA with Precise Answer Localization

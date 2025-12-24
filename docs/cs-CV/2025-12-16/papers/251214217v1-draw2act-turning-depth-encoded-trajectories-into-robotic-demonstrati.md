@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DRAW2ACT: Turning Depth-Encoded Trajectories into Robotic Demonstration Videos
+title: "DRAW2ACT: Turning Depth-Encoded Trajectories into Robotic Demonstration Videos"
 ---
 
 # DRAW2ACT: Turning Depth-Encoded Trajectories into Robotic Demonstration Videos

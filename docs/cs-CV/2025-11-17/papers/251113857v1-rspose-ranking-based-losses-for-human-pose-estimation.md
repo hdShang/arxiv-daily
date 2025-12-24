@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RSPose: Ranking Based Losses for Human Pose Estimation
+title: "RSPose: Ranking Based Losses for Human Pose Estimation"
 ---
 
 # RSPose: Ranking Based Losses for Human Pose Estimation

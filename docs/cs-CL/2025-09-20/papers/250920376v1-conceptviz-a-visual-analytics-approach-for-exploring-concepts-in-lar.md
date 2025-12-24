@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ConceptViz: A Visual Analytics Approach for Exploring Concepts in Large Language Models
+title: "ConceptViz: A Visual Analytics Approach for Exploring Concepts in Large Language Models"
 ---
 
 # ConceptViz: A Visual Analytics Approach for Exploring Concepts in Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IntelliCap: Intelligent Guidance for Consistent View Sampling
+title: "IntelliCap: Intelligent Guidance for Consistent View Sampling"
 ---
 
 # IntelliCap: Intelligent Guidance for Consistent View Sampling

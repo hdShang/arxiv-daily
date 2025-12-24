@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When Algorithms Meet Artists: Topic Modeling the AI-Art Debate, 2013-2025
+title: "When Algorithms Meet Artists: Topic Modeling the AI-Art Debate, 2013-2025"
 ---
 
 # When Algorithms Meet Artists: Topic Modeling the AI-Art Debate, 2013-2025

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies
+title: "PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies"
 ---
 
 # PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Conditioning Matters: Training Diffusion Policies is Faster Than You Think
+title: "Conditioning Matters: Training Diffusion Policies is Faster Than You Think"
 ---
 
 # Conditioning Matters: Training Diffusion Policies is Faster Than You Think

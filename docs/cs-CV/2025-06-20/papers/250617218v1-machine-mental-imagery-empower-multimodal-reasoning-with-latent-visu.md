@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens
+title: "Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens"
 ---
 
 # Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens

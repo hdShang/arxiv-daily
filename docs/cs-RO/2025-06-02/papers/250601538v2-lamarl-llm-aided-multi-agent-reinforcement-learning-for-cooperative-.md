@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LAMARL: LLM-Aided Multi-Agent Reinforcement Learning for Cooperative Policy Generation
+title: "LAMARL: LLM-Aided Multi-Agent Reinforcement Learning for Cooperative Policy Generation"
 ---
 
 # LAMARL: LLM-Aided Multi-Agent Reinforcement Learning for Cooperative Policy Generation

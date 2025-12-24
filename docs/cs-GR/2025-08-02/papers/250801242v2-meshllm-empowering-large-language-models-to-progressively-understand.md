@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MeshLLM: Empowering Large Language Models to Progressively Understand and Generate 3D Mesh
+title: "MeshLLM: Empowering Large Language Models to Progressively Understand and Generate 3D Mesh"
 ---
 
 # MeshLLM: Empowering Large Language Models to Progressively Understand and Generate 3D Mesh

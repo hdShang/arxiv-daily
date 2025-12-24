@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Integrating Video and Text: A Balanced Approach to Multimodal Summary Generation and Evaluation
+title: "Integrating Video and Text: A Balanced Approach to Multimodal Summary Generation and Evaluation"
 ---
 
 # Integrating Video and Text: A Balanced Approach to Multimodal Summary Generation and Evaluation

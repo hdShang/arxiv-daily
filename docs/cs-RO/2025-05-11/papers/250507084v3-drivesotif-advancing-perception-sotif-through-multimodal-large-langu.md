@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DriveSOTIF: Advancing Perception SOTIF Through Multimodal Large Language Models
+title: "DriveSOTIF: Advancing Perception SOTIF Through Multimodal Large Language Models"
 ---
 
 # DriveSOTIF: Advancing Perception SOTIF Through Multimodal Large Language Models

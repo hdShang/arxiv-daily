@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RADAR: Accelerating Large Language Model Inference With RL-Based Dynamic Draft Trees
+title: "RADAR: Accelerating Large Language Model Inference With RL-Based Dynamic Draft Trees"
 ---
 
 # RADAR: Accelerating Large Language Model Inference With RL-Based Dynamic Draft Trees

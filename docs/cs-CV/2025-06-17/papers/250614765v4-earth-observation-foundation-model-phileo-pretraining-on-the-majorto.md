@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Earth Observation Foundation Model PhilEO: Pretraining on the MajorTOM and FastTOM Datasets
+title: "Earth Observation Foundation Model PhilEO: Pretraining on the MajorTOM and FastTOM Datasets"
 ---
 
 # Earth Observation Foundation Model PhilEO: Pretraining on the MajorTOM and FastTOM Datasets

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EventFormer: A Node-graph Hierarchical Attention Transformer for Action-centric Video Event Prediction
+title: "EventFormer: A Node-graph Hierarchical Attention Transformer for Action-centric Video Event Prediction"
 ---
 
 # EventFormer: A Node-graph Hierarchical Attention Transformer for Action-centric Video Event Prediction

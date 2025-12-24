@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Imagination at Inference: Synthesizing In-Hand Views for Robust Visuomotor Policy Inference
+title: "Imagination at Inference: Synthesizing In-Hand Views for Robust Visuomotor Policy Inference"
 ---
 
 # Imagination at Inference: Synthesizing In-Hand Views for Robust Visuomotor Policy Inference

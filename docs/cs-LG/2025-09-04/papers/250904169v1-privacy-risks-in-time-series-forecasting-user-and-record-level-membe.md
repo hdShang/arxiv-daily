@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Privacy Risks in Time Series Forecasting: User- and Record-Level Membership Inference
+title: "Privacy Risks in Time Series Forecasting: User- and Record-Level Membership Inference"
 ---
 
 # Privacy Risks in Time Series Forecasting: User- and Record-Level Membership Inference

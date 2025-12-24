@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Better by Comparison: Retrieval-Augmented Contrastive Reasoning for Automatic Prompt Optimization
+title: "Better by Comparison: Retrieval-Augmented Contrastive Reasoning for Automatic Prompt Optimization"
 ---
 
 # Better by Comparison: Retrieval-Augmented Contrastive Reasoning for Automatic Prompt Optimization

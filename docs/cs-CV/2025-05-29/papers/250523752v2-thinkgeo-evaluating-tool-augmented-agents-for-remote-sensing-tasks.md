@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks
+title: "ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks"
 ---
 
 # ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks

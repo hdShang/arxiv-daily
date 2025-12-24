@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CLoE: Curriculum Learning on Endoscopic Images for Robust MES Classification
+title: "CLoE: Curriculum Learning on Endoscopic Images for Robust MES Classification"
 ---
 
 # CLoE: Curriculum Learning on Endoscopic Images for Robust MES Classification

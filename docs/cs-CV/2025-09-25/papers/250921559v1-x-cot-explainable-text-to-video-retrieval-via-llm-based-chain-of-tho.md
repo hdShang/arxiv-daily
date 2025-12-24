@@ -1,6 +1,6 @@
 ---
 layout: default
-title: X-CoT: Explainable Text-to-Video Retrieval via LLM-based Chain-of-Thought Reasoning
+title: "X-CoT: Explainable Text-to-Video Retrieval via LLM-based Chain-of-Thought Reasoning"
 ---
 
 # X-CoT: Explainable Text-to-Video Retrieval via LLM-based Chain-of-Thought Reasoning

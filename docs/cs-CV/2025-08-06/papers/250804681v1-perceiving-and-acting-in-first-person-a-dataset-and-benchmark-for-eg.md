@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions
+title: "Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions"
 ---
 
 # Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions

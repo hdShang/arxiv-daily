@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ctrl-World: A Controllable Generative World Model for Robot Manipulation
+title: "Ctrl-World: A Controllable Generative World Model for Robot Manipulation"
 ---
 
 # Ctrl-World: A Controllable Generative World Model for Robot Manipulation

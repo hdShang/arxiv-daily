@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CuriGS: Curriculum-Guided Gaussian Splatting for Sparse View Synthesis
+title: "CuriGS: Curriculum-Guided Gaussian Splatting for Sparse View Synthesis"
 ---
 
 # CuriGS: Curriculum-Guided Gaussian Splatting for Sparse View Synthesis

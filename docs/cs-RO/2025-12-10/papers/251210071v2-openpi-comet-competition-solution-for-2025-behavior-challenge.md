@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Openpi Comet: Competition Solution For 2025 BEHAVIOR Challenge
+title: "Openpi Comet: Competition Solution For 2025 BEHAVIOR Challenge"
 ---
 
 # Openpi Comet: Competition Solution For 2025 BEHAVIOR Challenge

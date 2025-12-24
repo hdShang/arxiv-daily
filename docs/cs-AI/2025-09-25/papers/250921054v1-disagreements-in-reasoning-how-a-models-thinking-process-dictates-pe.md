@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Disagreements in Reasoning: How a Model's Thinking Process Dictates Persuasion in Multi-Agent Systems
+title: "Disagreements in Reasoning: How a Model's Thinking Process Dictates Persuasion in Multi-Agent Systems"
 ---
 
 # Disagreements in Reasoning: How a Model's Thinking Process Dictates Persuasion in Multi-Agent Systems

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop
+title: "Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop"
 ---
 
 # Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop

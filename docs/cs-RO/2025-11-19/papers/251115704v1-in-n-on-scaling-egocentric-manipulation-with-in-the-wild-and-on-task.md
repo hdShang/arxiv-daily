@@ -1,6 +1,6 @@
 ---
 layout: default
-title: In-N-On: Scaling Egocentric Manipulation with in-the-wild and on-task Data
+title: "In-N-On: Scaling Egocentric Manipulation with in-the-wild and on-task Data"
 ---
 
 # In-N-On: Scaling Egocentric Manipulation with in-the-wild and on-task Data

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Concept-Level AI for Telecom: Moving Beyond Large Language Models
+title: "Concept-Level AI for Telecom: Moving Beyond Large Language Models"
 ---
 
 # Concept-Level AI for Telecom: Moving Beyond Large Language Models

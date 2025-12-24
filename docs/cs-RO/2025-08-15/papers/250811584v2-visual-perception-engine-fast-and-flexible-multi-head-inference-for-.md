@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visual Perception Engine: Fast and Flexible Multi-Head Inference for Robotic Vision Tasks
+title: "Visual Perception Engine: Fast and Flexible Multi-Head Inference for Robotic Vision Tasks"
 ---
 
 # Visual Perception Engine: Fast and Flexible Multi-Head Inference for Robotic Vision Tasks

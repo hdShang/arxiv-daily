@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Periodic-MAE: Periodic Video Masked Autoencoder for rPPG Estimation
+title: "Periodic-MAE: Periodic Video Masked Autoencoder for rPPG Estimation"
 ---
 
 # Periodic-MAE: Periodic Video Masked Autoencoder for rPPG Estimation

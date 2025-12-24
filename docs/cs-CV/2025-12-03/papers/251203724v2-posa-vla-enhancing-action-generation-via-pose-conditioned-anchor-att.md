@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PosA-VLA: Enhancing Action Generation via Pose-Conditioned Anchor Attention
+title: "PosA-VLA: Enhancing Action Generation via Pose-Conditioned Anchor Attention"
 ---
 
 # PosA-VLA: Enhancing Action Generation via Pose-Conditioned Anchor Attention

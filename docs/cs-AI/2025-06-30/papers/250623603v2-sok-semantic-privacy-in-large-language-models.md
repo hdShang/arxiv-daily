@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SoK: Semantic Privacy in Large Language Models
+title: "SoK: Semantic Privacy in Large Language Models"
 ---
 
 # SoK: Semantic Privacy in Large Language Models

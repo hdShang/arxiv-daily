@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CellTypeAgent: Trustworthy cell type annotation with Large Language Models
+title: "CellTypeAgent: Trustworthy cell type annotation with Large Language Models"
 ---
 
 # CellTypeAgent: Trustworthy cell type annotation with Large Language Models

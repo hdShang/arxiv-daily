@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting
+title: "Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting"
 ---
 
 # Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting

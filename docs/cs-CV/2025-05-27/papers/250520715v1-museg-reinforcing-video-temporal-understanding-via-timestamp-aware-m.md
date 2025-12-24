@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MUSEG: Reinforcing Video Temporal Understanding via Timestamp-Aware Multi-Segment Grounding
+title: "MUSEG: Reinforcing Video Temporal Understanding via Timestamp-Aware Multi-Segment Grounding"
 ---
 
 # MUSEG: Reinforcing Video Temporal Understanding via Timestamp-Aware Multi-Segment Grounding

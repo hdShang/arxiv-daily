@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MuSLR: Multimodal Symbolic Logical Reasoning
+title: "MuSLR: Multimodal Symbolic Logical Reasoning"
 ---
 
 # MuSLR: Multimodal Symbolic Logical Reasoning

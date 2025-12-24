@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning to Recover: Dynamic Reward Shaping with Wheel-Leg Coordination for Fallen Robots
+title: "Learning to Recover: Dynamic Reward Shaping with Wheel-Leg Coordination for Fallen Robots"
 ---
 
 # Learning to Recover: Dynamic Reward Shaping with Wheel-Leg Coordination for Fallen Robots

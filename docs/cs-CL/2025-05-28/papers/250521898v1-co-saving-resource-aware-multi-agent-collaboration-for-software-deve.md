@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Co-Saving: Resource Aware Multi-Agent Collaboration for Software Development
+title: "Co-Saving: Resource Aware Multi-Agent Collaboration for Software Development"
 ---
 
 # Co-Saving: Resource Aware Multi-Agent Collaboration for Software Development

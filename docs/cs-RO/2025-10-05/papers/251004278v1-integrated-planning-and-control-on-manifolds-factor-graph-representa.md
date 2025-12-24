@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Integrated Planning and Control on Manifolds: Factor Graph Representation and Toolkit
+title: "Integrated Planning and Control on Manifolds: Factor Graph Representation and Toolkit"
 ---
 
 # Integrated Planning and Control on Manifolds: Factor Graph Representation and Toolkit

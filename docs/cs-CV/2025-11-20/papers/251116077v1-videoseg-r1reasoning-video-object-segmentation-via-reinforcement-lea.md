@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VideoSeg-R1:Reasoning Video Object Segmentation via Reinforcement Learning
+title: "VideoSeg-R1:Reasoning Video Object Segmentation via Reinforcement Learning"
 ---
 
 # VideoSeg-R1:Reasoning Video Object Segmentation via Reinforcement Learning

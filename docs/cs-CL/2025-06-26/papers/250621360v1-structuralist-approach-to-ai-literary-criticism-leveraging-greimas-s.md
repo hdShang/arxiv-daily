@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Structuralist Approach to AI Literary Criticism: Leveraging Greimas Semiotic Square for Large Language Models
+title: "Structuralist Approach to AI Literary Criticism: Leveraging Greimas Semiotic Square for Large Language Models"
 ---
 
 # Structuralist Approach to AI Literary Criticism: Leveraging Greimas Semiotic Square for Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OSPO: Object-centric Self-improving Preference Optimization for Text-to-Image Generation
+title: "OSPO: Object-centric Self-improving Preference Optimization for Text-to-Image Generation"
 ---
 
 # OSPO: Object-centric Self-improving Preference Optimization for Text-to-Image Generation

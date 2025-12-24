@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DuGI-MAE: Improving Infrared Mask Autoencoders via Dual-Domain Guidance
+title: "DuGI-MAE: Improving Infrared Mask Autoencoders via Dual-Domain Guidance"
 ---
 
 # DuGI-MAE: Improving Infrared Mask Autoencoders via Dual-Domain Guidance

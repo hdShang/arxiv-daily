@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deep Reactive Policy: Learning Reactive Manipulator Motion Planning for Dynamic Environments
+title: "Deep Reactive Policy: Learning Reactive Manipulator Motion Planning for Dynamic Environments"
 ---
 
 # Deep Reactive Policy: Learning Reactive Manipulator Motion Planning for Dynamic Environments

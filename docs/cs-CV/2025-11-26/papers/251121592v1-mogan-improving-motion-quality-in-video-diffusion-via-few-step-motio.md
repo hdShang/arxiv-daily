@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoGAN: Improving Motion Quality in Video Diffusion via Few-Step Motion Adversarial Post-Training
+title: "MoGAN: Improving Motion Quality in Video Diffusion via Few-Step Motion Adversarial Post-Training"
 ---
 
 # MoGAN: Improving Motion Quality in Video Diffusion via Few-Step Motion Adversarial Post-Training

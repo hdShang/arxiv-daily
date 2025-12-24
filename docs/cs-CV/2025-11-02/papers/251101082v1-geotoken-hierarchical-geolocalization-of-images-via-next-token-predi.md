@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GeoToken: Hierarchical Geolocalization of Images via Next Token Prediction
+title: "GeoToken: Hierarchical Geolocalization of Images via Next Token Prediction"
 ---
 
 # GeoToken: Hierarchical Geolocalization of Images via Next Token Prediction

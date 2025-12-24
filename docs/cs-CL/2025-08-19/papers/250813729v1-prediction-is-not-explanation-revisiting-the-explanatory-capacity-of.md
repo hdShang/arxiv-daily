@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prediction is not Explanation: Revisiting the Explanatory Capacity of Mapping Embeddings
+title: "Prediction is not Explanation: Revisiting the Explanatory Capacity of Mapping Embeddings"
 ---
 
 # Prediction is not Explanation: Revisiting the Explanatory Capacity of Mapping Embeddings

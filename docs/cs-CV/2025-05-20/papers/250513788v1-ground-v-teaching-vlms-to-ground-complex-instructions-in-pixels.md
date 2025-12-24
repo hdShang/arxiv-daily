@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ground-V: Teaching VLMs to Ground Complex Instructions in Pixels
+title: "Ground-V: Teaching VLMs to Ground Complex Instructions in Pixels"
 ---
 
 # Ground-V: Teaching VLMs to Ground Complex Instructions in Pixels

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeLiVR: Differential Spatiotemporal Lie Bias for Efficient Video Deraining
+title: "DeLiVR: Differential Spatiotemporal Lie Bias for Efficient Video Deraining"
 ---
 
 # DeLiVR: Differential Spatiotemporal Lie Bias for Efficient Video Deraining

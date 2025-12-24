@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CrossRay3D: Geometry and Distribution Guidance for Efficient Multimodal 3D Detection
+title: "CrossRay3D: Geometry and Distribution Guidance for Efficient Multimodal 3D Detection"
 ---
 
 # CrossRay3D: Geometry and Distribution Guidance for Efficient Multimodal 3D Detection

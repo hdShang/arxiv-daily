@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Generalist Intelligence in Dentistry: Vision Foundation Models for Oral and Maxillofacial Radiology
+title: "Towards Generalist Intelligence in Dentistry: Vision Foundation Models for Oral and Maxillofacial Radiology"
 ---
 
 # Towards Generalist Intelligence in Dentistry: Vision Foundation Models for Oral and Maxillofacial Radiology

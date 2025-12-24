@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Echoes of Agreement: Argument Driven Opinion Shifts in Large Language Models
+title: "Echoes of Agreement: Argument Driven Opinion Shifts in Large Language Models"
 ---
 
 # Echoes of Agreement: Argument Driven Opinion Shifts in Large Language Models

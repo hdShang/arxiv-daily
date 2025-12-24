@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DyKen-Hyena: Dynamic Kernel Generation via Cross-Modal Attention for Multimodal Intent Recognition
+title: "DyKen-Hyena: Dynamic Kernel Generation via Cross-Modal Attention for Multimodal Intent Recognition"
 ---
 
 # DyKen-Hyena: Dynamic Kernel Generation via Cross-Modal Attention for Multimodal Intent Recognition

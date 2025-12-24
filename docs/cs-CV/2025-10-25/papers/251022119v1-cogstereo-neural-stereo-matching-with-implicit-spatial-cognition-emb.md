@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CogStereo: Neural Stereo Matching with Implicit Spatial Cognition Embedding
+title: "CogStereo: Neural Stereo Matching with Implicit Spatial Cognition Embedding"
 ---
 
 # CogStereo: Neural Stereo Matching with Implicit Spatial Cognition Embedding

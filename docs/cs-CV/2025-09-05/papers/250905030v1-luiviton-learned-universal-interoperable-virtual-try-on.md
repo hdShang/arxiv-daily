@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LUIVITON: Learned Universal Interoperable VIrtual Try-ON
+title: "LUIVITON: Learned Universal Interoperable VIrtual Try-ON"
 ---
 
 # LUIVITON: Learned Universal Interoperable VIrtual Try-ON

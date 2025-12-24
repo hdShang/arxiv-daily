@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Super-LIO: A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy
+title: "Super-LIO: A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy"
 ---
 
 # Super-LIO: A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy

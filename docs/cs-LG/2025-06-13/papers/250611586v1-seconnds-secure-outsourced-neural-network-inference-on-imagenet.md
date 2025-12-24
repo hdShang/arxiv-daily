@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SecONNds: Secure Outsourced Neural Network Inference on ImageNet
+title: "SecONNds: Secure Outsourced Neural Network Inference on ImageNet"
 ---
 
 # SecONNds: Secure Outsourced Neural Network Inference on ImageNet

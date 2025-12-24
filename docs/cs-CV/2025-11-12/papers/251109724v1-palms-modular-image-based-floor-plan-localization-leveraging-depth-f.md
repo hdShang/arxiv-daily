@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PALMS+: Modular Image-Based Floor Plan Localization Leveraging Depth Foundation Model
+title: "PALMS+: Modular Image-Based Floor Plan Localization Leveraging Depth Foundation Model"
 ---
 
 # PALMS+: Modular Image-Based Floor Plan Localization Leveraging Depth Foundation Model

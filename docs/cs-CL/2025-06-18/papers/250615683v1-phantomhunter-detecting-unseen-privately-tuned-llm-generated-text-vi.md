@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PhantomHunter: Detecting Unseen Privately-Tuned LLM-Generated Text via Family-Aware Learning
+title: "PhantomHunter: Detecting Unseen Privately-Tuned LLM-Generated Text via Family-Aware Learning"
 ---
 
 # PhantomHunter: Detecting Unseen Privately-Tuned LLM-Generated Text via Family-Aware Learning

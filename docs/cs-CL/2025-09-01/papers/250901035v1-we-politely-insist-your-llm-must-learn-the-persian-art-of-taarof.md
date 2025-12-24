@@ -1,6 +1,6 @@
 ---
 layout: default
-title: We Politely Insist: Your LLM Must Learn the Persian Art of Taarof
+title: "We Politely Insist: Your LLM Must Learn the Persian Art of Taarof"
 ---
 
 # We Politely Insist: Your LLM Must Learn the Persian Art of Taarof

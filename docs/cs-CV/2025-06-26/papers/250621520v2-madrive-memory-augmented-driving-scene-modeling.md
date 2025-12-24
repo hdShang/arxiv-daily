@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MADrive: Memory-Augmented Driving Scene Modeling
+title: "MADrive: Memory-Augmented Driving Scene Modeling"
 ---
 
 # MADrive: Memory-Augmented Driving Scene Modeling

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BindWeave: Subject-Consistent Video Generation via Cross-Modal Integration
+title: "BindWeave: Subject-Consistent Video Generation via Cross-Modal Integration"
 ---
 
 # BindWeave: Subject-Consistent Video Generation via Cross-Modal Integration

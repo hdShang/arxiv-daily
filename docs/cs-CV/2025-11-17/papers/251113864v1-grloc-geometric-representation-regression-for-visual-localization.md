@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GRLoc: Geometric Representation Regression for Visual Localization
+title: "GRLoc: Geometric Representation Regression for Visual Localization"
 ---
 
 # GRLoc: Geometric Representation Regression for Visual Localization

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3DRot: 3D Rotation Augmentation for RGB-Based 3D Tasks
+title: "3DRot: 3D Rotation Augmentation for RGB-Based 3D Tasks"
 ---
 
 # 3DRot: 3D Rotation Augmentation for RGB-Based 3D Tasks

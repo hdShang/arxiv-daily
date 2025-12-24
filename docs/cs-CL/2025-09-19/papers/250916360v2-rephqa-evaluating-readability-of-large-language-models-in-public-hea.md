@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RephQA: Evaluating Readability of Large Language Models in Public Health Question Answering
+title: "RephQA: Evaluating Readability of Large Language Models in Public Health Question Answering"
 ---
 
 # RephQA: Evaluating Readability of Large Language Models in Public Health Question Answering

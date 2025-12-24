@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RL-100: Performant Robotic Manipulation with Real-World Reinforcement Learning
+title: "RL-100: Performant Robotic Manipulation with Real-World Reinforcement Learning"
 ---
 
 # RL-100: Performant Robotic Manipulation with Real-World Reinforcement Learning

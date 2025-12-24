@@ -1,6 +1,6 @@
 ---
 layout: default
-title: S-Chain: Structured Visual Chain-of-Thought For Medicine
+title: "S-Chain: Structured Visual Chain-of-Thought For Medicine"
 ---
 
 # S-Chain: Structured Visual Chain-of-Thought For Medicine

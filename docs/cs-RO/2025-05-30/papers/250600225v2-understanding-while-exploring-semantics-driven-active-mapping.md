@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Understanding while Exploring: Semantics-driven Active Mapping
+title: "Understanding while Exploring: Semantics-driven Active Mapping"
 ---
 
 # Understanding while Exploring: Semantics-driven Active Mapping

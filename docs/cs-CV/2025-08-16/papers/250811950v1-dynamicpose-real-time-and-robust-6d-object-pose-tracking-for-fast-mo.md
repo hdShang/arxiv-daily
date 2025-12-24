@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DynamicPose: Real-time and Robust 6D Object Pose Tracking for Fast-Moving Cameras and Objects
+title: "DynamicPose: Real-time and Robust 6D Object Pose Tracking for Fast-Moving Cameras and Objects"
 ---
 
 # DynamicPose: Real-time and Robust 6D Object Pose Tracking for Fast-Moving Cameras and Objects

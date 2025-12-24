@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SmoothRot: Combining Channel-Wise Scaling and Rotation for Quantization-Friendly LLMs
+title: "SmoothRot: Combining Channel-Wise Scaling and Rotation for Quantization-Friendly LLMs"
 ---
 
 # SmoothRot: Combining Channel-Wise Scaling and Rotation for Quantization-Friendly LLMs

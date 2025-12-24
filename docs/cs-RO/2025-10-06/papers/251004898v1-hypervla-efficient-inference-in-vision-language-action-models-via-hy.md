@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HyperVLA: Efficient Inference in Vision-Language-Action Models via Hypernetworks
+title: "HyperVLA: Efficient Inference in Vision-Language-Action Models via Hypernetworks"
 ---
 
 # HyperVLA: Efficient Inference in Vision-Language-Action Models via Hypernetworks

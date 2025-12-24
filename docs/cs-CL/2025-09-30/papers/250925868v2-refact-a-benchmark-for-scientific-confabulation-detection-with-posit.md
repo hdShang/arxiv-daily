@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReFACT: A Benchmark for Scientific Confabulation Detection with Positional Error Annotations
+title: "ReFACT: A Benchmark for Scientific Confabulation Detection with Positional Error Annotations"
 ---
 
 # ReFACT: A Benchmark for Scientific Confabulation Detection with Positional Error Annotations

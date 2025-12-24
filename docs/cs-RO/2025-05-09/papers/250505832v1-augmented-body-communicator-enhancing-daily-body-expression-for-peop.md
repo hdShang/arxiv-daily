@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Augmented Body Communicator: Enhancing daily body expression for people with upper limb limitations through LLM and a robotic arm
+title: "Augmented Body Communicator: Enhancing daily body expression for people with upper limb limitations through LLM and a robotic arm"
 ---
 
 # Augmented Body Communicator: Enhancing daily body expression for people with upper limb limitations through LLM and a robotic arm

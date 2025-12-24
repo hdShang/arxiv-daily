@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CapRL: Stimulating Dense Image Caption Capabilities via Reinforcement Learning
+title: "CapRL: Stimulating Dense Image Caption Capabilities via Reinforcement Learning"
 ---
 
 # CapRL: Stimulating Dense Image Caption Capabilities via Reinforcement Learning

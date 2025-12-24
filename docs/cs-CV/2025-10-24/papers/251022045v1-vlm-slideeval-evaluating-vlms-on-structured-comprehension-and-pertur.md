@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VLM-SlideEval: Evaluating VLMs on Structured Comprehension and Perturbation Sensitivity in PPT
+title: "VLM-SlideEval: Evaluating VLMs on Structured Comprehension and Perturbation Sensitivity in PPT"
 ---
 
 # VLM-SlideEval: Evaluating VLMs on Structured Comprehension and Perturbation Sensitivity in PPT

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fence off Anomaly Interference: Cross-Domain Distillation for Fully Unsupervised Anomaly Detection
+title: "Fence off Anomaly Interference: Cross-Domain Distillation for Fully Unsupervised Anomaly Detection"
 ---
 
 # Fence off Anomaly Interference: Cross-Domain Distillation for Fully Unsupervised Anomaly Detection

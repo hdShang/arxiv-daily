@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FM-Planner: Foundation Model Guided Path Planning for Autonomous Drone Navigation
+title: "FM-Planner: Foundation Model Guided Path Planning for Autonomous Drone Navigation"
 ---
 
 # FM-Planner: Foundation Model Guided Path Planning for Autonomous Drone Navigation

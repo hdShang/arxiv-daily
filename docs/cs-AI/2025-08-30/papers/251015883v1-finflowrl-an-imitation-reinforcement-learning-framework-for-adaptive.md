@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FinFlowRL: An Imitation-Reinforcement Learning Framework for Adaptive Stochastic Control in Finance
+title: "FinFlowRL: An Imitation-Reinforcement Learning Framework for Adaptive Stochastic Control in Finance"
 ---
 
 # FinFlowRL: An Imitation-Reinforcement Learning Framework for Adaptive Stochastic Control in Finance

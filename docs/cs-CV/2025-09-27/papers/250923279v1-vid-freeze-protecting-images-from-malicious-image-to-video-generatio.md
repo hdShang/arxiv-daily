@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vid-Freeze: Protecting Images from Malicious Image-to-Video Generation via Temporal Freezing
+title: "Vid-Freeze: Protecting Images from Malicious Image-to-Video Generation via Temporal Freezing"
 ---
 
 # Vid-Freeze: Protecting Images from Malicious Image-to-Video Generation via Temporal Freezing

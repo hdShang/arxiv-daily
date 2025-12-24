@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Object Detection as an Optional Basis: A Graph Matching Network for Cross-View UAV Localization
+title: "Object Detection as an Optional Basis: A Graph Matching Network for Cross-View UAV Localization"
 ---
 
 # Object Detection as an Optional Basis: A Graph Matching Network for Cross-View UAV Localization

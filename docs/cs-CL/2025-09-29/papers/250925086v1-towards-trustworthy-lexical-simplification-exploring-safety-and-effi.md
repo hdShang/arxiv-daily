@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Trustworthy Lexical Simplification: Exploring Safety and Efficiency with Small LLMs
+title: "Towards Trustworthy Lexical Simplification: Exploring Safety and Efficiency with Small LLMs"
 ---
 
 # Towards Trustworthy Lexical Simplification: Exploring Safety and Efficiency with Small LLMs

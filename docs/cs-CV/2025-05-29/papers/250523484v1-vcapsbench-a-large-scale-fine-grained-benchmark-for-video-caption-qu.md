@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VCapsBench: A Large-scale Fine-grained Benchmark for Video Caption Quality Evaluation
+title: "VCapsBench: A Large-scale Fine-grained Benchmark for Video Caption Quality Evaluation"
 ---
 
 # VCapsBench: A Large-scale Fine-grained Benchmark for Video Caption Quality Evaluation

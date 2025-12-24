@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GroundFlow: A Plug-in Module for Temporal Reasoning on 3D Point Cloud Sequential Grounding
+title: "GroundFlow: A Plug-in Module for Temporal Reasoning on 3D Point Cloud Sequential Grounding"
 ---
 
 # GroundFlow: A Plug-in Module for Temporal Reasoning on 3D Point Cloud Sequential Grounding

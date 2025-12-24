@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SafeSteer: Interpretable Safety Steering with Refusal-Evasion in LLMs
+title: "SafeSteer: Interpretable Safety Steering with Refusal-Evasion in LLMs"
 ---
 
 # SafeSteer: Interpretable Safety Steering with Refusal-Evasion in LLMs

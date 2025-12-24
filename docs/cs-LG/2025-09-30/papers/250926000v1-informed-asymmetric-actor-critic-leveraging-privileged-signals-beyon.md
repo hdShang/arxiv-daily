@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Informed Asymmetric Actor-Critic: Leveraging Privileged Signals Beyond Full-State Access
+title: "Informed Asymmetric Actor-Critic: Leveraging Privileged Signals Beyond Full-State Access"
 ---
 
 # Informed Asymmetric Actor-Critic: Leveraging Privileged Signals Beyond Full-State Access

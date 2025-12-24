@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BiAssemble: Learning Collaborative Affordance for Bimanual Geometric Assembly
+title: "BiAssemble: Learning Collaborative Affordance for Bimanual Geometric Assembly"
 ---
 
 # BiAssemble: Learning Collaborative Affordance for Bimanual Geometric Assembly

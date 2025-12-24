@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RadarSFD: Single-Frame Diffusion with Pretrained Priors for Radar Point Clouds
+title: "RadarSFD: Single-Frame Diffusion with Pretrained Priors for Radar Point Clouds"
 ---
 
 # RadarSFD: Single-Frame Diffusion with Pretrained Priors for Radar Point Clouds

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ActiveGrasp: Information-Guided Active Grasping with Calibrated Energy-based Model
+title: "ActiveGrasp: Information-Guided Active Grasping with Calibrated Energy-based Model"
 ---
 
 # ActiveGrasp: Information-Guided Active Grasping with Calibrated Energy-based Model

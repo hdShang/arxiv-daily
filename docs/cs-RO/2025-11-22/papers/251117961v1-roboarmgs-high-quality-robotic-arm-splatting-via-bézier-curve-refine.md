@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboArmGS: High-Quality Robotic Arm Splatting via Bézier Curve Refinement
+title: "RoboArmGS: High-Quality Robotic Arm Splatting via Bézier Curve Refinement"
 ---
 
 # RoboArmGS: High-Quality Robotic Arm Splatting via Bézier Curve Refinement

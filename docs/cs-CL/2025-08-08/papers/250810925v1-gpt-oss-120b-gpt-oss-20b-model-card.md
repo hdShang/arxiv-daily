@@ -1,6 +1,6 @@
 ---
 layout: default
-title: gpt-oss-120b & gpt-oss-20b Model Card
+title: "gpt-oss-120b & gpt-oss-20b Model Card"
 ---
 
 # gpt-oss-120b & gpt-oss-20b Model Card

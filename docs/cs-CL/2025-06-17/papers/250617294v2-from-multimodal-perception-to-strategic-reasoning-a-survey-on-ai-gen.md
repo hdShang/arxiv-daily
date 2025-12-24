@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Multimodal Perception to Strategic Reasoning: A Survey on AI-Generated Game Commentary
+title: "From Multimodal Perception to Strategic Reasoning: A Survey on AI-Generated Game Commentary"
 ---
 
 # From Multimodal Perception to Strategic Reasoning: A Survey on AI-Generated Game Commentary

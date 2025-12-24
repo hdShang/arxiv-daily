@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tailored Conversations beyond LLMs: A RL-Based Dialogue Manager
+title: "Tailored Conversations beyond LLMs: A RL-Based Dialogue Manager"
 ---
 
 # Tailored Conversations beyond LLMs: A RL-Based Dialogue Manager

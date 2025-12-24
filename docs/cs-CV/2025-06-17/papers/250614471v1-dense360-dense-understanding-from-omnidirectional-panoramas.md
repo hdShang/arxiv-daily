@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dense360: Dense Understanding from Omnidirectional Panoramas
+title: "Dense360: Dense Understanding from Omnidirectional Panoramas"
 ---
 
 # Dense360: Dense Understanding from Omnidirectional Panoramas

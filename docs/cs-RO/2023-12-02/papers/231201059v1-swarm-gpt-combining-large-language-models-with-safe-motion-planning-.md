@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Swarm-GPT: Combining Large Language Models with Safe Motion Planning for Robot Choreography Design
+title: "Swarm-GPT: Combining Large Language Models with Safe Motion Planning for Robot Choreography Design"
 ---
 
 # Swarm-GPT: Combining Large Language Models with Safe Motion Planning for Robot Choreography Design

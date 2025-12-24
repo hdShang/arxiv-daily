@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WarpGAN: Warping-Guided 3D GAN Inversion with Style-Based Novel View Inpainting
+title: "WarpGAN: Warping-Guided 3D GAN Inversion with Style-Based Novel View Inpainting"
 ---
 
 # WarpGAN: Warping-Guided 3D GAN Inversion with Style-Based Novel View Inpainting

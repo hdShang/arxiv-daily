@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CATMark: A Context-Aware Thresholding Framework for Robust Cross-Task Watermarking in Large Language Models
+title: "CATMark: A Context-Aware Thresholding Framework for Robust Cross-Task Watermarking in Large Language Models"
 ---
 
 # CATMark: A Context-Aware Thresholding Framework for Robust Cross-Task Watermarking in Large Language Models

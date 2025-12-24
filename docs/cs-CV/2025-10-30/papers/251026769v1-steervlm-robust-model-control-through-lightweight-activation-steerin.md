@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SteerVLM: Robust Model Control through Lightweight Activation Steering for Vision Language Models
+title: "SteerVLM: Robust Model Control through Lightweight Activation Steering for Vision Language Models"
 ---
 
 # SteerVLM: Robust Model Control through Lightweight Activation Steering for Vision Language Models

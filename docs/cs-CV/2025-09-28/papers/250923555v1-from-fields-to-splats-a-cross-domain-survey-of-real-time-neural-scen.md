@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Fields to Splats: A Cross-Domain Survey of Real-Time Neural Scene Representations
+title: "From Fields to Splats: A Cross-Domain Survey of Real-Time Neural Scene Representations"
 ---
 
 # From Fields to Splats: A Cross-Domain Survey of Real-Time Neural Scene Representations

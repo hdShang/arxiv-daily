@@ -1,6 +1,6 @@
 ---
 layout: default
-title: I-FailSense: Towards General Robotic Failure Detection with Vision-Language Models
+title: "I-FailSense: Towards General Robotic Failure Detection with Vision-Language Models"
 ---
 
 # I-FailSense: Towards General Robotic Failure Detection with Vision-Language Models

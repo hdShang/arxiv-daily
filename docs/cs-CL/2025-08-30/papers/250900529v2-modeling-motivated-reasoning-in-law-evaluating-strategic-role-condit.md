@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Modeling Motivated Reasoning in Law: Evaluating Strategic Role Conditioning in LLM Summarization
+title: "Modeling Motivated Reasoning in Law: Evaluating Strategic Role Conditioning in LLM Summarization"
 ---
 
 # Modeling Motivated Reasoning in Law: Evaluating Strategic Role Conditioning in LLM Summarization

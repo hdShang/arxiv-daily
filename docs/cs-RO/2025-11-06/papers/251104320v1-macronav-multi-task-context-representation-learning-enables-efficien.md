@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MacroNav: Multi-Task Context Representation Learning Enables Efficient Navigation in Unknown Environments
+title: "MacroNav: Multi-Task Context Representation Learning Enables Efficient Navigation in Unknown Environments"
 ---
 
 # MacroNav: Multi-Task Context Representation Learning Enables Efficient Navigation in Unknown Environments

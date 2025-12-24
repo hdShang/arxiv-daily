@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reinforcement Learning Optimization for Large-Scale Learning: An Efficient and User-Friendly Scaling Library
+title: "Reinforcement Learning Optimization for Large-Scale Learning: An Efficient and User-Friendly Scaling Library"
 ---
 
 # Reinforcement Learning Optimization for Large-Scale Learning: An Efficient and User-Friendly Scaling Library

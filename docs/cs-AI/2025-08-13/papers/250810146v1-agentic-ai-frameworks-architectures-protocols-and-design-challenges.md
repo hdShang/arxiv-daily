@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Agentic AI Frameworks: Architectures, Protocols, and Design Challenges
+title: "Agentic AI Frameworks: Architectures, Protocols, and Design Challenges"
 ---
 
 # Agentic AI Frameworks: Architectures, Protocols, and Design Challenges

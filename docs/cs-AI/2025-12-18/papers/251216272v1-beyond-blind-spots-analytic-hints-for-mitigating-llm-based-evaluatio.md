@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Blind Spots: Analytic Hints for Mitigating LLM-Based Evaluation Pitfalls
+title: "Beyond Blind Spots: Analytic Hints for Mitigating LLM-Based Evaluation Pitfalls"
 ---
 
 # Beyond Blind Spots: Analytic Hints for Mitigating LLM-Based Evaluation Pitfalls

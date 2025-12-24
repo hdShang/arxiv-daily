@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ravan: Multi-Head Low-Rank Adaptation for Federated Fine-Tuning
+title: "Ravan: Multi-Head Low-Rank Adaptation for Federated Fine-Tuning"
 ---
 
 # Ravan: Multi-Head Low-Rank Adaptation for Federated Fine-Tuning

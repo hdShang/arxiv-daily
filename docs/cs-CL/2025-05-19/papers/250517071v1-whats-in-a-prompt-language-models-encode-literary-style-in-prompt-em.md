@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What's in a prompt? Language models encode literary style in prompt embeddings
+title: "What's in a prompt? Language models encode literary style in prompt embeddings"
 ---
 
 # What's in a prompt? Language models encode literary style in prompt embeddings

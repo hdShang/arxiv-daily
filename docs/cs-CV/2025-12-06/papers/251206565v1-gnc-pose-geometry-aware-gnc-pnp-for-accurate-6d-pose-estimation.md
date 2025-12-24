@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GNC-Pose: Geometry-Aware GNC-PnP for Accurate 6D Pose Estimation
+title: "GNC-Pose: Geometry-Aware GNC-PnP for Accurate 6D Pose Estimation"
 ---
 
 # GNC-Pose: Geometry-Aware GNC-PnP for Accurate 6D Pose Estimation

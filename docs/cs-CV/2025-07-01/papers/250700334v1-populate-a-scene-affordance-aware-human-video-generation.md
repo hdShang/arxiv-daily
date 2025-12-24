@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Populate-A-Scene: Affordance-Aware Human Video Generation
+title: "Populate-A-Scene: Affordance-Aware Human Video Generation"
 ---
 
 # Populate-A-Scene: Affordance-Aware Human Video Generation

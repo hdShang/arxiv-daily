@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Signals from the Floods: AI-Driven Disaster Analysis through Multi-Source Data Fusion
+title: "Signals from the Floods: AI-Driven Disaster Analysis through Multi-Source Data Fusion"
 ---
 
 # Signals from the Floods: AI-Driven Disaster Analysis through Multi-Source Data Fusion

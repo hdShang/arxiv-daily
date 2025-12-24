@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projectable Models: One-Shot Generation of Small Specialized Transformers from Large Ones
+title: "Projectable Models: One-Shot Generation of Small Specialized Transformers from Large Ones"
 ---
 
 # Projectable Models: One-Shot Generation of Small Specialized Transformers from Large Ones

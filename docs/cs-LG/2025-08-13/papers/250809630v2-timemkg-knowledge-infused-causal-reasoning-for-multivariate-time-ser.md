@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TimeMKG: Knowledge-Infused Causal Reasoning for Multivariate Time Series Modeling
+title: "TimeMKG: Knowledge-Infused Causal Reasoning for Multivariate Time Series Modeling"
 ---
 
 # TimeMKG: Knowledge-Infused Causal Reasoning for Multivariate Time Series Modeling

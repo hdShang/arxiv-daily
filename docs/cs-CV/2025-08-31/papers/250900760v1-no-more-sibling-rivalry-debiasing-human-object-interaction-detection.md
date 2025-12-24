@@ -1,6 +1,6 @@
 ---
 layout: default
-title: No More Sibling Rivalry: Debiasing Human-Object Interaction Detection
+title: "No More Sibling Rivalry: Debiasing Human-Object Interaction Detection"
 ---
 
 # No More Sibling Rivalry: Debiasing Human-Object Interaction Detection

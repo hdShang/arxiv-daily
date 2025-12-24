@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CuMoLoS-MAE: A Masked Autoencoder for Remote Sensing Data Reconstruction
+title: "CuMoLoS-MAE: A Masked Autoencoder for Remote Sensing Data Reconstruction"
 ---
 
 # CuMoLoS-MAE: A Masked Autoencoder for Remote Sensing Data Reconstruction

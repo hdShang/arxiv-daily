@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HAEPO: History-Aggregated Exploratory Policy Optimization
+title: "HAEPO: History-Aggregated Exploratory Policy Optimization"
 ---
 
 # HAEPO: History-Aggregated Exploratory Policy Optimization

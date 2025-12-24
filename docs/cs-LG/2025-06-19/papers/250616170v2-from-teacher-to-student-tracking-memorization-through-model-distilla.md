@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Teacher to Student: Tracking Memorization Through Model Distillation
+title: "From Teacher to Student: Tracking Memorization Through Model Distillation"
 ---
 
 # From Teacher to Student: Tracking Memorization Through Model Distillation

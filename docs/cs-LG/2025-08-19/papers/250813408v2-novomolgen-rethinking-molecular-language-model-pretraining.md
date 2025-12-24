@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NovoMolGen: Rethinking Molecular Language Model Pretraining
+title: "NovoMolGen: Rethinking Molecular Language Model Pretraining"
 ---
 
 # NovoMolGen: Rethinking Molecular Language Model Pretraining

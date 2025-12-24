@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SimCroP: Radiograph Representation Learning with Similarity-driven Cross-granularity Pre-training
+title: "SimCroP: Radiograph Representation Learning with Similarity-driven Cross-granularity Pre-training"
 ---
 
 # SimCroP: Radiograph Representation Learning with Similarity-driven Cross-granularity Pre-training

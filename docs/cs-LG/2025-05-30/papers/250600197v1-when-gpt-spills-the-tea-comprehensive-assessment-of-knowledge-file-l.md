@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When GPT Spills the Tea: Comprehensive Assessment of Knowledge File Leakage in GPTs
+title: "When GPT Spills the Tea: Comprehensive Assessment of Knowledge File Leakage in GPTs"
 ---
 
 # When GPT Spills the Tea: Comprehensive Assessment of Knowledge File Leakage in GPTs

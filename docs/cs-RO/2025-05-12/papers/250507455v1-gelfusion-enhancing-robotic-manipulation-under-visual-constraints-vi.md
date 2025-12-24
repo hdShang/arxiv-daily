@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GelFusion: Enhancing Robotic Manipulation under Visual Constraints via Visuotactile Fusion
+title: "GelFusion: Enhancing Robotic Manipulation under Visual Constraints via Visuotactile Fusion"
 ---
 
 # GelFusion: Enhancing Robotic Manipulation under Visual Constraints via Visuotactile Fusion

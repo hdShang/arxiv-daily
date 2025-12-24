@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Icon$^{2}$: Aligning Large Language Models Using Self-Synthetic Preference Data via Inherent Regulation
+title: "Icon$^{2}$: Aligning Large Language Models Using Self-Synthetic Preference Data via Inherent Regulation"
 ---
 
 # Icon$^{2}$: Aligning Large Language Models Using Self-Synthetic Preference Data via Inherent Regulation

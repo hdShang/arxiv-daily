@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EasyMath: A 0-shot Math Benchmark for SLMs
+title: "EasyMath: A 0-shot Math Benchmark for SLMs"
 ---
 
 # EasyMath: A 0-shot Math Benchmark for SLMs

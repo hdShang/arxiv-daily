@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HydroChronos: Forecasting Decades of Surface Water Change
+title: "HydroChronos: Forecasting Decades of Surface Water Change"
 ---
 
 # HydroChronos: Forecasting Decades of Surface Water Change

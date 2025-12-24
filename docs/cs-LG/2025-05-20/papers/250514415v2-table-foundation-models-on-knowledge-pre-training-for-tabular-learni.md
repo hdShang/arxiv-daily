@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Table Foundation Models: on knowledge pre-training for tabular learning
+title: "Table Foundation Models: on knowledge pre-training for tabular learning"
 ---
 
 # Table Foundation Models: on knowledge pre-training for tabular learning

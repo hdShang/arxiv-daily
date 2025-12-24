@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models
+title: "LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models"
 ---
 
 # LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models

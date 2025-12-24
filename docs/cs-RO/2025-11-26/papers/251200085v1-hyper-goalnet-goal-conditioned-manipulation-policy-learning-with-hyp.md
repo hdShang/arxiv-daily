@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hyper-GoalNet: Goal-Conditioned Manipulation Policy Learning with HyperNetworks
+title: "Hyper-GoalNet: Goal-Conditioned Manipulation Policy Learning with HyperNetworks"
 ---
 
 # Hyper-GoalNet: Goal-Conditioned Manipulation Policy Learning with HyperNetworks

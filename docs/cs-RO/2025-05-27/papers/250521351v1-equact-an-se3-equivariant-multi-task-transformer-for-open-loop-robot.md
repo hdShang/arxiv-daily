@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation
+title: "EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation"
 ---
 
 # EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation

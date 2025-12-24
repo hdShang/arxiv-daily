@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Compass-v3: Scaling Domain-Specific LLMs for Multilingual E-Commerce in Southeast Asia
+title: "Compass-v3: Scaling Domain-Specific LLMs for Multilingual E-Commerce in Southeast Asia"
 ---
 
 # Compass-v3: Scaling Domain-Specific LLMs for Multilingual E-Commerce in Southeast Asia

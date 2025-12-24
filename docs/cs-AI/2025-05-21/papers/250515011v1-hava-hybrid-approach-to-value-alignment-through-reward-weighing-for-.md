@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HAVA: Hybrid Approach to Value-Alignment through Reward Weighing for Reinforcement Learning
+title: "HAVA: Hybrid Approach to Value-Alignment through Reward Weighing for Reinforcement Learning"
 ---
 
 # HAVA: Hybrid Approach to Value-Alignment through Reward Weighing for Reinforcement Learning

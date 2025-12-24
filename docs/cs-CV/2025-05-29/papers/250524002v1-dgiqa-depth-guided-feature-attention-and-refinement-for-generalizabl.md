@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DGIQA: Depth-guided Feature Attention and Refinement for Generalizable Image Quality Assessment
+title: "DGIQA: Depth-guided Feature Attention and Refinement for Generalizable Image Quality Assessment"
 ---
 
 # DGIQA: Depth-guided Feature Attention and Refinement for Generalizable Image Quality Assessment

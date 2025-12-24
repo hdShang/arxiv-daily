@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging
+title: "Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging"
 ---
 
 # Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging

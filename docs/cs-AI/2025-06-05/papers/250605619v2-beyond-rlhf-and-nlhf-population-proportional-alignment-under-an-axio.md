@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond RLHF and NLHF: Population-Proportional Alignment under an Axiomatic Framework
+title: "Beyond RLHF and NLHF: Population-Proportional Alignment under an Axiomatic Framework"
 ---
 
 # Beyond RLHF and NLHF: Population-Proportional Alignment under an Axiomatic Framework

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Personalization to Prejudice: Bias and Discrimination in Memory-Enhanced AI Agents for Recruitment
+title: "From Personalization to Prejudice: Bias and Discrimination in Memory-Enhanced AI Agents for Recruitment"
 ---
 
 # From Personalization to Prejudice: Bias and Discrimination in Memory-Enhanced AI Agents for Recruitment

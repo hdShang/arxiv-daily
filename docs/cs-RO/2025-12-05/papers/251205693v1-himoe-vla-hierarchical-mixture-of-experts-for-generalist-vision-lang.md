@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies
+title: "HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies"
 ---
 
 # HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies

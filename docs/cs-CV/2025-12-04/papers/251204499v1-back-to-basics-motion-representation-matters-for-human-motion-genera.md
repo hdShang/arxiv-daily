@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Back to Basics: Motion Representation Matters for Human Motion Generation Using Diffusion Model
+title: "Back to Basics: Motion Representation Matters for Human Motion Generation Using Diffusion Model"
 ---
 
 # Back to Basics: Motion Representation Matters for Human Motion Generation Using Diffusion Model

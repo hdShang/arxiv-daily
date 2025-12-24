@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning When to Ask: Simulation-Trained Humanoids for Mental-Health Diagnosis
+title: "Learning When to Ask: Simulation-Trained Humanoids for Mental-Health Diagnosis"
 ---
 
 # Learning When to Ask: Simulation-Trained Humanoids for Mental-Health Diagnosis

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AutoScape: Geometry-Consistent Long-Horizon Scene Generation
+title: "AutoScape: Geometry-Consistent Long-Horizon Scene Generation"
 ---
 
 # AutoScape: Geometry-Consistent Long-Horizon Scene Generation

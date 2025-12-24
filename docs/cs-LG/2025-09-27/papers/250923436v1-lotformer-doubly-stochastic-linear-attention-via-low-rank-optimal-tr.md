@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LOTFormer: Doubly-Stochastic Linear Attention via Low-Rank Optimal Transport
+title: "LOTFormer: Doubly-Stochastic Linear Attention via Low-Rank Optimal Transport"
 ---
 
 # LOTFormer: Doubly-Stochastic Linear Attention via Low-Rank Optimal Transport

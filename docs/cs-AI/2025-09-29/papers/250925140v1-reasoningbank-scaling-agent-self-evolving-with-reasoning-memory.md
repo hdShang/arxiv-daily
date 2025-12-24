@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory
+title: "ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory"
 ---
 
 # ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory

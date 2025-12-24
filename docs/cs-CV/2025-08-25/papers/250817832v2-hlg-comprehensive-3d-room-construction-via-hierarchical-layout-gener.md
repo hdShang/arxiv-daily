@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HLG: Comprehensive 3D Room Construction via Hierarchical Layout Generation
+title: "HLG: Comprehensive 3D Room Construction via Hierarchical Layout Generation"
 ---
 
 # HLG: Comprehensive 3D Room Construction via Hierarchical Layout Generation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zero-Shot Policy Transfer in Reinforcement Learning using Buckingham's Pi Theorem
+title: "Zero-Shot Policy Transfer in Reinforcement Learning using Buckingham's Pi Theorem"
 ---
 
 # Zero-Shot Policy Transfer in Reinforcement Learning using Buckingham's Pi Theorem

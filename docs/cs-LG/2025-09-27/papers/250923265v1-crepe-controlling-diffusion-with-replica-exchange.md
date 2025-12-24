@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CREPE: Controlling Diffusion with Replica Exchange
+title: "CREPE: Controlling Diffusion with Replica Exchange"
 ---
 
 # CREPE: Controlling Diffusion with Replica Exchange

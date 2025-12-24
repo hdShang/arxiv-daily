@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GRMM: Real-Time High-Fidelity Gaussian Morphable Head Model with Learned Residuals
+title: "GRMM: Real-Time High-Fidelity Gaussian Morphable Head Model with Learned Residuals"
 ---
 
 # GRMM: Real-Time High-Fidelity Gaussian Morphable Head Model with Learned Residuals

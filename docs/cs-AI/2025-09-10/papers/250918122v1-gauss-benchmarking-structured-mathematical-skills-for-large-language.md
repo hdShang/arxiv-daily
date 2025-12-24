@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GAUSS: Benchmarking Structured Mathematical Skills for Large Language Models
+title: "GAUSS: Benchmarking Structured Mathematical Skills for Large Language Models"
 ---
 
 # GAUSS: Benchmarking Structured Mathematical Skills for Large Language Models

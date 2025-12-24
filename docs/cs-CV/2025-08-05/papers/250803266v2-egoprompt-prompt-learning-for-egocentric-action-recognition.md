@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EgoPrompt: Prompt Learning for Egocentric Action Recognition
+title: "EgoPrompt: Prompt Learning for Egocentric Action Recognition"
 ---
 
 # EgoPrompt: Prompt Learning for Egocentric Action Recognition

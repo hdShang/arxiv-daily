@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GaRLILEO: Gravity-aligned Radar-Leg-Inertial Enhanced Odometry
+title: "GaRLILEO: Gravity-aligned Radar-Leg-Inertial Enhanced Odometry"
 ---
 
 # GaRLILEO: Gravity-aligned Radar-Leg-Inertial Enhanced Odometry

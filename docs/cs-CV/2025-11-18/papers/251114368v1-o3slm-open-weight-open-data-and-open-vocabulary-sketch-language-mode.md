@@ -1,6 +1,6 @@
 ---
 layout: default
-title: O3SLM: Open Weight, Open Data, and Open Vocabulary Sketch-Language Model
+title: "O3SLM: Open Weight, Open Data, and Open Vocabulary Sketch-Language Model"
 ---
 
 # O3SLM: Open Weight, Open Data, and Open Vocabulary Sketch-Language Model

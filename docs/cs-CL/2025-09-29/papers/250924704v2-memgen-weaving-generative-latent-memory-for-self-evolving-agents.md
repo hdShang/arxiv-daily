@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MemGen: Weaving Generative Latent Memory for Self-Evolving Agents
+title: "MemGen: Weaving Generative Latent Memory for Self-Evolving Agents"
 ---
 
 # MemGen: Weaving Generative Latent Memory for Self-Evolving Agents

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aligning Large Language Models with Healthcare Stakeholders: A Pathway to Trustworthy AI Integration
+title: "Aligning Large Language Models with Healthcare Stakeholders: A Pathway to Trustworthy AI Integration"
 ---
 
 # Aligning Large Language Models with Healthcare Stakeholders: A Pathway to Trustworthy AI Integration

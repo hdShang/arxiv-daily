@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fast on the Easy, Deep on the Hard: Efficient Reasoning via Powered Length Penalty
+title: "Fast on the Easy, Deep on the Hard: Efficient Reasoning via Powered Length Penalty"
 ---
 
 # Fast on the Easy, Deep on the Hard: Efficient Reasoning via Powered Length Penalty

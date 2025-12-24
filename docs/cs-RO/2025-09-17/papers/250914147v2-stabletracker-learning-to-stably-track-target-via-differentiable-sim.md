@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StableTracker: Learning to Stably Track Target via Differentiable Simulation
+title: "StableTracker: Learning to Stably Track Target via Differentiable Simulation"
 ---
 
 # StableTracker: Learning to Stably Track Target via Differentiable Simulation

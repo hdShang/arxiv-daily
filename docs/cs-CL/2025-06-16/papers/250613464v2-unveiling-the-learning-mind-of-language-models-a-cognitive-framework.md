@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unveiling the Learning Mind of Language Models: A Cognitive Framework and Empirical Study
+title: "Unveiling the Learning Mind of Language Models: A Cognitive Framework and Empirical Study"
 ---
 
 # Unveiling the Learning Mind of Language Models: A Cognitive Framework and Empirical Study

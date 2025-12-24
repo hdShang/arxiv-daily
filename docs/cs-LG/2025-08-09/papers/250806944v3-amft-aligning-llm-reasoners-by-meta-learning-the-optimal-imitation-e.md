@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AMFT: Aligning LLM Reasoners by Meta-Learning the Optimal Imitation-Exploration Balance
+title: "AMFT: Aligning LLM Reasoners by Meta-Learning the Optimal Imitation-Exploration Balance"
 ---
 
 # AMFT: Aligning LLM Reasoners by Meta-Learning the Optimal Imitation-Exploration Balance

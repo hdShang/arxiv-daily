@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RobustGait: Robustness Analysis for Appearance Based Gait Recognition
+title: "RobustGait: Robustness Analysis for Appearance Based Gait Recognition"
 ---
 
 # RobustGait: Robustness Analysis for Appearance Based Gait Recognition

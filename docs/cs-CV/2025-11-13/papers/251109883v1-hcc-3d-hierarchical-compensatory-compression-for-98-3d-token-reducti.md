@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HCC-3D: Hierarchical Compensatory Compression for 98% 3D Token Reduction in Vision-Language Models
+title: "HCC-3D: Hierarchical Compensatory Compression for 98% 3D Token Reduction in Vision-Language Models"
 ---
 
 # HCC-3D: Hierarchical Compensatory Compression for 98% 3D Token Reduction in Vision-Language Models

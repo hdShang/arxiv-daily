@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R2GenKG: Hierarchical Multi-modal Knowledge Graph for LLM-based Radiology Report Generation
+title: "R2GenKG: Hierarchical Multi-modal Knowledge Graph for LLM-based Radiology Report Generation"
 ---
 
 # R2GenKG: Hierarchical Multi-modal Knowledge Graph for LLM-based Radiology Report Generation

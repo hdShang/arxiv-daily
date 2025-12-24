@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniDexGrasp: Generalizable Dexterous Grasping via Foundation Model and Force Feedback
+title: "OmniDexGrasp: Generalizable Dexterous Grasping via Foundation Model and Force Feedback"
 ---
 
 # OmniDexGrasp: Generalizable Dexterous Grasping via Foundation Model and Force Feedback

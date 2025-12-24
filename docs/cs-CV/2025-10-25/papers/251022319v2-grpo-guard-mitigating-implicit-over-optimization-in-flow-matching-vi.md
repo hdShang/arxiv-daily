@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GRPO-Guard: Mitigating Implicit Over-Optimization in Flow Matching via Regulated Clipping
+title: "GRPO-Guard: Mitigating Implicit Over-Optimization in Flow Matching via Regulated Clipping"
 ---
 
 # GRPO-Guard: Mitigating Implicit Over-Optimization in Flow Matching via Regulated Clipping

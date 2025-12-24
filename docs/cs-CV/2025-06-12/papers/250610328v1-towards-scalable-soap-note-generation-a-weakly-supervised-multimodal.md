@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Scalable SOAP Note Generation: A Weakly Supervised Multimodal Framework
+title: "Towards Scalable SOAP Note Generation: A Weakly Supervised Multimodal Framework"
 ---
 
 # Towards Scalable SOAP Note Generation: A Weakly Supervised Multimodal Framework

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AnchorSync: Global Consistency Optimization for Long Video Editing
+title: "AnchorSync: Global Consistency Optimization for Long Video Editing"
 ---
 
 # AnchorSync: Global Consistency Optimization for Long Video Editing

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SplatPainter: Interactive Authoring of 3D Gaussians from 2D Edits via Test-Time Training
+title: "SplatPainter: Interactive Authoring of 3D Gaussians from 2D Edits via Test-Time Training"
 ---
 
 # SplatPainter: Interactive Authoring of 3D Gaussians from 2D Edits via Test-Time Training

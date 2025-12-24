@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ABC-Eval: Benchmarking Large Language Models on Symbolic Music Understanding and Instruction Following
+title: "ABC-Eval: Benchmarking Large Language Models on Symbolic Music Understanding and Instruction Following"
 ---
 
 # ABC-Eval: Benchmarking Large Language Models on Symbolic Music Understanding and Instruction Following

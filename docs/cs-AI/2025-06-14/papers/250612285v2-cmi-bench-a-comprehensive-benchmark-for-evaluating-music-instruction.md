@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CMI-Bench: A Comprehensive Benchmark for Evaluating Music Instruction Following
+title: "CMI-Bench: A Comprehensive Benchmark for Evaluating Music Instruction Following"
 ---
 
 # CMI-Bench: A Comprehensive Benchmark for Evaluating Music Instruction Following

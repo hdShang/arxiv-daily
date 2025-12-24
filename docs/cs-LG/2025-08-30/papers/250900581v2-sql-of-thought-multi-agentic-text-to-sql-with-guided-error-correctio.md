@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SQL-of-Thought: Multi-agentic Text-to-SQL with Guided Error Correction
+title: "SQL-of-Thought: Multi-agentic Text-to-SQL with Guided Error Correction"
 ---
 
 # SQL-of-Thought: Multi-agentic Text-to-SQL with Guided Error Correction

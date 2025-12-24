@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Double Entendre: Robust Audio-Based AI-Generated Lyrics Detection via Multi-View Fusion
+title: "Double Entendre: Robust Audio-Based AI-Generated Lyrics Detection via Multi-View Fusion"
 ---
 
 # Double Entendre: Robust Audio-Based AI-Generated Lyrics Detection via Multi-View Fusion

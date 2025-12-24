@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PairHuman: A High-Fidelity Photographic Dataset for Customized Dual-Person Generation
+title: "PairHuman: A High-Fidelity Photographic Dataset for Customized Dual-Person Generation"
 ---
 
 # PairHuman: A High-Fidelity Photographic Dataset for Customized Dual-Person Generation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Simulation Agent: A Framework for Integrating Simulation and Large Language Models for Enhanced Decision-Making
+title: "Simulation Agent: A Framework for Integrating Simulation and Large Language Models for Enhanced Decision-Making"
 ---
 
 # Simulation Agent: A Framework for Integrating Simulation and Large Language Models for Enhanced Decision-Making

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: rStar-Coder: Scaling Competitive Code Reasoning with a Large-Scale Verified Dataset
+title: "rStar-Coder: Scaling Competitive Code Reasoning with a Large-Scale Verified Dataset"
 ---
 
 # rStar-Coder: Scaling Competitive Code Reasoning with a Large-Scale Verified Dataset

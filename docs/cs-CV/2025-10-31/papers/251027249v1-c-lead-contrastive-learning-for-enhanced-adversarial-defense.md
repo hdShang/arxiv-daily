@@ -1,6 +1,6 @@
 ---
 layout: default
-title: C-LEAD: Contrastive Learning for Enhanced Adversarial Defense
+title: "C-LEAD: Contrastive Learning for Enhanced Adversarial Defense"
 ---
 
 # C-LEAD: Contrastive Learning for Enhanced Adversarial Defense

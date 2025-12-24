@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KeyframeFace: From Text to Expressive Facial Keyframes
+title: "KeyframeFace: From Text to Expressive Facial Keyframes"
 ---
 
 # KeyframeFace: From Text to Expressive Facial Keyframes

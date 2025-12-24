@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AbsenceBench: Language Models Can't Tell What's Missing
+title: "AbsenceBench: Language Models Can't Tell What's Missing"
 ---
 
 # AbsenceBench: Language Models Can't Tell What's Missing

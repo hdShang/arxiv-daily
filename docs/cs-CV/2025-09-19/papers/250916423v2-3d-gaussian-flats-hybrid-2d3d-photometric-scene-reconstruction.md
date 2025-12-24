@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3D Gaussian Flats: Hybrid 2D/3D Photometric Scene Reconstruction
+title: "3D Gaussian Flats: Hybrid 2D/3D Photometric Scene Reconstruction"
 ---
 
 # 3D Gaussian Flats: Hybrid 2D/3D Photometric Scene Reconstruction

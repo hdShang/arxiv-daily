@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs
+title: "From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs"
 ---
 
 # From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs

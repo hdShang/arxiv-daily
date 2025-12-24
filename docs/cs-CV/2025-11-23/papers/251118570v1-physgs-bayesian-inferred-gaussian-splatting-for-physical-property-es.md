@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PhysGS: Bayesian-Inferred Gaussian Splatting for Physical Property Estimation
+title: "PhysGS: Bayesian-Inferred Gaussian Splatting for Physical Property Estimation"
 ---
 
 # PhysGS: Bayesian-Inferred Gaussian Splatting for Physical Property Estimation

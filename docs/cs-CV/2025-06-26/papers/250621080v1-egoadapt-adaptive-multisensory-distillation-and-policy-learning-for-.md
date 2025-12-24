@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EgoAdapt: Adaptive Multisensory Distillation and Policy Learning for Efficient Egocentric Perception
+title: "EgoAdapt: Adaptive Multisensory Distillation and Policy Learning for Efficient Egocentric Perception"
 ---
 
 # EgoAdapt: Adaptive Multisensory Distillation and Policy Learning for Efficient Egocentric Perception

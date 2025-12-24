@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Asymmetric REINFORCE for off-Policy Reinforcement Learning: Balancing positive and negative rewards
+title: "Asymmetric REINFORCE for off-Policy Reinforcement Learning: Balancing positive and negative rewards"
 ---
 
 # Asymmetric REINFORCE for off-Policy Reinforcement Learning: Balancing positive and negative rewards

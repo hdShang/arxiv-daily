@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KDH-MLTC: Knowledge Distillation for Healthcare Multi-Label Text Classification
+title: "KDH-MLTC: Knowledge Distillation for Healthcare Multi-Label Text Classification"
 ---
 
 # KDH-MLTC: Knowledge Distillation for Healthcare Multi-Label Text Classification

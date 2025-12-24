@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AQUATIC-Diff: Additive Quantization for Truly Tiny Compressed Diffusion Models
+title: "AQUATIC-Diff: Additive Quantization for Truly Tiny Compressed Diffusion Models"
 ---
 
 # AQUATIC-Diff: Additive Quantization for Truly Tiny Compressed Diffusion Models

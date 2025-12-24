@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EntroLLM: Entropy Encoded Weight Compression for Efficient Large Language Model Inference on Edge Devices
+title: "EntroLLM: Entropy Encoded Weight Compression for Efficient Large Language Model Inference on Edge Devices"
 ---
 
 # EntroLLM: Entropy Encoded Weight Compression for Efficient Large Language Model Inference on Edge Devices

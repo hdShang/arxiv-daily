@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Compressor-VLA: Instruction-Guided Visual Token Compression for Efficient Robotic Manipulation
+title: "Compressor-VLA: Instruction-Guided Visual Token Compression for Efficient Robotic Manipulation"
 ---
 
 # Compressor-VLA: Instruction-Guided Visual Token Compression for Efficient Robotic Manipulation

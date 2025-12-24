@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AFD-SLU: Adaptive Feature Distillation for Spoken Language Understanding
+title: "AFD-SLU: Adaptive Feature Distillation for Spoken Language Understanding"
 ---
 
 # AFD-SLU: Adaptive Feature Distillation for Spoken Language Understanding

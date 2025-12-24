@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chain-in-Tree: Back to Sequential Reasoning in LLM Tree Search
+title: "Chain-in-Tree: Back to Sequential Reasoning in LLM Tree Search"
 ---
 
 # Chain-in-Tree: Back to Sequential Reasoning in LLM Tree Search

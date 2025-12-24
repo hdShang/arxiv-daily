@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Sight to Insight: Unleashing Eye-Tracking in Weakly Supervised Video Salient Object Detection
+title: "From Sight to Insight: Unleashing Eye-Tracking in Weakly Supervised Video Salient Object Detection"
 ---
 
 # From Sight to Insight: Unleashing Eye-Tracking in Weakly Supervised Video Salient Object Detection

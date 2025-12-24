@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pure Vision Language Action (VLA) Models: A Comprehensive Survey
+title: "Pure Vision Language Action (VLA) Models: A Comprehensive Survey"
 ---
 
 # Pure Vision Language Action (VLA) Models: A Comprehensive Survey

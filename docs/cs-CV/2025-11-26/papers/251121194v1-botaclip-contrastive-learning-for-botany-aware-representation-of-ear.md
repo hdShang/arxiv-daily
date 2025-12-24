@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BotaCLIP: Contrastive Learning for Botany-Aware Representation of Earth Observation Data
+title: "BotaCLIP: Contrastive Learning for Botany-Aware Representation of Earth Observation Data"
 ---
 
 # BotaCLIP: Contrastive Learning for Botany-Aware Representation of Earth Observation Data

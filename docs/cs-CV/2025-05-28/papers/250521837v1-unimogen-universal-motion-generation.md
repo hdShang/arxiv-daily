@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniMoGen: Universal Motion Generation
+title: "UniMoGen: Universal Motion Generation"
 ---
 
 # UniMoGen: Universal Motion Generation

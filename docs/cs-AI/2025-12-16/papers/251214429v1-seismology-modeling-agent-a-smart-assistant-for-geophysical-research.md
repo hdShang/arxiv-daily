@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seismology modeling agent: A smart assistant for geophysical researchers
+title: "Seismology modeling agent: A smart assistant for geophysical researchers"
 ---
 
 # Seismology modeling agent: A smart assistant for geophysical researchers

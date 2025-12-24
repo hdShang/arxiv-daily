@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Provable Post-Training Quantization: Theoretical Analysis of OPTQ and Qronos
+title: "Provable Post-Training Quantization: Theoretical Analysis of OPTQ and Qronos"
 ---
 
 # Provable Post-Training Quantization: Theoretical Analysis of OPTQ and Qronos

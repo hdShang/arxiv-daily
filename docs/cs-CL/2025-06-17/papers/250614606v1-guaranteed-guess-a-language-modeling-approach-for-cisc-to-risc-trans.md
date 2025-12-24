@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Guaranteed Guess: A Language Modeling Approach for CISC-to-RISC Transpilation with Testing Guarantees
+title: "Guaranteed Guess: A Language Modeling Approach for CISC-to-RISC Transpilation with Testing Guarantees"
 ---
 
 # Guaranteed Guess: A Language Modeling Approach for CISC-to-RISC Transpilation with Testing Guarantees

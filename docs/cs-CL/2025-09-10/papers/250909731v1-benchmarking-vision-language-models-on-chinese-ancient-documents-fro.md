@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Benchmarking Vision-Language Models on Chinese Ancient Documents: From OCR to Knowledge Reasoning
+title: "Benchmarking Vision-Language Models on Chinese Ancient Documents: From OCR to Knowledge Reasoning"
 ---
 
 # Benchmarking Vision-Language Models on Chinese Ancient Documents: From OCR to Knowledge Reasoning

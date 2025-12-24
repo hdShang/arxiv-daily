@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Autonomous UAV Flight Navigation in Confined Spaces: A Reinforcement Learning Approach
+title: "Autonomous UAV Flight Navigation in Confined Spaces: A Reinforcement Learning Approach"
 ---
 
 # Autonomous UAV Flight Navigation in Confined Spaces: A Reinforcement Learning Approach

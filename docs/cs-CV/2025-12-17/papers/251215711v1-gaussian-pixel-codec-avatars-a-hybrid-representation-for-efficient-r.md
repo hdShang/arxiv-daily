@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gaussian Pixel Codec Avatars: A Hybrid Representation for Efficient Rendering
+title: "Gaussian Pixel Codec Avatars: A Hybrid Representation for Efficient Rendering"
 ---
 
 # Gaussian Pixel Codec Avatars: A Hybrid Representation for Efficient Rendering

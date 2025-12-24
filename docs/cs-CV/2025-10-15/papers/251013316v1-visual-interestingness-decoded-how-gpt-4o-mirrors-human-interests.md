@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visual Interestingness Decoded: How GPT-4o Mirrors Human Interests
+title: "Visual Interestingness Decoded: How GPT-4o Mirrors Human Interests"
 ---
 
 # Visual Interestingness Decoded: How GPT-4o Mirrors Human Interests

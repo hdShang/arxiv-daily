@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A New HOPE: Domain-agnostic Automatic Evaluation of Text Chunking
+title: "A New HOPE: Domain-agnostic Automatic Evaluation of Text Chunking"
 ---
 
 # A New HOPE: Domain-agnostic Automatic Evaluation of Text Chunking

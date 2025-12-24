@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Instructional Agents: LLM Agents on Automated Course Material Generation for Teaching Faculties
+title: "Instructional Agents: LLM Agents on Automated Course Material Generation for Teaching Faculties"
 ---
 
 # Instructional Agents: LLM Agents on Automated Course Material Generation for Teaching Faculties

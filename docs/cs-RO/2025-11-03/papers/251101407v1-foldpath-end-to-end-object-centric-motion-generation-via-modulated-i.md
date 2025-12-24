@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FoldPath: End-to-End Object-Centric Motion Generation via Modulated Implicit Paths
+title: "FoldPath: End-to-End Object-Centric Motion Generation via Modulated Implicit Paths"
 ---
 
 # FoldPath: End-to-End Object-Centric Motion Generation via Modulated Implicit Paths

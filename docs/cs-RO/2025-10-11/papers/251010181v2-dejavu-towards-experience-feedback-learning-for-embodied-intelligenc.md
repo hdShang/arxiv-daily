@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dejavu: Towards Experience Feedback Learning for Embodied Intelligence
+title: "Dejavu: Towards Experience Feedback Learning for Embodied Intelligence"
 ---
 
 # Dejavu: Towards Experience Feedback Learning for Embodied Intelligence

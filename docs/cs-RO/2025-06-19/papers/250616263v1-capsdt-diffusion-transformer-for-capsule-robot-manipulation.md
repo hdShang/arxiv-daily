@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CapsDT: Diffusion-Transformer for Capsule Robot Manipulation
+title: "CapsDT: Diffusion-Transformer for Capsule Robot Manipulation"
 ---
 
 # CapsDT: Diffusion-Transformer for Capsule Robot Manipulation

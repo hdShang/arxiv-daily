@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MLE-STAR: Machine Learning Engineering Agent via Search and Targeted Refinement
+title: "MLE-STAR: Machine Learning Engineering Agent via Search and Targeted Refinement"
 ---
 
 # MLE-STAR: Machine Learning Engineering Agent via Search and Targeted Refinement

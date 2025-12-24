@@ -1,6 +1,6 @@
 ---
 layout: default
-title: G2S: A General-to-Specific Learning Framework for Temporal Knowledge Graph Forecasting with Large Language Models
+title: "G2S: A General-to-Specific Learning Framework for Temporal Knowledge Graph Forecasting with Large Language Models"
 ---
 
 # G2S: A General-to-Specific Learning Framework for Temporal Knowledge Graph Forecasting with Large Language Models

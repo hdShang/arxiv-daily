@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COCO-Urdu: A Large-Scale Urdu Image-Caption Dataset with Multimodal Quality Estimation
+title: "COCO-Urdu: A Large-Scale Urdu Image-Caption Dataset with Multimodal Quality Estimation"
 ---
 
 # COCO-Urdu: A Large-Scale Urdu Image-Caption Dataset with Multimodal Quality Estimation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R-KV: Redundancy-aware KV Cache Compression for Reasoning Models
+title: "R-KV: Redundancy-aware KV Cache Compression for Reasoning Models"
 ---
 
 # R-KV: Redundancy-aware KV Cache Compression for Reasoning Models

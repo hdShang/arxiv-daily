@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FLoC: Facility Location-Based Efficient Visual Token Compression for Long Video Understanding
+title: "FLoC: Facility Location-Based Efficient Visual Token Compression for Long Video Understanding"
 ---
 
 # FLoC: Facility Location-Based Efficient Visual Token Compression for Long Video Understanding

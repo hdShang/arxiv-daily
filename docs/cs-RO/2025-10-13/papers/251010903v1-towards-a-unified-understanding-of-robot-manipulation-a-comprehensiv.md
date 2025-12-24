@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey
+title: "Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey"
 ---
 
 # Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey

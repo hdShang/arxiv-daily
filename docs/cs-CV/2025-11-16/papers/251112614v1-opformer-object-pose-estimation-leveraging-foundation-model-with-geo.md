@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OPFormer: Object Pose Estimation leveraging foundation model with geometric encoding
+title: "OPFormer: Object Pose Estimation leveraging foundation model with geometric encoding"
 ---
 
 # OPFormer: Object Pose Estimation leveraging foundation model with geometric encoding

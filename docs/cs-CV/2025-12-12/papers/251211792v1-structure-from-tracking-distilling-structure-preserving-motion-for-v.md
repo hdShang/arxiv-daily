@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Structure From Tracking: Distilling Structure-Preserving Motion for Video Generation
+title: "Structure From Tracking: Distilling Structure-Preserving Motion for Video Generation"
 ---
 
 # Structure From Tracking: Distilling Structure-Preserving Motion for Video Generation

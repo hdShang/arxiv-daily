@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thinking with Nothinking Calibration: A New In-Context Learning Paradigm in Reasoning Large Language Models
+title: "Thinking with Nothinking Calibration: A New In-Context Learning Paradigm in Reasoning Large Language Models"
 ---
 
 # Thinking with Nothinking Calibration: A New In-Context Learning Paradigm in Reasoning Large Language Models

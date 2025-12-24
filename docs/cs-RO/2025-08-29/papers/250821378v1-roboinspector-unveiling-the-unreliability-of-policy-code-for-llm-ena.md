@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboInspector: Unveiling the Unreliability of Policy Code for LLM-enabled Robotic Manipulation
+title: "RoboInspector: Unveiling the Unreliability of Policy Code for LLM-enabled Robotic Manipulation"
 ---
 
 # RoboInspector: Unveiling the Unreliability of Policy Code for LLM-enabled Robotic Manipulation

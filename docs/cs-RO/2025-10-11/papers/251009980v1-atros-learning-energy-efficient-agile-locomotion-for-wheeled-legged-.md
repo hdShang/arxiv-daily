@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ATRos: Learning Energy-Efficient Agile Locomotion for Wheeled-legged Robots
+title: "ATRos: Learning Energy-Efficient Agile Locomotion for Wheeled-legged Robots"
 ---
 
 # ATRos: Learning Energy-Efficient Agile Locomotion for Wheeled-legged Robots

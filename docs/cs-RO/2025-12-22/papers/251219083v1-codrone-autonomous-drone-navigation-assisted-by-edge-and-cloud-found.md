@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoDrone: Autonomous Drone Navigation Assisted by Edge and Cloud Foundation Models
+title: "CoDrone: Autonomous Drone Navigation Assisted by Edge and Cloud Foundation Models"
 ---
 
 # CoDrone: Autonomous Drone Navigation Assisted by Edge and Cloud Foundation Models

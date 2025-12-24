@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GoLF-NRT: Integrating Global Context and Local Geometry for Few-Shot View Synthesis
+title: "GoLF-NRT: Integrating Global Context and Local Geometry for Few-Shot View Synthesis"
 ---
 
 # GoLF-NRT: Integrating Global Context and Local Geometry for Few-Shot View Synthesis

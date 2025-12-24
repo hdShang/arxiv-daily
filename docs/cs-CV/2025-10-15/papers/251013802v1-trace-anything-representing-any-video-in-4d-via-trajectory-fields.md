@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trace Anything: Representing Any Video in 4D via Trajectory Fields
+title: "Trace Anything: Representing Any Video in 4D via Trajectory Fields"
 ---
 
 # Trace Anything: Representing Any Video in 4D via Trajectory Fields

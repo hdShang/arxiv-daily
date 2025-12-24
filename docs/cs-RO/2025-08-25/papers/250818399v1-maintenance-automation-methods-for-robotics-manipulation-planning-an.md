@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Maintenance automation: methods for robotics manipulation planning and execution
+title: "Maintenance automation: methods for robotics manipulation planning and execution"
 ---
 
 # Maintenance automation: methods for robotics manipulation planning and execution

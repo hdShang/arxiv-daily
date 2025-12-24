@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation
+title: "Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation"
 ---
 
 # Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation

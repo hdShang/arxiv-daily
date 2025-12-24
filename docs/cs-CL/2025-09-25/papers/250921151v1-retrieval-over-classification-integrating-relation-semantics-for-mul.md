@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Retrieval over Classification: Integrating Relation Semantics for Multimodal Relation Extraction
+title: "Retrieval over Classification: Integrating Relation Semantics for Multimodal Relation Extraction"
 ---
 
 # Retrieval over Classification: Integrating Relation Semantics for Multimodal Relation Extraction

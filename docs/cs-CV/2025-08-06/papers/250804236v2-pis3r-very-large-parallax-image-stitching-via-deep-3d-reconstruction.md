@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PIS3R: Very Large Parallax Image Stitching via Deep 3D Reconstruction
+title: "PIS3R: Very Large Parallax Image Stitching via Deep 3D Reconstruction"
 ---
 
 # PIS3R: Very Large Parallax Image Stitching via Deep 3D Reconstruction

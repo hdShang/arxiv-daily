@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SirenPose: Dynamic Scene Reconstruction via Geometric Supervision
+title: "SirenPose: Dynamic Scene Reconstruction via Geometric Supervision"
 ---
 
 # SirenPose: Dynamic Scene Reconstruction via Geometric Supervision

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IUT-Plug: A Plug-in tool for Interleaved Image-Text Generation
+title: "IUT-Plug: A Plug-in tool for Interleaved Image-Text Generation"
 ---
 
 # IUT-Plug: A Plug-in tool for Interleaved Image-Text Generation

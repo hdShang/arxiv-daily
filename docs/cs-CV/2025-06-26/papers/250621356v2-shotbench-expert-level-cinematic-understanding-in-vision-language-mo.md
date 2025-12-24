@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models
+title: "ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models"
 ---
 
 # ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models

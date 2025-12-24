@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements
+title: "The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements"
 ---
 
 # The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements

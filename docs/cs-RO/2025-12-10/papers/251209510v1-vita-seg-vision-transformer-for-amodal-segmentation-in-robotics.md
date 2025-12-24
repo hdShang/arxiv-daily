@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ViTA-Seg: Vision Transformer for Amodal Segmentation in Robotics
+title: "ViTA-Seg: Vision Transformer for Amodal Segmentation in Robotics"
 ---
 
 # ViTA-Seg: Vision Transformer for Amodal Segmentation in Robotics

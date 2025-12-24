@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GrACE: A Generative Approach to Better Confidence Elicitation in Large Language Models
+title: "GrACE: A Generative Approach to Better Confidence Elicitation in Large Language Models"
 ---
 
 # GrACE: A Generative Approach to Better Confidence Elicitation in Large Language Models

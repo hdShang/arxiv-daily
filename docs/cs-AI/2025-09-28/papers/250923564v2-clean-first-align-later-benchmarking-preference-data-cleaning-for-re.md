@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Clean First, Align Later: Benchmarking Preference Data Cleaning for Reliable LLM Alignment
+title: "Clean First, Align Later: Benchmarking Preference Data Cleaning for Reliable LLM Alignment"
 ---
 
 # Clean First, Align Later: Benchmarking Preference Data Cleaning for Reliable LLM Alignment

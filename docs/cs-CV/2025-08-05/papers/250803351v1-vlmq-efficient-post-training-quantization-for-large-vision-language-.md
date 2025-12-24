@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VLMQ: Efficient Post-Training Quantization for Large Vision-Language Models via Hessian Augmentation
+title: "VLMQ: Efficient Post-Training Quantization for Large Vision-Language Models via Hessian Augmentation"
 ---
 
 # VLMQ: Efficient Post-Training Quantization for Large Vision-Language Models via Hessian Augmentation

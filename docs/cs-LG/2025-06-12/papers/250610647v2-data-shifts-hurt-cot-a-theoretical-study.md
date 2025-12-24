@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data Shifts Hurt CoT: A Theoretical Study
+title: "Data Shifts Hurt CoT: A Theoretical Study"
 ---
 
 # Data Shifts Hurt CoT: A Theoretical Study

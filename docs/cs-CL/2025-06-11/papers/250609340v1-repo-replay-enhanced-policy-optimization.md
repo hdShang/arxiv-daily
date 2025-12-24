@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RePO: Replay-Enhanced Policy Optimization
+title: "RePO: Replay-Enhanced Policy Optimization"
 ---
 
 # RePO: Replay-Enhanced Policy Optimization

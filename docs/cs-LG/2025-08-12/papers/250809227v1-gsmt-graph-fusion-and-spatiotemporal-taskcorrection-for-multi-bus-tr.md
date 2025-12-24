@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GSMT: Graph Fusion and Spatiotemporal TaskCorrection for Multi-Bus Trajectory Prediction
+title: "GSMT: Graph Fusion and Spatiotemporal TaskCorrection for Multi-Bus Trajectory Prediction"
 ---
 
 # GSMT: Graph Fusion and Spatiotemporal TaskCorrection for Multi-Bus Trajectory Prediction

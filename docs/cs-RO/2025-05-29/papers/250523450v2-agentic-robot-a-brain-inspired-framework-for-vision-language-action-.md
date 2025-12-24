@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents
+title: "Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents"
 ---
 
 # Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents

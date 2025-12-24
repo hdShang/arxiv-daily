@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Intent Factored Generation: Unleashing the Diversity in Your Language Model
+title: "Intent Factored Generation: Unleashing the Diversity in Your Language Model"
 ---
 
 # Intent Factored Generation: Unleashing the Diversity in Your Language Model

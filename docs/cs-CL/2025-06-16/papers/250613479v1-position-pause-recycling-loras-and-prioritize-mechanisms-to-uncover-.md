@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Position: Pause Recycling LoRAs and Prioritize Mechanisms to Uncover Limits and Effectiveness
+title: "Position: Pause Recycling LoRAs and Prioritize Mechanisms to Uncover Limits and Effectiveness"
 ---
 
 # Position: Pause Recycling LoRAs and Prioritize Mechanisms to Uncover Limits and Effectiveness

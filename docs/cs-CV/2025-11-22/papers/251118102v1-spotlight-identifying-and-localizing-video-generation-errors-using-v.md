@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spotlight: Identifying and Localizing Video Generation Errors Using VLMs
+title: "Spotlight: Identifying and Localizing Video Generation Errors Using VLMs"
 ---
 
 # Spotlight: Identifying and Localizing Video Generation Errors Using VLMs

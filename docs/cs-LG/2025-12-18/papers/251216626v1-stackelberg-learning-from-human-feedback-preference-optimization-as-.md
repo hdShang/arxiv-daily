@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stackelberg Learning from Human Feedback: Preference Optimization as a Sequential Game
+title: "Stackelberg Learning from Human Feedback: Preference Optimization as a Sequential Game"
 ---
 
 # Stackelberg Learning from Human Feedback: Preference Optimization as a Sequential Game

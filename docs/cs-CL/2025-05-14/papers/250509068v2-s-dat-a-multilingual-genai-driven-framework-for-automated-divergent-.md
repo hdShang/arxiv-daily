@@ -1,6 +1,6 @@
 ---
 layout: default
-title: S-DAT: A Multilingual, GenAI-Driven Framework for Automated Divergent Thinking Assessment
+title: "S-DAT: A Multilingual, GenAI-Driven Framework for Automated Divergent Thinking Assessment"
 ---
 
 # S-DAT: A Multilingual, GenAI-Driven Framework for Automated Divergent Thinking Assessment

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Self-Route: Automatic Mode Switching via Capability Estimation for Efficient Reasoning
+title: "Self-Route: Automatic Mode Switching via Capability Estimation for Efficient Reasoning"
 ---
 
 # Self-Route: Automatic Mode Switching via Capability Estimation for Efficient Reasoning

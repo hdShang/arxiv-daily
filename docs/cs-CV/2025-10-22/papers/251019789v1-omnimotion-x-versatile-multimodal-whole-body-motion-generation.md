@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniMotion-X: Versatile Multimodal Whole-Body Motion Generation
+title: "OmniMotion-X: Versatile Multimodal Whole-Body Motion Generation"
 ---
 
 # OmniMotion-X: Versatile Multimodal Whole-Body Motion Generation

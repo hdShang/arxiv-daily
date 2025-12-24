@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TRiMM: Transformer-Based Rich Motion Matching for Real-Time multi-modal Interaction in Digital Humans
+title: "TRiMM: Transformer-Based Rich Motion Matching for Real-Time multi-modal Interaction in Digital Humans"
 ---
 
 # TRiMM: Transformer-Based Rich Motion Matching for Real-Time multi-modal Interaction in Digital Humans

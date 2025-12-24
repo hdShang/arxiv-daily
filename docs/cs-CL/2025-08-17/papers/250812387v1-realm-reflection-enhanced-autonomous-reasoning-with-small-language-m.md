@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReaLM: Reflection-Enhanced Autonomous Reasoning with Small Language Models
+title: "ReaLM: Reflection-Enhanced Autonomous Reasoning with Small Language Models"
 ---
 
 # ReaLM: Reflection-Enhanced Autonomous Reasoning with Small Language Models

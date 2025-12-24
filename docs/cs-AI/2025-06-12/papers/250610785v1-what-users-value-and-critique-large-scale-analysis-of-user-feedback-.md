@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What Users Value and Critique: Large-Scale Analysis of User Feedback on AI-Powered Mobile Apps
+title: "What Users Value and Critique: Large-Scale Analysis of User Feedback on AI-Powered Mobile Apps"
 ---
 
 # What Users Value and Critique: Large-Scale Analysis of User Feedback on AI-Powered Mobile Apps

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ROPA: Synthetic Robot Pose Generation for RGB-D Bimanual Data Augmentation
+title: "ROPA: Synthetic Robot Pose Generation for RGB-D Bimanual Data Augmentation"
 ---
 
 # ROPA: Synthetic Robot Pose Generation for RGB-D Bimanual Data Augmentation

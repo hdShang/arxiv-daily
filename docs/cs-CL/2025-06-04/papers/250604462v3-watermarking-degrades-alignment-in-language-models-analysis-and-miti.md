@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Watermarking Degrades Alignment in Language Models: Analysis and Mitigation
+title: "Watermarking Degrades Alignment in Language Models: Analysis and Mitigation"
 ---
 
 # Watermarking Degrades Alignment in Language Models: Analysis and Mitigation

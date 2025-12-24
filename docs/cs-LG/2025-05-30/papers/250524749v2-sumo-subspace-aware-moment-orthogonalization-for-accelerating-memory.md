@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SUMO: Subspace-Aware Moment-Orthogonalization for Accelerating Memory-Efficient LLM Training
+title: "SUMO: Subspace-Aware Moment-Orthogonalization for Accelerating Memory-Efficient LLM Training"
 ---
 
 # SUMO: Subspace-Aware Moment-Orthogonalization for Accelerating Memory-Efficient LLM Training

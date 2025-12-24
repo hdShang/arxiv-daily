@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SL-SLR: Self-Supervised Representation Learning for Sign Language Recognition
+title: "SL-SLR: Self-Supervised Representation Learning for Sign Language Recognition"
 ---
 
 # SL-SLR: Self-Supervised Representation Learning for Sign Language Recognition

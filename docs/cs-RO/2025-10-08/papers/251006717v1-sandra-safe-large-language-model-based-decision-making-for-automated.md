@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SanDRA: Safe Large-Language-Model-Based Decision Making for Automated Vehicles Using Reachability Analysis
+title: "SanDRA: Safe Large-Language-Model-Based Decision Making for Automated Vehicles Using Reachability Analysis"
 ---
 
 # SanDRA: Safe Large-Language-Model-Based Decision Making for Automated Vehicles Using Reachability Analysis

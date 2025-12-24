@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SPARK: Synergistic Policy And Reward Co-Evolving Framework
+title: "SPARK: Synergistic Policy And Reward Co-Evolving Framework"
 ---
 
 # SPARK: Synergistic Policy And Reward Co-Evolving Framework

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AlignX: Advancing Multilingual Large Language Models with Multilingual Representation Alignment
+title: "AlignX: Advancing Multilingual Large Language Models with Multilingual Representation Alignment"
 ---
 
 # AlignX: Advancing Multilingual Large Language Models with Multilingual Representation Alignment

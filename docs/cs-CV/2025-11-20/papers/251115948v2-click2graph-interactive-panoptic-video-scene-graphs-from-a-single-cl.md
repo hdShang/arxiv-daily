@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Click2Graph: Interactive Panoptic Video Scene Graphs from a Single Click
+title: "Click2Graph: Interactive Panoptic Video Scene Graphs from a Single Click"
 ---
 
 # Click2Graph: Interactive Panoptic Video Scene Graphs from a Single Click

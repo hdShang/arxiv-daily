@@ -1,6 +1,6 @@
 ---
 layout: default
-title: pi-Flow: Policy-Based Few-Step Generation via Imitation Distillation
+title: "pi-Flow: Policy-Based Few-Step Generation via Imitation Distillation"
 ---
 
 # pi-Flow: Policy-Based Few-Step Generation via Imitation Distillation

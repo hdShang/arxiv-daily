@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FinMMR: Make Financial Numerical Reasoning More Multimodal, Comprehensive, and Challenging
+title: "FinMMR: Make Financial Numerical Reasoning More Multimodal, Comprehensive, and Challenging"
 ---
 
 # FinMMR: Make Financial Numerical Reasoning More Multimodal, Comprehensive, and Challenging

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PiCSAR: Probabilistic Confidence Selection And Ranking for Reasoning Chains
+title: "PiCSAR: Probabilistic Confidence Selection And Ranking for Reasoning Chains"
 ---
 
 # PiCSAR: Probabilistic Confidence Selection And Ranking for Reasoning Chains

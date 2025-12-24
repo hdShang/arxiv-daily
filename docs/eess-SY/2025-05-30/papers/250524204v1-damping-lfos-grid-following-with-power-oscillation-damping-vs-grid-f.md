@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Damping LFOs: Grid Following with Power Oscillation Damping vs. Grid Forming vs. PSS
+title: "Damping LFOs: Grid Following with Power Oscillation Damping vs. Grid Forming vs. PSS"
 ---
 
 # Damping LFOs: Grid Following with Power Oscillation Damping vs. Grid Forming vs. PSS

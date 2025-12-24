@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StoryWriter: A Multi-Agent Framework for Long Story Generation
+title: "StoryWriter: A Multi-Agent Framework for Long Story Generation"
 ---
 
 # StoryWriter: A Multi-Agent Framework for Long Story Generation

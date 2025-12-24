@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Logit-Gap Steering: Efficient Short-Suffix Jailbreaks for Aligned Large Language Models
+title: "Logit-Gap Steering: Efficient Short-Suffix Jailbreaks for Aligned Large Language Models"
 ---
 
 # Logit-Gap Steering: Efficient Short-Suffix Jailbreaks for Aligned Large Language Models

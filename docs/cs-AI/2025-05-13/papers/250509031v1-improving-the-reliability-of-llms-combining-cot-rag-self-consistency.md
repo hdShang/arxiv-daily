@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Improving the Reliability of LLMs: Combining CoT, RAG, Self-Consistency, and Self-Verification
+title: "Improving the Reliability of LLMs: Combining CoT, RAG, Self-Consistency, and Self-Verification"
 ---
 
 # Improving the Reliability of LLMs: Combining CoT, RAG, Self-Consistency, and Self-Verification

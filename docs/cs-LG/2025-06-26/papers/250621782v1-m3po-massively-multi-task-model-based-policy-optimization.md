@@ -1,6 +1,6 @@
 ---
 layout: default
-title: M3PO: Massively Multi-Task Model-Based Policy Optimization
+title: "M3PO: Massively Multi-Task Model-Based Policy Optimization"
 ---
 
 # M3PO: Massively Multi-Task Model-Based Policy Optimization

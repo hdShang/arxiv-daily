@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GENUINE: Graph Enhanced Multi-level Uncertainty Estimation for Large Language Models
+title: "GENUINE: Graph Enhanced Multi-level Uncertainty Estimation for Large Language Models"
 ---
 
 # GENUINE: Graph Enhanced Multi-level Uncertainty Estimation for Large Language Models

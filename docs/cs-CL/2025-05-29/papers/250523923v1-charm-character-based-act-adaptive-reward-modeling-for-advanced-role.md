@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ChARM: Character-based Act-adaptive Reward Modeling for Advanced Role-Playing Language Agents
+title: "ChARM: Character-based Act-adaptive Reward Modeling for Advanced Role-Playing Language Agents"
 ---
 
 # ChARM: Character-based Act-adaptive Reward Modeling for Advanced Role-Playing Language Agents

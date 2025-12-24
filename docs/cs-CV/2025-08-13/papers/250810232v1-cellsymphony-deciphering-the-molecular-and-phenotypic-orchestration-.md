@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CellSymphony: Deciphering the molecular and phenotypic orchestration of cells with single-cell pathomics
+title: "CellSymphony: Deciphering the molecular and phenotypic orchestration of cells with single-cell pathomics"
 ---
 
 # CellSymphony: Deciphering the molecular and phenotypic orchestration of cells with single-cell pathomics

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SV-LLM: An Agentic Approach for SoC Security Verification using Large Language Models
+title: "SV-LLM: An Agentic Approach for SoC Security Verification using Large Language Models"
 ---
 
 # SV-LLM: An Agentic Approach for SoC Security Verification using Large Language Models

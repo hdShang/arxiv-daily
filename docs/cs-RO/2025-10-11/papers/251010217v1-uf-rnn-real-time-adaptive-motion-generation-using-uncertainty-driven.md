@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UF-RNN: Real-Time Adaptive Motion Generation Using Uncertainty-Driven Foresight Prediction
+title: "UF-RNN: Real-Time Adaptive Motion Generation Using Uncertainty-Driven Foresight Prediction"
 ---
 
 # UF-RNN: Real-Time Adaptive Motion Generation Using Uncertainty-Driven Foresight Prediction

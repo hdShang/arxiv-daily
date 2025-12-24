@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DGM4+: Dataset Extension for Global Scene Inconsistency
+title: "DGM4+: Dataset Extension for Global Scene Inconsistency"
 ---
 
 # DGM4+: Dataset Extension for Global Scene Inconsistency

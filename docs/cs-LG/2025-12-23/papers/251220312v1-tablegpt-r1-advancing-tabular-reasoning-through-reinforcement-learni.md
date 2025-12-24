@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TableGPT-R1: Advancing Tabular Reasoning Through Reinforcement Learning
+title: "TableGPT-R1: Advancing Tabular Reasoning Through Reinforcement Learning"
 ---
 
 # TableGPT-R1: Advancing Tabular Reasoning Through Reinforcement Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: M3PO: Multimodal-Model-Guided Preference Optimization for Visual Instruction Following
+title: "M3PO: Multimodal-Model-Guided Preference Optimization for Visual Instruction Following"
 ---
 
 # M3PO: Multimodal-Model-Guided Preference Optimization for Visual Instruction Following

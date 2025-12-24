@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HGACNet: Hierarchical Graph Attention Network for Cross-Modal Point Cloud Completion
+title: "HGACNet: Hierarchical Graph Attention Network for Cross-Modal Point Cloud Completion"
 ---
 
 # HGACNet: Hierarchical Graph Attention Network for Cross-Modal Point Cloud Completion

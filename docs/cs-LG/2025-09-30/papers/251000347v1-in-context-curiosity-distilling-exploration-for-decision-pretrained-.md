@@ -1,6 +1,6 @@
 ---
 layout: default
-title: In-Context Curiosity: Distilling Exploration for Decision-Pretrained Transformers on Bandit Tasks
+title: "In-Context Curiosity: Distilling Exploration for Decision-Pretrained Transformers on Bandit Tasks"
 ---
 
 # In-Context Curiosity: Distilling Exploration for Decision-Pretrained Transformers on Bandit Tasks

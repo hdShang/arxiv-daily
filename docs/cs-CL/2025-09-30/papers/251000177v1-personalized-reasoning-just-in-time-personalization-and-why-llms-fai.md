@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Personalized Reasoning: Just-In-Time Personalization and Why LLMs Fail At It
+title: "Personalized Reasoning: Just-In-Time Personalization and Why LLMs Fail At It"
 ---
 
 # Personalized Reasoning: Just-In-Time Personalization and Why LLMs Fail At It

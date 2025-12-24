@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformer
+title: "Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformer"
 ---
 
 # Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformer

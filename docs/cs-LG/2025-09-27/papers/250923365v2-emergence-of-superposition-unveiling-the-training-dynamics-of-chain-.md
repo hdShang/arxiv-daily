@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Emergence of Superposition: Unveiling the Training Dynamics of Chain of Continuous Thought
+title: "Emergence of Superposition: Unveiling the Training Dynamics of Chain of Continuous Thought"
 ---
 
 # Emergence of Superposition: Unveiling the Training Dynamics of Chain of Continuous Thought

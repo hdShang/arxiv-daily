@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Voyager: Real-Time Splatting City-Scale Gaussians on Resource-Constrained Devices
+title: "Voyager: Real-Time Splatting City-Scale Gaussians on Resource-Constrained Devices"
 ---
 
 # Voyager: Real-Time Splatting City-Scale Gaussians on Resource-Constrained Devices

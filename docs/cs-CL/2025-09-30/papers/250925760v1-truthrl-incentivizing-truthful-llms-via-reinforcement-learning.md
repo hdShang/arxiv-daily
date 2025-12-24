@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TruthRL: Incentivizing Truthful LLMs via Reinforcement Learning
+title: "TruthRL: Incentivizing Truthful LLMs via Reinforcement Learning"
 ---
 
 # TruthRL: Incentivizing Truthful LLMs via Reinforcement Learning

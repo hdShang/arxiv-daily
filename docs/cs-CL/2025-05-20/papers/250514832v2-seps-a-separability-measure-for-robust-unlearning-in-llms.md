@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SEPS: A Separability Measure for Robust Unlearning in LLMs
+title: "SEPS: A Separability Measure for Robust Unlearning in LLMs"
 ---
 
 # SEPS: A Separability Measure for Robust Unlearning in LLMs

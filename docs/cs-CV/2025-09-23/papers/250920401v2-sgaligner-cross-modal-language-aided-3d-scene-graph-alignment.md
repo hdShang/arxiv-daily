@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SGAligner++: Cross-Modal Language-Aided 3D Scene Graph Alignment
+title: "SGAligner++: Cross-Modal Language-Aided 3D Scene Graph Alignment"
 ---
 
 # SGAligner++: Cross-Modal Language-Aided 3D Scene Graph Alignment

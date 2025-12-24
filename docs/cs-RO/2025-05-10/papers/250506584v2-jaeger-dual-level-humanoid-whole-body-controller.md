@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JAEGER: Dual-Level Humanoid Whole-Body Controller
+title: "JAEGER: Dual-Level Humanoid Whole-Body Controller"
 ---
 
 # JAEGER: Dual-Level Humanoid Whole-Body Controller

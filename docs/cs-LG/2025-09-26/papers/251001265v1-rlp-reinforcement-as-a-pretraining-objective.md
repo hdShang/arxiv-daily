@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RLP: Reinforcement as a Pretraining Objective
+title: "RLP: Reinforcement as a Pretraining Objective"
 ---
 
 # RLP: Reinforcement as a Pretraining Objective

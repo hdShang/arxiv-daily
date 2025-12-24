@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MambaScope: Coarse-to-Fine Scoping for Efficient Vision Mamba
+title: "MambaScope: Coarse-to-Fine Scoping for Efficient Vision Mamba"
 ---
 
 # MambaScope: Coarse-to-Fine Scoping for Efficient Vision Mamba

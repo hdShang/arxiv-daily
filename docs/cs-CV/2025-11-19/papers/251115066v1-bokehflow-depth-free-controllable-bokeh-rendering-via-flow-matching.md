@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BokehFlow: Depth-Free Controllable Bokeh Rendering via Flow Matching
+title: "BokehFlow: Depth-Free Controllable Bokeh Rendering via Flow Matching"
 ---
 
 # BokehFlow: Depth-Free Controllable Bokeh Rendering via Flow Matching

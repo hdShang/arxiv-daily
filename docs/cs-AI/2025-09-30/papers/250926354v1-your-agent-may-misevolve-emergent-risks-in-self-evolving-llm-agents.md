@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents
+title: "Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents"
 ---
 
 # Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents

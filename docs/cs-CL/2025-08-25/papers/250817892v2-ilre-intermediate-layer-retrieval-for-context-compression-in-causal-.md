@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ILRe: Intermediate Layer Retrieval for Context Compression in Causal Language Models
+title: "ILRe: Intermediate Layer Retrieval for Context Compression in Causal Language Models"
 ---
 
 # ILRe: Intermediate Layer Retrieval for Context Compression in Causal Language Models

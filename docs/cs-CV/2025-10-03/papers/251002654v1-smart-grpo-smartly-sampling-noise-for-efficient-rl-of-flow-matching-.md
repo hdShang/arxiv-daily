@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Smart-GRPO: Smartly Sampling Noise for Efficient RL of Flow-Matching Models
+title: "Smart-GRPO: Smartly Sampling Noise for Efficient RL of Flow-Matching Models"
 ---
 
 # Smart-GRPO: Smartly Sampling Noise for Efficient RL of Flow-Matching Models

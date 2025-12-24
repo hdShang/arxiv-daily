@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI Pedagogy: Dialogic Social Learning for Artificial Agents
+title: "AI Pedagogy: Dialogic Social Learning for Artificial Agents"
 ---
 
 # AI Pedagogy: Dialogic Social Learning for Artificial Agents

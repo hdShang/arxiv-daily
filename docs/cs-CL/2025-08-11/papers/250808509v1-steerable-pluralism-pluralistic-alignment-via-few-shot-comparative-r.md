@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Steerable Pluralism: Pluralistic Alignment via Few-Shot Comparative Regression
+title: "Steerable Pluralism: Pluralistic Alignment via Few-Shot Comparative Regression"
 ---
 
 # Steerable Pluralism: Pluralistic Alignment via Few-Shot Comparative Regression

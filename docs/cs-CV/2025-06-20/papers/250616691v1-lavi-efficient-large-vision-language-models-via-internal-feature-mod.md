@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LaVi: Efficient Large Vision-Language Models via Internal Feature Modulation
+title: "LaVi: Efficient Large Vision-Language Models via Internal Feature Modulation"
 ---
 
 # LaVi: Efficient Large Vision-Language Models via Internal Feature Modulation

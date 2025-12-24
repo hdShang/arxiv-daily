@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Ideation-Execution Gap: Execution Outcomes of LLM-Generated versus Human Research Ideas
+title: "The Ideation-Execution Gap: Execution Outcomes of LLM-Generated versus Human Research Ideas"
 ---
 
 # The Ideation-Execution Gap: Execution Outcomes of LLM-Generated versus Human Research Ideas

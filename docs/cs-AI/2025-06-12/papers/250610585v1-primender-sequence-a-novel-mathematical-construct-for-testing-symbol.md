@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Primender Sequence: A Novel Mathematical Construct for Testing Symbolic Inference and AI Reasoning
+title: "Primender Sequence: A Novel Mathematical Construct for Testing Symbolic Inference and AI Reasoning"
 ---
 
 # Primender Sequence: A Novel Mathematical Construct for Testing Symbolic Inference and AI Reasoning

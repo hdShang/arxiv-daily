@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Static Perception: Integrating Temporal Context into VLMs for Cloth Folding
+title: "Beyond Static Perception: Integrating Temporal Context into VLMs for Cloth Folding"
 ---
 
 # Beyond Static Perception: Integrating Temporal Context into VLMs for Cloth Folding

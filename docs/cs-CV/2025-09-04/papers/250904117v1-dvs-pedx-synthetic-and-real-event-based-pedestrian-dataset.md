@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DVS-PedX: Synthetic-and-Real Event-Based Pedestrian Dataset
+title: "DVS-PedX: Synthetic-and-Real Event-Based Pedestrian Dataset"
 ---
 
 # DVS-PedX: Synthetic-and-Real Event-Based Pedestrian Dataset

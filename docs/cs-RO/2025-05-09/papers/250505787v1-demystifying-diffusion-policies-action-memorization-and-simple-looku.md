@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Demystifying Diffusion Policies: Action Memorization and Simple Lookup Table Alternatives
+title: "Demystifying Diffusion Policies: Action Memorization and Simple Lookup Table Alternatives"
 ---
 
 # Demystifying Diffusion Policies: Action Memorization and Simple Lookup Table Alternatives

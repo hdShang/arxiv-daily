@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VideoRewardBench: Comprehensive Evaluation of Multimodal Reward Models for Video Understanding
+title: "VideoRewardBench: Comprehensive Evaluation of Multimodal Reward Models for Video Understanding"
 ---
 
 # VideoRewardBench: Comprehensive Evaluation of Multimodal Reward Models for Video Understanding

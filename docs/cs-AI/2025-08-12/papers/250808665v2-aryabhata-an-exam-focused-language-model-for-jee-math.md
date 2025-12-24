@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aryabhata: An exam-focused language model for JEE Math
+title: "Aryabhata: An exam-focused language model for JEE Math"
 ---
 
 # Aryabhata: An exam-focused language model for JEE Math

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GigaWorld-0: World Models as Data Engine to Empower Embodied AI
+title: "GigaWorld-0: World Models as Data Engine to Empower Embodied AI"
 ---
 
 # GigaWorld-0: World Models as Data Engine to Empower Embodied AI

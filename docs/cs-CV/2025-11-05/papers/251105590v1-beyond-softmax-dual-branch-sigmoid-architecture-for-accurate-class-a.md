@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Softmax: Dual-Branch Sigmoid Architecture for Accurate Class Activation Maps
+title: "Beyond Softmax: Dual-Branch Sigmoid Architecture for Accurate Class Activation Maps"
 ---
 
 # Beyond Softmax: Dual-Branch Sigmoid Architecture for Accurate Class Activation Maps

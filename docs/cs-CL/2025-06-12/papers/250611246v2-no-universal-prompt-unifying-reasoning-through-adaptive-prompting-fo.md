@@ -1,6 +1,6 @@
 ---
 layout: default
-title: No Universal Prompt: Unifying Reasoning through Adaptive Prompting for Temporal Table Reasoning
+title: "No Universal Prompt: Unifying Reasoning through Adaptive Prompting for Temporal Table Reasoning"
 ---
 
 # No Universal Prompt: Unifying Reasoning through Adaptive Prompting for Temporal Table Reasoning

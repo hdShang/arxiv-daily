@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LETToT: Label-Free Evaluation of Large Language Models On Tourism Using Expert Tree-of-Thought
+title: "LETToT: Label-Free Evaluation of Large Language Models On Tourism Using Expert Tree-of-Thought"
 ---
 
 # LETToT: Label-Free Evaluation of Large Language Models On Tourism Using Expert Tree-of-Thought

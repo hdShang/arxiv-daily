@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SurveyGen-I: Consistent Scientific Survey Generation with Evolving Plans and Memory-Guided Writing
+title: "SurveyGen-I: Consistent Scientific Survey Generation with Evolving Plans and Memory-Guided Writing"
 ---
 
 # SurveyGen-I: Consistent Scientific Survey Generation with Evolving Plans and Memory-Guided Writing

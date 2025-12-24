@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CAMF: Collaborative Adversarial Multi-agent Framework for Machine Generated Text Detection
+title: "CAMF: Collaborative Adversarial Multi-agent Framework for Machine Generated Text Detection"
 ---
 
 # CAMF: Collaborative Adversarial Multi-agent Framework for Machine Generated Text Detection

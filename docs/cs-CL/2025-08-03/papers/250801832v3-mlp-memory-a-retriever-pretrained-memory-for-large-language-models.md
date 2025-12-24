@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MLP Memory: A Retriever-Pretrained Memory for Large Language Models
+title: "MLP Memory: A Retriever-Pretrained Memory for Large Language Models"
 ---
 
 # MLP Memory: A Retriever-Pretrained Memory for Large Language Models

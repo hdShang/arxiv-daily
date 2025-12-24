@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EvoCAD: Evolutionary CAD Code Generation with Vision Language Models
+title: "EvoCAD: Evolutionary CAD Code Generation with Vision Language Models"
 ---
 
 # EvoCAD: Evolutionary CAD Code Generation with Vision Language Models

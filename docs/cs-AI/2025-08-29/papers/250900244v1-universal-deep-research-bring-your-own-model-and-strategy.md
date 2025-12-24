@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Universal Deep Research: Bring Your Own Model and Strategy
+title: "Universal Deep Research: Bring Your Own Model and Strategy"
 ---
 
 # Universal Deep Research: Bring Your Own Model and Strategy

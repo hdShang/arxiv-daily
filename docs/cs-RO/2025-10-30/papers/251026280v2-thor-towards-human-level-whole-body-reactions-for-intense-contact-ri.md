@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thor: Towards Human-Level Whole-Body Reactions for Intense Contact-Rich Environments
+title: "Thor: Towards Human-Level Whole-Body Reactions for Intense Contact-Rich Environments"
 ---
 
 # Thor: Towards Human-Level Whole-Body Reactions for Intense Contact-Rich Environments

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion
+title: "One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion"
 ---
 
 # One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GRAIL: Graph Edit Distance and Node Alignment Using LLM-Generated Code
+title: "GRAIL: Graph Edit Distance and Node Alignment Using LLM-Generated Code"
 ---
 
 # GRAIL: Graph Edit Distance and Node Alignment Using LLM-Generated Code

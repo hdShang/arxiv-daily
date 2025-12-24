@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Combining Bayesian Inference and Reinforcement Learning for Agent Decision Making: A Review
+title: "Combining Bayesian Inference and Reinforcement Learning for Agent Decision Making: A Review"
 ---
 
 # Combining Bayesian Inference and Reinforcement Learning for Agent Decision Making: A Review

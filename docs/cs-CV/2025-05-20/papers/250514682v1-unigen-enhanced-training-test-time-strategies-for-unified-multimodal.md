@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation
+title: "UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation"
 ---
 
 # UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation

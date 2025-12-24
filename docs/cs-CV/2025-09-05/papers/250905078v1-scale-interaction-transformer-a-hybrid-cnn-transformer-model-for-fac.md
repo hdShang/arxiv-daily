@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scale-interaction transformer: a hybrid cnn-transformer model for facial beauty prediction
+title: "Scale-interaction transformer: a hybrid cnn-transformer model for facial beauty prediction"
 ---
 
 # Scale-interaction transformer: a hybrid cnn-transformer model for facial beauty prediction

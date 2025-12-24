@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Behavioural Classification in C. elegans: a Spatio-Temporal Analysis of Locomotion
+title: "Behavioural Classification in C. elegans: a Spatio-Temporal Analysis of Locomotion"
 ---
 
 # Behavioural Classification in C. elegans: a Spatio-Temporal Analysis of Locomotion

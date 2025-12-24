@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Long to Lean: Performance-aware and Adaptive Chain-of-Thought Compression via Multi-round Refinement
+title: "From Long to Lean: Performance-aware and Adaptive Chain-of-Thought Compression via Multi-round Refinement"
 ---
 
 # From Long to Lean: Performance-aware and Adaptive Chain-of-Thought Compression via Multi-round Refinement

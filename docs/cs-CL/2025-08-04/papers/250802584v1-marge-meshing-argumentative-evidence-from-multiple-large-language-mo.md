@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MArgE: Meshing Argumentative Evidence from Multiple Large Language Models for Justifiable Claim Verification
+title: "MArgE: Meshing Argumentative Evidence from Multiple Large Language Models for Justifiable Claim Verification"
 ---
 
 # MArgE: Meshing Argumentative Evidence from Multiple Large Language Models for Justifiable Claim Verification

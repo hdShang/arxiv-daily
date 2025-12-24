@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Generative AI Against Poaching: Latent Composite Flow Matching for Wildlife Conservation
+title: "Generative AI Against Poaching: Latent Composite Flow Matching for Wildlife Conservation"
 ---
 
 # Generative AI Against Poaching: Latent Composite Flow Matching for Wildlife Conservation

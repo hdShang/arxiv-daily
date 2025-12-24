@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence
+title: "Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence"
 ---
 
 # Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence

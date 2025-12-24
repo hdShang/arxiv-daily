@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BAQ: Efficient Bit Allocation Quantization for Large Language Models
+title: "BAQ: Efficient Bit Allocation Quantization for Large Language Models"
 ---
 
 # BAQ: Efficient Bit Allocation Quantization for Large Language Models

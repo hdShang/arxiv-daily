@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching
+title: "NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching"
 ---
 
 # NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching

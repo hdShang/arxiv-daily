@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LightAgent: Production-level Open-source Agentic AI Framework
+title: "LightAgent: Production-level Open-source Agentic AI Framework"
 ---
 
 # LightAgent: Production-level Open-source Agentic AI Framework

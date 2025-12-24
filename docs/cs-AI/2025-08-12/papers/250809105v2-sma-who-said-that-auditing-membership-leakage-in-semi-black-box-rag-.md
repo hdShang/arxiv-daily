@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling
+title: "SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling"
 ---
 
 # SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling

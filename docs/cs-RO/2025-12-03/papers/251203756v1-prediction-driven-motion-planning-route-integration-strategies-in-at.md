@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prediction-Driven Motion Planning: Route Integration Strategies in Attention-Based Prediction Models
+title: "Prediction-Driven Motion Planning: Route Integration Strategies in Attention-Based Prediction Models"
 ---
 
 # Prediction-Driven Motion Planning: Route Integration Strategies in Attention-Based Prediction Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HEAL: A Hypothesis-Based Preference-Aware Analysis Framework
+title: "HEAL: A Hypothesis-Based Preference-Aware Analysis Framework"
 ---
 
 # HEAL: A Hypothesis-Based Preference-Aware Analysis Framework

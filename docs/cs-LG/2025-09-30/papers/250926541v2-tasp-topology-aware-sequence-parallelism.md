@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TASP: Topology-aware Sequence Parallelism
+title: "TASP: Topology-aware Sequence Parallelism"
 ---
 
 # TASP: Topology-aware Sequence Parallelism

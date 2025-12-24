@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Agentomics-ML: Autonomous Machine Learning Experimentation Agent for Genomic and Transcriptomic Data
+title: "Agentomics-ML: Autonomous Machine Learning Experimentation Agent for Genomic and Transcriptomic Data"
 ---
 
 # Agentomics-ML: Autonomous Machine Learning Experimentation Agent for Genomic and Transcriptomic Data

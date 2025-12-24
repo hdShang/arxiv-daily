@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AutoMathKG: The automated mathematical knowledge graph based on LLM and vector database
+title: "AutoMathKG: The automated mathematical knowledge graph based on LLM and vector database"
 ---
 
 # AutoMathKG: The automated mathematical knowledge graph based on LLM and vector database

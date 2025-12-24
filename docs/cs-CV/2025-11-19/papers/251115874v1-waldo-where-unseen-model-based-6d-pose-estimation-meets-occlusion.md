@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WALDO: Where Unseen Model-based 6D Pose Estimation Meets Occlusion
+title: "WALDO: Where Unseen Model-based 6D Pose Estimation Meets Occlusion"
 ---
 
 # WALDO: Where Unseen Model-based 6D Pose Estimation Meets Occlusion

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OpenGuide: Assistive Object Retrieval in Indoor Spaces for Individuals with Visual Impairments
+title: "OpenGuide: Assistive Object Retrieval in Indoor Spaces for Individuals with Visual Impairments"
 ---
 
 # OpenGuide: Assistive Object Retrieval in Indoor Spaces for Individuals with Visual Impairments

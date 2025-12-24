@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation
+title: "VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation"
 ---
 
 # VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation

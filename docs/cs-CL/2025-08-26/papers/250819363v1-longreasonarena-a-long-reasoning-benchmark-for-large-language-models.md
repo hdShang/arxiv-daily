@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LongReasonArena: A Long Reasoning Benchmark for Large Language Models
+title: "LongReasonArena: A Long Reasoning Benchmark for Large Language Models"
 ---
 
 # LongReasonArena: A Long Reasoning Benchmark for Large Language Models

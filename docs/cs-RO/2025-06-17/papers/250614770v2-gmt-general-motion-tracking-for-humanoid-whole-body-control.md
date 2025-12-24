@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GMT: General Motion Tracking for Humanoid Whole-Body Control
+title: "GMT: General Motion Tracking for Humanoid Whole-Body Control"
 ---
 
 # GMT: General Motion Tracking for Humanoid Whole-Body Control

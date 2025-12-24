@@ -1,6 +1,6 @@
 ---
 layout: default
-title: STARec: An Efficient Agent Framework for Recommender Systems via Autonomous Deliberate Reasoning
+title: "STARec: An Efficient Agent Framework for Recommender Systems via Autonomous Deliberate Reasoning"
 ---
 
 # STARec: An Efficient Agent Framework for Recommender Systems via Autonomous Deliberate Reasoning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mind the Quote: Enabling Quotation-Aware Dialogue in LLMs via Plug-and-Play Modules
+title: "Mind the Quote: Enabling Quotation-Aware Dialogue in LLMs via Plug-and-Play Modules"
 ---
 
 # Mind the Quote: Enabling Quotation-Aware Dialogue in LLMs via Plug-and-Play Modules

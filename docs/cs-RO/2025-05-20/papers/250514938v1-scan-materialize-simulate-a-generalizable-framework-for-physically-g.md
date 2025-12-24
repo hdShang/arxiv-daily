@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scan, Materialize, Simulate: A Generalizable Framework for Physically Grounded Robot Planning
+title: "Scan, Materialize, Simulate: A Generalizable Framework for Physically Grounded Robot Planning"
 ---
 
 # Scan, Materialize, Simulate: A Generalizable Framework for Physically Grounded Robot Planning

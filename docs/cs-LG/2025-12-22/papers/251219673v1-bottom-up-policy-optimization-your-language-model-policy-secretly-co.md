@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies
+title: "Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies"
 ---
 
 # Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies

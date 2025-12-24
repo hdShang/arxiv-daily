@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Humanizing Machines: Rethinking LLM Anthropomorphism Through a Multi-Level Framework of Design
+title: "Humanizing Machines: Rethinking LLM Anthropomorphism Through a Multi-Level Framework of Design"
 ---
 
 # Humanizing Machines: Rethinking LLM Anthropomorphism Through a Multi-Level Framework of Design

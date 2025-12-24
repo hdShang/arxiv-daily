@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DiWA: Diffusion Policy Adaptation with World Models
+title: "DiWA: Diffusion Policy Adaptation with World Models"
 ---
 
 # DiWA: Diffusion Policy Adaptation with World Models

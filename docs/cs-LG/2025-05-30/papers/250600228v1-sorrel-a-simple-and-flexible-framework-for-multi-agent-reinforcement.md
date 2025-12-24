@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sorrel: A simple and flexible framework for multi-agent reinforcement learning
+title: "Sorrel: A simple and flexible framework for multi-agent reinforcement learning"
 ---
 
 # Sorrel: A simple and flexible framework for multi-agent reinforcement learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SRT-H: A Hierarchical Framework for Autonomous Surgery via Language Conditioned Imitation Learning
+title: "SRT-H: A Hierarchical Framework for Autonomous Surgery via Language Conditioned Imitation Learning"
 ---
 
 # SRT-H: A Hierarchical Framework for Autonomous Surgery via Language Conditioned Imitation Learning

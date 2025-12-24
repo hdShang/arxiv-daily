@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Taxonomy and Trends in Reinforcement Learning for Robotics and Control Systems: A Structured Review
+title: "Taxonomy and Trends in Reinforcement Learning for Robotics and Control Systems: A Structured Review"
 ---
 
 # Taxonomy and Trends in Reinforcement Learning for Robotics and Control Systems: A Structured Review

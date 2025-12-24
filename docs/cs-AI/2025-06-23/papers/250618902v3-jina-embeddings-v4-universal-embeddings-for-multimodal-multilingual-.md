@@ -1,6 +1,6 @@
 ---
 layout: default
-title: jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval
+title: "jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval"
 ---
 
 # jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval

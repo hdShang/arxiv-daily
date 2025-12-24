@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ControlVLA: Few-shot Object-centric Adaptation for Pre-trained Vision-Language-Action Models
+title: "ControlVLA: Few-shot Object-centric Adaptation for Pre-trained Vision-Language-Action Models"
 ---
 
 # ControlVLA: Few-shot Object-centric Adaptation for Pre-trained Vision-Language-Action Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free
+title: "Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free"
 ---
 
 # Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free

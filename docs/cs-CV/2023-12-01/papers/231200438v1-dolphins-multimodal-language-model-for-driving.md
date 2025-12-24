@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dolphins: Multimodal Language Model for Driving
+title: "Dolphins: Multimodal Language Model for Driving"
 ---
 
 # Dolphins: Multimodal Language Model for Driving

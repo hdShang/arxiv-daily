@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cyber Humanism in Education: Reclaiming Agency through AI and Learning Sciences
+title: "Cyber Humanism in Education: Reclaiming Agency through AI and Learning Sciences"
 ---
 
 # Cyber Humanism in Education: Reclaiming Agency through AI and Learning Sciences

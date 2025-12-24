@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Automating Iconclass: LLMs and RAG for Large-Scale Classification of Religious Woodcuts
+title: "Automating Iconclass: LLMs and RAG for Large-Scale Classification of Religious Woodcuts"
 ---
 
 # Automating Iconclass: LLMs and RAG for Large-Scale Classification of Religious Woodcuts

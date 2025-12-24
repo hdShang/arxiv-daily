@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When Planners Meet Reality: How Learned, Reactive Traffic Agents Shift nuPlan Benchmarks
+title: "When Planners Meet Reality: How Learned, Reactive Traffic Agents Shift nuPlan Benchmarks"
 ---
 
 # When Planners Meet Reality: How Learned, Reactive Traffic Agents Shift nuPlan Benchmarks

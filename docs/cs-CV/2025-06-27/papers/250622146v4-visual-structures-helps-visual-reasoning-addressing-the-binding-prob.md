@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visual Structures Helps Visual Reasoning: Addressing the Binding Problem in VLMs
+title: "Visual Structures Helps Visual Reasoning: Addressing the Binding Problem in VLMs"
 ---
 
 # Visual Structures Helps Visual Reasoning: Addressing the Binding Problem in VLMs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MovSemCL: Movement-Semantics Contrastive Learning for Trajectory Similarity
+title: "MovSemCL: Movement-Semantics Contrastive Learning for Trajectory Similarity"
 ---
 
 # MovSemCL: Movement-Semantics Contrastive Learning for Trajectory Similarity

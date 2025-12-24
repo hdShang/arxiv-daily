@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DreamOmni2: Multimodal Instruction-based Editing and Generation
+title: "DreamOmni2: Multimodal Instruction-based Editing and Generation"
 ---
 
 # DreamOmni2: Multimodal Instruction-based Editing and Generation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StereoWorld: Geometry-Aware Monocular-to-Stereo Video Generation
+title: "StereoWorld: Geometry-Aware Monocular-to-Stereo Video Generation"
 ---
 
 # StereoWorld: Geometry-Aware Monocular-to-Stereo Video Generation

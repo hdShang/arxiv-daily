@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unsupervised Learning for Industrial Defect Detection: A Case Study on Shearographic Data
+title: "Unsupervised Learning for Industrial Defect Detection: A Case Study on Shearographic Data"
 ---
 
 # Unsupervised Learning for Industrial Defect Detection: A Case Study on Shearographic Data

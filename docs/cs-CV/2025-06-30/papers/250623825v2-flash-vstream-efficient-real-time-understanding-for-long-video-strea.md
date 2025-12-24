@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Flash-VStream: Efficient Real-Time Understanding for Long Video Streams
+title: "Flash-VStream: Efficient Real-Time Understanding for Long Video Streams"
 ---
 
 # Flash-VStream: Efficient Real-Time Understanding for Long Video Streams

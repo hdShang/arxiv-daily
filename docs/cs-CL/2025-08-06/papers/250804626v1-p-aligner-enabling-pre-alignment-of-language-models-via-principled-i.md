@@ -1,6 +1,6 @@
 ---
 layout: default
-title: P-Aligner: Enabling Pre-Alignment of Language Models via Principled Instruction Synthesis
+title: "P-Aligner: Enabling Pre-Alignment of Language Models via Principled Instruction Synthesis"
 ---
 
 # P-Aligner: Enabling Pre-Alignment of Language Models via Principled Instruction Synthesis

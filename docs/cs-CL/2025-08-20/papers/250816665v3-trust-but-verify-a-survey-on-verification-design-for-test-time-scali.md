@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trust but Verify! A Survey on Verification Design for Test-time Scaling
+title: "Trust but Verify! A Survey on Verification Design for Test-time Scaling"
 ---
 
 # Trust but Verify! A Survey on Verification Design for Test-time Scaling

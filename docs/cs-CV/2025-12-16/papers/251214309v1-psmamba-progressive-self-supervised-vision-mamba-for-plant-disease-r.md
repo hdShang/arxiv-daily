@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PSMamba: Progressive Self-supervised Vision Mamba for Plant Disease Recognition
+title: "PSMamba: Progressive Self-supervised Vision Mamba for Plant Disease Recognition"
 ---
 
 # PSMamba: Progressive Self-supervised Vision Mamba for Plant Disease Recognition

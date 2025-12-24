@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ExEBench: Benchmarking Foundation Models on Extreme Earth Events
+title: "ExEBench: Benchmarking Foundation Models on Extreme Earth Events"
 ---
 
 # ExEBench: Benchmarking Foundation Models on Extreme Earth Events

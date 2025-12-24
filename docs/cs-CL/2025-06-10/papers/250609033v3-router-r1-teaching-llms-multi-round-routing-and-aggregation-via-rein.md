@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning
+title: "Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning"
 ---
 
 # Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning

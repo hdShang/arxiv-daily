@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HORUS: A Mixed Reality Interface for Managing Teams of Mobile Robots
+title: "HORUS: A Mixed Reality Interface for Managing Teams of Mobile Robots"
 ---
 
 # HORUS: A Mixed Reality Interface for Managing Teams of Mobile Robots

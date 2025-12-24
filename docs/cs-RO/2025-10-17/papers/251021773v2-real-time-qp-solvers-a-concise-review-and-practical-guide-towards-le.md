@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Real-Time QP Solvers: A Concise Review and Practical Guide Towards Legged Robots
+title: "Real-Time QP Solvers: A Concise Review and Practical Guide Towards Legged Robots"
 ---
 
 # Real-Time QP Solvers: A Concise Review and Practical Guide Towards Legged Robots

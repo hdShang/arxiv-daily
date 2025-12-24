@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fine-Grained Uncertainty Decomposition in Large Language Models: A Spectral Approach
+title: "Fine-Grained Uncertainty Decomposition in Large Language Models: A Spectral Approach"
 ---
 
 # Fine-Grained Uncertainty Decomposition in Large Language Models: A Spectral Approach

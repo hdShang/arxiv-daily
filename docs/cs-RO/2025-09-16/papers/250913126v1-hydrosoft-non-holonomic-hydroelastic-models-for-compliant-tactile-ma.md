@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hydrosoft: Non-Holonomic Hydroelastic Models for Compliant Tactile Manipulation
+title: "Hydrosoft: Non-Holonomic Hydroelastic Models for Compliant Tactile Manipulation"
 ---
 
 # Hydrosoft: Non-Holonomic Hydroelastic Models for Compliant Tactile Manipulation

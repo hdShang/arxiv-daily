@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reflective Agreement: Combining Self-Mixture of Agents with a Sequence Tagger for Robust Event Extraction
+title: "Reflective Agreement: Combining Self-Mixture of Agents with a Sequence Tagger for Robust Event Extraction"
 ---
 
 # Reflective Agreement: Combining Self-Mixture of Agents with a Sequence Tagger for Robust Event Extraction

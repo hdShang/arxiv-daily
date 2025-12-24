@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DISCO: Disentangled Communication Steering for Large Language Models
+title: "DISCO: Disentangled Communication Steering for Large Language Models"
 ---
 
 # DISCO: Disentangled Communication Steering for Large Language Models

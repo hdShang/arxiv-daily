@@ -1,6 +1,6 @@
 ---
 layout: default
-title: It Depends: Resolving Referential Ambiguity in Minimal Contexts with Commonsense Knowledge
+title: "It Depends: Resolving Referential Ambiguity in Minimal Contexts with Commonsense Knowledge"
 ---
 
 # It Depends: Resolving Referential Ambiguity in Minimal Contexts with Commonsense Knowledge

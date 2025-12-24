@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ACT: Agentic Classification Tree
+title: "ACT: Agentic Classification Tree"
 ---
 
 # ACT: Agentic Classification Tree

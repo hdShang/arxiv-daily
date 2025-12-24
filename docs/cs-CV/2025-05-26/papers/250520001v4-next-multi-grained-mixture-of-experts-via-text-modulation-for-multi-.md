@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NEXT: Multi-Grained Mixture of Experts via Text-Modulation for Multi-Modal Object Re-Identification
+title: "NEXT: Multi-Grained Mixture of Experts via Text-Modulation for Multi-Modal Object Re-Identification"
 ---
 
 # NEXT: Multi-Grained Mixture of Experts via Text-Modulation for Multi-Modal Object Re-Identification

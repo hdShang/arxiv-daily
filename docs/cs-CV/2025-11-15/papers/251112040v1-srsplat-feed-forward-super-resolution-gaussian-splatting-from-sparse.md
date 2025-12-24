@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SRSplat: Feed-Forward Super-Resolution Gaussian Splatting from Sparse Multi-View Images
+title: "SRSplat: Feed-Forward Super-Resolution Gaussian Splatting from Sparse Multi-View Images"
 ---
 
 # SRSplat: Feed-Forward Super-Resolution Gaussian Splatting from Sparse Multi-View Images

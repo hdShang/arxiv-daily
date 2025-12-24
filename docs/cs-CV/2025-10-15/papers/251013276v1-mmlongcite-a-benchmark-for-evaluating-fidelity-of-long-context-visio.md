@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMLongCite: A Benchmark for Evaluating Fidelity of Long-Context Vision-Language Models
+title: "MMLongCite: A Benchmark for Evaluating Fidelity of Long-Context Vision-Language Models"
 ---
 
 # MMLongCite: A Benchmark for Evaluating Fidelity of Long-Context Vision-Language Models

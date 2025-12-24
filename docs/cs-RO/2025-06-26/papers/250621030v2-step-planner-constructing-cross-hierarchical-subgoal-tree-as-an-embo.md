@@ -1,6 +1,6 @@
 ---
 layout: default
-title: STEP Planner: Constructing cross-hierarchical subgoal tree as an embodied long-horizon task planner
+title: "STEP Planner: Constructing cross-hierarchical subgoal tree as an embodied long-horizon task planner"
 ---
 
 # STEP Planner: Constructing cross-hierarchical subgoal tree as an embodied long-horizon task planner

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Helios: A Foundational Language Model for Smart Energy Knowledge Reasoning and Application
+title: "Helios: A Foundational Language Model for Smart Energy Knowledge Reasoning and Application"
 ---
 
 # Helios: A Foundational Language Model for Smart Energy Knowledge Reasoning and Application

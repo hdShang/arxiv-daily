@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs
+title: "MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs"
 ---
 
 # MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs

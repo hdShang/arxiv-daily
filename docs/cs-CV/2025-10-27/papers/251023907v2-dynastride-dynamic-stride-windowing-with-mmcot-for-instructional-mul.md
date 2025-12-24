@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DynaStride: Dynamic Stride Windowing with MMCoT for Instructional Multi-Scene Captioning
+title: "DynaStride: Dynamic Stride Windowing with MMCoT for Instructional Multi-Scene Captioning"
 ---
 
 # DynaStride: Dynamic Stride Windowing with MMCoT for Instructional Multi-Scene Captioning

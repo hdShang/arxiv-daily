@@ -1,6 +1,6 @@
 ---
 layout: default
-title: S2J: Bridging the Gap Between Solving and Judging Ability in Generative Reward Models
+title: "S2J: Bridging the Gap Between Solving and Judging Ability in Generative Reward Models"
 ---
 
 # S2J: Bridging the Gap Between Solving and Judging Ability in Generative Reward Models

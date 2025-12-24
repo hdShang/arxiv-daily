@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ActionSink: Toward Precise Robot Manipulation with Dynamic Integration of Action Flow
+title: "ActionSink: Toward Precise Robot Manipulation with Dynamic Integration of Action Flow"
 ---
 
 # ActionSink: Toward Precise Robot Manipulation with Dynamic Integration of Action Flow

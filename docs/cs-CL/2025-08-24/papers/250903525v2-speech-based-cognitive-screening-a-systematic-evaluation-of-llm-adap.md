@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Speech-Based Cognitive Screening: A Systematic Evaluation of LLM Adaptation Strategies
+title: "Speech-Based Cognitive Screening: A Systematic Evaluation of LLM Adaptation Strategies"
 ---
 
 # Speech-Based Cognitive Screening: A Systematic Evaluation of LLM Adaptation Strategies

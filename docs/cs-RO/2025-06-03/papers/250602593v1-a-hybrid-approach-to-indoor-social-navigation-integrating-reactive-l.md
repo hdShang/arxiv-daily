@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Hybrid Approach to Indoor Social Navigation: Integrating Reactive Local Planning and Proactive Global Planning
+title: "A Hybrid Approach to Indoor Social Navigation: Integrating Reactive Local Planning and Proactive Global Planning"
 ---
 
 # A Hybrid Approach to Indoor Social Navigation: Integrating Reactive Local Planning and Proactive Global Planning

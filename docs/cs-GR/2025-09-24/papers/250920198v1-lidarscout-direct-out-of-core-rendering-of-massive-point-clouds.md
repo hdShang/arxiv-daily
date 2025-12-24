@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LidarScout: Direct Out-of-Core Rendering of Massive Point Clouds
+title: "LidarScout: Direct Out-of-Core Rendering of Massive Point Clouds"
 ---
 
 # LidarScout: Direct Out-of-Core Rendering of Massive Point Clouds

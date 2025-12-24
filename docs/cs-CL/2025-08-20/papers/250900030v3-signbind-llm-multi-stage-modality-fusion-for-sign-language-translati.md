@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SignBind-LLM: Multi-Stage Modality Fusion for Sign Language Translation
+title: "SignBind-LLM: Multi-Stage Modality Fusion for Sign Language Translation"
 ---
 
 # SignBind-LLM: Multi-Stage Modality Fusion for Sign Language Translation

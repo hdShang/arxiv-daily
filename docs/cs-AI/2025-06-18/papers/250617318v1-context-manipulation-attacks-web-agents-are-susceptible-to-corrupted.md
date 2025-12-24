@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Context manipulation attacks : Web agents are susceptible to corrupted memory
+title: "Context manipulation attacks : Web agents are susceptible to corrupted memory"
 ---
 
 # Context manipulation attacks : Web agents are susceptible to corrupted memory

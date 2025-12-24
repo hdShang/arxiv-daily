@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RT-Cache: Training-Free Retrieval for Real-Time Manipulation
+title: "RT-Cache: Training-Free Retrieval for Real-Time Manipulation"
 ---
 
 # RT-Cache: Training-Free Retrieval for Real-Time Manipulation

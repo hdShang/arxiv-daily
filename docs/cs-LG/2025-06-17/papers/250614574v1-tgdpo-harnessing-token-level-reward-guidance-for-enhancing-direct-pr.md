@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TGDPO: Harnessing Token-Level Reward Guidance for Enhancing Direct Preference Optimization
+title: "TGDPO: Harnessing Token-Level Reward Guidance for Enhancing Direct Preference Optimization"
 ---
 
 # TGDPO: Harnessing Token-Level Reward Guidance for Enhancing Direct Preference Optimization

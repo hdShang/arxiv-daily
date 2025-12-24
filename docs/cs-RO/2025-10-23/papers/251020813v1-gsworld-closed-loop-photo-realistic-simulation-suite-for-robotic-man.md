@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GSWorld: Closed-Loop Photo-Realistic Simulation Suite for Robotic Manipulation
+title: "GSWorld: Closed-Loop Photo-Realistic Simulation Suite for Robotic Manipulation"
 ---
 
 # GSWorld: Closed-Loop Photo-Realistic Simulation Suite for Robotic Manipulation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery
+title: "From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery"
 ---
 
 # From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery

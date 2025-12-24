@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SPOT: Sensing-augmented Trajectory Planning via Obstacle Threat Modeling
+title: "SPOT: Sensing-augmented Trajectory Planning via Obstacle Threat Modeling"
 ---
 
 # SPOT: Sensing-augmented Trajectory Planning via Obstacle Threat Modeling

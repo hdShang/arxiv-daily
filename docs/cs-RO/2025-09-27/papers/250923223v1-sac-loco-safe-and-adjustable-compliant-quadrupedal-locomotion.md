@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SAC-Loco: Safe and Adjustable Compliant Quadrupedal Locomotion
+title: "SAC-Loco: Safe and Adjustable Compliant Quadrupedal Locomotion"
 ---
 
 # SAC-Loco: Safe and Adjustable Compliant Quadrupedal Locomotion

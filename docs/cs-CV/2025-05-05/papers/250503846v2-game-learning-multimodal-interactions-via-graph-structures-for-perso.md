@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GAME: Learning Multimodal Interactions via Graph Structures for Personality Trait Estimation
+title: "GAME: Learning Multimodal Interactions via Graph Structures for Personality Trait Estimation"
 ---
 
 # GAME: Learning Multimodal Interactions via Graph Structures for Personality Trait Estimation

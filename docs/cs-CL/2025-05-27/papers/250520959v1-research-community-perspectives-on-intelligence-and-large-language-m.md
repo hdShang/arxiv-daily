@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research Community Perspectives on "Intelligence" and Large Language Models
+title: "Research Community Perspectives on \"Intelligence\" and Large Language Models"
 ---
 
 # Research Community Perspectives on "Intelligence" and Large Language Models

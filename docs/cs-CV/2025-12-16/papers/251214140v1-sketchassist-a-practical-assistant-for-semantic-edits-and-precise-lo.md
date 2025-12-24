@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SketchAssist: A Practical Assistant for Semantic Edits and Precise Local Redrawing
+title: "SketchAssist: A Practical Assistant for Semantic Edits and Precise Local Redrawing"
 ---
 
 # SketchAssist: A Practical Assistant for Semantic Edits and Precise Local Redrawing

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vision Language Models: A Survey of 26K Papers
+title: "Vision Language Models: A Survey of 26K Papers"
 ---
 
 # Vision Language Models: A Survey of 26K Papers

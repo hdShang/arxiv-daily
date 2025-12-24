@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stitch: Training-Free Position Control in Multimodal Diffusion Transformers
+title: "Stitch: Training-Free Position Control in Multimodal Diffusion Transformers"
 ---
 
 # Stitch: Training-Free Position Control in Multimodal Diffusion Transformers

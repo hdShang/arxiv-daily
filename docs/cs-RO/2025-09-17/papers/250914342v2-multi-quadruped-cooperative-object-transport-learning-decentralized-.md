@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multi-Quadruped Cooperative Object Transport: Learning Decentralized Pinch-Lift-Move
+title: "Multi-Quadruped Cooperative Object Transport: Learning Decentralized Pinch-Lift-Move"
 ---
 
 # Multi-Quadruped Cooperative Object Transport: Learning Decentralized Pinch-Lift-Move

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey
+title: "LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey"
 ---
 
 # LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BOP-ASK: Object-Interaction Reasoning for Vision-Language Models
+title: "BOP-ASK: Object-Interaction Reasoning for Vision-Language Models"
 ---
 
 # BOP-ASK: Object-Interaction Reasoning for Vision-Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QForce-RL: Quantized FPGA-Optimized Reinforcement Learning Compute Engine
+title: "QForce-RL: Quantized FPGA-Optimized Reinforcement Learning Compute Engine"
 ---
 
 # QForce-RL: Quantized FPGA-Optimized Reinforcement Learning Compute Engine

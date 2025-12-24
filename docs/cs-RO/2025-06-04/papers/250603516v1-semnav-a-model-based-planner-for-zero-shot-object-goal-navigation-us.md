@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SemNav: A Model-Based Planner for Zero-Shot Object Goal Navigation Using Vision-Foundation Models
+title: "SemNav: A Model-Based Planner for Zero-Shot Object Goal Navigation Using Vision-Foundation Models"
 ---
 
 # SemNav: A Model-Based Planner for Zero-Shot Object Goal Navigation Using Vision-Foundation Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lynx: Towards High-Fidelity Personalized Video Generation
+title: "Lynx: Towards High-Fidelity Personalized Video Generation"
 ---
 
 # Lynx: Towards High-Fidelity Personalized Video Generation

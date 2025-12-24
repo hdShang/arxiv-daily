@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards an AI Musician: Synthesizing Sheet Music Problems for Musical Reasoning
+title: "Towards an AI Musician: Synthesizing Sheet Music Problems for Musical Reasoning"
 ---
 
 # Towards an AI Musician: Synthesizing Sheet Music Problems for Musical Reasoning

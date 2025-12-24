@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GP3: A 3D Geometry-Aware Policy with Multi-View Images for Robotic Manipulation
+title: "GP3: A 3D Geometry-Aware Policy with Multi-View Images for Robotic Manipulation"
 ---
 
 # GP3: A 3D Geometry-Aware Policy with Multi-View Images for Robotic Manipulation

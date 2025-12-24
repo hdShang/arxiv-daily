@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Autonomous Reinforcement Learning Robot Control with Intel's Loihi 2 Neuromorphic Hardware
+title: "Autonomous Reinforcement Learning Robot Control with Intel's Loihi 2 Neuromorphic Hardware"
 ---
 
 # Autonomous Reinforcement Learning Robot Control with Intel's Loihi 2 Neuromorphic Hardware

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How Instruction-Tuning Imparts Length Control: A Cross-Lingual Mechanistic Analysis
+title: "How Instruction-Tuning Imparts Length Control: A Cross-Lingual Mechanistic Analysis"
 ---
 
 # How Instruction-Tuning Imparts Length Control: A Cross-Lingual Mechanistic Analysis

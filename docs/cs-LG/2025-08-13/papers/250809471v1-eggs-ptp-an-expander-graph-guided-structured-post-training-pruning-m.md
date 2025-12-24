@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EGGS-PTP: An Expander-Graph Guided Structured Post-training Pruning Method for Large Language Models
+title: "EGGS-PTP: An Expander-Graph Guided Structured Post-training Pruning Method for Large Language Models"
 ---
 
 # EGGS-PTP: An Expander-Graph Guided Structured Post-training Pruning Method for Large Language Models

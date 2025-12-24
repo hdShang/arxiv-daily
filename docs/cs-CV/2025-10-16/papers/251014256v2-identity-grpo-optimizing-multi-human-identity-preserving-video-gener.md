@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement Learning
+title: "Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement Learning"
 ---
 
 # Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OnlineMate: An LLM-Based Multi-Agent Companion System for Cognitive Support in Online Learning
+title: "OnlineMate: An LLM-Based Multi-Agent Companion System for Cognitive Support in Online Learning"
 ---
 
 # OnlineMate: An LLM-Based Multi-Agent Companion System for Cognitive Support in Online Learning

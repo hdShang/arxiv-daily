@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning
+title: "VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning"
 ---
 
 # VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning

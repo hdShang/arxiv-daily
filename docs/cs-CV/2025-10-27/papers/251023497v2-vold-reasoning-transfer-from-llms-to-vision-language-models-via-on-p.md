@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation
+title: "VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation"
 ---
 
 # VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation

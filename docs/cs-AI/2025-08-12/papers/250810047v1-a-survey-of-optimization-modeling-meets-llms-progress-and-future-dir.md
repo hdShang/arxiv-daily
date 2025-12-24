@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Survey of Optimization Modeling Meets LLMs: Progress and Future Directions
+title: "A Survey of Optimization Modeling Meets LLMs: Progress and Future Directions"
 ---
 
 # A Survey of Optimization Modeling Meets LLMs: Progress and Future Directions

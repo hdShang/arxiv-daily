@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sentinel: SOTA model to protect against prompt injections
+title: "Sentinel: SOTA model to protect against prompt injections"
 ---
 
 # Sentinel: SOTA model to protect against prompt injections

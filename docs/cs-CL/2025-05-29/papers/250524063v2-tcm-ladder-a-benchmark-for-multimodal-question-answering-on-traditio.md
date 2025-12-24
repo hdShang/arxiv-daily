@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TCM-Ladder: A Benchmark for Multimodal Question Answering on Traditional Chinese Medicine
+title: "TCM-Ladder: A Benchmark for Multimodal Question Answering on Traditional Chinese Medicine"
 ---
 
 # TCM-Ladder: A Benchmark for Multimodal Question Answering on Traditional Chinese Medicine

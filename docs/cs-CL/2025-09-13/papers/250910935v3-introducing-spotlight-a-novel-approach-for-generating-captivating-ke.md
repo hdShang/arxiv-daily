@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introducing Spotlight: A Novel Approach for Generating Captivating Key Information from Documents
+title: "Introducing Spotlight: A Novel Approach for Generating Captivating Key Information from Documents"
 ---
 
 # Introducing Spotlight: A Novel Approach for Generating Captivating Key Information from Documents

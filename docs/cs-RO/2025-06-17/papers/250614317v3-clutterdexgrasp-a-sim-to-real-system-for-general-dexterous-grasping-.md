@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes
+title: "ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes"
 ---
 
 # ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes

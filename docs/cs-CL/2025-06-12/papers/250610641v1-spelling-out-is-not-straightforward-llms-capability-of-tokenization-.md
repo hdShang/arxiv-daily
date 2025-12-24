@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spelling-out is not Straightforward: LLMs' Capability of Tokenization from Token to Characters
+title: "Spelling-out is not Straightforward: LLMs' Capability of Tokenization from Token to Characters"
 ---
 
 # Spelling-out is not Straightforward: LLMs' Capability of Tokenization from Token to Characters

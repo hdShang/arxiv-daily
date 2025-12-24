@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resilience of coupled systems under deep uncertainty and dynamic complexity: An integrative literature review
+title: "Resilience of coupled systems under deep uncertainty and dynamic complexity: An integrative literature review"
 ---
 
 # Resilience of coupled systems under deep uncertainty and dynamic complexity: An integrative literature review

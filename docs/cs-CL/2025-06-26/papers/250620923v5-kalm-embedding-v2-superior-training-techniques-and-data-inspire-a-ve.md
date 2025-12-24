@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KaLM-Embedding-V2: Superior Training Techniques and Data Inspire A Versatile Embedding Model
+title: "KaLM-Embedding-V2: Superior Training Techniques and Data Inspire A Versatile Embedding Model"
 ---
 
 # KaLM-Embedding-V2: Superior Training Techniques and Data Inspire A Versatile Embedding Model

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Geo-R1: Unlocking VLM Geospatial Reasoning with Cross-View Reinforcement Learning
+title: "Geo-R1: Unlocking VLM Geospatial Reasoning with Cross-View Reinforcement Learning"
 ---
 
 # Geo-R1: Unlocking VLM Geospatial Reasoning with Cross-View Reinforcement Learning

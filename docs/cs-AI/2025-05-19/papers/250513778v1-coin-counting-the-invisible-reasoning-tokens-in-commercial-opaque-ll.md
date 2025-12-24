@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoIn: Counting the Invisible Reasoning Tokens in Commercial Opaque LLM APIs
+title: "CoIn: Counting the Invisible Reasoning Tokens in Commercial Opaque LLM APIs"
 ---
 
 # CoIn: Counting the Invisible Reasoning Tokens in Commercial Opaque LLM APIs

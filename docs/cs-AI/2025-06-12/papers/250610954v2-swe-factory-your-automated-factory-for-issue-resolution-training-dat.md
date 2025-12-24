@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks
+title: "SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks"
 ---
 
 # SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks

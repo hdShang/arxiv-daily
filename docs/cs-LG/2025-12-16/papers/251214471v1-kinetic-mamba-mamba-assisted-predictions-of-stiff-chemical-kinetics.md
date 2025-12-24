@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kinetic-Mamba: Mamba-Assisted Predictions of Stiff Chemical Kinetics
+title: "Kinetic-Mamba: Mamba-Assisted Predictions of Stiff Chemical Kinetics"
 ---
 
 # Kinetic-Mamba: Mamba-Assisted Predictions of Stiff Chemical Kinetics

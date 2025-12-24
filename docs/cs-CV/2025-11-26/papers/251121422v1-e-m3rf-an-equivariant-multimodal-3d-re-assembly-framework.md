@@ -1,6 +1,6 @@
 ---
 layout: default
-title: E-M3RF: An Equivariant Multimodal 3D Re-assembly Framework
+title: "E-M3RF: An Equivariant Multimodal 3D Re-assembly Framework"
 ---
 
 # E-M3RF: An Equivariant Multimodal 3D Re-assembly Framework

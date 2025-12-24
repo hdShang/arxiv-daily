@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FESTA: Functionally Equivalent Sampling for Trust Assessment of Multimodal LLMs
+title: "FESTA: Functionally Equivalent Sampling for Trust Assessment of Multimodal LLMs"
 ---
 
 # FESTA: Functionally Equivalent Sampling for Trust Assessment of Multimodal LLMs

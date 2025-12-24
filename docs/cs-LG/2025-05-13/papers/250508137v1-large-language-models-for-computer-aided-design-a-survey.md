@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Large Language Models for Computer-Aided Design: A Survey
+title: "Large Language Models for Computer-Aided Design: A Survey"
 ---
 
 # Large Language Models for Computer-Aided Design: A Survey

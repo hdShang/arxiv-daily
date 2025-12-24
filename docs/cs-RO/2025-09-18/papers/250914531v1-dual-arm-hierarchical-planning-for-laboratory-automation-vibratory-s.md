@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dual-Arm Hierarchical Planning for Laboratory Automation: Vibratory Sieve Shaker Operations
+title: "Dual-Arm Hierarchical Planning for Laboratory Automation: Vibratory Sieve Shaker Operations"
 ---
 
 # Dual-Arm Hierarchical Planning for Laboratory Automation: Vibratory Sieve Shaker Operations

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CCD: Mitigating Hallucinations in Radiology MLLMs via Clinical Contrastive Decoding
+title: "CCD: Mitigating Hallucinations in Radiology MLLMs via Clinical Contrastive Decoding"
 ---
 
 # CCD: Mitigating Hallucinations in Radiology MLLMs via Clinical Contrastive Decoding

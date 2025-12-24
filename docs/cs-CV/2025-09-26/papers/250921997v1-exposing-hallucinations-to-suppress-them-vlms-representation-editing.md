@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exposing Hallucinations To Suppress Them: VLMs Representation Editing With Generative Anchors
+title: "Exposing Hallucinations To Suppress Them: VLMs Representation Editing With Generative Anchors"
 ---
 
 # Exposing Hallucinations To Suppress Them: VLMs Representation Editing With Generative Anchors

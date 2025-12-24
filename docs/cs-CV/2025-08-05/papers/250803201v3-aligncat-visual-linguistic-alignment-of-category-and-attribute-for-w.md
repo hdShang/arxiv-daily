@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AlignCAT: Visual-Linguistic Alignment of Category and Attribute for Weakly Supervised Visual Grounding
+title: "AlignCAT: Visual-Linguistic Alignment of Category and Attribute for Weakly Supervised Visual Grounding"
 ---
 
 # AlignCAT: Visual-Linguistic Alignment of Category and Attribute for Weakly Supervised Visual Grounding

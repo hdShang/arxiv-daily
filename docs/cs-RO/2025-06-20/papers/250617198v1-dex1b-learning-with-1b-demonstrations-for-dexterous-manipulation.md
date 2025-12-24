@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation
+title: "Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation"
 ---
 
 # Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation

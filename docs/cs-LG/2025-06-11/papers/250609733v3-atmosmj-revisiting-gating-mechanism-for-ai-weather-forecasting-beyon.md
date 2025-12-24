@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AtmosMJ: Revisiting Gating Mechanism for AI Weather Forecasting Beyond the Year Scale
+title: "AtmosMJ: Revisiting Gating Mechanism for AI Weather Forecasting Beyond the Year Scale"
 ---
 
 # AtmosMJ: Revisiting Gating Mechanism for AI Weather Forecasting Beyond the Year Scale

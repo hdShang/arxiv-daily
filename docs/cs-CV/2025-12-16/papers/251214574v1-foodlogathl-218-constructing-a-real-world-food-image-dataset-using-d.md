@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FoodLogAthl-218: Constructing a Real-World Food Image Dataset Using Dietary Management Applications
+title: "FoodLogAthl-218: Constructing a Real-World Food Image Dataset Using Dietary Management Applications"
 ---
 
 # FoodLogAthl-218: Constructing a Real-World Food Image Dataset Using Dietary Management Applications

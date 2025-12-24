@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CaMMT: Benchmarking Culturally Aware Multimodal Machine Translation
+title: "CaMMT: Benchmarking Culturally Aware Multimodal Machine Translation"
 ---
 
 # CaMMT: Benchmarking Culturally Aware Multimodal Machine Translation

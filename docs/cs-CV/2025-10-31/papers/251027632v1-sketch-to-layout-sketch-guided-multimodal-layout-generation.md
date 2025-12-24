@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sketch-to-Layout: Sketch-Guided Multimodal Layout Generation
+title: "Sketch-to-Layout: Sketch-Guided Multimodal Layout Generation"
 ---
 
 # Sketch-to-Layout: Sketch-Guided Multimodal Layout Generation

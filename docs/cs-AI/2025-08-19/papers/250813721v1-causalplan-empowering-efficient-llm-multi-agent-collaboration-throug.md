@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning
+title: "CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning"
 ---
 
 # CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning

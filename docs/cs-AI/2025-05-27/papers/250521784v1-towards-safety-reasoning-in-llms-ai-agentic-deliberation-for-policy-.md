@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Safety Reasoning in LLMs: AI-agentic Deliberation for Policy-embedded CoT Data Creation
+title: "Towards Safety Reasoning in LLMs: AI-agentic Deliberation for Policy-embedded CoT Data Creation"
 ---
 
 # Towards Safety Reasoning in LLMs: AI-agentic Deliberation for Policy-embedded CoT Data Creation

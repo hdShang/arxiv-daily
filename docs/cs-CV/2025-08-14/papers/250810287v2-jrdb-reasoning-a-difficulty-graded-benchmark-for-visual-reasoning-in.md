@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JRDB-Reasoning: A Difficulty-Graded Benchmark for Visual Reasoning in Robotics
+title: "JRDB-Reasoning: A Difficulty-Graded Benchmark for Visual Reasoning in Robotics"
 ---
 
 # JRDB-Reasoning: A Difficulty-Graded Benchmark for Visual Reasoning in Robotics

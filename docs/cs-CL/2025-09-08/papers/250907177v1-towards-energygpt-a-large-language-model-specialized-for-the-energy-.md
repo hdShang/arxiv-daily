@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards EnergyGPT: A Large Language Model Specialized for the Energy Sector
+title: "Towards EnergyGPT: A Large Language Model Specialized for the Energy Sector"
 ---
 
 # Towards EnergyGPT: A Large Language Model Specialized for the Energy Sector

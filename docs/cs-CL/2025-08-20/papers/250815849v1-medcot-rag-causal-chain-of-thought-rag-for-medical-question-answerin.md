@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MedCoT-RAG: Causal Chain-of-Thought RAG for Medical Question Answering
+title: "MedCoT-RAG: Causal Chain-of-Thought RAG for Medical Question Answering"
 ---
 
 # MedCoT-RAG: Causal Chain-of-Thought RAG for Medical Question Answering

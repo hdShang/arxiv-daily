@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SAGOnline: Segment Any Gaussians Online
+title: "SAGOnline: Segment Any Gaussians Online"
 ---
 
 # SAGOnline: Segment Any Gaussians Online

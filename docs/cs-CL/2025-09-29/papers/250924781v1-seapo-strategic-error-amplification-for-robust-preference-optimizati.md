@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SeaPO: Strategic Error Amplification for Robust Preference Optimization of Large Language Models
+title: "SeaPO: Strategic Error Amplification for Robust Preference Optimization of Large Language Models"
 ---
 
 # SeaPO: Strategic Error Amplification for Robust Preference Optimization of Large Language Models

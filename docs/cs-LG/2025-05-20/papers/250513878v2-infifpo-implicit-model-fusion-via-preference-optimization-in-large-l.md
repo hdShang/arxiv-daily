@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InfiFPO: Implicit Model Fusion via Preference Optimization in Large Language Models
+title: "InfiFPO: Implicit Model Fusion via Preference Optimization in Large Language Models"
 ---
 
 # InfiFPO: Implicit Model Fusion via Preference Optimization in Large Language Models

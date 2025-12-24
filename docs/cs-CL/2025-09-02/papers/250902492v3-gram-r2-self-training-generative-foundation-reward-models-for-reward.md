@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GRAM-R$^2$: Self-Training Generative Foundation Reward Models for Reward Reasoning
+title: "GRAM-R$^2$: Self-Training Generative Foundation Reward Models for Reward Reasoning"
 ---
 
 # GRAM-R$^2$: Self-Training Generative Foundation Reward Models for Reward Reasoning

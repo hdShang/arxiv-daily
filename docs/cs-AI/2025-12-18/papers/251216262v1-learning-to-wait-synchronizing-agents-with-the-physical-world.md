@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning to Wait: Synchronizing Agents with the Physical World
+title: "Learning to Wait: Synchronizing Agents with the Physical World"
 ---
 
 # Learning to Wait: Synchronizing Agents with the Physical World

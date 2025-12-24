@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LayerLock: Non-collapsing Representation Learning with Progressive Freezing
+title: "LayerLock: Non-collapsing Representation Learning with Progressive Freezing"
 ---
 
 # LayerLock: Non-collapsing Representation Learning with Progressive Freezing

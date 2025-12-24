@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs
+title: "SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs"
 ---
 
 # SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs

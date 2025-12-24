@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VideoChat-A1: Thinking with Long Videos by Chain-of-Shot Reasoning
+title: "VideoChat-A1: Thinking with Long Videos by Chain-of-Shot Reasoning"
 ---
 
 # VideoChat-A1: Thinking with Long Videos by Chain-of-Shot Reasoning

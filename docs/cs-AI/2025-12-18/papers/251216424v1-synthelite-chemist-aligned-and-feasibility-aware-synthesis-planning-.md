@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Synthelite: Chemist-aligned and feasibility-aware synthesis planning with LLMs
+title: "Synthelite: Chemist-aligned and feasibility-aware synthesis planning with LLMs"
 ---
 
 # Synthelite: Chemist-aligned and feasibility-aware synthesis planning with LLMs

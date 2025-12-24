@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GeNIE: A Generalizable Navigation System for In-the-Wild Environments
+title: "GeNIE: A Generalizable Navigation System for In-the-Wild Environments"
 ---
 
 # GeNIE: A Generalizable Navigation System for In-the-Wild Environments

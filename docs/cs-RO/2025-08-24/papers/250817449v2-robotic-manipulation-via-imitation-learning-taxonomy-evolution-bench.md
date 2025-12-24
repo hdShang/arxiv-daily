@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Robotic Manipulation via Imitation Learning: Taxonomy, Evolution, Benchmark, and Challenges
+title: "Robotic Manipulation via Imitation Learning: Taxonomy, Evolution, Benchmark, and Challenges"
 ---
 
 # Robotic Manipulation via Imitation Learning: Taxonomy, Evolution, Benchmark, and Challenges

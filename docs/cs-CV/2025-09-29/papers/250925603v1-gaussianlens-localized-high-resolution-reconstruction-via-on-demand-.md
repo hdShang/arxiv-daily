@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GaussianLens: Localized High-Resolution Reconstruction via On-Demand Gaussian Densification
+title: "GaussianLens: Localized High-Resolution Reconstruction via On-Demand Gaussian Densification"
 ---
 
 # GaussianLens: Localized High-Resolution Reconstruction via On-Demand Gaussian Densification

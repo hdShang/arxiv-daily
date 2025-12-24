@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Efficient Speculative Decoding for Llama at Scale: Challenges and Solutions
+title: "Efficient Speculative Decoding for Llama at Scale: Challenges and Solutions"
 ---
 
 # Efficient Speculative Decoding for Llama at Scale: Challenges and Solutions

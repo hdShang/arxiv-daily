@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SPAT: Sensitivity-based Multihead-attention Pruning on Time Series Forecasting Models
+title: "SPAT: Sensitivity-based Multihead-attention Pruning on Time Series Forecasting Models"
 ---
 
 # SPAT: Sensitivity-based Multihead-attention Pruning on Time Series Forecasting Models

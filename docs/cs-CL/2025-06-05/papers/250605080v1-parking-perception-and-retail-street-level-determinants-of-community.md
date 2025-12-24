@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Parking, Perception, and Retail: Street-Level Determinants of Community Vitality in Harbin
+title: "Parking, Perception, and Retail: Street-Level Determinants of Community Vitality in Harbin"
 ---
 
 # Parking, Perception, and Retail: Street-Level Determinants of Community Vitality in Harbin

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unlocking Recursive Thinking of LLMs: Alignment via Refinement
+title: "Unlocking Recursive Thinking of LLMs: Alignment via Refinement"
 ---
 
 # Unlocking Recursive Thinking of LLMs: Alignment via Refinement

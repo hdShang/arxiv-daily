@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Catalog-Native LLM: Speaking Item-ID Dialect with Less Entanglement for Recommendation
+title: "Catalog-Native LLM: Speaking Item-ID Dialect with Less Entanglement for Recommendation"
 ---
 
 # Catalog-Native LLM: Speaking Item-ID Dialect with Less Entanglement for Recommendation

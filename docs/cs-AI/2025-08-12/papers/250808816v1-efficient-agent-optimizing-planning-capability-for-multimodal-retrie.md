@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Efficient Agent: Optimizing Planning Capability for Multimodal Retrieval Augmented Generation
+title: "Efficient Agent: Optimizing Planning Capability for Multimodal Retrieval Augmented Generation"
 ---
 
 # Efficient Agent: Optimizing Planning Capability for Multimodal Retrieval Augmented Generation

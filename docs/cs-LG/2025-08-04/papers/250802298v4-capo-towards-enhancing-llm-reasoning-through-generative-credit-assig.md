@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CAPO: Towards Enhancing LLM Reasoning through Generative Credit Assignment
+title: "CAPO: Towards Enhancing LLM Reasoning through Generative Credit Assignment"
 ---
 
 # CAPO: Towards Enhancing LLM Reasoning through Generative Credit Assignment

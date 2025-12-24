@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MultiFair: Multimodal Balanced Fairness-Aware Medical Classification with Dual-Level Gradient Modulation
+title: "MultiFair: Multimodal Balanced Fairness-Aware Medical Classification with Dual-Level Gradient Modulation"
 ---
 
 # MultiFair: Multimodal Balanced Fairness-Aware Medical Classification with Dual-Level Gradient Modulation

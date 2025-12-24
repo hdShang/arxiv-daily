@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HunyuanVideo-Avatar: High-Fidelity Audio-Driven Human Animation for Multiple Characters
+title: "HunyuanVideo-Avatar: High-Fidelity Audio-Driven Human Animation for Multiple Characters"
 ---
 
 # HunyuanVideo-Avatar: High-Fidelity Audio-Driven Human Animation for Multiple Characters

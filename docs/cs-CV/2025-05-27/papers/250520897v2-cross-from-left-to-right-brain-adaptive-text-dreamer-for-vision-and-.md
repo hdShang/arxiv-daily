@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation
+title: "Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation"
 ---
 
 # Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation

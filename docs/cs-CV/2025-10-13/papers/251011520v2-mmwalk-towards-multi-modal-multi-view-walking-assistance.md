@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mmWalk: Towards Multi-modal Multi-view Walking Assistance
+title: "mmWalk: Towards Multi-modal Multi-view Walking Assistance"
 ---
 
 # mmWalk: Towards Multi-modal Multi-view Walking Assistance

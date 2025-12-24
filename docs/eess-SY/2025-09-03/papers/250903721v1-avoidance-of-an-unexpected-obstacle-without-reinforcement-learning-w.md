@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Avoidance of an unexpected obstacle without reinforcement learning: Why not using advanced control-theoretic tools?
+title: "Avoidance of an unexpected obstacle without reinforcement learning: Why not using advanced control-theoretic tools?"
 ---
 
 # Avoidance of an unexpected obstacle without reinforcement learning: Why not using advanced control-theoretic tools?

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VisionLaw: Inferring Interpretable Intrinsic Dynamics from Visual Observations via Bilevel Optimization
+title: "VisionLaw: Inferring Interpretable Intrinsic Dynamics from Visual Observations via Bilevel Optimization"
 ---
 
 # VisionLaw: Inferring Interpretable Intrinsic Dynamics from Visual Observations via Bilevel Optimization

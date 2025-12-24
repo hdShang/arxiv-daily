@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ZPD-SCA: Unveiling the Blind Spots of LLMs in Assessing Students' Cognitive Abilities
+title: "ZPD-SCA: Unveiling the Blind Spots of LLMs in Assessing Students' Cognitive Abilities"
 ---
 
 # ZPD-SCA: Unveiling the Blind Spots of LLMs in Assessing Students' Cognitive Abilities

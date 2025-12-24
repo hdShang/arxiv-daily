@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LAPPI: Interactive Optimization with LLM-Assisted Preference-Based Problem Instantiation
+title: "LAPPI: Interactive Optimization with LLM-Assisted Preference-Based Problem Instantiation"
 ---
 
 # LAPPI: Interactive Optimization with LLM-Assisted Preference-Based Problem Instantiation

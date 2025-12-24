@@ -1,6 +1,6 @@
 ---
 layout: default
-title: X-VMamba: Explainable Vision Mamba
+title: "X-VMamba: Explainable Vision Mamba"
 ---
 
 # X-VMamba: Explainable Vision Mamba

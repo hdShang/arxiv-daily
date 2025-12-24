@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FutrTrack: A Camera-LiDAR Fusion Transformer for 3D Multiple Object Tracking
+title: "FutrTrack: A Camera-LiDAR Fusion Transformer for 3D Multiple Object Tracking"
 ---
 
 # FutrTrack: A Camera-LiDAR Fusion Transformer for 3D Multiple Object Tracking

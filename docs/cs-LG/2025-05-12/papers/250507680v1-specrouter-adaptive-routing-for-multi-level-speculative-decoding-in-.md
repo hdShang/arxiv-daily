@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SpecRouter: Adaptive Routing for Multi-Level Speculative Decoding in Large Language Models
+title: "SpecRouter: Adaptive Routing for Multi-Level Speculative Decoding in Large Language Models"
 ---
 
 # SpecRouter: Adaptive Routing for Multi-Level Speculative Decoding in Large Language Models

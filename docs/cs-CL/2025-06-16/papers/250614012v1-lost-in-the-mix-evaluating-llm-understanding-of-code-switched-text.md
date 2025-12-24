@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lost in the Mix: Evaluating LLM Understanding of Code-Switched Text
+title: "Lost in the Mix: Evaluating LLM Understanding of Code-Switched Text"
 ---
 
 # Lost in the Mix: Evaluating LLM Understanding of Code-Switched Text

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AR$^2$: Adversarial Reinforcement Learning for Abstract Reasoning in Large Language Models
+title: "AR$^2$: Adversarial Reinforcement Learning for Abstract Reasoning in Large Language Models"
 ---
 
 # AR$^2$: Adversarial Reinforcement Learning for Abstract Reasoning in Large Language Models

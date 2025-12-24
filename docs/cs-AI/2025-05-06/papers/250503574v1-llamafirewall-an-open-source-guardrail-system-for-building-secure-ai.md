@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LlamaFirewall: An open source guardrail system for building secure AI agents
+title: "LlamaFirewall: An open source guardrail system for building secure AI agents"
 ---
 
 # LlamaFirewall: An open source guardrail system for building secure AI agents

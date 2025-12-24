@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Critique Before Thinking: Mitigating Hallucination through Rationale-Augmented Instruction Tuning
+title: "Critique Before Thinking: Mitigating Hallucination through Rationale-Augmented Instruction Tuning"
 ---
 
 # Critique Before Thinking: Mitigating Hallucination through Rationale-Augmented Instruction Tuning

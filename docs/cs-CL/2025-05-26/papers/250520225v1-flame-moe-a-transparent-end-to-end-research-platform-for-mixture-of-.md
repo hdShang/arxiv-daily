@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FLAME-MoE: A Transparent End-to-End Research Platform for Mixture-of-Experts Language Models
+title: "FLAME-MoE: A Transparent End-to-End Research Platform for Mixture-of-Experts Language Models"
 ---
 
 # FLAME-MoE: A Transparent End-to-End Research Platform for Mixture-of-Experts Language Models

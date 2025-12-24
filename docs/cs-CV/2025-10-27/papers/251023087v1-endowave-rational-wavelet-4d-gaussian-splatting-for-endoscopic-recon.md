@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EndoWave: Rational-Wavelet 4D Gaussian Splatting for Endoscopic Reconstruction
+title: "EndoWave: Rational-Wavelet 4D Gaussian Splatting for Endoscopic Reconstruction"
 ---
 
 # EndoWave: Rational-Wavelet 4D Gaussian Splatting for Endoscopic Reconstruction

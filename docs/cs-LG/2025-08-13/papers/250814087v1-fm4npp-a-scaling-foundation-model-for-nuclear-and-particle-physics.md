@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FM4NPP: A Scaling Foundation Model for Nuclear and Particle Physics
+title: "FM4NPP: A Scaling Foundation Model for Nuclear and Particle Physics"
 ---
 
 # FM4NPP: A Scaling Foundation Model for Nuclear and Particle Physics

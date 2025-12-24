@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spherical Voronoi: Directional Appearance as a Differentiable Partition of the Sphere
+title: "Spherical Voronoi: Directional Appearance as a Differentiable Partition of the Sphere"
 ---
 
 # Spherical Voronoi: Directional Appearance as a Differentiable Partition of the Sphere

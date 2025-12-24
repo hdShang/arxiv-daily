@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cortical-SSM: A Deep State Space Model for EEG and ECoG Motor Imagery Decoding
+title: "Cortical-SSM: A Deep State Space Model for EEG and ECoG Motor Imagery Decoding"
 ---
 
 # Cortical-SSM: A Deep State Space Model for EEG and ECoG Motor Imagery Decoding

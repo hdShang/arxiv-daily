@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection
+title: "From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection"
 ---
 
 # From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ActiveVLN: Towards Active Exploration via Multi-Turn RL in Vision-and-Language Navigation
+title: "ActiveVLN: Towards Active Exploration via Multi-Turn RL in Vision-and-Language Navigation"
 ---
 
 # ActiveVLN: Towards Active Exploration via Multi-Turn RL in Vision-and-Language Navigation

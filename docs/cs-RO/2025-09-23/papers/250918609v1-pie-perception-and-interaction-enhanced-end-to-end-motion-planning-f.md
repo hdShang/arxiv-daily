@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PIE: Perception and Interaction Enhanced End-to-End Motion Planning for Autonomous Driving
+title: "PIE: Perception and Interaction Enhanced End-to-End Motion Planning for Autonomous Driving"
 ---
 
 # PIE: Perception and Interaction Enhanced End-to-End Motion Planning for Autonomous Driving

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Growing with Experience: Growing Neural Networks in Deep Reinforcement Learning
+title: "Growing with Experience: Growing Neural Networks in Deep Reinforcement Learning"
 ---
 
 # Growing with Experience: Growing Neural Networks in Deep Reinforcement Learning

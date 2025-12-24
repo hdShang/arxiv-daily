@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Situated Epistemic Infrastructures: A Diagnostic Framework for Post-Coherence Knowledge
+title: "Situated Epistemic Infrastructures: A Diagnostic Framework for Post-Coherence Knowledge"
 ---
 
 # Situated Epistemic Infrastructures: A Diagnostic Framework for Post-Coherence Knowledge

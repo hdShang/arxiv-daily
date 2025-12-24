@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fast SceneScript: Accurate and Efficient Structured Language Model via Multi-Token Prediction
+title: "Fast SceneScript: Accurate and Efficient Structured Language Model via Multi-Token Prediction"
 ---
 
 # Fast SceneScript: Accurate and Efficient Structured Language Model via Multi-Token Prediction

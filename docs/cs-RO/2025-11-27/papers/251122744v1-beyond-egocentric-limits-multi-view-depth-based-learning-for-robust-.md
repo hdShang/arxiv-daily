@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Egocentric Limits: Multi-View Depth-Based Learning for Robust Quadrupedal Locomotion
+title: "Beyond Egocentric Limits: Multi-View Depth-Based Learning for Robust Quadrupedal Locomotion"
 ---
 
 # Beyond Egocentric Limits: Multi-View Depth-Based Learning for Robust Quadrupedal Locomotion

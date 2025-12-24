@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ScrewSplat: An End-to-End Method for Articulated Object Recognition
+title: "ScrewSplat: An End-to-End Method for Articulated Object Recognition"
 ---
 
 # ScrewSplat: An End-to-End Method for Articulated Object Recognition

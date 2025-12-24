@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SENTINEL: A Fully End-to-End Language-Action Model for Humanoid Whole Body Control
+title: "SENTINEL: A Fully End-to-End Language-Action Model for Humanoid Whole Body Control"
 ---
 
 # SENTINEL: A Fully End-to-End Language-Action Model for Humanoid Whole Body Control

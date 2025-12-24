@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Head Pursuit: Probing Attention Specialization in Multimodal Transformers
+title: "Head Pursuit: Probing Attention Specialization in Multimodal Transformers"
 ---
 
 # Head Pursuit: Probing Attention Specialization in Multimodal Transformers

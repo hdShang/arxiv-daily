@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MVGSR: Multi-View Consistent 3D Gaussian Super-Resolution via Epipolar Guidance
+title: "MVGSR: Multi-View Consistent 3D Gaussian Super-Resolution via Epipolar Guidance"
 ---
 
 # MVGSR: Multi-View Consistent 3D Gaussian Super-Resolution via Epipolar Guidance

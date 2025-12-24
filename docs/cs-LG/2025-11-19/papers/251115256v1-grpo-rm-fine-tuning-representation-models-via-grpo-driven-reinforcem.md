@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GRPO-RM: Fine-Tuning Representation Models via GRPO-Driven Reinforcement Learning
+title: "GRPO-RM: Fine-Tuning Representation Models via GRPO-Driven Reinforcement Learning"
 ---
 
 # GRPO-RM: Fine-Tuning Representation Models via GRPO-Driven Reinforcement Learning

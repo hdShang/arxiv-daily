@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SkillBlender: Towards Versatile Humanoid Whole-Body Loco-Manipulation via Skill Blending
+title: "SkillBlender: Towards Versatile Humanoid Whole-Body Loco-Manipulation via Skill Blending"
 ---
 
 # SkillBlender: Towards Versatile Humanoid Whole-Body Loco-Manipulation via Skill Blending

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VistaWise: Building Cost-Effective Agent with Cross-Modal Knowledge Graph for Minecraft
+title: "VistaWise: Building Cost-Effective Agent with Cross-Modal Knowledge Graph for Minecraft"
 ---
 
 # VistaWise: Building Cost-Effective Agent with Cross-Modal Knowledge Graph for Minecraft

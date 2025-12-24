@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReST-RL: Achieving Accurate Code Reasoning of LLMs with Optimized Self-Training and Decoding
+title: "ReST-RL: Achieving Accurate Code Reasoning of LLMs with Optimized Self-Training and Decoding"
 ---
 
 # ReST-RL: Achieving Accurate Code Reasoning of LLMs with Optimized Self-Training and Decoding

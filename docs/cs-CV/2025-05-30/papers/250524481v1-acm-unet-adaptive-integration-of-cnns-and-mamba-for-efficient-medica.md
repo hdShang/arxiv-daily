@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ACM-UNet: Adaptive Integration of CNNs and Mamba for Efficient Medical Image Segmentation
+title: "ACM-UNet: Adaptive Integration of CNNs and Mamba for Efficient Medical Image Segmentation"
 ---
 
 # ACM-UNet: Adaptive Integration of CNNs and Mamba for Efficient Medical Image Segmentation

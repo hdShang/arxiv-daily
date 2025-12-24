@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BenchECG and xECG: a benchmark and baseline for ECG foundation models
+title: "BenchECG and xECG: a benchmark and baseline for ECG foundation models"
 ---
 
 # BenchECG and xECG: a benchmark and baseline for ECG foundation models

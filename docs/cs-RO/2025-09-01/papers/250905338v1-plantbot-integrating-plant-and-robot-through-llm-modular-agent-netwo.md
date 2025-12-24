@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Plantbot: Integrating Plant and Robot through LLM Modular Agent Networks
+title: "Plantbot: Integrating Plant and Robot through LLM Modular Agent Networks"
 ---
 
 # Plantbot: Integrating Plant and Robot through LLM Modular Agent Networks

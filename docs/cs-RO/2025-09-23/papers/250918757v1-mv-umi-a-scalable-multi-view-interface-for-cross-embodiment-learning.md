@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MV-UMI: A Scalable Multi-View Interface for Cross-Embodiment Learning
+title: "MV-UMI: A Scalable Multi-View Interface for Cross-Embodiment Learning"
 ---
 
 # MV-UMI: A Scalable Multi-View Interface for Cross-Embodiment Learning

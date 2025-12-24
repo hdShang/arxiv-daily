@@ -1,6 +1,6 @@
 ---
 layout: default
-title: V-HUB: A Visual-Centric Humor Understanding Benchmark for Video LLMs
+title: "V-HUB: A Visual-Centric Humor Understanding Benchmark for Video LLMs"
 ---
 
 # V-HUB: A Visual-Centric Humor Understanding Benchmark for Video LLMs

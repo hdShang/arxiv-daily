@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GPO: Learning from Critical Steps to Improve LLM Reasoning
+title: "GPO: Learning from Critical Steps to Improve LLM Reasoning"
 ---
 
 # GPO: Learning from Critical Steps to Improve LLM Reasoning

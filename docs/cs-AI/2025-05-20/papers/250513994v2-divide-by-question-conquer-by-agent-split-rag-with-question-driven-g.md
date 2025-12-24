@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Divide by Question, Conquer by Agent: SPLIT-RAG with Question-Driven Graph Partitioning
+title: "Divide by Question, Conquer by Agent: SPLIT-RAG with Question-Driven Graph Partitioning"
 ---
 
 # Divide by Question, Conquer by Agent: SPLIT-RAG with Question-Driven Graph Partitioning

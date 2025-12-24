@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RAILS: Retrieval-Augmented Intelligence for Learning Software Development
+title: "RAILS: Retrieval-Augmented Intelligence for Learning Software Development"
 ---
 
 # RAILS: Retrieval-Augmented Intelligence for Learning Software Development

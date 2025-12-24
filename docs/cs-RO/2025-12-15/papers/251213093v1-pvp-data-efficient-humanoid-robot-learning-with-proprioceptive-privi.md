@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations
+title: "PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations"
 ---
 
 # PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations

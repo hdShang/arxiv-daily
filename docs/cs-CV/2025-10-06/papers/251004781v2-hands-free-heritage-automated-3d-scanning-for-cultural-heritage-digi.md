@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hands-Free Heritage: Automated 3D Scanning for Cultural Heritage Digitization
+title: "Hands-Free Heritage: Automated 3D Scanning for Cultural Heritage Digitization"
 ---
 
 # Hands-Free Heritage: Automated 3D Scanning for Cultural Heritage Digitization

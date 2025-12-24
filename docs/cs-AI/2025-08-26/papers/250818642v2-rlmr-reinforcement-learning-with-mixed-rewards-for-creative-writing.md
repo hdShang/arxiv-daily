@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RLMR: Reinforcement Learning with Mixed Rewards for Creative Writing
+title: "RLMR: Reinforcement Learning with Mixed Rewards for Creative Writing"
 ---
 
 # RLMR: Reinforcement Learning with Mixed Rewards for Creative Writing

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SMMILE: An Expert-Driven Benchmark for Multimodal Medical In-Context Learning
+title: "SMMILE: An Expert-Driven Benchmark for Multimodal Medical In-Context Learning"
 ---
 
 # SMMILE: An Expert-Driven Benchmark for Multimodal Medical In-Context Learning

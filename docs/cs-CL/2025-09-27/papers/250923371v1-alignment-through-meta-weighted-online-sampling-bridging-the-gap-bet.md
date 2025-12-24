@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Alignment through Meta-Weighted Online Sampling: Bridging the Gap between Data Generation and Preference Optimization
+title: "Alignment through Meta-Weighted Online Sampling: Bridging the Gap between Data Generation and Preference Optimization"
 ---
 
 # Alignment through Meta-Weighted Online Sampling: Bridging the Gap between Data Generation and Preference Optimization

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion
+title: "DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion"
 ---
 
 # DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion

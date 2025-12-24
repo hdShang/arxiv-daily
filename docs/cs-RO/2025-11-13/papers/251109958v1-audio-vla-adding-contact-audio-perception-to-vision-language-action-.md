@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Audio-VLA: Adding Contact Audio Perception to Vision-Language-Action Model for Robotic Manipulation
+title: "Audio-VLA: Adding Contact Audio Perception to Vision-Language-Action Model for Robotic Manipulation"
 ---
 
 # Audio-VLA: Adding Contact Audio Perception to Vision-Language-Action Model for Robotic Manipulation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: V-Attack: Targeting Disentangled Value Features for Controllable Adversarial Attacks on LVLMs
+title: "V-Attack: Targeting Disentangled Value Features for Controllable Adversarial Attacks on LVLMs"
 ---
 
 # V-Attack: Targeting Disentangled Value Features for Controllable Adversarial Attacks on LVLMs

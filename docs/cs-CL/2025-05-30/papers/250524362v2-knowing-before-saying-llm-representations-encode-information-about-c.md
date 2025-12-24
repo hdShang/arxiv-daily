@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Knowing Before Saying: LLM Representations Encode Information About Chain-of-Thought Success Before Completion
+title: "Knowing Before Saying: LLM Representations Encode Information About Chain-of-Thought Success Before Completion"
 ---
 
 # Knowing Before Saying: LLM Representations Encode Information About Chain-of-Thought Success Before Completion

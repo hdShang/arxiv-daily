@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Direct Token Optimization: A Self-contained Approach to Large Language Model Unlearning
+title: "Direct Token Optimization: A Self-contained Approach to Large Language Model Unlearning"
 ---
 
 # Direct Token Optimization: A Self-contained Approach to Large Language Model Unlearning

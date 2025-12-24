@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BOW: Reinforcement Learning for Bottlenecked Next Word Prediction
+title: "BOW: Reinforcement Learning for Bottlenecked Next Word Prediction"
 ---
 
 # BOW: Reinforcement Learning for Bottlenecked Next Word Prediction

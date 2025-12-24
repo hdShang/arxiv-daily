@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming
+title: "Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming"
 ---
 
 # Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming

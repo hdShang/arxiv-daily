@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Legal Rule Induction: Towards Generalizable Principle Discovery from Analogous Judicial Precedents
+title: "Legal Rule Induction: Towards Generalizable Principle Discovery from Analogous Judicial Precedents"
 ---
 
 # Legal Rule Induction: Towards Generalizable Principle Discovery from Analogous Judicial Precedents

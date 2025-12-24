@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Latent Activation Editing: Inference-Time Refinement of Learned Policies for Safer Multirobot Navigation
+title: "Latent Activation Editing: Inference-Time Refinement of Learned Policies for Safer Multirobot Navigation"
 ---
 
 # Latent Activation Editing: Inference-Time Refinement of Learned Policies for Safer Multirobot Navigation

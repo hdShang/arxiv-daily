@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "She was useful, but a bit too optimistic": Augmenting Design with Interactive Virtual Personas
+title: "\"She was useful, but a bit too optimistic\": Augmenting Design with Interactive Virtual Personas"
 ---
 
 # "She was useful, but a bit too optimistic": Augmenting Design with Interactive Virtual Personas

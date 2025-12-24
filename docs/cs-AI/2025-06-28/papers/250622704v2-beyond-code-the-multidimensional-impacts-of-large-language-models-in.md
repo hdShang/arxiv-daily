@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Code: The Multidimensional Impacts of Large Language Models in Software Development
+title: "Beyond Code: The Multidimensional Impacts of Large Language Models in Software Development"
 ---
 
 # Beyond Code: The Multidimensional Impacts of Large Language Models in Software Development

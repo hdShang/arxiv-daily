@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mitty: Diffusion-based Human-to-Robot Video Generation
+title: "Mitty: Diffusion-based Human-to-Robot Video Generation"
 ---
 
 # Mitty: Diffusion-based Human-to-Robot Video Generation

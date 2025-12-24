@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy
+title: "InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy"
 ---
 
 # InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy

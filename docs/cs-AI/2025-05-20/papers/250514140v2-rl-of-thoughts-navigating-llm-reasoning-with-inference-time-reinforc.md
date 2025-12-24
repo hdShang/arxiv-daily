@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RL of Thoughts: Navigating LLM Reasoning with Inference-time Reinforcement Learning
+title: "RL of Thoughts: Navigating LLM Reasoning with Inference-time Reinforcement Learning"
 ---
 
 # RL of Thoughts: Navigating LLM Reasoning with Inference-time Reinforcement Learning

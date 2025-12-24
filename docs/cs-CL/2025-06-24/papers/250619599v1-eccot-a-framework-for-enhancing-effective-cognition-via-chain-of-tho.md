@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ECCoT: A Framework for Enhancing Effective Cognition via Chain of Thought in Large Language Model
+title: "ECCoT: A Framework for Enhancing Effective Cognition via Chain of Thought in Large Language Model"
 ---
 
 # ECCoT: A Framework for Enhancing Effective Cognition via Chain of Thought in Large Language Model

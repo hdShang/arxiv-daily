@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RRT*former: Environment-Aware Sampling-Based Motion Planning using Transformer
+title: "RRT*former: Environment-Aware Sampling-Based Motion Planning using Transformer"
 ---
 
 # RRT*former: Environment-Aware Sampling-Based Motion Planning using Transformer

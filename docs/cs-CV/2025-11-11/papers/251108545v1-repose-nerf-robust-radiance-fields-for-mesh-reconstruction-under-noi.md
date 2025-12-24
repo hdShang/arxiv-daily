@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RePose-NeRF: Robust Radiance Fields for Mesh Reconstruction under Noisy Camera Poses
+title: "RePose-NeRF: Robust Radiance Fields for Mesh Reconstruction under Noisy Camera Poses"
 ---
 
 # RePose-NeRF: Robust Radiance Fields for Mesh Reconstruction under Noisy Camera Poses

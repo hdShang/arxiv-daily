@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene
+title: "HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene"
 ---
 
 # HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene

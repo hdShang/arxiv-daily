@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PinPoint3D: Fine-Grained 3D Part Segmentation from a Few Clicks
+title: "PinPoint3D: Fine-Grained 3D Part Segmentation from a Few Clicks"
 ---
 
 # PinPoint3D: Fine-Grained 3D Part Segmentation from a Few Clicks

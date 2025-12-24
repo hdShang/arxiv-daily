@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GS-Checker: Tampering Localization for 3D Gaussian Splatting
+title: "GS-Checker: Tampering Localization for 3D Gaussian Splatting"
 ---
 
 # GS-Checker: Tampering Localization for 3D Gaussian Splatting

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SCORP: Scene-Consistent Object Refinement via Proxy Generation and Tuning
+title: "SCORP: Scene-Consistent Object Refinement via Proxy Generation and Tuning"
 ---
 
 # SCORP: Scene-Consistent Object Refinement via Proxy Generation and Tuning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NeuroRAD-FM: A Foundation Model for Neuro-Oncology with Distributionally Robust Training
+title: "NeuroRAD-FM: A Foundation Model for Neuro-Oncology with Distributionally Robust Training"
 ---
 
 # NeuroRAD-FM: A Foundation Model for Neuro-Oncology with Distributionally Robust Training

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Energy Efficiency in Robotics Software: A Systematic Literature Review (2020-2024)
+title: "Energy Efficiency in Robotics Software: A Systematic Literature Review (2020-2024)"
 ---
 
 # Energy Efficiency in Robotics Software: A Systematic Literature Review (2020-2024)

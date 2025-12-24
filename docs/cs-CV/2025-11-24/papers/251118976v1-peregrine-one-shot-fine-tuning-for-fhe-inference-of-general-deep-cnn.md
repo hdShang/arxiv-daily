@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Peregrine: One-Shot Fine-Tuning for FHE Inference of General Deep CNNs
+title: "Peregrine: One-Shot Fine-Tuning for FHE Inference of General Deep CNNs"
 ---
 
 # Peregrine: One-Shot Fine-Tuning for FHE Inference of General Deep CNNs

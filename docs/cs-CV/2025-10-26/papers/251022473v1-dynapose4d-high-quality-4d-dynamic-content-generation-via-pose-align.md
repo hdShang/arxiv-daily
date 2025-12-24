@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DynaPose4D: High-Quality 4D Dynamic Content Generation via Pose Alignment Loss
+title: "DynaPose4D: High-Quality 4D Dynamic Content Generation via Pose Alignment Loss"
 ---
 
 # DynaPose4D: High-Quality 4D Dynamic Content Generation via Pose Alignment Loss

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MatchDance: Collaborative Mamba-Transformer Architecture Matching for High-Quality 3D Dance Synthesis
+title: "MatchDance: Collaborative Mamba-Transformer Architecture Matching for High-Quality 3D Dance Synthesis"
 ---
 
 # MatchDance: Collaborative Mamba-Transformer Architecture Matching for High-Quality 3D Dance Synthesis

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AR-VRM: Imitating Human Motions for Visual Robot Manipulation with Analogical Reasoning
+title: "AR-VRM: Imitating Human Motions for Visual Robot Manipulation with Analogical Reasoning"
 ---
 
 # AR-VRM: Imitating Human Motions for Visual Robot Manipulation with Analogical Reasoning

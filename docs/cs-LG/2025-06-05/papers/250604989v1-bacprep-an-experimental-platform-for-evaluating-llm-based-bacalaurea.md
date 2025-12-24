@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BacPrep: An Experimental Platform for Evaluating LLM-Based Bacalaureat Assessment
+title: "BacPrep: An Experimental Platform for Evaluating LLM-Based Bacalaureat Assessment"
 ---
 
 # BacPrep: An Experimental Platform for Evaluating LLM-Based Bacalaureat Assessment

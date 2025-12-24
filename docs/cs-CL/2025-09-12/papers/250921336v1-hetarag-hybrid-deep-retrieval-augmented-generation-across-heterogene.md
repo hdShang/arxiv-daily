@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HetaRAG: Hybrid Deep Retrieval-Augmented Generation across Heterogeneous Data Stores
+title: "HetaRAG: Hybrid Deep Retrieval-Augmented Generation across Heterogeneous Data Stores"
 ---
 
 # HetaRAG: Hybrid Deep Retrieval-Augmented Generation across Heterogeneous Data Stores

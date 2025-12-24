@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RoboTidy : A 3D Gaussian Splatting Household Tidying Benchmark for Embodied Navigation and Action
+title: "RoboTidy : A 3D Gaussian Splatting Household Tidying Benchmark for Embodied Navigation and Action"
 ---
 
 # RoboTidy : A 3D Gaussian Splatting Household Tidying Benchmark for Embodied Navigation and Action

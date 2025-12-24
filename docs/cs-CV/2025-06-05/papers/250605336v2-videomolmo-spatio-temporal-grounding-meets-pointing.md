@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VideoMolmo: Spatio-Temporal Grounding Meets Pointing
+title: "VideoMolmo: Spatio-Temporal Grounding Meets Pointing"
 ---
 
 # VideoMolmo: Spatio-Temporal Grounding Meets Pointing

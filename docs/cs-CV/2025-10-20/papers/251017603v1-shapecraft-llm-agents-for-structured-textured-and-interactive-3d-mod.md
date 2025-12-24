@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ShapeCraft: LLM Agents for Structured, Textured and Interactive 3D Modeling
+title: "ShapeCraft: LLM Agents for Structured, Textured and Interactive 3D Modeling"
 ---
 
 # ShapeCraft: LLM Agents for Structured, Textured and Interactive 3D Modeling

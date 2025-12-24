@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GuideFlow: Constraint-Guided Flow Matching for Planning in End-to-End Autonomous Driving
+title: "GuideFlow: Constraint-Guided Flow Matching for Planning in End-to-End Autonomous Driving"
 ---
 
 # GuideFlow: Constraint-Guided Flow Matching for Planning in End-to-End Autonomous Driving

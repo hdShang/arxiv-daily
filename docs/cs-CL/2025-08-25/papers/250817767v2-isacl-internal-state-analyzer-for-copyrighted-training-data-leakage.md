@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ISACL: Internal State Analyzer for Copyrighted Training Data Leakage
+title: "ISACL: Internal State Analyzer for Copyrighted Training Data Leakage"
 ---
 
 # ISACL: Internal State Analyzer for Copyrighted Training Data Leakage

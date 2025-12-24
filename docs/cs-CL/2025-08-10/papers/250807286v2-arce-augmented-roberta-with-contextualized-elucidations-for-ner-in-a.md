@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Arce: Augmented Roberta with Contextualized Elucidations for Ner in Automated Rule Checking
+title: "Arce: Augmented Roberta with Contextualized Elucidations for Ner in Automated Rule Checking"
 ---
 
 # Arce: Augmented Roberta with Contextualized Elucidations for Ner in Automated Rule Checking

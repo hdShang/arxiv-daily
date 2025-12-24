@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InfLLM-V2: Dense-Sparse Switchable Attention for Seamless Short-to-Long Adaptation
+title: "InfLLM-V2: Dense-Sparse Switchable Attention for Seamless Short-to-Long Adaptation"
 ---
 
 # InfLLM-V2: Dense-Sparse Switchable Attention for Seamless Short-to-Long Adaptation

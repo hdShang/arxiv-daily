@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jailbreak-R1: Exploring the Jailbreak Capabilities of LLMs via Reinforcement Learning
+title: "Jailbreak-R1: Exploring the Jailbreak Capabilities of LLMs via Reinforcement Learning"
 ---
 
 # Jailbreak-R1: Exploring the Jailbreak Capabilities of LLMs via Reinforcement Learning

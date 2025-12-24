@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Align Your Query: Representation Alignment for Multimodality Medical Object Detection
+title: "Align Your Query: Representation Alignment for Multimodality Medical Object Detection"
 ---
 
 # Align Your Query: Representation Alignment for Multimodality Medical Object Detection

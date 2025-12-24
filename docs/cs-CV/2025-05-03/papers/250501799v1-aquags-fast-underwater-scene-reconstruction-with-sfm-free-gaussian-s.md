@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting
+title: "AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting"
 ---
 
 # AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting

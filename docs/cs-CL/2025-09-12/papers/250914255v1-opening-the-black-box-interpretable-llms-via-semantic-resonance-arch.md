@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Opening the Black Box: Interpretable LLMs via Semantic Resonance Architecture
+title: "Opening the Black Box: Interpretable LLMs via Semantic Resonance Architecture"
 ---
 
 # Opening the Black Box: Interpretable LLMs via Semantic Resonance Architecture

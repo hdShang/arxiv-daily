@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Agent-RLVR: Training Software Engineering Agents via Guidance and Environment Rewards
+title: "Agent-RLVR: Training Software Engineering Agents via Guidance and Environment Rewards"
 ---
 
 # Agent-RLVR: Training Software Engineering Agents via Guidance and Environment Rewards

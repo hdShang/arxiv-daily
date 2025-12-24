@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inverse Virtual Try-On: Generating Multi-Category Product-Style Images from Clothed Individuals
+title: "Inverse Virtual Try-On: Generating Multi-Category Product-Style Images from Clothed Individuals"
 ---
 
 # Inverse Virtual Try-On: Generating Multi-Category Product-Style Images from Clothed Individuals

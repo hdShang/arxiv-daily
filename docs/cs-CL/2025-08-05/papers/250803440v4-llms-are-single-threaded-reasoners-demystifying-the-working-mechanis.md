@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLMs are Single-threaded Reasoners: Demystifying the Working Mechanism of Soft Thinking
+title: "LLMs are Single-threaded Reasoners: Demystifying the Working Mechanism of Soft Thinking"
 ---
 
 # LLMs are Single-threaded Reasoners: Demystifying the Working Mechanism of Soft Thinking

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DIV-Nav: Open-Vocabulary Spatial Relationships for Multi-Object Navigation
+title: "DIV-Nav: Open-Vocabulary Spatial Relationships for Multi-Object Navigation"
 ---
 
 # DIV-Nav: Open-Vocabulary Spatial Relationships for Multi-Object Navigation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ARMOR: Robust Reinforcement Learning-based Control for UAVs under Physical Attacks
+title: "ARMOR: Robust Reinforcement Learning-based Control for UAVs under Physical Attacks"
 ---
 
 # ARMOR: Robust Reinforcement Learning-based Control for UAVs under Physical Attacks

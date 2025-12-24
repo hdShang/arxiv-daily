@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TrackVLA: Embodied Visual Tracking in the Wild
+title: "TrackVLA: Embodied Visual Tracking in the Wild"
 ---
 
 # TrackVLA: Embodied Visual Tracking in the Wild

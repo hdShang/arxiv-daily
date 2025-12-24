@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resource-Efficient Language Models: Quantization for Fast and Accessible Inference
+title: "Resource-Efficient Language Models: Quantization for Fast and Accessible Inference"
 ---
 
 # Resource-Efficient Language Models: Quantization for Fast and Accessible Inference

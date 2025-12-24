@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Causal MAS: A Survey of Large Language Model Architectures for Discovery and Effect Estimation
+title: "Causal MAS: A Survey of Large Language Model Architectures for Discovery and Effect Estimation"
 ---
 
 # Causal MAS: A Survey of Large Language Model Architectures for Discovery and Effect Estimation

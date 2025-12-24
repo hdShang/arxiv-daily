@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM-Flock: Decentralized Multi-Robot Flocking via Large Language Models and Influence-Based Consensus
+title: "LLM-Flock: Decentralized Multi-Robot Flocking via Large Language Models and Influence-Based Consensus"
 ---
 
 # LLM-Flock: Decentralized Multi-Robot Flocking via Large Language Models and Influence-Based Consensus

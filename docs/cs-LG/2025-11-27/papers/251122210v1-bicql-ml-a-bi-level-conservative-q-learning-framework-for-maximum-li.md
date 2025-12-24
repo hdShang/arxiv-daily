@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BiCQL-ML: A Bi-Level Conservative Q-Learning Framework for Maximum Likelihood Inverse Reinforcement Learning
+title: "BiCQL-ML: A Bi-Level Conservative Q-Learning Framework for Maximum Likelihood Inverse Reinforcement Learning"
 ---
 
 # BiCQL-ML: A Bi-Level Conservative Q-Learning Framework for Maximum Likelihood Inverse Reinforcement Learning

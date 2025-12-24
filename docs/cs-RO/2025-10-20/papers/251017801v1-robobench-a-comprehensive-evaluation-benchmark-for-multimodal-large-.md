@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Robobench: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models as Embodied Brain
+title: "Robobench: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models as Embodied Brain"
 ---
 
 # Robobench: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models as Embodied Brain

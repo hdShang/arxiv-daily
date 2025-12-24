@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Benchmarking foundation models for hyperspectral image classification: Application to cereal crop type mapping
+title: "Benchmarking foundation models for hyperspectral image classification: Application to cereal crop type mapping"
 ---
 
 # Benchmarking foundation models for hyperspectral image classification: Application to cereal crop type mapping

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs
+title: "Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs"
 ---
 
 # Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Text to Image Generation and Editing: A Survey
+title: "Text to Image Generation and Editing: A Survey"
 ---
 
 # Text to Image Generation and Editing: A Survey

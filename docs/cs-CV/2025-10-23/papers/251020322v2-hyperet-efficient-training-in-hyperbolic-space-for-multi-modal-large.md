@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HyperET: Efficient Training in Hyperbolic Space for Multi-modal Large Language Models
+title: "HyperET: Efficient Training in Hyperbolic Space for Multi-modal Large Language Models"
 ---
 
 # HyperET: Efficient Training in Hyperbolic Space for Multi-modal Large Language Models

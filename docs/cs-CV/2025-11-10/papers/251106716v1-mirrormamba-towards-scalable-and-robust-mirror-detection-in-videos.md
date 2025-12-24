@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MirrorMamba: Towards Scalable and Robust Mirror Detection in Videos
+title: "MirrorMamba: Towards Scalable and Robust Mirror Detection in Videos"
 ---
 
 # MirrorMamba: Towards Scalable and Robust Mirror Detection in Videos

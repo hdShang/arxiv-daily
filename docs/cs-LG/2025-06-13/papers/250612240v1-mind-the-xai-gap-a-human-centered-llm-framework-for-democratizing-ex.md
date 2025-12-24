@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mind the XAI Gap: A Human-Centered LLM Framework for Democratizing Explainable AI
+title: "Mind the XAI Gap: A Human-Centered LLM Framework for Democratizing Explainable AI"
 ---
 
 # Mind the XAI Gap: A Human-Centered LLM Framework for Democratizing Explainable AI

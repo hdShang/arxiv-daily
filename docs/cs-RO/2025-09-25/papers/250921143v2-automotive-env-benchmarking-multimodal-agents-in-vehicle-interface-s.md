@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Automotive-ENV: Benchmarking Multimodal Agents in Vehicle Interface Systems
+title: "Automotive-ENV: Benchmarking Multimodal Agents in Vehicle Interface Systems"
 ---
 
 # Automotive-ENV: Benchmarking Multimodal Agents in Vehicle Interface Systems

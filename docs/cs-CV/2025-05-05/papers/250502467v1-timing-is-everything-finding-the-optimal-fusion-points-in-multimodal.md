@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Timing Is Everything: Finding the Optimal Fusion Points in Multimodal Medical Imaging
+title: "Timing Is Everything: Finding the Optimal Fusion Points in Multimodal Medical Imaging"
 ---
 
 # Timing Is Everything: Finding the Optimal Fusion Points in Multimodal Medical Imaging

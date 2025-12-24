@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GeoPF: Infusing Geometry into Potential Fields for Reactive Planning in Non-trivial Environments
+title: "GeoPF: Infusing Geometry into Potential Fields for Reactive Planning in Non-trivial Environments"
 ---
 
 # GeoPF: Infusing Geometry into Potential Fields for Reactive Planning in Non-trivial Environments

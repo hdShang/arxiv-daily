@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CAST: Continuous and Differentiable Semi-Structured Sparsity-Aware Training for Large Language Models
+title: "CAST: Continuous and Differentiable Semi-Structured Sparsity-Aware Training for Large Language Models"
 ---
 
 # CAST: Continuous and Differentiable Semi-Structured Sparsity-Aware Training for Large Language Models

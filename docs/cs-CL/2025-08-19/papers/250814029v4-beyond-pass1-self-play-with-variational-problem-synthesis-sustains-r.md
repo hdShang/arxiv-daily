@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains RLVR
+title: "Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains RLVR"
 ---
 
 # Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains RLVR

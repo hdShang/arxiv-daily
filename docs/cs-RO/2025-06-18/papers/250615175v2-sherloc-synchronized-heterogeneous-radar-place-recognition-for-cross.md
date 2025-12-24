@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SHeRLoc: Synchronized Heterogeneous Radar Place Recognition for Cross-Modal Localization
+title: "SHeRLoc: Synchronized Heterogeneous Radar Place Recognition for Cross-Modal Localization"
 ---
 
 # SHeRLoc: Synchronized Heterogeneous Radar Place Recognition for Cross-Modal Localization

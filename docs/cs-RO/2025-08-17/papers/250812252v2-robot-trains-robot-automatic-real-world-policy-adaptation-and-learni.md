@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Robot Trains Robot: Automatic Real-World Policy Adaptation and Learning for Humanoids
+title: "Robot Trains Robot: Automatic Real-World Policy Adaptation and Learning for Humanoids"
 ---
 
 # Robot Trains Robot: Automatic Real-World Policy Adaptation and Learning for Humanoids

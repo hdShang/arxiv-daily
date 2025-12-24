@@ -1,6 +1,6 @@
 ---
 layout: default
-title: D2Pruner: Debiased Importance and Structural Diversity for MLLM Token Pruning
+title: "D2Pruner: Debiased Importance and Structural Diversity for MLLM Token Pruning"
 ---
 
 # D2Pruner: Debiased Importance and Structural Diversity for MLLM Token Pruning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OccLE: Label-Efficient 3D Semantic Occupancy Prediction
+title: "OccLE: Label-Efficient 3D Semantic Occupancy Prediction"
 ---
 
 # OccLE: Label-Efficient 3D Semantic Occupancy Prediction

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Layered Motion Fusion: Lifting Motion Segmentation to 3D in Egocentric Videos
+title: "Layered Motion Fusion: Lifting Motion Segmentation to 3D in Egocentric Videos"
 ---
 
 # Layered Motion Fusion: Lifting Motion Segmentation to 3D in Egocentric Videos

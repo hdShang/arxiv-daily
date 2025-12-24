@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HumanRAM: Feed-forward Human Reconstruction and Animation Model using Transformers
+title: "HumanRAM: Feed-forward Human Reconstruction and Animation Model using Transformers"
 ---
 
 # HumanRAM: Feed-forward Human Reconstruction and Animation Model using Transformers

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nav-R1: Reasoning and Navigation in Embodied Scenes
+title: "Nav-R1: Reasoning and Navigation in Embodied Scenes"
 ---
 
 # Nav-R1: Reasoning and Navigation in Embodied Scenes

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MFM-point: Multi-scale Flow Matching for Point Cloud Generation
+title: "MFM-point: Multi-scale Flow Matching for Point Cloud Generation"
 ---
 
 # MFM-point: Multi-scale Flow Matching for Point Cloud Generation

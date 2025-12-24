@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adaptive Token-Weighted Differential Privacy for LLMs: Not All Tokens Require Equal Protection
+title: "Adaptive Token-Weighted Differential Privacy for LLMs: Not All Tokens Require Equal Protection"
 ---
 
 # Adaptive Token-Weighted Differential Privacy for LLMs: Not All Tokens Require Equal Protection

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gen-LangSplat: Generalized Language Gaussian Splatting with Pre-Trained Feature Compression
+title: "Gen-LangSplat: Generalized Language Gaussian Splatting with Pre-Trained Feature Compression"
 ---
 
 # Gen-LangSplat: Generalized Language Gaussian Splatting with Pre-Trained Feature Compression

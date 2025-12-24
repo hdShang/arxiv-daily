@@ -1,6 +1,6 @@
 ---
 layout: default
-title: INSEva: A Comprehensive Chinese Benchmark for Large Language Models in Insurance
+title: "INSEva: A Comprehensive Chinese Benchmark for Large Language Models in Insurance"
 ---
 
 # INSEva: A Comprehensive Chinese Benchmark for Large Language Models in Insurance

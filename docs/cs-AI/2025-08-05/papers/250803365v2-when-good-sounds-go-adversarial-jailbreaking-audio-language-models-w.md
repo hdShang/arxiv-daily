@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When Good Sounds Go Adversarial: Jailbreaking Audio-Language Models with Benign Inputs
+title: "When Good Sounds Go Adversarial: Jailbreaking Audio-Language Models with Benign Inputs"
 ---
 
 # When Good Sounds Go Adversarial: Jailbreaking Audio-Language Models with Benign Inputs

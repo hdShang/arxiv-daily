@@ -1,6 +1,6 @@
 ---
 layout: default
-title: J6: Jacobian-Driven Role Attribution for Multi-Objective Prompt Optimization in LLMs
+title: "J6: Jacobian-Driven Role Attribution for Multi-Objective Prompt Optimization in LLMs"
 ---
 
 # J6: Jacobian-Driven Role Attribution for Multi-Objective Prompt Optimization in LLMs

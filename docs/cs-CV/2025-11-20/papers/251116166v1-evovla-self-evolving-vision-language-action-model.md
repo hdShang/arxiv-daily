@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EvoVLA: Self-Evolving Vision-Language-Action Model
+title: "EvoVLA: Self-Evolving Vision-Language-Action Model"
 ---
 
 # EvoVLA: Self-Evolving Vision-Language-Action Model

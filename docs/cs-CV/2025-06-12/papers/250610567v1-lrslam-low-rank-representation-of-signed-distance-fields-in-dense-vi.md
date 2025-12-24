@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LRSLAM: Low-rank Representation of Signed Distance Fields in Dense Visual SLAM System
+title: "LRSLAM: Low-rank Representation of Signed Distance Fields in Dense Visual SLAM System"
 ---
 
 # LRSLAM: Low-rank Representation of Signed Distance Fields in Dense Visual SLAM System

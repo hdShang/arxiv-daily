@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ADAM: A Diverse Archive of Mankind for Evaluating and Enhancing LLMs in Biographical Reasoning
+title: "ADAM: A Diverse Archive of Mankind for Evaluating and Enhancing LLMs in Biographical Reasoning"
 ---
 
 # ADAM: A Diverse Archive of Mankind for Evaluating and Enhancing LLMs in Biographical Reasoning

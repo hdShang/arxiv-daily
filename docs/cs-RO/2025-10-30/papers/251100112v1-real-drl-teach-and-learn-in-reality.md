@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Real-DRL: Teach and Learn in Reality
+title: "Real-DRL: Teach and Learn in Reality"
 ---
 
 # Real-DRL: Teach and Learn in Reality

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoderAgent: Simulating Student Behavior for Personalized Programming Learning with Large Language Models
+title: "CoderAgent: Simulating Student Behavior for Personalized Programming Learning with Large Language Models"
 ---
 
 # CoderAgent: Simulating Student Behavior for Personalized Programming Learning with Large Language Models

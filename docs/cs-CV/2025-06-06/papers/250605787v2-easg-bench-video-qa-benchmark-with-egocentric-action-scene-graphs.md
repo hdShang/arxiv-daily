@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EASG-Bench: Video Q&A Benchmark with Egocentric Action Scene Graphs
+title: "EASG-Bench: Video Q&A Benchmark with Egocentric Action Scene Graphs"
 ---
 
 # EASG-Bench: Video Q&A Benchmark with Egocentric Action Scene Graphs

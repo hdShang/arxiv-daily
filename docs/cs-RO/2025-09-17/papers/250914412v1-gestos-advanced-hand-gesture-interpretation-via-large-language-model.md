@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GestOS: Advanced Hand Gesture Interpretation via Large Language Models to control Any Type of Robot
+title: "GestOS: Advanced Hand Gesture Interpretation via Large Language Models to control Any Type of Robot"
 ---
 
 # GestOS: Advanced Hand Gesture Interpretation via Large Language Models to control Any Type of Robot

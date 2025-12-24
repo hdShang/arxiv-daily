@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FedVLMBench: Benchmarking Federated Fine-Tuning of Vision-Language Models
+title: "FedVLMBench: Benchmarking Federated Fine-Tuning of Vision-Language Models"
 ---
 
 # FedVLMBench: Benchmarking Federated Fine-Tuning of Vision-Language Models

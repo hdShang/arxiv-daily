@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Offline vs. Online Learning in Model-based RL: Lessons for Data Collection Strategies
+title: "Offline vs. Online Learning in Model-based RL: Lessons for Data Collection Strategies"
 ---
 
 # Offline vs. Online Learning in Model-based RL: Lessons for Data Collection Strategies

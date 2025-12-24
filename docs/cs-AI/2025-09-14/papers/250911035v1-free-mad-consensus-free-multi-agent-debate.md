@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Free-MAD: Consensus-Free Multi-Agent Debate
+title: "Free-MAD: Consensus-Free Multi-Agent Debate"
 ---
 
 # Free-MAD: Consensus-Free Multi-Agent Debate

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DepthGait: Multi-Scale Cross-Level Feature Fusion of RGB-Derived Depth and Silhouette Sequences for Robust Gait Recognition
+title: "DepthGait: Multi-Scale Cross-Level Feature Fusion of RGB-Derived Depth and Silhouette Sequences for Robust Gait Recognition"
 ---
 
 # DepthGait: Multi-Scale Cross-Level Feature Fusion of RGB-Derived Depth and Silhouette Sequences for Robust Gait Recognition

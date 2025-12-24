@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ExoStart: Efficient learning for dexterous manipulation with sensorized exoskeleton demonstrations
+title: "ExoStart: Efficient learning for dexterous manipulation with sensorized exoskeleton demonstrations"
 ---
 
 # ExoStart: Efficient learning for dexterous manipulation with sensorized exoskeleton demonstrations

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PalmX 2025: The First Shared Task on Benchmarking LLMs on Arabic and Islamic Culture
+title: "PalmX 2025: The First Shared Task on Benchmarking LLMs on Arabic and Islamic Culture"
 ---
 
 # PalmX 2025: The First Shared Task on Benchmarking LLMs on Arabic and Islamic Culture

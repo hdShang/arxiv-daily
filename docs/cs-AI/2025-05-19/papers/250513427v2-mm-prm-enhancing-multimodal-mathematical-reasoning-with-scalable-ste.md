@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision
+title: "MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision"
 ---
 
 # MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision

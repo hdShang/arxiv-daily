@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WatchHAR: Real-time On-device Human Activity Recognition System for Smartwatches
+title: "WatchHAR: Real-time On-device Human Activity Recognition System for Smartwatches"
 ---
 
 # WatchHAR: Real-time On-device Human Activity Recognition System for Smartwatches

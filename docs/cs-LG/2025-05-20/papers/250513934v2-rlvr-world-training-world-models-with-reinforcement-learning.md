@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RLVR-World: Training World Models with Reinforcement Learning
+title: "RLVR-World: Training World Models with Reinforcement Learning"
 ---
 
 # RLVR-World: Training World Models with Reinforcement Learning

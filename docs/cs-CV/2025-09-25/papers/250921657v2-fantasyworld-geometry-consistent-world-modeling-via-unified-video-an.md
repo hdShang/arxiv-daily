@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FantasyWorld: Geometry-Consistent World Modeling via Unified Video and 3D Prediction
+title: "FantasyWorld: Geometry-Consistent World Modeling via Unified Video and 3D Prediction"
 ---
 
 # FantasyWorld: Geometry-Consistent World Modeling via Unified Video and 3D Prediction

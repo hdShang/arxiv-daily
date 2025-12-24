@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VIFO: Visual Feature Empowered Multivariate Time Series Forecasting with Cross-Modal Fusion
+title: "VIFO: Visual Feature Empowered Multivariate Time Series Forecasting with Cross-Modal Fusion"
 ---
 
 # VIFO: Visual Feature Empowered Multivariate Time Series Forecasting with Cross-Modal Fusion

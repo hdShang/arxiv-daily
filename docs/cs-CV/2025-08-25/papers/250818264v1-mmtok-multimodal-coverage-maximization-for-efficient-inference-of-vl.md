@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMTok: Multimodal Coverage Maximization for Efficient Inference of VLMs
+title: "MMTok: Multimodal Coverage Maximization for Efficient Inference of VLMs"
 ---
 
 # MMTok: Multimodal Coverage Maximization for Efficient Inference of VLMs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ProfilingAgent: Profiling-Guided Agentic Reasoning for Adaptive Model Optimization
+title: "ProfilingAgent: Profiling-Guided Agentic Reasoning for Adaptive Model Optimization"
 ---
 
 # ProfilingAgent: Profiling-Guided Agentic Reasoning for Adaptive Model Optimization

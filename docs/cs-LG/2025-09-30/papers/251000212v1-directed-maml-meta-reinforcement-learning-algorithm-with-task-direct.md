@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Directed-MAML: Meta Reinforcement Learning Algorithm with Task-directed Approximation
+title: "Directed-MAML: Meta Reinforcement Learning Algorithm with Task-directed Approximation"
 ---
 
 # Directed-MAML: Meta Reinforcement Learning Algorithm with Task-directed Approximation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Explainable Deep Neural Network for Multimodal ECG Signals: Intermediate vs Late Fusion
+title: "Explainable Deep Neural Network for Multimodal ECG Signals: Intermediate vs Late Fusion"
 ---
 
 # Explainable Deep Neural Network for Multimodal ECG Signals: Intermediate vs Late Fusion

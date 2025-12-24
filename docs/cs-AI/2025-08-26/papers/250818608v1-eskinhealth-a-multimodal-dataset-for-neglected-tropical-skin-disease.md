@@ -1,6 +1,6 @@
 ---
 layout: default
-title: eSkinHealth: A Multimodal Dataset for Neglected Tropical Skin Diseases
+title: "eSkinHealth: A Multimodal Dataset for Neglected Tropical Skin Diseases"
 ---
 
 # eSkinHealth: A Multimodal Dataset for Neglected Tropical Skin Diseases

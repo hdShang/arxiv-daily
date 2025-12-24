@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RedNote-Vibe: A Dataset for Capturing Temporal Dynamics of AI-Generated Text in Social Media
+title: "RedNote-Vibe: A Dataset for Capturing Temporal Dynamics of AI-Generated Text in Social Media"
 ---
 
 # RedNote-Vibe: A Dataset for Capturing Temporal Dynamics of AI-Generated Text in Social Media

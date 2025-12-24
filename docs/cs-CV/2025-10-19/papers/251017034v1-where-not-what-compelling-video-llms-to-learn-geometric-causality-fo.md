@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Where, Not What: Compelling Video LLMs to Learn Geometric Causality for 3D-Grounding
+title: "Where, Not What: Compelling Video LLMs to Learn Geometric Causality for 3D-Grounding"
 ---
 
 # Where, Not What: Compelling Video LLMs to Learn Geometric Causality for 3D-Grounding

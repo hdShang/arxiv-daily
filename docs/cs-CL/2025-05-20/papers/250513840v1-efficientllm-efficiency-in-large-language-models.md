@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EfficientLLM: Efficiency in Large Language Models
+title: "EfficientLLM: Efficiency in Large Language Models"
 ---
 
 # EfficientLLM: Efficiency in Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond the model: Key differentiators in large language models and multi-agent services
+title: "Beyond the model: Key differentiators in large language models and multi-agent services"
 ---
 
 # Beyond the model: Key differentiators in large language models and multi-agent services

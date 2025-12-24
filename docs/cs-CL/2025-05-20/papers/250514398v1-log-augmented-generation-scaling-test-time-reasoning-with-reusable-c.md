@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Log-Augmented Generation: Scaling Test-Time Reasoning with Reusable Computation
+title: "Log-Augmented Generation: Scaling Test-Time Reasoning with Reusable Computation"
 ---
 
 # Log-Augmented Generation: Scaling Test-Time Reasoning with Reusable Computation

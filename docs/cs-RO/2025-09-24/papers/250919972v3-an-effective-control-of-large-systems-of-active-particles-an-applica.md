@@ -1,6 +1,6 @@
 ---
 layout: default
-title: An effective control of large systems of active particles: An application to evacuation problem
+title: "An effective control of large systems of active particles: An application to evacuation problem"
 ---
 
 # An effective control of large systems of active particles: An application to evacuation problem

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gaze on the Prize: Shaping Visual Attention with Return-Guided Contrastive Learning
+title: "Gaze on the Prize: Shaping Visual Attention with Return-Guided Contrastive Learning"
 ---
 
 # Gaze on the Prize: Shaping Visual Attention with Return-Guided Contrastive Learning

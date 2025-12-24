@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FTACT: Force Torque aware Action Chunking Transformer for Pick-and-Reorient Bottle Task
+title: "FTACT: Force Torque aware Action Chunking Transformer for Pick-and-Reorient Bottle Task"
 ---
 
 # FTACT: Force Torque aware Action Chunking Transformer for Pick-and-Reorient Bottle Task

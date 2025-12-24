@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniME-V2: MLLM-as-a-Judge for Universal Multimodal Embedding Learning
+title: "UniME-V2: MLLM-as-a-Judge for Universal Multimodal Embedding Learning"
 ---
 
 # UniME-V2: MLLM-as-a-Judge for Universal Multimodal Embedding Learning

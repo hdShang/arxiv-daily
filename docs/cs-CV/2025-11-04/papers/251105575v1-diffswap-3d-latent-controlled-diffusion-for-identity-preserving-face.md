@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DiffSwap++: 3D Latent-Controlled Diffusion for Identity-Preserving Face Swapping
+title: "DiffSwap++: 3D Latent-Controlled Diffusion for Identity-Preserving Face Swapping"
 ---
 
 # DiffSwap++: 3D Latent-Controlled Diffusion for Identity-Preserving Face Swapping

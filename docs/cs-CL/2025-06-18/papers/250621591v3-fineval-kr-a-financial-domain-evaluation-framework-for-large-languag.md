@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FinEval-KR: A Financial Domain Evaluation Framework for Large Language Models' Knowledge and Reasoning
+title: "FinEval-KR: A Financial Domain Evaluation Framework for Large Language Models' Knowledge and Reasoning"
 ---
 
 # FinEval-KR: A Financial Domain Evaluation Framework for Large Language Models' Knowledge and Reasoning

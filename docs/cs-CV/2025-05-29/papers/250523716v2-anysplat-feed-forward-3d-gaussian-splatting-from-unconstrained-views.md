@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views
+title: "AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views"
 ---
 
 # AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views

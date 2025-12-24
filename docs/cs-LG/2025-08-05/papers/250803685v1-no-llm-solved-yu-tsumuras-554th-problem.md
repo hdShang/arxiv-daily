@@ -1,6 +1,6 @@
 ---
 layout: default
-title: No LLM Solved Yu Tsumura's 554th Problem
+title: "No LLM Solved Yu Tsumura's 554th Problem"
 ---
 
 # No LLM Solved Yu Tsumura's 554th Problem

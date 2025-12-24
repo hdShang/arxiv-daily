@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ParticleSAM: Small Particle Segmentation for Material Quality Monitoring in Recycling Processes
+title: "ParticleSAM: Small Particle Segmentation for Material Quality Monitoring in Recycling Processes"
 ---
 
 # ParticleSAM: Small Particle Segmentation for Material Quality Monitoring in Recycling Processes

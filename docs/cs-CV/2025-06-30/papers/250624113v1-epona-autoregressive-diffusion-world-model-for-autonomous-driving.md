@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Epona: Autoregressive Diffusion World Model for Autonomous Driving
+title: "Epona: Autoregressive Diffusion World Model for Autonomous Driving"
 ---
 
 # Epona: Autoregressive Diffusion World Model for Autonomous Driving

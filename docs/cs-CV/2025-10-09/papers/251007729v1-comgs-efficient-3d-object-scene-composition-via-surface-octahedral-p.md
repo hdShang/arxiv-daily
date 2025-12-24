@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ComGS: Efficient 3D Object-Scene Composition via Surface Octahedral Probes
+title: "ComGS: Efficient 3D Object-Scene Composition via Surface Octahedral Probes"
 ---
 
 # ComGS: Efficient 3D Object-Scene Composition via Surface Octahedral Probes

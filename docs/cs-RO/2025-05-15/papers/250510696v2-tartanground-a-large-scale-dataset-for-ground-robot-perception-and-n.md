@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation
+title: "TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation"
 ---
 
 # TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation

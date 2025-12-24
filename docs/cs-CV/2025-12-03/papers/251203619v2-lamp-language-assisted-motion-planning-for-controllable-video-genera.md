@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LAMP: Language-Assisted Motion Planning for Controllable Video Generation
+title: "LAMP: Language-Assisted Motion Planning for Controllable Video Generation"
 ---
 
 # LAMP: Language-Assisted Motion Planning for Controllable Video Generation

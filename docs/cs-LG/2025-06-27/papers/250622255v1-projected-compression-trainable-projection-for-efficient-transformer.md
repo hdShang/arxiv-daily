@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projected Compression: Trainable Projection for Efficient Transformer Compression
+title: "Projected Compression: Trainable Projection for Efficient Transformer Compression"
 ---
 
 # Projected Compression: Trainable Projection for Efficient Transformer Compression

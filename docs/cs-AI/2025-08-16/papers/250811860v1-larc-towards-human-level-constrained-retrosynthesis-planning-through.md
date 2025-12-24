@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LARC: Towards Human-level Constrained Retrosynthesis Planning through an Agentic Framework
+title: "LARC: Towards Human-level Constrained Retrosynthesis Planning through an Agentic Framework"
 ---
 
 # LARC: Towards Human-level Constrained Retrosynthesis Planning through an Agentic Framework

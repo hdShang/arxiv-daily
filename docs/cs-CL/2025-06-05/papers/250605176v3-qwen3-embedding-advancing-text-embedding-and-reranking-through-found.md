@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Qwen3 Embedding: Advancing Text Embedding and Reranking Through Foundation Models
+title: "Qwen3 Embedding: Advancing Text Embedding and Reranking Through Foundation Models"
 ---
 
 # Qwen3 Embedding: Advancing Text Embedding and Reranking Through Foundation Models

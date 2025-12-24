@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AutoGrid AI: Deep Reinforcement Learning Framework for Autonomous Microgrid Management
+title: "AutoGrid AI: Deep Reinforcement Learning Framework for Autonomous Microgrid Management"
 ---
 
 # AutoGrid AI: Deep Reinforcement Learning Framework for Autonomous Microgrid Management

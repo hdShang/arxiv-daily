@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Right-Side-Out: Learning Zero-Shot Sim-to-Real Garment Reversal
+title: "Right-Side-Out: Learning Zero-Shot Sim-to-Real Garment Reversal"
 ---
 
 # Right-Side-Out: Learning Zero-Shot Sim-to-Real Garment Reversal

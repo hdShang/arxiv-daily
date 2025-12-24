@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning
+title: "Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning"
 ---
 
 # Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning

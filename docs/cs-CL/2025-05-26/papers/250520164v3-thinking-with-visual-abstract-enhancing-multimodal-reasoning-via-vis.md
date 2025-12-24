@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thinking with Visual Abstract: Enhancing Multimodal Reasoning via Visual Abstraction
+title: "Thinking with Visual Abstract: Enhancing Multimodal Reasoning via Visual Abstraction"
 ---
 
 # Thinking with Visual Abstract: Enhancing Multimodal Reasoning via Visual Abstraction

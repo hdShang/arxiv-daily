@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tactile MNIST: Benchmarking Active Tactile Perception
+title: "Tactile MNIST: Benchmarking Active Tactile Perception"
 ---
 
 # Tactile MNIST: Benchmarking Active Tactile Perception

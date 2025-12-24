@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Invoke Interfaces Only When Needed: Adaptive Invocation for Large Language Models in Question Answering
+title: "Invoke Interfaces Only When Needed: Adaptive Invocation for Large Language Models in Question Answering"
 ---
 
 # Invoke Interfaces Only When Needed: Adaptive Invocation for Large Language Models in Question Answering

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fast attention mechanisms: a tale of parallelism
+title: "Fast attention mechanisms: a tale of parallelism"
 ---
 
 # Fast attention mechanisms: a tale of parallelism

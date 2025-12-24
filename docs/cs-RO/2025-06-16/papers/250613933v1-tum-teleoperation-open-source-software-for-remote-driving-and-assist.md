@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TUM Teleoperation: Open Source Software for Remote Driving and Assistance of Automated Vehicles
+title: "TUM Teleoperation: Open Source Software for Remote Driving and Assistance of Automated Vehicles"
 ---
 
 # TUM Teleoperation: Open Source Software for Remote Driving and Assistance of Automated Vehicles

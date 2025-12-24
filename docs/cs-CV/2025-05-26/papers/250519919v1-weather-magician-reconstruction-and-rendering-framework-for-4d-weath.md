@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Weather-Magician: Reconstruction and Rendering Framework for 4D Weather Synthesis In Real Time
+title: "Weather-Magician: Reconstruction and Rendering Framework for 4D Weather Synthesis In Real Time"
 ---
 
 # Weather-Magician: Reconstruction and Rendering Framework for 4D Weather Synthesis In Real Time

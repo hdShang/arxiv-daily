@@ -1,6 +1,6 @@
 ---
 layout: default
-title: V*: An Efficient Motion Planning Algorithm for Autonomous Vehicles
+title: "V*: An Efficient Motion Planning Algorithm for Autonomous Vehicles"
 ---
 
 # V*: An Efficient Motion Planning Algorithm for Autonomous Vehicles

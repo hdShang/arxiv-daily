@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ICD-Net: Inertial Covariance Displacement Network for Drone Visual-Inertial SLAM
+title: "ICD-Net: Inertial Covariance Displacement Network for Drone Visual-Inertial SLAM"
 ---
 
 # ICD-Net: Inertial Covariance Displacement Network for Drone Visual-Inertial SLAM

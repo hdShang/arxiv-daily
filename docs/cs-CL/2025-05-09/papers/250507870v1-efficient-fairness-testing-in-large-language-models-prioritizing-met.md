@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Efficient Fairness Testing in Large Language Models: Prioritizing Metamorphic Relations for Bias Detection
+title: "Efficient Fairness Testing in Large Language Models: Prioritizing Metamorphic Relations for Bias Detection"
 ---
 
 # Efficient Fairness Testing in Large Language Models: Prioritizing Metamorphic Relations for Bias Detection

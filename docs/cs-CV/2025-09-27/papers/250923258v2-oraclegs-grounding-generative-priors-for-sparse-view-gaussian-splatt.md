@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OracleGS: Grounding Generative Priors for Sparse-View Gaussian Splatting
+title: "OracleGS: Grounding Generative Priors for Sparse-View Gaussian Splatting"
 ---
 
 # OracleGS: Grounding Generative Priors for Sparse-View Gaussian Splatting

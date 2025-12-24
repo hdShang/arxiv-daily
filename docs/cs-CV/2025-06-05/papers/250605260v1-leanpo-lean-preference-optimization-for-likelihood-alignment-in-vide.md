@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LeanPO: Lean Preference Optimization for Likelihood Alignment in Video-LLMs
+title: "LeanPO: Lean Preference Optimization for Likelihood Alignment in Video-LLMs"
 ---
 
 # LeanPO: Lean Preference Optimization for Likelihood Alignment in Video-LLMs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CryoSplat: Gaussian Splatting for Cryo-EM Homogeneous Reconstruction
+title: "CryoSplat: Gaussian Splatting for Cryo-EM Homogeneous Reconstruction"
 ---
 
 # CryoSplat: Gaussian Splatting for Cryo-EM Homogeneous Reconstruction

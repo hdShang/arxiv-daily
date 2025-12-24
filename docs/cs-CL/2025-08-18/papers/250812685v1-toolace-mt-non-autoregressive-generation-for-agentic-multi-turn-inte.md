@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ToolACE-MT: Non-Autoregressive Generation for Agentic Multi-Turn Interaction
+title: "ToolACE-MT: Non-Autoregressive Generation for Agentic Multi-Turn Interaction"
 ---
 
 # ToolACE-MT: Non-Autoregressive Generation for Agentic Multi-Turn Interaction

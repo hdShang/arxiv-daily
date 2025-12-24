@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SEAR: A Multimodal Dataset for Analyzing AR-LLM-Driven Social Engineering Behaviors
+title: "SEAR: A Multimodal Dataset for Analyzing AR-LLM-Driven Social Engineering Behaviors"
 ---
 
 # SEAR: A Multimodal Dataset for Analyzing AR-LLM-Driven Social Engineering Behaviors

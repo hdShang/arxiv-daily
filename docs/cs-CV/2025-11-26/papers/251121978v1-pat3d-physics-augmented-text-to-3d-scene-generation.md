@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PAT3D: Physics-Augmented Text-to-3D Scene Generation
+title: "PAT3D: Physics-Augmented Text-to-3D Scene Generation"
 ---
 
 # PAT3D: Physics-Augmented Text-to-3D Scene Generation

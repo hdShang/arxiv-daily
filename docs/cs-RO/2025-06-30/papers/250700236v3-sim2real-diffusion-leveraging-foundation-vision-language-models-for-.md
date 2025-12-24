@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sim2Real Diffusion: Leveraging Foundation Vision Language Models for Adaptive Automated Driving
+title: "Sim2Real Diffusion: Leveraging Foundation Vision Language Models for Adaptive Automated Driving"
 ---
 
 # Sim2Real Diffusion: Leveraging Foundation Vision Language Models for Adaptive Automated Driving

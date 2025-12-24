@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models
+title: "Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models"
 ---
 
 # Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models

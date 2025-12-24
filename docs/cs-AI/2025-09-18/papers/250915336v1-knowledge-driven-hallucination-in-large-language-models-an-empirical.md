@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Knowledge-Driven Hallucination in Large Language Models: An Empirical Study on Process Modeling
+title: "Knowledge-Driven Hallucination in Large Language Models: An Empirical Study on Process Modeling"
 ---
 
 # Knowledge-Driven Hallucination in Large Language Models: An Empirical Study on Process Modeling

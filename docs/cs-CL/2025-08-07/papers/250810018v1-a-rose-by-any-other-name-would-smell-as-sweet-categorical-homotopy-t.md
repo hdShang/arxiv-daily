@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Rose by Any Other Name Would Smell as Sweet: Categorical Homotopy Theory for Large Language Models
+title: "A Rose by Any Other Name Would Smell as Sweet: Categorical Homotopy Theory for Large Language Models"
 ---
 
 # A Rose by Any Other Name Would Smell as Sweet: Categorical Homotopy Theory for Large Language Models

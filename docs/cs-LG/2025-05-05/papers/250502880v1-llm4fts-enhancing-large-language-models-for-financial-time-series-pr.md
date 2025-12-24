@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM4FTS: Enhancing Large Language Models for Financial Time Series Prediction
+title: "LLM4FTS: Enhancing Large Language Models for Financial Time Series Prediction"
 ---
 
 # LLM4FTS: Enhancing Large Language Models for Financial Time Series Prediction

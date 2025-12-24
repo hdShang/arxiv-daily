@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NaviAgent: Bilevel Planning on Tool Navigation Graph for Large-Scale Orchestration
+title: "NaviAgent: Bilevel Planning on Tool Navigation Graph for Large-Scale Orchestration"
 ---
 
 # NaviAgent: Bilevel Planning on Tool Navigation Graph for Large-Scale Orchestration

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GeMS: Efficient Gaussian Splatting for Extreme Motion Blur
+title: "GeMS: Efficient Gaussian Splatting for Extreme Motion Blur"
 ---
 
 # GeMS: Efficient Gaussian Splatting for Extreme Motion Blur

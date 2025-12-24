@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Self-GIVE: Associative Thinking from Limited Structured Knowledge for Enhanced Large Language Model Reasoning
+title: "Self-GIVE: Associative Thinking from Limited Structured Knowledge for Enhanced Large Language Model Reasoning"
 ---
 
 # Self-GIVE: Associative Thinking from Limited Structured Knowledge for Enhanced Large Language Model Reasoning

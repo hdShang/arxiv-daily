@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reinforcement Learning Foundations for Deep Research Systems: A Survey
+title: "Reinforcement Learning Foundations for Deep Research Systems: A Survey"
 ---
 
 # Reinforcement Learning Foundations for Deep Research Systems: A Survey

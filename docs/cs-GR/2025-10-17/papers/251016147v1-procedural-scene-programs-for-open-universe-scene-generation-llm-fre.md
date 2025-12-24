@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Procedural Scene Programs for Open-Universe Scene Generation: LLM-Free Error Correction via Program Search
+title: "Procedural Scene Programs for Open-Universe Scene Generation: LLM-Free Error Correction via Program Search"
 ---
 
 # Procedural Scene Programs for Open-Universe Scene Generation: LLM-Free Error Correction via Program Search

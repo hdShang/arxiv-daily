@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LookAlike: Consistent Distractor Generation in Math MCQs
+title: "LookAlike: Consistent Distractor Generation in Math MCQs"
 ---
 
 # LookAlike: Consistent Distractor Generation in Math MCQs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study
+title: "Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study"
 ---
 
 # Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study

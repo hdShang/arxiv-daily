@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CorrSteer: Generation-Time LLM Steering via Correlated Sparse Autoencoder Features
+title: "CorrSteer: Generation-Time LLM Steering via Correlated Sparse Autoencoder Features"
 ---
 
 # CorrSteer: Generation-Time LLM Steering via Correlated Sparse Autoencoder Features

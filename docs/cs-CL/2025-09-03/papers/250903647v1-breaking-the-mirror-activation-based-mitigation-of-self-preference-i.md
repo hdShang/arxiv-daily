@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Breaking the Mirror: Activation-Based Mitigation of Self-Preference in LLM Evaluators
+title: "Breaking the Mirror: Activation-Based Mitigation of Self-Preference in LLM Evaluators"
 ---
 
 # Breaking the Mirror: Activation-Based Mitigation of Self-Preference in LLM Evaluators

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Co-Me: Confidence-Guided Token Merging for Visual Geometric Transformers
+title: "Co-Me: Confidence-Guided Token Merging for Visual Geometric Transformers"
 ---
 
 # Co-Me: Confidence-Guided Token Merging for Visual Geometric Transformers

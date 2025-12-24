@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Demonstrations to Safe Deployment: Path-Consistent Safety Filtering for Diffusion Policies
+title: "From Demonstrations to Safe Deployment: Path-Consistent Safety Filtering for Diffusion Policies"
 ---
 
 # From Demonstrations to Safe Deployment: Path-Consistent Safety Filtering for Diffusion Policies

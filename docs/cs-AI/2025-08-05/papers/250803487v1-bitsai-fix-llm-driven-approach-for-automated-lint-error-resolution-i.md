@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BitsAI-Fix: LLM-Driven Approach for Automated Lint Error Resolution in Practice
+title: "BitsAI-Fix: LLM-Driven Approach for Automated Lint Error Resolution in Practice"
 ---
 
 # BitsAI-Fix: LLM-Driven Approach for Automated Lint Error Resolution in Practice

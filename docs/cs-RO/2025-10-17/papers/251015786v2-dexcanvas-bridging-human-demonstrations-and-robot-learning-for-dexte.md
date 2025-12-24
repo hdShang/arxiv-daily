@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DexCanvas: Bridging Human Demonstrations and Robot Learning for Dexterous Manipulation
+title: "DexCanvas: Bridging Human Demonstrations and Robot Learning for Dexterous Manipulation"
 ---
 
 # DexCanvas: Bridging Human Demonstrations and Robot Learning for Dexterous Manipulation

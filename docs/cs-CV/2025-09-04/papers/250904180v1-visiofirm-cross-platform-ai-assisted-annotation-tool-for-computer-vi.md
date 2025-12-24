@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VisioFirm: Cross-Platform AI-assisted Annotation Tool for Computer Vision
+title: "VisioFirm: Cross-Platform AI-assisted Annotation Tool for Computer Vision"
 ---
 
 # VisioFirm: Cross-Platform AI-assisted Annotation Tool for Computer Vision

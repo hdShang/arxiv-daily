@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DAgger Diffusion Navigation: DAgger Boosted Diffusion Policy for Vision-Language Navigation
+title: "DAgger Diffusion Navigation: DAgger Boosted Diffusion Policy for Vision-Language Navigation"
 ---
 
 # DAgger Diffusion Navigation: DAgger Boosted Diffusion Policy for Vision-Language Navigation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MedArabiQ: Benchmarking Large Language Models on Arabic Medical Tasks
+title: "MedArabiQ: Benchmarking Large Language Models on Arabic Medical Tasks"
 ---
 
 # MedArabiQ: Benchmarking Large Language Models on Arabic Medical Tasks

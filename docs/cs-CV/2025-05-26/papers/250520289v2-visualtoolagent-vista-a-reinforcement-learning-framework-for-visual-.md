@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VisualToolAgent (VisTA): A Reinforcement Learning Framework for Visual Tool Selection
+title: "VisualToolAgent (VisTA): A Reinforcement Learning Framework for Visual Tool Selection"
 ---
 
 # VisualToolAgent (VisTA): A Reinforcement Learning Framework for Visual Tool Selection

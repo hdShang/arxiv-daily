@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DuaShepherd: Integrating Stepwise Correctness and Potential Rewards for Mathematical Reasoning
+title: "DuaShepherd: Integrating Stepwise Correctness and Potential Rewards for Mathematical Reasoning"
 ---
 
 # DuaShepherd: Integrating Stepwise Correctness and Potential Rewards for Mathematical Reasoning

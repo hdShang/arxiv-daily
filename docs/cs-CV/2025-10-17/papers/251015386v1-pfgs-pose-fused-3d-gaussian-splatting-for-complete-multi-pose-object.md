@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PFGS: Pose-Fused 3D Gaussian Splatting for Complete Multi-Pose Object Reconstruction
+title: "PFGS: Pose-Fused 3D Gaussian Splatting for Complete Multi-Pose Object Reconstruction"
 ---
 
 # PFGS: Pose-Fused 3D Gaussian Splatting for Complete Multi-Pose Object Reconstruction

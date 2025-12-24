@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SLOT: Structuring the Output of Large Language Models
+title: "SLOT: Structuring the Output of Large Language Models"
 ---
 
 # SLOT: Structuring the Output of Large Language Models

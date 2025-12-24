@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PoseDiff: A Unified Diffusion Model Bridging Robot Pose Estimation and Video-to-Action Control
+title: "PoseDiff: A Unified Diffusion Model Bridging Robot Pose Estimation and Video-to-Action Control"
 ---
 
 # PoseDiff: A Unified Diffusion Model Bridging Robot Pose Estimation and Video-to-Action Control

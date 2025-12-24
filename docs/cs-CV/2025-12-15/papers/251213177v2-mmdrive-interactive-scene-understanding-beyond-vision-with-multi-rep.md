@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMDrive: Interactive Scene Understanding Beyond Vision with Multi-representational Fusion
+title: "MMDrive: Interactive Scene Understanding Beyond Vision with Multi-representational Fusion"
 ---
 
 # MMDrive: Interactive Scene Understanding Beyond Vision with Multi-representational Fusion

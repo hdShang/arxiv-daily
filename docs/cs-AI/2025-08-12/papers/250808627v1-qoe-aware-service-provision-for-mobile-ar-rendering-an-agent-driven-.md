@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QoE-Aware Service Provision for Mobile AR Rendering: An Agent-Driven Approach
+title: "QoE-Aware Service Provision for Mobile AR Rendering: An Agent-Driven Approach"
 ---
 
 # QoE-Aware Service Provision for Mobile AR Rendering: An Agent-Driven Approach

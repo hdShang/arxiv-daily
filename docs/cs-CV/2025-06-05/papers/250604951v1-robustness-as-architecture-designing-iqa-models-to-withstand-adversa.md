@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Robustness as Architecture: Designing IQA Models to Withstand Adversarial Perturbations
+title: "Robustness as Architecture: Designing IQA Models to Withstand Adversarial Perturbations"
 ---
 
 # Robustness as Architecture: Designing IQA Models to Withstand Adversarial Perturbations

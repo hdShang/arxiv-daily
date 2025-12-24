@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CLAW: A Vision-Language-Action Framework for Weight-Aware Robotic Grasping
+title: "CLAW: A Vision-Language-Action Framework for Weight-Aware Robotic Grasping"
 ---
 
 # CLAW: A Vision-Language-Action Framework for Weight-Aware Robotic Grasping

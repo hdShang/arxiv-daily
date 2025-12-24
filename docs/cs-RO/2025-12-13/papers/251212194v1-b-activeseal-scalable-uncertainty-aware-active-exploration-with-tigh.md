@@ -1,6 +1,6 @@
 ---
 layout: default
-title: B-ActiveSEAL: Scalable Uncertainty-Aware Active Exploration with Tightly Coupled Localization-Mapping
+title: "B-ActiveSEAL: Scalable Uncertainty-Aware Active Exploration with Tightly Coupled Localization-Mapping"
 ---
 
 # B-ActiveSEAL: Scalable Uncertainty-Aware Active Exploration with Tightly Coupled Localization-Mapping

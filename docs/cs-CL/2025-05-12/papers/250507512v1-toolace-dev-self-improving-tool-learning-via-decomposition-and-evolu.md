@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ToolACE-DEV: Self-Improving Tool Learning via Decomposition and EVolution
+title: "ToolACE-DEV: Self-Improving Tool Learning via Decomposition and EVolution"
 ---
 
 # ToolACE-DEV: Self-Improving Tool Learning via Decomposition and EVolution

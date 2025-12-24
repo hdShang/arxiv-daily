@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tracking World States with Language Models: State-Based Evaluation Using Chess
+title: "Tracking World States with Language Models: State-Based Evaluation Using Chess"
 ---
 
 # Tracking World States with Language Models: State-Based Evaluation Using Chess

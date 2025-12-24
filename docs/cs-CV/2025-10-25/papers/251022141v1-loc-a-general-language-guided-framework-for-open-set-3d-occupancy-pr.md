@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LOC: A General Language-Guided Framework for Open-Set 3D Occupancy Prediction
+title: "LOC: A General Language-Guided Framework for Open-Set 3D Occupancy Prediction"
 ---
 
 # LOC: A General Language-Guided Framework for Open-Set 3D Occupancy Prediction

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GridRoute: A Benchmark for LLM-Based Route Planning with Cardinal Movement in Grid Environments
+title: "GridRoute: A Benchmark for LLM-Based Route Planning with Cardinal Movement in Grid Environments"
 ---
 
 # GridRoute: A Benchmark for LLM-Based Route Planning with Cardinal Movement in Grid Environments

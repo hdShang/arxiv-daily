@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AmodalGen3D: Generative Amodal 3D Object Reconstruction from Sparse Unposed Views
+title: "AmodalGen3D: Generative Amodal 3D Object Reconstruction from Sparse Unposed Views"
 ---
 
 # AmodalGen3D: Generative Amodal 3D Object Reconstruction from Sparse Unposed Views

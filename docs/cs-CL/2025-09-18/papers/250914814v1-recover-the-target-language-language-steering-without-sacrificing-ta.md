@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReCoVeR the Target Language: Language Steering without Sacrificing Task Performance
+title: "ReCoVeR the Target Language: Language Steering without Sacrificing Task Performance"
 ---
 
 # ReCoVeR the Target Language: Language Steering without Sacrificing Task Performance

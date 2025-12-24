@@ -1,6 +1,6 @@
 ---
 layout: default
-title: XFlowMP: Task-Conditioned Motion Fields for Generative Robot Planning with Schrodinger Bridges
+title: "XFlowMP: Task-Conditioned Motion Fields for Generative Robot Planning with Schrodinger Bridges"
 ---
 
 # XFlowMP: Task-Conditioned Motion Fields for Generative Robot Planning with Schrodinger Bridges

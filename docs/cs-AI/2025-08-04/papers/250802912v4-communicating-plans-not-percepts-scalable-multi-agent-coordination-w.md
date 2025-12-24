@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Communicating Plans, Not Percepts: Scalable Multi-Agent Coordination with Embodied World Models
+title: "Communicating Plans, Not Percepts: Scalable Multi-Agent Coordination with Embodied World Models"
 ---
 
 # Communicating Plans, Not Percepts: Scalable Multi-Agent Coordination with Embodied World Models

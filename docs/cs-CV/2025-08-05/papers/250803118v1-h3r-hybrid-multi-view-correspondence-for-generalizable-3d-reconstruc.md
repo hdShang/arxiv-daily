@@ -1,6 +1,6 @@
 ---
 layout: default
-title: H3R: Hybrid Multi-view Correspondence for Generalizable 3D Reconstruction
+title: "H3R: Hybrid Multi-view Correspondence for Generalizable 3D Reconstruction"
 ---
 
 # H3R: Hybrid Multi-view Correspondence for Generalizable 3D Reconstruction

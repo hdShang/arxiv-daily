@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TAVID: Text-Driven Audio-Visual Interactive Dialogue Generation
+title: "TAVID: Text-Driven Audio-Visual Interactive Dialogue Generation"
 ---
 
 # TAVID: Text-Driven Audio-Visual Interactive Dialogue Generation

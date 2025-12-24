@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeepOmni: Towards Seamless and Smart Speech Interaction with Adaptive Modality-Specific MoE
+title: "DeepOmni: Towards Seamless and Smart Speech Interaction with Adaptive Modality-Specific MoE"
 ---
 
 # DeepOmni: Towards Seamless and Smart Speech Interaction with Adaptive Modality-Specific MoE

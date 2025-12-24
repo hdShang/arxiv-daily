@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting
+title: "SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting"
 ---
 
 # SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting

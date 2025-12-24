@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GuideX: Guided Synthetic Data Generation for Zero-Shot Information Extraction
+title: "GuideX: Guided Synthetic Data Generation for Zero-Shot Information Extraction"
 ---
 
 # GuideX: Guided Synthetic Data Generation for Zero-Shot Information Extraction

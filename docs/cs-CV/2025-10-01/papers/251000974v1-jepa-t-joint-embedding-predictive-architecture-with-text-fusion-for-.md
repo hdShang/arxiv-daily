@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JEPA-T: Joint-Embedding Predictive Architecture with Text Fusion for Image Generation
+title: "JEPA-T: Joint-Embedding Predictive Architecture with Text Fusion for Image Generation"
 ---
 
 # JEPA-T: Joint-Embedding Predictive Architecture with Text Fusion for Image Generation

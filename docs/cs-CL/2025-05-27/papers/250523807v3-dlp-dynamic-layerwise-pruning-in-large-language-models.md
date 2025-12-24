@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DLP: Dynamic Layerwise Pruning in Large Language Models
+title: "DLP: Dynamic Layerwise Pruning in Large Language Models"
 ---
 
 # DLP: Dynamic Layerwise Pruning in Large Language Models

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views
+title: "PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views"
 ---
 
 # PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StreetReaderAI: Making Street View Accessible Using Context-Aware Multimodal AI
+title: "StreetReaderAI: Making Street View Accessible Using Context-Aware Multimodal AI"
 ---
 
 # StreetReaderAI: Making Street View Accessible Using Context-Aware Multimodal AI

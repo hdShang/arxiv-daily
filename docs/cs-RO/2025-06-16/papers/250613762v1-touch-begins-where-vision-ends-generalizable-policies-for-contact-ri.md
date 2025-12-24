@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Touch begins where vision ends: Generalizable policies for contact-rich manipulation
+title: "Touch begins where vision ends: Generalizable policies for contact-rich manipulation"
 ---
 
 # Touch begins where vision ends: Generalizable policies for contact-rich manipulation

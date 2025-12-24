@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Automated File-Level Logging Generation for Machine Learning Applications using LLMs: A Case Study using GPT-4o Mini
+title: "Automated File-Level Logging Generation for Machine Learning Applications using LLMs: A Case Study using GPT-4o Mini"
 ---
 
 # Automated File-Level Logging Generation for Machine Learning Applications using LLMs: A Case Study using GPT-4o Mini

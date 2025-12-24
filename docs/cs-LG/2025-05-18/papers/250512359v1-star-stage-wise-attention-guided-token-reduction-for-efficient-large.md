@@ -1,6 +1,6 @@
 ---
 layout: default
-title: STAR: Stage-Wise Attention-Guided Token Reduction for Efficient Large Vision-Language Models Inference
+title: "STAR: Stage-Wise Attention-Guided Token Reduction for Efficient Large Vision-Language Models Inference"
 ---
 
 # STAR: Stage-Wise Attention-Guided Token Reduction for Efficient Large Vision-Language Models Inference

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Omni-SMoLA: Boosting Generalist Multimodal Models with Soft Mixture of Low-rank Experts
+title: "Omni-SMoLA: Boosting Generalist Multimodal Models with Soft Mixture of Low-rank Experts"
 ---
 
 # Omni-SMoLA: Boosting Generalist Multimodal Models with Soft Mixture of Low-rank Experts

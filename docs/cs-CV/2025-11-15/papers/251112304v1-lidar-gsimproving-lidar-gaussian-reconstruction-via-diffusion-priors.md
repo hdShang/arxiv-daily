@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LiDAR-GS++:Improving LiDAR Gaussian Reconstruction via Diffusion Priors
+title: "LiDAR-GS++:Improving LiDAR Gaussian Reconstruction via Diffusion Priors"
 ---
 
 # LiDAR-GS++:Improving LiDAR Gaussian Reconstruction via Diffusion Priors

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RLHF and IIA: Perverse Incentives
+title: "RLHF and IIA: Perverse Incentives"
 ---
 
 # RLHF and IIA: Perverse Incentives

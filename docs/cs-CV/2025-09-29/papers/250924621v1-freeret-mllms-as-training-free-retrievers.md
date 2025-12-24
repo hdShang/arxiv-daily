@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FreeRet: MLLMs as Training-Free Retrievers
+title: "FreeRet: MLLMs as Training-Free Retrievers"
 ---
 
 # FreeRet: MLLMs as Training-Free Retrievers

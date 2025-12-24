@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COLLAGE: Adaptive Fusion-based Retrieval for Augmented Policy Learning
+title: "COLLAGE: Adaptive Fusion-based Retrieval for Augmented Policy Learning"
 ---
 
 # COLLAGE: Adaptive Fusion-based Retrieval for Augmented Policy Learning

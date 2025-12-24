@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Occlusion Boundary and Depth: Mutual Enhancement via Multi-Task Learning
+title: "Occlusion Boundary and Depth: Mutual Enhancement via Multi-Task Learning"
 ---
 
 # Occlusion Boundary and Depth: Mutual Enhancement via Multi-Task Learning

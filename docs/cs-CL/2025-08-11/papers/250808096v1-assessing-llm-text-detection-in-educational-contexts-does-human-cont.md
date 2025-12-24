@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assessing LLM Text Detection in Educational Contexts: Does Human Contribution Affect Detection?
+title: "Assessing LLM Text Detection in Educational Contexts: Does Human Contribution Affect Detection?"
 ---
 
 # Assessing LLM Text Detection in Educational Contexts: Does Human Contribution Affect Detection?

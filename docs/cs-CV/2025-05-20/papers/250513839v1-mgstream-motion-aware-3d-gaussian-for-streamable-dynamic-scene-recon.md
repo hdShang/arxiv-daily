@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MGStream: Motion-aware 3D Gaussian for Streamable Dynamic Scene Reconstruction
+title: "MGStream: Motion-aware 3D Gaussian for Streamable Dynamic Scene Reconstruction"
 ---
 
 # MGStream: Motion-aware 3D Gaussian for Streamable Dynamic Scene Reconstruction

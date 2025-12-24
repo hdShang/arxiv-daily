@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FairTune: A Bias-Aware Fine-Tuning Framework Towards Fair Heart Rate Prediction from PPG
+title: "FairTune: A Bias-Aware Fine-Tuning Framework Towards Fair Heart Rate Prediction from PPG"
 ---
 
 # FairTune: A Bias-Aware Fine-Tuning Framework Towards Fair Heart Rate Prediction from PPG

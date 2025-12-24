@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HAVE: Head-Adaptive Gating and ValuE Calibration for Hallucination Mitigation in Large Language Models
+title: "HAVE: Head-Adaptive Gating and ValuE Calibration for Hallucination Mitigation in Large Language Models"
 ---
 
 # HAVE: Head-Adaptive Gating and ValuE Calibration for Hallucination Mitigation in Large Language Models

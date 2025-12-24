@@ -1,6 +1,6 @@
 ---
 layout: default
-title: APO: Enhancing Reasoning Ability of MLLMs via Asymmetric Policy Optimization
+title: "APO: Enhancing Reasoning Ability of MLLMs via Asymmetric Policy Optimization"
 ---
 
 # APO: Enhancing Reasoning Ability of MLLMs via Asymmetric Policy Optimization

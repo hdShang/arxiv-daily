@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MiMo: Unlocking the Reasoning Potential of Language Model -- From Pretraining to Posttraining
+title: "MiMo: Unlocking the Reasoning Potential of Language Model -- From Pretraining to Posttraining"
 ---
 
 # MiMo: Unlocking the Reasoning Potential of Language Model -- From Pretraining to Posttraining

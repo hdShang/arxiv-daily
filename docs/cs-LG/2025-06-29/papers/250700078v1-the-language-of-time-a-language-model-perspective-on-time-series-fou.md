@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The language of time: a language model perspective on time-series foundation models
+title: "The language of time: a language model perspective on time-series foundation models"
 ---
 
 # The language of time: a language model perspective on time-series foundation models

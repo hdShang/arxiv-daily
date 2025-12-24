@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trace3D: Consistent Segmentation Lifting via Gaussian Instance Tracing
+title: "Trace3D: Consistent Segmentation Lifting via Gaussian Instance Tracing"
 ---
 
 # Trace3D: Consistent Segmentation Lifting via Gaussian Instance Tracing

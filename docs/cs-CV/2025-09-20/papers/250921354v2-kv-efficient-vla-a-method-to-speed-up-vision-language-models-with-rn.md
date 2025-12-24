@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KV-Efficient VLA: A Method to Speed up Vision Language Models with RNN-Gated Chunked KV Cache
+title: "KV-Efficient VLA: A Method to Speed up Vision Language Models with RNN-Gated Chunked KV Cache"
 ---
 
 # KV-Efficient VLA: A Method to Speed up Vision Language Models with RNN-Gated Chunked KV Cache

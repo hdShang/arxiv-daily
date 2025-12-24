@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CLIP Meets Diffusion: A Synergistic Approach to Anomaly Detection
+title: "CLIP Meets Diffusion: A Synergistic Approach to Anomaly Detection"
 ---
 
 # CLIP Meets Diffusion: A Synergistic Approach to Anomaly Detection

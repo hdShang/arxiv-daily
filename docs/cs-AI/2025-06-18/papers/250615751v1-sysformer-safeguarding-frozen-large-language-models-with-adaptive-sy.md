@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sysformer: Safeguarding Frozen Large Language Models with Adaptive System Prompts
+title: "Sysformer: Safeguarding Frozen Large Language Models with Adaptive System Prompts"
 ---
 
 # Sysformer: Safeguarding Frozen Large Language Models with Adaptive System Prompts

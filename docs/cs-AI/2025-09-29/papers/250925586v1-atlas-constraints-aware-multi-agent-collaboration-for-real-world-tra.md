@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ATLAS: Constraints-Aware Multi-Agent Collaboration for Real-World Travel Planning
+title: "ATLAS: Constraints-Aware Multi-Agent Collaboration for Real-World Travel Planning"
 ---
 
 # ATLAS: Constraints-Aware Multi-Agent Collaboration for Real-World Travel Planning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Part-X-MLLM: Part-aware 3D Multimodal Large Language Model
+title: "Part-X-MLLM: Part-aware 3D Multimodal Large Language Model"
 ---
 
 # Part-X-MLLM: Part-aware 3D Multimodal Large Language Model

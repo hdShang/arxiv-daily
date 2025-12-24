@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SemToken: Semantic-Aware Tokenization for Efficient Long-Context Language Modeling
+title: "SemToken: Semantic-Aware Tokenization for Efficient Long-Context Language Modeling"
 ---
 
 # SemToken: Semantic-Aware Tokenization for Efficient Long-Context Language Modeling

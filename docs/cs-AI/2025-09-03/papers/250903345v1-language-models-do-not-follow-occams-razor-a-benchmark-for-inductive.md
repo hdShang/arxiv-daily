@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Language Models Do Not Follow Occam's Razor: A Benchmark for Inductive and Abductive Reasoning
+title: "Language Models Do Not Follow Occam's Razor: A Benchmark for Inductive and Abductive Reasoning"
 ---
 
 # Language Models Do Not Follow Occam's Razor: A Benchmark for Inductive and Abductive Reasoning

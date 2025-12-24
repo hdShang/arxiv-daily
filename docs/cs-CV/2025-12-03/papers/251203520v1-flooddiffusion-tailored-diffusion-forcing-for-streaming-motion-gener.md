@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FloodDiffusion: Tailored Diffusion Forcing for Streaming Motion Generation
+title: "FloodDiffusion: Tailored Diffusion Forcing for Streaming Motion Generation"
 ---
 
 # FloodDiffusion: Tailored Diffusion Forcing for Streaming Motion Generation

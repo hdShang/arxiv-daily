@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EGFormer: Towards Efficient and Generalizable Multimodal Semantic Segmentation
+title: "EGFormer: Towards Efficient and Generalizable Multimodal Semantic Segmentation"
 ---
 
 # EGFormer: Towards Efficient and Generalizable Multimodal Semantic Segmentation

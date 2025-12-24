@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Elastic3D: Controllable Stereo Video Conversion with Guided Latent Decoding
+title: "Elastic3D: Controllable Stereo Video Conversion with Guided Latent Decoding"
 ---
 
 # Elastic3D: Controllable Stereo Video Conversion with Guided Latent Decoding

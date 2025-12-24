@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI and Generative AI Transforming Disaster Management: A Survey of Damage Assessment and Response Techniques
+title: "AI and Generative AI Transforming Disaster Management: A Survey of Damage Assessment and Response Techniques"
 ---
 
 # AI and Generative AI Transforming Disaster Management: A Survey of Damage Assessment and Response Techniques

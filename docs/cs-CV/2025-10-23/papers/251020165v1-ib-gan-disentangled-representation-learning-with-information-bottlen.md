@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IB-GAN: Disentangled Representation Learning with Information Bottleneck Generative Adversarial Networks
+title: "IB-GAN: Disentangled Representation Learning with Information Bottleneck Generative Adversarial Networks"
 ---
 
 # IB-GAN: Disentangled Representation Learning with Information Bottleneck Generative Adversarial Networks

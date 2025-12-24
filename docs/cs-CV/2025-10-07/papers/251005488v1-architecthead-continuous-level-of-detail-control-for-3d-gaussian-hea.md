@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ArchitectHead: Continuous Level of Detail Control for 3D Gaussian Head Avatars
+title: "ArchitectHead: Continuous Level of Detail Control for 3D Gaussian Head Avatars"
 ---
 
 # ArchitectHead: Continuous Level of Detail Control for 3D Gaussian Head Avatars

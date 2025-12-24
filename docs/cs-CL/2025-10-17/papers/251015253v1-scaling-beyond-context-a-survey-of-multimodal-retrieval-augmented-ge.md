@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding
+title: "Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding"
 ---
 
 # Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding

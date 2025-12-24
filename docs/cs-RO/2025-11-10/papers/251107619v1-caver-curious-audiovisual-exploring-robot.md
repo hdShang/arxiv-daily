@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CAVER: Curious Audiovisual Exploring Robot
+title: "CAVER: Curious Audiovisual Exploring Robot"
 ---
 
 # CAVER: Curious Audiovisual Exploring Robot

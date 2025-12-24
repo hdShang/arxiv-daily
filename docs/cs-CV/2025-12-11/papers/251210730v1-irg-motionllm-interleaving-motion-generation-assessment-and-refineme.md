@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IRG-MotionLLM: Interleaving Motion Generation, Assessment and Refinement for Text-to-Motion Generation
+title: "IRG-MotionLLM: Interleaving Motion Generation, Assessment and Refinement for Text-to-Motion Generation"
 ---
 
 # IRG-MotionLLM: Interleaving Motion Generation, Assessment and Refinement for Text-to-Motion Generation

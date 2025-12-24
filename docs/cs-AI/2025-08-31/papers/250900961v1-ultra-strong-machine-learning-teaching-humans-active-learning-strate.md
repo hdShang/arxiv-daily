@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ultra Strong Machine Learning: Teaching Humans Active Learning Strategies via Automated AI Explanations
+title: "Ultra Strong Machine Learning: Teaching Humans Active Learning Strategies via Automated AI Explanations"
 ---
 
 # Ultra Strong Machine Learning: Teaching Humans Active Learning Strategies via Automated AI Explanations

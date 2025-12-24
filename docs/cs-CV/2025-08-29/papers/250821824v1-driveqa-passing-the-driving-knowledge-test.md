@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DriveQA: Passing the Driving Knowledge Test
+title: "DriveQA: Passing the Driving Knowledge Test"
 ---
 
 # DriveQA: Passing the Driving Knowledge Test

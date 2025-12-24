@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MORE: Mobile Manipulation Rearrangement Through Grounded Language Reasoning
+title: "MORE: Mobile Manipulation Rearrangement Through Grounded Language Reasoning"
 ---
 
 # MORE: Mobile Manipulation Rearrangement Through Grounded Language Reasoning

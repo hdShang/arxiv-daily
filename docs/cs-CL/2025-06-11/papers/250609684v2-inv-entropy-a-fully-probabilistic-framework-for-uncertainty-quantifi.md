@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inv-Entropy: A Fully Probabilistic Framework for Uncertainty Quantification in Language Models
+title: "Inv-Entropy: A Fully Probabilistic Framework for Uncertainty Quantification in Language Models"
 ---
 
 # Inv-Entropy: A Fully Probabilistic Framework for Uncertainty Quantification in Language Models

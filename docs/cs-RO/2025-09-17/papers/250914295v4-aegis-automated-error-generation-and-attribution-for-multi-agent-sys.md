@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aegis: Automated Error Generation and Attribution for Multi-Agent Systems
+title: "Aegis: Automated Error Generation and Attribution for Multi-Agent Systems"
 ---
 
 # Aegis: Automated Error Generation and Attribution for Multi-Agent Systems

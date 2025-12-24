@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Position: Enough of Scaling LLMs! Lets Focus on Downscaling
+title: "Position: Enough of Scaling LLMs! Lets Focus on Downscaling"
 ---
 
 # Position: Enough of Scaling LLMs! Lets Focus on Downscaling

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MultiMat: Multimodal Program Synthesis for Procedural Materials using Large Multimodal Models
+title: "MultiMat: Multimodal Program Synthesis for Procedural Materials using Large Multimodal Models"
 ---
 
 # MultiMat: Multimodal Program Synthesis for Procedural Materials using Large Multimodal Models

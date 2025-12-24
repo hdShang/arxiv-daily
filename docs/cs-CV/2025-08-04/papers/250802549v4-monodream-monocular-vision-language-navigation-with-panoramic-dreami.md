@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MonoDream: Monocular Vision-Language Navigation with Panoramic Dreaming
+title: "MonoDream: Monocular Vision-Language Navigation with Panoramic Dreaming"
 ---
 
 # MonoDream: Monocular Vision-Language Navigation with Panoramic Dreaming

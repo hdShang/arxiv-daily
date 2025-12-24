@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Real-World Rumor Detection: Anomaly Detection Framework with Graph Supervised Contrastive Learning
+title: "Towards Real-World Rumor Detection: Anomaly Detection Framework with Graph Supervised Contrastive Learning"
 ---
 
 # Towards Real-World Rumor Detection: Anomaly Detection Framework with Graph Supervised Contrastive Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OV-MAP : Open-Vocabulary Zero-Shot 3D Instance Segmentation Map for Robots
+title: "OV-MAP : Open-Vocabulary Zero-Shot 3D Instance Segmentation Map for Robots"
 ---
 
 # OV-MAP : Open-Vocabulary Zero-Shot 3D Instance Segmentation Map for Robots

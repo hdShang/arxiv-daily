@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TCB-VIO: Tightly-Coupled Focal-Plane Binary-Enhanced Visual Inertial Odometry
+title: "TCB-VIO: Tightly-Coupled Focal-Plane Binary-Enhanced Visual Inertial Odometry"
 ---
 
 # TCB-VIO: Tightly-Coupled Focal-Plane Binary-Enhanced Visual Inertial Odometry

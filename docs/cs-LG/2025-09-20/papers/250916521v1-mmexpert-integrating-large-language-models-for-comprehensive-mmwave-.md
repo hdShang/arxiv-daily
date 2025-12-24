@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mmExpert: Integrating Large Language Models for Comprehensive mmWave Data Synthesis and Understanding
+title: "mmExpert: Integrating Large Language Models for Comprehensive mmWave Data Synthesis and Understanding"
 ---
 
 # mmExpert: Integrating Large Language Models for Comprehensive mmWave Data Synthesis and Understanding

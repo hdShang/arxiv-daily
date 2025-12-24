@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions
+title: "ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions"
 ---
 
 # ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions

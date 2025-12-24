@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VIRTUE: Visual-Interactive Text-Image Universal Embedder
+title: "VIRTUE: Visual-Interactive Text-Image Universal Embedder"
 ---
 
 # VIRTUE: Visual-Interactive Text-Image Universal Embedder

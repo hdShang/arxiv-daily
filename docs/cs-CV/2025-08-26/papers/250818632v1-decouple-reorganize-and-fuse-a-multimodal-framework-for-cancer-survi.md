@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Decouple, Reorganize, and Fuse: A Multimodal Framework for Cancer Survival Prediction
+title: "Decouple, Reorganize, and Fuse: A Multimodal Framework for Cancer Survival Prediction"
 ---
 
 # Decouple, Reorganize, and Fuse: A Multimodal Framework for Cancer Survival Prediction

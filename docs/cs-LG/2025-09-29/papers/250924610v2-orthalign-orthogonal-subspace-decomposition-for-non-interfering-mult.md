@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OrthAlign: Orthogonal Subspace Decomposition for Non-Interfering Multi-Objective Alignment
+title: "OrthAlign: Orthogonal Subspace Decomposition for Non-Interfering Multi-Objective Alignment"
 ---
 
 # OrthAlign: Orthogonal Subspace Decomposition for Non-Interfering Multi-Objective Alignment

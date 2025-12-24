@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LSM-2: Learning from Incomplete Wearable Sensor Data
+title: "LSM-2: Learning from Incomplete Wearable Sensor Data"
 ---
 
 # LSM-2: Learning from Incomplete Wearable Sensor Data

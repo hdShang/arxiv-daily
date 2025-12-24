@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Valid Property-Enhanced Contrastive Learning for Targeted Optimization & Resampling for Novel Drug Design
+title: "Valid Property-Enhanced Contrastive Learning for Targeted Optimization & Resampling for Novel Drug Design"
 ---
 
 # Valid Property-Enhanced Contrastive Learning for Targeted Optimization & Resampling for Novel Drug Design

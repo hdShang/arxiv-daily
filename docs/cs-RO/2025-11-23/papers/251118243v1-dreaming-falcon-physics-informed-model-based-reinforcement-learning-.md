@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dreaming Falcon: Physics-Informed Model-Based Reinforcement Learning for Quadcopters
+title: "Dreaming Falcon: Physics-Informed Model-Based Reinforcement Learning for Quadcopters"
 ---
 
 # Dreaming Falcon: Physics-Informed Model-Based Reinforcement Learning for Quadcopters

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EPIC: Generative AI Platform for Accelerating HPC Operational Data Analytics
+title: "EPIC: Generative AI Platform for Accelerating HPC Operational Data Analytics"
 ---
 
 # EPIC: Generative AI Platform for Accelerating HPC Operational Data Analytics

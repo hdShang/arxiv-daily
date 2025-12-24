@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LAA3D: A Benchmark of Detecting and Tracking Low-Altitude Aircraft in 3D Space
+title: "LAA3D: A Benchmark of Detecting and Tracking Low-Altitude Aircraft in 3D Space"
 ---
 
 # LAA3D: A Benchmark of Detecting and Tracking Low-Altitude Aircraft in 3D Space

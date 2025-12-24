@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLM-First Search: Self-Guided Exploration of the Solution Space
+title: "LLM-First Search: Self-Guided Exploration of the Solution Space"
 ---
 
 # LLM-First Search: Self-Guided Exploration of the Solution Space

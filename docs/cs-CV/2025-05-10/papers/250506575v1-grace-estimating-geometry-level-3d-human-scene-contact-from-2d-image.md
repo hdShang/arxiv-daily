@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GRACE: Estimating Geometry-level 3D Human-Scene Contact from 2D Images
+title: "GRACE: Estimating Geometry-level 3D Human-Scene Contact from 2D Images"
 ---
 
 # GRACE: Estimating Geometry-level 3D Human-Scene Contact from 2D Images

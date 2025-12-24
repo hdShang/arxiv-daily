@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SANR: Scene-Aware Neural Representation for Light Field Image Compression with Rate-Distortion Optimization
+title: "SANR: Scene-Aware Neural Representation for Light Field Image Compression with Rate-Distortion Optimization"
 ---
 
 # SANR: Scene-Aware Neural Representation for Light Field Image Compression with Rate-Distortion Optimization

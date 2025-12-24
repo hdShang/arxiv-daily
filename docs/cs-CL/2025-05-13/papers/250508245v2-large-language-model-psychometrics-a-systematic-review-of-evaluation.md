@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Large Language Model Psychometrics: A Systematic Review of Evaluation, Validation, and Enhancement
+title: "Large Language Model Psychometrics: A Systematic Review of Evaluation, Validation, and Enhancement"
 ---
 
 # Large Language Model Psychometrics: A Systematic Review of Evaluation, Validation, and Enhancement

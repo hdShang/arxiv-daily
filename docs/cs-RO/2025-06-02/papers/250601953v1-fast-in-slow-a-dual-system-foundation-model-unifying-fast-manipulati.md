@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning
+title: "Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning"
 ---
 
 # Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning

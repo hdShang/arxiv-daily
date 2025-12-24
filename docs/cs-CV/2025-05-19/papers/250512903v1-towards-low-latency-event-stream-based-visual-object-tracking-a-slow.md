@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Towards Low-Latency Event Stream-based Visual Object Tracking: A Slow-Fast Approach
+title: "Towards Low-Latency Event Stream-based Visual Object Tracking: A Slow-Fast Approach"
 ---
 
 # Towards Low-Latency Event Stream-based Visual Object Tracking: A Slow-Fast Approach

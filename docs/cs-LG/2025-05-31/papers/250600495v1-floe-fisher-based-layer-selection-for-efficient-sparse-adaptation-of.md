@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FLoE: Fisher-Based Layer Selection for Efficient Sparse Adaptation of Low-Rank Experts
+title: "FLoE: Fisher-Based Layer Selection for Efficient Sparse Adaptation of Low-Rank Experts"
 ---
 
 # FLoE: Fisher-Based Layer Selection for Efficient Sparse Adaptation of Low-Rank Experts

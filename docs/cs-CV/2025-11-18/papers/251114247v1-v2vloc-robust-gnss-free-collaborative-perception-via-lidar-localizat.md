@@ -1,6 +1,6 @@
 ---
 layout: default
-title: V2VLoc: Robust GNSS-Free Collaborative Perception via LiDAR Localization
+title: "V2VLoc: Robust GNSS-Free Collaborative Perception via LiDAR Localization"
 ---
 
 # V2VLoc: Robust GNSS-Free Collaborative Perception via LiDAR Localization

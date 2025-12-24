@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning to Shop Like Humans: A Review-driven Retrieval-Augmented Recommendation Framework with LLMs
+title: "Learning to Shop Like Humans: A Review-driven Retrieval-Augmented Recommendation Framework with LLMs"
 ---
 
 # Learning to Shop Like Humans: A Review-driven Retrieval-Augmented Recommendation Framework with LLMs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Peering into the Unknown: Active View Selection with Neural Uncertainty Maps for 3D Reconstruction
+title: "Peering into the Unknown: Active View Selection with Neural Uncertainty Maps for 3D Reconstruction"
 ---
 
 # Peering into the Unknown: Active View Selection with Neural Uncertainty Maps for 3D Reconstruction

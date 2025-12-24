@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Llama-Nemotron: Efficient Reasoning Models
+title: "Llama-Nemotron: Efficient Reasoning Models"
 ---
 
 # Llama-Nemotron: Efficient Reasoning Models

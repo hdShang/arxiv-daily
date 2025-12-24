@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Principle-Guided Verilog Optimization: IP-Safe Knowledge Transfer via Local-Cloud Collaboration
+title: "Principle-Guided Verilog Optimization: IP-Safe Knowledge Transfer via Local-Cloud Collaboration"
 ---
 
 # Principle-Guided Verilog Optimization: IP-Safe Knowledge Transfer via Local-Cloud Collaboration

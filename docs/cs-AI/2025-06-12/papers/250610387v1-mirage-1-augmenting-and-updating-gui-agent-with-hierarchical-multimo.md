@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills
+title: "Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills"
 ---
 
 # Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills

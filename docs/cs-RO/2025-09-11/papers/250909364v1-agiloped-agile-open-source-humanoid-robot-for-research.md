@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AGILOped: Agile Open-Source Humanoid Robot for Research
+title: "AGILOped: Agile Open-Source Humanoid Robot for Research"
 ---
 
 # AGILOped: Agile Open-Source Humanoid Robot for Research

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CraftMesh: High-Fidelity Generative Mesh Manipulation via Poisson Seamless Fusion
+title: "CraftMesh: High-Fidelity Generative Mesh Manipulation via Poisson Seamless Fusion"
 ---
 
 # CraftMesh: High-Fidelity Generative Mesh Manipulation via Poisson Seamless Fusion

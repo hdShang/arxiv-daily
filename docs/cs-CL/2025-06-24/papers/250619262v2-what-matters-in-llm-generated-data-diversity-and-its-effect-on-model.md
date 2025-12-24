@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What Matters in LLM-generated Data: Diversity and Its Effect on Model Fine-Tuning
+title: "What Matters in LLM-generated Data: Diversity and Its Effect on Model Fine-Tuning"
 ---
 
 # What Matters in LLM-generated Data: Diversity and Its Effect on Model Fine-Tuning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GRoQ-LoCO: Generalist and Robot-agnostic Quadruped Locomotion Control using Offline Datasets
+title: "GRoQ-LoCO: Generalist and Robot-agnostic Quadruped Locomotion Control using Offline Datasets"
 ---
 
 # GRoQ-LoCO: Generalist and Robot-agnostic Quadruped Locomotion Control using Offline Datasets

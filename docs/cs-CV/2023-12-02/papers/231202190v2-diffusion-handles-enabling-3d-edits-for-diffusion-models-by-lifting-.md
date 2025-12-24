@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Diffusion Handles: Enabling 3D Edits for Diffusion Models by Lifting Activations to 3D
+title: "Diffusion Handles: Enabling 3D Edits for Diffusion Models by Lifting Activations to 3D"
 ---
 
 # Diffusion Handles: Enabling 3D Edits for Diffusion Models by Lifting Activations to 3D

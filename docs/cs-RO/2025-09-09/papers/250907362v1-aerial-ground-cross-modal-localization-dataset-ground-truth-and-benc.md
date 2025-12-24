@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aerial-ground Cross-modal Localization: Dataset, Ground-truth, and Benchmark
+title: "Aerial-ground Cross-modal Localization: Dataset, Ground-truth, and Benchmark"
 ---
 
 # Aerial-ground Cross-modal Localization: Dataset, Ground-truth, and Benchmark

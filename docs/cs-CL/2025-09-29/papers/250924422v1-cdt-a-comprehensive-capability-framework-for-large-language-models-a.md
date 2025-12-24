@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CDT: A Comprehensive Capability Framework for Large Language Models Across Cognition, Domain, and Task
+title: "CDT: A Comprehensive Capability Framework for Large Language Models Across Cognition, Domain, and Task"
 ---
 
 # CDT: A Comprehensive Capability Framework for Large Language Models Across Cognition, Domain, and Task

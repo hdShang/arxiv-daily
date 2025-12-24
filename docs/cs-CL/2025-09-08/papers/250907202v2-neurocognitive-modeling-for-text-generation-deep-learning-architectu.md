@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Neurocognitive Modeling for Text Generation: Deep Learning Architecture for EEG Data
+title: "Neurocognitive Modeling for Text Generation: Deep Learning Architecture for EEG Data"
 ---
 
 # Neurocognitive Modeling for Text Generation: Deep Learning Architecture for EEG Data

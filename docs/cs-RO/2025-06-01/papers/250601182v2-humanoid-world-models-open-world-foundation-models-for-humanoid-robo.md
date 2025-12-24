@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Humanoid World Models: Open World Foundation Models for Humanoid Robotics
+title: "Humanoid World Models: Open World Foundation Models for Humanoid Robotics"
 ---
 
 # Humanoid World Models: Open World Foundation Models for Humanoid Robotics

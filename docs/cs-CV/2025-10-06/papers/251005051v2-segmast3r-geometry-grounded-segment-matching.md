@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SegMASt3R: Geometry Grounded Segment Matching
+title: "SegMASt3R: Geometry Grounded Segment Matching"
 ---
 
 # SegMASt3R: Geometry Grounded Segment Matching

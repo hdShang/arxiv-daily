@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Space Robotics Bench: Robot Learning Beyond Earth
+title: "Space Robotics Bench: Robot Learning Beyond Earth"
 ---
 
 # Space Robotics Bench: Robot Learning Beyond Earth

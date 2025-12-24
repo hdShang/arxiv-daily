@@ -1,6 +1,6 @@
 ---
 layout: default
-title: It Takes Two: Learning Interactive Whole-Body Control Between Humanoid Robots
+title: "It Takes Two: Learning Interactive Whole-Body Control Between Humanoid Robots"
 ---
 
 # It Takes Two: Learning Interactive Whole-Body Control Between Humanoid Robots

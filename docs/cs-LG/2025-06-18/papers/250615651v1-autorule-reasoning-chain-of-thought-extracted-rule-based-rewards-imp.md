@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AutoRule: Reasoning Chain-of-thought Extracted Rule-based Rewards Improve Preference Learning
+title: "AutoRule: Reasoning Chain-of-thought Extracted Rule-based Rewards Improve Preference Learning"
 ---
 
 # AutoRule: Reasoning Chain-of-thought Extracted Rule-based Rewards Improve Preference Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniSino: Physics-Driven Foundational Model for Universal CT Sinogram Standardization
+title: "UniSino: Physics-Driven Foundational Model for Universal CT Sinogram Standardization"
 ---
 
 # UniSino: Physics-Driven Foundational Model for Universal CT Sinogram Standardization

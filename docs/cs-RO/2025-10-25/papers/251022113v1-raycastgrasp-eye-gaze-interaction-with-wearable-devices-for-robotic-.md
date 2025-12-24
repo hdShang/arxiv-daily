@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RaycastGrasp: Eye-Gaze Interaction with Wearable Devices for Robotic Manipulation
+title: "RaycastGrasp: Eye-Gaze Interaction with Wearable Devices for Robotic Manipulation"
 ---
 
 # RaycastGrasp: Eye-Gaze Interaction with Wearable Devices for Robotic Manipulation

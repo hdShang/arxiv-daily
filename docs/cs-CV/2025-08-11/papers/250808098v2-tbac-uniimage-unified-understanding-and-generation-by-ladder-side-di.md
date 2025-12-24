@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TBAC-UniImage: Unified Understanding and Generation by Ladder-Side Diffusion Tuning
+title: "TBAC-UniImage: Unified Understanding and Generation by Ladder-Side Diffusion Tuning"
 ---
 
 # TBAC-UniImage: Unified Understanding and Generation by Ladder-Side Diffusion Tuning

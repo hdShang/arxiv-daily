@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QDepth-VLA: Quantized Depth Prediction as Auxiliary Supervision for Vision-Language-Action Models
+title: "QDepth-VLA: Quantized Depth Prediction as Auxiliary Supervision for Vision-Language-Action Models"
 ---
 
 # QDepth-VLA: Quantized Depth Prediction as Auxiliary Supervision for Vision-Language-Action Models

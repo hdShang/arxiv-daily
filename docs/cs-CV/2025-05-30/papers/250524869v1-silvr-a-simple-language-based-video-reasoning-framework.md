@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SiLVR: A Simple Language-based Video Reasoning Framework
+title: "SiLVR: A Simple Language-based Video Reasoning Framework"
 ---
 
 # SiLVR: A Simple Language-based Video Reasoning Framework

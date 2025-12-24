@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FishNet++: Analyzing the capabilities of Multimodal Large Language Models in marine biology
+title: "FishNet++: Analyzing the capabilities of Multimodal Large Language Models in marine biology"
 ---
 
 # FishNet++: Analyzing the capabilities of Multimodal Large Language Models in marine biology

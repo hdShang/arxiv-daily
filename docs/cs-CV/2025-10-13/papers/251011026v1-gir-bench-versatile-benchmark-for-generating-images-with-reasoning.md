@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GIR-Bench: Versatile Benchmark for Generating Images with Reasoning
+title: "GIR-Bench: Versatile Benchmark for Generating Images with Reasoning"
 ---
 
 # GIR-Bench: Versatile Benchmark for Generating Images with Reasoning

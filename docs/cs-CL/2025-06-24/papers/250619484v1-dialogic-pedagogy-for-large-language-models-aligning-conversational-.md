@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dialogic Pedagogy for Large Language Models: Aligning Conversational AI with Proven Theories of Learning
+title: "Dialogic Pedagogy for Large Language Models: Aligning Conversational AI with Proven Theories of Learning"
 ---
 
 # Dialogic Pedagogy for Large Language Models: Aligning Conversational AI with Proven Theories of Learning

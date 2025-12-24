@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gaussian Grouping: Segment and Edit Anything in 3D Scenes
+title: "Gaussian Grouping: Segment and Edit Anything in 3D Scenes"
 ---
 
 # Gaussian Grouping: Segment and Edit Anything in 3D Scenes

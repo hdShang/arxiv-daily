@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MACL: Multi-Label Adaptive Contrastive Learning Loss for Remote Sensing Image Retrieval
+title: "MACL: Multi-Label Adaptive Contrastive Learning Loss for Remote Sensing Image Retrieval"
 ---
 
 # MACL: Multi-Label Adaptive Contrastive Learning Loss for Remote Sensing Image Retrieval

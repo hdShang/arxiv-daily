@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TiMoE: Time-Aware Mixture of Language Experts
+title: "TiMoE: Time-Aware Mixture of Language Experts"
 ---
 
 # TiMoE: Time-Aware Mixture of Language Experts

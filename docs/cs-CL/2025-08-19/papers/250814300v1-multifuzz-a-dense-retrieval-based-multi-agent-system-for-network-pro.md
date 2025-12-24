@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MultiFuzz: A Dense Retrieval-based Multi-Agent System for Network Protocol Fuzzing
+title: "MultiFuzz: A Dense Retrieval-based Multi-Agent System for Network Protocol Fuzzing"
 ---
 
 # MultiFuzz: A Dense Retrieval-based Multi-Agent System for Network Protocol Fuzzing

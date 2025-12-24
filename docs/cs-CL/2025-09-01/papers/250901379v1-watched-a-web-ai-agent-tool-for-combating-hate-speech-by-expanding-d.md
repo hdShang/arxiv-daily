@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WATCHED: A Web AI Agent Tool for Combating Hate Speech by Expanding Data
+title: "WATCHED: A Web AI Agent Tool for Combating Hate Speech by Expanding Data"
 ---
 
 # WATCHED: A Web AI Agent Tool for Combating Hate Speech by Expanding Data

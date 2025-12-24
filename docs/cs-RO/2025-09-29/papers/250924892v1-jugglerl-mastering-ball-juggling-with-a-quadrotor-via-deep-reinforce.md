@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JuggleRL: Mastering Ball Juggling with a Quadrotor via Deep Reinforcement Learning
+title: "JuggleRL: Mastering Ball Juggling with a Quadrotor via Deep Reinforcement Learning"
 ---
 
 # JuggleRL: Mastering Ball Juggling with a Quadrotor via Deep Reinforcement Learning

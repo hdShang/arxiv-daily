@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PushingBots: Collaborative Pushing via Neural Accelerated Combinatorial Hybrid Optimization
+title: "PushingBots: Collaborative Pushing via Neural Accelerated Combinatorial Hybrid Optimization"
 ---
 
 # PushingBots: Collaborative Pushing via Neural Accelerated Combinatorial Hybrid Optimization

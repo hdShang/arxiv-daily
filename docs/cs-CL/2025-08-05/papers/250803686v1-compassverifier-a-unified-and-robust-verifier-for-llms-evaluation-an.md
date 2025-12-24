@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CompassVerifier: A Unified and Robust Verifier for LLMs Evaluation and Outcome Reward
+title: "CompassVerifier: A Unified and Robust Verifier for LLMs Evaluation and Outcome Reward"
 ---
 
 # CompassVerifier: A Unified and Robust Verifier for LLMs Evaluation and Outcome Reward

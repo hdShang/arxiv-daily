@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RobustVLA: Robustness-Aware Reinforcement Post-Training for Vision-Language-Action Models
+title: "RobustVLA: Robustness-Aware Reinforcement Post-Training for Vision-Language-Action Models"
 ---
 
 # RobustVLA: Robustness-Aware Reinforcement Post-Training for Vision-Language-Action Models

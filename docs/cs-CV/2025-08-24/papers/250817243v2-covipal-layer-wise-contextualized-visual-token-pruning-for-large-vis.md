@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoViPAL: Layer-wise Contextualized Visual Token Pruning for Large Vision-Language Models
+title: "CoViPAL: Layer-wise Contextualized Visual Token Pruning for Large Vision-Language Models"
 ---
 
 # CoViPAL: Layer-wise Contextualized Visual Token Pruning for Large Vision-Language Models

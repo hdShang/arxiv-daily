@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VISTA: A Vision and Intent-Aware Social Attention Framework for Multi-Agent Trajectory Prediction
+title: "VISTA: A Vision and Intent-Aware Social Attention Framework for Multi-Agent Trajectory Prediction"
 ---
 
 # VISTA: A Vision and Intent-Aware Social Attention Framework for Multi-Agent Trajectory Prediction

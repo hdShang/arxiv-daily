@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Symbolic to Neural and Back: Exploring Knowledge Graph-Large Language Model Synergies
+title: "From Symbolic to Neural and Back: Exploring Knowledge Graph-Large Language Model Synergies"
 ---
 
 # From Symbolic to Neural and Back: Exploring Knowledge Graph-Large Language Model Synergies

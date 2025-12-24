@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VietBinoculars: A Zero-Shot Approach for Detecting Vietnamese LLM-Generated Text
+title: "VietBinoculars: A Zero-Shot Approach for Detecting Vietnamese LLM-Generated Text"
 ---
 
 # VietBinoculars: A Zero-Shot Approach for Detecting Vietnamese LLM-Generated Text

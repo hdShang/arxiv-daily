@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Format-Adapter: Improving Reasoning Capability of LLMs by Adapting Suitable Format
+title: "Format-Adapter: Improving Reasoning Capability of LLMs by Adapting Suitable Format"
 ---
 
 # Format-Adapter: Improving Reasoning Capability of LLMs by Adapting Suitable Format

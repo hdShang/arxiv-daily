@@ -1,6 +1,6 @@
 ---
 layout: default
-title: On the generalization of language models from in-context learning and finetuning: a controlled study
+title: "On the generalization of language models from in-context learning and finetuning: a controlled study"
 ---
 
 # On the generalization of language models from in-context learning and finetuning: a controlled study

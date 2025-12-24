@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PixelThink: Towards Efficient Chain-of-Pixel Reasoning
+title: "PixelThink: Towards Efficient Chain-of-Pixel Reasoning"
 ---
 
 # PixelThink: Towards Efficient Chain-of-Pixel Reasoning

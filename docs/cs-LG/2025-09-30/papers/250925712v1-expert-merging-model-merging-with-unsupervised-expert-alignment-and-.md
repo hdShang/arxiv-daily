@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Expert Merging: Model Merging with Unsupervised Expert Alignment and Importance-Guided Layer Chunking
+title: "Expert Merging: Model Merging with Unsupervised Expert Alignment and Importance-Guided Layer Chunking"
 ---
 
 # Expert Merging: Model Merging with Unsupervised Expert Alignment and Importance-Guided Layer Chunking

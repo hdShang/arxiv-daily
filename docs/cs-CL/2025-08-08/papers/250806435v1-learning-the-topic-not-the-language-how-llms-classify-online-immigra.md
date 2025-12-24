@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning the Topic, Not the Language: How LLMs Classify Online Immigration Discourse Across Languages
+title: "Learning the Topic, Not the Language: How LLMs Classify Online Immigration Discourse Across Languages"
 ---
 
 # Learning the Topic, Not the Language: How LLMs Classify Online Immigration Discourse Across Languages

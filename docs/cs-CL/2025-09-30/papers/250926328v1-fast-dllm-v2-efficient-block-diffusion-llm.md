@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fast-dLLM v2: Efficient Block-Diffusion LLM
+title: "Fast-dLLM v2: Efficient Block-Diffusion LLM"
 ---
 
 # Fast-dLLM v2: Efficient Block-Diffusion LLM

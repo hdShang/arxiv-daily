@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FOCUS: Efficient Keyframe Selection for Long Video Understanding
+title: "FOCUS: Efficient Keyframe Selection for Long Video Understanding"
 ---
 
 # FOCUS: Efficient Keyframe Selection for Long Video Understanding

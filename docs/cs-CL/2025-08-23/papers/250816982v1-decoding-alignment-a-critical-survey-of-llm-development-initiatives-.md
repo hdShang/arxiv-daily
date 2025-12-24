@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Decoding Alignment: A Critical Survey of LLM Development Initiatives through Value-setting and Data-centric Lens
+title: "Decoding Alignment: A Critical Survey of LLM Development Initiatives through Value-setting and Data-centric Lens"
 ---
 
 # Decoding Alignment: A Critical Survey of LLM Development Initiatives through Value-setting and Data-centric Lens

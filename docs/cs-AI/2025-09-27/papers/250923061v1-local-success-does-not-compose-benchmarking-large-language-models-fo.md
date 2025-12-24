@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Local Success Does Not Compose: Benchmarking Large Language Models for Compositional Formal Verification
+title: "Local Success Does Not Compose: Benchmarking Large Language Models for Compositional Formal Verification"
 ---
 
 # Local Success Does Not Compose: Benchmarking Large Language Models for Compositional Formal Verification

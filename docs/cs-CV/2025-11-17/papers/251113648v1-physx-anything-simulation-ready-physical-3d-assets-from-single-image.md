@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image
+title: "PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image"
 ---
 
 # PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image

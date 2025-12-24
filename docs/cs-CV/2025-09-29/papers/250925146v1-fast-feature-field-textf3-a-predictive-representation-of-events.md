@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fast Feature Field ($\text{F}^3$): A Predictive Representation of Events
+title: "Fast Feature Field ($\\text{F}^3$): A Predictive Representation of Events"
 ---
 
 # Fast Feature Field ($\text{F}^3$): A Predictive Representation of Events

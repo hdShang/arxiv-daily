@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thinkless: LLM Learns When to Think
+title: "Thinkless: LLM Learns When to Think"
 ---
 
 # Thinkless: LLM Learns When to Think

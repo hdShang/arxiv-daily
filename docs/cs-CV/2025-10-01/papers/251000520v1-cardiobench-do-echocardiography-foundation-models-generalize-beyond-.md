@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CardioBench: Do Echocardiography Foundation Models Generalize Beyond the Lab?
+title: "CardioBench: Do Echocardiography Foundation Models Generalize Beyond the Lab?"
 ---
 
 # CardioBench: Do Echocardiography Foundation Models Generalize Beyond the Lab?

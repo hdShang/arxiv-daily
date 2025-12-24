@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Surformer v1: Transformer-Based Surface Classification Using Tactile and Vision Features
+title: "Surformer v1: Transformer-Based Surface Classification Using Tactile and Vision Features"
 ---
 
 # Surformer v1: Transformer-Based Surface Classification Using Tactile and Vision Features

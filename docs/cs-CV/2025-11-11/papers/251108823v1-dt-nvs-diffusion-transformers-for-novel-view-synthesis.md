@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DT-NVS: Diffusion Transformers for Novel View Synthesis
+title: "DT-NVS: Diffusion Transformers for Novel View Synthesis"
 ---
 
 # DT-NVS: Diffusion Transformers for Novel View Synthesis

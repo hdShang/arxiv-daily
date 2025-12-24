@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Glass Surface Detection: Leveraging Reflection Dynamics in Flash/No-flash Imagery
+title: "Glass Surface Detection: Leveraging Reflection Dynamics in Flash/No-flash Imagery"
 ---
 
 # Glass Surface Detection: Leveraging Reflection Dynamics in Flash/No-flash Imagery

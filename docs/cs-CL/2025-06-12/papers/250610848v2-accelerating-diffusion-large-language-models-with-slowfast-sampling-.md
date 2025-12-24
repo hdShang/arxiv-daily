@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles
+title: "Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles"
 ---
 
 # Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Collaborative Intelligence: Topic Modelling of Large Language Model use in Live Cybersecurity Operations
+title: "Collaborative Intelligence: Topic Modelling of Large Language Model use in Live Cybersecurity Operations"
 ---
 
 # Collaborative Intelligence: Topic Modelling of Large Language Model use in Live Cybersecurity Operations

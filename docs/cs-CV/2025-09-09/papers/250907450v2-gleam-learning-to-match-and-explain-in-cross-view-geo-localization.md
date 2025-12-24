@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GLEAM: Learning to Match and Explain in Cross-View Geo-Localization
+title: "GLEAM: Learning to Match and Explain in Cross-View Geo-Localization"
 ---
 
 # GLEAM: Learning to Match and Explain in Cross-View Geo-Localization

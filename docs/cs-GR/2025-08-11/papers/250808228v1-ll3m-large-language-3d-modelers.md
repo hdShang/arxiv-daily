@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LL3M: Large Language 3D Modelers
+title: "LL3M: Large Language 3D Modelers"
 ---
 
 # LL3M: Large Language 3D Modelers

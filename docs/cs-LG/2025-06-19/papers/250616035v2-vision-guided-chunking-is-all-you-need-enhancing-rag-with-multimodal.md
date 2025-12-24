@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vision-Guided Chunking Is All You Need: Enhancing RAG with Multimodal Document Understanding
+title: "Vision-Guided Chunking Is All You Need: Enhancing RAG with Multimodal Document Understanding"
 ---
 
 # Vision-Guided Chunking Is All You Need: Enhancing RAG with Multimodal Document Understanding

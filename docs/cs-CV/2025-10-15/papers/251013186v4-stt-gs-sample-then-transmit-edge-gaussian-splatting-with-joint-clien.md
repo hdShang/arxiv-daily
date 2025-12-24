@@ -1,6 +1,6 @@
 ---
 layout: default
-title: STT-GS: Sample-Then-Transmit Edge Gaussian Splatting with Joint Client Selection and Power Control
+title: "STT-GS: Sample-Then-Transmit Edge Gaussian Splatting with Joint Client Selection and Power Control"
 ---
 
 # STT-GS: Sample-Then-Transmit Edge Gaussian Splatting with Joint Client Selection and Power Control

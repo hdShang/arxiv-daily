@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reasoning with Exploration: An Entropy Perspective
+title: "Reasoning with Exploration: An Entropy Perspective"
 ---
 
 # Reasoning with Exploration: An Entropy Perspective

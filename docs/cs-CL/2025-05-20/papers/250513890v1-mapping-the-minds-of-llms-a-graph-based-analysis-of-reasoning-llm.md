@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mapping the Minds of LLMs: A Graph-Based Analysis of Reasoning LLM
+title: "Mapping the Minds of LLMs: A Graph-Based Analysis of Reasoning LLM"
 ---
 
 # Mapping the Minds of LLMs: A Graph-Based Analysis of Reasoning LLM

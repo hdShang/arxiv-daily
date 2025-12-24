@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoRE: 3D Visual Geometry Reconstruction Meets Mixture-of-Experts
+title: "MoRE: 3D Visual Geometry Reconstruction Meets Mixture-of-Experts"
 ---
 
 # MoRE: 3D Visual Geometry Reconstruction Meets Mixture-of-Experts

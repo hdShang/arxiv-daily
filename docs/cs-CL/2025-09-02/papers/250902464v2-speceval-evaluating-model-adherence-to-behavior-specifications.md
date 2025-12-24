@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SpecEval: Evaluating Model Adherence to Behavior Specifications
+title: "SpecEval: Evaluating Model Adherence to Behavior Specifications"
 ---
 
 # SpecEval: Evaluating Model Adherence to Behavior Specifications

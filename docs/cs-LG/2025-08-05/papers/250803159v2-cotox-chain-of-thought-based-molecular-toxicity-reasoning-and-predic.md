@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CoTox: Chain-of-Thought-Based Molecular Toxicity Reasoning and Prediction
+title: "CoTox: Chain-of-Thought-Based Molecular Toxicity Reasoning and Prediction"
 ---
 
 # CoTox: Chain-of-Thought-Based Molecular Toxicity Reasoning and Prediction

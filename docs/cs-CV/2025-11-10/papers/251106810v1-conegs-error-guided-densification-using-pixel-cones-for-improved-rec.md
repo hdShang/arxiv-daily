@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ConeGS: Error-Guided Densification Using Pixel Cones for Improved Reconstruction with Fewer Primitives
+title: "ConeGS: Error-Guided Densification Using Pixel Cones for Improved Reconstruction with Fewer Primitives"
 ---
 
 # ConeGS: Error-Guided Densification Using Pixel Cones for Improved Reconstruction with Fewer Primitives

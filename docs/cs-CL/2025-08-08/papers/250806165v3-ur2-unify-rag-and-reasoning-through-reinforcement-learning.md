@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UR$^2$: Unify RAG and Reasoning through Reinforcement Learning
+title: "UR$^2$: Unify RAG and Reasoning through Reinforcement Learning"
 ---
 
 # UR$^2$: Unify RAG and Reasoning through Reinforcement Learning

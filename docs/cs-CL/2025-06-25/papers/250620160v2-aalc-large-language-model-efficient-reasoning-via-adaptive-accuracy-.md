@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AALC: Large Language Model Efficient Reasoning via Adaptive Accuracy-Length Control
+title: "AALC: Large Language Model Efficient Reasoning via Adaptive Accuracy-Length Control"
 ---
 
 # AALC: Large Language Model Efficient Reasoning via Adaptive Accuracy-Length Control

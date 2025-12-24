@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ProVox: Personalization and Proactive Planning for Situated Human-Robot Collaboration
+title: "ProVox: Personalization and Proactive Planning for Situated Human-Robot Collaboration"
 ---
 
 # ProVox: Personalization and Proactive Planning for Situated Human-Robot Collaboration

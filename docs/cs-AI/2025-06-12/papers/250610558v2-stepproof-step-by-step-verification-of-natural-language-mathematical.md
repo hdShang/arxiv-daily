@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StepProof: Step-by-step verification of natural language mathematical proofs
+title: "StepProof: Step-by-step verification of natural language mathematical proofs"
 ---
 
 # StepProof: Step-by-step verification of natural language mathematical proofs

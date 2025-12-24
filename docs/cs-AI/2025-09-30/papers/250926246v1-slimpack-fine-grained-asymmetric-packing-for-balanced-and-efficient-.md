@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SlimPack: Fine-Grained Asymmetric Packing for Balanced and Efficient Variable-Length LLM Training
+title: "SlimPack: Fine-Grained Asymmetric Packing for Balanced and Efficient Variable-Length LLM Training"
 ---
 
 # SlimPack: Fine-Grained Asymmetric Packing for Balanced and Efficient Variable-Length LLM Training

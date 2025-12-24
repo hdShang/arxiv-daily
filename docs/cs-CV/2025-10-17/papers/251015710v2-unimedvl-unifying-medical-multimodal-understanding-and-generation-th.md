@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniMedVL: Unifying Medical Multimodal Understanding And Generation Through Observation-Knowledge-Analysis
+title: "UniMedVL: Unifying Medical Multimodal Understanding And Generation Through Observation-Knowledge-Analysis"
 ---
 
 # UniMedVL: Unifying Medical Multimodal Understanding And Generation Through Observation-Knowledge-Analysis

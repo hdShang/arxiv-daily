@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Macro to Micro: Probing Dataset Diversity in Language Model Fine-Tuning
+title: "From Macro to Micro: Probing Dataset Diversity in Language Model Fine-Tuning"
 ---
 
 # From Macro to Micro: Probing Dataset Diversity in Language Model Fine-Tuning

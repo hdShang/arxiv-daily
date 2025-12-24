@@ -1,6 +1,6 @@
 ---
 layout: default
-title: URNet: Uncertainty-aware Refinement Network for Event-based Stereo Depth Estimation
+title: "URNet: Uncertainty-aware Refinement Network for Event-based Stereo Depth Estimation"
 ---
 
 # URNet: Uncertainty-aware Refinement Network for Event-based Stereo Depth Estimation

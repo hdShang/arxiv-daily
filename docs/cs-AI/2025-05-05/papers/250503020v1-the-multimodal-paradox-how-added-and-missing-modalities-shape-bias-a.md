@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Multimodal Paradox: How Added and Missing Modalities Shape Bias and Performance in Multimodal AI
+title: "The Multimodal Paradox: How Added and Missing Modalities Shape Bias and Performance in Multimodal AI"
 ---
 
 # The Multimodal Paradox: How Added and Missing Modalities Shape Bias and Performance in Multimodal AI

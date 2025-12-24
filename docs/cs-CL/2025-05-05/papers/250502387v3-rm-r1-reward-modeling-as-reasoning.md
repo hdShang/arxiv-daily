@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RM-R1: Reward Modeling as Reasoning
+title: "RM-R1: Reward Modeling as Reasoning"
 ---
 
 # RM-R1: Reward Modeling as Reasoning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: C-3TO: Continuous 3D Trajectory Optimization on Neural Euclidean Signed Distance Fields
+title: "C-3TO: Continuous 3D Trajectory Optimization on Neural Euclidean Signed Distance Fields"
 ---
 
 # C-3TO: Continuous 3D Trajectory Optimization on Neural Euclidean Signed Distance Fields

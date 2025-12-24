@@ -1,6 +1,6 @@
 ---
 layout: default
-title: T-araVLN: Translator for Agricultural Robotic Agents on Vision-and-Language Navigation
+title: "T-araVLN: Translator for Agricultural Robotic Agents on Vision-and-Language Navigation"
 ---
 
 # T-araVLN: Translator for Agricultural Robotic Agents on Vision-and-Language Navigation

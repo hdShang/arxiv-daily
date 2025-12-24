@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When a Robot is More Capable than a Human: Learning from Constrained Demonstrators
+title: "When a Robot is More Capable than a Human: Learning from Constrained Demonstrators"
 ---
 
 # When a Robot is More Capable than a Human: Learning from Constrained Demonstrators

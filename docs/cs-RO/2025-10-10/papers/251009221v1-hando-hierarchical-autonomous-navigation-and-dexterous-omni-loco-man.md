@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HANDO: Hierarchical Autonomous Navigation and Dexterous Omni-loco-manipulation
+title: "HANDO: Hierarchical Autonomous Navigation and Dexterous Omni-loco-manipulation"
 ---
 
 # HANDO: Hierarchical Autonomous Navigation and Dexterous Omni-loco-manipulation

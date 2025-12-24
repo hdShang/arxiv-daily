@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sight Over Site: Perception-Aware Reinforcement Learning for Efficient Robotic Inspection
+title: "Sight Over Site: Perception-Aware Reinforcement Learning for Efficient Robotic Inspection"
 ---
 
 # Sight Over Site: Perception-Aware Reinforcement Learning for Efficient Robotic Inspection

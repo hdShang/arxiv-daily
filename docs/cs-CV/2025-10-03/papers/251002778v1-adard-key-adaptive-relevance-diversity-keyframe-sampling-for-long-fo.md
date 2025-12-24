@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AdaRD-key: Adaptive Relevance-Diversity Keyframe Sampling for Long-form Video understanding
+title: "AdaRD-key: Adaptive Relevance-Diversity Keyframe Sampling for Long-form Video understanding"
 ---
 
 # AdaRD-key: Adaptive Relevance-Diversity Keyframe Sampling for Long-form Video understanding

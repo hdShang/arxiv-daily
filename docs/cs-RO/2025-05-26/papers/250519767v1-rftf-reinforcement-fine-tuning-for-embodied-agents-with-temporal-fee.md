@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RFTF: Reinforcement Fine-tuning for Embodied Agents with Temporal Feedback
+title: "RFTF: Reinforcement Fine-tuning for Embodied Agents with Temporal Feedback"
 ---
 
 # RFTF: Reinforcement Fine-tuning for Embodied Agents with Temporal Feedback

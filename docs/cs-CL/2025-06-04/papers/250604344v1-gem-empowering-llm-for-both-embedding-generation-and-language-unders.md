@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GEM: Empowering LLM for both Embedding Generation and Language Understanding
+title: "GEM: Empowering LLM for both Embedding Generation and Language Understanding"
 ---
 
 # GEM: Empowering LLM for both Embedding Generation and Language Understanding

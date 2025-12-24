@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Accelerated Feature Detectors for Visual SLAM: A Comparative Study of FPGA vs GPU
+title: "Accelerated Feature Detectors for Visual SLAM: A Comparative Study of FPGA vs GPU"
 ---
 
 # Accelerated Feature Detectors for Visual SLAM: A Comparative Study of FPGA vs GPU

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unified Text-Image-to-Video Generation: A Training-Free Approach to Flexible Visual Conditioning
+title: "Unified Text-Image-to-Video Generation: A Training-Free Approach to Flexible Visual Conditioning"
 ---
 
 # Unified Text-Image-to-Video Generation: A Training-Free Approach to Flexible Visual Conditioning

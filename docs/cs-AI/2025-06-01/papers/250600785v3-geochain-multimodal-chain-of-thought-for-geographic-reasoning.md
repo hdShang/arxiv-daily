@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GeoChain: Multimodal Chain-of-Thought for Geographic Reasoning
+title: "GeoChain: Multimodal Chain-of-Thought for Geographic Reasoning"
 ---
 
 # GeoChain: Multimodal Chain-of-Thought for Geographic Reasoning

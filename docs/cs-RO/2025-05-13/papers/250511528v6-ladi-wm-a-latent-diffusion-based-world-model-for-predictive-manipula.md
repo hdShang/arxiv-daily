@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LaDi-WM: A Latent Diffusion-based World Model for Predictive Manipulation
+title: "LaDi-WM: A Latent Diffusion-based World Model for Predictive Manipulation"
 ---
 
 # LaDi-WM: A Latent Diffusion-based World Model for Predictive Manipulation

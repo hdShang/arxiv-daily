@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Grid-Agent: An LLM-Powered Multi-Agent System for Power Grid Control
+title: "Grid-Agent: An LLM-Powered Multi-Agent System for Power Grid Control"
 ---
 
 # Grid-Agent: An LLM-Powered Multi-Agent System for Power Grid Control

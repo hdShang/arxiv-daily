@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond I-Con: Exploring New Dimension of Distance Measures in Representation Learning
+title: "Beyond I-Con: Exploring New Dimension of Distance Measures in Representation Learning"
 ---
 
 # Beyond I-Con: Exploring New Dimension of Distance Measures in Representation Learning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AgriGS-SLAM: Orchard Mapping Across Seasons via Multi-View Gaussian Splatting SLAM
+title: "AgriGS-SLAM: Orchard Mapping Across Seasons via Multi-View Gaussian Splatting SLAM"
 ---
 
 # AgriGS-SLAM: Orchard Mapping Across Seasons via Multi-View Gaussian Splatting SLAM

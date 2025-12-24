@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pygmalion Effect in Vision: Image-to-Clay Translation for Reflective Geometry Reconstruction
+title: "Pygmalion Effect in Vision: Image-to-Clay Translation for Reflective Geometry Reconstruction"
 ---
 
 # Pygmalion Effect in Vision: Image-to-Clay Translation for Reflective Geometry Reconstruction

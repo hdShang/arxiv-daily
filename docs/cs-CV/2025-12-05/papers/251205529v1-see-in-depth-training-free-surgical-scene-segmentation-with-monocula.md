@@ -1,6 +1,6 @@
 ---
 layout: default
-title: See in Depth: Training-Free Surgical Scene Segmentation with Monocular Depth Priors
+title: "See in Depth: Training-Free Surgical Scene Segmentation with Monocular Depth Priors"
 ---
 
 # See in Depth: Training-Free Surgical Scene Segmentation with Monocular Depth Priors

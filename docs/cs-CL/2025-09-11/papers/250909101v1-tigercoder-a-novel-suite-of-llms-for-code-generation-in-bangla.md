@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TigerCoder: A Novel Suite of LLMs for Code Generation in Bangla
+title: "TigerCoder: A Novel Suite of LLMs for Code Generation in Bangla"
 ---
 
 # TigerCoder: A Novel Suite of LLMs for Code Generation in Bangla

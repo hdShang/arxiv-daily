@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OmniReason: A Temporal-Guided Vision-Language-Action Framework for Autonomous Driving
+title: "OmniReason: A Temporal-Guided Vision-Language-Action Framework for Autonomous Driving"
 ---
 
 # OmniReason: A Temporal-Guided Vision-Language-Action Framework for Autonomous Driving

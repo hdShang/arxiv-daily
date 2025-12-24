@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SpeedAug: Policy Acceleration via Tempo-Enriched Policy and RL Fine-Tuning
+title: "SpeedAug: Policy Acceleration via Tempo-Enriched Policy and RL Fine-Tuning"
 ---
 
 # SpeedAug: Policy Acceleration via Tempo-Enriched Policy and RL Fine-Tuning

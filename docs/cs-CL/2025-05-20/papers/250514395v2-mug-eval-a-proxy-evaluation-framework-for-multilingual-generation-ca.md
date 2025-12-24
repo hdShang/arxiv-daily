@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MUG-Eval: A Proxy Evaluation Framework for Multilingual Generation Capabilities in Any Language
+title: "MUG-Eval: A Proxy Evaluation Framework for Multilingual Generation Capabilities in Any Language"
 ---
 
 # MUG-Eval: A Proxy Evaluation Framework for Multilingual Generation Capabilities in Any Language

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EmoStage: A Framework for Accurate Empathetic Response Generation via Perspective-Taking and Phase Recognition
+title: "EmoStage: A Framework for Accurate Empathetic Response Generation via Perspective-Taking and Phase Recognition"
 ---
 
 # EmoStage: A Framework for Accurate Empathetic Response Generation via Perspective-Taking and Phase Recognition

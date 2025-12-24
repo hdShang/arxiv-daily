@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniPrototype: Humn-Robot Skill Learning with Uniform Prototypes
+title: "UniPrototype: Humn-Robot Skill Learning with Uniform Prototypes"
 ---
 
 # UniPrototype: Humn-Robot Skill Learning with Uniform Prototypes

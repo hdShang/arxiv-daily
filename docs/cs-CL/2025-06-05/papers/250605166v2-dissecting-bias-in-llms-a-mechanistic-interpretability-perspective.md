@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dissecting Bias in LLMs: A Mechanistic Interpretability Perspective
+title: "Dissecting Bias in LLMs: A Mechanistic Interpretability Perspective"
 ---
 
 # Dissecting Bias in LLMs: A Mechanistic Interpretability Perspective

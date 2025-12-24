@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MIRROR: Modular Internal Processing for Personalized Safety in LLM Dialogue
+title: "MIRROR: Modular Internal Processing for Personalized Safety in LLM Dialogue"
 ---
 
 # MIRROR: Modular Internal Processing for Personalized Safety in LLM Dialogue

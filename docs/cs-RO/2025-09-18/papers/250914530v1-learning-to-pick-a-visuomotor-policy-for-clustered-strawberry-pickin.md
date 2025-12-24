@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning to Pick: A Visuomotor Policy for Clustered Strawberry Picking
+title: "Learning to Pick: A Visuomotor Policy for Clustered Strawberry Picking"
 ---
 
 # Learning to Pick: A Visuomotor Policy for Clustered Strawberry Picking

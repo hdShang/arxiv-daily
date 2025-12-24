@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMTU: A Massive Multi-Task Table Understanding and Reasoning Benchmark
+title: "MMTU: A Massive Multi-Task Table Understanding and Reasoning Benchmark"
 ---
 
 # MMTU: A Massive Multi-Task Table Understanding and Reasoning Benchmark

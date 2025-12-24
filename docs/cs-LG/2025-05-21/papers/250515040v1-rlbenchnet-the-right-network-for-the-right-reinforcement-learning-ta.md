@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RLBenchNet: The Right Network for the Right Reinforcement Learning Task
+title: "RLBenchNet: The Right Network for the Right Reinforcement Learning Task"
 ---
 
 # RLBenchNet: The Right Network for the Right Reinforcement Learning Task

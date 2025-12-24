@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Arabic Dialect Classification using RNNs, Transformers, and Large Language Models: A Comparative Analysis
+title: "Arabic Dialect Classification using RNNs, Transformers, and Large Language Models: A Comparative Analysis"
 ---
 
 # Arabic Dialect Classification using RNNs, Transformers, and Large Language Models: A Comparative Analysis

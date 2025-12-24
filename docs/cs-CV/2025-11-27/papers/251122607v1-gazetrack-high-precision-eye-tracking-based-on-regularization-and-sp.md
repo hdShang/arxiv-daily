@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GazeTrack: High-Precision Eye Tracking Based on Regularization and Spatial Computing
+title: "GazeTrack: High-Precision Eye Tracking Based on Regularization and Spatial Computing"
 ---
 
 # GazeTrack: High-Precision Eye Tracking Based on Regularization and Spatial Computing

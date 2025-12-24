@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Toward a robust lesion detection model in breast DCE-MRI: adapting foundation models to high-risk women
+title: "Toward a robust lesion detection model in breast DCE-MRI: adapting foundation models to high-risk women"
 ---
 
 # Toward a robust lesion detection model in breast DCE-MRI: adapting foundation models to high-risk women

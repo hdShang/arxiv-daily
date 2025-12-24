@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image
+title: "Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image"
 ---
 
 # Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image

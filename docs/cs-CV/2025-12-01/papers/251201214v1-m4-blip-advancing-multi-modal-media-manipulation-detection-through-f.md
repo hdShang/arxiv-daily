@@ -1,6 +1,6 @@
 ---
 layout: default
-title: M4-BLIP: Advancing Multi-Modal Media Manipulation Detection through Face-Enhanced Local Analysis
+title: "M4-BLIP: Advancing Multi-Modal Media Manipulation Detection through Face-Enhanced Local Analysis"
 ---
 
 # M4-BLIP: Advancing Multi-Modal Media Manipulation Detection through Face-Enhanced Local Analysis

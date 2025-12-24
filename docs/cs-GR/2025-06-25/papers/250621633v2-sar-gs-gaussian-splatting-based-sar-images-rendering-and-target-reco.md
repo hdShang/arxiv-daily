@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SAR-GS: Gaussian Splatting based SAR Images Rendering and Target Reconstruction
+title: "SAR-GS: Gaussian Splatting based SAR Images Rendering and Target Reconstruction"
 ---
 
 # SAR-GS: Gaussian Splatting based SAR Images Rendering and Target Reconstruction

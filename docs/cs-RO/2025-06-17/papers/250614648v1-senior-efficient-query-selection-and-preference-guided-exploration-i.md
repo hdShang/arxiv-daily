@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SENIOR: Efficient Query Selection and Preference-Guided Exploration in Preference-based Reinforcement Learning
+title: "SENIOR: Efficient Query Selection and Preference-Guided Exploration in Preference-based Reinforcement Learning"
 ---
 
 # SENIOR: Efficient Query Selection and Preference-Guided Exploration in Preference-based Reinforcement Learning

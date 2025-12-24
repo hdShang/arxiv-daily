@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Point2Pose: A Generative Framework for 3D Human Pose Estimation with Multi-View Point Cloud Dataset
+title: "Point2Pose: A Generative Framework for 3D Human Pose Estimation with Multi-View Point Cloud Dataset"
 ---
 
 # Point2Pose: A Generative Framework for 3D Human Pose Estimation with Multi-View Point Cloud Dataset

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VLMDiff: Leveraging Vision-Language Models for Multi-Class Anomaly Detection with Diffusion
+title: "VLMDiff: Leveraging Vision-Language Models for Multi-Class Anomaly Detection with Diffusion"
 ---
 
 # VLMDiff: Leveraging Vision-Language Models for Multi-Class Anomaly Detection with Diffusion

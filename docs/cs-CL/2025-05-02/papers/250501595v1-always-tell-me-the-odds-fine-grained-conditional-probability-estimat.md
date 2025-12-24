@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Always Tell Me The Odds: Fine-grained Conditional Probability Estimation
+title: "Always Tell Me The Odds: Fine-grained Conditional Probability Estimation"
 ---
 
 # Always Tell Me The Odds: Fine-grained Conditional Probability Estimation

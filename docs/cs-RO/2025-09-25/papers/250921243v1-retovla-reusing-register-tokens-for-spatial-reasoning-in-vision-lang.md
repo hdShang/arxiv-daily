@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RetoVLA: Reusing Register Tokens for Spatial Reasoning in Vision-Language-Action Models
+title: "RetoVLA: Reusing Register Tokens for Spatial Reasoning in Vision-Language-Action Models"
 ---
 
 # RetoVLA: Reusing Register Tokens for Spatial Reasoning in Vision-Language-Action Models

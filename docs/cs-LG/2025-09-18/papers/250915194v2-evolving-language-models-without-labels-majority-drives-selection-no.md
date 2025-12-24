@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Evolving Language Models without Labels: Majority Drives Selection, Novelty Promotes Variation
+title: "Evolving Language Models without Labels: Majority Drives Selection, Novelty Promotes Variation"
 ---
 
 # Evolving Language Models without Labels: Majority Drives Selection, Novelty Promotes Variation

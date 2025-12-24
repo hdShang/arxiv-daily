@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TextMine: Data, Evaluation Framework and Ontology-guided LLM Pipeline for Humanitarian Mine Action
+title: "TextMine: Data, Evaluation Framework and Ontology-guided LLM Pipeline for Humanitarian Mine Action"
 ---
 
 # TextMine: Data, Evaluation Framework and Ontology-guided LLM Pipeline for Humanitarian Mine Action

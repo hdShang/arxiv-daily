@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GS-Scale: Unlocking Large-Scale 3D Gaussian Splatting Training via Host Offloading
+title: "GS-Scale: Unlocking Large-Scale 3D Gaussian Splatting Training via Host Offloading"
 ---
 
 # GS-Scale: Unlocking Large-Scale 3D Gaussian Splatting Training via Host Offloading

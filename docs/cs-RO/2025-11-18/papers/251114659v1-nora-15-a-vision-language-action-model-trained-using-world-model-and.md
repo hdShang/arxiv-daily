@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NORA-1.5: A Vision-Language-Action Model Trained using World Model- and Action-based Preference Rewards
+title: "NORA-1.5: A Vision-Language-Action Model Trained using World Model- and Action-based Preference Rewards"
 ---
 
 # NORA-1.5: A Vision-Language-Action Model Trained using World Model- and Action-based Preference Rewards

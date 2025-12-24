@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SemSight: Probabilistic Bird's-Eye-View Prediction of Multi-Level Scene Semantics for Navigation
+title: "SemSight: Probabilistic Bird's-Eye-View Prediction of Multi-Level Scene Semantics for Navigation"
 ---
 
 # SemSight: Probabilistic Bird's-Eye-View Prediction of Multi-Level Scene Semantics for Navigation

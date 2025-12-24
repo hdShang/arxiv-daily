@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CLM: Removing the GPU Memory Barrier for 3D Gaussian Splatting
+title: "CLM: Removing the GPU Memory Barrier for 3D Gaussian Splatting"
 ---
 
 # CLM: Removing the GPU Memory Barrier for 3D Gaussian Splatting

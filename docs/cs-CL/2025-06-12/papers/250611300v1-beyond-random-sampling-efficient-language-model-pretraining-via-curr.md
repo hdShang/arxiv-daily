@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Random Sampling: Efficient Language Model Pretraining via Curriculum Learning
+title: "Beyond Random Sampling: Efficient Language Model Pretraining via Curriculum Learning"
 ---
 
 # Beyond Random Sampling: Efficient Language Model Pretraining via Curriculum Learning

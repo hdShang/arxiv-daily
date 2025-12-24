@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HERO: Hierarchical Extrapolation and Refresh for Efficient World Models
+title: "HERO: Hierarchical Extrapolation and Refresh for Efficient World Models"
 ---
 
 # HERO: Hierarchical Extrapolation and Refresh for Efficient World Models

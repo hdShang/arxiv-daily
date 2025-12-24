@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Plain Text to Poetic Form: Generating Metrically-Constrained Sanskrit Verses
+title: "From Plain Text to Poetic Form: Generating Metrically-Constrained Sanskrit Verses"
 ---
 
 # From Plain Text to Poetic Form: Generating Metrically-Constrained Sanskrit Verses

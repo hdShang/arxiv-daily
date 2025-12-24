@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GENMO: A GENeralist Model for Human MOtion
+title: "GENMO: A GENeralist Model for Human MOtion"
 ---
 
 # GENMO: A GENeralist Model for Human MOtion

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Graph-MLLM: Harnessing Multimodal Large Language Models for Multimodal Graph Learning
+title: "Graph-MLLM: Harnessing Multimodal Large Language Models for Multimodal Graph Learning"
 ---
 
 # Graph-MLLM: Harnessing Multimodal Large Language Models for Multimodal Graph Learning

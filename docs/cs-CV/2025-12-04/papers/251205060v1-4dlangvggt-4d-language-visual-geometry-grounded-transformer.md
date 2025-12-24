@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4DLangVGGT: 4D Language-Visual Geometry Grounded Transformer
+title: "4DLangVGGT: 4D Language-Visual Geometry Grounded Transformer"
 ---
 
 # 4DLangVGGT: 4D Language-Visual Geometry Grounded Transformer

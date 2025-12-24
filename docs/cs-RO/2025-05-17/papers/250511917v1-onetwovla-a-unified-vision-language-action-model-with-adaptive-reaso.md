@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning
+title: "OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning"
 ---
 
 # OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning

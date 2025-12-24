@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Masquerade: Learning from In-the-wild Human Videos using Data-Editing
+title: "Masquerade: Learning from In-the-wild Human Videos using Data-Editing"
 ---
 
 # Masquerade: Learning from In-the-wild Human Videos using Data-Editing

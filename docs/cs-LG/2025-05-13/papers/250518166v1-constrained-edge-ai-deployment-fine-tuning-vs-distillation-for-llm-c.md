@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Constrained Edge AI Deployment: Fine-Tuning vs Distillation for LLM Compression
+title: "Constrained Edge AI Deployment: Fine-Tuning vs Distillation for LLM Compression"
 ---
 
 # Constrained Edge AI Deployment: Fine-Tuning vs Distillation for LLM Compression

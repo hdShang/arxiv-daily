@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WildSpeech-Bench: Benchmarking End-to-End SpeechLLMs in the Wild
+title: "WildSpeech-Bench: Benchmarking End-to-End SpeechLLMs in the Wild"
 ---
 
 # WildSpeech-Bench: Benchmarking End-to-End SpeechLLMs in the Wild

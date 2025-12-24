@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeepfakeBench-MM: A Comprehensive Benchmark for Multimodal Deepfake Detection
+title: "DeepfakeBench-MM: A Comprehensive Benchmark for Multimodal Deepfake Detection"
 ---
 
 # DeepfakeBench-MM: A Comprehensive Benchmark for Multimodal Deepfake Detection

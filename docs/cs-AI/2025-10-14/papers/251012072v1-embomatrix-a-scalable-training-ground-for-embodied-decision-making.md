@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EmboMatrix: A Scalable Training-Ground for Embodied Decision-Making
+title: "EmboMatrix: A Scalable Training-Ground for Embodied Decision-Making"
 ---
 
 # EmboMatrix: A Scalable Training-Ground for Embodied Decision-Making

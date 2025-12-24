@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Empathy Omni: Enabling Empathetic Speech Response Generation through Large Language Models
+title: "Empathy Omni: Enabling Empathetic Speech Response Generation through Large Language Models"
 ---
 
 # Empathy Omni: Enabling Empathetic Speech Response Generation through Large Language Models

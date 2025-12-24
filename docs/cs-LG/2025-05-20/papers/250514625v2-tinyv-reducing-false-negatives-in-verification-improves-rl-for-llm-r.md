@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TinyV: Reducing False Negatives in Verification Improves RL for LLM Reasoning
+title: "TinyV: Reducing False Negatives in Verification Improves RL for LLM Reasoning"
 ---
 
 # TinyV: Reducing False Negatives in Verification Improves RL for LLM Reasoning

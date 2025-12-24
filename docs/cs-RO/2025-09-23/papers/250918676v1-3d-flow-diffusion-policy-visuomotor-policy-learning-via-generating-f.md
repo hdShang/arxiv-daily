@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3D Flow Diffusion Policy: Visuomotor Policy Learning via Generating Flow in 3D Space
+title: "3D Flow Diffusion Policy: Visuomotor Policy Learning via Generating Flow in 3D Space"
 ---
 
 # 3D Flow Diffusion Policy: Visuomotor Policy Learning via Generating Flow in 3D Space

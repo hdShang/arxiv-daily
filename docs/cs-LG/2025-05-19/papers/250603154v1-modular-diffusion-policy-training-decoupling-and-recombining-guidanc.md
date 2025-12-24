@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Modular Diffusion Policy Training: Decoupling and Recombining Guidance and Diffusion for Offline RL
+title: "Modular Diffusion Policy Training: Decoupling and Recombining Guidance and Diffusion for Offline RL"
 ---
 
 # Modular Diffusion Policy Training: Decoupling and Recombining Guidance and Diffusion for Offline RL

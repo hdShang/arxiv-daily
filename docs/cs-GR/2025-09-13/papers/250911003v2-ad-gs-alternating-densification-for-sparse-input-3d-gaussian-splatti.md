@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AD-GS: Alternating Densification for Sparse-Input 3D Gaussian Splatting
+title: "AD-GS: Alternating Densification for Sparse-Input 3D Gaussian Splatting"
 ---
 
 # AD-GS: Alternating Densification for Sparse-Input 3D Gaussian Splatting

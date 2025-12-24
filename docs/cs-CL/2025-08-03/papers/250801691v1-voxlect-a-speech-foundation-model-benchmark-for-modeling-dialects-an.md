@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Voxlect: A Speech Foundation Model Benchmark for Modeling Dialects and Regional Languages Around the Globe
+title: "Voxlect: A Speech Foundation Model Benchmark for Modeling Dialects and Regional Languages Around the Globe"
 ---
 
 # Voxlect: A Speech Foundation Model Benchmark for Modeling Dialects and Regional Languages Around the Globe

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MULE: Multi-terrain and Unknown Load Adaptation for Effective Quadrupedal Locomotion
+title: "MULE: Multi-terrain and Unknown Load Adaptation for Effective Quadrupedal Locomotion"
 ---
 
 # MULE: Multi-terrain and Unknown Load Adaptation for Effective Quadrupedal Locomotion

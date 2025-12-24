@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Duawlfin: A Drone with Unified Actuation for Wheeled Locomotion and Flight Operation
+title: "Duawlfin: A Drone with Unified Actuation for Wheeled Locomotion and Flight Operation"
 ---
 
 # Duawlfin: A Drone with Unified Actuation for Wheeled Locomotion and Flight Operation

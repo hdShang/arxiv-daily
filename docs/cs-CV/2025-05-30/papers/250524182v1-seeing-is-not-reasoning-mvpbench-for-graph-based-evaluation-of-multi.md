@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seeing is Not Reasoning: MVPBench for Graph-based Evaluation of Multi-path Visual Physical CoT
+title: "Seeing is Not Reasoning: MVPBench for Graph-based Evaluation of Multi-path Visual Physical CoT"
 ---
 
 # Seeing is Not Reasoning: MVPBench for Graph-based Evaluation of Multi-path Visual Physical CoT

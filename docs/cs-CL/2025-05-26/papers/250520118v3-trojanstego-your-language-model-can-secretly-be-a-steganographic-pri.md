@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TrojanStego: Your Language Model Can Secretly Be A Steganographic Privacy Leaking Agent
+title: "TrojanStego: Your Language Model Can Secretly Be A Steganographic Privacy Leaking Agent"
 ---
 
 # TrojanStego: Your Language Model Can Secretly Be A Steganographic Privacy Leaking Agent

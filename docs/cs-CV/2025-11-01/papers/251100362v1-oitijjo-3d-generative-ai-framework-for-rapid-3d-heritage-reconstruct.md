@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Oitijjo-3D: Generative AI Framework for Rapid 3D Heritage Reconstruction from Street View Imagery
+title: "Oitijjo-3D: Generative AI Framework for Rapid 3D Heritage Reconstruction from Street View Imagery"
 ---
 
 # Oitijjo-3D: Generative AI Framework for Rapid 3D Heritage Reconstruction from Street View Imagery

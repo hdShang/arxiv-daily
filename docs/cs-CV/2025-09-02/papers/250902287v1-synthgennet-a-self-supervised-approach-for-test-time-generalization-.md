@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SynthGenNet: a self-supervised approach for test-time generalization using synthetic multi-source domain mixing of street view images
+title: "SynthGenNet: a self-supervised approach for test-time generalization using synthetic multi-source domain mixing of street view images"
 ---
 
 # SynthGenNet: a self-supervised approach for test-time generalization using synthetic multi-source domain mixing of street view images

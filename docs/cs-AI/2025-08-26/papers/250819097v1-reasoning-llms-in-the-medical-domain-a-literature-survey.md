@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reasoning LLMs in the Medical Domain: A Literature Survey
+title: "Reasoning LLMs in the Medical Domain: A Literature Survey"
 ---
 
 # Reasoning LLMs in the Medical Domain: A Literature Survey

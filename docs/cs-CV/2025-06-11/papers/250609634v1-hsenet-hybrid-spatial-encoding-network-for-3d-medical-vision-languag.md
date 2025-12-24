@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HSENet: Hybrid Spatial Encoding Network for 3D Medical Vision-Language Understanding
+title: "HSENet: Hybrid Spatial Encoding Network for 3D Medical Vision-Language Understanding"
 ---
 
 # HSENet: Hybrid Spatial Encoding Network for 3D Medical Vision-Language Understanding

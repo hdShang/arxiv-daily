@@ -1,6 +1,6 @@
 ---
 layout: default
-title: No for Some, Yes for Others: Persona Prompts and Other Sources of False Refusal in Language Models
+title: "No for Some, Yes for Others: Persona Prompts and Other Sources of False Refusal in Language Models"
 ---
 
 # No for Some, Yes for Others: Persona Prompts and Other Sources of False Refusal in Language Models

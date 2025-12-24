@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VGR: Visual Grounded Reasoning
+title: "VGR: Visual Grounded Reasoning"
 ---
 
 # VGR: Visual Grounded Reasoning

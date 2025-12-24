@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Robix: A Unified Model for Robot Interaction, Reasoning and Planning
+title: "Robix: A Unified Model for Robot Interaction, Reasoning and Planning"
 ---
 
 # Robix: A Unified Model for Robot Interaction, Reasoning and Planning

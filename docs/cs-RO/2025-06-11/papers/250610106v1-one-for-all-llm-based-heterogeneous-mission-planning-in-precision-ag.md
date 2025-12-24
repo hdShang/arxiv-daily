@@ -1,6 +1,6 @@
 ---
 layout: default
-title: One For All: LLM-based Heterogeneous Mission Planning in Precision Agriculture
+title: "One For All: LLM-based Heterogeneous Mission Planning in Precision Agriculture"
 ---
 
 # One For All: LLM-based Heterogeneous Mission Planning in Precision Agriculture

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DemoSpeedup: Accelerating Visuomotor Policies via Entropy-Guided Demonstration Acceleration
+title: "DemoSpeedup: Accelerating Visuomotor Policies via Entropy-Guided Demonstration Acceleration"
 ---
 
 # DemoSpeedup: Accelerating Visuomotor Policies via Entropy-Guided Demonstration Acceleration

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DSADF: Thinking Fast and Slow for Decision Making
+title: "DSADF: Thinking Fast and Slow for Decision Making"
 ---
 
 # DSADF: Thinking Fast and Slow for Decision Making

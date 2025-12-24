@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TaleForge: Interactive Multimodal System for Personalized Story Creation
+title: "TaleForge: Interactive Multimodal System for Personalized Story Creation"
 ---
 
 # TaleForge: Interactive Multimodal System for Personalized Story Creation

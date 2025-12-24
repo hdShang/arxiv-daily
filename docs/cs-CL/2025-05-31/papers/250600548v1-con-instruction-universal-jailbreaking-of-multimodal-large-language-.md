@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Con Instruction: Universal Jailbreaking of Multimodal Large Language Models via Non-Textual Modalities
+title: "Con Instruction: Universal Jailbreaking of Multimodal Large Language Models via Non-Textual Modalities"
 ---
 
 # Con Instruction: Universal Jailbreaking of Multimodal Large Language Models via Non-Textual Modalities

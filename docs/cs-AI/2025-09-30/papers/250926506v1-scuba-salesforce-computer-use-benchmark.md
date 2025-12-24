@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SCUBA: Salesforce Computer Use Benchmark
+title: "SCUBA: Salesforce Computer Use Benchmark"
 ---
 
 # SCUBA: Salesforce Computer Use Benchmark

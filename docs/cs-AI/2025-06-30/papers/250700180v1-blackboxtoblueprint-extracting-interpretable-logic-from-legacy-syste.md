@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BlackBoxToBlueprint: Extracting Interpretable Logic from Legacy Systems using Reinforcement Learning and Counterfactual Analysis
+title: "BlackBoxToBlueprint: Extracting Interpretable Logic from Legacy Systems using Reinforcement Learning and Counterfactual Analysis"
 ---
 
 # BlackBoxToBlueprint: Extracting Interpretable Logic from Legacy Systems using Reinforcement Learning and Counterfactual Analysis

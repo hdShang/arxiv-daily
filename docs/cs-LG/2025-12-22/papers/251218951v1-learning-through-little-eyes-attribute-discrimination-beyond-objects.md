@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning Through Little Eyes: Attribute Discrimination Beyond Objects
+title: "Learning Through Little Eyes: Attribute Discrimination Beyond Objects"
 ---
 
 # Learning Through Little Eyes: Attribute Discrimination Beyond Objects

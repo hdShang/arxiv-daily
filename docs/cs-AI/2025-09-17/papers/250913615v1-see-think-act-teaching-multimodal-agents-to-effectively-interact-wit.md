@@ -1,6 +1,6 @@
 ---
 layout: default
-title: See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles
+title: "See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles"
 ---
 
 # See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles

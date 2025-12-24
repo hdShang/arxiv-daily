@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seeing Space and Motion: Enhancing Latent Actions with Spatial and Dynamic Awareness for VLA
+title: "Seeing Space and Motion: Enhancing Latent Actions with Spatial and Dynamic Awareness for VLA"
 ---
 
 # Seeing Space and Motion: Enhancing Latent Actions with Spatial and Dynamic Awareness for VLA

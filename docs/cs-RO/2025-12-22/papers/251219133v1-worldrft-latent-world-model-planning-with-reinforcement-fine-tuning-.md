@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WorldRFT: Latent World Model Planning with Reinforcement Fine-Tuning for Autonomous Driving
+title: "WorldRFT: Latent World Model Planning with Reinforcement Fine-Tuning for Autonomous Driving"
 ---
 
 # WorldRFT: Latent World Model Planning with Reinforcement Fine-Tuning for Autonomous Driving

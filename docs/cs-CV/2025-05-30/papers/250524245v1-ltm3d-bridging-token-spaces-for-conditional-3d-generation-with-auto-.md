@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LTM3D: Bridging Token Spaces for Conditional 3D Generation with Auto-Regressive Diffusion Framework
+title: "LTM3D: Bridging Token Spaces for Conditional 3D Generation with Auto-Regressive Diffusion Framework"
 ---
 
 # LTM3D: Bridging Token Spaces for Conditional 3D Generation with Auto-Regressive Diffusion Framework

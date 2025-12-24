@@ -1,6 +1,6 @@
 ---
 layout: default
-title: REMA: A Unified Reasoning Manifold Framework for Interpreting Large Language Model
+title: "REMA: A Unified Reasoning Manifold Framework for Interpreting Large Language Model"
 ---
 
 # REMA: A Unified Reasoning Manifold Framework for Interpreting Large Language Model

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning the Neighborhood: Contrast-Free Multimodal Self-Supervised Molecular Graph Pretraining
+title: "Learning the Neighborhood: Contrast-Free Multimodal Self-Supervised Molecular Graph Pretraining"
 ---
 
 # Learning the Neighborhood: Contrast-Free Multimodal Self-Supervised Molecular Graph Pretraining

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VERM: Leveraging Foundation Models to Create a Virtual Eye for Efficient 3D Robotic Manipulation
+title: "VERM: Leveraging Foundation Models to Create a Virtual Eye for Efficient 3D Robotic Manipulation"
 ---
 
 # VERM: Leveraging Foundation Models to Create a Virtual Eye for Efficient 3D Robotic Manipulation

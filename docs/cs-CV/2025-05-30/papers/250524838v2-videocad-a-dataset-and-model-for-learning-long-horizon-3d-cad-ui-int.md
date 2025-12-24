@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VideoCAD: A Dataset and Model for Learning Long-Horizon 3D CAD UI Interactions from Video
+title: "VideoCAD: A Dataset and Model for Learning Long-Horizon 3D CAD UI Interactions from Video"
 ---
 
 # VideoCAD: A Dataset and Model for Learning Long-Horizon 3D CAD UI Interactions from Video

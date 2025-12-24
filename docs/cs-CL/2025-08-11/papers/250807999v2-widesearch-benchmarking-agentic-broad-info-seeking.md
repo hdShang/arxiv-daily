@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WideSearch: Benchmarking Agentic Broad Info-Seeking
+title: "WideSearch: Benchmarking Agentic Broad Info-Seeking"
 ---
 
 # WideSearch: Benchmarking Agentic Broad Info-Seeking

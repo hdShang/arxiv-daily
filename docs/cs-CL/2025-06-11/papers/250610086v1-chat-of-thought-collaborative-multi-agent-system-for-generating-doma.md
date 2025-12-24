@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chat-of-Thought: Collaborative Multi-Agent System for Generating Domain Specific Information
+title: "Chat-of-Thought: Collaborative Multi-Agent System for Generating Domain Specific Information"
 ---
 
 # Chat-of-Thought: Collaborative Multi-Agent System for Generating Domain Specific Information

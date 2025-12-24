@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LongScape: Advancing Long-Horizon Embodied World Models with Context-Aware MoE
+title: "LongScape: Advancing Long-Horizon Embodied World Models with Context-Aware MoE"
 ---
 
 # LongScape: Advancing Long-Horizon Embodied World Models with Context-Aware MoE

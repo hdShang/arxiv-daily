@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Talking with Oompa Loompas: A novel framework for evaluating linguistic acquisition of LLM agents
+title: "Talking with Oompa Loompas: A novel framework for evaluating linguistic acquisition of LLM agents"
 ---
 
 # Talking with Oompa Loompas: A novel framework for evaluating linguistic acquisition of LLM agents

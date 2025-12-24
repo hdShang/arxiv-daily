@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Veracity: An Open-Source AI Fact-Checking System
+title: "Veracity: An Open-Source AI Fact-Checking System"
 ---
 
 # Veracity: An Open-Source AI Fact-Checking System

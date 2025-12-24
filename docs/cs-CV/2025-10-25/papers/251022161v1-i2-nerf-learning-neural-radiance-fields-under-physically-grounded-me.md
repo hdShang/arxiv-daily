@@ -1,6 +1,6 @@
 ---
 layout: default
-title: I2-NeRF: Learning Neural Radiance Fields Under Physically-Grounded Media Interactions
+title: "I2-NeRF: Learning Neural Radiance Fields Under Physically-Grounded Media Interactions"
 ---
 
 # I2-NeRF: Learning Neural Radiance Fields Under Physically-Grounded Media Interactions

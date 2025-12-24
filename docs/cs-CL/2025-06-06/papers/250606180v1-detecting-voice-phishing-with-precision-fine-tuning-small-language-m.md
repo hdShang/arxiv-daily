@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Detecting Voice Phishing with Precision: Fine-Tuning Small Language Models
+title: "Detecting Voice Phishing with Precision: Fine-Tuning Small Language Models"
 ---
 
 # Detecting Voice Phishing with Precision: Fine-Tuning Small Language Models

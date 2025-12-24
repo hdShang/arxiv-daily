@@ -1,6 +1,6 @@
 ---
 layout: default
-title: REALM: A Real-to-Sim Validated Benchmark for Generalization in Robotic Manipulation
+title: "REALM: A Real-to-Sim Validated Benchmark for Generalization in Robotic Manipulation"
 ---
 
 # REALM: A Real-to-Sim Validated Benchmark for Generalization in Robotic Manipulation

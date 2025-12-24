@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Agentic AI Reasoning for Mobile Edge General Intelligence: Fundamentals, Approaches, and Directions
+title: "Agentic AI Reasoning for Mobile Edge General Intelligence: Fundamentals, Approaches, and Directions"
 ---
 
 # Agentic AI Reasoning for Mobile Edge General Intelligence: Fundamentals, Approaches, and Directions

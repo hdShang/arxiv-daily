@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Revisiting LoRA through the Lens of Parameter Redundancy: Spectral Encoding Helps
+title: "Revisiting LoRA through the Lens of Parameter Redundancy: Spectral Encoding Helps"
 ---
 
 # Revisiting LoRA through the Lens of Parameter Redundancy: Spectral Encoding Helps

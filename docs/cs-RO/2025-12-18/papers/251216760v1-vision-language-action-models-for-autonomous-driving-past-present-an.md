@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future
+title: "Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future"
 ---
 
 # Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future

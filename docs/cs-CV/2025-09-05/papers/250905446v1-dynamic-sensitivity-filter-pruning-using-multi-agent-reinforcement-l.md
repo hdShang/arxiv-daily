@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dynamic Sensitivity Filter Pruning using Multi-Agent Reinforcement Learning For DCNN's
+title: "Dynamic Sensitivity Filter Pruning using Multi-Agent Reinforcement Learning For DCNN's"
 ---
 
 # Dynamic Sensitivity Filter Pruning using Multi-Agent Reinforcement Learning For DCNN's

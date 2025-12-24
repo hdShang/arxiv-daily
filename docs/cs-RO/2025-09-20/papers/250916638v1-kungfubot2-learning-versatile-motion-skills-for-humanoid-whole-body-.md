@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KungfuBot2: Learning Versatile Motion Skills for Humanoid Whole-Body Control
+title: "KungfuBot2: Learning Versatile Motion Skills for Humanoid Whole-Body Control"
 ---
 
 # KungfuBot2: Learning Versatile Motion Skills for Humanoid Whole-Body Control

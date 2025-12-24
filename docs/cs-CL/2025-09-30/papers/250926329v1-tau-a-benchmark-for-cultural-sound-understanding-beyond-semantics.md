@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TAU: A Benchmark for Cultural Sound Understanding Beyond Semantics
+title: "TAU: A Benchmark for Cultural Sound Understanding Beyond Semantics"
 ---
 
 # TAU: A Benchmark for Cultural Sound Understanding Beyond Semantics

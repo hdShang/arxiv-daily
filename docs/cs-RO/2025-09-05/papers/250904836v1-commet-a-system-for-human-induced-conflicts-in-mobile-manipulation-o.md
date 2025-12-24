@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COMMET: A System for Human-Induced Conflicts in Mobile Manipulation of Everyday Tasks
+title: "COMMET: A System for Human-Induced Conflicts in Mobile Manipulation of Everyday Tasks"
 ---
 
 # COMMET: A System for Human-Induced Conflicts in Mobile Manipulation of Everyday Tasks

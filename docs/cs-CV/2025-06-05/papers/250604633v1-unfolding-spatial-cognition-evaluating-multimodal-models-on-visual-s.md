@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unfolding Spatial Cognition: Evaluating Multimodal Models on Visual Simulations
+title: "Unfolding Spatial Cognition: Evaluating Multimodal Models on Visual Simulations"
 ---
 
 # Unfolding Spatial Cognition: Evaluating Multimodal Models on Visual Simulations

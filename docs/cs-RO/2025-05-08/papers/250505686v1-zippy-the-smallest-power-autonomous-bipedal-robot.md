@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zippy: The smallest power-autonomous bipedal robot
+title: "Zippy: The smallest power-autonomous bipedal robot"
 ---
 
 # Zippy: The smallest power-autonomous bipedal robot

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SEBVS: Synthetic Event-based Visual Servoing for Robot Navigation and Manipulation
+title: "SEBVS: Synthetic Event-based Visual Servoing for Robot Navigation and Manipulation"
 ---
 
 # SEBVS: Synthetic Event-based Visual Servoing for Robot Navigation and Manipulation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeMapGS: Simultaneous Mesh Deformation and Surface Attribute Mapping via Gaussian Splatting
+title: "DeMapGS: Simultaneous Mesh Deformation and Surface Attribute Mapping via Gaussian Splatting"
 ---
 
 # DeMapGS: Simultaneous Mesh Deformation and Surface Attribute Mapping via Gaussian Splatting

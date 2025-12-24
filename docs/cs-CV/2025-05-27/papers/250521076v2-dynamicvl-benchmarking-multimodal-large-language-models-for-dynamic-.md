@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DynamicVL: Benchmarking Multimodal Large Language Models for Dynamic City Understanding
+title: "DynamicVL: Benchmarking Multimodal Large Language Models for Dynamic City Understanding"
 ---
 
 # DynamicVL: Benchmarking Multimodal Large Language Models for Dynamic City Understanding

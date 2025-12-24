@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MODEST: Multi-Optics Depth-of-Field Stereo Dataset
+title: "MODEST: Multi-Optics Depth-of-Field Stereo Dataset"
 ---
 
 # MODEST: Multi-Optics Depth-of-Field Stereo Dataset

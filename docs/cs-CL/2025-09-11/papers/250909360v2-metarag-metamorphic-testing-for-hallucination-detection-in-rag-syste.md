@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MetaRAG: Metamorphic Testing for Hallucination Detection in RAG Systems
+title: "MetaRAG: Metamorphic Testing for Hallucination Detection in RAG Systems"
 ---
 
 # MetaRAG: Metamorphic Testing for Hallucination Detection in RAG Systems

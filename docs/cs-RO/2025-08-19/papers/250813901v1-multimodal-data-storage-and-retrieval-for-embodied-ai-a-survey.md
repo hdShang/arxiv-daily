@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multimodal Data Storage and Retrieval for Embodied AI: A Survey
+title: "Multimodal Data Storage and Retrieval for Embodied AI: A Survey"
 ---
 
 # Multimodal Data Storage and Retrieval for Embodied AI: A Survey

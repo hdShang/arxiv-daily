@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TeleEgo: Benchmarking Egocentric AI Assistants in the Wild
+title: "TeleEgo: Benchmarking Egocentric AI Assistants in the Wild"
 ---
 
 # TeleEgo: Benchmarking Egocentric AI Assistants in the Wild

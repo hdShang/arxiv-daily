@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Columbo: Expanding Abbreviated Column Names for Tabular Data Using Large Language Models
+title: "Columbo: Expanding Abbreviated Column Names for Tabular Data Using Large Language Models"
 ---
 
 # Columbo: Expanding Abbreviated Column Names for Tabular Data Using Large Language Models

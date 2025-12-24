@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CEDex: Cross-Embodiment Dexterous Grasp Generation at Scale from Human-like Contact Representations
+title: "CEDex: Cross-Embodiment Dexterous Grasp Generation at Scale from Human-like Contact Representations"
 ---
 
 # CEDex: Cross-Embodiment Dexterous Grasp Generation at Scale from Human-like Contact Representations

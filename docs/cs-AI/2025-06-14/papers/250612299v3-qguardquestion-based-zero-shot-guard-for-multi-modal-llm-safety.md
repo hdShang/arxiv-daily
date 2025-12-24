@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QGuard:Question-based Zero-shot Guard for Multi-modal LLM Safety
+title: "QGuard:Question-based Zero-shot Guard for Multi-modal LLM Safety"
 ---
 
 # QGuard:Question-based Zero-shot Guard for Multi-modal LLM Safety

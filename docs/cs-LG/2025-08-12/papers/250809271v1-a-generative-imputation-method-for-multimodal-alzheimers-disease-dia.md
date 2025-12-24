@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Generative Imputation Method for Multimodal Alzheimer's Disease Diagnosis
+title: "A Generative Imputation Method for Multimodal Alzheimer's Disease Diagnosis"
 ---
 
 # A Generative Imputation Method for Multimodal Alzheimer's Disease Diagnosis

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NEFMind: Parameter-Efficient Fine-Tuning of Open-Source LLMs for Telecom APIs Automation
+title: "NEFMind: Parameter-Efficient Fine-Tuning of Open-Source LLMs for Telecom APIs Automation"
 ---
 
 # NEFMind: Parameter-Efficient Fine-Tuning of Open-Source LLMs for Telecom APIs Automation

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PixFoundation 2.0: Do Video Multi-Modal LLMs Use Motion in Visual Grounding?
+title: "PixFoundation 2.0: Do Video Multi-Modal LLMs Use Motion in Visual Grounding?"
 ---
 
 # PixFoundation 2.0: Do Video Multi-Modal LLMs Use Motion in Visual Grounding?

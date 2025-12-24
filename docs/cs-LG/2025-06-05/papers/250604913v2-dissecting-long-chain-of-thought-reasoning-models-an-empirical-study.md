@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dissecting Long-Chain-of-Thought Reasoning Models: An Empirical Study
+title: "Dissecting Long-Chain-of-Thought Reasoning Models: An Empirical Study"
 ---
 
 # Dissecting Long-Chain-of-Thought Reasoning Models: An Empirical Study

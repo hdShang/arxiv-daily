@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ming-Omni: A Unified Multimodal Model for Perception and Generation
+title: "Ming-Omni: A Unified Multimodal Model for Perception and Generation"
 ---
 
 # Ming-Omni: A Unified Multimodal Model for Perception and Generation

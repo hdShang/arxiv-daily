@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VeriLoRA: Fine-Tuning Large Language Models with Verifiable Security via Zero-Knowledge Proofs
+title: "VeriLoRA: Fine-Tuning Large Language Models with Verifiable Security via Zero-Knowledge Proofs"
 ---
 
 # VeriLoRA: Fine-Tuning Large Language Models with Verifiable Security via Zero-Knowledge Proofs

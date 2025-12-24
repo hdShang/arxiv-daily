@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Forgetting: A New Mechanism Towards Better Large Language Model Fine-tuning
+title: "Forgetting: A New Mechanism Towards Better Large Language Model Fine-tuning"
 ---
 
 # Forgetting: A New Mechanism Towards Better Large Language Model Fine-tuning

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DecisionFlow: Advancing Large Language Model as Principled Decision Maker
+title: "DecisionFlow: Advancing Large Language Model as Principled Decision Maker"
 ---
 
 # DecisionFlow: Advancing Large Language Model as Principled Decision Maker

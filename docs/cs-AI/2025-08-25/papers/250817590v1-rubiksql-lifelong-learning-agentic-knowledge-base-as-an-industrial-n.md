@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RubikSQL: Lifelong Learning Agentic Knowledge Base as an Industrial NL2SQL System
+title: "RubikSQL: Lifelong Learning Agentic Knowledge Base as an Industrial NL2SQL System"
 ---
 
 # RubikSQL: Lifelong Learning Agentic Knowledge Base as an Industrial NL2SQL System

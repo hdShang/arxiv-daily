@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ReconMOST: Multi-Layer Sea Temperature Reconstruction with Observations-Guided Diffusion
+title: "ReconMOST: Multi-Layer Sea Temperature Reconstruction with Observations-Guided Diffusion"
 ---
 
 # ReconMOST: Multi-Layer Sea Temperature Reconstruction with Observations-Guided Diffusion

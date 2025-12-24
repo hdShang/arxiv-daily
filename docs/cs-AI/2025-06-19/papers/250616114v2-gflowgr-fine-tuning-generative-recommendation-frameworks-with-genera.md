@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks
+title: "GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks"
 ---
 
 # GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks

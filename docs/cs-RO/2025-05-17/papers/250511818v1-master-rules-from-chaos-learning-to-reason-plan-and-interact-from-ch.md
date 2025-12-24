@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Master Rules from Chaos: Learning to Reason, Plan, and Interact from Chaos for Tangram Assembly
+title: "Master Rules from Chaos: Learning to Reason, Plan, and Interact from Chaos for Tangram Assembly"
 ---
 
 # Master Rules from Chaos: Learning to Reason, Plan, and Interact from Chaos for Tangram Assembly

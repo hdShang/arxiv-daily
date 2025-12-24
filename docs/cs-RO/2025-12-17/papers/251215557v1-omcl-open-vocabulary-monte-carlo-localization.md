@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OMCL: Open-vocabulary Monte Carlo Localization
+title: "OMCL: Open-vocabulary Monte Carlo Localization"
 ---
 
 # OMCL: Open-vocabulary Monte Carlo Localization

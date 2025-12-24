@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ask, Reason, Assist: Decentralized Robot Collaboration via Language and Logic
+title: "Ask, Reason, Assist: Decentralized Robot Collaboration via Language and Logic"
 ---
 
 # Ask, Reason, Assist: Decentralized Robot Collaboration via Language and Logic

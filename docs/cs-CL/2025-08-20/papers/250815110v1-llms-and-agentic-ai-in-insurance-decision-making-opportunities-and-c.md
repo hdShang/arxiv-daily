@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LLMs and Agentic AI in Insurance Decision-Making: Opportunities and Challenges For Africa
+title: "LLMs and Agentic AI in Insurance Decision-Making: Opportunities and Challenges For Africa"
 ---
 
 # LLMs and Agentic AI in Insurance Decision-Making: Opportunities and Challenges For Africa

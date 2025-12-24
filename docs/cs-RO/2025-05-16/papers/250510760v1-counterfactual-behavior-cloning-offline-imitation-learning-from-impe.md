@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Counterfactual Behavior Cloning: Offline Imitation Learning from Imperfect Human Demonstrations
+title: "Counterfactual Behavior Cloning: Offline Imitation Learning from Imperfect Human Demonstrations"
 ---
 
 # Counterfactual Behavior Cloning: Offline Imitation Learning from Imperfect Human Demonstrations

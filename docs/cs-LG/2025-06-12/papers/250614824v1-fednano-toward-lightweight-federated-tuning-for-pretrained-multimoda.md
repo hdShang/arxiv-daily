@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FedNano: Toward Lightweight Federated Tuning for Pretrained Multimodal Large Language Models
+title: "FedNano: Toward Lightweight Federated Tuning for Pretrained Multimodal Large Language Models"
 ---
 
 # FedNano: Toward Lightweight Federated Tuning for Pretrained Multimodal Large Language Models

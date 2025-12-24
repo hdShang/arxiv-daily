@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RO-Bench: Large-scale robustness evaluation of MLLMs with text-driven counterfactual videos
+title: "RO-Bench: Large-scale robustness evaluation of MLLMs with text-driven counterfactual videos"
 ---
 
 # RO-Bench: Large-scale robustness evaluation of MLLMs with text-driven counterfactual videos

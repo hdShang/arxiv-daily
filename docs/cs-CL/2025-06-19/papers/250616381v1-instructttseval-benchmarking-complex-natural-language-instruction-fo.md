@@ -1,6 +1,6 @@
 ---
 layout: default
-title: InstructTTSEval: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems
+title: "InstructTTSEval: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems"
 ---
 
 # InstructTTSEval: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems

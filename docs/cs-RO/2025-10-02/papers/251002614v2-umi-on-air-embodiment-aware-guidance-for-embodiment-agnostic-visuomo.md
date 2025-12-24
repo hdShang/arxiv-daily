@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UMI-on-Air: Embodiment-Aware Guidance for Embodiment-Agnostic Visuomotor Policies
+title: "UMI-on-Air: Embodiment-Aware Guidance for Embodiment-Agnostic Visuomotor Policies"
 ---
 
 # UMI-on-Air: Embodiment-Aware Guidance for Embodiment-Agnostic Visuomotor Policies

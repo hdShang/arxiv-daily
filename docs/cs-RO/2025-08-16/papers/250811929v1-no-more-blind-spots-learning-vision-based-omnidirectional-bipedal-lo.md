@@ -1,6 +1,6 @@
 ---
 layout: default
-title: No More Blind Spots: Learning Vision-Based Omnidirectional Bipedal Locomotion for Challenging Terrain
+title: "No More Blind Spots: Learning Vision-Based Omnidirectional Bipedal Locomotion for Challenging Terrain"
 ---
 
 # No More Blind Spots: Learning Vision-Based Omnidirectional Bipedal Locomotion for Challenging Terrain

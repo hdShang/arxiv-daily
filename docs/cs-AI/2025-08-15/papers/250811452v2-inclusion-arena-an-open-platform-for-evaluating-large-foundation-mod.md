@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inclusion Arena: An Open Platform for Evaluating Large Foundation Models with Real-World Apps
+title: "Inclusion Arena: An Open Platform for Evaluating Large Foundation Models with Real-World Apps"
 ---
 
 # Inclusion Arena: An Open Platform for Evaluating Large Foundation Models with Real-World Apps

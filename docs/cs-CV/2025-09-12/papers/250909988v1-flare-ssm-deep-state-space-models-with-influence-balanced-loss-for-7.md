@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FLARE-SSM: Deep State Space Models with Influence-Balanced Loss for 72-Hour Solar Flare Prediction
+title: "FLARE-SSM: Deep State Space Models with Influence-Balanced Loss for 72-Hour Solar Flare Prediction"
 ---
 
 # FLARE-SSM: Deep State Space Models with Influence-Balanced Loss for 72-Hour Solar Flare Prediction

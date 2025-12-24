@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AIPsychoBench: Understanding the Psychometric Differences between LLMs and Humans
+title: "AIPsychoBench: Understanding the Psychometric Differences between LLMs and Humans"
 ---
 
 # AIPsychoBench: Understanding the Psychometric Differences between LLMs and Humans

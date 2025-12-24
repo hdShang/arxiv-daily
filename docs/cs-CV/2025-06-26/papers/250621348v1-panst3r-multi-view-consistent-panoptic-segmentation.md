@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PanSt3R: Multi-view Consistent Panoptic Segmentation
+title: "PanSt3R: Multi-view Consistent Panoptic Segmentation"
 ---
 
 # PanSt3R: Multi-view Consistent Panoptic Segmentation

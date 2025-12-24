@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TSPO: Temporal Sampling Policy Optimization for Long-form Video Language Understanding
+title: "TSPO: Temporal Sampling Policy Optimization for Long-form Video Language Understanding"
 ---
 
 # TSPO: Temporal Sampling Policy Optimization for Long-form Video Language Understanding

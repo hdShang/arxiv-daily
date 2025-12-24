@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DyGSSM: Multi-view Dynamic Graph Embeddings with State Space Model Gradient Update
+title: "DyGSSM: Multi-view Dynamic Graph Embeddings with State Space Model Gradient Update"
 ---
 
 # DyGSSM: Multi-view Dynamic Graph Embeddings with State Space Model Gradient Update

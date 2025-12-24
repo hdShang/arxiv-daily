@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Applying Large Language Models to Issue Classification: Revisiting with Extended Data and New Models
+title: "Applying Large Language Models to Issue Classification: Revisiting with Extended Data and New Models"
 ---
 
 # Applying Large Language Models to Issue Classification: Revisiting with Extended Data and New Models

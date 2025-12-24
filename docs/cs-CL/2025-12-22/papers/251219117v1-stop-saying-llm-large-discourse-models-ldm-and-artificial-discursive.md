@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stop saying LLM: Large Discourse Models (LDM) and Artificial Discursive Agent (ADA)?
+title: "Stop saying LLM: Large Discourse Models (LDM) and Artificial Discursive Agent (ADA)?"
 ---
 
 # Stop saying LLM: Large Discourse Models (LDM) and Artificial Discursive Agent (ADA)?

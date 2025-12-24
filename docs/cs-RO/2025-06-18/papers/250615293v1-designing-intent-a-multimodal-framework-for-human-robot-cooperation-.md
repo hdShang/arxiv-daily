@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Designing Intent: A Multimodal Framework for Human-Robot Cooperation in Industrial Workspaces
+title: "Designing Intent: A Multimodal Framework for Human-Robot Cooperation in Industrial Workspaces"
 ---
 
 # Designing Intent: A Multimodal Framework for Human-Robot Cooperation in Industrial Workspaces

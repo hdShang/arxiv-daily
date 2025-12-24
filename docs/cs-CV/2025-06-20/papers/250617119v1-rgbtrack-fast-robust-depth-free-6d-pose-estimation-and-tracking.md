@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RGBTrack: Fast, Robust Depth-Free 6D Pose Estimation and Tracking
+title: "RGBTrack: Fast, Robust Depth-Free 6D Pose Estimation and Tracking"
 ---
 
 # RGBTrack: Fast, Robust Depth-Free 6D Pose Estimation and Tracking

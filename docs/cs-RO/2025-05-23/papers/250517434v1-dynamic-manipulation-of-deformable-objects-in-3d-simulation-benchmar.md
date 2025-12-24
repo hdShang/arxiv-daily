@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dynamic Manipulation of Deformable Objects in 3D: Simulation, Benchmark and Learning Strategy
+title: "Dynamic Manipulation of Deformable Objects in 3D: Simulation, Benchmark and Learning Strategy"
 ---
 
 # Dynamic Manipulation of Deformable Objects in 3D: Simulation, Benchmark and Learning Strategy

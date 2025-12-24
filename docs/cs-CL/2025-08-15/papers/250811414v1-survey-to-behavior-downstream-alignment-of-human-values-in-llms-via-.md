@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Survey-to-Behavior: Downstream Alignment of Human Values in LLMs via Survey Questions
+title: "Survey-to-Behavior: Downstream Alignment of Human Values in LLMs via Survey Questions"
 ---
 
 # Survey-to-Behavior: Downstream Alignment of Human Values in LLMs via Survey Questions

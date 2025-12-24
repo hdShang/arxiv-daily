@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs
+title: "Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs"
 ---
 
 # Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs

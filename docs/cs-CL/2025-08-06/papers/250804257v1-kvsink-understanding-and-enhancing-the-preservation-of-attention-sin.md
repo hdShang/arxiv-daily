@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KVSink: Understanding and Enhancing the Preservation of Attention Sinks in KV Cache Quantization for LLMs
+title: "KVSink: Understanding and Enhancing the Preservation of Attention Sinks in KV Cache Quantization for LLMs"
 ---
 
 # KVSink: Understanding and Enhancing the Preservation of Attention Sinks in KV Cache Quantization for LLMs

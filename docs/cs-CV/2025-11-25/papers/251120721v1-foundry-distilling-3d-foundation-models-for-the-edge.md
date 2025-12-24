@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Foundry: Distilling 3D Foundation Models for the Edge
+title: "Foundry: Distilling 3D Foundation Models for the Edge"
 ---
 
 # Foundry: Distilling 3D Foundation Models for the Edge

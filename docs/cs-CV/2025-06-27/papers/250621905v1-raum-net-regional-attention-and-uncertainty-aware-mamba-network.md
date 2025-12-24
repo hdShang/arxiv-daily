@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RAUM-Net: Regional Attention and Uncertainty-aware Mamba Network
+title: "RAUM-Net: Regional Attention and Uncertainty-aware Mamba Network"
 ---
 
 # RAUM-Net: Regional Attention and Uncertainty-aware Mamba Network

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ORACLE-Grasp: Zero-Shot Task-Oriented Robotic Grasping using Large Multimodal Models
+title: "ORACLE-Grasp: Zero-Shot Task-Oriented Robotic Grasping using Large Multimodal Models"
 ---
 
 # ORACLE-Grasp: Zero-Shot Task-Oriented Robotic Grasping using Large Multimodal Models

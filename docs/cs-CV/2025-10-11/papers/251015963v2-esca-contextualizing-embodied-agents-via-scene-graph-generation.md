@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ESCA: Contextualizing Embodied Agents via Scene-Graph Generation
+title: "ESCA: Contextualizing Embodied Agents via Scene-Graph Generation"
 ---
 
 # ESCA: Contextualizing Embodied Agents via Scene-Graph Generation

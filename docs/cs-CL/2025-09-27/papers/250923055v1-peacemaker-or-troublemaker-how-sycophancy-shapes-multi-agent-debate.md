@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Peacemaker or Troublemaker: How Sycophancy Shapes Multi-Agent Debate
+title: "Peacemaker or Troublemaker: How Sycophancy Shapes Multi-Agent Debate"
 ---
 
 # Peacemaker or Troublemaker: How Sycophancy Shapes Multi-Agent Debate

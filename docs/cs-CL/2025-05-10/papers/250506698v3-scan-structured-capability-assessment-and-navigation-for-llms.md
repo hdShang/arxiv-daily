@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SCAN: Structured Capability Assessment and Navigation for LLMs
+title: "SCAN: Structured Capability Assessment and Navigation for LLMs"
 ---
 
 # SCAN: Structured Capability Assessment and Navigation for LLMs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Agent4S: The Transformation of Research Paradigms from the Perspective of Large Language Models
+title: "Agent4S: The Transformation of Research Paradigms from the Perspective of Large Language Models"
 ---
 
 # Agent4S: The Transformation of Research Paradigms from the Perspective of Large Language Models

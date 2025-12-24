@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Chat to Checkup: Can Large Language Models Assist in Diabetes Prediction?
+title: "From Chat to Checkup: Can Large Language Models Assist in Diabetes Prediction?"
 ---
 
 # From Chat to Checkup: Can Large Language Models Assist in Diabetes Prediction?

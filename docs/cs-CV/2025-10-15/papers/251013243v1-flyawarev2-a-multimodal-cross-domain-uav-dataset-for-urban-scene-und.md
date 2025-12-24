@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FlyAwareV2: A Multimodal Cross-Domain UAV Dataset for Urban Scene Understanding
+title: "FlyAwareV2: A Multimodal Cross-Domain UAV Dataset for Urban Scene Understanding"
 ---
 
 # FlyAwareV2: A Multimodal Cross-Domain UAV Dataset for Urban Scene Understanding

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quantum Machine Learning and Grover's Algorithm for Quantum Optimization of Robotic Manipulators
+title: "Quantum Machine Learning and Grover's Algorithm for Quantum Optimization of Robotic Manipulators"
 ---
 
 # Quantum Machine Learning and Grover's Algorithm for Quantum Optimization of Robotic Manipulators

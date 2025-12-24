@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Odysseus: Jailbreaking Commercial Multimodal LLM-integrated Systems via Dual Steganography
+title: "Odysseus: Jailbreaking Commercial Multimodal LLM-integrated Systems via Dual Steganography"
 ---
 
 # Odysseus: Jailbreaking Commercial Multimodal LLM-integrated Systems via Dual Steganography

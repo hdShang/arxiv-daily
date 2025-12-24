@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From Far and Near: Perceptual Evaluation of Crowd Representations Across Levels of Detail
+title: "From Far and Near: Perceptual Evaluation of Crowd Representations Across Levels of Detail"
 ---
 
 # From Far and Near: Perceptual Evaluation of Crowd Representations Across Levels of Detail

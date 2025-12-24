@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SPANER: Shared Prompt Aligner for Multimodal Semantic Representation
+title: "SPANER: Shared Prompt Aligner for Multimodal Semantic Representation"
 ---
 
 # SPANER: Shared Prompt Aligner for Multimodal Semantic Representation

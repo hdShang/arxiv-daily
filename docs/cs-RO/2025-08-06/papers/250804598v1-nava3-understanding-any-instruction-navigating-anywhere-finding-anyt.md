@@ -1,6 +1,6 @@
 ---
 layout: default
-title: $NavA^3$: Understanding Any Instruction, Navigating Anywhere, Finding Anything
+title: "$NavA^3$: Understanding Any Instruction, Navigating Anywhere, Finding Anything"
 ---
 
 # $NavA^3$: Understanding Any Instruction, Navigating Anywhere, Finding Anything

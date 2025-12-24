@@ -1,6 +1,6 @@
 ---
 layout: default
-title: XGrasp: Gripper-Aware Grasp Detection with Multi-Gripper Data Generation
+title: "XGrasp: Gripper-Aware Grasp Detection with Multi-Gripper Data Generation"
 ---
 
 # XGrasp: Gripper-Aware Grasp Detection with Multi-Gripper Data Generation

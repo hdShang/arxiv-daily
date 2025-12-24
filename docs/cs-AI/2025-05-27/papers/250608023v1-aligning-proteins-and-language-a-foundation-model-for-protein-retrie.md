@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aligning Proteins and Language: A Foundation Model for Protein Retrieval
+title: "Aligning Proteins and Language: A Foundation Model for Protein Retrieval"
 ---
 
 # Aligning Proteins and Language: A Foundation Model for Protein Retrieval
