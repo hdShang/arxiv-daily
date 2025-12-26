@@ -2,3 +2,32 @@ theme: jekyll-theme-cayman
 markdown: kramdown
 kramdown:
   input: GFM
+
+# 排除不需要的文件
+exclude:
+  - "*.json"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules"
+  - "vendor"
+
+# ======== 优化构建速度 ========
+# 禁用相对链接自动转换（这是最耗时的插件！）
+relative_links:
+  enabled: false
+  collections: false
+
+# 禁用可选的 front matter 处理
+optional_front_matter:
+  enabled: false
+
+# 禁用自动从 README 生成索引
+readme_index:
+  enabled: false
+
+# 禁用从标题自动生成 title
+titles_from_headings:
+  enabled: false
+
+# 禁用默认布局自动分配（我们已在每个文件中指定）
+defaults: []
